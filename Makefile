@@ -20,6 +20,7 @@ LOCALES = ar \
 	  fr \
 	  it \
 	  ja \
+	  km \
 	  ko \
 	  nl \
 	  pa \
@@ -27,6 +28,7 @@ LOCALES = ar \
 	  pt_BR \
 	  pt \
 	  ru \
+	  sl \
 	  sv \
 	  tr \
 	  uk \
