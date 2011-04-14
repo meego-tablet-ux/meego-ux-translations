@@ -7,6 +7,33 @@ TX_PRJ = projects/p/meego-ux/r/meego-1-2/
 
 L10N_DIR = $(DESTDIR)/usr/share/qt4/translations/
 
+LOCALES = ar \
+	  ast \
+	  cs \
+	  de \
+	  el \
+	  en_GB \
+	  en_US \
+	  es \
+	  eu \
+	  fi \
+	  fr \
+	  it \
+	  ja \
+	  ko \
+	  nl \
+	  pa \
+	  pl \
+	  pt_BR \
+	  pt \
+	  ru \
+	  sv \
+	  tr \
+	  uk \
+	  wa \
+	  zh_CN \
+	  zh_TW
+
 TSS = $(wildcard translations/*/*.ts)
 QMS = $(patsubst %.ts, %.qm, $(TSS))
 
@@ -17,7 +44,8 @@ pull:
 		tx init --host $(TX_URL); \
 		tx set --auto-remote $(TX_URL)$(TX_PRJ); \
 	fi
-	tx pull -a
+	localelist=`echo $(LOCALES) | sed 's/ /,/g'`
+	tx pull -f -s -l "$$localelist"
 
 %.qm: %.ts Makefile
 	lrelease $< -qm $@
