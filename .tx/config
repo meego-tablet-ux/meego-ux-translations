@@ -1,0 +1,183 @@
+[meego-settings-socialweb.ux-settings-socialweb-1-2]
+file_filter = translations/meego-ux-settings-socialweb/meego-ux-settings-socialweb_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-settings-socialweb/meego-ux-settings-socialweb_en.ts
+source_lang = en
+
+[meego-components.labs-ux-components-1-2]
+file_filter = translations/meegolabs-ux-components/meegolabs-ux-components_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meegolabs-ux-components/meegolabs-ux-components_en.ts
+source_lang = en
+
+[meego-components.ux-components-1-2]
+file_filter = translations/meego-ux-components/meego-ux-components_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-components/meego-ux-components_en.ts
+source_lang = en
+
+[meego-sharing-socialweb.ux-sharing-socialweb-plugin-1-2]
+file_filter = translations/meego-ux-sharing-socialweb-plugin/meego-ux-sharing-socialweb-plugin_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-sharing-socialweb-plugin/meego-ux-sharing-socialweb-plugin_en.ts
+source_lang = en
+
+[meego-sharing-socialweb.ux-sharing-socialweb-qml-1-2]
+file_filter = translations/meego-ux-sharing-socialweb-qml/meego-ux-sharing-socialweb-qml_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-sharing-socialweb-qml/meego-ux-sharing-socialweb-qml_en.ts
+source_lang = en
+
+[meego-email.app-email-1-2]
+file_filter = translations/meego-app-email/meego-app-email_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-app-email/meego-app-email_en.ts
+source_lang = en
+
+[meego-calculator.app-calculator-1-2]
+file_filter = translations/meego-app-calculator/meego-app-calculator_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-app-calculator/meego-app-calculator_en.ts
+source_lang = en
+
+[meego-appgrid.ux-appgrid-1-2]
+file_filter = translations/meego-ux-appgrid/meego-ux-appgrid_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-appgrid/meego-ux-appgrid_en.ts
+source_lang = en
+
+[meego-photos.app-photos-1-2]
+file_filter = translations/meego-app-photos/meego-app-photos_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-app-photos/meego-app-photos_en.ts
+source_lang = en
+
+[meego-music.app-music-1-2]
+file_filter = translations/meego-app-music/meego-app-music_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-app-music/meego-app-music_en.ts
+source_lang = en
+
+[meego-panels.ux-panels-1-2]
+file_filter = translations/meego-ux-panels/meego-ux-panels_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-panels/meego-ux-panels_en.ts
+source_lang = en
+
+[meego-clocks.app-clocks-1-2]
+file_filter = translations/meego-app-clocks/meego-app-clocks_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-app-clocks/meego-app-clocks_en.ts
+source_lang = en
+
+[meego-daemon.ux-daemon-1-2]
+file_filter = translations/meego-ux-daemon/meego-ux-daemon_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-daemon/meego-ux-daemon_en.ts
+source_lang = en
+
+[meego-sharing-email.ux-sharing-email-1-2]
+file_filter = translations/meego-ux-sharing-email/meego-ux-sharing-email_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-sharing-email/meego-ux-sharing-email_en.ts
+source_lang = en
+
+[meego-video.app-video-1-2]
+file_filter = translations/meego-app-video/meego-app-video_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-app-video/meego-app-video_en.ts
+source_lang = en
+
+[meego-camera.app-camera-1-2]
+file_filter = translations/meego-app-camera/meego-app-camera_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-app-camera/meego-app-camera_en.ts
+source_lang = en
+
+[meego-im.app-im-1-2]
+file_filter = translations/meego-app-im/meego-app-im_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-app-im/meego-app-im_en.ts
+source_lang = en
+
+[main]
+host = http://www.transifex.net/
+
+[meego-app-tasks.app-tasks-1-2]
+file_filter = translations/meego-app-tasks/meego-app-tasks_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-app-tasks/meego-app-tasks_en.ts
+source_lang = en
+
+[meego-calendar.app-calendar-1-2]
+file_filter = translations/meego-app-calendar/meego-app-calendar_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-app-calendar/meego-app-calendar_en.ts
+source_lang = en
+
+[meego-contacts.app-contacts-1-2]
+file_filter = translations/meego-app-contacts/meego-app-contacts_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-app-contacts/meego-app-contacts_en.ts
+source_lang = en
+
+[meego-settings.ux-settings-1-2]
+file_filter = translations/meego-ux-settings/meego-ux-settings_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-settings/meego-ux-settings_en.ts
+source_lang = en
+
+[meego-media.ux-media-qml-1-2]
+file_filter = translations/meego-ux-media-qml/meego-ux-media-qml_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-media-qml/meego-ux-media-qml_en.ts
+source_lang = en
+
+[meego-notes.app-notes-1-2]
+file_filter = translations/meego-app-notes/meego-app-notes_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-app-notes/meego-app-notes_en.ts
+source_lang = en
+
+[meego-panels.ux-panels-friends-1-2]
+file_filter = translations/meego-ux-panels-friends/meego-ux-panels-friends_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-panels-friends/meego-ux-panels-friends_en.ts
+source_lang = en
+
+[meego-panels.ux-panels-music-1-2]
+file_filter = translations/meego-ux-panels-music/meego-ux-panels-music_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-panels-music/meego-ux-panels-music_en.ts
+source_lang = en
+
+[meego-panels.ux-panels-mytablet-1-2]
+file_filter = translations/meego-ux-panels-mytablet/meego-ux-panels-mytablet_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-panels-mytablet/meego-ux-panels-mytablet_en.ts
+source_lang = en
+
+[meego-panels.ux-panels-photos-1-2]
+file_filter = translations/meego-ux-panels-photos/meego-ux-panels-photos_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-panels-photos/meego-ux-panels-photos_en.ts
+source_lang = en
+
+[meego-panels.ux-panels-video-1-2]
+file_filter = translations/meego-ux-panels-video/meego-ux-panels-video_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-panels-video/meego-ux-panels-video_en.ts
+source_lang = en
+
+[meego-panels.ux-panels-web-1-2]
+file_filter = translations/meego-ux-panels-web/meego-ux-panels-web_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-ux-panels-web/meego-ux-panels-web_en.ts
+source_lang = en
+
+[meego-browser.app-browser-1-2]
+file_filter = translations/meego-app-browser/meego-app-browser_<lang>.ts
+host = http://www.transifex.net
+source_file = translations/meego-app-browser/meego-app-browser_en.ts
+source_lang = en
+
