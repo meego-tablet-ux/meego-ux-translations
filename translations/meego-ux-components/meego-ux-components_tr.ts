@@ -5,154 +5,154 @@
         <location filename="../../src/components/ux/DatePicker.qml" line="221"/>
         <location filename="../../src/components/ux/DatePicker.qml" line="227"/>
         <source>S</source>
-        <translation/>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="222"/>
         <source>M</source>
-        <translation/>
+        <translation>M</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="223"/>
         <location filename="../../src/components/ux/DatePicker.qml" line="225"/>
         <source>T</source>
-        <translation/>
+        <translation>T</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="224"/>
         <source>W</source>
-        <translation/>
+        <translation>W</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="226"/>
         <source>F</source>
-        <translation/>
+        <translation>F</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="229"/>
         <source>Jan</source>
-        <translation/>
+        <translation>Oca</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="230"/>
         <source>Feb</source>
-        <translation/>
+        <translation>Şub</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="231"/>
         <source>Mar</source>
-        <translation/>
+        <translation>Mar</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="232"/>
         <source>Apr</source>
-        <translation/>
+        <translation>Nis</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="233"/>
         <location filename="../../src/components/ux/DatePicker.qml" line="246"/>
         <source>May</source>
-        <translation/>
+        <translation>May</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="234"/>
         <source>Jun</source>
-        <translation/>
+        <translation>Haz</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="235"/>
         <source>Jul</source>
-        <translation/>
+        <translation>Tem</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="236"/>
         <source>Aug</source>
-        <translation/>
+        <translation>Ağu</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="237"/>
         <source>Sep</source>
-        <translation/>
+        <translation>Eyl</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="238"/>
         <source>Oct</source>
-        <translation/>
+        <translation>Eki</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="239"/>
         <source>Nov</source>
-        <translation/>
+        <translation>Kas</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="240"/>
         <source>Dec</source>
-        <translation/>
+        <translation>Ara</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="242"/>
         <source>January</source>
-        <translation/>
+        <translation>Ocak</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="243"/>
         <source>February</source>
-        <translation/>
+        <translation>Şubat</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="244"/>
         <source>March</source>
-        <translation/>
+        <translation>Mart</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="245"/>
         <source>April</source>
-        <translation/>
+        <translation>Nisan</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="247"/>
         <source>June</source>
-        <translation/>
+        <translation>Haziran</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="248"/>
         <source>July</source>
-        <translation/>
+        <translation>Temmuz</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="249"/>
         <source>August</source>
-        <translation/>
+        <translation>Ağustos</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="250"/>
         <source>September</source>
-        <translation/>
+        <translation>Eylül</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="251"/>
         <source>October</source>
-        <translation/>
+        <translation>Ekim</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="252"/>
         <source>November</source>
-        <translation/>
+        <translation>Kasım</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="253"/>
         <source>December</source>
-        <translation/>
+        <translation>Aralık</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="506"/>
         <source>Due Date</source>
-        <translation/>
+        <translation>Bitiş Tarihi</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="831"/>
         <source>Go to todays date</source>
-        <translation/>
+        <translation>Bugünün tarihine git</translation>
     </message>
 </context>
 <context>
@@ -160,12 +160,12 @@
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="22"/>
         <source>Just Now</source>
-        <translation/>
+        <translation>Hemen şimdi</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="24"/>
         <source>1 min ago</source>
-        <translation/>
+        <translation>1 dakika önce</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="26"/>
@@ -176,17 +176,17 @@
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="29"/>
         <source>Half an hour ago</source>
-        <translation/>
+        <translation>Yarım saat önce</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="31"/>
         <source>An hour ago</source>
-        <translation/>
+        <translation>Bir saat önce</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="33"/>
         <source>A couple of hours ago</source>
-        <translation/>
+        <translation>Birkaç saat önce</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="35"/>
@@ -197,25 +197,25 @@
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="40"/>
         <source>Yesterday</source>
-        <translation/>
+        <translation>Dün</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="42"/>
         <source>%1/%2/%3 - %4</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is day name</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="48"/>
         <source>%1/%2/%3 - Last week</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Geçen hafta</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="53"/>
         <source>%1/%2/%3 - A couple of weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Birkaç hafta önce</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="58"/>
@@ -227,31 +227,31 @@
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="64"/>
         <source>%1/%2/%3 - Last month</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Geçen ay</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="69"/>
         <source>%1/%2/%3 - A couple of months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Birkaç ay önce</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="78"/>
         <source>%1/%2/%3 - %4 months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4 ay önce</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="84"/>
         <source>%1/%2/%3 - Last year</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Geçen yıl</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="89"/>
         <source>%1/%2/%3 - %4 years ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4 yıl önce</translation>
     </message>
 </context>
 <context>
@@ -259,7 +259,7 @@
     <message>
         <location filename="../../src/components/ux/MediaGridView.qml" line="341"/>
         <source>%1 Minute</source>
-        <translation/>
+        <translation>%1 Dakika</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MediaGridView.qml" line="341"/>
@@ -272,12 +272,12 @@
     <message>
         <location filename="../../src/components/ux/ModalDialog.qml" line="139"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>İptal</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/ModalDialog.qml" line="140"/>
         <source>OK</source>
-        <translation/>
+        <translation>Tamam</translation>
     </message>
 </context>
 <context>
@@ -285,42 +285,42 @@
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="159"/>
         <source>Back...</source>
-        <translation/>
+        <translation>Geri...</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="200"/>
         <source>Pick a Song</source>
-        <translation/>
+        <translation>Şarkı seç</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="200"/>
         <source>Pick a Playlist/Album</source>
-        <translation/>
+        <translation>Oynatma listesi/Albüm seç</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="201"/>
         <source>Pick a Playlist</source>
-        <translation/>
+        <translation>Oynatma listesi seç</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="201"/>
         <source>Pick an Album</source>
-        <translation/>
+        <translation>Albüm seç</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="351"/>
         <source>Back</source>
-        <translation/>
+        <translation>Geri</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="370"/>
         <source>OK</source>
-        <translation/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="387"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -328,12 +328,12 @@
     <message>
         <location filename="../../src/components/ux/PhotoPicker.qml" line="119"/>
         <source>Pick an album</source>
-        <translation/>
+        <translation>albüm se</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/PhotoPicker.qml" line="119"/>
         <source>Pick a photo</source>
-        <translation/>
+        <translation>Fotoğraf seç</translation>
     </message>
 </context>
 <context>
@@ -341,12 +341,12 @@
     <message>
         <location filename="../../src/components/ux/ScrollableMusicList.qml" line="86"/>
         <source>unknown artist</source>
-        <translation/>
+        <translation>bilinmeyen sanatçı</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/ScrollableMusicList.qml" line="87"/>
         <source>unknown album</source>
-        <translation/>
+        <translation>bilinmeyen albüm</translation>
     </message>
 </context>
 <context>
@@ -354,17 +354,17 @@
     <message>
         <location filename="../../src/components/ux/TimePicker.qml" line="156"/>
         <source>Pick a time</source>
-        <translation/>
+        <translation>Zaman seç</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/TimePicker.qml" line="240"/>
         <source>AM</source>
-        <translation/>
+        <translation>ÖÖ</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/TimePicker.qml" line="241"/>
         <source>PM</source>
-        <translation/>
+        <translation>ÖS</translation>
     </message>
 </context>
 <context>
@@ -372,12 +372,12 @@
     <message>
         <location filename="../../src/components/ux/ToggleButton.qml" line="142"/>
         <source>On</source>
-        <translation/>
+        <translation>Aç</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/ToggleButton.qml" line="155"/>
         <source>Off</source>
-        <translation/>
+        <translation>Kapat</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../../src/components/ux/VideoPicker.qml" line="169"/>
         <source>Pick a video</source>
-        <translation/>
+        <translation>Video seç</translation>
     </message>
 </context>
 </TS>
