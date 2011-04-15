@@ -14,12 +14,12 @@
     <message>
         <location filename="../../main.qml" line="27"/>
         <source>Yes, Delete</source>
-        <translation/>
+        <translation>Да, удалить</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Отменить</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Share</source>
-        <translation/>
+        <translation>Общий доступ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
@@ -51,7 +51,7 @@
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Select Multiple Videos</source>
-        <translation/>
+        <translation>Выбрать несколько видео</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="88"/>
@@ -61,12 +61,12 @@
     <message>
         <location filename="../../main.qml" line="156"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Название видео</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="163"/>
         <source>If you delete this, it will be removed from your device</source>
-        <translation/>
+        <translation>После удаления этот объект не будет доступен на вашем устройстве</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="178"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../../main.qml" line="200"/>
         <source>If you delete these, they will be removed from your device</source>
-        <translation/>
+        <translation>После удаления эти объекты не будут доступны на вашем устройстве</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="216"/>
@@ -91,12 +91,12 @@
     <message>
         <location filename="../../main.qml" line="334"/>
         <source>Recently added</source>
-        <translation/>
+        <translation>Недавно добавленные</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="334"/>
         <source>Recently viewed</source>
-        <translation/>
+        <translation>Недавно просмотренные</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="334"/>

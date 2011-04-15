@@ -32,7 +32,7 @@
     <message>
         <location filename="../../CategoryView.qml" line="74"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -89,7 +89,7 @@
     <message>
         <location filename="../../TaskListView.qml" line="43"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="233"/>
@@ -122,7 +122,7 @@
     <message>
         <location filename="../../TasksDatePicker.qml" line="102"/>
         <source>yyyy</source>
-        <translation/>
+        <translation>гггг</translation>
     </message>
 </context>
 <context>
@@ -140,17 +140,17 @@
     <message>
         <location filename="../../TasksDetailWindow.qml" line="261"/>
         <source>Date</source>
-        <translation/>
+        <translation>Дата</translation>
     </message>
     <message>
         <location filename="../../TasksDetailWindow.qml" line="262"/>
         <source>Someday</source>
-        <translation/>
+        <translation>Когда-нибудь</translation>
     </message>
     <message>
         <location filename="../../TasksDetailWindow.qml" line="275"/>
         <source>Notes</source>
-        <translation/>
+        <translation>Примечания</translation>
     </message>
     <message>
         <location filename="../../TasksDetailWindow.qml" line="313"/>
@@ -160,17 +160,17 @@
     <message>
         <location filename="../../TasksDetailWindow.qml" line="357"/>
         <source>Edit</source>
-        <translation/>
+        <translation>Изменить</translation>
     </message>
     <message>
         <location filename="../../TasksDetailWindow.qml" line="374"/>
         <source>Save</source>
-        <translation/>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <location filename="../../TasksDetailWindow.qml" line="391"/>
         <source>Close</source>
-        <translation/>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
@@ -178,7 +178,7 @@
     <message>
         <location filename="../../TasksModalDialog.qml" line="75"/>
         <source>Title text</source>
-        <translation/>
+        <translation>Текст заголовка</translation>
     </message>
 </context>
 <context>
@@ -246,7 +246,7 @@
     <message>
         <location filename="../../main.qml" line="27"/>
         <source>OK</source>
-        <translation/>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
@@ -322,7 +322,7 @@
     <message>
         <location filename="../../main.qml" line="69"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="284"/>

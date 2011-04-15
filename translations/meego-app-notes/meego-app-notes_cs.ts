@@ -12,7 +12,7 @@
         <location filename="../../src/DataHandler.cpp" line="494"/>
         <location filename="../../src/DataHandler.cpp" line="498"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../src/DataHandler.cpp" line="1299"/>
@@ -355,7 +355,7 @@ tyto %1 zápisníky?</translation>
     <message>
         <location filename="../../NotesView.qml" line="386"/>
         <source>Rename</source>
-        <translation/>
+        <translation>Přejmenovat</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="411"/>
@@ -449,12 +449,12 @@ tyto %1 poznámky?</translation>
     <message>
         <location filename="../../NotesView.qml" line="597"/>
         <source>Rename Note</source>
-        <translation/>
+        <translation>Přejmenovat poznámku</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="607"/>
         <source>%1 (Renamed Note)</source>
-        <translation/>
+        <translation>%1 (Přejmenovaná poznámka)</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="635"/>
@@ -480,7 +480,7 @@ tyto %1 poznámky?</translation>
     <message>
         <location filename="../../src/DataHandler.cpp" line="25"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>Všední poznámky (výchozí)</translation>
     </message>
 </context>
 <context>

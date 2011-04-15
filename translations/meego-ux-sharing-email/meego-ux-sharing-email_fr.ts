@@ -14,7 +14,7 @@
     <message>
         <location filename="../../emailsharingservice.cpp" line="78"/>
         <source>Email</source>
-        <translation>Message</translation>
+        <translation>Messages</translation>
     </message>
 </context>
 </TS>

@@ -5,7 +5,7 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="52"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="209"/>
         <source>Recently viewed</source>
-        <translation/>
+        <translation>Äskettäin katsotut</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="53"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="95"/>
         <source>Photos settings</source>
-        <translation/>
+        <translation>Valokuvien asetukset</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="125"/>
         <source>See your photos.</source>
-        <translation/>
+        <translation>Näe valokuvasi.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="134"/>

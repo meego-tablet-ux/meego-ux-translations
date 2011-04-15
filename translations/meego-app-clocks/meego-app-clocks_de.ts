@@ -137,7 +137,7 @@
         <location filename="../../main.qml" line="27"/>
         <location filename="../../main.qml" line="141"/>
         <source>Clocks</source>
-        <translation>Uhren</translation>
+        <translation>Uhrzeit</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="17"/>

@@ -67,7 +67,7 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="26"/>
         <source>...</source>
-        <translation/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="72"/>
@@ -240,7 +240,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="50"/>
         <source>Email</source>
-        <translation>Message</translation>
+        <translation>Messages</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="51"/>
@@ -250,12 +250,12 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="52"/>
         <source>Address</source>
-        <translation>Web</translation>
+        <translation>Adresse</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="53"/>
         <source>Birthday</source>
-        <translation/>
+        <translation>Anniversaire</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="54"/>
@@ -285,7 +285,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="60"/>
         <source>Yahoo!</source>
-        <translation/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="61"/>
@@ -295,7 +295,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="62"/>
         <source>Google Talk</source>
-        <translation/>
+        <translation>Google Talk</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="63"/>
@@ -411,7 +411,7 @@
     <message>
         <location filename="../../EmailEditWidget.qml" line="27"/>
         <source>Email</source>
-        <translation>Message</translation>
+        <translation>Messages</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="28"/>
@@ -654,7 +654,7 @@
     <message>
         <location filename="../../WebPageEditWidget.qml" line="25"/>
         <source>Web</source>
-        <translation>Web</translation>
+        <translation>Adresse</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="26"/>
@@ -719,7 +719,7 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>Email</source>
-        <translation>Message</translation>
+        <translation>Messages</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>

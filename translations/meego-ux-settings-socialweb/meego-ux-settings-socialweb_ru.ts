@@ -9,7 +9,7 @@
     <message>
         <location filename="../../qml/constants.js" line="5"/>
         <source>Done</source>
-        <translation/>
+        <translation>Готово</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="6"/>
@@ -19,7 +19,7 @@
     <message>
         <location filename="../../qml/constants.js" line="8"/>
         <source>Sign in</source>
-        <translation/>
+        <translation>Войти</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="9"/>
@@ -39,12 +39,12 @@
     <message>
         <location filename="../../qml/constants.js" line="14"/>
         <source>Username</source>
-        <translation>Имя пользователя:</translation>
+        <translation>Имя пользователя</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="15"/>
         <source>Password</source>
-        <translation>Пароль:</translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="16"/>

@@ -14,12 +14,12 @@
     <message>
         <location filename="../../main.qml" line="27"/>
         <source>Yes, Delete</source>
-        <translation/>
+        <translation>是，刪除</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Share</source>
-        <translation/>
+        <translation>分享</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
@@ -51,7 +51,7 @@
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Select Multiple Videos</source>
-        <translation/>
+        <translation>選取多個影片</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="88"/>
@@ -61,12 +61,12 @@
     <message>
         <location filename="../../main.qml" line="156"/>
         <source>Video name</source>
-        <translation/>
+        <translation>影片名稱</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="163"/>
         <source>If you delete this, it will be removed from your device</source>
-        <translation/>
+        <translation>若您刪除此項，將從您的裝置中移除</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="178"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../../main.qml" line="200"/>
         <source>If you delete these, they will be removed from your device</source>
-        <translation/>
+        <translation>若您刪除這些項目，將從您的裝置中移除</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="216"/>
@@ -91,12 +91,12 @@
     <message>
         <location filename="../../main.qml" line="334"/>
         <source>Recently added</source>
-        <translation/>
+        <translation>最近新增</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="334"/>
         <source>Recently viewed</source>
-        <translation/>
+        <translation>最近檢視</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="334"/>

@@ -259,12 +259,12 @@
     <message>
         <location filename="../../src/components/ux/MediaGridView.qml" line="341"/>
         <source>%1 Minute</source>
-        <translation/>
+        <translation>1 分钟</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MediaGridView.qml" line="341"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 分钟</translation>
     </message>
 </context>
 <context>
@@ -328,12 +328,12 @@
     <message>
         <location filename="../../src/components/ux/PhotoPicker.qml" line="119"/>
         <source>Pick an album</source>
-        <translation/>
+        <translation>选择一个专辑</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/PhotoPicker.qml" line="119"/>
         <source>Pick a photo</source>
-        <translation/>
+        <translation>选择相片</translation>
     </message>
 </context>
 <context>
@@ -341,12 +341,12 @@
     <message>
         <location filename="../../src/components/ux/ScrollableMusicList.qml" line="86"/>
         <source>unknown artist</source>
-        <translation/>
+        <translation>未知艺术家</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/ScrollableMusicList.qml" line="87"/>
         <source>unknown album</source>
-        <translation/>
+        <translation>未知专辑</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../../src/components/ux/VideoPicker.qml" line="169"/>
         <source>Pick a video</source>
-        <translation/>
+        <translation>选择一个视频</translation>
     </message>
 </context>
 </TS>

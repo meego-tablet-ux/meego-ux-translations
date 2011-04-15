@@ -143,7 +143,7 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="61"/>
         <source>Country</source>
-        <translation/>
+        <translation>País</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="78"/>
@@ -159,17 +159,17 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="126"/>
         <source>Username</source>
-        <translation/>
+        <translation>Nombre de usuario</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="137"/>
         <source>Password</source>
-        <translation/>
+        <translation>Contraseña</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="149"/>
         <source>Apply</source>
-        <translation/>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -177,7 +177,7 @@
     <message>
         <location filename="../../Browser/CheckboxButton.qml" line="13"/>
         <source>Radio Button</source>
-        <translation/>
+        <translation>Botón de radio</translation>
     </message>
 </context>
 <context>
@@ -441,7 +441,7 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="299"/>
         <source>Last sync %1</source>
         <extracomment>Arg 1 is a &quot;fuzzy time&quot;, e.g. &quot;2 min ago&quot;.</extracomment>
-        <translation/>
+        <translation>Última sincronización %1</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="305"/>
@@ -997,7 +997,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Volume/VolumeSettings.qml" line="14"/>
         <source>Sound</source>
-        <translation/>
+        <translation>Sonido</translation>
     </message>
 </context>
 <context>
@@ -1049,7 +1049,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="120"/>
         <source>Failed to Connect</source>
-        <translation/>
+        <translation>Error de conexión</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="123"/>

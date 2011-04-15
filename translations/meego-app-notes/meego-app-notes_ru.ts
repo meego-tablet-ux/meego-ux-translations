@@ -12,7 +12,7 @@
         <location filename="../../src/DataHandler.cpp" line="494"/>
         <location filename="../../src/DataHandler.cpp" line="498"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../src/DataHandler.cpp" line="1299"/>
@@ -25,7 +25,7 @@
     <message>
         <location filename="../../ConfirmDeleteDialog.qml" line="77"/>
         <source>Title text</source>
-        <translation/>
+        <translation>Текст заголовка</translation>
     </message>
 </context>
 <context>
@@ -38,7 +38,7 @@
     <message>
         <location filename="../../DeleteMoveNotificationDialog.qml" line="90"/>
         <source>Notebook name</source>
-        <translation/>
+        <translation>Имя записной книжки</translation>
     </message>
 </context>
 <context>
@@ -105,12 +105,12 @@
     <message>
         <location filename="../../NoteDetail.qml" line="30"/>
         <source>Save</source>
-        <translation/>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="30"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="71"/>
@@ -226,7 +226,7 @@ this notebook?</source>
     <message>
         <location filename="../../NotebooksView.qml" line="238"/>
         <source>Email</source>
-        <translation>Электронная почта</translation>
+        <translation>Эл. почта</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="320"/>
@@ -263,7 +263,7 @@ delete these %1 notebooks?</source>
     <message>
         <location filename="../../NotebooksView.qml" line="403"/>
         <source>OK</source>
-        <translation/>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="404"/>
@@ -343,7 +343,7 @@ delete these %1 notebooks?</source>
     <message>
         <location filename="../../NotesView.qml" line="383"/>
         <source>Email</source>
-        <translation>Электронная почта</translation>
+        <translation>Эл. почта</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="384"/>
@@ -353,7 +353,7 @@ delete these %1 notebooks?</source>
     <message>
         <location filename="../../NotesView.qml" line="386"/>
         <source>Rename</source>
-        <translation/>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="411"/>
@@ -422,7 +422,7 @@ delete these %1 notes?</source>
         <location filename="../../NotesView.qml" line="595"/>
         <location filename="../../NotesView.qml" line="634"/>
         <source>OK</source>
-        <translation/>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="573"/>

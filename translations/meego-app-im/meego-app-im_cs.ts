@@ -69,7 +69,7 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     <message>
         <location filename="../../AccountDelegate.qml" line="144"/>
         <source>Settings</source>
-        <translation/>
+        <translation>Nastavení</translation>
     </message>
 </context>
 <context>
@@ -278,12 +278,12 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="32"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Ano</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="35"/>
         <source>No</source>
-        <translation/>
+        <translation>Ne</translation>
     </message>
 </context>
 <context>
@@ -448,7 +448,7 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     <message>
         <location filename="../../ContactsDelegate.qml" line="99"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>Smazat spojení</translation>
     </message>
 </context>
 <context>

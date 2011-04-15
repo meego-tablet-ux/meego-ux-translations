@@ -12,7 +12,7 @@
         <location filename="../../src/DataHandler.cpp" line="494"/>
         <location filename="../../src/DataHandler.cpp" line="498"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../src/DataHandler.cpp" line="1299"/>
@@ -25,7 +25,7 @@
     <message>
         <location filename="../../ConfirmDeleteDialog.qml" line="77"/>
         <source>Title text</source>
-        <translation/>
+        <translation>標題文字</translation>
     </message>
 </context>
 <context>
@@ -38,7 +38,7 @@
     <message>
         <location filename="../../DeleteMoveNotificationDialog.qml" line="90"/>
         <source>Notebook name</source>
-        <translation/>
+        <translation>筆記簿名稱</translation>
     </message>
 </context>
 <context>
@@ -105,12 +105,12 @@
     <message>
         <location filename="../../NoteDetail.qml" line="30"/>
         <source>Save</source>
-        <translation/>
+        <translation>儲存</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="30"/>
         <source>Delete</source>
-        <translation/>
+        <translation>刪除</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="71"/>
@@ -263,7 +263,7 @@ delete these %1 notebooks?</source>
     <message>
         <location filename="../../NotebooksView.qml" line="403"/>
         <source>OK</source>
-        <translation/>
+        <translation>確定</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="404"/>
@@ -353,7 +353,7 @@ delete these %1 notebooks?</source>
     <message>
         <location filename="../../NotesView.qml" line="386"/>
         <source>Rename</source>
-        <translation/>
+        <translation>重新命名</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="411"/>
@@ -422,7 +422,7 @@ delete these %1 notes?</source>
         <location filename="../../NotesView.qml" line="595"/>
         <location filename="../../NotesView.qml" line="634"/>
         <source>OK</source>
-        <translation/>
+        <translation>確定</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="573"/>
@@ -466,7 +466,7 @@ delete these %1 notes?</source>
     <message>
         <location filename="../../OneButtonModalDialog.qml" line="89"/>
         <source>Some text here</source>
-        <translation>此處輸入某些文字</translation>
+        <translation>此處某些文字</translation>
     </message>
 </context>
 <context>

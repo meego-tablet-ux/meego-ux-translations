@@ -32,7 +32,7 @@ Vérifiez votre nom d&apos;utilisateur et votre mot de passe.</translation>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="199"/>
         <source>Password</source>
-        <translation/>
+        <translation>Mot de passe</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="216"/>
@@ -68,7 +68,7 @@ Vérifiez votre nom d&apos;utilisateur et votre mot de passe.</translation>
     <message>
         <location filename="../../AccountDelegate.qml" line="144"/>
         <source>Settings</source>
-        <translation/>
+        <translation>Paramètres</translation>
     </message>
 </context>
 <context>
@@ -158,24 +158,24 @@ Vérifiez votre nom d&apos;utilisateur et votre mot de passe.</translation>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="112"/>
         <source>Unable to create media call for contact %1</source>
-        <translation/>
+        <translation>Impossible de créer un appel de média pour le contact %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="160"/>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="169"/>
         <source>Error ending call</source>
-        <translation/>
+        <translation>Erreur de fin d&apos;appel</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="194"/>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="898"/>
         <source>Call could not be accepted</source>
-        <translation/>
+        <translation>L&apos;appel n&apos;a pas pu être accepté</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="366"/>
         <source>Could not set hold = %</source>
-        <translation/>
+        <translation>Impossible d&apos;établir la mise en attente = %</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="462"/>
@@ -186,42 +186,42 @@ Vérifiez votre nom d&apos;utilisateur et votre mot de passe.</translation>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="557"/>
         <source>Unable to create call channel for contact %1</source>
-        <translation/>
+        <translation>Impossible de créer un canal d&apos;appel pour le contact %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="857"/>
         <source>Unable to create channel: %1 - %2</source>
-        <translation/>
+        <translation>Impossible de créer la voie : %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="872"/>
         <source>Unable to create channel</source>
-        <translation/>
+        <translation>Impossible de créer la voie</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="886"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>Impossible de créer un canal d&apos;appel pour le contact %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="942"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>Canal d&apos;appel invalidé pour le contact %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1210"/>
         <source>Error ending call: %1 - %2</source>
-        <translation/>
+        <translation>Erreur de fin d&apos;appel : %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1224"/>
         <source>Call could not be accepted %1 - %2</source>
-        <translation/>
+        <translation>L&apos;appel n&apos;a pas pu être accepté %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1238"/>
         <source>Hold request could not be done %1 - %2</source>
-        <translation/>
+        <translation>La demande de mise en attente n&apos;a pas pu être satisfaite %1 - %2</translation>
     </message>
 </context>
 <context>
@@ -277,12 +277,12 @@ Vérifiez votre nom d&apos;utilisateur et votre mot de passe.</translation>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="32"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Oui</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="35"/>
         <source>No</source>
-        <translation/>
+        <translation>Non</translation>
     </message>
 </context>
 <context>
@@ -325,7 +325,7 @@ Vérifiez votre nom d&apos;utilisateur et votre mot de passe.</translation>
     <message>
         <location filename="../../ContactContentMenu.qml" line="409"/>
         <source>Update</source>
-        <translation/>
+        <translation>Mettre à jour</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="444"/>
@@ -348,7 +348,7 @@ Vérifiez votre nom d&apos;utilisateur et votre mot de passe.</translation>
     <message>
         <location filename="../../ContactPickerContent.qml" line="50"/>
         <source>Add contacts to chat</source>
-        <translation>Ajouter des contacts à la discussion</translation>
+        <translation>Ajouter des contacts à la discussions</translation>
     </message>
     <message>
         <location filename="../../ContactPickerContent.qml" line="125"/>
@@ -412,7 +412,7 @@ Vérifiez votre nom d&apos;utilisateur et votre mot de passe.</translation>
     <message>
         <location filename="../../ContactsDelegate.qml" line="73"/>
         <source>Return to chat</source>
-        <translation>Retourner à la discussion</translation>
+        <translation>Retourner à la discussions</translation>
     </message>
     <message>
         <location filename="../../ContactsDelegate.qml" line="75"/>
@@ -925,7 +925,7 @@ Vérifiez votre nom d&apos;utilisateur et votre mot de passe.</translation>
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Chat</source>
-        <translation>Discussion</translation>
+        <translation>Discussions</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="231"/>

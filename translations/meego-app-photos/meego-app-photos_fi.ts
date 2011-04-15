@@ -9,7 +9,7 @@
     <message>
         <location filename="../../AlbumsView.qml" line="30"/>
         <source>Play slideshow</source>
-        <translation/>
+        <translation>Aloita diaesitys</translation>
     </message>
     <message>
         <location filename="../../AlbumsView.qml" line="31"/>
@@ -32,7 +32,7 @@
     <message>
         <location filename="../../PhotosView.qml" line="39"/>
         <source>Play slideshow</source>
-        <translation/>
+        <translation>Aloita diaesitys</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="40"/>
@@ -42,17 +42,17 @@
     <message>
         <location filename="../../PhotosView.qml" line="41"/>
         <source>Favorite</source>
-        <translation>Suosikki</translation>
+        <translation>Aseta suosikiksi</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="42"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>Poista suosikeista</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="43"/>
         <source>Add to album</source>
-        <translation/>
+        <translation>Lisää albumiin</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="44"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../../PhotosView.qml" line="45"/>
         <source>Select multiple photos</source>
-        <translation/>
+        <translation>Valitse useita valokuvia</translation>
     </message>
 </context>
 <context>
@@ -75,12 +75,12 @@
     <message>
         <location filename="../../main.qml" line="19"/>
         <source>Recently added</source>
-        <translation/>
+        <translation>Äskettäin lisätyt</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Last viewed</source>
-        <translation/>
+        <translation>Viimeksi katsotut</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
@@ -100,7 +100,7 @@
     <message>
         <location filename="../../main.qml" line="24"/>
         <source>All photos</source>
-        <translation/>
+        <translation>Kaikki valokuvat</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="25"/>
@@ -110,7 +110,7 @@
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>New album</source>
-        <translation/>
+        <translation>Uusi albumi</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="27"/>
@@ -120,7 +120,7 @@
     <message>
         <location filename="../../main.qml" line="28"/>
         <source>Play slideshow</source>
-        <translation/>
+        <translation>Aloita diaesitys</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="29"/>
@@ -130,32 +130,32 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>Leave full screen</source>
-        <translation/>
+        <translation>Poistu koko näytön tilasta</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>Favorite</source>
-        <translation>Suosikki</translation>
+        <translation>Aseta suosikiksi</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>Poista suosikeista</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="33"/>
         <source>Add to album</source>
-        <translation/>
+        <translation>Lisää albumiin</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
         <source>Remove from album</source>
-        <translation/>
+        <translation>Poista albumista</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
         <source>Delete?</source>
-        <translation/>
+        <translation>Poista?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
@@ -165,73 +165,73 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Delete album</source>
-        <translation/>
+        <translation>Poista albumi</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
         <source>Delete photo</source>
-        <translation/>
+        <translation>Poista valokuva</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Rename photo</source>
-        <translation/>
+        <translation>Nimeä valokuva uudestaan</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="40"/>
         <source>1 photo</source>
-        <translation/>
+        <translation>1 valokuva</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
         <source>%1 photos</source>
-        <translation/>
+        <translation>%1 valokuvaa</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="42"/>
         <source>Create new album</source>
-        <translation/>
+        <translation>Luo uusi albumi</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="43"/>
         <location filename="../../main.qml" line="432"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="44"/>
         <source>Set as background</source>
-        <translation/>
+        <translation>Aseta taustakuvaksi</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="46"/>
         <source>Are you sure you want to delete this photo?</source>
-        <translation/>
+        <translation>Haluatko varmasti poistaa tämän valokuvan?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="47"/>
         <source>Are you sure you want to delete the %1 selected photos?</source>
-        <translation/>
+        <translation>Haluatko varmasti poistaa %1 valittua valokuvaa?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="48"/>
         <source>Are you sure you want to delete this album?</source>
-        <translation/>
+        <translation>Haluatko varmasti poistaa tämän albumin?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="50"/>
         <source>Album title</source>
-        <translation/>
+        <translation>Albumin otsikko</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="58"/>
         <source>Photo title</source>
-        <translation/>
+        <translation>Valokuvan otsikko</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="431"/>
         <source>Create</source>
-        <translation/>
+        <translation>Luo</translation>
     </message>
 </context>
 </TS>

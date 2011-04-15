@@ -9,7 +9,7 @@
     <message>
         <location filename="../../qml/constants.js" line="5"/>
         <source>Done</source>
-        <translation/>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="6"/>
@@ -19,7 +19,7 @@
     <message>
         <location filename="../../qml/constants.js" line="8"/>
         <source>Sign in</source>
-        <translation/>
+        <translation>登录</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="9"/>

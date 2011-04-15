@@ -17,37 +17,37 @@
     <message>
         <location filename="../../NewAlarmMenu.qml" line="25"/>
         <source>Mo</source>
-        <translation/>
+        <translation>Po</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="26"/>
         <source>Tu</source>
-        <translation/>
+        <translation>Út</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="27"/>
         <source>We</source>
-        <translation/>
+        <translation>St</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="28"/>
         <source>Th</source>
-        <translation/>
+        <translation>Čt</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="29"/>
         <source>Fr</source>
-        <translation/>
+        <translation>Pá</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="30"/>
         <source>Sa</source>
-        <translation/>
+        <translation>So</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="31"/>
         <source>Su</source>
-        <translation/>
+        <translation>Ne</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="33"/>
@@ -173,36 +173,36 @@
     <message>
         <location filename="../../main.qml" line="378"/>
         <source>Alarm details</source>
-        <translation/>
+        <translation>Podrobnosti budíku</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="378"/>
         <source>Delete alarm</source>
-        <translation/>
+        <translation>Smazat budík</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="378"/>
         <location filename="../../main.qml" line="396"/>
         <source>Move to top</source>
-        <translation/>
+        <translation>Posunout nahoru</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Edit clock</source>
-        <translation/>
+        <translation>Upravit hodiny</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Make local time</source>
-        <translation/>
+        <translation>Napsat místní čas</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Delete clock</source>
-        <translation/>
+        <translation>Smazat hodiny</translation>
     </message>
 </context>
 </TS>

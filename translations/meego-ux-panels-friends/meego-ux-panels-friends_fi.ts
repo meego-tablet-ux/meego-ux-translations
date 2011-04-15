@@ -22,12 +22,12 @@
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="32"/>
         <source>Friends settings</source>
-        <translation/>
+        <translation>Ystävät paneelin asetukset</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="134"/>
         <source>You have no web accounts enabled - tap here to configure your web accounts.</source>
-        <translation>Sinulla ei ole web tilejä käytössä - kosketa tähän määrittääksesi tilisi.</translation>
+        <translation>Sinulla ei ole web-tilejä käytössä - kosketa tähän määrittääksesi tilisi.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="143"/>
@@ -50,7 +50,7 @@
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="352"/>
         <source>Clear history from:</source>
-        <translation/>
+        <translation>Tyhjennä historia:</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="427"/>
@@ -60,7 +60,7 @@
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="490"/>
         <source>Go to settings</source>
-        <translation>Mene asetuksiin</translation>
+        <translation>Siirry asetuksiin</translation>
     </message>
 </context>
 </TS>

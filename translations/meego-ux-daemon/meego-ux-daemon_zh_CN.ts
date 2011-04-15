@@ -4,12 +4,12 @@
     <message>
         <location filename="../../statusindicatormenu.qml" line="206"/>
         <source>Notifications</source>
-        <translation/>
+        <translation>通知</translation>
     </message>
     <message>
         <location filename="../../statusindicatormenu.qml" line="213"/>
         <source>Clear</source>
-        <translation/>
+        <translation>清除</translation>
     </message>
 </context>
 <context>

@@ -22,7 +22,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="22"/>
         <source>To show items on the front of the panel select ON, to hide select OFF</source>
-        <translation>Pour afficher des éléments à l&apos;avant du panneau, sélectionnez ACTIVÉ, pour les masquer, sélectionnez DÉSACTIVÉ</translation>
+        <translation>Pour afficher des éléments à l&apos;avant du panneau, sélectionnez ❘, pour les masquer, sélectionnez ○</translation>
     </message>
 </context>
 <context>

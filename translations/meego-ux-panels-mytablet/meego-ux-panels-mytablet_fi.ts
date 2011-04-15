@@ -4,33 +4,33 @@
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="62"/>
         <source>Wi-Fi</source>
-        <translation/>
+        <translation>Wi-Fi</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="68"/>
         <source>Sound</source>
-        <translation/>
+        <translation>Ääni</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="74"/>
         <source>All settings</source>
-        <translation/>
+        <translation>Kaikki asetukset</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="90"/>
         <source>View all applications</source>
-        <translation/>
+        <translation>Näytä kaikki sovellukset</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="100"/>
         <source>Visit the Intel AppUp(sm) center</source>
-        <translation/>
+        <translation>Vieraile Intelin AppUp(sm)-keskuksessa</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="122"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="160"/>
         <source>Top applications</source>
-        <translation/>
+        <translation>Suosituimmat sovellukset</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="123"/>
@@ -41,17 +41,17 @@
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="129"/>
         <source>My Tablet</source>
-        <translation/>
+        <translation>Oma tabletti</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="151"/>
         <source>Connected devices</source>
-        <translation/>
+        <translation>Yhdistetyt laitteet</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="181"/>
         <source>My Tablet settings</source>
-        <translation/>
+        <translation>Oman tabletin asetukset</translation>
     </message>
 </context>
 </TS>

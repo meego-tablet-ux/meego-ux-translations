@@ -69,7 +69,7 @@ Please check your username and password.</translation>
     <message>
         <location filename="../../AccountDelegate.qml" line="144"/>
         <source>Settings</source>
-        <translation/>
+        <translation>Settings</translation>
     </message>
 </context>
 <context>
@@ -278,12 +278,12 @@ Please check your username and password.</translation>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="32"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Yes</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="35"/>
         <source>No</source>
-        <translation/>
+        <translation>No</translation>
     </message>
 </context>
 <context>
@@ -448,7 +448,7 @@ Please check your username and password.</translation>
     <message>
         <location filename="../../ContactsDelegate.qml" line="99"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>Delete contact</translation>
     </message>
 </context>
 <context>

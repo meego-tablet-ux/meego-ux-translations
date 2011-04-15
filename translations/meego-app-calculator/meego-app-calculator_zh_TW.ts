@@ -4,12 +4,12 @@
     <message>
         <location filename="../../calculator.js" line="49"/>
         <source>Infinity</source>
-        <translation>Infinity</translation>
+        <translation>∞</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="51"/>
         <source>-Infinity</source>
-        <translation>-Infinity</translation>
+        <translation>-∞</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="53"/>

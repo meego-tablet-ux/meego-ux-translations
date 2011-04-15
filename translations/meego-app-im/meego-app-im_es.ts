@@ -32,7 +32,7 @@ Verifique su nombre de usuario y contraseña.</translation>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="199"/>
         <source>Password</source>
-        <translation/>
+        <translation>Contraseña</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="216"/>
@@ -68,7 +68,7 @@ Verifique su nombre de usuario y contraseña.</translation>
     <message>
         <location filename="../../AccountDelegate.qml" line="144"/>
         <source>Settings</source>
-        <translation/>
+        <translation>Configuración</translation>
     </message>
 </context>
 <context>
@@ -158,24 +158,24 @@ Verifique su nombre de usuario y contraseña.</translation>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="112"/>
         <source>Unable to create media call for contact %1</source>
-        <translation/>
+        <translation>No es posible crear la llamada con vídeo para el contacto %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="160"/>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="169"/>
         <source>Error ending call</source>
-        <translation/>
+        <translation>Error al finalizar la llamada</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="194"/>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="898"/>
         <source>Call could not be accepted</source>
-        <translation/>
+        <translation>No pudo aceptarse la llamada</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="366"/>
         <source>Could not set hold = %</source>
-        <translation/>
+        <translation>No pudo establecerse la retención = %</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="462"/>
@@ -186,42 +186,42 @@ Verifique su nombre de usuario y contraseña.</translation>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="557"/>
         <source>Unable to create call channel for contact %1</source>
-        <translation/>
+        <translation>No es posible crear el canal de llamada para el contacto %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="857"/>
         <source>Unable to create channel: %1 - %2</source>
-        <translation/>
+        <translation>No es posible crear el canal: %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="872"/>
         <source>Unable to create channel</source>
-        <translation/>
+        <translation>No es posible crear el canal</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="886"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>No es posible crear el canal de llamada para el contacto %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="942"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>Canal de llamada invalidado para el contacto %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1210"/>
         <source>Error ending call: %1 - %2</source>
-        <translation/>
+        <translation>Error al finalizar la llamada: %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1224"/>
         <source>Call could not be accepted %1 - %2</source>
-        <translation/>
+        <translation>No pudo aceptarse la llamada %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1238"/>
         <source>Hold request could not be done %1 - %2</source>
-        <translation/>
+        <translation>No pudo realizarse la solicitud de retención %1 - %2</translation>
     </message>
 </context>
 <context>
@@ -277,12 +277,12 @@ Verifique su nombre de usuario y contraseña.</translation>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="32"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Sí</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="35"/>
         <source>No</source>
-        <translation/>
+        <translation>No</translation>
     </message>
 </context>
 <context>
@@ -325,7 +325,7 @@ Verifique su nombre de usuario y contraseña.</translation>
     <message>
         <location filename="../../ContactContentMenu.qml" line="409"/>
         <source>Update</source>
-        <translation/>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="444"/>
@@ -966,7 +966,7 @@ Verifique su nombre de usuario y contraseña.</translation>
     <message>
         <location filename="../../main.qml" line="395"/>
         <source>offline</source>
-        <translation>No conectado</translation>
+        <translation>desconectado</translation>
     </message>
 </context>
 <context>

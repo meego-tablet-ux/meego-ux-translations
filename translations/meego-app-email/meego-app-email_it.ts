@@ -4,7 +4,7 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="71"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="100"/>
@@ -109,7 +109,7 @@
     <message>
         <location filename="../../AccountPage.qml" line="112"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../AccountPage.qml" line="153"/>
@@ -719,7 +719,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="39"/>
         <source>Ok</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="42"/>
@@ -876,7 +876,7 @@
         <location filename="../../settings/WelcomeButtons.qml" line="61"/>
         <location filename="../../settings/WelcomeButtons.qml" line="66"/>
         <source>Yahoo!</source>
-        <translation/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../settings/WelcomeButtons.qml" line="71"/>
@@ -950,7 +950,8 @@
         <location filename="../../main.qml" line="126"/>
         <source>On %1 %2 wrote:
 </source>
-        <translation/>
+        <translation>Il %1 %2 hai scritto:
+</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="167"/>
@@ -965,12 +966,12 @@
     <message>
         <location filename="../../main.qml" line="290"/>
         <source>-------- Forwarded Message --------</source>
-        <translation/>
+        <translation>-------- Messaggio inoltrato --------</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="291"/>
         <source>[Fwd: %1]</source>
-        <translation/>
+        <translation>[I: %1]</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="315"/>

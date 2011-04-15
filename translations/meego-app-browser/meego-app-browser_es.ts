@@ -61,13 +61,13 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="205"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="206"/>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="220"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="207"/>
@@ -77,7 +77,7 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="219"/>
         <source>Save</source>
-        <translation/>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
@@ -89,6 +89,6 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/DownloadShelf.qml" line="220"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Eliminar</translation>
     </message>
 </context></TS>

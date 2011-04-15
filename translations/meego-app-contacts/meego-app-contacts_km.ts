@@ -67,7 +67,7 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="26"/>
         <source>...</source>
-        <translation/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="72"/>
@@ -111,37 +111,37 @@
     <message>
         <location filename="../../ContactsSettings.qml" line="16"/>
         <source>Contacts Settings</source>
-        <translation/>
+        <translation>កំណត់អំពីទំនាក់ទំនង</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="17"/>
         <source>Sort Order:</source>
-        <translation/>
+        <translation>លំដាប់នៃការរៀបចំ</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="18"/>
         <source>Display Order:</source>
-        <translation/>
+        <translation>លំដាប់នៃការបង្ហាញ</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="19"/>
         <source>Sort by first name</source>
-        <translation/>
+        <translation>តម្រៀបតាមឈ្មោះ</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Sort by last name</source>
-        <translation/>
+        <translation>តម្រៀបតាមត្រកូល</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="21"/>
         <source>Display by first name</source>
-        <translation/>
+        <translation>បង្ហាញឈ្មោះ</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Display by last name</source>
-        <translation/>
+        <translation>បង្ហាញត្រកូល</translation>
     </message>
 </context>
 <context>
@@ -240,82 +240,82 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="50"/>
         <source>Email</source>
-        <translation/>
+        <translation>អ៊ីម៉ែល</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="51"/>
         <source>Web</source>
-        <translation/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="52"/>
         <source>Address</source>
-        <translation/>
+        <translation>អាសយដ្ឋាន</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="53"/>
         <source>Birthday</source>
-        <translation/>
+        <translation>ថ្ងៃខួបកំណើត</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="54"/>
         <source>Date</source>
-        <translation/>
+        <translation>ថ្ងៃ</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="55"/>
         <source>Note</source>
-        <translation/>
+        <translation>ចំណាំ</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="57"/>
         <source>AIM</source>
-        <translation/>
+        <translation>AIM</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="58"/>
         <source>MSN</source>
-        <translation/>
+        <translation>MSN</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="59"/>
         <source>Jabber</source>
-        <translation/>
+        <translation>Jabber</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="60"/>
         <source>Yahoo!</source>
-        <translation/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="61"/>
         <source>Facebook</source>
-        <translation/>
+        <translation>Facebook</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="62"/>
         <source>Google Talk</source>
-        <translation/>
+        <translation>Google Talk</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="63"/>
         <source>IM</source>
-        <translation/>
+        <translation>IM</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="66"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>មិនចូលចិត្ត</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="84"/>
         <source>View</source>
-        <translation/>
+        <translation>មើល</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="85"/>
         <source>...</source>
-        <translation/>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -323,67 +323,67 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="32"/>
         <source>Home</source>
-        <translation/>
+        <translation>ទំព័រដើម</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="33"/>
         <source>Work</source>
-        <translation/>
+        <translation>ការងារ</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="34"/>
         <source>Other</source>
-        <translation/>
+        <translation>ផ្សេងៗ</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="35"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>ចល័ត</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="36"/>
         <source>First name</source>
-        <translation/>
+        <translation>ឈ្មោះ</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="37"/>
         <source>Last name</source>
-        <translation/>
+        <translation>ត្រកូល</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="38"/>
         <source>Company</source>
-        <translation/>
+        <translation>ក្រុមហ៊ុន</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="39"/>
         <source>Enter note</source>
-        <translation/>
+        <translation>ដាក់កំណត់ហេតុ</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="40"/>
         <source>Enter birthday</source>
-        <translation/>
+        <translation>ដាក់ថ្ងៃកំណើត</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="41"/>
         <source>Birthday</source>
-        <translation/>
+        <translation>ថ្ងៃកំណើត</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="42"/>
         <source>Note</source>
-        <translation/>
+        <translation>កំណត់ហេតុ</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="45"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>សំណប់</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="47"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>មិនចូលចិត្ត</translation>
     </message>
 </context>
 <context>
@@ -391,42 +391,42 @@
     <message>
         <location filename="../../EmailEditWidget.qml" line="23"/>
         <source>Home</source>
-        <translation/>
+        <translation>ទំព័រដើម</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="24"/>
         <source>Work</source>
-        <translation/>
+        <translation>ការងារ</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="25"/>
         <source>Other</source>
-        <translation/>
+        <translation>ផ្សេងៗ</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="26"/>
         <source>Email address</source>
-        <translation/>
+        <translation>អាសយដ្ឋានអ៊ីម៉ែល</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="27"/>
         <source>Email</source>
-        <translation/>
+        <translation>អ៊ីម៉ែល</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="28"/>
         <source>Add email address</source>
-        <translation/>
+        <translation>បញ្ចូលអ៊ីម៉ែល</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="29"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>មោឃ</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="30"/>
         <source>Add</source>
-        <translation/>
+        <translation>បញ្ចូល</translation>
     </message>
 </context>
 <context>
@@ -434,12 +434,12 @@
     <message>
         <location filename="../../EmptyContacts.qml" line="17"/>
         <source>You haven&apos;t added any contacts yet.</source>
-        <translation/>
+        <translation>លោកអ្នកមិនទាន់បញ្ចូលឈ្មោះអ្នកស្គាល់ទេ។</translation>
     </message>
     <message>
         <location filename="../../EmptyContacts.qml" line="18"/>
         <source>Add a contact</source>
-        <translation/>
+        <translation>បញ្ចូលឈ្មោះទំនាក់ទំនង</translation>
     </message>
 </context>
 <context>
@@ -447,7 +447,7 @@
     <message>
         <location filename="../../HeaderPortrait.qml" line="13"/>
         <source>#</source>
-        <translation/>
+        <translation>#</translation>
     </message>
 </context>
 <context>
@@ -455,67 +455,67 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="25"/>
         <source>Add account</source>
-        <translation/>
+        <translation>បន្ថែមគណនេយ្យ</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="26"/>
         <source>Instant messaging</source>
-        <translation/>
+        <translation>សារបន្ទាន់</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="27"/>
         <source>AIM</source>
-        <translation/>
+        <translation>AIM</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="28"/>
         <source>MSN</source>
-        <translation/>
+        <translation>MSN</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="29"/>
         <source>Jabber</source>
-        <translation/>
+        <translation>Jabber</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="30"/>
         <source>Yahoo</source>
-        <translation/>
+        <translation>Yahoo</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="31"/>
         <source>Facebook</source>
-        <translation/>
+        <translation>Facebook</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="32"/>
         <source>gTalk</source>
-        <translation/>
+        <translation>gTalk</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="33"/>
         <source>Account Name / ID</source>
-        <translation/>
+        <translation>ឈ្មោះគណនេយ្យ / ID</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="34"/>
         <source>No IM accounts are configured</source>
-        <translation/>
+        <translation>ពុំមានគណនេយ្យ IM បានបញ្ជាក់ទេ</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="35"/>
         <source>No buddies for this account</source>
-        <translation/>
+        <translation>ពុំមានមិត្តភក្តិសម្រាប់គណនេយ្យនេះទេ</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="36"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>មោឃ</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="37"/>
         <source>Add</source>
-        <translation/>
+        <translation>បញ្ចូល</translation>
     </message>
 </context>
 <context>
@@ -523,67 +523,67 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="29"/>
         <source>Home</source>
-        <translation/>
+        <translation>ទំព័រដើម</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="30"/>
         <source>Work</source>
-        <translation/>
+        <translation>ការងារ</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="31"/>
         <source>Other</source>
-        <translation/>
+        <translation>ផ្សេៗ</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="32"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>ចល័ត</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="33"/>
         <source>First name</source>
-        <translation/>
+        <translation>ឈ្មោះ</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="34"/>
         <source>Last name</source>
-        <translation/>
+        <translation>ត្រកូល</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="35"/>
         <source>Company</source>
-        <translation/>
+        <translation>ក្រុមហ៊ុន</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="36"/>
         <source>Enter note</source>
-        <translation/>
+        <translation>ដាក់កំណត់ហេតុ</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="37"/>
         <source>Enter birthday</source>
-        <translation/>
+        <translation>ដាក់ថ្ងៃកំណើត</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="38"/>
         <source>Birthday</source>
-        <translation/>
+        <translation>ថ្ងៃកំណើត</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="39"/>
         <source>Note</source>
-        <translation/>
+        <translation>កំណត់ហេតុ</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="43"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>មិនចូលចិត្ត</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="44"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>សំណប់</translation>
     </message>
 </context>
 <context>
@@ -591,52 +591,52 @@
     <message>
         <location filename="../../PhoneEditWidget.qml" line="23"/>
         <source>Address</source>
-        <translation/>
+        <translation>អាសយដ្ឋាន</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="24"/>
         <source>Home</source>
-        <translation/>
+        <translation>ទំព័រដើម</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="25"/>
         <source>Work</source>
-        <translation/>
+        <translation>ការងារ</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="26"/>
         <source>Other</source>
-        <translation/>
+        <translation>ផ្សេងៗ</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="27"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>ចល័ត</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="28"/>
         <source>Phone numbers</source>
-        <translation/>
+        <translation>លេខទូរស័ព្ទ</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="29"/>
         <source>Add number</source>
-        <translation/>
+        <translation>បញ្ចូលលេខ</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="30"/>
         <source>Phone number</source>
-        <translation/>
+        <translation>លេខទូរស័ព្ទ</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="31"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>មោឃ</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="32"/>
         <source>Add</source>
-        <translation/>
+        <translation>បន្ថែម</translation>
     </message>
 </context>
 <context>
@@ -644,37 +644,37 @@
     <message>
         <location filename="../../WebPageEditWidget.qml" line="23"/>
         <source>Add web page</source>
-        <translation/>
+        <translation>បន្ថែមគេហទំព័រ</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="24"/>
         <source>Site</source>
-        <translation/>
+        <translation>កន្លែង</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="25"/>
         <source>Web</source>
-        <translation/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="26"/>
         <source>Bookmark</source>
-        <translation/>
+        <translation>ចំណាំ</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="27"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>សំណប់</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="28"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>មោឃ</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="29"/>
         <source>Add</source>
-        <translation/>
+        <translation>បន្ថែម</translation>
     </message>
 </context>
 <context>
@@ -683,93 +683,93 @@
         <location filename="../../main.qml" line="15"/>
         <location filename="../../main.qml" line="39"/>
         <source>Contacts</source>
-        <translation/>
+        <translation>ទាក់ទង</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="23"/>
         <location filename="../../main.qml" line="41"/>
         <source>New contact</source>
-        <translation/>
+        <translation>ទំនាក់ទំនងថ្មី</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="24"/>
         <source>All</source>
-        <translation/>
+        <translation>ទាំងអស់</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="25"/>
         <source>Favorites</source>
-        <translation/>
+        <translation>សំណប់</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>Who&apos;s online</source>
-        <translation/>
+        <translation>Who&apos;s online</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
         <source>View</source>
-        <translation/>
+        <translation>មើល</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Share</source>
-        <translation/>
+        <translation>ចែករំលែក</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>Email</source>
-        <translation/>
+        <translation>អ៊ីម៉ែល</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>សំណប់</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Edit</source>
-        <translation/>
+        <translation>កែ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="33"/>
         <source>Save</source>
-        <translation/>
+        <translation>រក្សា</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>មោឃ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
         <source>Delete</source>
-        <translation/>
+        <translation>លុប</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
         <source>Delete Confirmation</source>
-        <translation/>
+        <translation>បញ្ជាក់អំពីការលុប</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="40"/>
         <source>Contact details</source>
-        <translation/>
+        <translation>ពិស្ដារអំពីទំនាក់ទំនង</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="42"/>
         <source>Edit contacts</source>
-        <translation/>
+        <translation>កែទំនាក់ទំនង</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="44"/>
         <source>this contact</source>
-        <translation/>
+        <translation>ទាក់ទង</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="45"/>
         <source>Are you sure you want to remove %1 from your contacts?</source>
-        <translation/>
+        <translation>លោកអ្នកចង់យកចេញ %1 ពីបញ្ជីទំនាក់ទំនង?</translation>
     </message>
 </context>
 </TS>

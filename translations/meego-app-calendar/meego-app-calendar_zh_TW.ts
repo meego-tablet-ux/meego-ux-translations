@@ -4,7 +4,7 @@
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="26"/>
         <source>No reminder</source>
-        <translation/>
+        <translation>不提醒</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="27"/>
@@ -73,7 +73,7 @@
     <message>
         <location filename="../../CalendarDayView.qml" line="559"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -94,7 +94,7 @@
         <location filename="../../CalendarListView.qml" line="172"/>
         <location filename="../../CalendarListView.qml" line="192"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../CalendarListView.qml" line="192"/>
@@ -123,7 +123,7 @@
         <location filename="../../CalendarMonthView.qml" line="51"/>
         <location filename="../../CalendarMonthView.qml" line="63"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="170"/>
@@ -139,7 +139,7 @@
     <message>
         <location filename="../../CalendarMonthView.qml" line="534"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="578"/>
@@ -167,7 +167,7 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="496"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -378,7 +378,7 @@
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="27"/>
         <source>Never</source>
-        <translation/>
+        <translation>永不</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="28"/>
@@ -416,12 +416,12 @@
     <message>
         <location filename="../../lib/utilmethods.cpp" line="172"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="258"/>
         <source>No reminder</source>
-        <translation/>
+        <translation>不提醒</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="259"/>
@@ -472,7 +472,7 @@
     <message>
         <location filename="../../lib/utilmethods.cpp" line="276"/>
         <source>Never</source>
-        <translation/>
+        <translation>永不</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="277"/>
@@ -505,17 +505,17 @@
     <message>
         <location filename="../../lib/viewcalendarmodel.cpp" line="29"/>
         <source>Day</source>
-        <translation/>
+        <translation>天</translation>
     </message>
     <message>
         <location filename="../../lib/viewcalendarmodel.cpp" line="30"/>
         <source>Week</source>
-        <translation/>
+        <translation>週</translation>
     </message>
     <message>
         <location filename="../../lib/viewcalendarmodel.cpp" line="31"/>
         <source>Month</source>
-        <translation/>
+        <translation>月</translation>
     </message>
 </context>
 <context>

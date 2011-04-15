@@ -5,7 +5,7 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="48"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="296"/>
         <source>Recently played</source>
-        <translation/>
+        <translation>Äskettäin soitetut</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="49"/>
@@ -21,17 +21,17 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="85"/>
         <source>Music settings</source>
-        <translation/>
+        <translation>Musiikkiasetukset</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="143"/>
         <source>Enjoy your music.</source>
-        <translation/>
+        <translation>Nauti musiikistasi.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="152"/>
         <source>Open Music!</source>
-        <translation/>
+        <translation>Avaa musiikki!</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="169"/>
@@ -64,12 +64,12 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="225"/>
         <source>Currently playing</source>
-        <translation/>
+        <translation>Nyt soitetaan</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="271"/>
         <source>Play queue</source>
-        <translation/>
+        <translation>Soittojono</translation>
     </message>
 </context>
 </TS>

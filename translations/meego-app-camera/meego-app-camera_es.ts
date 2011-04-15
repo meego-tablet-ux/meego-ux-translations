@@ -9,12 +9,12 @@
     <message>
         <location filename="../FlashButton.qml" line="56"/>
         <source>On</source>
-        <translation>Encendido</translation>
+        <translation>❘</translation>
     </message>
     <message>
         <location filename="../FlashButton.qml" line="56"/>
         <source>Off</source>
-        <translation>Apagado</translation>
+        <translation>○</translation>
     </message>
 </context>
 <context>

@@ -4,17 +4,17 @@
     <message>
         <location filename="../FlashButton.qml" line="56"/>
         <source>Auto</source>
-        <translation/>
+        <translation>Automaattinen</translation>
     </message>
     <message>
         <location filename="../FlashButton.qml" line="56"/>
         <source>On</source>
-        <translation/>
+        <translation>Päällä</translation>
     </message>
     <message>
         <location filename="../FlashButton.qml" line="56"/>
         <source>Off</source>
-        <translation/>
+        <translation>Pois</translation>
     </message>
 </context>
 <context>
@@ -27,7 +27,7 @@
     <message>
         <location filename="../NoSpaceDialog.qml" line="14"/>
         <source>Open Photos</source>
-        <translation/>
+        <translation>Avaa valokuvat</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="15"/>
@@ -37,7 +37,7 @@
     <message>
         <location filename="../NoSpaceDialog.qml" line="18"/>
         <source>There is no storage space left on the device. To take more photos or video, you may want to delete some existing content.</source>
-        <translation>Laitteella ei ole tilaa. Poista aiempaa sisältöä, jos haluat ottaa lisää kuvia tai videoleikkeitä.</translation>
+        <translation>Laitteen tallennustila on täynnä. Poista olemassa olevaa sisältöä ottaaksesi lisää kuvia tai videoleikkeitä.</translation>
     </message>
 </context>
 </TS>

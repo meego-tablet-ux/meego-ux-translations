@@ -11,32 +11,33 @@ Please check your username.</source>
         <location filename="../../plugin/IM/AccountContent.qml" line="152"/>
         <source>Sorry, there was a problem logging in. 
 Please check your username and password.</source>
-        <translation/>
+        <translation>សូមទោស មានបញ្ហា logging in។
+ពិនិត្យឈ្មោះ និងលេខសម្ងាត់ឡើងវិញ។</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="168"/>
         <source>Username:</source>
-        <translation/>
+        <translation>ឈ្មោះ:</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="179"/>
         <source>Name / ID</source>
-        <translation/>
+        <translation>ឈ្មោះ / ID</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="187"/>
         <source>Password:</source>
-        <translation/>
+        <translation>លេខសម្ងាត់:</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="199"/>
         <source>Password</source>
-        <translation/>
+        <translation>លេខសម្ងាត់</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="216"/>
         <source>Advanced settings</source>
-        <translation/>
+        <translation>ការកំណត់ជាន់ខ្ពស់</translation>
     </message>
 </context>
 <context>
@@ -44,12 +45,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/IM/AccountContentDialog.qml" line="112"/>
         <source>Done</source>
-        <translation/>
+        <translation>រួចស្រេច</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContentDialog.qml" line="133"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>មោឃ</translation>
     </message>
 </context>
 <context>
@@ -57,12 +58,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../AccountDelegate.qml" line="140"/>
         <source>Log out</source>
-        <translation/>
+        <translation>Log out</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="142"/>
         <source>Log in to %1</source>
-        <translation/>
+        <translation>Log in to %1</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="144"/>
@@ -75,7 +76,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../AccountOffline.qml" line="24"/>
         <source>Account is offline</source>
-        <translation/>
+        <translation>គណនេយ្យ offline</translation>
     </message>
 </context>
 <context>
@@ -84,17 +85,17 @@ Please check your username and password.</source>
         <location filename="../../AccountScreenContent.qml" line="15"/>
         <location filename="../../AccountScreenContent.qml" line="19"/>
         <source>Account list</source>
-        <translation/>
+        <translation>បញ្ជីគណនេយ្យ</translation>
     </message>
     <message>
         <location filename="../../AccountScreenContent.qml" line="50"/>
         <source>Choose an account</source>
-        <translation/>
+        <translation>ជើសគណនេយ្យ</translation>
     </message>
     <message>
         <location filename="../../AccountScreenContent.qml" line="81"/>
         <source>Add an account</source>
-        <translation/>
+        <translation>បន្ថែមគណនេយ្យ</translation>
     </message>
 </context>
 <context>
@@ -102,12 +103,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="36"/>
         <source>Update</source>
-        <translation/>
+        <translation>ធ្វើឲ្យទាន់សម័យ</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="54"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>មោឃ</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="73"/>

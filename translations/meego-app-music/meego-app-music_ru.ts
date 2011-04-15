@@ -278,7 +278,7 @@
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>Yes, Delete</source>
-        <translation/>
+        <translation>Да, удалить</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="73"/>
@@ -376,7 +376,7 @@
         <location filename="../../main.qml" line="1714"/>
         <location filename="../../main.qml" line="2035"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 минут</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1715"/>

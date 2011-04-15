@@ -122,7 +122,7 @@
     <message>
         <location filename="../../TasksDatePicker.qml" line="102"/>
         <source>yyyy</source>
-        <translation>yyyy</translation>
+        <translation>aaaa</translation>
     </message>
 </context>
 <context>
@@ -165,7 +165,7 @@
     <message>
         <location filename="../../TasksDetailWindow.qml" line="374"/>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <location filename="../../TasksDetailWindow.qml" line="391"/>
@@ -178,7 +178,7 @@
     <message>
         <location filename="../../TasksModalDialog.qml" line="75"/>
         <source>Title text</source>
-        <translation>Texte de titre</translation>
+        <translation>Texte du titre</translation>
     </message>
 </context>
 <context>
@@ -322,7 +322,7 @@
     <message>
         <location filename="../../main.qml" line="69"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="284"/>

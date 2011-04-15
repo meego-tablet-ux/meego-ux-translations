@@ -67,7 +67,7 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="26"/>
         <source>...</source>
-        <translation/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="72"/>
@@ -97,13 +97,13 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="77"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="104"/>
         <location filename="../../ContactCardPortrait.qml" line="106"/>
         <source>%1  %2</source>
-        <translation/>
+        <translation>%1  %2</translation>
     </message>
 </context>
 <context>
@@ -111,37 +111,37 @@
     <message>
         <location filename="../../ContactsSettings.qml" line="16"/>
         <source>Contacts Settings</source>
-        <translation/>
+        <translation>Yhteystietojen asetukset</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="17"/>
         <source>Sort Order:</source>
-        <translation/>
+        <translation>Lajittelujärjestys:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="18"/>
         <source>Display Order:</source>
-        <translation/>
+        <translation>Näyttöjärjestys:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="19"/>
         <source>Sort by first name</source>
-        <translation/>
+        <translation>Lajittele etunimillä</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Sort by last name</source>
-        <translation/>
+        <translation>Lajittele sukunimillä</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="21"/>
         <source>Display by first name</source>
-        <translation/>
+        <translation>Näytä etunimillä</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Display by last name</source>
-        <translation/>
+        <translation>Näytä sukunimillä</translation>
     </message>
 </context>
 <context>
@@ -164,7 +164,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="32"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="34"/>
@@ -315,7 +315,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="85"/>
         <source>...</source>
-        <translation/>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -500,7 +500,7 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="34"/>
         <source>No IM accounts are configured</source>
-        <translation/>
+        <translation>Pikaviestitilejä ei asetettu</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="35"/>

@@ -4,12 +4,12 @@
     <message>
         <location filename="../../Alarm.qml" line="31"/>
         <source>On</source>
-        <translation>Вкл.</translation>
+        <translation>❘</translation>
     </message>
     <message>
         <location filename="../../Alarm.qml" line="31"/>
         <source>Off</source>
-        <translation>Выкл.</translation>
+        <translation>○</translation>
     </message>
 </context>
 <context>
@@ -52,12 +52,12 @@
     <message>
         <location filename="../../NewAlarmMenu.qml" line="33"/>
         <source>On</source>
-        <translation>Вкл.</translation>
+        <translation>❘</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="33"/>
         <source>Off</source>
-        <translation>Выкл.</translation>
+        <translation>○</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="34"/>

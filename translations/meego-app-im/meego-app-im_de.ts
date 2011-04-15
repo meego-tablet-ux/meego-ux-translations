@@ -32,7 +32,7 @@ Bitte prüfen Sie Ihren Benutzernamen und Ihr Kennwort.</translation>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="199"/>
         <source>Password</source>
-        <translation/>
+        <translation>Kennwort</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="216"/>
@@ -68,7 +68,7 @@ Bitte prüfen Sie Ihren Benutzernamen und Ihr Kennwort.</translation>
     <message>
         <location filename="../../AccountDelegate.qml" line="144"/>
         <source>Settings</source>
-        <translation/>
+        <translation>Einstellungen</translation>
     </message>
 </context>
 <context>
@@ -158,24 +158,24 @@ Bitte prüfen Sie Ihren Benutzernamen und Ihr Kennwort.</translation>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="112"/>
         <source>Unable to create media call for contact %1</source>
-        <translation/>
+        <translation>Medienanruf für %1 kann nicht erstellt werden</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="160"/>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="169"/>
         <source>Error ending call</source>
-        <translation/>
+        <translation>Fehler beim Auflegen</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="194"/>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="898"/>
         <source>Call could not be accepted</source>
-        <translation/>
+        <translation>Anruf konnte nicht angenommen werden</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="366"/>
         <source>Could not set hold = %</source>
-        <translation/>
+        <translation>Warteschleife konnte nicht gesetzt werden = %</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="462"/>
@@ -186,42 +186,42 @@ Bitte prüfen Sie Ihren Benutzernamen und Ihr Kennwort.</translation>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="557"/>
         <source>Unable to create call channel for contact %1</source>
-        <translation/>
+        <translation>Anrufkanal für Kontakt %1 kann nicht erstellt werden</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="857"/>
         <source>Unable to create channel: %1 - %2</source>
-        <translation/>
+        <translation>Kanal kann nicht erstellt werden: %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="872"/>
         <source>Unable to create channel</source>
-        <translation/>
+        <translation>Kanal kann nicht erstellt werden</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="886"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>Anrufkanal für Kontakt %1 - %2 - %3 kann nicht erstellt werden</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="942"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>Ungültiger Anrufkanal für Kontakt %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1210"/>
         <source>Error ending call: %1 - %2</source>
-        <translation/>
+        <translation>Fehler beim Auflegen: %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1224"/>
         <source>Call could not be accepted %1 - %2</source>
-        <translation/>
+        <translation>Anruf konnte nicht angenommen werden %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1238"/>
         <source>Hold request could not be done %1 - %2</source>
-        <translation/>
+        <translation>Konnte nicht in Warteschleife gesetzt werden %1 - %2</translation>
     </message>
 </context>
 <context>
@@ -277,12 +277,12 @@ Bitte prüfen Sie Ihren Benutzernamen und Ihr Kennwort.</translation>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="32"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Ja</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="35"/>
         <source>No</source>
-        <translation/>
+        <translation>Nein</translation>
     </message>
 </context>
 <context>
@@ -325,7 +325,7 @@ Bitte prüfen Sie Ihren Benutzernamen und Ihr Kennwort.</translation>
     <message>
         <location filename="../../ContactContentMenu.qml" line="409"/>
         <source>Update</source>
-        <translation/>
+        <translation>Aktualisieren</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="444"/>

@@ -4,7 +4,7 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="71"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="100"/>
@@ -31,13 +31,13 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="124"/>
         <source>Receiving settings</source>
-        <translation/>
+        <translation>Ezarpenak jasotzen</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="125"/>
         <location filename="../../settings/AccountExpandobox.qml" line="168"/>
         <source>You may need to contact your email provider for these settings.</source>
-        <translation/>
+        <translation>Beharbada zure email hornitzailearekin kontaktatu beharko duzu ezarpen hauendako</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="129"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="167"/>
         <source>Sending settings</source>
-        <translation/>
+        <translation>Ezarpenak bidaltzen</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="184"/>
@@ -96,12 +96,12 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="234"/>
         <source>Delete account</source>
-        <translation/>
+        <translation>Ezabatu kontua</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="236"/>
         <source>Are you sure you want to delete this account?</source>
-        <translation/>
+        <translation>Ziur zaude kontu hau ezabatu nahi duzula?</translation>
     </message>
 </context>
 <context>
@@ -109,12 +109,12 @@
     <message>
         <location filename="../../AccountPage.qml" line="112"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../AccountPage.qml" line="153"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -137,7 +137,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="70"/>
         <source>Update every</source>
-        <translation/>
+        <translation>Eguneratu</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="120"/>
@@ -152,7 +152,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="166"/>
         <source>Notifications</source>
-        <translation/>
+        <translation>Jakinarazpenak</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="184"/>
@@ -284,45 +284,45 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="46"/>
         <source>Account: %1</source>
-        <translation/>
+        <translation>Kontua: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="49"/>
         <source>Name: %1</source>
-        <translation/>
+        <translation>Izena: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="52"/>
         <source>Email address: %1</source>
-        <translation/>
+        <translation>Email helbidea: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="59"/>
         <source>Receiving:</source>
-        <translation/>
+        <translation>Jasotzen:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="62"/>
         <source>Server type: %1</source>
-        <translation/>
+        <translation>Zerbitzari mota: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="65"/>
         <location filename="../../settings/DetailsScreen.qml" line="84"/>
         <source>Server address: %1</source>
-        <translation/>
+        <translation>Zerbitzariaren helbidea: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="68"/>
         <location filename="../../settings/DetailsScreen.qml" line="87"/>
         <source>Port: %1</source>
-        <translation/>
+        <translation>Portua: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="71"/>
         <location filename="../../settings/DetailsScreen.qml" line="93"/>
         <source>Security: %1</source>
-        <translation/>
+        <translation>Segurtasuna: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="74"/>

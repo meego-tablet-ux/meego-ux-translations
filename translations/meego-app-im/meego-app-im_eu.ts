@@ -36,7 +36,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="216"/>
         <source>Advanced settings</source>
-        <translation/>
+        <translation>Ezarpen aurreratuak</translation>
     </message>
 </context>
 <context>
@@ -67,7 +67,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../AccountDelegate.qml" line="144"/>
         <source>Settings</source>
-        <translation/>
+        <translation>Ezarpenak</translation>
     </message>
 </context>
 <context>
@@ -89,12 +89,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../AccountScreenContent.qml" line="50"/>
         <source>Choose an account</source>
-        <translation/>
+        <translation>Hautaut kontu bat</translation>
     </message>
     <message>
         <location filename="../../AccountScreenContent.qml" line="81"/>
         <source>Add an account</source>
-        <translation/>
+        <translation>Gehitu kontu bat</translation>
     </message>
 </context>
 <context>
@@ -102,17 +102,17 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="36"/>
         <source>Update</source>
-        <translation/>
+        <translation>Eguneratu</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="54"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Utzi</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="73"/>
         <source>Delete account</source>
-        <translation/>
+        <translation>Ezabatu kontua</translation>
     </message>
 </context>
 <context>
@@ -120,7 +120,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../AddAFriend.qml" line="59"/>
         <source>Send</source>
-        <translation/>
+        <translation>Bidali</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="88"/>
@@ -276,12 +276,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="32"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Bai</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="35"/>
         <source>No</source>
-        <translation/>
+        <translation>Ez</translation>
     </message>
 </context>
 <context>
@@ -294,17 +294,17 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactContentMenu.qml" line="204"/>
         <source>Available</source>
-        <translation/>
+        <translation>Erabilgarri</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="209"/>
         <source>Away</source>
-        <translation/>
+        <translation>Kanpoan</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="214"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Lanpetuta</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="219"/>
@@ -314,7 +314,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactContentMenu.qml" line="224"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="337"/>
@@ -324,22 +324,22 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactContentMenu.qml" line="409"/>
         <source>Update</source>
-        <translation/>
+        <translation>Eguneratu</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="444"/>
         <source>Add a friend</source>
-        <translation/>
+        <translation>Gehitu lagun bat</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="505"/>
         <source>Log in</source>
-        <translation/>
+        <translation>Sartu</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="505"/>
         <source>Log out</source>
-        <translation/>
+        <translation>Irten</translation>
     </message>
 </context>
 <context>
@@ -347,17 +347,17 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactPickerContent.qml" line="50"/>
         <source>Add contacts to chat</source>
-        <translation/>
+        <translation>Gehitu kontaktuak txatera</translation>
     </message>
     <message>
         <location filename="../../ContactPickerContent.qml" line="125"/>
         <source>Add</source>
-        <translation/>
+        <translation>Gehitu</translation>
     </message>
     <message>
         <location filename="../../ContactPickerContent.qml" line="164"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Utzi</translation>
     </message>
 </context>
 <context>
@@ -365,17 +365,17 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="124"/>
         <source>available</source>
-        <translation/>
+        <translation>erabilgarri</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="126"/>
         <source>busy</source>
-        <translation/>
+        <translation>lanpetuta</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="128"/>
         <source>away</source>
-        <translation/>
+        <translation>kanpoan</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="130"/>
@@ -385,7 +385,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="132"/>
         <source>offline</source>
-        <translation/>
+        <translation>offline</translation>
     </message>
 </context>
 <context>
@@ -398,12 +398,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="61"/>
         <source>Accept</source>
-        <translation/>
+        <translation>Onartu</translation>
     </message>
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="80"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Utzi</translation>
     </message>
 </context>
 <context>
@@ -411,22 +411,22 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactsDelegate.qml" line="73"/>
         <source>Return to chat</source>
-        <translation/>
+        <translation>Txatera itzuli</translation>
     </message>
     <message>
         <location filename="../../ContactsDelegate.qml" line="75"/>
         <source>Open chat</source>
-        <translation/>
+        <translation>Ireki txata</translation>
     </message>
     <message>
         <location filename="../../ContactsDelegate.qml" line="79"/>
         <source>Call</source>
-        <translation/>
+        <translation>Deia</translation>
     </message>
     <message>
         <location filename="../../ContactsDelegate.qml" line="82"/>
         <source>Video call</source>
-        <translation/>
+        <translation>Bideo deia</translation>
     </message>
     <message>
         <location filename="../../ContactsDelegate.qml" line="87"/>
@@ -441,12 +441,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactsDelegate.qml" line="95"/>
         <source>End chat</source>
-        <translation/>
+        <translation>Amaitu txata</translation>
     </message>
     <message>
         <location filename="../../ContactsDelegate.qml" line="99"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>Ezabatu kontaktua</translation>
     </message>
 </context>
 <context>
@@ -454,7 +454,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactsLoading.qml" line="27"/>
         <source>Loading contacts</source>
-        <translation/>
+        <translation>Kontaktuak kargatzen</translation>
     </message>
 </context>
 <context>
@@ -481,12 +481,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="132"/>
         <source>Sent:</source>
-        <translation/>
+        <translation>Bidalita:</translation>
     </message>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="134"/>
         <source>Uploading:</source>
-        <translation/>
+        <translation>Igotzen:</translation>
     </message>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="138"/>
@@ -506,7 +506,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="206"/>
         <source>Open</source>
-        <translation/>
+        <translation>Ireki</translation>
     </message>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="226"/>
@@ -526,17 +526,17 @@ Please check your username and password.</source>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="257"/>
         <source>Save</source>
-        <translation/>
+        <translation>Gorde</translation>
     </message>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="273"/>
         <source>Decline</source>
-        <translation/>
+        <translation>Ez onartu</translation>
     </message>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="303"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Utzi</translation>
     </message>
 </context>
 <context>
@@ -603,7 +603,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="295"/>
         <source>%1 is calling you</source>
-        <translation/>
+        <translation>%1 zuri deitzen ari da</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="298"/>
@@ -613,12 +613,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="301"/>
         <source>Calling %1</source>
-        <translation/>
+        <translation>%1-ri deitzen</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="304"/>
         <source>Call with %1 started</source>
-        <translation/>
+        <translation>Deia %1-rekin hasita</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="307"/>
@@ -628,22 +628,22 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="363"/>
         <source>%1 bytes</source>
-        <translation/>
+        <translation>%1 byte</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="367"/>
         <source>%1 KB</source>
-        <translation/>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="371"/>
         <source>%1 MB</source>
-        <translation/>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="375"/>
         <source>%1 GB</source>
-        <translation/>
+        <translation>%1 GB</translation>
     </message>
 </context>
 <context>
@@ -663,7 +663,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="424"/>
         <source>Add as friend?</source>
-        <translation/>
+        <translation>Gehitu lagun bezala?</translation>
     </message>
 </context>
 <context>
@@ -671,7 +671,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/imgroupchatmodelitem.cpp" line="69"/>
         <source>%1 chatting</source>
-        <translation/>
+        <translation>%1 txateatzen</translation>
     </message>
 </context>
 <context>
@@ -684,17 +684,17 @@ Please check your username and password.</source>
     <message>
         <location filename="../../settings/ImSettings.qml" line="80"/>
         <source>Accounts</source>
-        <translation/>
+        <translation>Kontuak</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="110"/>
         <source>Add another account</source>
-        <translation/>
+        <translation>Gehitu beste kontu bat</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="127"/>
         <source>General Settings</source>
-        <translation/>
+        <translation>Ezarpen orokorrak</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="151"/>
@@ -722,12 +722,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../IncomingCall.qml" line="19"/>
         <source>Accept</source>
-        <translation/>
+        <translation>Onartu</translation>
     </message>
     <message>
         <location filename="../../IncomingCall.qml" line="22"/>
         <source>Decline</source>
-        <translation/>
+        <translation>Ez onartu</translation>
     </message>
     <message>
         <location filename="../../IncomingCall.qml" line="33"/>
@@ -755,12 +755,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="90"/>
         <source>Server:</source>
-        <translation/>
+        <translation>Zerbitzaria:</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="103"/>
         <source>Port:</source>
-        <translation/>
+        <translation>Portua:</translation>
     </message>
 </context>
 <context>
@@ -776,12 +776,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../MessageContactsDelegate.qml" line="51"/>
         <source>Private chat</source>
-        <translation/>
+        <translation>Txat pribatua</translation>
     </message>
     <message>
         <location filename="../../MessageContactsDelegate.qml" line="55"/>
         <source>Add to contacts</source>
-        <translation/>
+        <translation>Gehitu kontaktuetara</translation>
     </message>
 </context>
 <context>
@@ -789,12 +789,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../MessageContentMenu.qml" line="63"/>
         <source>Add contacts to chat</source>
-        <translation/>
+        <translation>Gehitu kontaktuak txatera</translation>
     </message>
     <message>
         <location filename="../../MessageContentMenu.qml" line="97"/>
         <source>End chat</source>
-        <translation/>
+        <translation>Amaitu txata</translation>
     </message>
 </context>
 <context>
@@ -803,7 +803,7 @@ Please check your username and password.</source>
         <location filename="../../MessageDelegate.qml" line="207"/>
         <location filename="../../MessageDelegate.qml" line="214"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -821,7 +821,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../MessageScreenContent.qml" line="349"/>
         <source>Send</source>
-        <translation/>
+        <translation>Bidali</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="756"/>
@@ -836,17 +836,17 @@ Please check your username and password.</source>
     <message>
         <location filename="../../MessageScreenContent.qml" line="757"/>
         <source>Disable camera</source>
-        <translation/>
+        <translation>Ezgaitu kamera</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="757"/>
         <source>Enable camera</source>
-        <translation/>
+        <translation>Kamera gaitu</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="758"/>
         <source>Swap camera</source>
-        <translation/>
+        <translation>Aldatu kamera</translation>
     </message>
 </context>
 <context>
@@ -870,17 +870,17 @@ Please check your username and password.</source>
     <message>
         <location filename="../../PictureChangeMenu.qml" line="108"/>
         <source>Change your picture:</source>
-        <translation/>
+        <translation>Aldatu zure irudia:</translation>
     </message>
     <message>
         <location filename="../../PictureChangeMenu.qml" line="115"/>
         <source>Take picture</source>
-        <translation/>
+        <translation>Argazkia atera</translation>
     </message>
     <message>
         <location filename="../../PictureChangeMenu.qml" line="122"/>
         <source>Choose picture</source>
-        <translation/>
+        <translation>Hautatu argazkia</translation>
     </message>
 </context>
 <context>
@@ -888,12 +888,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../SendFileView.qml" line="46"/>
         <source>Send:</source>
-        <translation/>
+        <translation>Bidali:</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="71"/>
         <source>Photo</source>
-        <translation/>
+        <translation>Argazkia</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="99"/>
@@ -903,12 +903,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../SendFileView.qml" line="127"/>
         <source>Music</source>
-        <translation/>
+        <translation>Musika</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="154"/>
         <source>Contact Details</source>
-        <translation/>
+        <translation>Kontaktuaren xehetasunak</translation>
     </message>
 </context>
 <context>
@@ -916,7 +916,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="484"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -924,7 +924,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Chat</source>
-        <translation/>
+        <translation>Txata</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="231"/>
@@ -945,17 +945,17 @@ Please check your username and password.</source>
     <message>
         <location filename="../../main.qml" line="387"/>
         <source>available</source>
-        <translation/>
+        <translation>erabilgarri</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="389"/>
         <source>busy</source>
-        <translation/>
+        <translation>lanpetuta</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="391"/>
         <source>away</source>
-        <translation/>
+        <translation>kanpoan</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="393"/>
@@ -965,7 +965,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../main.qml" line="395"/>
         <source>offline</source>
-        <translation/>
+        <translation>offline</translation>
     </message>
 </context>
 <context>
@@ -973,12 +973,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../utils.js" line="13"/>
         <source>Error</source>
-        <translation/>
+        <translation>Errorea</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="15"/>
         <source>No Call</source>
-        <translation/>
+        <translation>Deirik ez</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="19"/>
@@ -1013,7 +1013,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../utils.js" line="37"/>
         <source>Unknown</source>
-        <translation/>
+        <translation>Ezezaguna</translation>
     </message>
 </context>
 </TS>

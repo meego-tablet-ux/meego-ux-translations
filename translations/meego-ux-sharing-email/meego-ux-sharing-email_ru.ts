@@ -4,7 +4,7 @@
     <message>
         <location filename="../../emailsharingservice.cpp" line="47"/>
         <source>MeeGo Email</source>
-        <translation>Электронная почта MeeGo</translation>
+        <translation>Эл. почта MeeGo</translation>
     </message>
     <message>
         <location filename="../../emailsharingservice.cpp" line="63"/>
@@ -14,7 +14,7 @@
     <message>
         <location filename="../../emailsharingservice.cpp" line="78"/>
         <source>Email</source>
-        <translation>Электронная почта</translation>
+        <translation>Эл. почта</translation>
     </message>
 </context>
 </TS>
