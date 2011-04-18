@@ -12,7 +12,7 @@
         <location filename="../../src/DataHandler.cpp" line="494"/>
         <location filename="../../src/DataHandler.cpp" line="498"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../src/DataHandler.cpp" line="1299"/>
@@ -120,7 +120,7 @@
     <message>
         <location filename="../../NoteDetail.qml" line="99"/>
         <source>Start typing a new note.</source>
-        <translation/>
+        <translation>Start typing a new note.</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="127"/>
@@ -189,13 +189,13 @@ this notebook?</source>
     <message>
         <location filename="../../NotebooksView.qml" line="55"/>
         <source>Alphabetical order</source>
-        <translation/>
+        <translation>Alphabetical order</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="82"/>
         <location filename="../../NotebooksView.qml" line="117"/>
         <source>%1 Note</source>
-        <translation/>
+        <translation>%1 Note</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="84"/>
@@ -269,7 +269,7 @@ delete these %1 notebooks?</translation>
     <message>
         <location filename="../../NotebooksView.qml" line="404"/>
         <source>Notebooks deleted</source>
-        <translation/>
+        <translation>Notebooks deleted</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="404"/>
@@ -285,7 +285,7 @@ delete these %1 notebooks?</translation>
         <location filename="../../NotebooksView.qml" line="409"/>
         <location filename="../../NotebooksView.qml" line="411"/>
         <source>%1 has been deleted</source>
-        <translation/>
+        <translation>&quot;%1&quot; has been deleted</translation>
     </message>
 </context>
 <context>
@@ -299,7 +299,7 @@ delete these %1 notebooks?</translation>
     <message>
         <location filename="../../NotesView.qml" line="40"/>
         <source>Select Multiple</source>
-        <translation/>
+        <translation>Select Multiple</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="59"/>
@@ -314,7 +314,7 @@ delete these %1 notebooks?</translation>
     <message>
         <location filename="../../NotesView.qml" line="64"/>
         <source>Alphabetical order</source>
-        <translation/>
+        <translation>Alphabetical order</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="103"/>
@@ -354,7 +354,7 @@ delete these %1 notebooks?</translation>
     <message>
         <location filename="../../NotesView.qml" line="386"/>
         <source>Rename</source>
-        <translation/>
+        <translation>Rename</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="411"/>
@@ -432,7 +432,7 @@ delete these %1 notes?</translation>
     <message>
         <location filename="../../NotesView.qml" line="573"/>
         <source>Notes deleted</source>
-        <translation/>
+        <translation>Notes deleted</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="573"/>
@@ -443,17 +443,17 @@ delete these %1 notes?</translation>
         <location filename="../../NotesView.qml" line="578"/>
         <location filename="../../NotesView.qml" line="580"/>
         <source>%1 has been deleted</source>
-        <translation/>
+        <translation>%1 has been deleted</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="597"/>
         <source>Rename Note</source>
-        <translation/>
+        <translation>Rename Note</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="607"/>
         <source>%1 (Renamed Note)</source>
-        <translation/>
+        <translation>%1 (Renamed Note)</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="635"/>
@@ -479,7 +479,7 @@ delete these %1 notes?</translation>
     <message>
         <location filename="../../src/DataHandler.cpp" line="25"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>Everyday Notes (default)</translation>
     </message>
 </context>
 <context>

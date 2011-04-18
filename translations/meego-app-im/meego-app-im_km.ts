@@ -113,7 +113,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="73"/>
         <source>Delete account</source>
-        <translation/>
+        <translation>លុបគណនេយ្យ</translation>
     </message>
 </context>
 <context>
@@ -121,22 +121,22 @@ Please check your username and password.</source>
     <message>
         <location filename="../../AddAFriend.qml" line="59"/>
         <source>Send</source>
-        <translation/>
+        <translation>ផ្ញើ</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="88"/>
         <source>Sending request</source>
-        <translation/>
+        <translation>កំពុងផ្ញើសំណើ</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="97"/>
         <source>Request sent</source>
-        <translation/>
+        <translation>សំណើត្រូវបានផ្ញើ</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="115"/>
         <source>Your device is not connected to a network. Please connect and try again.</source>
-        <translation/>
+        <translation>ឧបករណ៍របស់លោកអ្នកពុំបានភ្ជាប់បណ្ដាញ។ សូមភ្ជាប់ឡើងវិញ។</translation>
     </message>
 </context>
 <context>
@@ -145,12 +145,12 @@ Please check your username and password.</source>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="115"/>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="163"/>
         <source>An error occurred while trying to complete your request. Please try again.</source>
-        <translation/>
+        <translation>មានកំហុស។ សូមអនុវត្តម្ដងទៀត។</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="176"/>
         <source>Account not found. Please enter a valid account name.</source>
-        <translation/>
+        <translation>រកគណនេយ្យមិនឃើញ។ សូមដាក់ឈ្មោះគណនេយ្យឲ្យបានត្រឹកត្រូវ។</translation>
     </message>
 </context>
 <context>
@@ -158,70 +158,70 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="112"/>
         <source>Unable to create media call for contact %1</source>
-        <translation/>
+        <translation>មានអាចនិយាយតាមរយៈពហុព័ត៌មាន %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="160"/>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="169"/>
         <source>Error ending call</source>
-        <translation/>
+        <translation>មានកំហុសក្នុងការបញ្ចប់កិច្ចសន្ទនា</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="194"/>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="898"/>
         <source>Call could not be accepted</source>
-        <translation/>
+        <translation>ការហៅចេញពុំបានទទូល</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="366"/>
         <source>Could not set hold = %</source>
-        <translation/>
+        <translation>Could not set hold = %</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="462"/>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="617"/>
         <source>Channel not available</source>
-        <translation/>
+        <translation>hannel not available</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="557"/>
         <source>Unable to create call channel for contact %1</source>
-        <translation/>
+        <translation>Unable to create call channel for contact %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="857"/>
         <source>Unable to create channel: %1 - %2</source>
-        <translation/>
+        <translation>Unable to create channel: %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="872"/>
         <source>Unable to create channel</source>
-        <translation/>
+        <translation>Unable to create channel</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="886"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>Unable to create call channel for contact %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="942"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>Invalidated call channel for contact %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1210"/>
         <source>Error ending call: %1 - %2</source>
-        <translation/>
+        <translation>បញ្ចប់ការហៅមានកំហុស: %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1224"/>
         <source>Call could not be accepted %1 - %2</source>
-        <translation/>
+        <translation>មិនអាចទទួលបាន %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1238"/>
         <source>Hold request could not be done %1 - %2</source>
-        <translation/>
+        <translation>សំណើមិនត្រូវបានឆ្លើយតប %1 - %2</translation>
     </message>
 </context>
 <context>
@@ -229,7 +229,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="68"/>
         <source>Unable to create text channel room %1</source>
-        <translation/>
+        <translation>មិនអាចបង្កើត text channel room %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="126"/>

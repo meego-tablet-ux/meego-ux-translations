@@ -48,7 +48,7 @@
     <message>
         <location filename="../../EditableStringListView.qml" line="50"/>
         <source>+ Add new item</source>
-        <translation/>
+        <translation>+ Radjouter novea cayet</translation>
     </message>
     <message>
         <location filename="../../EditableStringListView.qml" line="79"/>
@@ -61,27 +61,27 @@
     <message>
         <location filename="../../TaskListPicker.qml" line="84"/>
         <source>Create a new list</source>
-        <translation/>
+        <translation>Ahiver ene novele djivêye</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="101"/>
         <source>OK</source>
-        <translation/>
+        <translation>I va</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="102"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Rinoncî</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="105"/>
         <source>Please name the new list</source>
-        <translation/>
+        <translation>Dinez on no al novele djivêye s&apos; i vz plait</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="113"/>
         <source>List name</source>
-        <translation/>
+        <translation>No del djivêye</translation>
     </message>
 </context>
 <context>
@@ -99,22 +99,22 @@
     <message>
         <location filename="../../TaskListView.qml" line="416"/>
         <source>Are you sure you want to delete these %1 tasks?</source>
-        <translation/>
+        <translation>Voloz vs disfacer ces %1 bouyes la po do bon ?</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="419"/>
         <source>Are you sure you want to delete this task?</source>
-        <translation/>
+        <translation>Voloz vs disfacer cisse bouye la po do bon ?</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="424"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Oyi</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="425"/>
         <source>No</source>
-        <translation/>
+        <translation>Neni</translation>
     </message>
 </context>
 <context>
@@ -327,7 +327,7 @@
     <message>
         <location filename="../../main.qml" line="284"/>
         <source>List name</source>
-        <translation/>
+        <translation>No del djivêye</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="530"/>

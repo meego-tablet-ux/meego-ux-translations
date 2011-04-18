@@ -298,12 +298,12 @@
     <message>
         <location filename="../../main.qml" line="77"/>
         <source>Where is all the music?</source>
-        <translation/>
+        <translation>Bütün müzikler nerede?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="78"/>
         <source>Buy, download or copy your music onto your table, then you can enjoy listening to it from here.</source>
-        <translation/>
+        <translation>Müziklerinizi, satın alıp, indirip veya masaüstünüze kopyaladığınızda, buradan dinleme keyfine erişebilirsiniz.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="543"/>
@@ -339,7 +339,7 @@
         <location filename="../../main.qml" line="656"/>
         <location filename="../../main.qml" line="714"/>
         <source>Invalid Characters: %1</source>
-        <translation/>
+        <translation>Geçersiz Karakterler:%1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="866"/>
@@ -353,12 +353,12 @@
     <message>
         <location filename="../../main.qml" line="894"/>
         <source>Actions</source>
-        <translation/>
+        <translation>Eylemler</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1444"/>
         <source>Sort</source>
-        <translation/>
+        <translation>Sırala</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1701"/>

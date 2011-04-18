@@ -111,17 +111,17 @@
     <message>
         <location filename="../../main.qml" line="335"/>
         <source>Filter By</source>
-        <translation/>
+        <translation>Passer al passete so</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="412"/>
         <source>No videos added yet, do you want to start watching videos?</source>
-        <translation/>
+        <translation>Co nole videyo di radjoutêye, voloz vs ataker a rwaitît des videyos ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="420"/>
         <source>Start recording your own or upload your favourite shows.</source>
-        <translation/>
+        <translation>Enondez l&apos; eredjistraedje di vos-minme oudon-bén eberwetez vos programes colås.</translation>
     </message>
 </context>
 </TS>

@@ -298,12 +298,12 @@
     <message>
         <location filename="../../main.qml" line="77"/>
         <source>Where is all the music?</source>
-        <translation/>
+        <translation>Onde estão todas as músicas?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="78"/>
         <source>Buy, download or copy your music onto your table, then you can enjoy listening to it from here.</source>
-        <translation/>
+        <translation>Compre, baixe ou copie suas músicas para sua tabela, então você poderá ouvir a partir daqui.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="543"/>
@@ -339,7 +339,7 @@
         <location filename="../../main.qml" line="656"/>
         <location filename="../../main.qml" line="714"/>
         <source>Invalid Characters: %1</source>
-        <translation/>
+        <translation>Caractéres inválidos: %1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="866"/>

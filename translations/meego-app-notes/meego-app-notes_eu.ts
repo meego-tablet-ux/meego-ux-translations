@@ -12,7 +12,7 @@
         <location filename="../../src/DataHandler.cpp" line="494"/>
         <location filename="../../src/DataHandler.cpp" line="498"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../src/DataHandler.cpp" line="1299"/>
@@ -120,7 +120,7 @@
     <message>
         <location filename="../../NoteDetail.qml" line="99"/>
         <source>Start typing a new note.</source>
-        <translation/>
+        <translation>Hasi idazten ohar berri bat</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="127"/>
@@ -190,13 +190,13 @@ koaderno hau?</translation>
     <message>
         <location filename="../../NotebooksView.qml" line="55"/>
         <source>Alphabetical order</source>
-        <translation/>
+        <translation>Ordena alfabetikoa</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="82"/>
         <location filename="../../NotebooksView.qml" line="117"/>
         <source>%1 Note</source>
-        <translation/>
+        <translation>%1 Ohar</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="84"/>
@@ -270,7 +270,7 @@ delete these %1 notebooks?</source>
     <message>
         <location filename="../../NotebooksView.qml" line="404"/>
         <source>Notebooks deleted</source>
-        <translation/>
+        <translation>Koadernoak ezabatuta</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="404"/>
@@ -286,7 +286,7 @@ delete these %1 notebooks?</source>
         <location filename="../../NotebooksView.qml" line="409"/>
         <location filename="../../NotebooksView.qml" line="411"/>
         <source>%1 has been deleted</source>
-        <translation/>
+        <translation>%1 ezabatua izan da</translation>
     </message>
 </context>
 <context>
@@ -300,7 +300,7 @@ delete these %1 notebooks?</source>
     <message>
         <location filename="../../NotesView.qml" line="40"/>
         <source>Select Multiple</source>
-        <translation/>
+        <translation>Hautatu hainbat</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="59"/>
@@ -315,7 +315,7 @@ delete these %1 notebooks?</source>
     <message>
         <location filename="../../NotesView.qml" line="64"/>
         <source>Alphabetical order</source>
-        <translation/>
+        <translation>Ordena alfabetikoa</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="103"/>
@@ -355,7 +355,7 @@ delete these %1 notebooks?</source>
     <message>
         <location filename="../../NotesView.qml" line="386"/>
         <source>Rename</source>
-        <translation/>
+        <translation>Berrizendatu</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="411"/>
@@ -433,7 +433,7 @@ delete these %1 notes?</source>
     <message>
         <location filename="../../NotesView.qml" line="573"/>
         <source>Notes deleted</source>
-        <translation/>
+        <translation>Oharrak ezabatuta</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="573"/>
@@ -444,17 +444,17 @@ delete these %1 notes?</source>
         <location filename="../../NotesView.qml" line="578"/>
         <location filename="../../NotesView.qml" line="580"/>
         <source>%1 has been deleted</source>
-        <translation/>
+        <translation>%1 ezabatua izan da</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="597"/>
         <source>Rename Note</source>
-        <translation/>
+        <translation>Berrizendatu oharra</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="607"/>
         <source>%1 (Renamed Note)</source>
-        <translation/>
+        <translation>%1 (Berrizendatutako oharra)</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="635"/>
@@ -480,7 +480,7 @@ delete these %1 notes?</source>
     <message>
         <location filename="../../src/DataHandler.cpp" line="25"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>Eguneroko oharrak (lehenetsia)</translation>
     </message>
 </context>
 <context>

@@ -111,17 +111,17 @@
     <message>
         <location filename="../../main.qml" line="335"/>
         <source>Filter By</source>
-        <translation/>
+        <translation>Filtrar por</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="412"/>
         <source>No videos added yet, do you want to start watching videos?</source>
-        <translation/>
+        <translation>Nenhum vídeo foi adicionado ainda, você quer começar a assistir videos?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="420"/>
         <source>Start recording your own or upload your favourite shows.</source>
-        <translation/>
+        <translation>Comece a gravar ou fazer upload de seus próprios shows favoritos.</translation>
     </message>
 </context>
 </TS>

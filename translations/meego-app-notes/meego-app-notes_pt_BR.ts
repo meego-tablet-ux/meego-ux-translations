@@ -12,7 +12,7 @@
         <location filename="../../src/DataHandler.cpp" line="494"/>
         <location filename="../../src/DataHandler.cpp" line="498"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../src/DataHandler.cpp" line="1299"/>
@@ -355,7 +355,7 @@ apagar estes %1 catálogos de notas?</translation>
     <message>
         <location filename="../../NotesView.qml" line="386"/>
         <source>Rename</source>
-        <translation/>
+        <translation>Renomeie</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="411"/>
@@ -449,12 +449,12 @@ apagar estas %1 notas?</translation>
     <message>
         <location filename="../../NotesView.qml" line="597"/>
         <source>Rename Note</source>
-        <translation/>
+        <translation>Renomeie observação</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="607"/>
         <source>%1 (Renamed Note)</source>
-        <translation/>
+        <translation>%1 (Observação renomeada)</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="635"/>
@@ -480,7 +480,7 @@ apagar estas %1 notas?</translation>
     <message>
         <location filename="../../src/DataHandler.cpp" line="25"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>Observações diárias (padrão)</translation>
     </message>
 </context>
 <context>

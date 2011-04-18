@@ -282,18 +282,18 @@
     <message>
         <location filename="../../Components/ShareObj.qml" line="227"/>
         <source>An error occurred while sharing: %1</source>
-        <translation/>
+        <translation>Errore bat gertatu da partekatzean: %1</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="232"/>
         <location filename="../../Components/ShareObj.qml" line="263"/>
         <source>Ok</source>
-        <translation/>
+        <translation>Ados</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="258"/>
         <source>Upload progress: %1%%</source>
-        <translation/>
+        <translation>Igotze prozesua: %1%%</translation>
     </message>
 </context>
 <context>

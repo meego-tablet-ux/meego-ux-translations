@@ -5,13 +5,13 @@
         <location filename="../../panelsrc/web/webpanel.qml" line="45"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="208"/>
         <source>Recently visited</source>
-        <translation/>
+        <translation>Senaste besökta</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="46"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="247"/>
         <source>Bookmarks</source>
-        <translation/>
+        <translation>Bokmärken</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="106"/>
@@ -26,12 +26,12 @@
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="142"/>
         <source>What&apos;s going on today? Open the browser to start using the web.</source>
-        <translation/>
+        <translation>Vad händer idag? Öppna bläddraren för att börja använda internet.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="151"/>
         <source>Open Browser!</source>
-        <translation/>
+        <translation>Öppna bläddrare!</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="168"/>
@@ -45,13 +45,13 @@
         <location filename="../../panelsrc/web/webpanel.qml" line="168"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="175"/>
         <source>Hide</source>
-        <translation/>
+        <translation>Göm</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="186"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="195"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Ta bort</translation>
     </message>
 </context>
 </TS>

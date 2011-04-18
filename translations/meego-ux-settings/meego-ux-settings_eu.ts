@@ -143,28 +143,28 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="61"/>
         <source>Country</source>
-        <translation/>
+        <translation>Estatua</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="78"/>
         <source>Provider</source>
-        <translation/>
+        <translation>Hornitzailea</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="93"/>
         <location filename="../../Wifi/CellularSettings.qml" line="115"/>
         <source>APN</source>
-        <translation/>
+        <translation>APN</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="126"/>
         <source>Username</source>
-        <translation/>
+        <translation>Erabiltzaile izena</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="137"/>
         <source>Password</source>
-        <translation/>
+        <translation>Pasahitza</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="149"/>
@@ -233,7 +233,7 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="25"/>
         <source>WiMAX</source>
-        <translation/>
+        <translation>WiMAX</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="61"/>
@@ -369,7 +369,7 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="198"/>
         <source>completed</source>
         <extracomment>Status message: successfully completed sync job. (PLACEHOLDER)</extracomment>
-        <translation/>
+        <translation>amaituta</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="205"/>
@@ -845,17 +845,17 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="198"/>
         <source>Invalid username or password.</source>
-        <translation/>
+        <translation>Baliogabezko erabiltzaile izena edo pasahitza</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="210"/>
         <source>Please wait for a moment ...</source>
-        <translation/>
+        <translation>Mesedez itxaron apur bat...</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="218"/>
         <source>Syncing now...</source>
-        <translation/>
+        <translation>Sinkronizatzen...</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="225"/>
@@ -865,7 +865,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="233"/>
         <source>Last synced time: %1</source>
-        <translation/>
+        <translation>Azkenego sinkronizazioa: %1</translation>
     </message>
 </context>
 <context>
@@ -873,7 +873,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/SyncList.qml" line="43"/>
         <source>Sync %1</source>
-        <translation/>
+        <translation>Sinkronizatu %1</translation>
     </message>
 </context>
 <context>
@@ -914,7 +914,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="127"/>
         <source>Sign in to your %1 account</source>
-        <translation/>
+        <translation>Sartu %1 kontura</translation>
     </message>
 </context>
 <context>
@@ -922,7 +922,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/SyncMain.qml" line="16"/>
         <source>Sync Settings</source>
-        <translation/>
+        <translation>Sink. Ezarpenak</translation>
     </message>
 </context>
 <context>
@@ -948,12 +948,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="109"/>
         <source>24 hour clock</source>
-        <translation/>
+        <translation>24 orduko erlojua</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="137"/>
         <source>Set date and time automatically</source>
-        <translation/>
+        <translation>Ezarri data eta ordua automatikoki</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="165"/>
@@ -1049,7 +1049,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="120"/>
         <source>Failed to Connect</source>
-        <translation/>
+        <translation>Akatsa konektatzean</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="123"/>
@@ -1121,7 +1121,7 @@ This action will forget any passwords and you will no longer be automatically co
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="331"/>
         <source>Hardware Address:</source>
-        <translation/>
+        <translation>Hardwarearen Helbidea:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="340"/>

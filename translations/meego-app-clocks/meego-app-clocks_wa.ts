@@ -17,37 +17,37 @@
     <message>
         <location filename="../../NewAlarmMenu.qml" line="25"/>
         <source>Mo</source>
-        <translation/>
+        <translation>Lo</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="26"/>
         <source>Tu</source>
-        <translation/>
+        <translation>Må</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="27"/>
         <source>We</source>
-        <translation/>
+        <translation>Mi</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="28"/>
         <source>Th</source>
-        <translation/>
+        <translation>Dj</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="29"/>
         <source>Fr</source>
-        <translation/>
+        <translation>Vé</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="30"/>
         <source>Sa</source>
-        <translation/>
+        <translation>Se</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="31"/>
         <source>Su</source>
-        <translation/>
+        <translation>Di</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="33"/>
@@ -173,36 +173,36 @@
     <message>
         <location filename="../../main.qml" line="378"/>
         <source>Alarm details</source>
-        <translation/>
+        <translation>Totafwait so l&apos; abranle</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="378"/>
         <source>Delete alarm</source>
-        <translation/>
+        <translation>Disfacer abranle</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="378"/>
         <location filename="../../main.qml" line="396"/>
         <source>Move to top</source>
-        <translation/>
+        <translation>Monter</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Edit clock</source>
-        <translation/>
+        <translation>Candjî ôrlodje</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Make local time</source>
-        <translation/>
+        <translation>Endè fé l&apos; eure coinrece</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Delete clock</source>
-        <translation/>
+        <translation>Disfacer l&apos; ôrlodje</translation>
     </message>
 </context>
 </TS>

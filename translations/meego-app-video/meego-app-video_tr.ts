@@ -66,22 +66,22 @@
     <message>
         <location filename="../../main.qml" line="163"/>
         <source>If you delete this, it will be removed from your device</source>
-        <translation>Eğer bunu silerseniz, cihazınıdanda kaldırılmış olacak.</translation>
+        <translation>Eğer bunu silerseniz, cihazınızdan da kaldırılmış olacak</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="178"/>
         <source>Permanently delete this video?</source>
-        <translation>Kalıcı olarak bu video silinsin mi?</translation>
+        <translation>Bu video kalıcı olarak silinsin mi?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="178"/>
         <source>Permanently delete these %1 videos?</source>
-        <translation>Kalıcı olarak bu %1 videolar silinsin mi?</translation>
+        <translation>Bu %1 videolar kalıcı olarak silinsin mi?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="200"/>
         <source>If you delete these, they will be removed from your device</source>
-        <translation>Eğer bunları silerseniz, cihazınızdanda kaldırılmış olacak</translation>
+        <translation>Eğer bunları silerseniz, cihazınızdan da kaldırılmış olacak</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="216"/>

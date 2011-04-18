@@ -17,37 +17,37 @@
     <message>
         <location filename="../../NewAlarmMenu.qml" line="25"/>
         <source>Mo</source>
-        <translation/>
+        <translation>Al</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="26"/>
         <source>Tu</source>
-        <translation/>
+        <translation>Ar</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="27"/>
         <source>We</source>
-        <translation/>
+        <translation>Az</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="28"/>
         <source>Th</source>
-        <translation/>
+        <translation>Os</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="29"/>
         <source>Fr</source>
-        <translation/>
+        <translation>Or</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="30"/>
         <source>Sa</source>
-        <translation/>
+        <translation>Lr</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="31"/>
         <source>Su</source>
-        <translation/>
+        <translation>Ig</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="33"/>
@@ -173,36 +173,36 @@
     <message>
         <location filename="../../main.qml" line="378"/>
         <source>Alarm details</source>
-        <translation/>
+        <translation>Alarmaren xehetasunak</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="378"/>
         <source>Delete alarm</source>
-        <translation/>
+        <translation>Ezabatu alarma</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="378"/>
         <location filename="../../main.qml" line="396"/>
         <source>Move to top</source>
-        <translation/>
+        <translation>Mugitu gora</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Edit clock</source>
-        <translation/>
+        <translation>Aldatu erlojua</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Make local time</source>
-        <translation/>
+        <translation>Bihurtu hemengo ordura</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Delete clock</source>
-        <translation/>
+        <translation>Ezabatu erlojua</translation>
     </message>
 </context>
 </TS>

@@ -30,27 +30,27 @@
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="92"/>
         <source>No connection currently</source>
-        <translation/>
+        <translation>Ez dago konexiorik</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="95"/>
         <source>Wired</source>
-        <translation/>
+        <translation>Kableduna</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="100"/>
         <source>Connected to %1</source>
-        <translation/>
+        <translation>%1-ra konektatuta</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="102"/>
         <source>Connecting...</source>
-        <translation/>
+        <translation>Konektatzen...</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="105"/>
         <source>Connected by %1</source>
-        <translation/>
+        <translation>%1-ren bidez konektauta</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="177"/>

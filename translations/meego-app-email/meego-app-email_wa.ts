@@ -37,18 +37,18 @@
         <location filename="../../settings/AccountExpandobox.qml" line="125"/>
         <location filename="../../settings/AccountExpandobox.qml" line="168"/>
         <source>You may need to contact your email provider for these settings.</source>
-        <translation/>
+        <translation>Vos dvoz motoit dmander des pondants et des djondants a voste ahesseu d&apos; emile po conoxhe ces tchuzes la.</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="129"/>
         <source>Server type</source>
-        <translation/>
+        <translation>Sôre di sierveu</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="135"/>
         <location filename="../../settings/AccountExpandobox.qml" line="172"/>
         <source>Server address</source>
-        <translation/>
+        <translation>Adresse do sierveu</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="141"/>
@@ -60,28 +60,28 @@
         <location filename="../../settings/AccountExpandobox.qml" line="147"/>
         <location filename="../../settings/AccountExpandobox.qml" line="190"/>
         <source>Security</source>
-        <translation/>
+        <translation>Såvrité</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="153"/>
         <location filename="../../settings/AccountExpandobox.qml" line="196"/>
         <source>Username</source>
-        <translation/>
+        <translation>No di l&apos; uzeu</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="167"/>
         <source>Sending settings</source>
-        <translation/>
+        <translation>Evoyaedje des tchuzes</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="184"/>
         <source>Authentication</source>
-        <translation/>
+        <translation>Otintifiaedje</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="214"/>
         <source>Delete Account</source>
-        <translation/>
+        <translation>Disfacer conte</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="232"/>
@@ -91,17 +91,17 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="233"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Rinoncî</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="234"/>
         <source>Delete account</source>
-        <translation/>
+        <translation>Disfacer conte</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="236"/>
         <source>Are you sure you want to delete this account?</source>
-        <translation/>
+        <translation>Voloz vs disfacer ç&apos; conte la po do bon ?</translation>
     </message>
 </context>
 <context>
@@ -122,92 +122,92 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="29"/>
         <source>Accounts</source>
-        <translation/>
+        <translation>Contes</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="46"/>
         <source>Set up new account</source>
-        <translation/>
+        <translation>Apontyî novea conte</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="59"/>
         <source>General Settings</source>
-        <translation/>
+        <translation>Tchuzes djeneråles</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="70"/>
         <source>Update every</source>
-        <translation/>
+        <translation>Mete a djoû to(te)s les</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="120"/>
         <source>Signature</source>
-        <translation/>
+        <translation>Sinateure</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="129"/>
         <source>&quot;%1&quot;</source>
-        <translation/>
+        <translation>&quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="166"/>
         <source>Notifications</source>
-        <translation/>
+        <translation>Notifiaedjes</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="184"/>
         <source>New email notifications</source>
-        <translation/>
+        <translation>Notifiaedjes  di noveas emiles</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="189"/>
         <source>Ask before deleting email</source>
-        <translation/>
+        <translation>Dimander dvant d&apos; disfacer èn emile</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="204"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Oyi</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="205"/>
         <source>No</source>
-        <translation/>
+        <translation>Neni</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="206"/>
         <source>Discard changes</source>
-        <translation/>
+        <translation>Abandner candjmints</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="208"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation/>
+        <translation>Vos avoz candjî vos apontiaedjes, voloz vs rinoncî po do bon ?</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="222"/>
         <source>OK</source>
-        <translation/>
+        <translation>I va</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="223"/>
         <source>Changes saved</source>
-        <translation/>
+        <translation>Candjmints schapés</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="225"/>
         <source>Your changes have been saved.</source>
-        <translation/>
+        <translation>Vos candjmints ont stî schapés.</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="244"/>
         <source>Save changes</source>
-        <translation/>
+        <translation>Schaper candjmints</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="262"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Rinoncî</translation>
     </message>
 </context>
 <context>
@@ -215,17 +215,17 @@
     <message>
         <location filename="../../AddAttachmentView.qml" line="58"/>
         <source>Photos</source>
-        <translation/>
+        <translation>Fotos</translation>
     </message>
     <message>
         <location filename="../../AddAttachmentView.qml" line="68"/>
         <source>Movies</source>
-        <translation/>
+        <translation>Fimes</translation>
     </message>
     <message>
         <location filename="../../AddAttachmentView.qml" line="78"/>
         <source>Music</source>
-        <translation/>
+        <translation>Muzike</translation>
     </message>
 </context>
 <context>
@@ -233,22 +233,22 @@
     <message>
         <location filename="../../ComposerView.qml" line="178"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Oyi</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="179"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Rinoncî</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="180"/>
         <source>Discard Email</source>
-        <translation/>
+        <translation>Abandner emile</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="182"/>
         <source>Are you sure you want to discard this unsent email?</source>
-        <translation/>
+        <translation>Voloz vs abandner po do bon cist emile nén evoyî ?</translation>
     </message>
 </context>
 <context>
@@ -256,22 +256,22 @@
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="29"/>
         <source>Account set up successfully!</source>
-        <translation/>
+        <translation>Conte apontyî comifåt !</translation>
     </message>
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="31"/>
         <source>Accounts</source>
-        <translation/>
+        <translation>Contes</translation>
     </message>
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="49"/>
         <source>Done</source>
-        <translation/>
+        <translation>Tot fwait</translation>
     </message>
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="61"/>
         <source>Set up another account?</source>
-        <translation/>
+        <translation>Apontyî èn ôte conte ?</translation>
     </message>
 </context>
 <context>
@@ -279,131 +279,131 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="43"/>
         <source>Account details</source>
-        <translation/>
+        <translation>Totafwait sol conte</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="46"/>
         <source>Account: %1</source>
-        <translation/>
+        <translation>Conte : %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="49"/>
         <source>Name: %1</source>
-        <translation/>
+        <translation>No : %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="52"/>
         <source>Email address: %1</source>
-        <translation/>
+        <translation>Adresse emile : %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="59"/>
         <source>Receiving:</source>
-        <translation/>
+        <translation>Riçuvaedje :</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="62"/>
         <source>Server type: %1</source>
-        <translation/>
+        <translation>Sôre di sierveu : %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="65"/>
         <location filename="../../settings/DetailsScreen.qml" line="84"/>
         <source>Server address: %1</source>
-        <translation/>
+        <translation>Adresse do sierveu : %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="68"/>
         <location filename="../../settings/DetailsScreen.qml" line="87"/>
         <source>Port: %1</source>
-        <translation/>
+        <translation>Pôrt : %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="71"/>
         <location filename="../../settings/DetailsScreen.qml" line="93"/>
         <source>Security: %1</source>
-        <translation/>
+        <translation>Såvrité : %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="74"/>
         <location filename="../../settings/DetailsScreen.qml" line="96"/>
         <source>Username: %1</source>
-        <translation/>
+        <translation>No di l&apos; uzeu : %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="81"/>
         <source>Sending:</source>
-        <translation/>
+        <translation>Evoyaedje :</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="90"/>
         <source>Authentication: %1</source>
-        <translation/>
+        <translation>Otintifiaedje : %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="105"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Oyi</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="106"/>
         <source>No</source>
-        <translation/>
+        <translation>Neni</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="107"/>
         <source>Discard changes</source>
-        <translation/>
+        <translation>Abandner candjmints</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="109"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation/>
+        <translation>Vos avoz candjî vos apontiaedjes, voloz vs î rnoncî po do bon ?</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="126"/>
         <source>OK</source>
-        <translation/>
+        <translation>I va</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="127"/>
         <source>Error</source>
-        <translation/>
+        <translation>Aroke</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="129"/>
         <source>Error %1: %2</source>
-        <translation/>
+        <translation>Aroke %1 : %2</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="134"/>
         <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
-        <translation/>
+        <translation>Dji rgrete mins nos n&apos; savans apontyî otomaticmint vosse conte. Rimplixhoz s&apos; i vs plait les detays sol conte :</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="155"/>
         <source>Testing account configuration...</source>
-        <translation/>
+        <translation>Asprouvaedje di l&apos; apontiaedje do conte...</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="184"/>
         <source>Next</source>
-        <translation/>
+        <translation>Shuvant</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="214"/>
         <source>Manual Edit</source>
-        <translation/>
+        <translation>Aspougnaedje al mwin</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="217"/>
         <source>Please fill in account details:</source>
-        <translation/>
+        <translation>Rimplixhoz s&apos; i vs plait les detays sol conte :</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="227"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Rinoncî</translation>
     </message>
 </context>
 <context>

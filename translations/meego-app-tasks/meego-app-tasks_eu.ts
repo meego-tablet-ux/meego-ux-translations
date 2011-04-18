@@ -14,7 +14,7 @@
     <message>
         <location filename="../../BottomBar.qml" line="23"/>
         <source>Move to (%1)</source>
-        <translation/>
+        <translation>Mugitu (%1)</translation>
     </message>
     <message>
         <location filename="../../BottomBar.qml" line="24"/>
@@ -48,7 +48,7 @@
     <message>
         <location filename="../../EditableStringListView.qml" line="50"/>
         <source>+ Add new item</source>
-        <translation/>
+        <translation>+Gehitu item berria</translation>
     </message>
     <message>
         <location filename="../../EditableStringListView.qml" line="79"/>
@@ -61,27 +61,27 @@
     <message>
         <location filename="../../TaskListPicker.qml" line="84"/>
         <source>Create a new list</source>
-        <translation/>
+        <translation>Sortu zerrenda berria</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="101"/>
         <source>OK</source>
-        <translation/>
+        <translation>Ados</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="102"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Utzi</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="105"/>
         <source>Please name the new list</source>
-        <translation/>
+        <translation>Mesedez izendatu zerrenda berria</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="113"/>
         <source>List name</source>
-        <translation/>
+        <translation>Zerrendaren izena</translation>
     </message>
 </context>
 <context>
@@ -99,22 +99,22 @@
     <message>
         <location filename="../../TaskListView.qml" line="416"/>
         <source>Are you sure you want to delete these %1 tasks?</source>
-        <translation/>
+        <translation>Seguru zaude %1 zeregin hauek ezabatu nahi dituzula?</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="419"/>
         <source>Are you sure you want to delete this task?</source>
-        <translation/>
+        <translation>Seguru zaude zeregin hau ezabatu nahi duzula?</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="424"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Bai</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="425"/>
         <source>No</source>
-        <translation/>
+        <translation>Ez</translation>
     </message>
 </context>
 <context>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../TasksDetailWindow.qml" line="178"/>
         <source>List:</source>
-        <translation/>
+        <translation>Zerrenda:</translation>
     </message>
     <message>
         <location filename="../../TasksDetailWindow.qml" line="239"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>Select multiple lists...</source>
-        <translation/>
+        <translation>Hautatu hainbat zerrenda...</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="27"/>
@@ -323,17 +323,17 @@
     <message>
         <location filename="../../main.qml" line="69"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="284"/>
         <source>List name</source>
-        <translation/>
+        <translation>Zerrendaren izena</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="530"/>
         <source>You can create a new list using the action menu</source>
-        <translation/>
+        <translation>Zerrenda berriak sortu ditzakezu akzio menua erabiliz</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="751"/>

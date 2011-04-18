@@ -4,7 +4,7 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="71"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="100"/>
@@ -109,12 +109,12 @@
     <message>
         <location filename="../../AccountPage.qml" line="112"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../AccountPage.qml" line="153"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -147,7 +147,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="129"/>
         <source>&quot;%1&quot;</source>
-        <translation/>
+        <translation>&quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="166"/>
@@ -157,12 +157,12 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="184"/>
         <source>New email notifications</source>
-        <translation>Yeni email bildirimi</translation>
+        <translation>Yeni e-mail bildirimi</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="189"/>
         <source>Ask before deleting email</source>
-        <translation>Emailleri silmeden önce sor</translation>
+        <translation>E-mailleri silmeden önce sor</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="204"/>
@@ -243,12 +243,12 @@
     <message>
         <location filename="../../ComposerView.qml" line="180"/>
         <source>Discard Email</source>
-        <translation>Emaili Göndermekten Vazgeç</translation>
+        <translation>E-maili Göndermekten Vazgeç</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="182"/>
         <source>Are you sure you want to discard this unsent email?</source>
-        <translation>Daha gönderilmemiş emaili göndermekten vazgeç?</translation>
+        <translation>Daha gönderilmemiş e-maili göndermekten vazgeç?</translation>
     </message>
 </context>
 <context>
@@ -294,7 +294,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="52"/>
         <source>Email address: %1</source>
-        <translation>Email adresi: %1</translation>
+        <translation>E-mail adresi: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="59"/>
@@ -373,12 +373,12 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="129"/>
         <source>Error %1: %2</source>
-        <translation/>
+        <translation>Hata %1: %2</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="134"/>
         <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
-        <translation>Özür dileriz, ayarlarınızı otomatik olarak yapamıyoruz. Lütfen hesap detaylarını girin.</translation>
+        <translation>Özür dileriz, ayarlarınızı otomatik olarak yapamıyoruz. Lütfen hesap detaylarını girin:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="155"/>
@@ -411,7 +411,7 @@
     <message>
         <location filename="../../EmailDropDown.qml" line="151"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -419,7 +419,7 @@
     <message>
         <location filename="../../EmailEntry.qml" line="38"/>
         <source>%1 &lt;%2&gt;</source>
-        <translation/>
+        <translation>%1 &lt;%2&gt;</translation>
     </message>
 </context>
 <context>
@@ -427,7 +427,7 @@
     <message>
         <location filename="../../EmailHeader.qml" line="67"/>
         <source>From:</source>
-        <translation>Gönderen:</translation>
+        <translation>Kimden:</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="91"/>
@@ -437,7 +437,7 @@
     <message>
         <location filename="../../EmailHeader.qml" line="113"/>
         <source>To:</source>
-        <translation/>
+        <translation>Kime:</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="117"/>
@@ -467,7 +467,7 @@
     <message>
         <location filename="../../EmailRecipient.qml" line="129"/>
         <source>Type a name or an email address</source>
-        <translation>İsim yada email adresi girin</translation>
+        <translation>İsim ya da e-mail adresi girin</translation>
     </message>
 </context>
 <context>
@@ -475,7 +475,7 @@
     <message>
         <location filename="../../settings/EmailSettings.qml" line="17"/>
         <source>Email Settings</source>
-        <translation>Email Ayarları</translation>
+        <translation>E-mail Ayarları</translation>
     </message>
 </context>
 <context>
@@ -488,7 +488,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="20"/>
         <source>Create new folder</source>
-        <translation>Klasör oluştur</translation>
+        <translation>Yeni klasör oluştur</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="21"/>
@@ -509,7 +509,8 @@
         <location filename="../../FolderListView.qml" line="58"/>
         <source>On %1 %2 wrote:
 </source>
-        <translation/>
+        <translation>On %1 %2 wrote:
+</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="93"/>
@@ -524,12 +525,12 @@
     <message>
         <location filename="../../FolderListView.qml" line="95"/>
         <source>Delete Email</source>
-        <translation>Emaili sil</translation>
+        <translation>E-maili sil</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="97"/>
         <source>Are you sure you want to delete this email?</source>
-        <translation>Bu emaili silmek istediğinize emin misiniz?</translation>
+        <translation>Bu e-maili silmek istediğinize emin misiniz?</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="133"/>
@@ -539,7 +540,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="134"/>
         <source>[Fwd: %1]</source>
-        <translation/>
+        <translation>[Gön: %1]</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="191"/>
@@ -593,7 +594,7 @@
         <location filename="../../settings/ManualScreen.qml" line="45"/>
         <location filename="../../settings/ManualScreen.qml" line="92"/>
         <source>You may need to contact your email provider for these settings.</source>
-        <translation>Bu ayarlar için email servis sağlayıcınızla bağlantı kurmanız gerekebilir.</translation>
+        <translation>Bu ayarlar için e-mail servis sağlayıcınızla bağlantı kurmanız gerekebilir.</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="49"/>
@@ -675,7 +676,7 @@
         <location filename="../../settings/ManualScreen.qml" line="217"/>
         <location filename="../../settings/ManualScreen.qml" line="223"/>
         <source>This field is required</source>
-        <translation/>
+        <translation>Bu alan gerekli</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="243"/>
@@ -713,7 +714,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="27"/>
         <source>Attachment saved.</source>
-        <translation/>
+        <translation>Ek kaydedildi.</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="39"/>
@@ -728,12 +729,12 @@
     <message>
         <location filename="../../ReadingView.qml" line="104"/>
         <source>From:</source>
-        <translation>Gönderen:</translation>
+        <translation>Kimden:</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="138"/>
         <source>To:</source>
-        <translation/>
+        <translation>Kime:</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="170"/>
@@ -761,12 +762,12 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="38"/>
         <source>Delete Email</source>
-        <translation>Emaili Sil</translation>
+        <translation>E-maili Sil</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="40"/>
         <source>Are you sure you want to delete this email?</source>
-        <translation>Bu emaili silmek istediğinize emin misiniz?</translation>
+        <translation>Bu e-maili silmek istediğinize emin misiniz?</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="61"/>
@@ -782,7 +783,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="185"/>
         <source>[Fwd: %1]</source>
-        <translation/>
+        <translation>[Gön: %1]</translation>
     </message>
 </context>
 <context>
@@ -790,7 +791,7 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="35"/>
         <source>Account description:</source>
-        <translation/>
+        <translation>Hesap açıklaması:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="43"/>
@@ -800,7 +801,7 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="49"/>
         <source>Email address:</source>
-        <translation>Email adresiniz:</translation>
+        <translation>E-mail adresiniz:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="56"/>
@@ -837,7 +838,7 @@
         <location filename="../../settings/RegisterScreen.qml" line="109"/>
         <location filename="../../settings/RegisterScreen.qml" line="115"/>
         <source>This field is required</source>
-        <translation/>
+        <translation>Bu alan gerekli</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="129"/>
@@ -887,7 +888,7 @@
     <message>
         <location filename="../../settings/WelcomeScreen.qml" line="28"/>
         <source>Welcome to your email.</source>
-        <translation>Email kutunuza hoşgeldiniz.</translation>
+        <translation>E-mail kutunuza hoşgeldiniz.</translation>
     </message>
     <message>
         <location filename="../../settings/WelcomeScreen.qml" line="34"/>
@@ -925,7 +926,7 @@
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Sort messages by:</source>
-        <translation/>
+        <translation>Mesajları sırala:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="54"/>
@@ -935,14 +936,14 @@
     <message>
         <location filename="../../main.qml" line="56"/>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="95"/>
         <location filename="../../main.qml" line="102"/>
         <location filename="../../main.qml" line="378"/>
         <source>Account switcher</source>
-        <translation>Hesap değiştir</translation>
+        <translation>Hesap değiştirici</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="126"/>
@@ -968,13 +969,13 @@
     <message>
         <location filename="../../main.qml" line="291"/>
         <source>[Fwd: %1]</source>
-        <translation/>
+        <translation>[Gön: %1]</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="315"/>
         <location filename="../../main.qml" line="340"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="373"/>
@@ -984,7 +985,7 @@
     <message>
         <location filename="../../main.qml" line="401"/>
         <source>Composer</source>
-        <translation/>
+        <translation>Yazar</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="455"/>
@@ -1048,7 +1049,7 @@
     <message>
         <location filename="../../settings/settings.js" line="72"/>
         <source>Plain</source>
-        <translation/>
+        <translation>Düz</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="73"/>

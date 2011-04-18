@@ -67,7 +67,7 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="26"/>
         <source>...</source>
-        <translation/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="72"/>
@@ -111,37 +111,37 @@
     <message>
         <location filename="../../ContactsSettings.qml" line="16"/>
         <source>Contacts Settings</source>
-        <translation/>
+        <translation>Kontaktuen Ezarpenak</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="17"/>
         <source>Sort Order:</source>
-        <translation/>
+        <translation>Antolatzeko ordena:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="18"/>
         <source>Display Order:</source>
-        <translation/>
+        <translation>Ordena erakutsi:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="19"/>
         <source>Sort by first name</source>
-        <translation/>
+        <translation>Ordenatu izenaren arabera</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Sort by last name</source>
-        <translation/>
+        <translation>Ordenatu abizenaren arabera</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="21"/>
         <source>Display by first name</source>
-        <translation/>
+        <translation>Erakutsi izenaren arabera</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Display by last name</source>
-        <translation/>
+        <translation>Erakutsi abizenaren arabera</translation>
     </message>
 </context>
 <context>

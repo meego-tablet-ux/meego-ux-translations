@@ -12,12 +12,12 @@
         <location filename="../../src/DataHandler.cpp" line="494"/>
         <location filename="../../src/DataHandler.cpp" line="498"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../src/DataHandler.cpp" line="1299"/>
         <source>dd-MMM-yyyy</source>
-        <translation>dd-MMM-yyyy</translation>
+        <translation>gg-AAA-yyyy</translation>
     </message>
 </context>
 <context>
@@ -56,7 +56,7 @@
     <message>
         <location filename="../../FontSelector.qml" line="185"/>
         <source>Cancel</source>
-        <translation>Iptal</translation>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -74,7 +74,7 @@
     <message>
         <location filename="../../FontSizeSelector.qml" line="177"/>
         <source>Cancel</source>
-        <translation>Iptal</translation>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -120,7 +120,7 @@
     <message>
         <location filename="../../NoteDetail.qml" line="99"/>
         <source>Start typing a new note.</source>
-        <translation/>
+        <translation>Yeni not yazmaya başla</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="127"/>
@@ -190,13 +190,13 @@ Silmek istiyor musunuz?</translation>
     <message>
         <location filename="../../NotebooksView.qml" line="55"/>
         <source>Alphabetical order</source>
-        <translation/>
+        <translation>Alfabetik sıraya göre</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="82"/>
         <location filename="../../NotebooksView.qml" line="117"/>
         <source>%1 Note</source>
-        <translation/>
+        <translation>%1 Not</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="84"/>
@@ -226,7 +226,7 @@ Silmek istiyor musunuz?</translation>
     <message>
         <location filename="../../NotebooksView.qml" line="238"/>
         <source>Email</source>
-        <translation>E-posta</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="320"/>
@@ -270,7 +270,7 @@ emin misiniz?</translation>
     <message>
         <location filename="../../NotebooksView.qml" line="404"/>
         <source>Notebooks deleted</source>
-        <translation/>
+        <translation>Notebooklar silindi</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="404"/>
@@ -286,7 +286,7 @@ emin misiniz?</translation>
         <location filename="../../NotebooksView.qml" line="409"/>
         <location filename="../../NotebooksView.qml" line="411"/>
         <source>%1 has been deleted</source>
-        <translation/>
+        <translation>%1 silindi</translation>
     </message>
 </context>
 <context>
@@ -300,7 +300,7 @@ emin misiniz?</translation>
     <message>
         <location filename="../../NotesView.qml" line="40"/>
         <source>Select Multiple</source>
-        <translation/>
+        <translation>Çoklu seç</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="59"/>
@@ -315,7 +315,7 @@ emin misiniz?</translation>
     <message>
         <location filename="../../NotesView.qml" line="64"/>
         <source>Alphabetical order</source>
-        <translation/>
+        <translation>Alfabetik sıraya göre</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="103"/>
@@ -355,7 +355,7 @@ emin misiniz?</translation>
     <message>
         <location filename="../../NotesView.qml" line="386"/>
         <source>Rename</source>
-        <translation/>
+        <translation>Yeniden adlandır</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="411"/>
@@ -433,7 +433,7 @@ emin misiniz?</translation>
     <message>
         <location filename="../../NotesView.qml" line="573"/>
         <source>Notes deleted</source>
-        <translation/>
+        <translation>Notlar silindi</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="573"/>
@@ -444,17 +444,17 @@ emin misiniz?</translation>
         <location filename="../../NotesView.qml" line="578"/>
         <location filename="../../NotesView.qml" line="580"/>
         <source>%1 has been deleted</source>
-        <translation/>
+        <translation>%1 silindi</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="597"/>
         <source>Rename Note</source>
-        <translation/>
+        <translation>Notu yeniden adlandır</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="607"/>
         <source>%1 (Renamed Note)</source>
-        <translation/>
+        <translation>%1 (Yeniden Adlandırılmış Not)</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="635"/>
@@ -480,7 +480,7 @@ emin misiniz?</translation>
     <message>
         <location filename="../../src/DataHandler.cpp" line="25"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>Günlük Notlar (varsayılan)</translation>
     </message>
 </context>
 <context>

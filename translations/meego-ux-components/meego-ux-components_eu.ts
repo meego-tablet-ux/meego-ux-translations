@@ -160,39 +160,39 @@
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="22"/>
         <source>Just Now</source>
-        <translation/>
+        <translation>Oraintxe Bertan</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="24"/>
         <source>1 min ago</source>
-        <translation/>
+        <translation>Orain dela minutu 1</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="26"/>
         <source>%1 mins ago</source>
         <comment>1 is number of minutes</comment>
-        <translation/>
+        <translation>Orain dela %1 minutu</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="29"/>
         <source>Half an hour ago</source>
-        <translation/>
+        <translation>Orain dela ordu erdi</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="31"/>
         <source>An hour ago</source>
-        <translation/>
+        <translation>Orain dela ordu bat</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="33"/>
         <source>A couple of hours ago</source>
-        <translation/>
+        <translation>Orain dela ordu pare bat</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="35"/>
         <source>%1 hours ago</source>
         <comment>1 is number of hours</comment>
-        <translation/>
+        <translation>Orain dela %1 ordu</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="40"/>
@@ -203,55 +203,55 @@
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="42"/>
         <source>%1/%2/%3 - %4</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is day name</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="48"/>
         <source>%1/%2/%3 - Last week</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Azkenengo astea</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="53"/>
         <source>%1/%2/%3 - A couple of weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Orain dela aste pare bat </translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="58"/>
         <source>%1/%2/%3 - %4 weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is number of weeks</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Orain dela %4 aste</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="64"/>
         <source>%1/%2/%3 - Last month</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Azkenengo hilabetean</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="69"/>
         <source>%1/%2/%3 - A couple of months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Orain dela pare bat hilabete</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="78"/>
         <source>%1/%2/%3 - %4 months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Orain dela %4 hilabete</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="84"/>
         <source>%1/%2/%3 - Last year</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Azkenengo urtean</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="89"/>
         <source>%1/%2/%3 - %4 years ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Orain dela %4 urte</translation>
     </message>
 </context>
 <context>
@@ -259,12 +259,12 @@
     <message>
         <location filename="../../src/components/ux/MediaGridView.qml" line="341"/>
         <source>%1 Minute</source>
-        <translation/>
+        <translation>Minutu %1</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MediaGridView.qml" line="341"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 Minutu</translation>
     </message>
 </context>
 <context>
@@ -272,12 +272,12 @@
     <message>
         <location filename="../../src/components/ux/ModalDialog.qml" line="139"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Utzi</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/ModalDialog.qml" line="140"/>
         <source>OK</source>
-        <translation/>
+        <translation>Ados</translation>
     </message>
 </context>
 <context>
@@ -290,37 +290,37 @@
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="200"/>
         <source>Pick a Song</source>
-        <translation/>
+        <translation>Hautatu Abesti bat</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="200"/>
         <source>Pick a Playlist/Album</source>
-        <translation/>
+        <translation>Hautatu Erre. zerrenda/Album bat</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="201"/>
         <source>Pick a Playlist</source>
-        <translation/>
+        <translation>Hautatu Erre. zerrenda</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="201"/>
         <source>Pick an Album</source>
-        <translation/>
+        <translation>Hautatu Album bat</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="351"/>
         <source>Back</source>
-        <translation/>
+        <translation>Atzera</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="370"/>
         <source>OK</source>
-        <translation/>
+        <translation>Ados</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="387"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Utzi</translation>
     </message>
 </context>
 <context>
@@ -328,12 +328,12 @@
     <message>
         <location filename="../../src/components/ux/PhotoPicker.qml" line="119"/>
         <source>Pick an album</source>
-        <translation/>
+        <translation>Hautatu album bat</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/PhotoPicker.qml" line="119"/>
         <source>Pick a photo</source>
-        <translation/>
+        <translation>Hautatu argazki bat</translation>
     </message>
 </context>
 <context>
@@ -341,12 +341,12 @@
     <message>
         <location filename="../../src/components/ux/ScrollableMusicList.qml" line="86"/>
         <source>unknown artist</source>
-        <translation/>
+        <translation>artista ezezaguna</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/ScrollableMusicList.qml" line="87"/>
         <source>unknown album</source>
-        <translation/>
+        <translation>album ezezaguna</translation>
     </message>
 </context>
 <context>
@@ -354,7 +354,7 @@
     <message>
         <location filename="../../src/components/ux/TimePicker.qml" line="156"/>
         <source>Pick a time</source>
-        <translation/>
+        <translation>Hautatu ordu bat</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/TimePicker.qml" line="240"/>
@@ -377,7 +377,7 @@
     <message>
         <location filename="../../src/components/ux/ToggleButton.qml" line="155"/>
         <source>Off</source>
-        <translation/>
+        <translation>Off</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../../src/components/ux/VideoPicker.qml" line="169"/>
         <source>Pick a video</source>
-        <translation/>
+        <translation>Hautatu bideo bat</translation>
     </message>
 </context>
 </TS>

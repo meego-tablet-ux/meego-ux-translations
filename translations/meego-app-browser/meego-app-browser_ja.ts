@@ -7,7 +7,7 @@
         <extracomment>IDS_ABOUT_VERSION_COMPANY_NAME
 - description: Company name on the about pages
 </extracomment>
-        <translation/>
+        <translation>MeeGo</translation>
     </message>
     <message>
         <location filename="id" line="-1572705952"/>
@@ -15,7 +15,7 @@
         <extracomment>IDS_DEFAULT_BROWSER_INFOBAR_SHORT_TEXT
 - description: More compact text to show in the default browser query infobar.
 </extracomment>
-        <translation/>
+        <translation>MeeGo ブラウザは既定のブラウザではありません。</translation>
     </message>
     <message>
         <location filename="id" line="-209926424"/>
@@ -23,7 +23,7 @@
         <extracomment>IDS_SESSION_CRASHED_VIEW_MESSAGE
 - description: Message shown when the last session didn't exit cleanly.
 </extracomment>
-        <translation/>
+        <translation>MeeGo ブラウザは正確に終了しませんでした。前回開いていたページを再開するに、復元をクリックします。</translation>
     </message>
     <message>
         <location filename="id" line="1550207900"/>
@@ -33,7 +33,7 @@
 IDS_SXS_SHORTCUT_NAME
 - description: The Chrome short cut name for SxS channel
 </extracomment>
-        <translation/>
+        <translation>MeeGo ブラウザ</translation>
     </message>
     <message>
         <location filename="id" line="-1008283151"/>
@@ -41,7 +41,7 @@ IDS_SXS_SHORTCUT_NAME
         <extracomment>IDS_ABOUT_VERSION_COPYRIGHT
 - description: Copyright information on the about pages
 </extracomment>
-        <translation/>
+        <translation>Copyright © 2010 MeeGo. All Rights Reserved.</translation>
     </message>
 </context>
 <context>
@@ -49,46 +49,46 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="77"/>
         <source>Photos</source>
-        <translation/>
+        <translation>写真</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="87"/>
         <source>Movies</source>
-        <translation/>
+        <translation>動画</translation>
     </message>
 </context><context>
     <name>BookmarkList</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="205"/>
         <source>Delete</source>
-        <translation/>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="206"/>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="220"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="207"/>
         <source>Are you sure you want to delete this bookmark?</source>
-        <translation/>
+        <translation>このブックマークを削除してもよろしいですか？</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="219"/>
         <source>Save</source>
-        <translation/>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Edit bookmark</source>
-        <translation/>
+        <translation>ブックマークを編集</translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>
     <message>
         <location filename="../chrome/browser/qt/common/DownloadShelf.qml" line="220"/>
         <source>Delete</source>
-        <translation/>
+        <translation>削除</translation>
     </message>
 </context></TS>

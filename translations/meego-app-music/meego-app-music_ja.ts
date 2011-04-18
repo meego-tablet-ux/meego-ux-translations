@@ -12,7 +12,7 @@
     <message>
         <location filename="../../MusicListView.qml" line="21"/>
         <source>unknown artist</source>
-        <translation>不明なアーチスト</translation>
+        <translation>不明なアーティスト</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="22"/>
@@ -22,7 +22,7 @@
     <message>
         <location filename="../../MusicListView.qml" line="23"/>
         <source>%1</source>
-        <translation/>
+        <translation>%1</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="51"/>
@@ -32,12 +32,12 @@
     <message>
         <location filename="../../MusicListView.qml" line="53"/>
         <source>Artist Name</source>
-        <translation/>
+        <translation>アーティスト名</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="55"/>
         <source>Album Name</source>
-        <translation/>
+        <translation>アルバム名</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="56"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../../MusicListView.qml" line="112"/>
         <source>Number of tracks</source>
-        <translation/>
+        <translation>トラック数</translation>
     </message>
 </context>
 <context>
@@ -70,12 +70,12 @@
     <message>
         <location filename="../../MusicToolBar.qml" line="55"/>
         <source>Now playing: </source>
-        <translation/>
+        <translation>再生中：</translation>
     </message>
     <message>
         <location filename="../../MusicToolBar.qml" line="64"/>
         <source>%1, %2</source>
-        <translation/>
+        <translation>%1, %2</translation>
     </message>
 </context>
 <context>
@@ -113,7 +113,7 @@
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>Recently played</source>
-        <translation/>
+        <translation>最近再生した</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="27"/>
@@ -138,7 +138,7 @@
     <message>
         <location filename="../../main.qml" line="36"/>
         <source>unknown artist</source>
-        <translation>不明なアーチスト</translation>
+        <translation>不明なアーティスト</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="37"/>
@@ -183,12 +183,12 @@
     <message>
         <location filename="../../main.qml" line="46"/>
         <source>Remove from playlist</source>
-        <translation/>
+        <translation>プレイリストから削除</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="48"/>
         <source>Rename</source>
-        <translation>名前の変更</translation>
+        <translation>名を変更</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="50"/>
@@ -213,12 +213,12 @@
     <message>
         <location filename="../../main.qml" line="54"/>
         <source>Remove From Queue</source>
-        <translation/>
+        <translation>キューから削除</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="55"/>
         <source>Create</source>
-        <translation/>
+        <translation>作る</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="56"/>
@@ -268,17 +268,17 @@
     <message>
         <location filename="../../main.qml" line="69"/>
         <source>Create new playlist</source>
-        <translation/>
+        <translation>新規プレイリストを作る</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="70"/>
         <source>Rename playlist</source>
-        <translation/>
+        <translation>プレイリストの名を変更</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>Yes, Delete</source>
-        <translation/>
+        <translation>はい、削除</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="73"/>
@@ -288,12 +288,12 @@
     <message>
         <location filename="../../main.qml" line="74"/>
         <source>Type playlist name here.</source>
-        <translation/>
+        <translation>ここでプレイリスト名を指定します。</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="75"/>
         <source>Select Multiple Songs</source>
-        <translation/>
+        <translation>複数の曲を選択して</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="77"/>
@@ -308,17 +308,17 @@
     <message>
         <location filename="../../main.qml" line="543"/>
         <source>Artist name</source>
-        <translation/>
+        <translation>アーティスト名</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="550"/>
         <source>Track name</source>
-        <translation/>
+        <translation>トラック名</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="558"/>
         <source>If you delete this, it will be removed from your device</source>
-        <translation/>
+        <translation>これを削除する場合は、デバイスから削除されます。</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="574"/>

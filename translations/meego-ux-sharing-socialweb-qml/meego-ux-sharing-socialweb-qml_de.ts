@@ -4,42 +4,42 @@
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="59"/>
         <source>Choose an album to upload to</source>
-        <translation/>
+        <translation>Wählen Sie ein Album für den Upload</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="157"/>
         <source>Add a new album</source>
-        <translation/>
+        <translation>Neues Album hinzufügen</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="181"/>
         <source>Add a title</source>
-        <translation/>
+        <translation>Datei hinzufügen</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="200"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="301"/>
         <source>Video</source>
-        <translation/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="303"/>
         <source>Photo</source>
-        <translation/>
+        <translation>Foto</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="305"/>
         <source>Music</source>
-        <translation/>
+        <translation>Musik</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="307"/>
         <source>Upload %1 to %2</source>
-        <translation/>
+        <translation>%1 auf %2 hochladen</translation>
     </message>
 </context>
 <context>
@@ -47,48 +47,48 @@
     <message>
         <location filename="../../qml/CreateCollection.qml" line="56"/>
         <source>Choose a name for your new album</source>
-        <translation/>
+        <translation>Wählen Sie einen Namen für Ihr neues Album</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="98"/>
         <source>Album name</source>
-        <translation/>
+        <translation>Albumname</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="127"/>
         <source>Create album</source>
-        <translation/>
+        <translation>Album erstellen</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="137"/>
         <location filename="../../qml/CreateCollection.qml" line="224"/>
         <source>Collection Creation: General Error</source>
-        <translation/>
+        <translation>Sammlungserstellung: Allgemeiner Fehler</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="144"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="232"/>
         <source>Video</source>
-        <translation/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="234"/>
         <source>Photo</source>
-        <translation/>
+        <translation>Foto</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="236"/>
         <source>Music</source>
-        <translation/>
+        <translation>Musik</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="238"/>
         <source>Upload %1 to %2</source>
-        <translation/>
+        <translation>%1 auf %2 hochladen</translation>
     </message>
 </context>
 <context>
@@ -96,7 +96,7 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="32"/>
         <source>No Album</source>
-        <translation/>
+        <translation>Kein Album</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="210"/>
@@ -106,32 +106,32 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="241"/>
         <source>Video</source>
-        <translation/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="243"/>
         <source>Photo</source>
-        <translation/>
+        <translation>Foto</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="245"/>
         <source>Music</source>
-        <translation/>
+        <translation>Musik</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="247"/>
         <source>Upload %1 to %2</source>
-        <translation/>
+        <translation>%1 auf %2 hochladen</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="265"/>
         <source>File %1 of %2</source>
-        <translation/>
+        <translation>Datei %1 von %2</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="285"/>
         <source>&lt;b&gt;Album:&lt;/b&gt; %1</source>
-        <translation/>
+        <translation>&lt;b&gt;Album:&lt;/b&gt; %1</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="290"/>
@@ -149,7 +149,7 @@
     <message>
         <location filename="../../qml/facebook_image_multi.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Fotoname</translation>
     </message>
 </context>
 <context>
@@ -157,7 +157,7 @@
     <message>
         <location filename="../../qml/facebook_image_single.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Fotoname</translation>
     </message>
 </context>
 <context>
@@ -165,7 +165,7 @@
     <message>
         <location filename="../../qml/facebook_video_multi.qml" line="19"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Videoname</translation>
     </message>
 </context>
 <context>
@@ -173,7 +173,7 @@
     <message>
         <location filename="../../qml/facebook_video_single.qml" line="19"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Videoname</translation>
     </message>
 </context>
 <context>
@@ -181,17 +181,17 @@
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Fotoname</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="23"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Fotobeschreibung</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="26"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Fotomarkierungen</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="55"/>
@@ -219,17 +219,17 @@
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Fotoname</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="23"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Fotobeschreibung</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="26"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Fotomarkierungen</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="55"/>
@@ -257,17 +257,17 @@
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Fotoname</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="23"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Fotobeschreibung</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="26"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Fotomarkierungen</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="55"/>
@@ -295,17 +295,17 @@
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Fotoname</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="23"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Fotobeschreibung</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="26"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Fotomarkierungen</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="55"/>
@@ -333,12 +333,12 @@
     <message>
         <location filename="../../qml/photobucket_image_multi.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Fotoname</translation>
     </message>
     <message>
         <location filename="../../qml/photobucket_image_multi.qml" line="23"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Fotobeschreibung</translation>
     </message>
 </context>
 <context>
@@ -346,12 +346,12 @@
     <message>
         <location filename="../../qml/photobucket_image_single.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Fotoname</translation>
     </message>
     <message>
         <location filename="../../qml/photobucket_image_single.qml" line="23"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Fotobeschreibung</translation>
     </message>
 </context>
 <context>
@@ -359,12 +359,12 @@
     <message>
         <location filename="../../qml/smugmug_image_multi.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Fotoname</translation>
     </message>
     <message>
         <location filename="../../qml/smugmug_image_multi.qml" line="23"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Fotomarkierungen</translation>
     </message>
 </context>
 <context>
@@ -372,12 +372,12 @@
     <message>
         <location filename="../../qml/smugmug_image_single.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Fotoname</translation>
     </message>
     <message>
         <location filename="../../qml/smugmug_image_single.qml" line="23"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Fotomarkierungen</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../../qml/twitter_image_multi.qml" line="19"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Fotoname</translation>
     </message>
 </context>
 <context>
@@ -393,7 +393,7 @@
     <message>
         <location filename="../../qml/twitter_image_single.qml" line="19"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Fotoname</translation>
     </message>
 </context>
 <context>
@@ -401,17 +401,17 @@
     <message>
         <location filename="../../qml/youtube_video_multi.qml" line="19"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Videoname</translation>
     </message>
     <message>
         <location filename="../../qml/youtube_video_multi.qml" line="22"/>
         <source>Video description</source>
-        <translation/>
+        <translation>Videobeschreibung</translation>
     </message>
     <message>
         <location filename="../../qml/youtube_video_multi.qml" line="25"/>
         <source>Video tags</source>
-        <translation/>
+        <translation>Videomarkierungen</translation>
     </message>
 </context>
 <context>
@@ -419,17 +419,17 @@
     <message>
         <location filename="../../qml/youtube_video_single.qml" line="19"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Videoname</translation>
     </message>
     <message>
         <location filename="../../qml/youtube_video_single.qml" line="22"/>
         <source>Video description</source>
-        <translation/>
+        <translation>Videobeschreibung</translation>
     </message>
     <message>
         <location filename="../../qml/youtube_video_single.qml" line="25"/>
         <source>Video tags</source>
-        <translation/>
+        <translation>Videomarkierungen</translation>
     </message>
 </context>
 </TS>

@@ -158,7 +158,7 @@
     <message>
         <location filename="../../main.qml" line="41"/>
         <source>Open Album</source>
-        <translation/>
+        <translation>Ireki albuma</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="42"/>
@@ -258,12 +258,12 @@
     <message>
         <location filename="../../main.qml" line="66"/>
         <source>Alphabetically</source>
-        <translation/>
+        <translation>Alfabetikoki</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="67"/>
         <source>By Date</source>
-        <translation/>
+        <translation>Dataren arabera</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="69"/>
@@ -298,12 +298,12 @@
     <message>
         <location filename="../../main.qml" line="77"/>
         <source>Where is all the music?</source>
-        <translation/>
+        <translation>Non dago musika guztia?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="78"/>
         <source>Buy, download or copy your music onto your table, then you can enjoy listening to it from here.</source>
-        <translation/>
+        <translation>Erosi, jaitsi edo kopiatu musika zure tabletara, gero hemendik entzun ahal izango duzu.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="543"/>
@@ -339,7 +339,7 @@
         <location filename="../../main.qml" line="656"/>
         <location filename="../../main.qml" line="714"/>
         <source>Invalid Characters: %1</source>
-        <translation/>
+        <translation>Karaktere baligabezkoak: %1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="866"/>
@@ -348,41 +348,41 @@
         <location filename="../../main.qml" line="1280"/>
         <location filename="../../main.qml" line="1575"/>
         <source>View By</source>
-        <translation/>
+        <translation>Ikusi</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="894"/>
         <source>Actions</source>
-        <translation/>
+        <translation>Akzioak</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1444"/>
         <source>Sort</source>
-        <translation/>
+        <translation>Ordenatu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1701"/>
         <location filename="../../main.qml" line="2022"/>
         <source>%1 songs</source>
-        <translation/>
+        <translation>%1 abesti</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1713"/>
         <location filename="../../main.qml" line="2034"/>
         <source>%1 Seconds</source>
-        <translation/>
+        <translation>%1 Segundu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1714"/>
         <location filename="../../main.qml" line="2035"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 Minutu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1715"/>
         <location filename="../../main.qml" line="2036"/>
         <source>%1 Hours</source>
-        <translation/>
+        <translation>%1 ordu</translation>
     </message>
 </context>
 </TS>

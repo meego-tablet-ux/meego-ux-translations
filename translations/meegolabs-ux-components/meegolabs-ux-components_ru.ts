@@ -12,7 +12,7 @@
     <message>
         <location filename="../../Components/ApplicationPage.qml" line="194"/>
         <source>Search</source>
-        <translation/>
+        <translation>Поиск</translation>
     </message>
 </context>
 <context>
@@ -48,17 +48,17 @@
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="247"/>
         <source>Idle</source>
-        <translation/>
+        <translation>Режим ожидания</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="249"/>
         <source>Available</source>
-        <translation/>
+        <translation>Доступен</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="251"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Занят</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="331"/>
@@ -176,55 +176,55 @@
         <location filename="../../localehelper.cpp" line="71"/>
         <source>mdy</source>
         <extracomment>default order for numeric date (m = month, d = date, y = year) this string should contain these exact three characters in some order</extracomment>
-        <translation/>
+        <translation>dmy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="83"/>
         <source>1</source>
         <extracomment>localize this first day of the week (1 = Sunday, 2 = Monday, ...)</extracomment>
-        <translation/>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="111"/>
         <source>dddd, MMMM d</source>
         <extracomment>dddd = full day of week, MMMM = full month, d = day of month (e.g. Monday, January 31)</extracomment>
-        <translation/>
+        <translation>dddd, ММММ d</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="115"/>
         <source>ddd d</source>
         <extracomment>ddd = day of week, d = day of month (e.g. Mon 31)</extracomment>
-        <translation/>
+        <translation>ddd d</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="119"/>
         <source>MMMM yyyy</source>
         <extracomment>MMMM = full month, yyyy = full year (e.g. January 2011)</extracomment>
-        <translation/>
+        <translation>ММММ yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="123"/>
         <source>d</source>
         <extracomment>d = day of month (e.g. 31, no leading zero)</extracomment>
-        <translation/>
+        <translation>d</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="127"/>
         <source>MMMM</source>
         <extracomment>MMMM = full month (e.g. January)</extracomment>
-        <translation/>
+        <translation>ММММ</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="131"/>
         <source>MMM</source>
         <extracomment>MMM = short month (e.g. Jan)</extracomment>
-        <translation/>
+        <translation>МММ</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="135"/>
         <source>yyyy</source>
         <extracomment>yyyy (e.g. 2011)</extracomment>
-        <translation/>
+        <translation>гггг</translation>
     </message>
 </context>
 <context>
@@ -277,23 +277,23 @@
         <location filename="../../Components/ShareObj.qml" line="63"/>
         <location filename="../../Components/ShareObj.qml" line="83"/>
         <source>Email</source>
-        <translation>Электронная почта</translation>
+        <translation>Эл. почта</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="227"/>
         <source>An error occurred while sharing: %1</source>
-        <translation/>
+        <translation>Ошибка во время публикации: %1</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="232"/>
         <location filename="../../Components/ShareObj.qml" line="263"/>
         <source>Ok</source>
-        <translation/>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="258"/>
         <source>Upload progress: %1%%</source>
-        <translation/>
+        <translation>Выполнение загрузки: %1%%</translation>
     </message>
 </context>
 <context>
@@ -301,12 +301,12 @@
     <message>
         <location filename="../../Components/TimeToggleSwitch.qml" line="40"/>
         <source>ON</source>
-        <translation>ВКЛ.</translation>
+        <translation>❘</translation>
     </message>
     <message>
         <location filename="../../Components/TimeToggleSwitch.qml" line="41"/>
         <source>OFF</source>
-        <translation>ВЫКЛ.</translation>
+        <translation>○</translation>
     </message>
 </context>
 <context>
@@ -314,12 +314,12 @@
     <message>
         <location filename="../../Components/ToggleButton.qml" line="42"/>
         <source>On</source>
-        <translation>Вкл.</translation>
+        <translation>❘</translation>
     </message>
     <message>
         <location filename="../../Components/ToggleButton.qml" line="53"/>
         <source>Off</source>
-        <translation>Выкл.</translation>
+        <translation>○</translation>
     </message>
 </context>
 <context>
@@ -327,12 +327,12 @@
     <message>
         <location filename="../../Components/ToggleSwitch.qml" line="39"/>
         <source>ON</source>
-        <translation>ВКЛ.</translation>
+        <translation>❘</translation>
     </message>
     <message>
         <location filename="../../Components/ToggleSwitch.qml" line="40"/>
         <source>OFF</source>
-        <translation>ВЫКЛ.</translation>
+        <translation>○</translation>
     </message>
 </context>
 </TS>
