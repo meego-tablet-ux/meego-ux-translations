@@ -18,6 +18,7 @@ LOCALES = ar \
 	  eu \
 	  fi \
 	  fr \
+	  id \
 	  it \
 	  ja \
 	  km \
