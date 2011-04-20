@@ -25,40 +25,40 @@
         <translation>Arkadaşlarımın ayarları</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="134"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="94"/>
         <source>You have no web accounts enabled - tap here to configure your web accounts.</source>
         <translation>Etkinleştirilmiş internet hesabınız yok - internet hesaplarını yapılandırma için buraya dokunun.</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="143"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="103"/>
         <source>Tap here!</source>
         <translation>Buraya dokunun!</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="199"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="236"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="149"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="186"/>
         <source>View</source>
         <translation>Görüntüle</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="202"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="234"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="236"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="152"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="184"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="186"/>
         <source>Hide</source>
         <translation>Gizle</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="352"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="289"/>
         <source>Clear history from:</source>
         <translation>Geçmişi sil</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="427"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="362"/>
         <source>Clear</source>
         <translation>Sil</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="490"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="425"/>
         <source>Go to settings</source>
         <translation>Ayarları göster</translation>
     </message>

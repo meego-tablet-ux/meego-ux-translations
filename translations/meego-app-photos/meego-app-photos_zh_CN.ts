@@ -2,22 +2,22 @@
 <context>
     <name>AlbumsView</name>
     <message>
-        <location filename="../../AlbumsView.qml" line="29"/>
+        <location filename="../../AlbumsView.qml" line="25"/>
         <source>Open</source>
         <translation>打开</translation>
     </message>
     <message>
-        <location filename="../../AlbumsView.qml" line="30"/>
+        <location filename="../../AlbumsView.qml" line="26"/>
         <source>Play slideshow</source>
         <translation>播放幻灯片</translation>
     </message>
     <message>
-        <location filename="../../AlbumsView.qml" line="31"/>
+        <location filename="../../AlbumsView.qml" line="27"/>
         <source>Share</source>
         <translation>分享</translation>
     </message>
     <message>
-        <location filename="../../AlbumsView.qml" line="32"/>
+        <location filename="../../AlbumsView.qml" line="28"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
@@ -25,42 +25,42 @@
 <context>
     <name>PhotosView</name>
     <message>
-        <location filename="../../PhotosView.qml" line="38"/>
+        <location filename="../../PhotosView.qml" line="33"/>
         <source>Open</source>
         <translation>打开</translation>
     </message>
     <message>
-        <location filename="../../PhotosView.qml" line="39"/>
+        <location filename="../../PhotosView.qml" line="34"/>
         <source>Play slideshow</source>
         <translation>播放幻灯片</translation>
     </message>
     <message>
-        <location filename="../../PhotosView.qml" line="40"/>
+        <location filename="../../PhotosView.qml" line="35"/>
         <source>Share</source>
         <translation>分享</translation>
     </message>
     <message>
-        <location filename="../../PhotosView.qml" line="41"/>
+        <location filename="../../PhotosView.qml" line="36"/>
         <source>Favorite</source>
         <translation>至爱</translation>
     </message>
     <message>
-        <location filename="../../PhotosView.qml" line="42"/>
+        <location filename="../../PhotosView.qml" line="37"/>
         <source>Unfavorite</source>
         <translation>至厌</translation>
     </message>
     <message>
-        <location filename="../../PhotosView.qml" line="43"/>
+        <location filename="../../PhotosView.qml" line="38"/>
         <source>Add to album</source>
         <translation>添加到相册</translation>
     </message>
     <message>
-        <location filename="../../PhotosView.qml" line="44"/>
+        <location filename="../../PhotosView.qml" line="39"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="../../PhotosView.qml" line="45"/>
+        <location filename="../../PhotosView.qml" line="40"/>
         <source>Select multiple photos</source>
         <translation>选择多张相片</translation>
     </message>
@@ -194,7 +194,6 @@
     </message>
     <message>
         <location filename="../../main.qml" line="43"/>
-        <location filename="../../main.qml" line="432"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -204,34 +203,44 @@
         <translation>设为背景</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="46"/>
+        <location filename="../../main.qml" line="45"/>
+        <source>View by:</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="47"/>
         <source>Are you sure you want to delete this photo?</source>
         <translation>您确定要删除这张相片？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="47"/>
+        <location filename="../../main.qml" line="48"/>
         <source>Are you sure you want to delete the %1 selected photos?</source>
         <translation>您确定要删除所选的 %1 张相片？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="48"/>
+        <location filename="../../main.qml" line="49"/>
         <source>Are you sure you want to delete this album?</source>
         <translation>您确定要删除此相册？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="50"/>
+        <location filename="../../main.qml" line="51"/>
         <source>Album title</source>
         <translation>相册标题</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="58"/>
+        <location filename="../../main.qml" line="59"/>
         <source>Photo title</source>
         <translation>相片标题</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="431"/>
+        <location filename="../../main.qml" line="480"/>
         <source>Create</source>
         <translation>创建</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="492"/>
+        <source>Album name</source>
+        <translation/>
     </message>
 </context>
 </TS>

@@ -2,17 +2,17 @@
 <context>
     <name>EmailSharingService</name>
     <message>
-        <location filename="../../emailsharingservice.cpp" line="47"/>
+        <location filename="../../emailsharingservice.cpp" line="49"/>
         <source>MeeGo Email</source>
         <translation>MeeGo E-pošta</translation>
     </message>
     <message>
-        <location filename="../../emailsharingservice.cpp" line="63"/>
+        <location filename="../../emailsharingservice.cpp" line="65"/>
         <source>Sharing via Email</source>
         <translation>Deljenje preko e-pošte</translation>
     </message>
     <message>
-        <location filename="../../emailsharingservice.cpp" line="78"/>
+        <location filename="../../emailsharingservice.cpp" line="80"/>
         <source>Email</source>
         <translation>E-pošta</translation>
     </message>

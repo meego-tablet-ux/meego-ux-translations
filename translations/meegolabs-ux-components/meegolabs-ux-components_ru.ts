@@ -10,7 +10,7 @@
 <context>
     <name>ApplicationPage</name>
     <message>
-        <location filename="../../Components/ApplicationPage.qml" line="194"/>
+        <location filename="../../Components/ApplicationPage.qml" line="195"/>
         <source>Search</source>
         <translation>Поиск</translation>
     </message>

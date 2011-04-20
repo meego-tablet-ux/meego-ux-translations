@@ -25,40 +25,40 @@
         <translation>好友设置</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="134"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="94"/>
         <source>You have no web accounts enabled - tap here to configure your web accounts.</source>
         <translation>您尚未启用 Web 帐户；单击此处以配置您的 Web 帐户。</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="143"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="103"/>
         <source>Tap here!</source>
         <translation>单击此处！</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="199"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="236"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="149"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="186"/>
         <source>View</source>
         <translation>查看</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="202"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="234"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="236"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="152"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="184"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="186"/>
         <source>Hide</source>
         <translation>隐藏</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="352"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="289"/>
         <source>Clear history from:</source>
         <translation>从中清除历史：</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="427"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="362"/>
         <source>Clear</source>
         <translation>清除</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="490"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="425"/>
         <source>Go to settings</source>
         <translation>转到“设置”</translation>
     </message>

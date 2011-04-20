@@ -2,42 +2,42 @@
 <context>
     <name>CollectionsPicker</name>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="59"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="63"/>
         <source>Choose an album to upload to</source>
         <translation>选择一个相册以上传相片</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="157"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="164"/>
         <source>Add a new album</source>
         <translation>添加新相册</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="181"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="188"/>
         <source>Add a title</source>
         <translation>添加标题</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="200"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="207"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="301"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="308"/>
         <source>Video</source>
         <translation>视频</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="303"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="310"/>
         <source>Photo</source>
         <translation>照片</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="305"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="312"/>
         <source>Music</source>
         <translation>音乐</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="307"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="314"/>
         <source>Upload %1 to %2</source>
         <translation>上传 %1 至 %2</translation>
     </message>
@@ -45,48 +45,48 @@
 <context>
     <name>CreateCollection</name>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="56"/>
+        <location filename="../../qml/CreateCollection.qml" line="60"/>
         <source>Choose a name for your new album</source>
         <translation>为新相册选择一个名称</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="98"/>
+        <location filename="../../qml/CreateCollection.qml" line="105"/>
         <source>Album name</source>
         <translation>相册名称</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="127"/>
+        <location filename="../../qml/CreateCollection.qml" line="135"/>
         <source>Create album</source>
         <translation>创建相册</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="137"/>
-        <location filename="../../qml/CreateCollection.qml" line="224"/>
+        <location filename="../../qml/CreateCollection.qml" line="145"/>
+        <location filename="../../qml/CreateCollection.qml" line="233"/>
         <source>Collection Creation: General Error</source>
         <translation>创建集 一般错误</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="144"/>
+        <location filename="../../qml/CreateCollection.qml" line="152"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="232"/>
+        <location filename="../../qml/CreateCollection.qml" line="241"/>
         <source>Video</source>
         <translation>视频</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="234"/>
+        <location filename="../../qml/CreateCollection.qml" line="243"/>
         <source>Photo</source>
         <translation>照片</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="236"/>
+        <location filename="../../qml/CreateCollection.qml" line="245"/>
         <source>Music</source>
         <translation>音乐</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="238"/>
+        <location filename="../../qml/CreateCollection.qml" line="247"/>
         <source>Upload %1 to %2</source>
         <translation>上传 %1 至 %2</translation>
     </message>
@@ -99,47 +99,47 @@
         <translation>无相册</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="210"/>
+        <location filename="../../qml/MediaUploader.qml" line="221"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="241"/>
+        <location filename="../../qml/MediaUploader.qml" line="252"/>
         <source>Video</source>
         <translation>视频</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="243"/>
+        <location filename="../../qml/MediaUploader.qml" line="254"/>
         <source>Photo</source>
         <translation>照片</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="245"/>
+        <location filename="../../qml/MediaUploader.qml" line="256"/>
         <source>Music</source>
         <translation>音乐</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="247"/>
+        <location filename="../../qml/MediaUploader.qml" line="258"/>
         <source>Upload %1 to %2</source>
         <translation>上传 %1 至 %2</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="265"/>
+        <location filename="../../qml/MediaUploader.qml" line="276"/>
         <source>File %1 of %2</source>
         <translation>文件 %1 / %2</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="285"/>
+        <location filename="../../qml/MediaUploader.qml" line="296"/>
         <source>&lt;b&gt;Album:&lt;/b&gt; %1</source>
         <translation>&lt;b&gt;相册：&lt;/b&gt; %1</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="290"/>
+        <location filename="../../qml/MediaUploader.qml" line="301"/>
         <source>Upload</source>
         <translation>上传</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="292"/>
+        <location filename="../../qml/MediaUploader.qml" line="303"/>
         <source>Next</source>
         <translation>下一步</translation>
     </message>

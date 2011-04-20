@@ -2,41 +2,56 @@
 <context>
     <name>AccountContent</name>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="151"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="117"/>
+        <source>Multiple accounts connected</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/AccountContent.qml" line="118"/>
+        <source>Do you really want to connect this account?</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/AccountContent.qml" line="119"/>
+        <source>By doing this all other %1 accounts will be disconnected.</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/AccountContent.qml" line="190"/>
         <source>There is already an account configured using this login. 
 Please check your username.</source>
         <translation>Bu giriş için zaten yapılandırılmış bir hesap var.
 Kullanıcı adınızı kontrol edin.</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="152"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="191"/>
         <source>Sorry, there was a problem logging in. 
 Please check your username and password.</source>
         <translation>Üzgünüm, giriş yapılırken bir sorun oluştu.
 Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="168"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="207"/>
         <source>Username:</source>
         <translation>Kullanıcı adı:</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="179"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="218"/>
         <source>Name / ID</source>
         <translation>İsim / ID</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="187"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="226"/>
         <source>Password:</source>
         <translation>Parola:</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="199"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="238"/>
         <source>Password</source>
         <translation>Parola</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="216"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="255"/>
         <source>Advanced settings</source>
         <translation>Gelişmiş Ayarlar</translation>
     </message>
@@ -57,17 +72,32 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
 <context>
     <name>AccountDelegate</name>
     <message>
-        <location filename="../../AccountDelegate.qml" line="140"/>
+        <location filename="../../AccountDelegate.qml" line="113"/>
+        <source>Multiple accounts connected</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../AccountDelegate.qml" line="114"/>
+        <source>Do you really want to connect this account?</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../AccountDelegate.qml" line="115"/>
+        <source>By doing this all other %1 accounts will be disconnected.</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../AccountDelegate.qml" line="177"/>
         <source>Log out</source>
         <translation>Çıkış yap</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="142"/>
+        <location filename="../../AccountDelegate.qml" line="179"/>
         <source>Log in to %1</source>
         <translation>%1 girişi yap</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="144"/>
+        <location filename="../../AccountDelegate.qml" line="181"/>
         <source>Settings</source>
         <translation/>
     </message>
@@ -120,22 +150,22 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
 <context>
     <name>AddAFriend</name>
     <message>
-        <location filename="../../AddAFriend.qml" line="59"/>
+        <location filename="../../AddAFriend.qml" line="58"/>
         <source>Send</source>
         <translation>Gönder</translation>
     </message>
     <message>
-        <location filename="../../AddAFriend.qml" line="88"/>
+        <location filename="../../AddAFriend.qml" line="87"/>
         <source>Sending request</source>
         <translation>İstek gönderiliyor</translation>
     </message>
     <message>
-        <location filename="../../AddAFriend.qml" line="97"/>
+        <location filename="../../AddAFriend.qml" line="96"/>
         <source>Request sent</source>
         <translation>İstek gönderildi</translation>
     </message>
     <message>
-        <location filename="../../AddAFriend.qml" line="115"/>
+        <location filename="../../AddAFriend.qml" line="114"/>
         <source>Your device is not connected to a network. Please connect and try again.</source>
         <translation>Cihazınız bir ağa bağlı değil. Lütfen bağlanın ve tekrar deneyin.</translation>
     </message>
@@ -276,12 +306,12 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
 <context>
     <name>ConfirmationDialog</name>
     <message>
-        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="32"/>
+        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="26"/>
         <source>Yes</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="35"/>
+        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="29"/>
         <source>No</source>
         <translation/>
     </message>
@@ -289,57 +319,78 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
 <context>
     <name>ContactContentMenu</name>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="170"/>
+        <location filename="../../ContactContentMenu.qml" line="33"/>
+        <source>Multiple accounts connected</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactContentMenu.qml" line="34"/>
+        <source>Do you really want to connect this account?</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactContentMenu.qml" line="35"/>
+        <source>By doing this all other %1 accounts will be disconnected.</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactContentMenu.qml" line="183"/>
         <source>Update status</source>
         <translation>Durumu güncelle</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="204"/>
+        <location filename="../../ContactContentMenu.qml" line="217"/>
         <source>Available</source>
         <translation>Uygun</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="209"/>
+        <location filename="../../ContactContentMenu.qml" line="222"/>
         <source>Away</source>
         <translation>Uzakta</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="214"/>
+        <location filename="../../ContactContentMenu.qml" line="227"/>
         <source>Busy</source>
         <translation>Meşgul</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="219"/>
+        <location filename="../../ContactContentMenu.qml" line="232"/>
         <source>Invisible</source>
         <translation>Görünmez</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="224"/>
+        <location filename="../../ContactContentMenu.qml" line="237"/>
         <source>Offline</source>
         <translation>Çevrimdışı</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="337"/>
-        <source>Update user display name</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="409"/>
+        <location filename="../../ContactContentMenu.qml" line="353"/>
+        <location filename="../../ContactContentMenu.qml" line="468"/>
         <source>Update</source>
         <translation>Güncelle</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="444"/>
+        <location filename="../../ContactContentMenu.qml" line="396"/>
+        <source>Update user display name</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactContentMenu.qml" line="503"/>
         <source>Add a friend</source>
         <translation>Arkadaş ekle</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="505"/>
+        <location filename="../../ContactContentMenu.qml" line="563"/>
+        <source>Clear chat history</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactContentMenu.qml" line="602"/>
         <source>Log in</source>
         <translation>Giriş yap</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="505"/>
+        <location filename="../../ContactContentMenu.qml" line="602"/>
         <source>Log out</source>
         <translation>Çıkış yap</translation>
     </message>
@@ -347,17 +398,17 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
 <context>
     <name>ContactPickerContent</name>
     <message>
-        <location filename="../../ContactPickerContent.qml" line="50"/>
+        <location filename="../../ContactPickerContent.qml" line="49"/>
         <source>Add contacts to chat</source>
         <translation>Sohbete kişiler ekle</translation>
     </message>
     <message>
-        <location filename="../../ContactPickerContent.qml" line="125"/>
+        <location filename="../../ContactPickerContent.qml" line="133"/>
         <source>Add</source>
         <translation>Ekle</translation>
     </message>
     <message>
-        <location filename="../../ContactPickerContent.qml" line="164"/>
+        <location filename="../../ContactPickerContent.qml" line="172"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
@@ -552,98 +603,98 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
 <context>
     <name>IMConversationModel</name>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="199"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="247"/>
         <source>%1 is typing</source>
         <translation>%1 yazıyor</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="201"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="249"/>
         <source>%1 and %2 are typing</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="203"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="251"/>
         <source>Lots of people are typing</source>
         <translation>Birkaç kişi yazıyor</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="208"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="256"/>
         <source>%1 has left the conversation</source>
         <translation>%1 görüşmeden ayrıldı</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="213"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="261"/>
         <source>%1 has paused typing</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="217"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="265"/>
         <source>%1 is now active</source>
         <translation>%1 şimdi aktif</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="221"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="269"/>
         <source>%1 is now idle</source>
         <translation>%1 şimdi boşta</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="283"/>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="343"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="339"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="399"/>
         <source>Error in call with %1</source>
         <translation>%1 aramasında hata</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="288"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="344"/>
         <source>Call with %1 ended</source>
         <translation>%1 araması sona erdi</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="290"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="346"/>
         <source>Missed call from %1</source>
         <translation>Cevapsız çağrı %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="295"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="351"/>
         <source>%1 is calling you</source>
         <translation>%1 sizi arıyor</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="298"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="354"/>
         <source>Setting up call to %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="301"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="357"/>
         <source>Calling %1</source>
         <translation>Arıyor %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="304"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="360"/>
         <source>Call with %1 started</source>
         <translation>%1 ile arama başlatıldı</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="307"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="363"/>
         <source>Call with %1 on hold</source>
         <translation>%1 ile arama beklemede</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="363"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="422"/>
         <source>%1 bytes</source>
         <translation>%1 bayt</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="367"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="426"/>
         <source>%1 KB</source>
         <translation>%1 KB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="371"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="430"/>
         <source>%1 MB</source>
         <translation>%1 MB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="375"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="434"/>
         <source>%1 GB</source>
         <translation>%1 GB</translation>
     </message>
@@ -652,18 +703,18 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
     <name>IMFeedModel</name>
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="348"/>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="570"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="560"/>
         <source>Incoming call from %1</source>
         <translation>%1 tarafından gelen arama</translation>
     </message>
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="364"/>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="573"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="563"/>
         <source>Incoming file transfer from %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="424"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="415"/>
         <source>Add as friend?</source>
         <translation>Arkadaş olarak eklensin mi?</translation>
     </message>
@@ -684,32 +735,37 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
         <translation>Anında Mesajlaşma Servisi Ayarları</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="80"/>
+        <location filename="../../settings/ImSettings.qml" line="87"/>
         <source>Accounts</source>
         <translation>Hesaplar</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="110"/>
+        <location filename="../../settings/ImSettings.qml" line="117"/>
         <source>Add another account</source>
         <translation>Başka bir hesap ekle</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="127"/>
+        <location filename="../../settings/ImSettings.qml" line="134"/>
         <source>General Settings</source>
         <translation>Genel Ayarlar</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="151"/>
+        <location filename="../../settings/ImSettings.qml" line="158"/>
         <source>Show offline contacts</source>
         <translation>Çevrimdışı kişileri göster</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="175"/>
+        <location filename="../../settings/ImSettings.qml" line="182"/>
         <source>Notification on new message</source>
         <translation>Yeni mesajda uyarı</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="213"/>
+        <location filename="../../settings/ImSettings.qml" line="214"/>
+        <source>Clear chat history</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../settings/ImSettings.qml" line="240"/>
         <source>Blocked contacts</source>
         <translation>Engellenen kişiler</translation>
     </message>
@@ -766,6 +822,14 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
     </message>
 </context>
 <context>
+    <name>LoadingConversationHistory</name>
+    <message>
+        <location filename="../../LoadingConversationHistory.qml" line="28"/>
+        <source>Loading conversation history</source>
+        <translation/>
+    </message>
+</context>
+<context>
     <name>Message indicating the contact has been added</name>
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="331"/>
@@ -795,6 +859,11 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
     </message>
     <message>
         <location filename="../../MessageContentMenu.qml" line="97"/>
+        <source>Clear chat history</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../MessageContentMenu.qml" line="135"/>
         <source>End chat</source>
         <translation/>
     </message>
@@ -802,8 +871,8 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
 <context>
     <name>MessageDelegate</name>
     <message>
-        <location filename="../../MessageDelegate.qml" line="207"/>
-        <location filename="../../MessageDelegate.qml" line="214"/>
+        <location filename="../../MessageDelegate.qml" line="208"/>
+        <location filename="../../MessageDelegate.qml" line="215"/>
         <source>%1 - %2</source>
         <translation>%1 - %2</translation>
     </message>
@@ -811,42 +880,42 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
 <context>
     <name>MessageScreenContent</name>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="82"/>
+        <location filename="../../MessageScreenContent.qml" line="83"/>
         <source>Group conversation</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="84"/>
+        <location filename="../../MessageScreenContent.qml" line="85"/>
         <source>Chat with %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="349"/>
+        <location filename="../../MessageScreenContent.qml" line="450"/>
         <source>Send</source>
         <translation>Gönder</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="756"/>
+        <location filename="../../MessageScreenContent.qml" line="857"/>
         <source>Minimize me</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="756"/>
+        <location filename="../../MessageScreenContent.qml" line="857"/>
         <source>Maximize me</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="757"/>
+        <location filename="../../MessageScreenContent.qml" line="858"/>
         <source>Disable camera</source>
         <translation>Kamera&apos;yı kapat</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="757"/>
+        <location filename="../../MessageScreenContent.qml" line="858"/>
         <source>Enable camera</source>
         <translation>Kamera&apos;yı etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="758"/>
+        <location filename="../../MessageScreenContent.qml" line="859"/>
         <source>Swap camera</source>
         <translation>Kamerayı değiştir</translation>
     </message>
@@ -883,6 +952,24 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
         <location filename="../../PictureChangeMenu.qml" line="122"/>
         <source>Choose picture</source>
         <translation>Resmi seçin</translation>
+    </message>
+</context>
+<context>
+    <name>SearchHeader</name>
+    <message>
+        <location filename="../../SearchHeader.qml" line="48"/>
+        <source>%1 matches found</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../SearchHeader.qml" line="73"/>
+        <source>Older</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../SearchHeader.qml" line="86"/>
+        <source>Newer</source>
+        <translation/>
     </message>
 </context>
 <context>
@@ -929,43 +1016,43 @@ Lütfen kullanıcı adı ve parolanızı kontrol edin.</translation>
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="231"/>
-        <location filename="../../main.qml" line="296"/>
+        <location filename="../../main.qml" line="227"/>
+        <location filename="../../main.qml" line="292"/>
         <source>Group conversation</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="277"/>
+        <location filename="../../main.qml" line="273"/>
         <source>Chat with %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="380"/>
+        <location filename="../../main.qml" line="376"/>
         <source>Account switcher</source>
         <translation>Hesap değiştir</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="387"/>
+        <location filename="../../main.qml" line="383"/>
         <source>available</source>
         <translation>mevcut</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="389"/>
+        <location filename="../../main.qml" line="385"/>
         <source>busy</source>
         <translation>meşgul</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="391"/>
+        <location filename="../../main.qml" line="387"/>
         <source>away</source>
         <translation>uzakta</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="393"/>
+        <location filename="../../main.qml" line="389"/>
         <source>extended away</source>
         <translation>uzatılmış uzakta</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="395"/>
+        <location filename="../../main.qml" line="391"/>
         <source>offline</source>
         <translation>çevrimdışı</translation>
     </message>

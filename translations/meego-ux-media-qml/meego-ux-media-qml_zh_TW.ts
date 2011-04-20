@@ -2,27 +2,39 @@
 <context>
     <name>MediaGridView</name>
     <message>
-        <location filename="../../Media/MediaGridView.qml" line="213"/>
+        <location filename="../../Media/MediaGridView.qml" line="57"/>
+        <source>Favorites</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Media/MediaGridView.qml" line="58"/>
+        <source>Recently Viewed</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Media/MediaGridView.qml" line="59"/>
+        <source>Recently Added</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Media/MediaGridView.qml" line="60"/>
+        <source>Unwatched</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Media/MediaGridView.qml" line="61"/>
+        <source>Search Results</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Media/MediaGridView.qml" line="256"/>
         <source>%1 Minute</source>
         <translation>%1 分鐘</translation>
     </message>
     <message>
-        <location filename="../../Media/MediaGridView.qml" line="213"/>
+        <location filename="../../Media/MediaGridView.qml" line="256"/>
         <source>%1 Minutes</source>
         <translation>%1 分鐘</translation>
-    </message>
-</context>
-<context>
-    <name>ScrollableMusicList</name>
-    <message>
-        <location filename="../../Media/ScrollableMusicList.qml" line="18"/>
-        <source>unknown artist</source>
-        <translation>未知的演出者</translation>
-    </message>
-    <message>
-        <location filename="../../Media/ScrollableMusicList.qml" line="19"/>
-        <source>unknown album</source>
-        <translation>未知的專輯</translation>
     </message>
 </context>
 </TS>

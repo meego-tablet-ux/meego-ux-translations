@@ -158,97 +158,97 @@
 <context>
     <name>FuzzyDateTime</name>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="22"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="30"/>
         <source>Just Now</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="24"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="32"/>
         <source>1 min ago</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="26"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="34"/>
         <source>%1 mins ago</source>
         <comment>1 is number of minutes</comment>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="29"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="37"/>
         <source>Half an hour ago</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="31"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="39"/>
         <source>An hour ago</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="33"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="41"/>
         <source>A couple of hours ago</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="35"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="43"/>
         <source>%1 hours ago</source>
         <comment>1 is number of hours</comment>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="40"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="48"/>
         <source>Yesterday</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="42"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="50"/>
         <source>%1/%2/%3 - %4</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is day name</comment>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="48"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="56"/>
         <source>%1/%2/%3 - Last week</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="53"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="61"/>
         <source>%1/%2/%3 - A couple of weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="58"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="66"/>
         <source>%1/%2/%3 - %4 weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is number of weeks</comment>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="64"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="72"/>
         <source>%1/%2/%3 - Last month</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="69"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="77"/>
         <source>%1/%2/%3 - A couple of months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="78"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="86"/>
         <source>%1/%2/%3 - %4 months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="84"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="92"/>
         <source>%1/%2/%3 - Last year</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
         <translation/>
     </message>
     <message>
-        <location filename="../../src/kernel/fuzzydatetime.cpp" line="89"/>
+        <location filename="../../src/kernel/fuzzydatetime.cpp" line="97"/>
         <source>%1/%2/%3 - %4 years ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
         <translation/>

@@ -28,13 +28,13 @@
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="122"/>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="160"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="161"/>
         <source>Top applications</source>
         <translation>最熱門應用程式</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="123"/>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="169"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="170"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
@@ -44,12 +44,7 @@
         <translation>我的平板電腦</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="151"/>
-        <source>Connected devices</source>
-        <translation>連線裝置</translation>
-    </message>
-    <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="181"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="182"/>
         <source>My Tablet settings</source>
         <translation>我的平板電腦設定</translation>
     </message>

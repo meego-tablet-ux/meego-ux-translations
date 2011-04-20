@@ -2,42 +2,42 @@
 <context>
     <name>CollectionsPicker</name>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="59"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="63"/>
         <source>Choose an album to upload to</source>
         <translation>Vyberte album k nahrání</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="157"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="164"/>
         <source>Add a new album</source>
         <translation>Přidat nové album</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="181"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="188"/>
         <source>Add a title</source>
         <translation>Přidat název</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="200"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="207"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="301"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="308"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="303"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="310"/>
         <source>Photo</source>
         <translation>Fotografie</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="305"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="312"/>
         <source>Music</source>
         <translation>Hudba</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="307"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="314"/>
         <source>Upload %1 to %2</source>
         <translation>Nahrát %1 na %2</translation>
     </message>
@@ -45,48 +45,48 @@
 <context>
     <name>CreateCollection</name>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="56"/>
+        <location filename="../../qml/CreateCollection.qml" line="60"/>
         <source>Choose a name for your new album</source>
         <translation>Vyberte název pro své nové album</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="98"/>
+        <location filename="../../qml/CreateCollection.qml" line="105"/>
         <source>Album name</source>
         <translation>Název alba</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="127"/>
+        <location filename="../../qml/CreateCollection.qml" line="135"/>
         <source>Create album</source>
         <translation>Vytvořit album</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="137"/>
-        <location filename="../../qml/CreateCollection.qml" line="224"/>
+        <location filename="../../qml/CreateCollection.qml" line="145"/>
+        <location filename="../../qml/CreateCollection.qml" line="233"/>
         <source>Collection Creation: General Error</source>
         <translation>Vytvoření sbírky: Obecná chyba</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="144"/>
+        <location filename="../../qml/CreateCollection.qml" line="152"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="232"/>
+        <location filename="../../qml/CreateCollection.qml" line="241"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="234"/>
+        <location filename="../../qml/CreateCollection.qml" line="243"/>
         <source>Photo</source>
         <translation>Fotografie</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="236"/>
+        <location filename="../../qml/CreateCollection.qml" line="245"/>
         <source>Music</source>
         <translation>Hudba</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="238"/>
+        <location filename="../../qml/CreateCollection.qml" line="247"/>
         <source>Upload %1 to %2</source>
         <translation>Nahrát %1 na %2</translation>
     </message>
@@ -99,47 +99,47 @@
         <translation>Žádné album</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="210"/>
+        <location filename="../../qml/MediaUploader.qml" line="221"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="241"/>
+        <location filename="../../qml/MediaUploader.qml" line="252"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="243"/>
+        <location filename="../../qml/MediaUploader.qml" line="254"/>
         <source>Photo</source>
         <translation>Fotografie</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="245"/>
+        <location filename="../../qml/MediaUploader.qml" line="256"/>
         <source>Music</source>
         <translation>Hudba</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="247"/>
+        <location filename="../../qml/MediaUploader.qml" line="258"/>
         <source>Upload %1 to %2</source>
         <translation>Nahrát %1 na %2</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="265"/>
+        <location filename="../../qml/MediaUploader.qml" line="276"/>
         <source>File %1 of %2</source>
         <translation>Soubor %1 z %2</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="285"/>
+        <location filename="../../qml/MediaUploader.qml" line="296"/>
         <source>&lt;b&gt;Album:&lt;/b&gt; %1</source>
         <translation>&lt;b&gt;Album:&lt;/b&gt; %1</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="290"/>
+        <location filename="../../qml/MediaUploader.qml" line="301"/>
         <source>Upload</source>
         <translation>Nahrát</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="292"/>
+        <location filename="../../qml/MediaUploader.qml" line="303"/>
         <source>Next</source>
         <translation>Další</translation>
     </message>

@@ -21,24 +21,11 @@
     </message>
 </context>
 <context>
-    <name>ConfirmDeleteDialog</name>
-    <message>
-        <location filename="../../ConfirmDeleteDialog.qml" line="77"/>
-        <source>Title text</source>
-        <translation>Besedilo naslova</translation>
-    </message>
-</context>
-<context>
     <name>DeleteMoveNotificationDialog</name>
     <message>
-        <location filename="../../DeleteMoveNotificationDialog.qml" line="64"/>
+        <location filename="../../DeleteMoveNotificationDialog.qml" line="74"/>
         <source>Title text</source>
         <translation>Besedilo naslova</translation>
-    </message>
-    <message>
-        <location filename="../../DeleteMoveNotificationDialog.qml" line="90"/>
-        <source>Notebook name</source>
-        <translation>Ime beležnice</translation>
     </message>
 </context>
 <context>
@@ -78,14 +65,22 @@
     </message>
 </context>
 <context>
+    <name>InformationDialog</name>
+    <message>
+        <location filename="../../InformationDialog.qml" line="82"/>
+        <source>OK</source>
+        <translation/>
+    </message>
+</context>
+<context>
     <name>NoteButton</name>
     <message>
-        <location filename="../../NoteButton.qml" line="110"/>
+        <location filename="../../NoteButton.qml" line="104"/>
         <source>Text Element</source>
         <translation>Besedilni element</translation>
     </message>
     <message>
-        <location filename="../../NoteButton.qml" line="125"/>
+        <location filename="../../NoteButton.qml" line="119"/>
         <source>Add some comments here</source>
         <translation>Sem dodajte nekaj komentarjev</translation>
     </message>
@@ -167,297 +162,262 @@ to beležnico?</translation>
         <translation>Vsakodnevne opombe (privzeto)</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="31"/>
-        <location filename="../../NotebooksView.qml" line="33"/>
+        <location filename="../../NotebooksView.qml" line="32"/>
+        <location filename="../../NotebooksView.qml" line="34"/>
         <source>New Notebook</source>
         <translation>Nova beležnica</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="33"/>
+        <location filename="../../NotebooksView.qml" line="34"/>
         <source>Select Multiple</source>
         <translation>Izbor večih</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="49"/>
-        <source>View by:</source>
-        <translation>Prikaži po:</translation>
-    </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="55"/>
-        <source>All</source>
-        <translation>Vse</translation>
-    </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="55"/>
-        <source>Alphabetical order</source>
-        <translation>Abecedni vrstni red</translation>
-    </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="82"/>
-        <location filename="../../NotebooksView.qml" line="117"/>
+        <location filename="../../NotebooksView.qml" line="61"/>
+        <location filename="../../NotebooksView.qml" line="96"/>
         <source>%1 Note</source>
         <translation>%1 opomba</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="84"/>
-        <location filename="../../NotebooksView.qml" line="119"/>
+        <location filename="../../NotebooksView.qml" line="63"/>
+        <location filename="../../NotebooksView.qml" line="98"/>
         <source>%1 Notes</source>
         <translation>%1 opomb</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="199"/>
-        <location filename="../../NotebooksView.qml" line="239"/>
-        <location filename="../../NotebooksView.qml" line="343"/>
+        <location filename="../../NotebooksView.qml" line="178"/>
+        <location filename="../../NotebooksView.qml" line="218"/>
+        <location filename="../../NotebooksView.qml" line="336"/>
         <source>Delete</source>
         <translation>Izbriši</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="214"/>
-        <location filename="../../NotebooksView.qml" line="322"/>
-        <location filename="../../NotebooksView.qml" line="344"/>
+        <location filename="../../NotebooksView.qml" line="193"/>
+        <location filename="../../NotebooksView.qml" line="301"/>
+        <location filename="../../NotebooksView.qml" line="337"/>
         <source>Cancel</source>
         <translation>Prekliči</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="237"/>
+        <location filename="../../NotebooksView.qml" line="216"/>
         <source>Open</source>
         <translation>Odpri</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="238"/>
+        <location filename="../../NotebooksView.qml" line="217"/>
         <source>Email</source>
         <translation>Pošlji prek e-pošte</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="320"/>
+        <location filename="../../NotebooksView.qml" line="299"/>
         <source>Create a new Notebook</source>
         <translation>Ustvari novo beležnico</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="321"/>
+        <location filename="../../NotebooksView.qml" line="300"/>
         <source>Create</source>
         <translation>Ustvari</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="323"/>
+        <location filename="../../NotebooksView.qml" line="302"/>
         <source>Notebook name</source>
         <translation>Ime beležnice</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="345"/>
+        <location filename="../../NotebooksView.qml" line="338"/>
         <source>Delete?</source>
         <translation>Izbrišem?</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="354"/>
+        <location filename="../../NotebooksView.qml" line="347"/>
         <source>Are you sure you want to
 delete &quot;%1&quot;?</source>
         <translation>Ali res želite
 izbrisati »%1«?</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="364"/>
+        <location filename="../../NotebooksView.qml" line="358"/>
         <source>Are you sure you want to
 delete these %1 notebooks?</source>
         <translation>Ali res želite izbrisati
 teh %1 beležnic?</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="403"/>
+        <location filename="../../NotebooksView.qml" line="396"/>
         <source>OK</source>
         <translation>V redu</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="404"/>
+        <location filename="../../NotebooksView.qml" line="397"/>
         <source>Notebooks deleted</source>
         <translation>Beležnice izbrisane</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="404"/>
+        <location filename="../../NotebooksView.qml" line="397"/>
         <source>Notebook deleted</source>
         <translation>Beležnica izbrisana</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="407"/>
-        <source>%1 notebooks have been deleted</source>
-        <translation>%1 beležnic je bilo izbrisanih</translation>
+        <location filename="../../NotebooksView.qml" line="400"/>
+        <source>&quot;%1&quot; notebooks have been deleted</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="409"/>
-        <location filename="../../NotebooksView.qml" line="411"/>
-        <source>%1 has been deleted</source>
-        <translation>%1 je bila izbrisana</translation>
+        <location filename="../../NotebooksView.qml" line="402"/>
+        <location filename="../../NotebooksView.qml" line="404"/>
+        <source>&quot;%1&quot; has been deleted</source>
+        <translation/>
     </message>
 </context>
 <context>
     <name>NotesView</name>
     <message>
-        <location filename="../../NotesView.qml" line="38"/>
-        <location filename="../../NotesView.qml" line="40"/>
+        <location filename="../../NotesView.qml" line="39"/>
+        <location filename="../../NotesView.qml" line="41"/>
         <source>New Note</source>
         <translation>Nova opomba</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="40"/>
+        <location filename="../../NotesView.qml" line="41"/>
         <source>Select Multiple</source>
         <translation>Izbor večih</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="59"/>
-        <source>View by:</source>
-        <translation>Prikaži po:</translation>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="63"/>
-        <source>All</source>
-        <translation>Vse</translation>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="64"/>
-        <source>Alphabetical order</source>
-        <translation>Abecedni vrstni red</translation>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="103"/>
+        <location filename="../../NotesView.qml" line="78"/>
         <source>Test Notebook Name</source>
         <translation>Testno ime beležnice</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="346"/>
-        <location filename="../../NotesView.qml" line="385"/>
-        <location filename="../../NotesView.qml" line="518"/>
+        <location filename="../../NotesView.qml" line="321"/>
+        <location filename="../../NotesView.qml" line="360"/>
+        <location filename="../../NotesView.qml" line="497"/>
         <source>Delete</source>
         <translation>Izbriši</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="361"/>
-        <location filename="../../NotesView.qml" line="499"/>
-        <location filename="../../NotesView.qml" line="519"/>
-        <location filename="../../NotesView.qml" line="596"/>
+        <location filename="../../NotesView.qml" line="336"/>
+        <location filename="../../NotesView.qml" line="474"/>
+        <location filename="../../NotesView.qml" line="498"/>
+        <location filename="../../NotesView.qml" line="577"/>
         <source>Cancel</source>
         <translation>Prekliči</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="382"/>
+        <location filename="../../NotesView.qml" line="357"/>
         <source>Open</source>
         <translation>Odpri</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="383"/>
+        <location filename="../../NotesView.qml" line="358"/>
         <source>Email</source>
         <translation>Pošlji prek e-pošte</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="384"/>
+        <location filename="../../NotesView.qml" line="359"/>
         <source>Move</source>
         <translation>Premakni</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="386"/>
+        <location filename="../../NotesView.qml" line="361"/>
         <source>Rename</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="411"/>
-        <location filename="../../NotesView.qml" line="576"/>
+        <location filename="../../NotesView.qml" line="386"/>
+        <location filename="../../NotesView.qml" line="557"/>
         <source>%1 notes have been deleted</source>
         <translation>%1 opomb je bilo izbrisanih</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="415"/>
-        <location filename="../../NotesView.qml" line="419"/>
+        <location filename="../../NotesView.qml" line="390"/>
+        <location filename="../../NotesView.qml" line="394"/>
         <source>&quot;%1&quot; has been deleted</source>
         <translation>»%1« je bila izbrisana</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="444"/>
-        <source>%1 notes have successfully
-been moved to &quot;%2&quot;</source>
-        <translation>%1 opomb je bilo uspešno
-premaknjenih v »%2«</translation>
+        <location filename="../../NotesView.qml" line="419"/>
+        <source>%1 notes have successfully been moved to &quot;%2&quot;</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="448"/>
-        <location filename="../../NotesView.qml" line="636"/>
-        <source>&quot;%1&quot; has successfully
-been moved to &quot;%2&quot;</source>
-        <translation>»%1« je bila uspešno
-premaknjena v »%2«</translation>
+        <location filename="../../NotesView.qml" line="423"/>
+        <source>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="471"/>
+        <location filename="../../NotesView.qml" line="446"/>
         <source>Email note &quot;%1&quot;</source>
         <translation>Pošlji opombo »%1« pek e-pošte</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="497"/>
+        <location filename="../../NotesView.qml" line="472"/>
         <source>Create a new Note</source>
         <translation>Ustvari novo opombo</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="498"/>
+        <location filename="../../NotesView.qml" line="473"/>
         <source>Create</source>
         <translation>Ustvari</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="500"/>
+        <location filename="../../NotesView.qml" line="475"/>
         <source>Note name</source>
         <translation>Ime opombe</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="520"/>
+        <location filename="../../NotesView.qml" line="499"/>
         <source>Delete?</source>
         <translation>Izbrišem?</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="527"/>
+        <location filename="../../NotesView.qml" line="508"/>
         <source>Are you sure you want to
 delete &quot;%1&quot;?</source>
         <translation>Ali res želite
 izbrisati »%1«?</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="537"/>
+        <location filename="../../NotesView.qml" line="519"/>
         <source>Are you sure you want to
 delete these %1 notes?</source>
         <translation>Ali res želite izbrisati
 teh %1 opomb?</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="572"/>
-        <location filename="../../NotesView.qml" line="595"/>
-        <location filename="../../NotesView.qml" line="634"/>
+        <location filename="../../NotesView.qml" line="553"/>
+        <location filename="../../NotesView.qml" line="576"/>
+        <location filename="../../NotesView.qml" line="614"/>
         <source>OK</source>
         <translation>V redu</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="573"/>
+        <location filename="../../NotesView.qml" line="554"/>
         <source>Notes deleted</source>
         <translation>Opombe izbrisane</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="573"/>
+        <location filename="../../NotesView.qml" line="554"/>
         <source>Note deleted</source>
         <translation>Opomba izbrisana</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="578"/>
-        <location filename="../../NotesView.qml" line="580"/>
+        <location filename="../../NotesView.qml" line="559"/>
+        <location filename="../../NotesView.qml" line="561"/>
         <source>%1 has been deleted</source>
         <translation>%1 je bila izbrisana</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="597"/>
+        <location filename="../../NotesView.qml" line="578"/>
         <source>Rename Note</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="607"/>
+        <location filename="../../NotesView.qml" line="588"/>
         <source>%1 (Renamed Note)</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="635"/>
+        <location filename="../../NotesView.qml" line="615"/>
         <source>Note moved</source>
         <translation>Opombe premaknjene</translation>
     </message>
@@ -512,21 +472,23 @@ teh %1 opomb?</translation>
     </message>
 </context>
 <context>
-    <name>TwoButtonsModalDialog</name>
-    <message>
-        <location filename="../../TwoButtonsModalDialog.qml" line="68"/>
-        <source>Title text</source>
-        <translation>Besedilo naslova</translation>
-    </message>
-</context>
-<context>
     <name>main</name>
     <message>
         <location filename="../../main.qml" line="15"/>
-        <location filename="../../main.qml" line="47"/>
-        <location filename="../../main.qml" line="64"/>
+        <location filename="../../main.qml" line="65"/>
+        <location filename="../../main.qml" line="82"/>
         <source>Notes</source>
         <translation>Opombe</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="16"/>
+        <source>All</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="16"/>
+        <source>Alphabetical order</source>
+        <translation/>
     </message>
 </context>
 </TS>

@@ -126,51 +126,74 @@
     </message>
 </context>
 <context>
-    <name>TasksDetailWindow</name>
+    <name>TasksDetailMenu</name>
     <message>
-        <location filename="../../TasksDetailWindow.qml" line="178"/>
+        <location filename="../../TasksDetailMenu.qml" line="48"/>
+        <source>Insert task name</source>
+        <translation>Insert task name</translation>
+    </message>
+    <message>
+        <location filename="../../TasksDetailMenu.qml" line="59"/>
         <source>List:</source>
         <translation>List:</translation>
     </message>
     <message>
-        <location filename="../../TasksDetailWindow.qml" line="239"/>
-        <source>Due Date:</source>
-        <translation>Due Date:</translation>
+        <location filename="../../TasksDetailMenu.qml" line="114"/>
+        <source>Due date:</source>
+        <translation>Due date:</translation>
     </message>
     <message>
-        <location filename="../../TasksDetailWindow.qml" line="261"/>
+        <location filename="../../TasksDetailMenu.qml" line="127"/>
         <source>Date</source>
         <translation>Date</translation>
     </message>
     <message>
-        <location filename="../../TasksDetailWindow.qml" line="262"/>
+        <location filename="../../TasksDetailMenu.qml" line="128"/>
         <source>Someday</source>
         <translation>Someday</translation>
     </message>
     <message>
-        <location filename="../../TasksDetailWindow.qml" line="275"/>
+        <location filename="../../TasksDetailMenu.qml" line="135"/>
+        <source>Set due date</source>
+        <translation>Set due date</translation>
+    </message>
+    <message>
+        <location filename="../../TasksDetailMenu.qml" line="155"/>
         <source>Notes</source>
         <translation>Notes</translation>
     </message>
     <message>
-        <location filename="../../TasksDetailWindow.qml" line="313"/>
+        <location filename="../../TasksDetailMenu.qml" line="163"/>
+        <source>Add a note here</source>
+        <translation>Add a note here</translation>
+    </message>
+    <message>
+        <location filename="../../TasksDetailMenu.qml" line="170"/>
         <source>Delete task</source>
         <translation>Delete task</translation>
     </message>
     <message>
-        <location filename="../../TasksDetailWindow.qml" line="357"/>
+        <location filename="../../TasksDetailMenu.qml" line="191"/>
         <source>Edit</source>
         <translation>Edit</translation>
     </message>
     <message>
-        <location filename="../../TasksDetailWindow.qml" line="374"/>
+        <location filename="../../TasksDetailMenu.qml" line="203"/>
         <source>Save</source>
         <translation>Save</translation>
     </message>
     <message>
-        <location filename="../../TasksDetailWindow.qml" line="391"/>
+        <location filename="../../TasksDetailMenu.qml" line="215"/>
         <source>Close</source>
         <translation>Close</translation>
+    </message>
+</context>
+<context>
+    <name>TasksDetailWindow</name>
+    <message>
+        <location filename="../../TasksDetailWindow.qml" line="13"/>
+        <source>If you see me, something is very wrong!</source>
+        <translation>If you see me, something is very wrong!</translation>
     </message>
 </context>
 <context>
@@ -184,139 +207,139 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="15"/>
+        <location filename="../../main.qml" line="16"/>
         <source>Tasks</source>
         <translation>Tasks</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="16"/>
+        <location filename="../../main.qml" line="17"/>
         <source>All due tasks</source>
         <translation>All due tasks</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="17"/>
+        <location filename="../../main.qml" line="18"/>
         <source>Overdue</source>
         <translation>Overdue</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="18"/>
+        <location filename="../../main.qml" line="19"/>
         <source>Upcoming</source>
         <translation>Upcoming</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="19"/>
+        <location filename="../../main.qml" line="20"/>
         <source>Someday</source>
         <translation>Someday</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="20"/>
+        <location filename="../../main.qml" line="21"/>
         <source>Default list</source>
         <translation>Default list</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="21"/>
+        <location filename="../../main.qml" line="22"/>
         <source>Today</source>
         <translation>Today</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="22"/>
+        <location filename="../../main.qml" line="23"/>
         <source>Tomorrow</source>
         <translation>Tomorrow</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="23"/>
+        <location filename="../../main.qml" line="24"/>
         <source>Next week</source>
         <translation>Next week</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="24"/>
+        <location filename="../../main.qml" line="25"/>
         <source>Set due date...</source>
         <translation>Set due date...</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="25"/>
+        <location filename="../../main.qml" line="26"/>
         <source>Add new list...</source>
         <translation>Add new list...</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="26"/>
+        <location filename="../../main.qml" line="27"/>
         <source>Select multiple lists...</source>
         <translation>Select multiple lists...</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="27"/>
+        <location filename="../../main.qml" line="28"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="28"/>
+        <location filename="../../main.qml" line="29"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="29"/>
+        <location filename="../../main.qml" line="30"/>
         <source>New list</source>
         <translation>New list</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="30"/>
+        <location filename="../../main.qml" line="31"/>
         <source>Rename list</source>
         <translation>Rename list</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="31"/>
+        <location filename="../../main.qml" line="32"/>
         <source>Select multiple tasks...</source>
         <translation>Select multiple tasks...</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="32"/>
+        <location filename="../../main.qml" line="33"/>
         <source>Delete completed tasks</source>
         <translation>Delete completed tasks</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="33"/>
+        <location filename="../../main.qml" line="34"/>
         <source>Delete list</source>
         <translation>Delete list</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="34"/>
+        <location filename="../../main.qml" line="35"/>
         <source>Add task</source>
         <translation>Add task</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="35"/>
+        <location filename="../../main.qml" line="36"/>
         <source>View detail</source>
         <translation>View detail</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="36"/>
+        <location filename="../../main.qml" line="37"/>
         <source>Edit task</source>
         <translation>Edit task</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="37"/>
+        <location filename="../../main.qml" line="38"/>
         <source>Show in list</source>
         <translation>Show in list</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="38"/>
+        <location filename="../../main.qml" line="39"/>
         <source>Delete task</source>
         <translation>Delete task</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="39"/>
+        <location filename="../../main.qml" line="40"/>
         <source>Do you want to delete this list
  and all of its tasks?</source>
         <translation>Do you want to delete this list
  and all of its tasks?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="40"/>
+        <location filename="../../main.qml" line="41"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="41"/>
+        <location filename="../../main.qml" line="42"/>
         <source>Are you sure you want to delete this task?</source>
         <translation>Are you sure you want to delete this task?</translation>
     </message>
@@ -326,19 +349,34 @@
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="284"/>
+        <location filename="../../main.qml" line="271"/>
         <source>List name</source>
         <translation>List name</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="530"/>
+        <location filename="../../main.qml" line="514"/>
         <source>You can create a new list using the action menu</source>
         <translation>You can create a new list using the action menu</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="751"/>
+        <location filename="../../main.qml" line="745"/>
         <source>Don&apos;t ask to confirm deleting tasks.</source>
         <translation>Don&apos;t ask to confirm deleting tasks.</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="834"/>
+        <source>Are you sure you want to delete the completed tasks?</source>
+        <translation>Are you sure you want to delete the completed tasks?</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="835"/>
+        <source>Yes</source>
+        <translation>Yes</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="836"/>
+        <source>No</source>
+        <translation>No</translation>
     </message>
 </context>
 </TS>

@@ -306,81 +306,81 @@
         <translation>ទិញ ទាញយក ឬចម្លងភេងទៅក្នុងតារាងរបស់លោកអ្នក ដើម្បីស្ដាប់។</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="543"/>
+        <location filename="../../main.qml" line="544"/>
         <source>Artist name</source>
         <translation>ឈ្មោះសិល្បករ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="550"/>
+        <location filename="../../main.qml" line="551"/>
         <source>Track name</source>
         <translation>ឈ្មោះ Track</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="558"/>
+        <location filename="../../main.qml" line="559"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>ប្រសិនបើលុបចោល វាមិននៅក្នុងឧបករណ៍របស់លោកអ្នកទៀតទេ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="574"/>
+        <location filename="../../main.qml" line="575"/>
         <source>Permanently delete this song?</source>
         <translation>លុបចម្រៀងនេះជាអចិន្ត្រៃយ៍</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="574"/>
+        <location filename="../../main.qml" line="575"/>
         <source>Permanently delete these %1 songs?</source>
         <translation>លុបចម្រៀងនេះជាអចិន្ត្រៃយ៍ %1?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="596"/>
+        <location filename="../../main.qml" line="597"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>ប្រសិនបើលុបចោល វាមិននៅក្នុងឧបករណ៍របស់លោកអ្នកទៀតទេ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="656"/>
-        <location filename="../../main.qml" line="714"/>
+        <location filename="../../main.qml" line="657"/>
+        <location filename="../../main.qml" line="715"/>
         <source>Invalid Characters: %1</source>
         <translation>អក្សរខុស: %1</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="866"/>
-        <location filename="../../main.qml" line="1004"/>
-        <location filename="../../main.qml" line="1136"/>
-        <location filename="../../main.qml" line="1280"/>
-        <location filename="../../main.qml" line="1575"/>
+        <location filename="../../main.qml" line="867"/>
+        <location filename="../../main.qml" line="1007"/>
+        <location filename="../../main.qml" line="1141"/>
+        <location filename="../../main.qml" line="1287"/>
+        <location filename="../../main.qml" line="1585"/>
         <source>View By</source>
         <translation>មើលតាមរយៈ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="894"/>
+        <location filename="../../main.qml" line="895"/>
         <source>Actions</source>
         <translation>សកម្មភាព</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="1444"/>
+        <location filename="../../main.qml" line="1453"/>
         <source>Sort</source>
         <translation>តម្រៀប</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="1701"/>
-        <location filename="../../main.qml" line="2022"/>
+        <location filename="../../main.qml" line="1717"/>
+        <location filename="../../main.qml" line="2039"/>
         <source>%1 songs</source>
         <translation>%1 ចម្រៀង</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="1713"/>
-        <location filename="../../main.qml" line="2034"/>
+        <location filename="../../main.qml" line="1729"/>
+        <location filename="../../main.qml" line="2051"/>
         <source>%1 Seconds</source>
         <translation>%1 វិនាទី</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="1714"/>
-        <location filename="../../main.qml" line="2035"/>
+        <location filename="../../main.qml" line="1730"/>
+        <location filename="../../main.qml" line="2052"/>
         <source>%1 Minutes</source>
         <translation>%1 នាទី</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="1715"/>
-        <location filename="../../main.qml" line="2036"/>
+        <location filename="../../main.qml" line="1731"/>
+        <location filename="../../main.qml" line="2053"/>
         <source>%1 Hours</source>
         <translation>%1 ម៉ោង</translation>
     </message>

@@ -28,13 +28,13 @@
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="122"/>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="160"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="161"/>
         <source>Top applications</source>
         <translation>Aplicações principais</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="123"/>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="169"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="170"/>
         <source>Settings</source>
         <translation>Definições</translation>
     </message>
@@ -44,12 +44,7 @@
         <translation>O meu Tablet</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="151"/>
-        <source>Connected devices</source>
-        <translation>Dispositivos ligados</translation>
-    </message>
-    <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="181"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="182"/>
         <source>My Tablet settings</source>
         <translation>Definições do meu Tablet</translation>
     </message>
