@@ -47,8 +47,8 @@ pull:
 		tx init --host $(TX_URL); \
 		tx set --auto-remote $(TX_URL)$(TX_PRJ); \
 	fi
-	localelist=`echo $(LOCALES) | sed 's/ /,/g'`
-	tx pull -f -s -l "$$localelist"
+	localelist=`echo $(LOCALES) | sed 's/ /,/g'`; \
+	tx pull -f -s -l $$localelist
 
 %.qm: %.ts Makefile
 	lrelease $< -qm $@
