@@ -106,12 +106,12 @@
     <message>
         <location filename="../../main.qml" line="402"/>
         <source>No videos added yet, do you want to start watching videos?</source>
-        <translation/>
+        <translation>Видеозаписи пока не добавлены - хотите начать смотреть видео?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="410"/>
         <source>Start recording your own or upload your favourite shows.</source>
-        <translation/>
+        <translation>Начните запись или загрузите свои любимые передачи.</translation>
     </message>
 </context>
 </TS>

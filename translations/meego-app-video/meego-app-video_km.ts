@@ -24,7 +24,7 @@
     <message>
         <location filename="../../main.qml" line="25"/>
         <source>Favorites</source>
-        <translation>សំណប់</translation>
+        <translation>ដែល​គាប់​ចិត្ត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
@@ -34,27 +34,27 @@
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះ​បង់</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
         <source>Play</source>
-        <translation>ចាក់</translation>
+        <translation>លេង</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
         <source>Favorite</source>
-        <translation>សំណប់</translation>
+        <translation>ដែល​គាប់​ចិត្ត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Unfavorite</source>
-        <translation>មិនចូលចិត្ត</translation>
+        <translation>ដែល​មិន​គាប់​ចិត្ត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
         <source>Share</source>
-        <translation>ចែកចាយ</translation>
+        <translation>ចែក​រំលែក</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
@@ -91,12 +91,12 @@
     <message>
         <location filename="../../main.qml" line="171"/>
         <source>Permanently delete this video?</source>
-        <translation>លុបវីដេអូនេះជាអចិន្ត្រៃយ៍</translation>
+        <translation>លុប​វីដេអូ​នេះ​ចោល​ទាំង​ស្រុង?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="171"/>
         <source>Permanently delete these %1 videos?</source>
-        <translation>លុបវីដេអូនេះ %1 ជាអចិន្ត្រៃយ៍</translation>
+        <translation>លុប​វីដេអូ​ទាំង %1 នេះ​ចោល​ទាំង​ស្រុង?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="184"/>
@@ -106,12 +106,12 @@
     <message>
         <location filename="../../main.qml" line="402"/>
         <source>No videos added yet, do you want to start watching videos?</source>
-        <translation>អត់មានវីដេអូទេ លោកអ្នកចង់ទស្សនាវីដេអូ?</translation>
+        <translation>មិន​ទាន់​មាន​វីដេអូ​ទេ។ តើ​អ្នក​ចង់​ចាប់​ផ្ដើម​មើល​វីដេអូ​រ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="410"/>
         <source>Start recording your own or upload your favourite shows.</source>
-        <translation>Start recording your own or upload your favourite shows.</translation>
+        <translation>ចាប់​ផ្ដើម​ថត​ការ​សម្ដែង​របស់​អ្នក ឬ ផ្ទុក​ឡើង​នូវ​ការ​សម្ដែង​ដែល​គាប់​ចិត្ត​អ្នក។</translation>
     </message>
 </context>
 </TS>

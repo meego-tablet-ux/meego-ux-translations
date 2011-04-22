@@ -568,7 +568,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="210"/>
         <source>Getting more messages</source>
-        <translation/>
+        <translation>Empfang weiterer Nachrichten</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="212"/>
@@ -699,7 +699,7 @@
         <location filename="../../settings/ManualScreen.qml" line="217"/>
         <location filename="../../settings/ManualScreen.qml" line="223"/>
         <source>This field is required</source>
-        <translation/>
+        <translation>Dies ist ein Pflichtfeld</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="243"/>
@@ -737,7 +737,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="27"/>
         <source>Attachment saved.</source>
-        <translation/>
+        <translation>Anhang gespeichert.</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="39"/>
@@ -747,7 +747,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="42"/>
         <source>File format is not supported.</source>
-        <translation/>
+        <translation>Dateiformat wird nicht unterstützt.</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="104"/>
@@ -862,7 +862,7 @@
         <location filename="../../settings/RegisterScreen.qml" line="109"/>
         <location filename="../../settings/RegisterScreen.qml" line="115"/>
         <source>This field is required</source>
-        <translation/>
+        <translation>Dies ist ein Pflichtfeld</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="129"/>

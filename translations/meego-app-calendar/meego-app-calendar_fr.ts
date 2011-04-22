@@ -9,47 +9,47 @@
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="27"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 minutes avant</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="28"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 minutes avant</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="29"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 minutes avant</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="30"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 heure avant</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="31"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 heures avant</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="32"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 jour avant</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="33"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 jours avant</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="34"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 semaine avant</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="35"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Autres...</translation>
     </message>
 </context>
 <context>
@@ -63,7 +63,7 @@
     <message>
         <location filename="../../CalendarDayView.qml" line="176"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="407"/>
@@ -134,7 +134,7 @@
     <message>
         <location filename="../../CalendarMonthView.qml" line="172"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="534"/>
@@ -157,7 +157,7 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="175"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="334"/>
@@ -239,7 +239,7 @@
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="122"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="185"/>
@@ -307,7 +307,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="941"/>
         <source>Time zone</source>
-        <translation/>
+        <translation>Fuseau horaire</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="983"/>
@@ -383,32 +383,32 @@
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="28"/>
         <source>Every day</source>
-        <translation/>
+        <translation>Tous les jours</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="29"/>
         <source>Every week</source>
-        <translation/>
+        <translation>Toutes les semaines</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="30"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>Toutes les 2 semaines</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="31"/>
         <source>Every month</source>
-        <translation/>
+        <translation>Tous les mois</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="32"/>
         <source>Every year</source>
-        <translation/>
+        <translation>Tous les an</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="33"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Autres...</translation>
     </message>
 </context>
 <context>
@@ -426,48 +426,48 @@
     <message>
         <location filename="../../lib/utilmethods.cpp" line="259"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 minutes avant</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="260"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 minutes avant</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="261"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 minutes avant</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="262"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 heure avant</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="263"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 heures avant</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="264"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 jour avant</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="265"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 jours avant</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="266"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 semaine avant</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="267"/>
         <location filename="../../lib/utilmethods.cpp" line="282"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Autres...</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="276"/>
@@ -477,27 +477,27 @@
     <message>
         <location filename="../../lib/utilmethods.cpp" line="277"/>
         <source>Every day</source>
-        <translation/>
+        <translation>Tous les jours</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="278"/>
         <source>Every week</source>
-        <translation/>
+        <translation>toutes les semaines</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="279"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>Toutes les 2 semaines</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="280"/>
         <source>Every month</source>
-        <translation/>
+        <translation>Tous les mois</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="281"/>
         <source>Every year</source>
-        <translation/>
+        <translation>Tous les an</translation>
     </message>
 </context>
 <context>
@@ -556,7 +556,7 @@
     <message>
         <location filename="../../main.qml" line="248"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="318"/>

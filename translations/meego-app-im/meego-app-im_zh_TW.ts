@@ -20,7 +20,8 @@
         <location filename="../../plugin/IM/AccountContent.qml" line="190"/>
         <source>There is already an account configured using this login. 
 Please check your username.</source>
-        <translation/>
+        <translation>已經有使用此登入所設定的帳戶。  
+請檢查您的使用者名稱。</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="191"/>
@@ -37,7 +38,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="218"/>
         <source>Name / ID</source>
-        <translation/>
+        <translation>名稱 / ID</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="226"/>
@@ -294,7 +295,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="279"/>
         <source>Invalidated text channel  %1 - %2 - %3</source>
-        <translation/>
+        <translation>無效文字通道 %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="284"/>
@@ -498,7 +499,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactsDelegate.qml" line="99"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>刪除聯絡人</translation>
     </message>
 </context>
 <context>
@@ -774,7 +775,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../IncomingCall.qml" line="16"/>
         <source>Incoming Call</source>
-        <translation/>
+        <translation>來電</translation>
     </message>
     <message>
         <location filename="../../IncomingCall.qml" line="19"/>

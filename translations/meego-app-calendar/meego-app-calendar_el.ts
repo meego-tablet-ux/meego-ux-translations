@@ -9,42 +9,42 @@
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="27"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 λεπτά πριν</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="28"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 λεπτά πριν</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="29"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 λεπτά πριν</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="30"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 ώρα πριν</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="31"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 ώρες πριν</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="32"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 μέρα πριν</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="33"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 μέρες πριν</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="34"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 βδομάδα πριν</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="35"/>
@@ -58,12 +58,12 @@
         <location filename="../../CalendarDayView.qml" line="174"/>
         <location filename="../../CalendarDayView.qml" line="332"/>
         <source>All day</source>
-        <translation/>
+        <translation>Όλη μέρα</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="176"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="407"/>
@@ -73,7 +73,7 @@
     <message>
         <location filename="../../CalendarDayView.qml" line="559"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -82,24 +82,24 @@
         <location filename="../../CalendarListView.qml" line="45"/>
         <location filename="../../CalendarListView.qml" line="101"/>
         <source>%1 results found</source>
-        <translation/>
+        <translation>Βρέθηκαν %1 αποτελέσματα</translation>
     </message>
     <message>
         <location filename="../../CalendarListView.qml" line="172"/>
         <location filename="../../CalendarListView.qml" line="192"/>
         <source>All day</source>
-        <translation/>
+        <translation>Όλη μέρα</translation>
     </message>
     <message>
         <location filename="../../CalendarListView.qml" line="172"/>
         <location filename="../../CalendarListView.qml" line="192"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../CalendarListView.qml" line="192"/>
         <source>%1, </source>
-        <translation/>
+        <translation>%1, </translation>
     </message>
 </context>
 <context>
@@ -107,7 +107,7 @@
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="87"/>
         <source>All day: </source>
-        <translation/>
+        <translation>Όλη μέρα: </translation>
     </message>
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="124"/>
@@ -123,23 +123,23 @@
         <location filename="../../CalendarMonthView.qml" line="51"/>
         <location filename="../../CalendarMonthView.qml" line="63"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="170"/>
         <location filename="../../CalendarMonthView.qml" line="534"/>
         <source>All day</source>
-        <translation/>
+        <translation>Όλη μέρα</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="172"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="534"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="578"/>
@@ -152,12 +152,12 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="173"/>
         <source>All day</source>
-        <translation/>
+        <translation>Όλη μέρα</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="175"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="334"/>
@@ -167,7 +167,7 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="496"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -208,12 +208,12 @@
     <message>
         <location filename="../../EventDetailsView.qml" line="305"/>
         <source>Edit</source>
-        <translation/>
+        <translation>Επεξεργασία</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="322"/>
         <source>Close</source>
-        <translation/>
+        <translation>Κλείσιμο</translation>
     </message>
 </context>
 <context>
@@ -221,7 +221,7 @@
     <message>
         <location filename="../../HeaderComponentView.qml" line="18"/>
         <source>Date</source>
-        <translation/>
+        <translation>Ημερομηνία</translation>
     </message>
 </context>
 <context>
@@ -234,17 +234,17 @@
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="122"/>
         <source>All day</source>
-        <translation/>
+        <translation>Όλη μέρα</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="122"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="185"/>
         <source>Close</source>
-        <translation/>
+        <translation>Κλείσιμο</translation>
     </message>
 </context>
 <context>
@@ -257,12 +257,12 @@
     <message>
         <location filename="../../NewEventView.qml" line="156"/>
         <source>OK</source>
-        <translation/>
+        <translation>Εντάξει</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="157"/>
         <source>Error</source>
-        <translation/>
+        <translation>Σφάλμα</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="160"/>
@@ -282,32 +282,32 @@
     <message>
         <location filename="../../NewEventView.qml" line="599"/>
         <source>Date &amp; time</source>
-        <translation/>
+        <translation>Ημερομηνία και ώρα</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="644"/>
         <source>All-day</source>
-        <translation/>
+        <translation>Όλη μέρα</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="692"/>
         <source>Start time</source>
-        <translation/>
+        <translation>Χρόνος αρχής</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="775"/>
         <source>End time</source>
-        <translation/>
+        <translation>Χρόνος ολοκλήρωσης</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="877"/>
         <source>More...</source>
-        <translation/>
+        <translation>Περισσότερα...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="941"/>
         <source>Time zone</source>
-        <translation/>
+        <translation>Ζώνη ώρας</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="983"/>
@@ -317,7 +317,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="1012"/>
         <source>Never</source>
-        <translation/>
+        <translation>Ποτέ</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1173"/>
@@ -332,12 +332,12 @@
     <message>
         <location filename="../../NewEventView.qml" line="1243"/>
         <source>Location</source>
-        <translation/>
+        <translation>Τοποθεσία</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1294"/>
         <source>Notes</source>
-        <translation/>
+        <translation>Σημειώσεις</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1346"/>
@@ -347,12 +347,12 @@
     <message>
         <location filename="../../NewEventView.qml" line="1441"/>
         <source>Save</source>
-        <translation/>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1462"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -378,37 +378,37 @@
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="27"/>
         <source>Never</source>
-        <translation/>
+        <translation>Ποτέ</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="28"/>
         <source>Every day</source>
-        <translation/>
+        <translation>Κάθε μέρα</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="29"/>
         <source>Every week</source>
-        <translation/>
+        <translation>Κάθε βδομάδα</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="30"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>Κάθε 2 βδομάδες</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="31"/>
         <source>Every month</source>
-        <translation/>
+        <translation>Κάθε μήνα</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="32"/>
         <source>Every year</source>
-        <translation/>
+        <translation>Κάθε χρόνο</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="33"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Άλλο...</translation>
     </message>
 </context>
 <context>
@@ -416,7 +416,7 @@
     <message>
         <location filename="../../lib/utilmethods.cpp" line="172"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="258"/>
@@ -426,78 +426,78 @@
     <message>
         <location filename="../../lib/utilmethods.cpp" line="259"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 λεπτά πριν</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="260"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 λεπτά πριν</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="261"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 λεπτά πριν</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="262"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 ώρα πριν</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="263"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 ώρες πριν</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="264"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 μέρα πριν</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="265"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 μέρες πριν</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="266"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 βδομάδα πριν</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="267"/>
         <location filename="../../lib/utilmethods.cpp" line="282"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Άλλο...</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="276"/>
         <source>Never</source>
-        <translation/>
+        <translation>Ποτέ</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="277"/>
         <source>Every day</source>
-        <translation/>
+        <translation>Κάθε μέρα</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="278"/>
         <source>Every week</source>
-        <translation/>
+        <translation>Κάθε βδομάδα</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="279"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>Κάθε 2 βδομάδες</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="280"/>
         <source>Every month</source>
-        <translation/>
+        <translation>Κάθε μήνα</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="281"/>
         <source>Every year</source>
-        <translation/>
+        <translation>Κάθε χρόνο</translation>
     </message>
 </context>
 <context>
@@ -505,17 +505,17 @@
     <message>
         <location filename="../../lib/viewcalendarmodel.cpp" line="29"/>
         <source>Day</source>
-        <translation/>
+        <translation>Ημέρα</translation>
     </message>
     <message>
         <location filename="../../lib/viewcalendarmodel.cpp" line="30"/>
         <source>Week</source>
-        <translation/>
+        <translation>Εβδομάδα</translation>
     </message>
     <message>
         <location filename="../../lib/viewcalendarmodel.cpp" line="31"/>
         <source>Month</source>
-        <translation/>
+        <translation>Μήνας</translation>
     </message>
 </context>
 <context>
@@ -523,50 +523,50 @@
     <message>
         <location filename="../../main.qml" line="17"/>
         <source>Calendar</source>
-        <translation/>
+        <translation>Ημερολόγιο</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="18"/>
         <location filename="../../main.qml" line="110"/>
         <source>Day</source>
-        <translation/>
+        <translation>Ημέρα</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="18"/>
         <location filename="../../main.qml" line="136"/>
         <source>Week</source>
-        <translation/>
+        <translation>Εβδομάδα</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="18"/>
         <location filename="../../main.qml" line="161"/>
         <source>Month</source>
-        <translation/>
+        <translation>Μήνας</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="246"/>
         <source>%1, </source>
-        <translation/>
+        <translation>%1, </translation>
     </message>
     <message>
         <location filename="../../main.qml" line="246"/>
         <source>All day</source>
-        <translation/>
+        <translation>Όλη μέρα</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="248"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="318"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="319"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="320"/>
@@ -586,12 +586,12 @@
     <message>
         <location filename="../../main.qml" line="392"/>
         <source>Go to today</source>
-        <translation/>
+        <translation>Μετάβαση σε σήμερα</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="423"/>
         <source>Go to date...</source>
-        <translation/>
+        <translation>Μετάβαση στην ημερομηνία...</translation>
     </message>
 </context>
 </TS>

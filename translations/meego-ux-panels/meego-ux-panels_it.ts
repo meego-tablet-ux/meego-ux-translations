@@ -30,27 +30,27 @@
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="92"/>
         <source>No connection currently</source>
-        <translation/>
+        <translation>Nessuna connessione attiva</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="95"/>
         <source>Wired</source>
-        <translation/>
+        <translation>Via cavo</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="100"/>
         <source>Connected to %1</source>
-        <translation/>
+        <translation>Connesso a %1</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="102"/>
         <source>Connecting...</source>
-        <translation/>
+        <translation>Connessione in corso...</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="105"/>
         <source>Connected by %1</source>
-        <translation/>
+        <translation>Connesso da %1</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="177"/>

@@ -29,12 +29,12 @@
     <message>
         <location filename="../../main.qml" line="28"/>
         <source>Yes, Delete</source>
-        <translation/>
+        <translation>Sí, desaniciar</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
@@ -54,7 +54,7 @@
     <message>
         <location filename="../../main.qml" line="38"/>
         <source>Share</source>
-        <translation/>
+        <translation>Compartir</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../../main.qml" line="40"/>
         <source>Select Multiple Videos</source>
-        <translation/>
+        <translation>Seleicionar múltiples videos</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="90"/>
@@ -80,13 +80,13 @@
     <message>
         <location filename="../../main.qml" line="153"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Nome de videu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="159"/>
         <location filename="../../main.qml" line="583"/>
         <source>If you delete this, it will be removed from your device</source>
-        <translation/>
+        <translation>Si desanicies esto, desaniciaráse dafechu del to preséu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="171"/>
@@ -101,17 +101,17 @@
     <message>
         <location filename="../../main.qml" line="184"/>
         <source>If you delete these, they will be removed from your device</source>
-        <translation/>
+        <translation>Si los desanicies, van perdese dafechu del to preseu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="402"/>
         <source>No videos added yet, do you want to start watching videos?</source>
-        <translation/>
+        <translation>Entá nun s&apos;amestó dengún videu, quies entamar a ver vídeos?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="410"/>
         <source>Start recording your own or upload your favourite shows.</source>
-        <translation/>
+        <translation>Entamar a grabar o xubir los tos vídeos favoritos.</translation>
     </message>
 </context>
 </TS>

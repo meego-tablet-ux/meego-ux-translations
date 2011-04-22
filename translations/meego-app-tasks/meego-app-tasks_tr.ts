@@ -14,7 +14,7 @@
     <message>
         <location filename="../../BottomBar.qml" line="23"/>
         <source>Move to (%1)</source>
-        <translation/>
+        <translation>Taşı (%1)</translation>
     </message>
     <message>
         <location filename="../../BottomBar.qml" line="24"/>
@@ -61,17 +61,17 @@
     <message>
         <location filename="../../TaskListPicker.qml" line="84"/>
         <source>Create a new list</source>
-        <translation/>
+        <translation>Yeni liste oluştur</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="101"/>
         <source>OK</source>
-        <translation/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="102"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>İptal</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="105"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../../TaskListPicker.qml" line="113"/>
         <source>List name</source>
-        <translation/>
+        <translation>Liste adı</translation>
     </message>
 </context>
 <context>
@@ -109,12 +109,12 @@
     <message>
         <location filename="../../TaskListView.qml" line="424"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Evet</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="425"/>
         <source>No</source>
-        <translation/>
+        <translation>Hayır</translation>
     </message>
 </context>
 <context>
@@ -130,12 +130,12 @@
     <message>
         <location filename="../../TasksDetailMenu.qml" line="48"/>
         <source>Insert task name</source>
-        <translation/>
+        <translation>Görev adı ekleyin</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="59"/>
         <source>List:</source>
-        <translation/>
+        <translation>Liste:</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="114"/>
@@ -160,32 +160,32 @@
     <message>
         <location filename="../../TasksDetailMenu.qml" line="155"/>
         <source>Notes</source>
-        <translation/>
+        <translation>Notlar</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="163"/>
         <source>Add a note here</source>
-        <translation/>
+        <translation>Buraya not ekle</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="170"/>
         <source>Delete task</source>
-        <translation/>
+        <translation>Görevi sil</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="191"/>
         <source>Edit</source>
-        <translation/>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="203"/>
         <source>Save</source>
-        <translation/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="215"/>
         <source>Close</source>
-        <translation/>
+        <translation>Kapat</translation>
     </message>
 </context>
 <context>
@@ -345,12 +345,12 @@
     <message>
         <location filename="../../main.qml" line="69"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="271"/>
         <source>List name</source>
-        <translation/>
+        <translation>Liste adı</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="514"/>
@@ -370,12 +370,12 @@
     <message>
         <location filename="../../main.qml" line="835"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Evet</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="836"/>
         <source>No</source>
-        <translation/>
+        <translation>Hayır</translation>
     </message>
 </context>
 </TS>

@@ -158,7 +158,7 @@
     <message>
         <location filename="../../main.qml" line="41"/>
         <source>Open Album</source>
-        <translation/>
+        <translation>ਐਲਬਮ ਖੋਲ੍ਹੋ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="42"/>
@@ -258,12 +258,12 @@
     <message>
         <location filename="../../main.qml" line="66"/>
         <source>Alphabetically</source>
-        <translation/>
+        <translation>ਵਰਨਮਾਲਾ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="67"/>
         <source>By Date</source>
-        <translation/>
+        <translation>ਮਿਤੀ ਨਾਲ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="69"/>
@@ -298,12 +298,12 @@
     <message>
         <location filename="../../main.qml" line="77"/>
         <source>Where is all the music?</source>
-        <translation/>
+        <translation>ਸਭ ਸੰਗੀਤ ਹੈ ਕਿੱਥੇ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="78"/>
         <source>Buy, download or copy your music onto your table, then you can enjoy listening to it from here.</source>
-        <translation/>
+        <translation>ਆਪਣੇ ਸੰਗੀਤ ਨੂੰ ਆਪਣੇ ਟੇਬਲ ਉੱਤੇ ਖਰੀਦੋ, ਡਾਊਨਲੋਡ ਕਰੋ ਜਾਂ ਕਾਪੀ ਕਰੋ, ਤਦ ਤੁਸੀਂ ਉਸ ਨੂੰ ਇੱਥੇ ਸੁਣ ਸਕਦੇ ਹੋ।</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="544"/>
@@ -339,7 +339,7 @@
         <location filename="../../main.qml" line="657"/>
         <location filename="../../main.qml" line="715"/>
         <source>Invalid Characters: %1</source>
-        <translation/>
+        <translation>ਗਲਤ ਅੱਖਰ: %1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="867"/>
@@ -348,41 +348,41 @@
         <location filename="../../main.qml" line="1287"/>
         <location filename="../../main.qml" line="1585"/>
         <source>View By</source>
-        <translation/>
+        <translation>ਵੇਖੋ ਇੰਝ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="895"/>
         <source>Actions</source>
-        <translation/>
+        <translation>ਕਾਰਵਾਈ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1453"/>
         <source>Sort</source>
-        <translation/>
+        <translation>ਲੜੀਬੱਧ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1717"/>
         <location filename="../../main.qml" line="2039"/>
         <source>%1 songs</source>
-        <translation/>
+        <translation>%1 ਗਾਣੇ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1729"/>
         <location filename="../../main.qml" line="2051"/>
         <source>%1 Seconds</source>
-        <translation/>
+        <translation>%1 ਸਕਿੰਟ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1730"/>
         <location filename="../../main.qml" line="2052"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 ਮਿੰਟ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1731"/>
         <location filename="../../main.qml" line="2053"/>
         <source>%1 Hours</source>
-        <translation/>
+        <translation>%1 ਘੰਟੇ</translation>
     </message>
 </context>
 </TS>

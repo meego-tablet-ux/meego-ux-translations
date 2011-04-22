@@ -4,22 +4,22 @@
     <message>
         <location filename="../../Media/MediaGridView.qml" line="57"/>
         <source>Favorites</source>
-        <translation/>
+        <translation>Favoris</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="58"/>
         <source>Recently Viewed</source>
-        <translation/>
+        <translation>Vue récemment</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="59"/>
         <source>Recently Added</source>
-        <translation/>
+        <translation>Ajouté récemment </translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="60"/>
         <source>Unwatched</source>
-        <translation/>
+        <translation>Non vue</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="61"/>

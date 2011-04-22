@@ -4,27 +4,27 @@
     <message>
         <location filename="../../Media/MediaGridView.qml" line="57"/>
         <source>Favorites</source>
-        <translation/>
+        <translation>ដែល​គាប់​ចិត្ត</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="58"/>
         <source>Recently Viewed</source>
-        <translation/>
+        <translation>ដែល​ទើប​បាន​មើល</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="59"/>
         <source>Recently Added</source>
-        <translation/>
+        <translation>ដែល​ទើប​បាន​បន្ថែម</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="60"/>
         <source>Unwatched</source>
-        <translation/>
+        <translation>ដែល​មិន​បាន​មើល</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="61"/>
         <source>Search Results</source>
-        <translation/>
+        <translation>លទ្ធផល​ស្វែង​រក</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="256"/>

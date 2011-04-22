@@ -111,37 +111,37 @@
     <message>
         <location filename="../../ContactsSettings.qml" line="16"/>
         <source>Contacts Settings</source>
-        <translation/>
+        <translation>Настройки контактов</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="17"/>
         <source>Sort Order:</source>
-        <translation/>
+        <translation>Порядок сортировки:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="18"/>
         <source>Display Order:</source>
-        <translation/>
+        <translation>Порядок отображения:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="19"/>
         <source>Sort by first name</source>
-        <translation/>
+        <translation>Сортировать по имени</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Sort by last name</source>
-        <translation/>
+        <translation>Сортировать по фамилии</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="21"/>
         <source>Display by first name</source>
-        <translation/>
+        <translation>Отображать по имени</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Display by last name</source>
-        <translation/>
+        <translation>Отображать по фамилии</translation>
     </message>
 </context>
 <context>

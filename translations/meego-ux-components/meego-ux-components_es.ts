@@ -5,154 +5,154 @@
         <location filename="../../src/components/ux/DatePicker.qml" line="221"/>
         <location filename="../../src/components/ux/DatePicker.qml" line="227"/>
         <source>S</source>
-        <translation/>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="222"/>
         <source>M</source>
-        <translation/>
+        <translation>M</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="223"/>
         <location filename="../../src/components/ux/DatePicker.qml" line="225"/>
         <source>T</source>
-        <translation/>
+        <translation>T</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="224"/>
         <source>W</source>
-        <translation/>
+        <translation>I</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="226"/>
         <source>F</source>
-        <translation/>
+        <translation>F</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="229"/>
         <source>Jan</source>
-        <translation/>
+        <translation>Ene</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="230"/>
         <source>Feb</source>
-        <translation/>
+        <translation>Feb</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="231"/>
         <source>Mar</source>
-        <translation/>
+        <translation>Mar</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="232"/>
         <source>Apr</source>
-        <translation/>
+        <translation>Abr</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="233"/>
         <location filename="../../src/components/ux/DatePicker.qml" line="246"/>
         <source>May</source>
-        <translation/>
+        <translation>Mayo</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="234"/>
         <source>Jun</source>
-        <translation/>
+        <translation>Jun</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="235"/>
         <source>Jul</source>
-        <translation/>
+        <translation>Jul</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="236"/>
         <source>Aug</source>
-        <translation/>
+        <translation>Ago</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="237"/>
         <source>Sep</source>
-        <translation/>
+        <translation>Sep</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="238"/>
         <source>Oct</source>
-        <translation/>
+        <translation>Oct</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="239"/>
         <source>Nov</source>
-        <translation/>
+        <translation>Nov</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="240"/>
         <source>Dec</source>
-        <translation/>
+        <translation>Dic</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="242"/>
         <source>January</source>
-        <translation/>
+        <translation>Enero</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="243"/>
         <source>February</source>
-        <translation/>
+        <translation>Febrero</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="244"/>
         <source>March</source>
-        <translation/>
+        <translation>Marzo</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="245"/>
         <source>April</source>
-        <translation/>
+        <translation>Abril</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="247"/>
         <source>June</source>
-        <translation/>
+        <translation>Junio</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="248"/>
         <source>July</source>
-        <translation/>
+        <translation>Julio</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="249"/>
         <source>August</source>
-        <translation/>
+        <translation>Agosto</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="250"/>
         <source>September</source>
-        <translation/>
+        <translation>Septiembre</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="251"/>
         <source>October</source>
-        <translation/>
+        <translation>Octubre</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="252"/>
         <source>November</source>
-        <translation/>
+        <translation>Noviembre</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="253"/>
         <source>December</source>
-        <translation/>
+        <translation>Diciembre</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="506"/>
         <source>Due Date</source>
-        <translation/>
+        <translation>Fecha de finalización</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="831"/>
         <source>Go to todays date</source>
-        <translation/>
+        <translation>Ir a la fecha de hoy</translation>
     </message>
 </context>
 <context>
@@ -285,27 +285,27 @@
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="159"/>
         <source>Back...</source>
-        <translation/>
+        <translation>Atrás…</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="200"/>
         <source>Pick a Song</source>
-        <translation/>
+        <translation>Seleccionar una canción</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="200"/>
         <source>Pick a Playlist/Album</source>
-        <translation/>
+        <translation>Seleccionar una lista/álbum</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="201"/>
         <source>Pick a Playlist</source>
-        <translation/>
+        <translation>Seleccionar una lista de reproducción</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="201"/>
         <source>Pick an Album</source>
-        <translation/>
+        <translation>Seleccionar un álbum</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="351"/>
@@ -372,7 +372,7 @@
     <message>
         <location filename="../../src/components/ux/ToggleButton.qml" line="142"/>
         <source>On</source>
-        <translation>❘</translation>
+        <translation>|</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/ToggleButton.qml" line="155"/>

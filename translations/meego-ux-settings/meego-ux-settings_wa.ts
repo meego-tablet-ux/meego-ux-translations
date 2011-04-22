@@ -28,27 +28,27 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="113"/>
         <source>Disconnect Internet</source>
-        <translation/>
+        <translation>Disraloyî del Daegntoele</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="113"/>
         <source>Connect Internet</source>
-        <translation/>
+        <translation>Raloyî al Daegntoele</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="168"/>
         <source>Connect Actions</source>
-        <translation/>
+        <translation>Faitindjes di raloyaedje</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="216"/>
         <source>Manage</source>
-        <translation/>
+        <translation>Manaedjî</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="223"/>
         <source>Remove</source>
-        <translation/>
+        <translation>Oister</translation>
     </message>
 </context>
 <context>
@@ -57,22 +57,22 @@
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="16"/>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="64"/>
         <source>Bluetooth</source>
-        <translation/>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="42"/>
         <source>No bluetooth adapter present</source>
-        <translation/>
+        <translation>Gn a pont d&apos; adapteu bluetooth</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="98"/>
         <source>Discoverable</source>
-        <translation/>
+        <translation>Discovråve</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="109"/>
         <source>Discoverable for %1 seconds</source>
-        <translation/>
+        <translation>Discovråve %1 segondes å long</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="155"/>

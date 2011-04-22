@@ -17,7 +17,7 @@
     <message>
         <location filename="../../src/DataHandler.cpp" line="1299"/>
         <source>dd-MMM-yyyy</source>
-        <translation/>
+        <translation>dd-MMM-yyyy</translation>
     </message>
 </context>
 <context>

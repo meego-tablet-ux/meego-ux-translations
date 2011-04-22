@@ -67,7 +67,7 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="26"/>
         <source>...</source>
-        <translation/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="72"/>
@@ -111,37 +111,37 @@
     <message>
         <location filename="../../ContactsSettings.qml" line="16"/>
         <source>Contacts Settings</source>
-        <translation/>
+        <translation>ਸੰਪਰਕ ਸੈਟਿੰਗ</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="17"/>
         <source>Sort Order:</source>
-        <translation/>
+        <translation>ਲੜੀਬੱਧ:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="18"/>
         <source>Display Order:</source>
-        <translation/>
+        <translation>ਵੇਖਾਉਣ ਢੰਗ:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="19"/>
         <source>Sort by first name</source>
-        <translation/>
+        <translation>ਪਹਿਲੇ ਨਾਂ ਨਾਲ ਲੜੀਬੱਧ</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Sort by last name</source>
-        <translation/>
+        <translation>ਆਖਰੀ ਨਾਂ ਨਾਲ ਲੜੀਬੱਧ</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="21"/>
         <source>Display by first name</source>
-        <translation/>
+        <translation>ਪਹਿਲਾਂ ਨਾਂ ਵੇਖਾਓ</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Display by last name</source>
-        <translation/>
+        <translation>ਆਖਰੀ ਨਾਂ ਵੇਖਾਓ</translation>
     </message>
 </context>
 <context>

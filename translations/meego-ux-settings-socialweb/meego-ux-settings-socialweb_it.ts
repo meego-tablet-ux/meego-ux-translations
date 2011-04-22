@@ -14,7 +14,7 @@
     <message>
         <location filename="../../qml/constants.js" line="6"/>
         <source>Sign In</source>
-        <translation/>
+        <translation>Login</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="8"/>
@@ -34,7 +34,7 @@
     <message>
         <location filename="../../qml/constants.js" line="13"/>
         <source>&lt;b&gt;Username:&lt;/b&gt; </source>
-        <translation/>
+        <translation>&lt;b&gt;Nome utente:&lt;/b&gt; </translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="14"/>
@@ -49,12 +49,12 @@
     <message>
         <location filename="../../qml/constants.js" line="16"/>
         <source>Verifier code</source>
-        <translation/>
+        <translation>Codice controllore</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="18"/>
         <source>More Details</source>
-        <translation/>
+        <translation>Ulteriori informazioni</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
@@ -64,12 +64,12 @@
     <message>
         <location filename="../../qml/constants.js" line="21"/>
         <source>Attempting to sign in...</source>
-        <translation>È in corso il login a....</translation>
+        <translation>Tentativo di login in corso...</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="22"/>
         <source>Successfully signed in!</source>
-        <translation>Login effettuato correttamente.</translation>
+        <translation>Login effettuato.</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="23"/>

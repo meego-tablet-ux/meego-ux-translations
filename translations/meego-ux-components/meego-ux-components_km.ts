@@ -5,154 +5,154 @@
         <location filename="../../src/components/ux/DatePicker.qml" line="221"/>
         <location filename="../../src/components/ux/DatePicker.qml" line="227"/>
         <source>S</source>
-        <translation/>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="222"/>
         <source>M</source>
-        <translation/>
+        <translation>M</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="223"/>
         <location filename="../../src/components/ux/DatePicker.qml" line="225"/>
         <source>T</source>
-        <translation/>
+        <translation>T</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="224"/>
         <source>W</source>
-        <translation/>
+        <translation>W</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="226"/>
         <source>F</source>
-        <translation/>
+        <translation>F</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="229"/>
         <source>Jan</source>
-        <translation/>
+        <translation>មក</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="230"/>
         <source>Feb</source>
-        <translation/>
+        <translation>កុ</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="231"/>
         <source>Mar</source>
-        <translation/>
+        <translation>មិ</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="232"/>
         <source>Apr</source>
-        <translation/>
+        <translation>មេ</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="233"/>
         <location filename="../../src/components/ux/DatePicker.qml" line="246"/>
         <source>May</source>
-        <translation/>
+        <translation>ឧស</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="234"/>
         <source>Jun</source>
-        <translation/>
+        <translation>មិ</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="235"/>
         <source>Jul</source>
-        <translation/>
+        <translation>កក្ក</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="236"/>
         <source>Aug</source>
-        <translation/>
+        <translation>សី</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="237"/>
         <source>Sep</source>
-        <translation/>
+        <translation>កញ្ញា</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="238"/>
         <source>Oct</source>
-        <translation/>
+        <translation>តុ</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="239"/>
         <source>Nov</source>
-        <translation/>
+        <translation>វិ</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="240"/>
         <source>Dec</source>
-        <translation/>
+        <translation>ធ្នូ</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="242"/>
         <source>January</source>
-        <translation/>
+        <translation>មករា</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="243"/>
         <source>February</source>
-        <translation/>
+        <translation>កុម្ភៈ</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="244"/>
         <source>March</source>
-        <translation/>
+        <translation>មិនា</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="245"/>
         <source>April</source>
-        <translation/>
+        <translation>មេសា</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="247"/>
         <source>June</source>
-        <translation/>
+        <translation>មិថុនា</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="248"/>
         <source>July</source>
-        <translation/>
+        <translation>កក្កដា</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="249"/>
         <source>August</source>
-        <translation/>
+        <translation>សីហា</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="250"/>
         <source>September</source>
-        <translation/>
+        <translation>កញ្ញា</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="251"/>
         <source>October</source>
-        <translation/>
+        <translation>តុលា</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="252"/>
         <source>November</source>
-        <translation/>
+        <translation>វិច្ឆិកា</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="253"/>
         <source>December</source>
-        <translation/>
+        <translation>ធ្នូ</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="506"/>
         <source>Due Date</source>
-        <translation/>
+        <translation>ថ្ងៃ​កំណត់</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="831"/>
         <source>Go to todays date</source>
-        <translation/>
+        <translation>ទៅ​កាន់​កាលបរិច្ឆេទ​ថ្ងៃ​នេះ</translation>
     </message>
 </context>
 <context>
@@ -160,98 +160,98 @@
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="30"/>
         <source>Just Now</source>
-        <translation/>
+        <translation>ទើប​ឥឡូវ</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="32"/>
         <source>1 min ago</source>
-        <translation/>
+        <translation>១នាទី​មុន</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="34"/>
         <source>%1 mins ago</source>
         <comment>1 is number of minutes</comment>
-        <translation/>
+        <translation>%1 នាទី​មុន</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="37"/>
         <source>Half an hour ago</source>
-        <translation/>
+        <translation>កន្លះ​ម៉ោង​មុន</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="39"/>
         <source>An hour ago</source>
-        <translation/>
+        <translation>១ម៉ោង​មុន</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="41"/>
         <source>A couple of hours ago</source>
-        <translation/>
+        <translation>ប៉ុន្មាន​ម៉ោង​មុន</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="43"/>
         <source>%1 hours ago</source>
         <comment>1 is number of hours</comment>
-        <translation/>
+        <translation>%1 ម៉ោន​មុន</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="48"/>
         <source>Yesterday</source>
-        <translation/>
+        <translation>ម្សិល​មិញ</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="50"/>
         <source>%1/%2/%3 - %4</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is day name</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="56"/>
         <source>%1/%2/%3 - Last week</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - សប្ដាហ៍​មុន</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="61"/>
         <source>%1/%2/%3 - A couple of weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - ប៉ុន្មាន​សប្ដាហ៍​មុន</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="66"/>
         <source>%1/%2/%3 - %4 weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is number of weeks</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4 សប្ដាហ៍​មុន</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="72"/>
         <source>%1/%2/%3 - Last month</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - ខែ​មុន</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="77"/>
         <source>%1/%2/%3 - A couple of months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - ពីរ​ខែ​មុន</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="86"/>
         <source>%1/%2/%3 - %4 months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4 ខែ​មុន</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="92"/>
         <source>%1/%2/%3 - Last year</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - ឆ្នាំ​មុន</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="97"/>
         <source>%1/%2/%3 - %4 years ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4 ឆ្នាំ​មុន</translation>
     </message>
 </context>
 <context>
@@ -259,12 +259,12 @@
     <message>
         <location filename="../../src/components/ux/MediaGridView.qml" line="341"/>
         <source>%1 Minute</source>
-        <translation/>
+        <translation>%1 នាទី</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MediaGridView.qml" line="341"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 នាទី</translation>
     </message>
 </context>
 <context>
@@ -272,12 +272,12 @@
     <message>
         <location filename="../../src/components/ux/ModalDialog.qml" line="139"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>បោះបង់</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/ModalDialog.qml" line="140"/>
         <source>OK</source>
-        <translation/>
+        <translation>ព្រម</translation>
     </message>
 </context>
 <context>
@@ -285,42 +285,42 @@
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="159"/>
         <source>Back...</source>
-        <translation/>
+        <translation>បក​ក្រោយ...</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="200"/>
         <source>Pick a Song</source>
-        <translation/>
+        <translation>រើស​បទ​ចម្រៀង</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="200"/>
         <source>Pick a Playlist/Album</source>
-        <translation/>
+        <translation>រើស បញ្ជី​ចម្រៀង/អាល់បុម</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="201"/>
         <source>Pick a Playlist</source>
-        <translation/>
+        <translation>រើស​បញ្ជី​ចម្រៀង</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="201"/>
         <source>Pick an Album</source>
-        <translation/>
+        <translation>រើស​អាល់បុម</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="351"/>
         <source>Back</source>
-        <translation/>
+        <translation>បក​ក្រោយ</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="370"/>
         <source>OK</source>
-        <translation/>
+        <translation>ព្រម</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="387"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>បោះបង់</translation>
     </message>
 </context>
 <context>
@@ -328,12 +328,12 @@
     <message>
         <location filename="../../src/components/ux/PhotoPicker.qml" line="119"/>
         <source>Pick an album</source>
-        <translation/>
+        <translation>រើស​អាល់បុម</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/PhotoPicker.qml" line="119"/>
         <source>Pick a photo</source>
-        <translation/>
+        <translation>រើស​រូប​ថត</translation>
     </message>
 </context>
 <context>
@@ -341,12 +341,12 @@
     <message>
         <location filename="../../src/components/ux/ScrollableMusicList.qml" line="86"/>
         <source>unknown artist</source>
-        <translation/>
+        <translation>មិន​ស្គាល់​សិល្បករ</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/ScrollableMusicList.qml" line="87"/>
         <source>unknown album</source>
-        <translation/>
+        <translation>មិន​ស្គាល់​អាល់បុម</translation>
     </message>
 </context>
 <context>
@@ -354,17 +354,17 @@
     <message>
         <location filename="../../src/components/ux/TimePicker.qml" line="156"/>
         <source>Pick a time</source>
-        <translation/>
+        <translation>រើស​ពេល</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/TimePicker.qml" line="240"/>
         <source>AM</source>
-        <translation/>
+        <translation>ព្រឹក</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/TimePicker.qml" line="241"/>
         <source>PM</source>
-        <translation/>
+        <translation>ល្ងាច</translation>
     </message>
 </context>
 <context>
@@ -372,12 +372,12 @@
     <message>
         <location filename="../../src/components/ux/ToggleButton.qml" line="142"/>
         <source>On</source>
-        <translation/>
+        <translation>បើក</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/ToggleButton.qml" line="155"/>
         <source>Off</source>
-        <translation/>
+        <translation>បិទ</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../../src/components/ux/VideoPicker.qml" line="169"/>
         <source>Pick a video</source>
-        <translation/>
+        <translation>រើស​វីដេអូ</translation>
     </message>
 </context>
 </TS>

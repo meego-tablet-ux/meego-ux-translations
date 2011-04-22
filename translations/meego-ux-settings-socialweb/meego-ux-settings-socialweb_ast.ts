@@ -4,77 +4,77 @@
     <message>
         <location filename="../../qml/constants.js" line="3"/>
         <source>Web Accounts</source>
-        <translation/>
+        <translation>Cuentes web</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
         <source>Done</source>
-        <translation/>
+        <translation>Fecho</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="6"/>
         <source>Sign In</source>
-        <translation/>
+        <translation>Aniciar sesión</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="8"/>
         <source>Sign in</source>
-        <translation/>
+        <translation>Aniciar sesión</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="9"/>
         <source>Sign out</source>
-        <translation/>
+        <translation>Zarrar sesión</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="10"/>
         <source>Continue</source>
-        <translation/>
+        <translation>Continuar</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="13"/>
         <source>&lt;b&gt;Username:&lt;/b&gt; </source>
-        <translation/>
+        <translation>&lt;b&gt;Nome d&apos;usuariu:&lt;/b&gt; </translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="14"/>
         <source>Username</source>
-        <translation/>
+        <translation>Nome d&apos;usuariu</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="15"/>
         <source>Password</source>
-        <translation/>
+        <translation>Contraseña</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="16"/>
         <source>Verifier code</source>
-        <translation/>
+        <translation>Código verificador</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="18"/>
         <source>More Details</source>
-        <translation/>
+        <translation>Más detalles</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
         <source>Unable to sign in, try again later</source>
-        <translation/>
+        <translation>Nun foi posible aniciar la sesión, inténtalo más sero</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="21"/>
         <source>Attempting to sign in...</source>
-        <translation/>
+        <translation>Intentando aniciar sesión...</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="22"/>
         <source>Successfully signed in!</source>
-        <translation/>
+        <translation>Sesión aniciada correutamente!</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="23"/>
         <source>You have successfully signed out.  Content from this service will no longer appear on this Device</source>
-        <translation/>
+        <translation>Zarróse la sesión correutamente.  El conteníu d&apos;esti serviciu nun va apaecer más nesti preséu</translation>
     </message>
 </context>
 </TS>

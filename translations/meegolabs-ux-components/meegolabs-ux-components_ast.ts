@@ -4,7 +4,7 @@
     <message>
         <location filename="../../Components/AppSwitcherDialog.qml" line="64"/>
         <source>Panels</source>
-        <translation/>
+        <translation>Paneles</translation>
     </message>
 </context>
 <context>
@@ -12,7 +12,7 @@
     <message>
         <location filename="../../Components/ApplicationPage.qml" line="195"/>
         <source>Search</source>
-        <translation/>
+        <translation>Guetar</translation>
     </message>
 </context>
 <context>
@@ -20,17 +20,17 @@
     <message>
         <location filename="../../Components/ClipboardContextMenu.qml" line="12"/>
         <source>Copy</source>
-        <translation/>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="../../Components/ClipboardContextMenu.qml" line="12"/>
         <source>Cut</source>
-        <translation/>
+        <translation>Cortar</translation>
     </message>
     <message>
         <location filename="../../Components/ClipboardContextMenu.qml" line="12"/>
         <source>Paste</source>
-        <translation/>
+        <translation>Apegar</translation>
     </message>
 </context>
 <context>
@@ -38,37 +38,37 @@
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="36"/>
         <source>Pick a contact:</source>
-        <translation/>
+        <translation>Seleiciona un contautu:</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="118"/>
         <source>Loading...</source>
-        <translation/>
+        <translation>Cargando...</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="247"/>
         <source>Idle</source>
-        <translation/>
+        <translation>Idle</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="249"/>
         <source>Available</source>
-        <translation/>
+        <translation>Disponible</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="251"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Ocupáu</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="331"/>
         <source>OK</source>
-        <translation/>
+        <translation>Aceutar</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="354"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
 </context>
 <context>
@@ -76,98 +76,98 @@
     <message>
         <location filename="../../fuzzydatetime.cpp" line="31"/>
         <source>Just Now</source>
-        <translation/>
+        <translation>Agora</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="33"/>
         <source>1 min ago</source>
-        <translation/>
+        <translation>Fai 1 minutu</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="35"/>
         <source>%1 mins ago</source>
         <comment>1 is number of minutes</comment>
-        <translation/>
+        <translation>Fai %1 minutos</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="38"/>
         <source>Half an hour ago</source>
-        <translation/>
+        <translation>Fai media hora</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="40"/>
         <source>An hour ago</source>
-        <translation/>
+        <translation>Fai una hora</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="42"/>
         <source>A couple of hours ago</source>
-        <translation/>
+        <translation>Fai un par d&apos;hores</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="44"/>
         <source>%1 hours ago</source>
         <comment>1 is number of hours</comment>
-        <translation/>
+        <translation>Fai %1 hores</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="49"/>
         <source>Yesterday</source>
-        <translation/>
+        <translation>Ayeri</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="51"/>
         <source>%1/%2/%3 - %4</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is day name</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="57"/>
         <source>%1/%2/%3 - Last week</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Cabera selmana</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="62"/>
         <source>%1/%2/%3 - A couple of weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Fai un par de selmanes</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="67"/>
         <source>%1/%2/%3 - %4 weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is number of weeks</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Fai %4 selmanes</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="73"/>
         <source>%1/%2/%3 - Last month</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Caberu mes</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="78"/>
         <source>%1/%2/%3 - A couple of months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Fai un par de meses</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="87"/>
         <source>%1/%2/%3 - %4 months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Fai %4 meses</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="93"/>
         <source>%1/%2/%3 - Last year</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Caberu añu</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="98"/>
         <source>%1/%2/%3 - %4 years ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Fai %4 años</translation>
     </message>
 </context>
 <context>
@@ -176,55 +176,55 @@
         <location filename="../../localehelper.cpp" line="71"/>
         <source>mdy</source>
         <extracomment>default order for numeric date (m = month, d = date, y = year) this string should contain these exact three characters in some order</extracomment>
-        <translation/>
+        <translation>mdy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="83"/>
         <source>1</source>
         <extracomment>localize this first day of the week (1 = Sunday, 2 = Monday, ...)</extracomment>
-        <translation/>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="111"/>
         <source>dddd, MMMM d</source>
         <extracomment>dddd = full day of week, MMMM = full month, d = day of month (e.g. Monday, January 31)</extracomment>
-        <translation/>
+        <translation>dddd, MMMM d</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="115"/>
         <source>ddd d</source>
         <extracomment>ddd = day of week, d = day of month (e.g. Mon 31)</extracomment>
-        <translation/>
+        <translation>ddd d</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="119"/>
         <source>MMMM yyyy</source>
         <extracomment>MMMM = full month, yyyy = full year (e.g. January 2011)</extracomment>
-        <translation/>
+        <translation>MMMM yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="123"/>
         <source>d</source>
         <extracomment>d = day of month (e.g. 31, no leading zero)</extracomment>
-        <translation/>
+        <translation>d</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="127"/>
         <source>MMMM</source>
         <extracomment>MMMM = full month (e.g. January)</extracomment>
-        <translation/>
+        <translation>MMMM</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="131"/>
         <source>MMM</source>
         <extracomment>MMM = short month (e.g. Jan)</extracomment>
-        <translation/>
+        <translation>MMM</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="135"/>
         <source>yyyy</source>
         <extracomment>yyyy (e.g. 2011)</extracomment>
-        <translation/>
+        <translation>yyyy</translation>
     </message>
 </context>
 <context>
@@ -232,17 +232,17 @@
     <message>
         <location filename="../../Components/MessageBox.qml" line="138"/>
         <source>OK</source>
-        <translation/>
+        <translation>Aceutar</translation>
     </message>
     <message>
         <location filename="../../Components/MessageBox.qml" line="139"/>
         <source>Reject</source>
-        <translation/>
+        <translation>Refugar</translation>
     </message>
     <message>
         <location filename="../../Components/MessageBox.qml" line="140"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
 </context>
 <context>
@@ -250,12 +250,12 @@
     <message>
         <location filename="../../Components/ModalMessageBox.qml" line="127"/>
         <source>OK</source>
-        <translation/>
+        <translation>Aceutar</translation>
     </message>
     <message>
         <location filename="../../Components/ModalMessageBox.qml" line="137"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
 </context>
 <context>
@@ -263,12 +263,12 @@
     <message>
         <location filename="../../Components/ShareButton.qml" line="42"/>
         <source>Share All</source>
-        <translation/>
+        <translation>Compartir too</translation>
     </message>
     <message>
         <location filename="../../Components/ShareButton.qml" line="42"/>
         <source>Share</source>
-        <translation/>
+        <translation>Compartir</translation>
     </message>
 </context>
 <context>
@@ -277,23 +277,23 @@
         <location filename="../../Components/ShareObj.qml" line="63"/>
         <location filename="../../Components/ShareObj.qml" line="83"/>
         <source>Email</source>
-        <translation/>
+        <translation>Corréu-e</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="227"/>
         <source>An error occurred while sharing: %1</source>
-        <translation/>
+        <translation>Hebo un fallu mientres se compartía: %1</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="232"/>
         <location filename="../../Components/ShareObj.qml" line="263"/>
         <source>Ok</source>
-        <translation/>
+        <translation>Aceutar</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="258"/>
         <source>Upload progress: %1%%</source>
-        <translation/>
+        <translation>Progresu de xuba: %1%%</translation>
     </message>
 </context>
 <context>
@@ -301,12 +301,12 @@
     <message>
         <location filename="../../Components/TimeToggleSwitch.qml" line="40"/>
         <source>ON</source>
-        <translation/>
+        <translation>ON</translation>
     </message>
     <message>
         <location filename="../../Components/TimeToggleSwitch.qml" line="41"/>
         <source>OFF</source>
-        <translation/>
+        <translation>OFF</translation>
     </message>
 </context>
 <context>
@@ -314,12 +314,12 @@
     <message>
         <location filename="../../Components/ToggleButton.qml" line="42"/>
         <source>On</source>
-        <translation/>
+        <translation>On</translation>
     </message>
     <message>
         <location filename="../../Components/ToggleButton.qml" line="53"/>
         <source>Off</source>
-        <translation/>
+        <translation>Off</translation>
     </message>
 </context>
 <context>
@@ -327,12 +327,12 @@
     <message>
         <location filename="../../Components/ToggleSwitch.qml" line="39"/>
         <source>ON</source>
-        <translation/>
+        <translation>ON</translation>
     </message>
     <message>
         <location filename="../../Components/ToggleSwitch.qml" line="40"/>
         <source>OFF</source>
-        <translation/>
+        <translation>OFF</translation>
     </message>
 </context>
 </TS>

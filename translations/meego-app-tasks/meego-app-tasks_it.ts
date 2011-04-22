@@ -14,12 +14,12 @@
     <message>
         <location filename="../../BottomBar.qml" line="23"/>
         <source>Move to (%1)</source>
-        <translation/>
+        <translation>Sposta in (%1)</translation>
     </message>
     <message>
         <location filename="../../BottomBar.qml" line="24"/>
         <source>Delete (%1)</source>
-        <translation/>
+        <translation>Elimina (%1)</translation>
     </message>
     <message>
         <location filename="../../BottomBar.qml" line="25"/>
@@ -53,7 +53,7 @@
     <message>
         <location filename="../../EditableStringListView.qml" line="79"/>
         <source>X</source>
-        <translation/>
+        <translation>X</translation>
     </message>
 </context>
 <context>
@@ -94,7 +94,7 @@
     <message>
         <location filename="../../TaskListView.qml" line="233"/>
         <source>%1 tasks</source>
-        <translation/>
+        <translation>%1 attività</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="416"/>
@@ -214,7 +214,7 @@
     <message>
         <location filename="../../main.qml" line="17"/>
         <source>All due tasks</source>
-        <translation/>
+        <translation>Tutte le attività scadute</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="18"/>
@@ -234,7 +234,7 @@
     <message>
         <location filename="../../main.qml" line="21"/>
         <source>Default list</source>
-        <translation/>
+        <translation>Elenco predefinito</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="22"/>
@@ -249,22 +249,22 @@
     <message>
         <location filename="../../main.qml" line="24"/>
         <source>Next week</source>
-        <translation/>
+        <translation>Settimana prossima</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="25"/>
         <source>Set due date...</source>
-        <translation/>
+        <translation>Imposta data di scadenza...</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>Add new list...</source>
-        <translation/>
+        <translation>Aggiungi nuovo elenco...</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="27"/>
         <source>Select multiple lists...</source>
-        <translation/>
+        <translation>Seleziona più elenchi...</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
@@ -279,58 +279,59 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>New list</source>
-        <translation/>
+        <translation>Nuovo elenco</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>Rename list</source>
-        <translation/>
+        <translation>Rinomina elenco</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Select multiple tasks...</source>
-        <translation/>
+        <translation>Seleziona più attività....</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="33"/>
         <source>Delete completed tasks</source>
-        <translation/>
+        <translation>Elimina attività completate</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
         <source>Delete list</source>
-        <translation/>
+        <translation>Elimina elenco</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
         <source>Add task</source>
-        <translation/>
+        <translation>Aggiungi attività</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
         <source>View detail</source>
-        <translation/>
+        <translation>Visualizza dettagli</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Edit task</source>
-        <translation/>
+        <translation>Modifica attività</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
         <source>Show in list</source>
-        <translation/>
+        <translation>Visualizza in elenco</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Delete task</source>
-        <translation/>
+        <translation>Elimina attività</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="40"/>
         <source>Do you want to delete this list
  and all of its tasks?</source>
-        <translation/>
+        <translation>Eliminare l'elenco 
+con tutte le attività?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -340,7 +341,7 @@
     <message>
         <location filename="../../main.qml" line="42"/>
         <source>Are you sure you want to delete this task?</source>
-        <translation/>
+        <translation>Eliminare l&apos;attività?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="69"/>
@@ -355,12 +356,12 @@
     <message>
         <location filename="../../main.qml" line="514"/>
         <source>You can create a new list using the action menu</source>
-        <translation/>
+        <translation>È possibile creare un nuovo elenco tramite il menu Azione.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="745"/>
         <source>Don&apos;t ask to confirm deleting tasks.</source>
-        <translation/>
+        <translation>Non richiedere la conferma per l&apos;eliminazione delle attività.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="834"/>

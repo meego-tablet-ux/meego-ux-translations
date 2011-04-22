@@ -9,35 +9,35 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="100"/>
         <source>Account description</source>
-        <translation>ពិពណ៌នាអំពីគណនេយ្យ</translation>
+        <translation>ពិពណ៌នាអំពីគណនី</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="105"/>
         <source>Your name</source>
-        <translation>ឈ្មោះលោកអ្នក</translation>
+        <translation>ឈ្មោះ​របស់​អ្នក</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="110"/>
         <source>Email address</source>
-        <translation>អសយដ្ឋានអ៊ីម៉ែល</translation>
+        <translation>អាសយដ្ឋាន​អ៊ីមែល</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="116"/>
         <location filename="../../settings/AccountExpandobox.qml" line="159"/>
         <location filename="../../settings/AccountExpandobox.qml" line="202"/>
         <source>Password</source>
-        <translation>លេខសម្ងាត់</translation>
+        <translation>ពាក្យ​សម្ងាត់</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="124"/>
         <source>Receiving settings</source>
-        <translation>កំណត់នៃការទទួល</translation>
+        <translation>ការ​កំណត់នៃការទទួល</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="125"/>
         <location filename="../../settings/AccountExpandobox.qml" line="168"/>
         <source>You may need to contact your email provider for these settings.</source>
-        <translation>លោកអ្នកត្រូវទាក់ទងភ្នាក់ងារផ្ដល់សេវាអ៊ីម៉ែលសម្រាប់ការកំណត់</translation>
+        <translation>លោក​អ្នក​ត្រូវ​ទាក់​ទង​ទៅ​កាន់ អ្នក​ផ្ដល​សេវា​អ៊ីមែល​សម្រាប់​ការ​កំណត់​ទាំង​នេះ។</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="129"/>
@@ -54,7 +54,7 @@
         <location filename="../../settings/AccountExpandobox.qml" line="141"/>
         <location filename="../../settings/AccountExpandobox.qml" line="178"/>
         <source>Port</source>
-        <translation>ផត</translation>
+        <translation>ច្រក</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="147"/>
@@ -66,22 +66,22 @@
         <location filename="../../settings/AccountExpandobox.qml" line="153"/>
         <location filename="../../settings/AccountExpandobox.qml" line="196"/>
         <source>Username</source>
-        <translation>ឈ្មោះ</translation>
+        <translation>ឈ្មោះ​សមាជិក</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="167"/>
         <source>Sending settings</source>
-        <translation>កំណត់នៃការផ្ញើ</translation>
+        <translation>ការ​កំណត់នៃការផ្ញើ</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="184"/>
         <source>Authentication</source>
-        <translation>ត្រឹមត្រូវ</translation>
+        <translation>ការ​បញ្ជាក់​ភាព​ត្រឹម​ត្រូវ</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="214"/>
         <source>Delete Account</source>
-        <translation>លុបគណនេយ្យ</translation>
+        <translation>លុប​គណនី</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="232"/>
@@ -91,17 +91,17 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="233"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះ​បង់</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="234"/>
         <source>Delete account</source>
-        <translation>លុបគណនេយ្យ</translation>
+        <translation>លុប​គណនី</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="236"/>
         <source>Are you sure you want to delete this account?</source>
-        <translation>លោកអ្នកចង់លុបគណនេយ្យនេះទេ?</translation>
+        <translation>តើ​អ្នក​ប្រាកដ​ថា​ចង់​លុប​គណនី​នេះ​ឬ?</translation>
     </message>
 </context>
 <context>
@@ -122,12 +122,12 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="29"/>
         <source>Accounts</source>
-        <translation>គណនេយ្យ</translation>
+        <translation>គណនី</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="46"/>
         <source>Set up new account</source>
-        <translation>បង្កើតគណនេយ្យថ្មី</translation>
+        <translation>ដំឡើង​គណនី​ថ្មី</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="59"/>
@@ -137,7 +137,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="70"/>
         <source>Update:</source>
-        <translation/>
+        <translation>ធ្វើ​បច្ចុប្បន្នកម្ម:</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="120"/>
@@ -152,17 +152,17 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="166"/>
         <source>Notifications</source>
-        <translation>ការប្រាប់ឲ្យដឹង</translation>
+        <translation>ការ​ឲ្យ​ដំណឹង</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="184"/>
         <source>New email notifications</source>
-        <translation>ប្រាប់ឲ្យដឹងសារថ្មី</translation>
+        <translation>ការ​ឲ្យ​ដំណឹង​អំពី​មែល​ថ្មីៗ</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="189"/>
         <source>Ask before deleting email</source>
-        <translation>សួរមុននឹងលុបសារចោល</translation>
+        <translation>សួរ​មុន​ការ​លុប​ចោល​មែល</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="204"/>
@@ -172,12 +172,12 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="205"/>
         <source>No</source>
-        <translation>អត់ទេ</translation>
+        <translation>ទេ</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="206"/>
         <source>Discard changes</source>
-        <translation>មិនផ្លាស់ប្ដូរ</translation>
+        <translation>បោះ​បង់​បម្លាស់ប្ដូរ</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="208"/>
@@ -197,17 +197,17 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="225"/>
         <source>Your changes have been saved.</source>
-        <translation>ការផ្លាស់ប្ដូររបស់លោកអ្នកត្រូវបានរក្សា</translation>
+        <translation>ការផ្លាស់ប្ដូររបស់លោកអ្នកត្រូវបានរក្សា​ទុក​ហើយ</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="244"/>
         <source>Save changes</source>
-        <translation>រក្សាការផ្លាស់ប្ដូរ</translation>
+        <translation>រក្សា​បម្លាស់​ប្ដូរ​ទុក</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="262"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះបង់</translation>
     </message>
 </context>
 <context>
@@ -225,7 +225,7 @@
     <message>
         <location filename="../../AddAttachmentView.qml" line="78"/>
         <source>Music</source>
-        <translation>ភ្លេង</translation>
+        <translation>តន្ត្រី</translation>
     </message>
 </context>
 <context>
@@ -234,7 +234,7 @@
         <location filename="../../AddRecipient.qml" line="45"/>
         <source>Select &quot;%1&quot; recipient</source>
         <extracomment>The contact (e-mail recipient) picker title.</extracomment>
-        <translation/>
+        <translation>រើស &quot;%1&quot; អ្នកទទួល</translation>
     </message>
 </context>
 <context>
@@ -247,17 +247,17 @@
     <message>
         <location filename="../../ComposerView.qml" line="207"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះបង់</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="208"/>
         <source>Discard Email</source>
-        <translation>បោះបង់អ៊ីម៉ែល</translation>
+        <translation>បោះបង់អ៊ីមែល</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="210"/>
         <source>Are you sure you want to discard this unsent email?</source>
-        <translation>លោកអ្នកបោះបង់សារដែលមិនទាន់ផ្ញើ</translation>
+        <translation>តើ​អ្នក​ប្រាកដ​ថា​ចង់​បោះ​បង់​សារ​ដែល​មិន​ទាន់​ផ្ញើ​ទេ?</translation>
     </message>
 </context>
 <context>
@@ -265,12 +265,12 @@
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="29"/>
         <source>Account set up successfully!</source>
-        <translation>គណនេយ្យត្រូវបានបង្កើតដោយជោគជ័យ</translation>
+        <translation>ដំឡើង​គណនី​បាន​សម្រេច​ហើយ។</translation>
     </message>
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="31"/>
         <source>Accounts</source>
-        <translation>គណនេយ្យ</translation>
+        <translation>គណនី</translation>
     </message>
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="49"/>
@@ -280,7 +280,7 @@
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="61"/>
         <source>Set up another account?</source>
-        <translation>បង្កើតគណនេយ្យផ្សេង?</translation>
+        <translation>ដំឡើង​គណនី​ផ្សេង​ទៀត?</translation>
     </message>
 </context>
 <context>
@@ -288,12 +288,12 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="43"/>
         <source>Account details</source>
-        <translation>ពិស្ដារអំពីគណនេយ្យ</translation>
+        <translation>លម្អិត​អំពី​គណនី</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="46"/>
         <source>Account: %1</source>
-        <translation>គណនេយ្យ: %1</translation>
+        <translation>គណនី: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="49"/>
@@ -303,7 +303,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="52"/>
         <source>Email address: %1</source>
-        <translation>អាសយដ្ឋានអ៊ីម៉ែល: %1</translation>
+        <translation>អាសយដ្ឋានអ៊ីមែល: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="59"/>
@@ -325,19 +325,19 @@
         <location filename="../../settings/DetailsScreen.qml" line="68"/>
         <location filename="../../settings/DetailsScreen.qml" line="87"/>
         <source>Port: %1</source>
-        <translation>ផត: %1</translation>
+        <translation>ច្រក: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="71"/>
         <location filename="../../settings/DetailsScreen.qml" line="93"/>
         <source>Security: %1</source>
-        <translation>សន្តិសុខ: %1</translation>
+        <translation>សុវត្ថិភាព: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="74"/>
         <location filename="../../settings/DetailsScreen.qml" line="96"/>
         <source>Username: %1</source>
-        <translation>ឈ្មោះ: %1</translation>
+        <translation>ឈ្មោះ​សមាជិក: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="81"/>
@@ -347,7 +347,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="90"/>
         <source>Authentication: %1</source>
-        <translation>ភាពត្រឹមត្រូវ: %1</translation>
+        <translation>ការ​បញ្ជាក់​ភាព​ត្រឹម​ត្រូវ: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="105"/>
@@ -357,12 +357,12 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="106"/>
         <source>No</source>
-        <translation>អត់</translation>
+        <translation>ទេ</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="107"/>
         <source>Discard changes</source>
-        <translation>មិនផ្លាស់ប្ដូរ</translation>
+        <translation>បោះបង់​បម្លាស់​ប្ដូរ</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="109"/>
@@ -387,12 +387,12 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="134"/>
         <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
-        <translation>សូមទោស យើងខ្ញុំមិនអាចបង្កើតគណនេយលោកអ្នកដោយស្វ័យប្រវត្តិ។ ចូរបំពេញបែបបទខាងក្រោមឲ្យបានពិស្ដារ:</translation>
+        <translation>សូម​ទោស, ពួក​យើង​មិន​អាច​ដំឡើង​គណនី​របស់​អ្នក​ដោយ​ស្វ័យ​ប្រវត្តិ​បាន​ទេ។ សូម​បំពេញ​នូវ​ព័ត៌មាន​លម្អិត​អំពី​គណនី៖</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="155"/>
         <source>Testing account configuration...</source>
-        <translation>សាកល្បងគណនេយ្យ</translation>
+        <translation>សាក​ល្បង​ការ​កំណត់​សណ្ឋាន​គណនី...</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="184"/>
@@ -402,17 +402,17 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="214"/>
         <source>Manual Edit</source>
-        <translation>កែសម្រួលដោយដៃ</translation>
+        <translation>កែ​ប្រែ​ដោយ​ដៃ</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="217"/>
         <source>Please fill in account details:</source>
-        <translation>បំពេញបែបបទពិស្ដារ</translation>
+        <translation>បំពេញ​ព័ត៌មាន​លម្អិត​អំពី​គណនី:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="227"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះបង់</translation>
     </message>
 </context>
 <context>
@@ -447,24 +447,24 @@
         <location filename="../../EmailHeader.qml" line="105"/>
         <source>To</source>
         <extracomment>The &quot;to&quot; recipient label.</extracomment>
-        <translation/>
+        <translation>ទៅ</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="130"/>
         <source>Cc</source>
         <extracomment>The Cc (carbon copy) label.</extracomment>
-        <translation/>
+        <translation>Cc</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="154"/>
         <source>Bcc</source>
         <extracomment>The Bcc (blind carbon copy) label.</extracomment>
-        <translation/>
+        <translation>Bcc</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="187"/>
         <source>Enter subject here</source>
-        <translation>ដាក់ប្រធានបទនៅទីនេះ</translation>
+        <translation>បញ្ចូល​ប្រធាន​បទ​នៅ​ទីនេះ</translation>
     </message>
 </context>
 <context>
@@ -472,7 +472,7 @@
     <message>
         <location filename="../../EmailRecipient.qml" line="129"/>
         <source>Type a name or an email address</source>
-        <translation>ដាក់ឈ្មោះ ឬអាសយដ្ឋានអ៊ីម៉ែល</translation>
+        <translation>បញ្ចូលឈ្មោះ ឬអាសយដ្ឋានអ៊ីមែល</translation>
     </message>
 </context>
 <context>
@@ -480,7 +480,7 @@
     <message>
         <location filename="../../settings/EmailSettings.qml" line="17"/>
         <source>Email Settings</source>
-        <translation>កំណត់អ៊ីម៉ែល</translation>
+        <translation>ការ​កំណត់​អ៊ីមែល</translation>
     </message>
 </context>
 <context>
@@ -488,12 +488,12 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="148"/>
         <source>(%1)</source>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="160"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -501,33 +501,33 @@
     <message>
         <location filename="../../FolderListView.qml" line="19"/>
         <source>Choose folder:</source>
-        <translation>រើសប្រអប់</translation>
+        <translation>រើស​ថត:</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="20"/>
         <source>Create new folder</source>
-        <translation>បង្កើតប្រអប់ថ្មី</translation>
+        <translation>បង្កើត​ថត​ថ្មី</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="21"/>
         <source>Rename folder</source>
-        <translation>ប្ដូរឈ្មោះប្រអប់</translation>
+        <translation>ប្ដូរ​ឈ្មោះ​ថត</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="22"/>
         <source>Delete folder</source>
-        <translation>លុបប្រអប់</translation>
+        <translation>លុប​ថត</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="23"/>
         <source>Attachments</source>
-        <translation>ភ្ជាប់</translation>
+        <translation>ឯកសារ​ភ្ជាប់</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="58"/>
         <source>On %1 %2 wrote:
 </source>
-        <translation>បានសរសេរ: %1 %2
+        <translation>នៅ %1 %2 បាន​សរសេរ:
 </translation>
     </message>
     <message>
@@ -538,22 +538,22 @@
     <message>
         <location filename="../../FolderListView.qml" line="94"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះ​បង់</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="95"/>
         <source>Delete Email</source>
-        <translation>លុបអ៊ីម៉ែល</translation>
+        <translation>លុបអ៊ីមែល</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="97"/>
         <source>Are you sure you want to delete this email?</source>
-        <translation>ចង់លុបអ៊ីម៉ែលនេះ ឬទេ?</translation>
+        <translation>តើ​អ្នក​ប្រាកដ​ថា​ចង់​លុប​អ៊ីមែល​នេះ​ឬ?</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="133"/>
         <source>-------- Forwarded Message --------</source>
-        <translation>-------- បញ្ជូនសារបន្ត --------</translation>
+        <translation>-------- សារ​ដែល​បាន​បញ្ជូន​បន្ត --------</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="134"/>
@@ -563,17 +563,17 @@
     <message>
         <location filename="../../FolderListView.qml" line="171"/>
         <source>There are no messages in this folder.</source>
-        <translation/>
+        <translation>មិន​មាន​សារ​ក្នុង​ថត​នេះ​ទេ</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="210"/>
         <source>Getting more messages</source>
-        <translation>ទទួលបានសារច្រើនថែមទៀត</translation>
+        <translation>ទទួលយកសារច្រើនថែមទៀត</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="212"/>
         <source>Get more messages</source>
-        <translation>ទទួលបានសារច្រើនថែមទៀត</translation>
+        <translation>ទទួលយកសារច្រើនថែមទៀត</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="430"/>
@@ -603,7 +603,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="431"/>
         <source>Mark as read</source>
-        <translation>គូសចំណាំដែលបានអាន</translation>
+        <translation>គូសចំណាំថាបានអាន</translation>
     </message>
 </context>
 <context>
@@ -611,13 +611,13 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="44"/>
         <source>Receiving settings</source>
-        <translation>កំណត់ការទទួល</translation>
+        <translation>កំណត់​ការ​ទទួល</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="45"/>
         <location filename="../../settings/ManualScreen.qml" line="92"/>
         <source>You may need to contact your email provider for these settings.</source>
-        <translation>សូមទាក់ទងភ្នាក់ងាផ្ដល់សេវាអ៊ីម៉ែលសម្រាប់ការកំណត់នេះ</translation>
+        <translation>សូម​ទាក់​ទង​ទៅ​អ្នក​ផ្ដល់​សេវាអ៊ីមែល ចំពោះ​ការ​កំណត់​ទាំង​នេះ។</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="49"/>
@@ -634,25 +634,25 @@
         <location filename="../../settings/ManualScreen.qml" line="63"/>
         <location filename="../../settings/ManualScreen.qml" line="104"/>
         <source>Port</source>
-        <translation>ផត</translation>
+        <translation>ច្រក</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="69"/>
         <location filename="../../settings/ManualScreen.qml" line="117"/>
         <source>Security</source>
-        <translation>សន្តិសុខ</translation>
+        <translation>សុវត្ថិភាព</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="76"/>
         <location filename="../../settings/ManualScreen.qml" line="124"/>
         <source>Username</source>
-        <translation>ឈ្មោះ</translation>
+        <translation>ឈ្មោះ​សមាជិក</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="83"/>
         <location filename="../../settings/ManualScreen.qml" line="131"/>
         <source>Password</source>
-        <translation>លេខសម្ងាត់</translation>
+        <translation>ពាក្យ​សម្ងាត់</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="91"/>
@@ -662,7 +662,7 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="111"/>
         <source>Authentication</source>
-        <translation>ភាពត្រឹមត្រូវ</translation>
+        <translation>ការ​បញ្ជាក់​ភាព​ត្រឹម​ត្រូវ</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="145"/>
@@ -672,17 +672,17 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="146"/>
         <source>No</source>
-        <translation>អត់</translation>
+        <translation>ទេ</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="147"/>
         <source>Discard changes</source>
-        <translation>មិនផ្លាស់ប្ដូរ</translation>
+        <translation>បោះបង់​បម្លាស់​ប្ដូរ</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="149"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation>លោកអ្នកបានធ្វើការផ្លាស់ប្ដូរការកំណត់ ចង់បោះបង់ឬទេ?</translation>
+        <translation>លោកអ្នកបានផ្លាស់ប្ដូរការកំណត់។ តើ​អ្នក​ចង់បោះបង់ឬទេ?</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="175"/>
@@ -704,7 +704,7 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="243"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះ​បង់</translation>
     </message>
 </context>
 <context>
@@ -712,7 +712,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="22"/>
         <source>Save</source>
-        <translation>រក្សា</translation>
+        <translation>រក្សា​ទុក</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="23"/>
@@ -722,7 +722,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="24"/>
         <source>Music</source>
-        <translation>ភ្លេង</translation>
+        <translation>តន្ត្រី</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="25"/>
@@ -732,12 +732,12 @@
     <message>
         <location filename="../../ReadingView.qml" line="26"/>
         <source>Picture</source>
-        <translation>រូប</translation>
+        <translation>រូប​ភាព</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="27"/>
         <source>Attachment saved.</source>
-        <translation>ឯកសារភ្ជាប់ត្រូវបានរក្សា</translation>
+        <translation>បាន​រក្សា​ទុក​ឯកសារ​ភ្ជាប់</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="39"/>
@@ -780,29 +780,29 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="37"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះ​បង់</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="38"/>
         <source>Delete Email</source>
-        <translation>លុបអ៊ីម៉ែល</translation>
+        <translation>លុប​អ៊ីមែល</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="40"/>
         <source>Are you sure you want to delete this email?</source>
-        <translation>លោកអ្នកប្រាកដជាចង់លុបអ៊ីម៉ែល</translation>
+        <translation>តើ​អ្នក​ប្រាកដ​ថា​ចង់​លុប​អ៊ីមែល​នេះ​ឬ?</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="61"/>
         <source>On %1 %2 wrote:
 </source>
-        <translation>%1 %2 សរសេរបាន:
+        <translation>នៅ %1 %2 បាន​សរសេរ:
 </translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="184"/>
         <source>-------- Forwarded Message --------</source>
-        <translation>-------- បញ្ជូនសារបន្តរ --------</translation>
+        <translation>-------- សារ​ដែល​បាន​បញ្ជូន​បន្ត --------</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="185"/>
@@ -815,22 +815,22 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="35"/>
         <source>Account description:</source>
-        <translation>ពិពណ៌នាអំពីគណនេយ្យ:</translation>
+        <translation>ការ​ពិពណ៌នា​អំពី​គណនី:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="43"/>
         <source>Your name:</source>
-        <translation>ឈ្មោះ:</translation>
+        <translation>ឈ្មោះ​អ្នក:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="49"/>
         <source>Email address:</source>
-        <translation>អាសយដ្ឋានអ៊ីម៉ែល:</translation>
+        <translation>អាសយដ្ឋាន​អ៊ីមែល:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="56"/>
         <source>Password:</source>
-        <translation>លេខសម្ងាត់:</translation>
+        <translation>ពាក្យ​សម្ងាត់:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="69"/>
@@ -840,17 +840,17 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="70"/>
         <source>No</source>
-        <translation>អត់</translation>
+        <translation>ទេ</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="71"/>
         <source>Discard changes</source>
-        <translation>មិនផ្លាស់ប្ដូរ</translation>
+        <translation>បោះ​បង់​បម្លាស់​ប្ដូរ</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="73"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation>លោកអ្នកបានផ្លាស់ប្ដូរការកំណត់ ចង់បោះបង់ចោល ឬទេ?</translation>
+        <translation>លោក​អ្នក​បាន​ផ្លាស់​ប្ដូរ​ការ​កំណត់។ តើ​អ្នកប្រាកដ​ថា​ចង់​បោះ​បង់​ឬ?</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="99"/>
@@ -867,12 +867,12 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="129"/>
         <source>Please fill in account details:</source>
-        <translation>បំពេញគណនេយ្យពិស្ដារ</translation>
+        <translation>សូម​បំពេញ​ក្នុង​ព័ត៌មាន​លម្អិត​នៃ​គណនី:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="141"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះ​បង់</translation>
     </message>
 </context>
 <context>
@@ -912,12 +912,12 @@
     <message>
         <location filename="../../settings/WelcomeScreen.qml" line="28"/>
         <source>Welcome to your email.</source>
-        <translation>សូមស្វាគមន៍មកកាន់អ៊ីម៉ែលរបស់លោកអ្នក</translation>
+        <translation>សូម​ស្វាគមន៍​មក​កាន់​អ៊ីមែល​របស​អ្នក។</translation>
     </message>
     <message>
         <location filename="../../settings/WelcomeScreen.qml" line="34"/>
         <source>Set up your accounts</source>
-        <translation>បង្កើតគណនេយ្យ</translation>
+        <translation>ដំឡើង​គណនី​របស់​អញនក</translation>
     </message>
 </context>
 <context>
@@ -935,7 +935,7 @@
     <message>
         <location filename="../../main.qml" line="17"/>
         <source>Date Sent</source>
-        <translation>ថ្ងៃផ្ញើ</translation>
+        <translation>កាលបរិច្ឆេទ​ផ្ញើ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
@@ -945,30 +945,30 @@
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>Sort messages by:</source>
-        <translation>តម្រៀបសារតាមរយៈ:</translation>
+        <translation>តម្រៀបសារតាម:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Go to folder:</source>
-        <translation/>
+        <translation>ទៅ​កាន់​ថត:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="55"/>
         <source>Email</source>
-        <translation>អ៊ីម៉ែល</translation>
+        <translation>អ៊ីមែល</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="94"/>
         <location filename="../../main.qml" line="101"/>
         <location filename="../../main.qml" line="377"/>
         <source>Account switcher</source>
-        <translation>ប្ដូរគណនេយ្យ</translation>
+        <translation>ឧបករណ៍​ប្ដូរ​គណនី</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="125"/>
         <source>On %1 %2 wrote:
 </source>
-        <translation> %1 %2 សរសេរបាន:
+        <translation>នៅ %1 %2 បាន​សរសេរ:
 </translation>
     </message>
     <message>
@@ -984,7 +984,7 @@
     <message>
         <location filename="../../main.qml" line="289"/>
         <source>-------- Forwarded Message --------</source>
-        <translation>-------- បញ្ជូនសារបន្ត --------</translation>
+        <translation>-------- សារ​ដែល​បាន​បញ្ជូន​បន្ត --------</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="290"/>
@@ -1000,12 +1000,12 @@
     <message>
         <location filename="../../main.qml" line="372"/>
         <source>Account list</source>
-        <translation>បញ្ជីគណនេយ្យ</translation>
+        <translation>បញ្ជី​គណនី</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="400"/>
         <source>Composer</source>
-        <translation>សរសេរសារ</translation>
+        <translation>អ្នក​សរសេរ​សារ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="454"/>
@@ -1015,7 +1015,7 @@
     <message>
         <location filename="../../main.qml" line="454"/>
         <source>Mark as read</source>
-        <translation>គូសចំណាំអានហើយ</translation>
+        <translation>គូសចំណាំបាន​អានហើយ</translation>
     </message>
 </context>
 <context>
@@ -1023,17 +1023,17 @@
     <message>
         <location filename="../../settings/settings.js" line="13"/>
         <source>Manual update only</source>
-        <translation>ធ្វើឲ្យទាន់សម័យដោយដៃ</translation>
+        <translation>ធ្វើ​បច្ចុប្បន្ន​កម្ម​ដោយ​ដៃ​ប៉ុណ្ណោះ</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="15"/>
         <source>Update every hour</source>
-        <translation/>
+        <translation>ធ្វើ​បច្ចុប្បន្នកម្ម​រៀង​រាល់​ម៉ោង</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="17"/>
         <source>Update every %1 minutes</source>
-        <translation/>
+        <translation>ធ្វើ​បច្ចុប្បន្នកម្ម​រៀង​រាល់ %1 នាទី</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="23"/>
@@ -1049,7 +1049,7 @@
         <location filename="../../settings/settings.js" line="44"/>
         <location filename="../../settings/settings.js" line="70"/>
         <source>None</source>
-        <translation>អត់មាន</translation>
+        <translation>មិន​មាន</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="45"/>
@@ -1064,12 +1064,12 @@
     <message>
         <location filename="../../settings/settings.js" line="71"/>
         <source>Login</source>
-        <translation>Login</translation>
+        <translation>ភ្ជាប់​ចូល</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="72"/>
         <source>Plain</source>
-        <translation>Plan</translation>
+        <translation>ច្បាស់​លាស់</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="73"/>

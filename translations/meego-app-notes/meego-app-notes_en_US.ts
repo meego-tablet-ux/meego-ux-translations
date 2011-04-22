@@ -69,7 +69,7 @@
     <message>
         <location filename="../../InformationDialog.qml" line="82"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -259,13 +259,13 @@ delete these %1 notebooks?</translation>
     <message>
         <location filename="../../NotebooksView.qml" line="400"/>
         <source>&quot;%1&quot; notebooks have been deleted</source>
-        <translation/>
+        <translation>&quot;%1&quot; notebooks have been deleted</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="402"/>
         <location filename="../../NotebooksView.qml" line="404"/>
         <source>&quot;%1&quot; has been deleted</source>
-        <translation/>
+        <translation>&quot;%1&quot; has been deleted</translation>
     </message>
 </context>
 <context>
@@ -336,12 +336,12 @@ delete these %1 notebooks?</translation>
     <message>
         <location filename="../../NotesView.qml" line="419"/>
         <source>%1 notes have successfully been moved to &quot;%2&quot;</source>
-        <translation/>
+        <translation>%1 notes have successfully been moved to &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="423"/>
         <source>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</source>
-        <translation/>
+        <translation>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="446"/>
@@ -482,12 +482,12 @@ delete these %1 notes?</translation>
     <message>
         <location filename="../../main.qml" line="16"/>
         <source>All</source>
-        <translation/>
+        <translation>All</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="16"/>
         <source>Alphabetical order</source>
-        <translation/>
+        <translation>Alphabetical order</translation>
     </message>
 </context>
 </TS>

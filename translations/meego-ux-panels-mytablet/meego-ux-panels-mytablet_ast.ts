@@ -4,49 +4,49 @@
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="62"/>
         <source>Wi-Fi</source>
-        <translation/>
+        <translation>Wi-Fi</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="68"/>
         <source>Sound</source>
-        <translation/>
+        <translation>Soníu</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="74"/>
         <source>All settings</source>
-        <translation/>
+        <translation>Tolos axustes</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="90"/>
         <source>View all applications</source>
-        <translation/>
+        <translation>Ver toles aplicaciones</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="100"/>
         <source>Visit the Intel AppUp(sm) center</source>
-        <translation/>
+        <translation>Visitar el Centru d&apos;Intel AppUp(sm)</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="122"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="161"/>
         <source>Top applications</source>
-        <translation/>
+        <translation>Aplicaciones principales</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="123"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="170"/>
         <source>Settings</source>
-        <translation/>
+        <translation>Axustes</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="129"/>
         <source>My Tablet</source>
-        <translation/>
+        <translation>La mio tablet</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="182"/>
         <source>My Tablet settings</source>
-        <translation/>
+        <translation>Axustes de la mio tablet</translation>
     </message>
 </context>
 </TS>

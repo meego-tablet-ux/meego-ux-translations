@@ -4,22 +4,22 @@
     <message>
         <location filename="../NoSpaceDialog.qml" line="13"/>
         <source>Memory Full</source>
-        <translation/>
+        <translation>Memoria escosada</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="14"/>
         <source>Open Photos</source>
-        <translation/>
+        <translation>Abrir semeyes</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="15"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="18"/>
         <source>There is no storage space left on the device. To take more photos or video, you may want to delete some existing content.</source>
-        <translation/>
+        <translation>Nun queda espaciu d&apos;almacenamientu nel preséu. Pa facer más semeyes o vídeos, encamiéntase desaniciar conteníu yá esistente.</translation>
     </message>
 </context>
 <context>
@@ -27,17 +27,17 @@
     <message>
         <location filename="../plugin/viewfinder.cpp" line="341"/>
         <source>Auto</source>
-        <translation/>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="../plugin/viewfinder.cpp" line="343"/>
         <source>Off</source>
-        <translation/>
+        <translation>Off</translation>
     </message>
     <message>
         <location filename="../plugin/viewfinder.cpp" line="344"/>
         <source>On</source>
-        <translation/>
+        <translation>On</translation>
     </message>
 </context>
 </TS>

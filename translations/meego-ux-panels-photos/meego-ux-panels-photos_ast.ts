@@ -5,33 +5,33 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="52"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="209"/>
         <source>Recently viewed</source>
-        <translation/>
+        <translation>Vistes de recién</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="53"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="255"/>
         <source>Albums</source>
-        <translation/>
+        <translation>Álbumes</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="77"/>
         <source>Photos</source>
-        <translation/>
+        <translation>Semeyes</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="95"/>
         <source>Photos settings</source>
-        <translation/>
+        <translation>Axustes de semeyes</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="125"/>
         <source>See your photos.</source>
-        <translation/>
+        <translation>Ver les tos semeyes</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="134"/>
         <source>Open Photos!</source>
-        <translation/>
+        <translation>Abrir semeyes!</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="151"/>
@@ -39,13 +39,13 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="181"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="184"/>
         <source>Open</source>
-        <translation/>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="151"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="163"/>
         <source>Share</source>
-        <translation/>
+        <translation>Compartir</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="151"/>
@@ -53,12 +53,12 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="181"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="188"/>
         <source>Hide</source>
-        <translation/>
+        <translation>Anubrir</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="151"/>
         <source>Set as background</source>
-        <translation/>
+        <translation>Afitar como fondu</translation>
     </message>
 </context>
 </TS>

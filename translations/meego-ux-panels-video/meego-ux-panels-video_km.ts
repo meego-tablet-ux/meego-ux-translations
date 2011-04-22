@@ -4,40 +4,40 @@
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="57"/>
         <source>Video</source>
-        <translation/>
+        <translation>វីដេអូ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="63"/>
         <source>Video settings</source>
-        <translation/>
+        <translation>ការ​កំណត់​វីដេអូ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="93"/>
         <source>Watch your videos.</source>
-        <translation/>
+        <translation>មើល​វីដេអូ​របស់​អ្នក។</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="102"/>
         <source>Open Videos!</source>
-        <translation/>
+        <translation>បើក​វីដេអូ!</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="121"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="125"/>
         <source>Play</source>
-        <translation/>
+        <translation>លេង</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="121"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="133"/>
         <source>Share</source>
-        <translation/>
+        <translation>ចែក​រំលែក</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="121"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="129"/>
         <source>Hide</source>
-        <translation/>
+        <translation>លាក់​បាំង</translation>
     </message>
 </context>
 </TS>

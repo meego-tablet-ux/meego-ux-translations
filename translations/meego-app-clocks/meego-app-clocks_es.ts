@@ -4,7 +4,7 @@
     <message>
         <location filename="../../Alarm.qml" line="31"/>
         <source>On</source>
-        <translation>❘</translation>
+        <translation>|</translation>
     </message>
     <message>
         <location filename="../../Alarm.qml" line="31"/>
@@ -52,7 +52,7 @@
     <message>
         <location filename="../../NewAlarmMenu.qml" line="33"/>
         <source>On</source>
-        <translation>❘</translation>
+        <translation>|</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="33"/>

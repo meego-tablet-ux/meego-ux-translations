@@ -4,17 +4,17 @@
     <message>
         <location filename="../../BottomBar.qml" line="21"/>
         <source>Save</source>
-        <translation>រក្សា</translation>
+        <translation>រក្សា​ទុក</translation>
     </message>
     <message>
         <location filename="../../BottomBar.qml" line="22"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះ​បង់</translation>
     </message>
     <message>
         <location filename="../../BottomBar.qml" line="23"/>
         <source>Move to (%1)</source>
-        <translation>ផ្លាស់ទៅ (%1)</translation>
+        <translation>ផ្លាស់ទីទៅ (%1)</translation>
     </message>
     <message>
         <location filename="../../BottomBar.qml" line="24"/>
@@ -48,7 +48,7 @@
     <message>
         <location filename="../../EditableStringListView.qml" line="50"/>
         <source>+ Add new item</source>
-        <translation>+ Add new item</translation>
+        <translation>+ បន្ថែម​របស់​ថ្មី</translation>
     </message>
     <message>
         <location filename="../../EditableStringListView.qml" line="79"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="../../TaskListPicker.qml" line="102"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះ​បង់</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="105"/>
@@ -94,17 +94,17 @@
     <message>
         <location filename="../../TaskListView.qml" line="233"/>
         <source>%1 tasks</source>
-        <translation>%1 កិច្ចការ</translation>
+        <translation>%1 ភារកិច្ច</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="416"/>
         <source>Are you sure you want to delete these %1 tasks?</source>
-        <translation>លោកអ្នកចង់លុប %1 កិច្ចការ?</translation>
+        <translation>តើ​អ្នក​ប្រាកដ​ថា​ចង់​លុប​ភារកិច្ច​ទាំង %1 នេះឬ?</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="419"/>
         <source>Are you sure you want to delete this task?</source>
-        <translation>លោកអ្នកចង់លុបកិច្ចការនេះ ឬទេ?</translation>
+        <translation>តើ​អ្នក​ប្រាកដ​ថា​ចង់​លុប​ភារកិច្ច​នេះ​ឬ?</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="424"/>
@@ -114,7 +114,7 @@
     <message>
         <location filename="../../TaskListView.qml" line="425"/>
         <source>No</source>
-        <translation>អត់</translation>
+        <translation>ទេ</translation>
     </message>
 </context>
 <context>
@@ -130,62 +130,62 @@
     <message>
         <location filename="../../TasksDetailMenu.qml" line="48"/>
         <source>Insert task name</source>
-        <translation/>
+        <translation>បញ្ចូល​ឈ្មោះ​បញ្ជី</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="59"/>
         <source>List:</source>
-        <translation/>
+        <translation>បញ្ជី:</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="114"/>
         <source>Due date:</source>
-        <translation/>
+        <translation>កាល​បរិច្ឆេទ​កំណត់:</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="127"/>
         <source>Date</source>
-        <translation/>
+        <translation>កាលបរិច្ឆេទ</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="128"/>
         <source>Someday</source>
-        <translation/>
+        <translation>ថ្ងៃ​ណាមួយ</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="135"/>
         <source>Set due date</source>
-        <translation/>
+        <translation>កំណត់​ថ្ងៃ​កំណត់</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="155"/>
         <source>Notes</source>
-        <translation/>
+        <translation>កំណត់​ត្រា</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="163"/>
         <source>Add a note here</source>
-        <translation/>
+        <translation>បន្ថែម​កំណត់​ត្រា​ទីនេះ</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="170"/>
         <source>Delete task</source>
-        <translation/>
+        <translation>លុប​ភារកិច្ច</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="191"/>
         <source>Edit</source>
-        <translation/>
+        <translation>កែ​ប្រែ</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="203"/>
         <source>Save</source>
-        <translation/>
+        <translation>រក្សា​ទូក</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="215"/>
         <source>Close</source>
-        <translation/>
+        <translation>បោះបង់</translation>
     </message>
 </context>
 <context>
@@ -193,7 +193,7 @@
     <message>
         <location filename="../../TasksDetailWindow.qml" line="13"/>
         <source>If you see me, something is very wrong!</source>
-        <translation/>
+        <translation>ប្រសិន​បើ​អ្នក​ឃើញ​ខ្ញុំ នោះ​នឹង​មាន​រឿង​មិន​ប្រក្រតី​កើត​ឡើង។</translation>
     </message>
 </context>
 <context>
@@ -209,7 +209,7 @@
     <message>
         <location filename="../../main.qml" line="16"/>
         <source>Tasks</source>
-        <translation>កិច្ចការ</translation>
+        <translation>ភារកិច្ច</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="17"/>
@@ -219,7 +219,7 @@
     <message>
         <location filename="../../main.qml" line="18"/>
         <source>Overdue</source>
-        <translation>ហួសកំណត់</translation>
+        <translation>ហួសពេល</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="19"/>
@@ -229,12 +229,12 @@
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Someday</source>
-        <translation>គ្រាមួយ</translation>
+        <translation>ថ្ងៃ​ណាមួយ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
         <source>Default list</source>
-        <translation>បញ្ជីកំណត់</translation>
+        <translation>បញ្ជី​លំនាំ​ដើម</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="22"/>
@@ -244,7 +244,7 @@
     <message>
         <location filename="../../main.qml" line="23"/>
         <source>Tomorrow</source>
-        <translation>ស្អែក</translation>
+        <translation>ថ្ងៃ​ស្អែក</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="24"/>
@@ -254,17 +254,17 @@
     <message>
         <location filename="../../main.qml" line="25"/>
         <source>Set due date...</source>
-        <translation>កំណត់ថ្ងៃ</translation>
+        <translation>កំណត់ថ្ងៃ...</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>Add new list...</source>
-        <translation>ថែមបញ្ជីថ្មី</translation>
+        <translation>ថែមបញ្ជីថ្មី...</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="27"/>
         <source>Select multiple lists...</source>
-        <translation>រើសពហុបញ្ជី</translation>
+        <translation>រើស​បញ្ជី​ច្រើន...</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
@@ -274,7 +274,7 @@
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះ​បង់</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
@@ -304,7 +304,7 @@
     <message>
         <location filename="../../main.qml" line="35"/>
         <source>Add task</source>
-        <translation>បន្ថែមកិច្ចការ</translation>
+        <translation>បន្ថែមភារកិច្ច</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
@@ -314,7 +314,7 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Edit task</source>
-        <translation>កែសម្រួលកិច្ចការ</translation>
+        <translation>កែសម្រួល​ភារកិច្ច</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
@@ -324,13 +324,14 @@
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Delete task</source>
-        <translation>លុបកិច្ចការ</translation>
+        <translation>លុប​ភារកិច្ច</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="40"/>
         <source>Do you want to delete this list
  and all of its tasks?</source>
-        <translation>លោកអ្នកចង់លុបបញ្ជី និងកិច្ចការទាំងអស់ទេ?</translation>
+        <translation>លោកអ្នកចង់លុបបញ្ជី​នេះ
+ និងភារកិច្ចទាំងអស់ទេ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -355,7 +356,7 @@
     <message>
         <location filename="../../main.qml" line="514"/>
         <source>You can create a new list using the action menu</source>
-        <translation>លោកអ្នកអាចបង្កើតបញ្ជីថ្មីតាមរយៈមីនុយសកម្មភាព</translation>
+        <translation>លោកអ្នកអាចបង្កើតបញ្ជីថ្មីតាមរយៈម៉ឺនុយសកម្មភាព</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="745"/>
@@ -365,17 +366,17 @@
     <message>
         <location filename="../../main.qml" line="834"/>
         <source>Are you sure you want to delete the completed tasks?</source>
-        <translation/>
+        <translation>តើ​អ្នក​ប្រាកដ​ថា​ចង់​លុប​ភារកិច្ច​ដែល​បាន​បំពេញ​រួចឬ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="835"/>
         <source>Yes</source>
-        <translation/>
+        <translation>ព្រម</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="836"/>
         <source>No</source>
-        <translation/>
+        <translation>ទេ</translation>
     </message>
 </context>
 </TS>

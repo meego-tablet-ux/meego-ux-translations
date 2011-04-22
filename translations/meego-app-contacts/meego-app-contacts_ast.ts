@@ -4,62 +4,62 @@
     <message>
         <location filename="../../AddressEditWidget.qml" line="23"/>
         <source>Address</source>
-        <translation/>
+        <translation>Direición</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="24"/>
         <source>Home</source>
-        <translation/>
+        <translation>Casa</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="25"/>
         <source>Work</source>
-        <translation/>
+        <translation>Trabayu</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="26"/>
         <source>Other</source>
-        <translation/>
+        <translation>Otru</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="27"/>
         <source>Street address</source>
-        <translation/>
+        <translation>Señes de la cai</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="28"/>
         <source>Town / City</source>
-        <translation/>
+        <translation>Pueblu / Ciudá</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="29"/>
         <source>Region / State</source>
-        <translation/>
+        <translation>Rexón  / Estáu</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="30"/>
         <source>Country</source>
-        <translation/>
+        <translation>País</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="31"/>
         <source>Postcode / Zip</source>
-        <translation/>
+        <translation>Cód.Post / Zip</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="32"/>
         <source>Add address</source>
-        <translation/>
+        <translation>Amestar direición</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="33"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="34"/>
         <source>Add</source>
-        <translation/>
+        <translation>Amestar</translation>
     </message>
 </context>
 <context>
@@ -67,43 +67,43 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="26"/>
         <source>...</source>
-        <translation/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="72"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>Non favoritu</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="73"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>Favoritu</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="74"/>
         <source>Idle</source>
-        <translation/>
+        <translation>Retrasu</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="75"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Ocupáu</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="76"/>
         <source>Online</source>
-        <translation/>
+        <translation>En llinia</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="77"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Fuera de llinia</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="104"/>
         <location filename="../../ContactCardPortrait.qml" line="106"/>
         <source>%1  %2</source>
-        <translation/>
+        <translation>%1  %2</translation>
     </message>
 </context>
 <context>
@@ -111,37 +111,37 @@
     <message>
         <location filename="../../ContactsSettings.qml" line="16"/>
         <source>Contacts Settings</source>
-        <translation/>
+        <translation>Axustes de contautu</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="17"/>
         <source>Sort Order:</source>
-        <translation/>
+        <translation>Ordenar:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="18"/>
         <source>Display Order:</source>
-        <translation/>
+        <translation>Amosar orde:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="19"/>
         <source>Sort by first name</source>
-        <translation/>
+        <translation>Ordenar por nome</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Sort by last name</source>
-        <translation/>
+        <translation>Ordenar por apellíu</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="21"/>
         <source>Display by first name</source>
-        <translation/>
+        <translation>Amosar por nome</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Display by last name</source>
-        <translation/>
+        <translation>Amosar por apellíu</translation>
     </message>
 </context>
 <context>
@@ -149,173 +149,173 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="29"/>
         <source>Idle</source>
-        <translation/>
+        <translation>Retrasu</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="30"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Ocupáu</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="31"/>
         <source>Online</source>
-        <translation/>
+        <translation>En llinia</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="32"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Fuera de llinia</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="34"/>
         <source>Home</source>
-        <translation/>
+        <translation>Casa</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="35"/>
         <source>Work</source>
-        <translation/>
+        <translation>Trabayu</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="36"/>
         <source>Other</source>
-        <translation/>
+        <translation>Otru</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="37"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>Móvil</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="38"/>
         <source>Bookmark</source>
-        <translation/>
+        <translation>Marcador</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="39"/>
         <location filename="../../DetailViewPortrait.qml" line="65"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>Favoritu</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="41"/>
         <source>First name</source>
-        <translation/>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="42"/>
         <source>Last name</source>
-        <translation/>
+        <translation>Apellíu</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="43"/>
         <source>Company</source>
-        <translation/>
+        <translation>Empresa</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="44"/>
         <source>Enter note</source>
-        <translation/>
+        <translation>Introduz nota</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="45"/>
         <source>Enter birthday</source>
-        <translation/>
+        <translation>Cumpleaños</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="46"/>
         <source>Site</source>
-        <translation/>
+        <translation>Sitiu</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="48"/>
         <source>Phone numbers</source>
-        <translation/>
+        <translation>Númberos de tefnu.</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="49"/>
         <source>Instant messaging</source>
-        <translation/>
+        <translation>Mensaxe instant.</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="50"/>
         <source>Email</source>
-        <translation/>
+        <translation>Corréu-e</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="51"/>
         <source>Web</source>
-        <translation/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="52"/>
         <source>Address</source>
-        <translation/>
+        <translation>Direición</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="53"/>
         <source>Birthday</source>
-        <translation/>
+        <translation>Cumpleaños</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="54"/>
         <source>Date</source>
-        <translation/>
+        <translation>Data</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="55"/>
         <source>Note</source>
-        <translation/>
+        <translation>Nota</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="57"/>
         <source>AIM</source>
-        <translation/>
+        <translation>AIM</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="58"/>
         <source>MSN</source>
-        <translation/>
+        <translation>MSN</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="59"/>
         <source>Jabber</source>
-        <translation/>
+        <translation>Jabber</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="60"/>
         <source>Yahoo!</source>
-        <translation/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="61"/>
         <source>Facebook</source>
-        <translation/>
+        <translation>Facebook</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="62"/>
         <source>Google Talk</source>
-        <translation/>
+        <translation>Google Talk</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="63"/>
         <source>IM</source>
-        <translation/>
+        <translation>IM</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="66"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>Non favoritu</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="84"/>
         <source>View</source>
-        <translation/>
+        <translation>Ver</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="85"/>
         <source>...</source>
-        <translation/>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -323,67 +323,67 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="32"/>
         <source>Home</source>
-        <translation/>
+        <translation>Casa</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="33"/>
         <source>Work</source>
-        <translation/>
+        <translation>Trabayu</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="34"/>
         <source>Other</source>
-        <translation/>
+        <translation>Otru</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="35"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>Móvil</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="36"/>
         <source>First name</source>
-        <translation/>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="37"/>
         <source>Last name</source>
-        <translation/>
+        <translation>Apellíu</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="38"/>
         <source>Company</source>
-        <translation/>
+        <translation>Empresa</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="39"/>
         <source>Enter note</source>
-        <translation/>
+        <translation>Introduz nota</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="40"/>
         <source>Enter birthday</source>
-        <translation/>
+        <translation>Cumpleaños</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="41"/>
         <source>Birthday</source>
-        <translation/>
+        <translation>Cumpleaños</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="42"/>
         <source>Note</source>
-        <translation/>
+        <translation>Nota</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="45"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>Favoritu</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="47"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>Non favoritu</translation>
     </message>
 </context>
 <context>
@@ -391,42 +391,42 @@
     <message>
         <location filename="../../EmailEditWidget.qml" line="23"/>
         <source>Home</source>
-        <translation/>
+        <translation>Casa</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="24"/>
         <source>Work</source>
-        <translation/>
+        <translation>Trabayu</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="25"/>
         <source>Other</source>
-        <translation/>
+        <translation>Otru</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="26"/>
         <source>Email address</source>
-        <translation/>
+        <translation>Señes corréu-e</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="27"/>
         <source>Email</source>
-        <translation/>
+        <translation>Corréu-e</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="28"/>
         <source>Add email address</source>
-        <translation/>
+        <translation>Amestar corréu-e</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="29"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="30"/>
         <source>Add</source>
-        <translation/>
+        <translation>Amestar</translation>
     </message>
 </context>
 <context>
@@ -434,12 +434,12 @@
     <message>
         <location filename="../../EmptyContacts.qml" line="17"/>
         <source>You haven&apos;t added any contacts yet.</source>
-        <translation/>
+        <translation>Entá nun s&apos;amestaron contautos</translation>
     </message>
     <message>
         <location filename="../../EmptyContacts.qml" line="18"/>
         <source>Add a contact</source>
-        <translation/>
+        <translation>Amestar un contautu</translation>
     </message>
 </context>
 <context>
@@ -447,7 +447,7 @@
     <message>
         <location filename="../../HeaderPortrait.qml" line="13"/>
         <source>#</source>
-        <translation/>
+        <translation>#</translation>
     </message>
 </context>
 <context>
@@ -455,67 +455,67 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="25"/>
         <source>Add account</source>
-        <translation/>
+        <translation>Amestar un contautu</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="26"/>
         <source>Instant messaging</source>
-        <translation/>
+        <translation>Mensaxería nel intre</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="27"/>
         <source>AIM</source>
-        <translation/>
+        <translation>AIM</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="28"/>
         <source>MSN</source>
-        <translation/>
+        <translation>MSN</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="29"/>
         <source>Jabber</source>
-        <translation/>
+        <translation>Jabber</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="30"/>
         <source>Yahoo</source>
-        <translation/>
+        <translation>Yahoo</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="31"/>
         <source>Facebook</source>
-        <translation/>
+        <translation>Facebook</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="32"/>
         <source>gTalk</source>
-        <translation/>
+        <translation>gTalk</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="33"/>
         <source>Account Name / ID</source>
-        <translation/>
+        <translation>Nome de cuenta / ID</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="34"/>
         <source>No IM accounts are configured</source>
-        <translation/>
+        <translation>Nun hai cuentes configuraes de IM</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="35"/>
         <source>No buddies for this account</source>
-        <translation/>
+        <translation>Nun hai collacios nesta cuenta</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="36"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="37"/>
         <source>Add</source>
-        <translation/>
+        <translation>Amestar</translation>
     </message>
 </context>
 <context>
@@ -523,67 +523,67 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="29"/>
         <source>Home</source>
-        <translation/>
+        <translation>Casa</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="30"/>
         <source>Work</source>
-        <translation/>
+        <translation>Trabayu</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="31"/>
         <source>Other</source>
-        <translation/>
+        <translation>Otru</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="32"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>Móvil</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="33"/>
         <source>First name</source>
-        <translation/>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="34"/>
         <source>Last name</source>
-        <translation/>
+        <translation>Apellíu</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="35"/>
         <source>Company</source>
-        <translation/>
+        <translation>Empresa</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="36"/>
         <source>Enter note</source>
-        <translation/>
+        <translation>Introduz nota</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="37"/>
         <source>Enter birthday</source>
-        <translation/>
+        <translation>Cumpleaños</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="38"/>
         <source>Birthday</source>
-        <translation/>
+        <translation>Cumpleaños</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="39"/>
         <source>Note</source>
-        <translation/>
+        <translation>Nota</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="43"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>Non favoritu</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="44"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>Favoritu</translation>
     </message>
 </context>
 <context>
@@ -591,52 +591,52 @@
     <message>
         <location filename="../../PhoneEditWidget.qml" line="23"/>
         <source>Address</source>
-        <translation/>
+        <translation>Direición</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="24"/>
         <source>Home</source>
-        <translation/>
+        <translation>Casa</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="25"/>
         <source>Work</source>
-        <translation/>
+        <translation>Trabayu</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="26"/>
         <source>Other</source>
-        <translation/>
+        <translation>Otru</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="27"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>Móvil</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="28"/>
         <source>Phone numbers</source>
-        <translation/>
+        <translation>Númberos de tefnu.</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="29"/>
         <source>Add number</source>
-        <translation/>
+        <translation>Amestar númberu</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="30"/>
         <source>Phone number</source>
-        <translation/>
+        <translation>Númberu de tefnu.</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="31"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="32"/>
         <source>Add</source>
-        <translation/>
+        <translation>Amestar</translation>
     </message>
 </context>
 <context>
@@ -644,37 +644,37 @@
     <message>
         <location filename="../../WebPageEditWidget.qml" line="23"/>
         <source>Add web page</source>
-        <translation/>
+        <translation>Amestar páxina web</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="24"/>
         <source>Site</source>
-        <translation/>
+        <translation>Sitiu</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="25"/>
         <source>Web</source>
-        <translation/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="26"/>
         <source>Bookmark</source>
-        <translation/>
+        <translation>Marcador</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="27"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>Favoritu</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="28"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="29"/>
         <source>Add</source>
-        <translation/>
+        <translation>Amestar</translation>
     </message>
 </context>
 <context>
@@ -683,93 +683,93 @@
         <location filename="../../main.qml" line="15"/>
         <location filename="../../main.qml" line="39"/>
         <source>Contacts</source>
-        <translation/>
+        <translation>Contautos</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="23"/>
         <location filename="../../main.qml" line="41"/>
         <source>New contact</source>
-        <translation/>
+        <translation>Contautu nuevu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="24"/>
         <source>All</source>
-        <translation/>
+        <translation>Too</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="25"/>
         <source>Favorites</source>
-        <translation/>
+        <translation>Favoritos</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>Who&apos;s online</source>
-        <translation/>
+        <translation>Quién ta en llinia</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
         <source>View</source>
-        <translation/>
+        <translation>Ver</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Share</source>
-        <translation/>
+        <translation>Compartir</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>Email</source>
-        <translation/>
+        <translation>Corréu-e</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>Favoritu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Edit</source>
-        <translation/>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="33"/>
         <source>Save</source>
-        <translation/>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Desaniciar</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
         <source>Delete Confirmation</source>
-        <translation/>
+        <translation>Confirmar desaniciu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="40"/>
         <source>Contact details</source>
-        <translation/>
+        <translation>Detalles de contautu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="42"/>
         <source>Edit contacts</source>
-        <translation/>
+        <translation>Editar contautos</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="44"/>
         <source>this contact</source>
-        <translation/>
+        <translation>esti contautu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="45"/>
         <source>Are you sure you want to remove %1 from your contacts?</source>
-        <translation/>
+        <translation>¿De xuru que quies desaniciar %1 de los tos contautos?</translation>
     </message>
 </context>
 </TS>

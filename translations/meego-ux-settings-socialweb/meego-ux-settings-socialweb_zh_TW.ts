@@ -14,7 +14,7 @@
     <message>
         <location filename="../../qml/constants.js" line="6"/>
         <source>Sign In</source>
-        <translation/>
+        <translation>登入</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="8"/>
@@ -34,7 +34,7 @@
     <message>
         <location filename="../../qml/constants.js" line="13"/>
         <source>&lt;b&gt;Username:&lt;/b&gt; </source>
-        <translation/>
+        <translation>&lt;b&gt;使用者名稱：&lt;/b&gt; </translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="14"/>
@@ -49,12 +49,12 @@
     <message>
         <location filename="../../qml/constants.js" line="16"/>
         <source>Verifier code</source>
-        <translation/>
+        <translation>驗證器編碼</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="18"/>
         <source>More Details</source>
-        <translation/>
+        <translation>其他詳細資料</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>

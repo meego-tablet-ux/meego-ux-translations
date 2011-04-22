@@ -5,154 +5,154 @@
         <location filename="../../src/components/ux/DatePicker.qml" line="221"/>
         <location filename="../../src/components/ux/DatePicker.qml" line="227"/>
         <source>S</source>
-        <translation/>
+        <translation>D</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="222"/>
         <source>M</source>
-        <translation/>
+        <translation>L</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="223"/>
         <location filename="../../src/components/ux/DatePicker.qml" line="225"/>
         <source>T</source>
-        <translation/>
+        <translation>m</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="224"/>
         <source>W</source>
-        <translation/>
+        <translation>M</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="226"/>
         <source>F</source>
-        <translation/>
+        <translation>V</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="229"/>
         <source>Jan</source>
-        <translation/>
+        <translation>xin</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="230"/>
         <source>Feb</source>
-        <translation/>
+        <translation>Feb</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="231"/>
         <source>Mar</source>
-        <translation/>
+        <translation>Mar</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="232"/>
         <source>Apr</source>
-        <translation/>
+        <translation>Abr</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="233"/>
         <location filename="../../src/components/ux/DatePicker.qml" line="246"/>
         <source>May</source>
-        <translation/>
+        <translation>May</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="234"/>
         <source>Jun</source>
-        <translation/>
+        <translation>Xun</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="235"/>
         <source>Jul</source>
-        <translation/>
+        <translation>Xnt</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="236"/>
         <source>Aug</source>
-        <translation/>
+        <translation>Ago</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="237"/>
         <source>Sep</source>
-        <translation/>
+        <translation>Set</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="238"/>
         <source>Oct</source>
-        <translation/>
+        <translation>Och</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="239"/>
         <source>Nov</source>
-        <translation/>
+        <translation>Pay</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="240"/>
         <source>Dec</source>
-        <translation/>
+        <translation>Avi</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="242"/>
         <source>January</source>
-        <translation/>
+        <translation>Xineru</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="243"/>
         <source>February</source>
-        <translation/>
+        <translation>Febreru</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="244"/>
         <source>March</source>
-        <translation/>
+        <translation>Marzu</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="245"/>
         <source>April</source>
-        <translation/>
+        <translation>Abril</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="247"/>
         <source>June</source>
-        <translation/>
+        <translation>Xunu</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="248"/>
         <source>July</source>
-        <translation/>
+        <translation>Xunetu</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="249"/>
         <source>August</source>
-        <translation/>
+        <translation>Agostu</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="250"/>
         <source>September</source>
-        <translation/>
+        <translation>Setiembre</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="251"/>
         <source>October</source>
-        <translation/>
+        <translation>Ochobre</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="252"/>
         <source>November</source>
-        <translation/>
+        <translation>Payares</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="253"/>
         <source>December</source>
-        <translation/>
+        <translation>Avientu</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="506"/>
         <source>Due Date</source>
-        <translation/>
+        <translation>Data de vencimientu</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="831"/>
         <source>Go to todays date</source>
-        <translation/>
+        <translation>Dir a la data de güei</translation>
     </message>
 </context>
 <context>
@@ -160,98 +160,98 @@
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="30"/>
         <source>Just Now</source>
-        <translation/>
+        <translation>Agora</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="32"/>
         <source>1 min ago</source>
-        <translation/>
+        <translation>Fai 1 minutu</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="34"/>
         <source>%1 mins ago</source>
         <comment>1 is number of minutes</comment>
-        <translation/>
+        <translation>Fai %1 minutos</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="37"/>
         <source>Half an hour ago</source>
-        <translation/>
+        <translation>Fai media hora</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="39"/>
         <source>An hour ago</source>
-        <translation/>
+        <translation>Fai una hora</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="41"/>
         <source>A couple of hours ago</source>
-        <translation/>
+        <translation>Fai un par d&apos;hores</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="43"/>
         <source>%1 hours ago</source>
         <comment>1 is number of hours</comment>
-        <translation/>
+        <translation>Fai %1 hores</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="48"/>
         <source>Yesterday</source>
-        <translation/>
+        <translation>Ayeri</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="50"/>
         <source>%1/%2/%3 - %4</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is day name</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="56"/>
         <source>%1/%2/%3 - Last week</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Cabera selmana</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="61"/>
         <source>%1/%2/%3 - A couple of weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Fai un par de selmanes</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="66"/>
         <source>%1/%2/%3 - %4 weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is number of weeks</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Fai %4 selmanes</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="72"/>
         <source>%1/%2/%3 - Last month</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - El mes pasáu</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="77"/>
         <source>%1/%2/%3 - A couple of months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Fai un par de meses</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="86"/>
         <source>%1/%2/%3 - %4 months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Fai %4 meses</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="92"/>
         <source>%1/%2/%3 - Last year</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Caberu añu</translation>
     </message>
     <message>
         <location filename="../../src/kernel/fuzzydatetime.cpp" line="97"/>
         <source>%1/%2/%3 - %4 years ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - Fai %4 años</translation>
     </message>
 </context>
 <context>
@@ -259,12 +259,12 @@
     <message>
         <location filename="../../src/components/ux/MediaGridView.qml" line="341"/>
         <source>%1 Minute</source>
-        <translation/>
+        <translation>%1 Minutu</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MediaGridView.qml" line="341"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 Minutos</translation>
     </message>
 </context>
 <context>
@@ -272,12 +272,12 @@
     <message>
         <location filename="../../src/components/ux/ModalDialog.qml" line="139"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/ModalDialog.qml" line="140"/>
         <source>OK</source>
-        <translation/>
+        <translation>Aceutar</translation>
     </message>
 </context>
 <context>
@@ -285,42 +285,42 @@
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="159"/>
         <source>Back...</source>
-        <translation/>
+        <translation>Atrás...</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="200"/>
         <source>Pick a Song</source>
-        <translation/>
+        <translation>Seleiciona una canción</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="200"/>
         <source>Pick a Playlist/Album</source>
-        <translation/>
+        <translation>Seleiciona una llista/Álbum</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="201"/>
         <source>Pick a Playlist</source>
-        <translation/>
+        <translation>Seleiciona una llista de reproducción</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="201"/>
         <source>Pick an Album</source>
-        <translation/>
+        <translation>Seleiciona un Álbum</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="351"/>
         <source>Back</source>
-        <translation/>
+        <translation>Atrás</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="370"/>
         <source>OK</source>
-        <translation/>
+        <translation>Aceutar</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MusicPicker.qml" line="387"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
 </context>
 <context>
@@ -328,12 +328,12 @@
     <message>
         <location filename="../../src/components/ux/PhotoPicker.qml" line="119"/>
         <source>Pick an album</source>
-        <translation/>
+        <translation>Seleiciona un álbum</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/PhotoPicker.qml" line="119"/>
         <source>Pick a photo</source>
-        <translation/>
+        <translation>Seleiciona una semeya</translation>
     </message>
 </context>
 <context>
@@ -341,12 +341,12 @@
     <message>
         <location filename="../../src/components/ux/ScrollableMusicList.qml" line="86"/>
         <source>unknown artist</source>
-        <translation/>
+        <translation>artista desconocíu</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/ScrollableMusicList.qml" line="87"/>
         <source>unknown album</source>
-        <translation/>
+        <translation>álbum desconocíu</translation>
     </message>
 </context>
 <context>
@@ -354,17 +354,17 @@
     <message>
         <location filename="../../src/components/ux/TimePicker.qml" line="156"/>
         <source>Pick a time</source>
-        <translation/>
+        <translation>Seleiciona una hora</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/TimePicker.qml" line="240"/>
         <source>AM</source>
-        <translation/>
+        <translation>AM</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/TimePicker.qml" line="241"/>
         <source>PM</source>
-        <translation/>
+        <translation>PM</translation>
     </message>
 </context>
 <context>
@@ -372,12 +372,12 @@
     <message>
         <location filename="../../src/components/ux/ToggleButton.qml" line="142"/>
         <source>On</source>
-        <translation/>
+        <translation>On</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/ToggleButton.qml" line="155"/>
         <source>Off</source>
-        <translation/>
+        <translation>Off</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../../src/components/ux/VideoPicker.qml" line="169"/>
         <source>Pick a video</source>
-        <translation/>
+        <translation>Seleiciona un videu</translation>
     </message>
 </context>
 </TS>

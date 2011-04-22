@@ -15,7 +15,7 @@
         <extracomment>IDS_DEFAULT_BROWSER_INFOBAR_SHORT_TEXT
 - description: More compact text to show in the default browser query infobar.
 </extracomment>
-        <translation/>
+        <translation>El restolador web MeeGo nun ye&apos;l to restolador web predetermináu</translation>
     </message>
     <message>
         <location filename="id" line="-209926424"/>
@@ -23,7 +23,7 @@
         <extracomment>IDS_SESSION_CRASHED_VIEW_MESSAGE
 - description: Message shown when the last session didn't exit cleanly.
 </extracomment>
-        <translation/>
+        <translation>El restolador web Meego, nun se zarró correutamente. Pa reabrir les páxines que taben abiertes, calca en Restaurar.</translation>
     </message>
     <message>
         <location filename="id" line="1550207900"/>

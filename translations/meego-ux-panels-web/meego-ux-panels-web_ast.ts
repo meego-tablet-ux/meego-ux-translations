@@ -5,33 +5,33 @@
         <location filename="../../panelsrc/web/webpanel.qml" line="45"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="219"/>
         <source>Recently visited</source>
-        <translation/>
+        <translation>Visitaos de recién</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="46"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="258"/>
         <source>Bookmarks</source>
-        <translation/>
+        <translation>Marcadores</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="106"/>
         <source>Web</source>
-        <translation/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="123"/>
         <source>Web settings</source>
-        <translation/>
+        <translation>Axustes de web</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="153"/>
         <source>What&apos;s going on today? Open the browser to start using the web.</source>
-        <translation/>
+        <translation>Qué nueves hai güei? Abri&apos;l restolador pa entamar a usar la web</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="162"/>
         <source>Open Browser!</source>
-        <translation/>
+        <translation>Abrir restolador web!</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="179"/>
@@ -39,19 +39,19 @@
         <location filename="../../panelsrc/web/webpanel.qml" line="197"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="202"/>
         <source>View</source>
-        <translation/>
+        <translation>Ver</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="179"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="186"/>
         <source>Hide</source>
-        <translation/>
+        <translation>Anubrir</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="197"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="206"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Desaniciar</translation>
     </message>
 </context>
 </TS>

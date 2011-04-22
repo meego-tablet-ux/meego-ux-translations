@@ -6,7 +6,7 @@
         <location filename="../../src/DataHandler.cpp" line="1260"/>
         <location filename="../../src/DataHandler.cpp" line="1295"/>
         <source>Everyday Notes</source>
-        <translation/>
+        <translation>每日便笺</translation>
     </message>
     <message>
         <location filename="../../src/DataHandler.cpp" line="494"/>
@@ -90,12 +90,12 @@
     <message>
         <location filename="../../NoteDetail.qml" line="15"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>每日便笺（默认）</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="16"/>
         <source>Note name...</source>
-        <translation/>
+        <translation>便笺名称...</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="30"/>
@@ -115,7 +115,7 @@
     <message>
         <location filename="../../NoteDetail.qml" line="99"/>
         <source>Start typing a new note.</source>
-        <translation/>
+        <translation>开始键入新便笺。</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="127"/>
@@ -145,12 +145,12 @@ this notebook?</source>
     <message>
         <location filename="../../NotebookSelector.qml" line="54"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>每日便笺（默认）</translation>
     </message>
     <message>
         <location filename="../../NotebookSelector.qml" line="113"/>
         <source>&lt;b&gt;Pick a notebook&lt;/b&gt;</source>
-        <translation/>
+        <translation>&lt;b&gt;选择记事本&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -159,30 +159,30 @@ this notebook?</source>
         <location filename="../../NotebooksView.qml" line="16"/>
         <location filename="../../NotebooksView.qml" line="17"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>每日便笺（默认）</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="32"/>
         <location filename="../../NotebooksView.qml" line="34"/>
         <source>New Notebook</source>
-        <translation/>
+        <translation>新记事本</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="34"/>
         <source>Select Multiple</source>
-        <translation/>
+        <translation>选择多个</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="61"/>
         <location filename="../../NotebooksView.qml" line="96"/>
         <source>%1 Note</source>
-        <translation/>
+        <translation>1 个便笺</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="63"/>
         <location filename="../../NotebooksView.qml" line="98"/>
         <source>%1 Notes</source>
-        <translation/>
+        <translation>%1 个便笺</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="178"/>
@@ -232,13 +232,15 @@ this notebook?</source>
         <location filename="../../NotebooksView.qml" line="347"/>
         <source>Are you sure you want to
 delete &quot;%1&quot;?</source>
-        <translation/>
+        <translation>是否确实要
+删除“%1”？</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="358"/>
         <source>Are you sure you want to
 delete these %1 notebooks?</source>
-        <translation/>
+        <translation>是否确实要
+删除这些 %1 记事本？</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="396"/>
@@ -248,7 +250,7 @@ delete these %1 notebooks?</source>
     <message>
         <location filename="../../NotebooksView.qml" line="397"/>
         <source>Notebooks deleted</source>
-        <translation/>
+        <translation>记事本已被删除</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="397"/>
@@ -273,12 +275,12 @@ delete these %1 notebooks?</source>
         <location filename="../../NotesView.qml" line="39"/>
         <location filename="../../NotesView.qml" line="41"/>
         <source>New Note</source>
-        <translation/>
+        <translation>新便笺</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="41"/>
         <source>Select Multiple</source>
-        <translation/>
+        <translation>选择多个</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="78"/>
@@ -324,13 +326,13 @@ delete these %1 notebooks?</source>
         <location filename="../../NotesView.qml" line="386"/>
         <location filename="../../NotesView.qml" line="557"/>
         <source>%1 notes have been deleted</source>
-        <translation/>
+        <translation>%1 个便笺已被删除</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="390"/>
         <location filename="../../NotesView.qml" line="394"/>
         <source>&quot;%1&quot; has been deleted</source>
-        <translation/>
+        <translation>“%1”已被删除</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="419"/>
@@ -345,7 +347,7 @@ delete these %1 notebooks?</source>
     <message>
         <location filename="../../NotesView.qml" line="446"/>
         <source>Email note &quot;%1&quot;</source>
-        <translation/>
+        <translation>以电子邮件发送便笺“%1”</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="472"/>
@@ -371,13 +373,15 @@ delete these %1 notebooks?</source>
         <location filename="../../NotesView.qml" line="508"/>
         <source>Are you sure you want to
 delete &quot;%1&quot;?</source>
-        <translation/>
+        <translation>是否确实要
+删除“%1”？</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="519"/>
         <source>Are you sure you want to
 delete these %1 notes?</source>
-        <translation/>
+        <translation>是否确实要
+删除这些 %1 便笺？</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="553"/>
@@ -389,7 +393,7 @@ delete these %1 notes?</source>
     <message>
         <location filename="../../NotesView.qml" line="554"/>
         <source>Notes deleted</source>
-        <translation/>
+        <translation>便笺已被删除</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="554"/>
@@ -400,17 +404,17 @@ delete these %1 notes?</source>
         <location filename="../../NotesView.qml" line="559"/>
         <location filename="../../NotesView.qml" line="561"/>
         <source>%1 has been deleted</source>
-        <translation/>
+        <translation>%1 已被删除</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="578"/>
         <source>Rename Note</source>
-        <translation/>
+        <translation>重命名便笺</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="588"/>
         <source>%1 (Renamed Note)</source>
-        <translation/>
+        <translation>%1（被重命名的便笺）</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="615"/>
@@ -436,7 +440,7 @@ delete these %1 notes?</source>
     <message>
         <location filename="../../src/DataHandler.cpp" line="25"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>每日便笺（默认）</translation>
     </message>
 </context>
 <context>

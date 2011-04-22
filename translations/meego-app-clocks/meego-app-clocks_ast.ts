@@ -4,12 +4,12 @@
     <message>
         <location filename="../../Alarm.qml" line="31"/>
         <source>On</source>
-        <translation/>
+        <translation>On</translation>
     </message>
     <message>
         <location filename="../../Alarm.qml" line="31"/>
         <source>Off</source>
-        <translation/>
+        <translation>Off</translation>
     </message>
 </context>
 <context>
@@ -17,94 +17,94 @@
     <message>
         <location filename="../../NewAlarmMenu.qml" line="25"/>
         <source>Mo</source>
-        <translation/>
+        <translation>Ll</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="26"/>
         <source>Tu</source>
-        <translation/>
+        <translation>Ma</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="27"/>
         <source>We</source>
-        <translation/>
+        <translation>Mi</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="28"/>
         <source>Th</source>
-        <translation/>
+        <translation>Xu</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="29"/>
         <source>Fr</source>
-        <translation/>
+        <translation>Vi</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="30"/>
         <source>Sa</source>
-        <translation/>
+        <translation>Sá</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="31"/>
         <source>Su</source>
-        <translation/>
+        <translation>Do</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="33"/>
         <source>On</source>
-        <translation/>
+        <translation>On</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="33"/>
         <source>Off</source>
-        <translation/>
+        <translation>Off</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="34"/>
         <source>sound</source>
-        <translation/>
+        <translation>soníu</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="34"/>
         <source>track</source>
-        <translation/>
+        <translation>pista</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="352"/>
         <source>Snooze</source>
-        <translation/>
+        <translation>Snooze</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="390"/>
         <location filename="../../NewAlarmMenu.qml" line="438"/>
         <source>1 Minute</source>
-        <translation/>
+        <translation>1 Minutu</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="390"/>
         <location filename="../../NewAlarmMenu.qml" line="438"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 Minutos</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="510"/>
         <source>Type</source>
-        <translation/>
+        <translation>Triba</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="665"/>
         <source>Sound</source>
-        <translation/>
+        <translation>Soníu</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="884"/>
         <source>Save</source>
-        <translation/>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="904"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
 </context>
 <context>
@@ -112,22 +112,22 @@
     <message>
         <location filename="../../NewClockMenu.qml" line="112"/>
         <source>(GMT %1)</source>
-        <translation/>
+        <translation>(GMT %1)</translation>
     </message>
     <message>
         <location filename="../../NewClockMenu.qml" line="112"/>
         <source>(GMT +%1)</source>
-        <translation/>
+        <translation>(GMT +%1)</translation>
     </message>
     <message>
         <location filename="../../NewClockMenu.qml" line="153"/>
         <source>Save</source>
-        <translation/>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../../NewClockMenu.qml" line="172"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
 </context>
 <context>
@@ -137,72 +137,72 @@
         <location filename="../../main.qml" line="27"/>
         <location filename="../../main.qml" line="141"/>
         <source>Clocks</source>
-        <translation/>
+        <translation>Reloxes</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="17"/>
         <location filename="../../main.qml" line="33"/>
         <source>Alarms</source>
-        <translation/>
+        <translation>Alarmes</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="59"/>
         <source>no</source>
-        <translation/>
+        <translation>non</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="60"/>
         <source>yes</source>
-        <translation/>
+        <translation>sí</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="61"/>
         <source>Are you sure you want to delete?</source>
-        <translation/>
+        <translation>De xuru que quies desaniciar?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="148"/>
         <source>New alarm</source>
-        <translation/>
+        <translation>Alarma nueva</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="148"/>
         <source>New clock</source>
-        <translation/>
+        <translation>Reló nuevu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="378"/>
         <source>Alarm details</source>
-        <translation/>
+        <translation>Detalles d&apos;alarma</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="378"/>
         <source>Delete alarm</source>
-        <translation/>
+        <translation>Desaniciar alarma</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="378"/>
         <location filename="../../main.qml" line="396"/>
         <source>Move to top</source>
-        <translation/>
+        <translation>Mover arriba</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Edit clock</source>
-        <translation/>
+        <translation>Editar reló</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Make local time</source>
-        <translation/>
+        <translation> Facer hora llocal</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Delete clock</source>
-        <translation/>
+        <translation>Desaniciar reló</translation>
     </message>
 </context>
 </TS>

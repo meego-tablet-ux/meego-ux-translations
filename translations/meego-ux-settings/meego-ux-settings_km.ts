@@ -17,23 +17,23 @@
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="83"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="89"/>
         <source>Disconnect</source>
-        <translation/>
+        <translation>ផ្ដាច់</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="83"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="93"/>
         <source>Connect</source>
-        <translation/>
+        <translation>តភ្ជាប់</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="113"/>
         <source>Disconnect Internet</source>
-        <translation/>
+        <translation>ផ្ដាច់​អ៊ីនធើណិត</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="113"/>
         <source>Connect Internet</source>
-        <translation/>
+        <translation>តភ្ជាប់​អ៊ីនធើណិត</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="168"/>
@@ -43,12 +43,12 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="216"/>
         <source>Manage</source>
-        <translation/>
+        <translation>គ្រប់​គ្រង</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="223"/>
         <source>Remove</source>
-        <translation/>
+        <translation>ដក​ចេញ</translation>
     </message>
 </context>
 <context>
@@ -57,7 +57,7 @@
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="16"/>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="64"/>
         <source>Bluetooth</source>
-        <translation/>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="42"/>
@@ -82,7 +82,7 @@
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="168"/>
         <source>Add Device</source>
-        <translation/>
+        <translation>បន្ថែម​ឧបករណ៍</translation>
     </message>
 </context>
 <context>
@@ -90,24 +90,24 @@
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="14"/>
         <source>Bookmarks</source>
-        <translation/>
+        <translation>កំណត់​ចំណាំ</translation>
     </message>
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="32"/>
         <location filename="../../Browser/BookmarkGroup.qml" line="50"/>
         <source>Always show</source>
-        <translation/>
+        <translation>តែង​តែ​បង្ហាញ</translation>
     </message>
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="37"/>
         <location filename="../../Browser/BookmarkGroup.qml" line="55"/>
         <source>Never show</source>
-        <translation/>
+        <translation>ឈប់​បង្ហាញ</translation>
     </message>
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="46"/>
         <source>Always show bookmarks bar</source>
-        <translation/>
+        <translation>តែង​តែ​បង្ហាញ​របារ​កំណត់​ចាំ</translation>
     </message>
 </context>
 <context>
@@ -115,17 +115,17 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="106"/>
         <source>Restore to default</source>
-        <translation/>
+        <translation>ស្ដារ​ទៅ​ដូច​ដើម</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="118"/>
         <source>Restore to default?</source>
-        <translation/>
+        <translation>ស្ដារ​ទៅ​ដូច​ដើម?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="119"/>
         <source>Are you sure you want to restore default settings?</source>
-        <translation/>
+        <translation>តើ​អ្នក​ប្រាកដ​ថា​ចង់​ស្ដារ​ការ​កំណត់​ទៅ​ដូច​ដើម​វិញ?</translation>
     </message>
 </context>
 <context>
@@ -169,7 +169,7 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="149"/>
         <source>Apply</source>
-        <translation/>
+        <translation>អនុវត្ត</translation>
     </message>
 </context>
 <context>
@@ -177,7 +177,7 @@
     <message>
         <location filename="../../Browser/CheckboxButton.qml" line="13"/>
         <source>Radio Button</source>
-        <translation/>
+        <translation>ប៊ូតុង​វិទ្យុ</translation>
     </message>
 </context>
 <context>
@@ -185,22 +185,22 @@
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="58"/>
         <source>Confirm Dialog</source>
-        <translation/>
+        <translation>ផ្ទាំង​យល់​ព្រម</translation>
     </message>
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="72"/>
         <source>Are you sure?</source>
-        <translation/>
+        <translation>តើ​អ្នក​ប្រាកដ​ទេ?</translation>
     </message>
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="93"/>
         <source>OK</source>
-        <translation/>
+        <translation>ព្រម</translation>
     </message>
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="104"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>បោះ​បង់</translation>
     </message>
 </context>
 <context>
@@ -208,7 +208,7 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="17"/>
         <source>Connections</source>
-        <translation/>
+        <translation>ការ​ត​ភ្ជាប់</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="21"/>
@@ -218,17 +218,17 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="22"/>
         <source>Wi-Fi</source>
-        <translation/>
+        <translation>Wi-Fi</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="23"/>
         <source>Bluetooth</source>
-        <translation/>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="24"/>
         <source>3G</source>
-        <translation/>
+        <translation>3G</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="25"/>
@@ -238,22 +238,22 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="61"/>
         <source>Airplane Mode</source>
-        <translation/>
+        <translation>របៀប​លើ​យន្ត​ហោះ</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="87"/>
         <source>Network Connections</source>
-        <translation/>
+        <translation>ការ​ត​ភ្ជាប់​បណ្ដាញ</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="185"/>
         <source>Available Networks</source>
-        <translation/>
+        <translation>បណ្ដាញ​ដែល​មាន</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="185"/>
         <source>No networks available</source>
-        <translation/>
+        <translation>មិន​មាន​បណ្ដាញ</translation>
     </message>
 </context>
 <context>
@@ -261,27 +261,27 @@
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="14"/>
         <source>Content Settings</source>
-        <translation/>
+        <translation>ការ​កំណត់​មាតិកា</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="90"/>
         <source>Allow JavaScript to run</source>
-        <translation/>
+        <translation>អនុញ្ញាត​ឲ្យ JavaScript ដំណើរ​ការ</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="106"/>
         <source>Allow Popups</source>
-        <translation/>
+        <translation>អនុញ្ញាត​ឲ្យ​លេច​ឡើង</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="120"/>
         <source>Allow Cookies</source>
-        <translation/>
+        <translation>អនុញ្ញាត​ខូគី</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="134"/>
         <source>Allow Images</source>
-        <translation/>
+        <translation>អនុញ្ញាត​រូប​ភាព</translation>
     </message>
 </context>
 <context>
@@ -289,7 +289,7 @@
     <message>
         <location filename="../../Browser/GroupBox.qml" line="87"/>
         <source>group</source>
-        <translation/>
+        <translation>ក្រុម</translation>
     </message>
 </context>
 <context>
@@ -297,24 +297,24 @@
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="14"/>
         <source>Home Page</source>
-        <translation/>
+        <translation>គេហទំព័រ</translation>
     </message>
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="32"/>
         <location filename="../../Browser/HomePageGroup.qml" line="53"/>
         <location filename="../../Browser/HomePageGroup.qml" line="62"/>
         <source>New tab page</source>
-        <translation/>
+        <translation>ផ្ទាំង​កម្មវិធី​ថ្មី</translation>
     </message>
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="50"/>
         <source>Use the new tab page as home page</source>
-        <translation/>
+        <translation>ប្រើ​ផ្ទាំង​ទំព័រ​ថ្មី ធ្វើ​ជា​ទំព័រ​ដើម</translation>
     </message>
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="70"/>
         <source>Open this page: </source>
-        <translation/>
+        <translation>បើក​ទំព័រ​នេះ: </translation>
     </message>
 </context>
 <context>
@@ -322,12 +322,12 @@
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="15"/>
         <source>Language Settings</source>
-        <translation/>
+        <translation>ការ​កំណត់​ភាសា</translation>
     </message>
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="40"/>
         <source>Language:</source>
-        <translation/>
+        <translation>ភាសា:</translation>
     </message>
 </context>
 <context>
@@ -335,32 +335,32 @@
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="45"/>
         <source>Google Account</source>
-        <translation/>
+        <translation>គណនី Google</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="69"/>
         <source>Email:</source>
-        <translation/>
+        <translation>អ៊ីមែល:</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="95"/>
         <source>Password:</source>
-        <translation/>
+        <translation>ពាក្យ​សម្ងាត់:</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="126"/>
         <source>OK</source>
-        <translation/>
+        <translation>ព្រម</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="131"/>
         <source>Please enter your email address and password</source>
-        <translation/>
+        <translation>សូម​បញ្ចូល​អ៊ីមែល និង ពាក្យ​សម្ងាត់​របស់​អ្នក</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="140"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>បោះ​បង់</translation>
     </message>
 </context>
 <context>
@@ -375,13 +375,13 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="205"/>
         <source>finished</source>
         <extracomment>Sync finished with potential(?) error.</extracomment>
-        <translation/>
+        <translation>បាន​បញ្ចប់</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="210"/>
         <source>internal error</source>
         <extracomment>Internal error occurred during sync.</extracomment>
-        <translation/>
+        <translation>មាន​កំហុស​ផ្នែក​ក្នុង</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="215"/>
@@ -411,7 +411,7 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="237"/>
         <source>connection error</source>
         <extracomment>Connection to remote sync service failed during sync.</extracomment>
-        <translation/>
+        <translation>កំហុស​ការ​តភ្ជាប់</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="243"/>
@@ -435,7 +435,7 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="264"/>
         <source>other</source>
         <extracomment>Unknown error occurred during sync.</extracomment>
-        <translation/>
+        <translation>ផ្សេងៗ</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="299"/>
@@ -459,13 +459,13 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="439"/>
         <source>Sync started</source>
         <extracomment>Status message: sync job started</extracomment>
-        <translation/>
+        <translation>បាន​ចាប់​ផ្ដើម​ធ្វើ​សមកាល​កម្ម</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="445"/>
         <source>Syncing now...</source>
         <extracomment>Status message: Sync in-progress</extracomment>
-        <translation/>
+        <translation>កំពុង​ធ្វើ​សមកាលកម្ម...</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="457"/>
@@ -474,13 +474,13 @@
         <extracomment>Status message: Sync job completed
 ----------
 Status message: successfully completed sync job.</extracomment>
-        <translation/>
+        <translation>បាន​ធ្វើ​សមកាល​កម្ម​រួច​រាល់</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="463"/>
         <source>Sync aborted</source>
         <extracomment>Sync explicitly stopped.</extracomment>
-        <translation/>
+        <translation>បាន​បោះ​បង់​ការ​ធ្វើ​សមកាល​កម្ម</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="470"/>
@@ -544,7 +544,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="14"/>
         <source>Networking Proxy</source>
-        <translation/>
+        <translation>ប្រុកស៊ី​បណ្ដញ</translation>
     </message>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="31"/>
@@ -552,12 +552,12 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="51"/>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="55"/>
         <source>No Proxy</source>
-        <translation/>
+        <translation>មិន​មាន​ប្រុកស៊ី</translation>
     </message>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="68"/>
         <source>Use Http Proxy</source>
-        <translation/>
+        <translation>ប្រើប្រុកស៊ី Http</translation>
     </message>
 </context>
 <context>
@@ -565,7 +565,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="17"/>
         <source>Panels</source>
-        <translation/>
+        <translation>បន្ទះ</translation>
     </message>
 </context>
 <context>
@@ -573,7 +573,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/PasswordGroup.qml" line="13"/>
         <source>Passwords</source>
-        <translation/>
+        <translation>ពាក្យ​សម្ងាត់</translation>
     </message>
     <message>
         <location filename="../../Browser/PasswordGroup.qml" line="33"/>
@@ -591,7 +591,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/PasswordGroup.qml" line="69"/>
         <location filename="../../Browser/PasswordGroup.qml" line="79"/>
         <source>Never save passwords</source>
-        <translation/>
+        <translation>ឈប់​រក្សា​ពាក្យ​សម្ងាត់​ទុក</translation>
     </message>
 </context>
 <context>
@@ -599,7 +599,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="16"/>
         <source>Personalize</source>
-        <translation/>
+        <translation>ផ្ទាល់​ខ្លួន</translation>
     </message>
 </context>
 <context>
@@ -607,62 +607,62 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="15"/>
         <source>Privacy</source>
-        <translation/>
+        <translation>ឯកជន​ភាព</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="25"/>
         <source>Clear Data?</source>
-        <translation/>
+        <translation>សម្អាត​ទិន្នន័យ?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="58"/>
         <source>Clear Browsing History</source>
-        <translation/>
+        <translation>សម្អាត​ប្រវត្តិ​រុក​រក</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="61"/>
         <source>Are you sure about clearing the browsing history?</source>
-        <translation/>
+        <translation>តើ​អ្នក​ប្រាកដ​ក្នុង​ការ​លុប​ប្រវត្តិ​រុក​រក​ឬ?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="71"/>
         <source>Clear Download History</source>
-        <translation/>
+        <translation>សម្អាត​ប្រវត្តិ​ទាញ​យក</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="74"/>
         <source>Are you sure about clearing the download history?</source>
-        <translation/>
+        <translation>តើ​អ្នក​ប្រាកដ​ក្នុង​ការ​សម្អាត​ប្រវត្តិ​ទាញ​យក​ឬ?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="84"/>
         <source>Clear Cookies and Site Data</source>
-        <translation/>
+        <translation>សម្អាត​ខូគី និង ទិន្នន័យ​គេហទំព័រ</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="87"/>
         <source>Are you sure about clearing your cookies?</source>
-        <translation/>
+        <translation>តើ​អ្នក​ប្រាកដ​ក្នុង​ការ​សម្អាត​ខូគី​របស់​អ្នក?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="97"/>
         <source>Clear Caches</source>
-        <translation/>
+        <translation>សម្អាត​ទិន្នន័យ​កំបាំង</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="100"/>
         <source>Are you sure about clearing your caches?</source>
-        <translation/>
+        <translation>តើ​អ្នក​ពិត​ជា​ចង់​លុប​ទិន្នន័យ​កំបាំង​មែនទេ?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="109"/>
         <source>Clear Saved Passwords</source>
-        <translation/>
+        <translation>សម្អាត​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សា​ទុក</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="113"/>
         <source>Are you sure about clearing your saved passwords?</source>
-        <translation/>
+        <translation>តើ​អ្នក​ពិត​ជា​ចង់​លុប​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សា​ទុក​មែនទេ?</translation>
     </message>
 </context>
 <context>
@@ -670,7 +670,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/RadioButton.qml" line="13"/>
         <source>Radio Button</source>
-        <translation/>
+        <translation>ប៊ូតុង​វិទ្យុ</translation>
     </message>
 </context>
 <context>
@@ -683,12 +683,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="45"/>
         <source>Accept</source>
-        <translation/>
+        <translation>យល់​ព្រម</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="56"/>
         <source>Reject</source>
-        <translation/>
+        <translation>បដិសេធ</translation>
     </message>
 </context>
 <context>
@@ -696,12 +696,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="24"/>
         <source>Enter the following code on %1</source>
-        <translation/>
+        <translation>បញ្ចូល​កូដ​នេះ​ទៅ %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="40"/>
         <source>Accept</source>
-        <translation/>
+        <translation>យល់​ព្រម</translation>
     </message>
 </context>
 <context>
@@ -709,12 +709,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="21"/>
         <source>Enter passcode to use:</source>
-        <translation/>
+        <translation>បញ្ចូល​ពាក្យ​សម្ងាត់​ដើម្បី​ប្រើ:</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="37"/>
         <source>Accept</source>
-        <translation/>
+        <translation>យល់​ព្រម</translation>
     </message>
 </context>
 <context>
@@ -727,7 +727,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/SearchGroup.qml" line="17"/>
         <source>Google</source>
-        <translation/>
+        <translation>Google</translation>
     </message>
 </context>
 <context>
@@ -735,17 +735,17 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/SetTimezoneMenu.qml" line="123"/>
         <source>GMT</source>
-        <translation/>
+        <translation>GMT</translation>
     </message>
     <message>
         <location filename="../../TimeDate/SetTimezoneMenu.qml" line="164"/>
         <source>Ok</source>
-        <translation/>
+        <translation>ព្រម</translation>
     </message>
     <message>
         <location filename="../../TimeDate/SetTimezoneMenu.qml" line="183"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>បោះ​បង់</translation>
     </message>
 </context>
 <context>
@@ -753,31 +753,31 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="14"/>
         <source>On Startup</source>
-        <translation/>
+        <translation>នៅ​ពេល​ចាប់​ផ្ដើម</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="31"/>
         <location filename="../../Browser/StartupGroup.qml" line="48"/>
         <location filename="../../Browser/StartupGroup.qml" line="57"/>
         <source>Open home page</source>
-        <translation/>
+        <translation>បើក​ទំព័រ​ដើម</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="37"/>
         <location filename="../../Browser/StartupGroup.qml" line="68"/>
         <location filename="../../Browser/StartupGroup.qml" line="78"/>
         <source>Reopen pages open last</source>
-        <translation/>
+        <translation>បើក​ទំព័រ​ដែល​បាន​បើក​ចុង​ក្រោយ​គេ​ឡើង​វិញ</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="45"/>
         <source>Open the home page</source>
-        <translation/>
+        <translation>បើក​ទំព័រ​ដើម</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="65"/>
         <source>Reopen the pages that were open last</source>
-        <translation/>
+        <translation>បើក​ទំព័រ​ដែល​បាន​បើក​ចុង​ក្រោយ​គេ​ឡើង​វិញ</translation>
     </message>
 </context>
 <context>
@@ -785,27 +785,27 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="123"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="142"/>
         <source>Sync now</source>
-        <translation/>
+        <translation>ធ្វើ​សមកាល​កម្ម​ឥឡូវ​នេះ</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="165"/>
         <source>Sync %1</source>
-        <translation/>
+        <translation>ធ្វើ​សកមកាលកម្ម %1</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="204"/>
         <source>Sync account details</source>
-        <translation/>
+        <translation>លម្អិត​អំពី​គណនី​ធ្វើ​សមកាលកម្ម</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="221"/>
         <source>Forget this</source>
-        <translation/>
+        <translation>បំភ្លេច</translation>
     </message>
 </context>
 <context>
@@ -813,7 +813,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="15"/>
         <source>Sync</source>
-        <translation/>
+        <translation>ធ្វើ​សមកាលកម្ម</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="19"/>

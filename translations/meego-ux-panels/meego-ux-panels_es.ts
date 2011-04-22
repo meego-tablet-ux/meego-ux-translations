@@ -22,7 +22,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="22"/>
         <source>To show items on the front of the panel select ON, to hide select OFF</source>
-        <translation>Para mostrar elementos en la parte frontal del panel, seleccione ❘; para ocultarlos, seleccione ○</translation>
+        <translation>Para mostrar elementos en la parte frontal del panel, seleccione |; para ocultarlos, seleccione ○</translation>
     </message>
 </context>
 <context>
@@ -30,27 +30,27 @@
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="92"/>
         <source>No connection currently</source>
-        <translation/>
+        <translation>Actualmente no hay ninguna conexión</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="95"/>
         <source>Wired</source>
-        <translation/>
+        <translation>Alámbrica</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="100"/>
         <source>Connected to %1</source>
-        <translation/>
+        <translation>Conectado a %1</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="102"/>
         <source>Connecting...</source>
-        <translation/>
+        <translation>Conectando...</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="105"/>
         <source>Connected by %1</source>
-        <translation/>
+        <translation>Conectado a %1</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="177"/>

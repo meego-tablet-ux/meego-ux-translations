@@ -138,7 +138,7 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="31"/>
         <source>Manual APN Entry</source>
-        <translation/>
+        <translation>手动 APN 条目</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="61"/>
@@ -148,13 +148,13 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="78"/>
         <source>Provider</source>
-        <translation/>
+        <translation>供应商</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="93"/>
         <location filename="../../Wifi/CellularSettings.qml" line="115"/>
         <source>APN</source>
-        <translation/>
+        <translation>APN</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="126"/>
@@ -233,7 +233,7 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="25"/>
         <source>WiMAX</source>
-        <translation/>
+        <translation>WiMAX</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="61"/>
@@ -369,7 +369,7 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="198"/>
         <source>completed</source>
         <extracomment>Status message: successfully completed sync job. (PLACEHOLDER)</extracomment>
-        <translation/>
+        <translation>已完成</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="205"/>
@@ -447,7 +447,7 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="305"/>
         <source>Last sync failed: %1</source>
         <extracomment>Arg 1 is a brief sync error description, e.g. &quot;connection failed&quot;.</extracomment>
-        <translation/>
+        <translation>最后同步失败时间： %1</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="433"/>
@@ -544,7 +544,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="14"/>
         <source>Networking Proxy</source>
-        <translation/>
+        <translation>网络代理</translation>
     </message>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="31"/>
@@ -552,12 +552,12 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="51"/>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="55"/>
         <source>No Proxy</source>
-        <translation/>
+        <translation>无代理</translation>
     </message>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="68"/>
         <source>Use Http Proxy</source>
-        <translation/>
+        <translation>使用 Http 代理</translation>
     </message>
 </context>
 <context>
@@ -829,7 +829,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="34"/>
         <source>Are you sure about stopping this account from syncing?</source>
-        <translation/>
+        <translation>是否确实要阻止此帐户同步？</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="79"/>
@@ -948,7 +948,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="109"/>
         <source>24 hour clock</source>
-        <translation/>
+        <translation>24 小时时钟</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="137"/>
@@ -963,7 +963,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="184"/>
         <source>Current Timezone is %1</source>
-        <translation/>
+        <translation>当前的时区是 %1</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="201"/>

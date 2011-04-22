@@ -4,27 +4,27 @@
     <message>
         <location filename="../../Media/MediaGridView.qml" line="57"/>
         <source>Favorites</source>
-        <translation/>
+        <translation>Priljubljeno</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="58"/>
         <source>Recently Viewed</source>
-        <translation/>
+        <translation>Nazadnje ogledano</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="59"/>
         <source>Recently Added</source>
-        <translation/>
+        <translation>Nazadnje dodano</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="60"/>
         <source>Unwatched</source>
-        <translation/>
+        <translation>Nikoli gledano</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="61"/>
         <source>Search Results</source>
-        <translation/>
+        <translation>Rezultati iskanja</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="256"/>

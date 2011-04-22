@@ -14,7 +14,7 @@
     <message>
         <location filename="../../MainContent.qml" line="189"/>
         <source>&quot;%1&quot; can not be deleted</source>
-        <translation/>
+        <translation>&quot;%1&quot; kann nicht gelöscht werden</translation>
     </message>
     <message>
         <location filename="../../MainContent.qml" line="203"/>

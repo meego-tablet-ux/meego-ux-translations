@@ -488,12 +488,12 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="148"/>
         <source>(%1)</source>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="160"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>

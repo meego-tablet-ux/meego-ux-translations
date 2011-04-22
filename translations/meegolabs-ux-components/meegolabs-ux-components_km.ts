@@ -30,7 +30,7 @@
     <message>
         <location filename="../../Components/ClipboardContextMenu.qml" line="12"/>
         <source>Paste</source>
-        <translation>ប៉ះ</translation>
+        <translation>ទម្លាក់</translation>
     </message>
 </context>
 <context>
@@ -43,7 +43,7 @@
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="118"/>
         <source>Loading...</source>
-        <translation>Loading...</translation>
+        <translation>កំពុង​ផ្ទុក...</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="247"/>
@@ -68,7 +68,7 @@
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="354"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះ​បង់</translation>
     </message>
 </context>
 <context>
@@ -76,33 +76,33 @@
     <message>
         <location filename="../../fuzzydatetime.cpp" line="31"/>
         <source>Just Now</source>
-        <translation>ឥឡូវនេះ</translation>
+        <translation>ទើប​ឥឡូវៗ</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="33"/>
         <source>1 min ago</source>
-        <translation>1 នាទីមុននេះ</translation>
+        <translation>1 នាទី​កន្លង​ទៅ</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="35"/>
         <source>%1 mins ago</source>
         <comment>1 is number of minutes</comment>
-        <translation>%1 នាទីមុននេះ</translation>
+        <translation>%1 នាទី​កន្លង​ទៅ</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="38"/>
         <source>Half an hour ago</source>
-        <translation>កន្លះម៉ោងមុននេះ</translation>
+        <translation>កន្លះ​ម៉ោង​កន្លង​ទៅ</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="40"/>
         <source>An hour ago</source>
-        <translation>១ម៉ោងមុន</translation>
+        <translation>១ម៉ោង​កន្លង​ទៅ</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="42"/>
         <source>A couple of hours ago</source>
-        <translation>២ម៉ោងមុន</translation>
+        <translation>ប៉ុន្មាន​ម៉ោង​មុន</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="44"/>
@@ -131,7 +131,7 @@
         <location filename="../../fuzzydatetime.cpp" line="62"/>
         <source>%1/%2/%3 - A couple of weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%1/%2/%3 - កាលពី២សប្ដាហ៍មុន</translation>
+        <translation>%1/%2/%3 - ប៉ុន្មាន​សប្ដាហ៍​មុន</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="67"/>
@@ -149,7 +149,7 @@
         <location filename="../../fuzzydatetime.cpp" line="78"/>
         <source>%1/%2/%3 - A couple of months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%1/%2/%3 - ២ខែមុន</translation>
+        <translation>%1/%2/%3 - ប៉ុន្មាន​ខែ​មុន</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="87"/>
@@ -242,7 +242,7 @@
     <message>
         <location filename="../../Components/MessageBox.qml" line="140"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះ​បង់</translation>
     </message>
 </context>
 <context>
@@ -255,7 +255,7 @@
     <message>
         <location filename="../../Components/ModalMessageBox.qml" line="137"/>
         <source>Cancel</source>
-        <translation>មោឃ</translation>
+        <translation>បោះ​បង់</translation>
     </message>
 </context>
 <context>
@@ -277,7 +277,7 @@
         <location filename="../../Components/ShareObj.qml" line="63"/>
         <location filename="../../Components/ShareObj.qml" line="83"/>
         <source>Email</source>
-        <translation>អ៊ីម៉ែល</translation>
+        <translation>អ៊ីមែល</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="227"/>
@@ -293,7 +293,7 @@
     <message>
         <location filename="../../Components/ShareObj.qml" line="258"/>
         <source>Upload progress: %1%%</source>
-        <translation>Upload បាន: %1%%</translation>
+        <translation>ផ្ទុក​ឡើង​​បាន: %1%%</translation>
     </message>
 </context>
 <context>

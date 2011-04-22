@@ -4,17 +4,17 @@
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="117"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>Multiple accounts connected</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="118"/>
         <source>Do you really want to connect this account?</source>
-        <translation/>
+        <translation>Do you really want to connect this account?</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="119"/>
         <source>By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>By doing this all other %1 accounts will be disconnected.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="190"/>
@@ -74,17 +74,17 @@ Please check your username and password.</translation>
     <message>
         <location filename="../../AccountDelegate.qml" line="113"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>Multiple accounts connected</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="114"/>
         <source>Do you really want to connect this account?</source>
-        <translation/>
+        <translation>Do you really want to connect this account?</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="115"/>
         <source>By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>By doing this all other %1 accounts will be disconnected.</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="177"/>
@@ -321,17 +321,17 @@ Please check your username and password.</translation>
     <message>
         <location filename="../../ContactContentMenu.qml" line="33"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>Multiple accounts connected</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="34"/>
         <source>Do you really want to connect this account?</source>
-        <translation/>
+        <translation>Do you really want to connect this account?</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="35"/>
         <source>By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>By doing this all other %1 accounts will be disconnected.</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="183"/>
@@ -382,7 +382,7 @@ Please check your username and password.</translation>
     <message>
         <location filename="../../ContactContentMenu.qml" line="563"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>Clear chat history</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="602"/>
@@ -762,7 +762,7 @@ Please check your username and password.</translation>
     <message>
         <location filename="../../settings/ImSettings.qml" line="214"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>Clear chat history</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="240"/>
@@ -826,7 +826,7 @@ Please check your username and password.</translation>
     <message>
         <location filename="../../LoadingConversationHistory.qml" line="28"/>
         <source>Loading conversation history</source>
-        <translation/>
+        <translation>Loading conversation history</translation>
     </message>
 </context>
 <context>
@@ -860,7 +860,7 @@ Please check your username and password.</translation>
     <message>
         <location filename="../../MessageContentMenu.qml" line="97"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>Clear chat history</translation>
     </message>
     <message>
         <location filename="../../MessageContentMenu.qml" line="135"/>
@@ -959,17 +959,17 @@ Please check your username and password.</translation>
     <message>
         <location filename="../../SearchHeader.qml" line="48"/>
         <source>%1 matches found</source>
-        <translation/>
+        <translation>%1 matches found</translation>
     </message>
     <message>
         <location filename="../../SearchHeader.qml" line="73"/>
         <source>Older</source>
-        <translation/>
+        <translation>Older</translation>
     </message>
     <message>
         <location filename="../../SearchHeader.qml" line="86"/>
         <source>Newer</source>
-        <translation/>
+        <translation>Newer</translation>
     </message>
 </context>
 <context>

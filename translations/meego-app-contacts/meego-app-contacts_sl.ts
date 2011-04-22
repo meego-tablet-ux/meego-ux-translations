@@ -4,62 +4,62 @@
     <message>
         <location filename="../../AddressEditWidget.qml" line="23"/>
         <source>Address</source>
-        <translation/>
+        <translation>Naslov</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="24"/>
         <source>Home</source>
-        <translation/>
+        <translation>Dom</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="25"/>
         <source>Work</source>
-        <translation/>
+        <translation>Služba</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="26"/>
         <source>Other</source>
-        <translation/>
+        <translation>Drugo</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="27"/>
         <source>Street address</source>
-        <translation/>
+        <translation>Ulični naslov</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="28"/>
         <source>Town / City</source>
-        <translation/>
+        <translation>Vas/mesto</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="29"/>
         <source>Region / State</source>
-        <translation/>
+        <translation>Področje/zv. država</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="30"/>
         <source>Country</source>
-        <translation/>
+        <translation>Država</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="31"/>
         <source>Postcode / Zip</source>
-        <translation/>
+        <translation>Poštna številka</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="32"/>
         <source>Add address</source>
-        <translation/>
+        <translation>Dodaj naslov</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="33"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="34"/>
         <source>Add</source>
-        <translation/>
+        <translation>Dodaj</translation>
     </message>
 </context>
 <context>
@@ -67,43 +67,43 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="26"/>
         <source>...</source>
-        <translation/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="72"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>Odstrani iz priljubljenih</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="73"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>Dodaj med priljubljene</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="74"/>
         <source>Idle</source>
-        <translation/>
+        <translation>Nedejaven</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="75"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Zaposlen</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="76"/>
         <source>Online</source>
-        <translation/>
+        <translation>Na zvezi</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="77"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Brez zveze</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="104"/>
         <location filename="../../ContactCardPortrait.qml" line="106"/>
         <source>%1  %2</source>
-        <translation/>
+        <translation>%1  %2</translation>
     </message>
 </context>
 <context>
@@ -111,37 +111,37 @@
     <message>
         <location filename="../../ContactsSettings.qml" line="16"/>
         <source>Contacts Settings</source>
-        <translation/>
+        <translation>Nastavitve za stike</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="17"/>
         <source>Sort Order:</source>
-        <translation/>
+        <translation>Vrstni red razvrščanja:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="18"/>
         <source>Display Order:</source>
-        <translation/>
+        <translation>Vrstni red prikaza:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="19"/>
         <source>Sort by first name</source>
-        <translation/>
+        <translation>Razvrsti po imenu</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Sort by last name</source>
-        <translation/>
+        <translation>Razvrsti po priimku</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="21"/>
         <source>Display by first name</source>
-        <translation/>
+        <translation>Prikaži po imenu</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Display by last name</source>
-        <translation/>
+        <translation>Prikaži po priimku</translation>
     </message>
 </context>
 <context>
@@ -149,173 +149,173 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="29"/>
         <source>Idle</source>
-        <translation/>
+        <translation>Nedejaven</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="30"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Zaposlen</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="31"/>
         <source>Online</source>
-        <translation/>
+        <translation>Na zvezi</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="32"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Brez zveze</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="34"/>
         <source>Home</source>
-        <translation/>
+        <translation>Dom</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="35"/>
         <source>Work</source>
-        <translation/>
+        <translation>Služba</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="36"/>
         <source>Other</source>
-        <translation/>
+        <translation>Drugo</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="37"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>Prenosni</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="38"/>
         <source>Bookmark</source>
-        <translation/>
+        <translation>Dodaj med zaznamke</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="39"/>
         <location filename="../../DetailViewPortrait.qml" line="65"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>Dodaj med priljubljene</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="41"/>
         <source>First name</source>
-        <translation/>
+        <translation>Ime</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="42"/>
         <source>Last name</source>
-        <translation/>
+        <translation>Priimek</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="43"/>
         <source>Company</source>
-        <translation/>
+        <translation>Podjetje</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="44"/>
         <source>Enter note</source>
-        <translation/>
+        <translation>Vnesite opombo</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="45"/>
         <source>Enter birthday</source>
-        <translation/>
+        <translation>Vnesite rojstni dan</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="46"/>
         <source>Site</source>
-        <translation/>
+        <translation>Mesto</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="48"/>
         <source>Phone numbers</source>
-        <translation/>
+        <translation>Telefonske številke</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="49"/>
         <source>Instant messaging</source>
-        <translation/>
+        <translation>Takojšnje sporočanje</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="50"/>
         <source>Email</source>
-        <translation/>
+        <translation>E-pošta</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="51"/>
         <source>Web</source>
-        <translation/>
+        <translation>Splet</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="52"/>
         <source>Address</source>
-        <translation/>
+        <translation>Naslov</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="53"/>
         <source>Birthday</source>
-        <translation/>
+        <translation>Rojstni dan</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="54"/>
         <source>Date</source>
-        <translation/>
+        <translation>Datum</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="55"/>
         <source>Note</source>
-        <translation/>
+        <translation>Opomba</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="57"/>
         <source>AIM</source>
-        <translation/>
+        <translation>AIM</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="58"/>
         <source>MSN</source>
-        <translation/>
+        <translation>MSN</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="59"/>
         <source>Jabber</source>
-        <translation/>
+        <translation>Jabber</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="60"/>
         <source>Yahoo!</source>
-        <translation/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="61"/>
         <source>Facebook</source>
-        <translation/>
+        <translation>Facebook</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="62"/>
         <source>Google Talk</source>
-        <translation/>
+        <translation>Google Talk</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="63"/>
         <source>IM</source>
-        <translation/>
+        <translation>TS</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="66"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>Odstrani iz priljubljenih</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="84"/>
         <source>View</source>
-        <translation/>
+        <translation>Prikaz</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="85"/>
         <source>...</source>
-        <translation/>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -323,67 +323,67 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="32"/>
         <source>Home</source>
-        <translation/>
+        <translation>Dom</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="33"/>
         <source>Work</source>
-        <translation/>
+        <translation>Služba</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="34"/>
         <source>Other</source>
-        <translation/>
+        <translation>Drugo</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="35"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>Prenosni</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="36"/>
         <source>First name</source>
-        <translation/>
+        <translation>Ime</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="37"/>
         <source>Last name</source>
-        <translation/>
+        <translation>Priimek</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="38"/>
         <source>Company</source>
-        <translation/>
+        <translation>Podjetje</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="39"/>
         <source>Enter note</source>
-        <translation/>
+        <translation>Vnesite opombo</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="40"/>
         <source>Enter birthday</source>
-        <translation/>
+        <translation>Vnesite rojstni dan</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="41"/>
         <source>Birthday</source>
-        <translation/>
+        <translation>Rojstni dan</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="42"/>
         <source>Note</source>
-        <translation/>
+        <translation>Opomba</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="45"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>Dodaj med priljubljene</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="47"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>Odstrani iz priljubljenih</translation>
     </message>
 </context>
 <context>
@@ -391,42 +391,42 @@
     <message>
         <location filename="../../EmailEditWidget.qml" line="23"/>
         <source>Home</source>
-        <translation/>
+        <translation>Dom</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="24"/>
         <source>Work</source>
-        <translation/>
+        <translation>Služba</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="25"/>
         <source>Other</source>
-        <translation/>
+        <translation>Drugo</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="26"/>
         <source>Email address</source>
-        <translation/>
+        <translation>E-poštni naslov</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="27"/>
         <source>Email</source>
-        <translation/>
+        <translation>E-pošta</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="28"/>
         <source>Add email address</source>
-        <translation/>
+        <translation>Dodaj e-poštni naslov</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="29"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="30"/>
         <source>Add</source>
-        <translation/>
+        <translation>Dodaj</translation>
     </message>
 </context>
 <context>
@@ -434,12 +434,12 @@
     <message>
         <location filename="../../EmptyContacts.qml" line="17"/>
         <source>You haven&apos;t added any contacts yet.</source>
-        <translation/>
+        <translation>Dodali niste še nobenega stika.</translation>
     </message>
     <message>
         <location filename="../../EmptyContacts.qml" line="18"/>
         <source>Add a contact</source>
-        <translation/>
+        <translation>Dodaj stik</translation>
     </message>
 </context>
 <context>
@@ -447,7 +447,7 @@
     <message>
         <location filename="../../HeaderPortrait.qml" line="13"/>
         <source>#</source>
-        <translation/>
+        <translation>#</translation>
     </message>
 </context>
 <context>
@@ -455,67 +455,67 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="25"/>
         <source>Add account</source>
-        <translation/>
+        <translation>Dodaj račun</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="26"/>
         <source>Instant messaging</source>
-        <translation/>
+        <translation>Takojšnje sporočanje</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="27"/>
         <source>AIM</source>
-        <translation/>
+        <translation>AIM</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="28"/>
         <source>MSN</source>
-        <translation/>
+        <translation>MSN</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="29"/>
         <source>Jabber</source>
-        <translation/>
+        <translation>Jabber</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="30"/>
         <source>Yahoo</source>
-        <translation/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="31"/>
         <source>Facebook</source>
-        <translation/>
+        <translation>Facebook</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="32"/>
         <source>gTalk</source>
-        <translation/>
+        <translation>Google Talk</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="33"/>
         <source>Account Name / ID</source>
-        <translation/>
+        <translation>Ime računa/identifikacija</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="34"/>
         <source>No IM accounts are configured</source>
-        <translation/>
+        <translation>Nastavljen ni noben račun</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="35"/>
         <source>No buddies for this account</source>
-        <translation/>
+        <translation>Za ta račun ni nobenega stika</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="36"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="37"/>
         <source>Add</source>
-        <translation/>
+        <translation>Dodaj</translation>
     </message>
 </context>
 <context>
@@ -523,67 +523,67 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="29"/>
         <source>Home</source>
-        <translation/>
+        <translation>Dom</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="30"/>
         <source>Work</source>
-        <translation/>
+        <translation>Služba</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="31"/>
         <source>Other</source>
-        <translation/>
+        <translation>Drugo</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="32"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>Prenosni</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="33"/>
         <source>First name</source>
-        <translation/>
+        <translation>Ime</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="34"/>
         <source>Last name</source>
-        <translation/>
+        <translation>Priimek</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="35"/>
         <source>Company</source>
-        <translation/>
+        <translation>Podjetje</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="36"/>
         <source>Enter note</source>
-        <translation/>
+        <translation>Vnesite opombo</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="37"/>
         <source>Enter birthday</source>
-        <translation/>
+        <translation>Vnesite rojstni dan</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="38"/>
         <source>Birthday</source>
-        <translation/>
+        <translation>Rojstni dan</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="39"/>
         <source>Note</source>
-        <translation/>
+        <translation>Opomba</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="43"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>Odstrani iz priljubljenih</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="44"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>Dodaj med priljubljene</translation>
     </message>
 </context>
 <context>
@@ -591,52 +591,52 @@
     <message>
         <location filename="../../PhoneEditWidget.qml" line="23"/>
         <source>Address</source>
-        <translation/>
+        <translation>Naslov</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="24"/>
         <source>Home</source>
-        <translation/>
+        <translation>Dom</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="25"/>
         <source>Work</source>
-        <translation/>
+        <translation>Služba</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="26"/>
         <source>Other</source>
-        <translation/>
+        <translation>Drugo</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="27"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>Prenosni</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="28"/>
         <source>Phone numbers</source>
-        <translation/>
+        <translation>Telefonske številke</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="29"/>
         <source>Add number</source>
-        <translation/>
+        <translation>Dodaj številko</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="30"/>
         <source>Phone number</source>
-        <translation/>
+        <translation>Telefonska številka</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="31"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="32"/>
         <source>Add</source>
-        <translation/>
+        <translation>Dodaj</translation>
     </message>
 </context>
 <context>
@@ -644,37 +644,37 @@
     <message>
         <location filename="../../WebPageEditWidget.qml" line="23"/>
         <source>Add web page</source>
-        <translation/>
+        <translation>Dodaj spletno stran</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="24"/>
         <source>Site</source>
-        <translation/>
+        <translation>Mesto</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="25"/>
         <source>Web</source>
-        <translation/>
+        <translation>Splet</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="26"/>
         <source>Bookmark</source>
-        <translation/>
+        <translation>Dodaj med zaznamke</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="27"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>Dodaj med priljubljene</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="28"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="29"/>
         <source>Add</source>
-        <translation/>
+        <translation>Dodaj</translation>
     </message>
 </context>
 <context>
@@ -683,93 +683,93 @@
         <location filename="../../main.qml" line="15"/>
         <location filename="../../main.qml" line="39"/>
         <source>Contacts</source>
-        <translation/>
+        <translation>Stiki</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="23"/>
         <location filename="../../main.qml" line="41"/>
         <source>New contact</source>
-        <translation/>
+        <translation>Nov stik</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="24"/>
         <source>All</source>
-        <translation/>
+        <translation>Vse</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="25"/>
         <source>Favorites</source>
-        <translation/>
+        <translation>Priljubljeni</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>Who&apos;s online</source>
-        <translation/>
+        <translation>Kdo je na zvezi</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
         <source>View</source>
-        <translation/>
+        <translation>Prikaži</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Share</source>
-        <translation/>
+        <translation>Deli</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>Email</source>
-        <translation/>
+        <translation>E-pošta</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>Dodaj med priljubljene</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Edit</source>
-        <translation/>
+        <translation>Uredi</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="33"/>
         <source>Save</source>
-        <translation/>
+        <translation>Shrani</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Izbriši</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
         <source>Delete Confirmation</source>
-        <translation/>
+        <translation>Potrditev izbrisa</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="40"/>
         <source>Contact details</source>
-        <translation/>
+        <translation>Podrobnosti stika</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="42"/>
         <source>Edit contacts</source>
-        <translation/>
+        <translation>Uredi stike</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="44"/>
         <source>this contact</source>
-        <translation/>
+        <translation>ta stik</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="45"/>
         <source>Are you sure you want to remove %1 from your contacts?</source>
-        <translation/>
+        <translation>Ali res želite odstraniti %1 s seznama stikov?</translation>
     </message>
 </context>
 </TS>

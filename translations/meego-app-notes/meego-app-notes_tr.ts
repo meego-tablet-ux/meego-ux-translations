@@ -69,7 +69,7 @@
     <message>
         <location filename="../../InformationDialog.qml" line="82"/>
         <source>OK</source>
-        <translation/>
+        <translation>Tamam</translation>
     </message>
 </context>
 <context>
@@ -483,7 +483,7 @@ emin misiniz?</translation>
     <message>
         <location filename="../../main.qml" line="16"/>
         <source>All</source>
-        <translation/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="16"/>

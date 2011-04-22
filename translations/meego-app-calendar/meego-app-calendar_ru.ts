@@ -9,47 +9,47 @@
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="27"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>За 10 минут</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="28"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>За 15 минут</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="29"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>За 30 минут</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="30"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>За 1 час</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="31"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>За 2 часа</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="32"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>За 1 день</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="33"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>За 2 дня</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="34"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>За 1 неделю</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="35"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Другое...</translation>
     </message>
 </context>
 <context>
@@ -107,12 +107,12 @@
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="87"/>
         <source>All day: </source>
-        <translation/>
+        <translation>Весь день: </translation>
     </message>
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="124"/>
         <source>%1 more events...</source>
-        <translation/>
+        <translation>Дополнительные события: %1...</translation>
     </message>
 </context>
 <context>
@@ -252,7 +252,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="86"/>
         <source>Check the date and time inputs</source>
-        <translation/>
+        <translation>Проверьте введенную дату и время</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="156"/>
@@ -307,7 +307,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="941"/>
         <source>Time zone</source>
-        <translation/>
+        <translation>Часовой пояс</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="983"/>
@@ -360,17 +360,17 @@
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="98"/>
         <source>Repeats forever</source>
-        <translation/>
+        <translation>Повторять всегда</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="99"/>
         <source>Ends after number of times...</source>
-        <translation/>
+        <translation>Завершить после нескольких раз...</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="100"/>
         <source>Ends after date...</source>
-        <translation/>
+        <translation>Завершить после даты...</translation>
     </message>
 </context>
 <context>
@@ -383,32 +383,32 @@
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="28"/>
         <source>Every day</source>
-        <translation/>
+        <translation>Каждый день</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="29"/>
         <source>Every week</source>
-        <translation/>
+        <translation>Каждую неделю</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="30"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>Каждые 2 недели</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="31"/>
         <source>Every month</source>
-        <translation/>
+        <translation>Каждый месяц</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="32"/>
         <source>Every year</source>
-        <translation/>
+        <translation>Каждый год</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="33"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Другое...</translation>
     </message>
 </context>
 <context>
@@ -426,48 +426,48 @@
     <message>
         <location filename="../../lib/utilmethods.cpp" line="259"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>За 10 минут</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="260"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>За 15 минут</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="261"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>За 30 минут</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="262"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>За 1 час</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="263"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>За 2 часа</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="264"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>За 1 день</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="265"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>За 2 дня</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="266"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>За 1 неделю</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="267"/>
         <location filename="../../lib/utilmethods.cpp" line="282"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Другое...</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="276"/>
@@ -477,27 +477,27 @@
     <message>
         <location filename="../../lib/utilmethods.cpp" line="277"/>
         <source>Every day</source>
-        <translation/>
+        <translation>Каждый день</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="278"/>
         <source>Every week</source>
-        <translation/>
+        <translation>Каждую неделю</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="279"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>Каждые 2 недели</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="280"/>
         <source>Every month</source>
-        <translation/>
+        <translation>Каждый месяц</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="281"/>
         <source>Every year</source>
-        <translation/>
+        <translation>Каждый год</translation>
     </message>
 </context>
 <context>

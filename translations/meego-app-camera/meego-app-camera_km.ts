@@ -4,22 +4,22 @@
     <message>
         <location filename="../NoSpaceDialog.qml" line="13"/>
         <source>Memory Full</source>
-        <translation/>
+        <translation>ពេញ​អង្គចងចាំ</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="14"/>
         <source>Open Photos</source>
-        <translation/>
+        <translation>បើក​រូប​ថត</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="15"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>បោះ​បង់</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="18"/>
         <source>There is no storage space left on the device. To take more photos or video, you may want to delete some existing content.</source>
-        <translation/>
+        <translation>មិន​មាន​ទំហំ​ទំនេរ​នៅ​ក្នុង​ឧបករណ៍​ទេ។ ដើម្បី​ថត​រូប ឬ វីដេអូ​ថែម​ទៀត អ្នក​ត្រូវ​លុប​ឯកសារ​ដែល​មាន ចោល​ខ្លះ​ជា​មុន​សិន។</translation>
     </message>
 </context>
 <context>
@@ -27,17 +27,17 @@
     <message>
         <location filename="../plugin/viewfinder.cpp" line="341"/>
         <source>Auto</source>
-        <translation/>
+        <translation>ស្វ័យ​ប្រវត្តិ</translation>
     </message>
     <message>
         <location filename="../plugin/viewfinder.cpp" line="343"/>
         <source>Off</source>
-        <translation/>
+        <translation>បិទ</translation>
     </message>
     <message>
         <location filename="../plugin/viewfinder.cpp" line="344"/>
         <source>On</source>
-        <translation/>
+        <translation>បើក</translation>
     </message>
 </context>
 </TS>

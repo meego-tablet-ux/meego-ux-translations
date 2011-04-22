@@ -29,12 +29,12 @@
     <message>
         <location filename="../../main.qml" line="28"/>
         <source>Yes, Delete</source>
-        <translation/>
+        <translation>ਹਾਂ, ਹਟਾਓ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>ਰੱਦਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
@@ -54,7 +54,7 @@
     <message>
         <location filename="../../main.qml" line="38"/>
         <source>Share</source>
-        <translation/>
+        <translation>ਸਾਂਝਾ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../../main.qml" line="40"/>
         <source>Select Multiple Videos</source>
-        <translation/>
+        <translation>ਕਈ ਵਿਡੀਓ ਚੁਣੋ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="90"/>
@@ -80,13 +80,13 @@
     <message>
         <location filename="../../main.qml" line="153"/>
         <source>Video name</source>
-        <translation/>
+        <translation>ਵਿਡੀਓ ਨਾਂ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="159"/>
         <location filename="../../main.qml" line="583"/>
         <source>If you delete this, it will be removed from your device</source>
-        <translation/>
+        <translation>ਜੇ ਤੁਸੀਂ ਹਟਾਈ ਤਾਂ, ਇਸ ਨੂੰ ਤੁਹਾਡੇ ਜੰਤਰ ਤੋਂ ਹਟਾਇਆ ਜਾਵੇਗਾ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="171"/>
@@ -101,17 +101,17 @@
     <message>
         <location filename="../../main.qml" line="184"/>
         <source>If you delete these, they will be removed from your device</source>
-        <translation/>
+        <translation>ਜੇ ਤੁਸੀਂ ਇਹ ਹਟਾਇਆ ਤਾਂ ਤੁਹਾਡੇ ਜੰਤਰ ਤੋਂ ਸਭ ਹਟਾਏ ਜਾਣਗੇ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="402"/>
         <source>No videos added yet, do you want to start watching videos?</source>
-        <translation/>
+        <translation>ਕੋਈ ਵਿਡੀਓ ਹਾਲੇ ਜੋੜ ਨਹੀਂ ਹੈ, ਕੀ ਤੁਸੀਂ ਵਿਡੀਓ ਵੇਖਣੀਆਂ ਸ਼ੁਰੂ ਕਰਨੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="410"/>
         <source>Start recording your own or upload your favourite shows.</source>
-        <translation/>
+        <translation>ਆਪਣੀਆਂ ਖੁਦ ਦੀਆਂ ਰਿਕਾਰਡ ਕਰੋ ਜਾਂ ਆਪਣੇ ਪਸੰਦੀਦਾ ਸ਼ੋ ਅੱਪਲੋਡ ਕਰੋ।</translation>
     </message>
 </context>
 </TS>

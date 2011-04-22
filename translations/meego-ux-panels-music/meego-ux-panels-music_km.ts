@@ -5,39 +5,39 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="48"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="309"/>
         <source>Recently played</source>
-        <translation/>
+        <translation>ទើប​តែ​លេង</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="49"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="354"/>
         <source>Playlists</source>
-        <translation/>
+        <translation>បញ្ជី​ចម្រៀង</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="79"/>
         <source>Music</source>
-        <translation/>
+        <translation>តន្ត្រី</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="98"/>
         <source>Music settings</source>
-        <translation/>
+        <translation>ការ​កំណត់​តន្ត្រី</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="156"/>
         <source>Enjoy your music.</source>
-        <translation/>
+        <translation>រីករាយ​ជាមួយ​តន្ត្រី​របស់​អ្នក។</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="165"/>
         <source>Open Music!</source>
-        <translation/>
+        <translation>បើក​តន្ត្រី!</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="182"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="184"/>
         <source>Open</source>
-        <translation/>
+        <translation>បើក</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="182"/>
@@ -45,13 +45,13 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="216"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="219"/>
         <source>Play</source>
-        <translation/>
+        <translation>លេង</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="182"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="192"/>
         <source>Share</source>
-        <translation/>
+        <translation>ចែក​រំលែក</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="182"/>
@@ -59,17 +59,17 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="216"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="223"/>
         <source>Hide</source>
-        <translation/>
+        <translation>លាក់</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="238"/>
         <source>Currently playing</source>
-        <translation/>
+        <translation>កំពុង​លេង</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="284"/>
         <source>Play queue</source>
-        <translation/>
+        <translation>លេង​តាម​លំដាប់​រៀប</translation>
     </message>
 </context>
 </TS>

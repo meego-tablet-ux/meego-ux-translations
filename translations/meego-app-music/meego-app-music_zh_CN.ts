@@ -158,7 +158,7 @@
     <message>
         <location filename="../../main.qml" line="41"/>
         <source>Open Album</source>
-        <translation/>
+        <translation>打开专辑</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="42"/>
@@ -213,7 +213,7 @@
     <message>
         <location filename="../../main.qml" line="54"/>
         <source>Remove From Queue</source>
-        <translation/>
+        <translation>从队列中移除</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="55"/>
@@ -258,12 +258,12 @@
     <message>
         <location filename="../../main.qml" line="66"/>
         <source>Alphabetically</source>
-        <translation/>
+        <translation>字母</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="67"/>
         <source>By Date</source>
-        <translation/>
+        <translation>按日期</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="69"/>
@@ -298,12 +298,12 @@
     <message>
         <location filename="../../main.qml" line="77"/>
         <source>Where is all the music?</source>
-        <translation/>
+        <translation>音乐都在哪里？</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="78"/>
         <source>Buy, download or copy your music onto your table, then you can enjoy listening to it from here.</source>
-        <translation/>
+        <translation>购买、下载或复制音乐至您的平板电脑，然后便可以在此聆听欣赏。</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="544"/>
@@ -339,7 +339,7 @@
         <location filename="../../main.qml" line="657"/>
         <location filename="../../main.qml" line="715"/>
         <source>Invalid Characters: %1</source>
-        <translation/>
+        <translation>无效的字符： %1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="867"/>
@@ -348,29 +348,29 @@
         <location filename="../../main.qml" line="1287"/>
         <location filename="../../main.qml" line="1585"/>
         <source>View By</source>
-        <translation/>
+        <translation>查看方式</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="895"/>
         <source>Actions</source>
-        <translation/>
+        <translation>操作</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1453"/>
         <source>Sort</source>
-        <translation/>
+        <translation>排序</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1717"/>
         <location filename="../../main.qml" line="2039"/>
         <source>%1 songs</source>
-        <translation/>
+        <translation>%1 曲目</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1729"/>
         <location filename="../../main.qml" line="2051"/>
         <source>%1 Seconds</source>
-        <translation/>
+        <translation>%1 秒钟</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1730"/>
@@ -382,7 +382,7 @@
         <location filename="../../main.qml" line="1731"/>
         <location filename="../../main.qml" line="2053"/>
         <source>%1 Hours</source>
-        <translation/>
+        <translation>%1 小时</translation>
     </message>
 </context>
 </TS>

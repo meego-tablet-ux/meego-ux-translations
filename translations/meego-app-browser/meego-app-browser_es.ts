@@ -23,7 +23,7 @@
         <extracomment>IDS_SESSION_CRASHED_VIEW_MESSAGE
 - description: Message shown when the last session didn't exit cleanly.
 </extracomment>
-        <translation>El navegador MeeGo no se ha cerrado correctamente. Para volver abrir la página que tenía abierta, haga clic en Restaurar.</translation>
+        <translation>Apagado incorrecto. Para abrir las páginas que estaba usando, haga clic en Restaurar.</translation>
     </message>
     <message>
         <location filename="id" line="1550207900"/>
@@ -72,7 +72,7 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="207"/>
         <source>Are you sure you want to delete this bookmark?</source>
-        <translation/>
+        <translation>¿Está seguro de querer borrar este marcador?</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="219"/>
@@ -82,7 +82,7 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Edit bookmark</source>
-        <translation/>
+        <translation>Editar marcador</translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>

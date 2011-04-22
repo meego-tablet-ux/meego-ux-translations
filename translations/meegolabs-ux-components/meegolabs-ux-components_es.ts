@@ -314,7 +314,7 @@
     <message>
         <location filename="../../Components/ToggleButton.qml" line="42"/>
         <source>On</source>
-        <translation>❘</translation>
+        <translation>|</translation>
     </message>
     <message>
         <location filename="../../Components/ToggleButton.qml" line="53"/>

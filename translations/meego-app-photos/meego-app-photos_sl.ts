@@ -205,7 +205,7 @@
     <message>
         <location filename="../../main.qml" line="45"/>
         <source>View by:</source>
-        <translation/>
+        <translation>Prikaži po:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="47"/>
@@ -240,7 +240,7 @@
     <message>
         <location filename="../../main.qml" line="492"/>
         <source>Album name</source>
-        <translation/>
+        <translation>Ime albuma</translation>
     </message>
 </context>
 </TS>

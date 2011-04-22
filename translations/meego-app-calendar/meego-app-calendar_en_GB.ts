@@ -4,52 +4,52 @@
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="26"/>
         <source>No reminder</source>
-        <translation/>
+        <translation>No reminder</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="27"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 minutes before</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="28"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 minutes before</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="29"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 minutes before</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="30"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 hour before</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="31"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 hours before</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="32"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 day before</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="33"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 days before</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="34"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 week before</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="35"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Other...</translation>
     </message>
 </context>
 <context>
@@ -63,7 +63,7 @@
     <message>
         <location filename="../../CalendarDayView.qml" line="176"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="407"/>
@@ -73,7 +73,7 @@
     <message>
         <location filename="../../CalendarDayView.qml" line="559"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -94,12 +94,12 @@
         <location filename="../../CalendarListView.qml" line="172"/>
         <location filename="../../CalendarListView.qml" line="192"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../CalendarListView.qml" line="192"/>
         <source>%1, </source>
-        <translation/>
+        <translation>%1, </translation>
     </message>
 </context>
 <context>
@@ -107,12 +107,12 @@
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="87"/>
         <source>All day: </source>
-        <translation/>
+        <translation>All day: </translation>
     </message>
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="124"/>
         <source>%1 more events...</source>
-        <translation/>
+        <translation>%1 more events...</translation>
     </message>
 </context>
 <context>
@@ -123,7 +123,7 @@
         <location filename="../../CalendarMonthView.qml" line="51"/>
         <location filename="../../CalendarMonthView.qml" line="63"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="170"/>
@@ -134,12 +134,12 @@
     <message>
         <location filename="../../CalendarMonthView.qml" line="172"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="534"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="578"/>
@@ -157,7 +157,7 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="175"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="334"/>
@@ -167,7 +167,7 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="496"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -239,7 +239,7 @@
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="122"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="185"/>
@@ -252,7 +252,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="86"/>
         <source>Check the date and time inputs</source>
-        <translation/>
+        <translation>Check the date and time inputs</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="156"/>
@@ -307,7 +307,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="941"/>
         <source>Time zone</source>
-        <translation/>
+        <translation>Time zone</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="983"/>
@@ -360,17 +360,17 @@
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="98"/>
         <source>Repeats forever</source>
-        <translation/>
+        <translation>Repeats forever</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="99"/>
         <source>Ends after number of times...</source>
-        <translation/>
+        <translation>Ends after number of times...</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="100"/>
         <source>Ends after date...</source>
-        <translation/>
+        <translation>Ends after date...</translation>
     </message>
 </context>
 <context>
@@ -378,37 +378,37 @@
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="27"/>
         <source>Never</source>
-        <translation/>
+        <translation>Never</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="28"/>
         <source>Every day</source>
-        <translation/>
+        <translation>Every day</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="29"/>
         <source>Every week</source>
-        <translation/>
+        <translation>Every week</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="30"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>Every 2 weeks</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="31"/>
         <source>Every month</source>
-        <translation/>
+        <translation>Every month</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="32"/>
         <source>Every year</source>
-        <translation/>
+        <translation>Every year</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="33"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Other...</translation>
     </message>
 </context>
 <context>
@@ -416,88 +416,88 @@
     <message>
         <location filename="../../lib/utilmethods.cpp" line="172"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="258"/>
         <source>No reminder</source>
-        <translation/>
+        <translation>No reminder</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="259"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 minutes before</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="260"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 minutes before</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="261"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 minutes before</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="262"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 hour before</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="263"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 hours before</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="264"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 day before</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="265"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 days before</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="266"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 week before</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="267"/>
         <location filename="../../lib/utilmethods.cpp" line="282"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Other...</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="276"/>
         <source>Never</source>
-        <translation/>
+        <translation>Never</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="277"/>
         <source>Every day</source>
-        <translation/>
+        <translation>Every day</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="278"/>
         <source>Every week</source>
-        <translation/>
+        <translation>Every week</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="279"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>Every 2 weeks</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="280"/>
         <source>Every month</source>
-        <translation/>
+        <translation>Every month</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="281"/>
         <source>Every year</source>
-        <translation/>
+        <translation>Every year</translation>
     </message>
 </context>
 <context>
@@ -505,17 +505,17 @@
     <message>
         <location filename="../../lib/viewcalendarmodel.cpp" line="29"/>
         <source>Day</source>
-        <translation/>
+        <translation>Day</translation>
     </message>
     <message>
         <location filename="../../lib/viewcalendarmodel.cpp" line="30"/>
         <source>Week</source>
-        <translation/>
+        <translation>Week</translation>
     </message>
     <message>
         <location filename="../../lib/viewcalendarmodel.cpp" line="31"/>
         <source>Month</source>
-        <translation/>
+        <translation>Month</translation>
     </message>
 </context>
 <context>
@@ -546,7 +546,7 @@
     <message>
         <location filename="../../main.qml" line="246"/>
         <source>%1, </source>
-        <translation/>
+        <translation>%1, </translation>
     </message>
     <message>
         <location filename="../../main.qml" line="246"/>
@@ -556,7 +556,7 @@
     <message>
         <location filename="../../main.qml" line="248"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="318"/>

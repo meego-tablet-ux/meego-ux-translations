@@ -15,7 +15,7 @@
         <extracomment>IDS_DEFAULT_BROWSER_INFOBAR_SHORT_TEXT
 - description: More compact text to show in the default browser query infobar.
 </extracomment>
-        <translation>Браузер MeeGo не является вашим браузером по умолчанию.</translation>
+        <translation>Браузер MeeGo не используется по умолчанию.</translation>
     </message>
     <message>
         <location filename="id" line="-209926424"/>
@@ -23,7 +23,7 @@
         <extracomment>IDS_SESSION_CRASHED_VIEW_MESSAGE
 - description: Message shown when the last session didn't exit cleanly.
 </extracomment>
-        <translation>Работа браузера MeeGo не была завершена надлежащим образом. Для повторного открытия имевшихся страниц нажмите Восстановить.</translation>
+        <translation>Работа не была завершена корректно. Чтобы открыть прежние страницы нажмите Восстановить.</translation>
     </message>
     <message>
         <location filename="id" line="1550207900"/>
@@ -72,7 +72,7 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="207"/>
         <source>Are you sure you want to delete this bookmark?</source>
-        <translation/>
+        <translation>Удалить эту закладку?</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="219"/>
@@ -82,7 +82,7 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Edit bookmark</source>
-        <translation/>
+        <translation>Изменить закладку</translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>

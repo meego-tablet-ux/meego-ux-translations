@@ -4,12 +4,12 @@
     <message>
         <location filename="../../statusindicatormenu.qml" line="206"/>
         <source>Notifications</source>
-        <translation/>
+        <translation>ការ​ផ្ដល់​ដំណឹង</translation>
     </message>
     <message>
         <location filename="../../statusindicatormenu.qml" line="213"/>
         <source>Clear</source>
-        <translation/>
+        <translation>សម្អាត</translation>
     </message>
 </context>
 <context>
@@ -17,12 +17,12 @@
     <message>
         <location filename="../../taskswitcher.qml" line="223"/>
         <source>Open</source>
-        <translation/>
+        <translation>បើក</translation>
     </message>
     <message>
         <location filename="../../taskswitcher.qml" line="223"/>
         <source>Close</source>
-        <translation/>
+        <translation>បោះ​បង់</translation>
     </message>
 </context>
 </TS>

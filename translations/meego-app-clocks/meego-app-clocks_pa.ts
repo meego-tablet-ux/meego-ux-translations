@@ -17,37 +17,37 @@
     <message>
         <location filename="../../NewAlarmMenu.qml" line="25"/>
         <source>Mo</source>
-        <translation/>
+        <translation>ਸੋਮ</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="26"/>
         <source>Tu</source>
-        <translation/>
+        <translation>ਮੰਗ</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="27"/>
         <source>We</source>
-        <translation/>
+        <translation>ਬੁੱਧ</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="28"/>
         <source>Th</source>
-        <translation/>
+        <translation>ਵੀ</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="29"/>
         <source>Fr</source>
-        <translation/>
+        <translation>ਸ਼ੁੱਕ</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="30"/>
         <source>Sa</source>
-        <translation/>
+        <translation>ਸ਼ਨਿ</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="31"/>
         <source>Su</source>
-        <translation/>
+        <translation>ਐਤ</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="33"/>
@@ -173,36 +173,36 @@
     <message>
         <location filename="../../main.qml" line="378"/>
         <source>Alarm details</source>
-        <translation/>
+        <translation>ਅਲਾਰਮ ਵੇਰਵਾ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="378"/>
         <source>Delete alarm</source>
-        <translation/>
+        <translation>ਅਲਾਰਮ ਹਟਾਓ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="378"/>
         <location filename="../../main.qml" line="396"/>
         <source>Move to top</source>
-        <translation/>
+        <translation>ਉੱਤੇ ਭੇਜੋ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Edit clock</source>
-        <translation/>
+        <translation>ਘੜੀ ਸੋਧ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Make local time</source>
-        <translation/>
+        <translation>ਲੋਕਲ ਸਮਾਂ ਬਣਾਓ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="387"/>
         <location filename="../../main.qml" line="396"/>
         <source>Delete clock</source>
-        <translation/>
+        <translation>ਘੜੀ ਹਟਾਓ</translation>
     </message>
 </context>
 </TS>

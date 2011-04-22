@@ -20,7 +20,8 @@
         <location filename="../../plugin/IM/AccountContent.qml" line="190"/>
         <source>There is already an account configured using this login. 
 Please check your username.</source>
-        <translation/>
+        <translation>Учетная запись для этого имени пользователя уже сконфигурирована.  
+Проверьте свое имя пользователя.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="191"/>
@@ -37,7 +38,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="218"/>
         <source>Name / ID</source>
-        <translation/>
+        <translation>Имя / ИД</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="226"/>
@@ -294,7 +295,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="279"/>
         <source>Invalidated text channel  %1 - %2 - %3</source>
-        <translation/>
+        <translation>Непроверенный текстовый канал %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="284"/>
@@ -498,7 +499,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactsDelegate.qml" line="99"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>Удалить контакт</translation>
     </message>
 </context>
 <context>
@@ -774,7 +775,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../IncomingCall.qml" line="16"/>
         <source>Incoming Call</source>
-        <translation/>
+        <translation>Входящий звонок</translation>
     </message>
     <message>
         <location filename="../../IncomingCall.qml" line="19"/>

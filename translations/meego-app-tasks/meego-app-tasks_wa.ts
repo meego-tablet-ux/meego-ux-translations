@@ -130,62 +130,62 @@
     <message>
         <location filename="../../TasksDetailMenu.qml" line="48"/>
         <source>Insert task name</source>
-        <translation/>
+        <translation>Tapez l&apos; no del bouye</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="59"/>
         <source>List:</source>
-        <translation/>
+        <translation>Lisse :</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="114"/>
         <source>Due date:</source>
-        <translation/>
+        <translation>Date do termene :</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="127"/>
         <source>Date</source>
-        <translation/>
+        <translation>Date</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="128"/>
         <source>Someday</source>
-        <translation/>
+        <translation>On djoû</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="135"/>
         <source>Set due date</source>
-        <translation/>
+        <translation>Defini l&apos; date do termene</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="155"/>
         <source>Notes</source>
-        <translation/>
+        <translation>Rawetes di tecse</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="163"/>
         <source>Add a note here</source>
-        <translation/>
+        <translation>Radjouter ene rawete cial</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="170"/>
         <source>Delete task</source>
-        <translation/>
+        <translation>Disfacer bouye</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="191"/>
         <source>Edit</source>
-        <translation/>
+        <translation>Candjî</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="203"/>
         <source>Save</source>
-        <translation/>
+        <translation>Schaper</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="215"/>
         <source>Close</source>
-        <translation/>
+        <translation>Clôre</translation>
     </message>
 </context>
 <context>
@@ -193,7 +193,7 @@
     <message>
         <location filename="../../TasksDetailWindow.qml" line="13"/>
         <source>If you see me, something is very wrong!</source>
-        <translation/>
+        <translation>Si vos m&apos; voeyoz c&apos; est k&apos; i gn a ene sacwè vormint halcrosse ! </translation>
     </message>
 </context>
 <context>
@@ -365,17 +365,17 @@
     <message>
         <location filename="../../main.qml" line="834"/>
         <source>Are you sure you want to delete the completed tasks?</source>
-        <translation/>
+        <translation>Voloz vs disfacer des bouyes totes fwaites po do bon ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="835"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Oyi</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="836"/>
         <source>No</source>
-        <translation/>
+        <translation>Nonna</translation>
     </message>
 </context>
 </TS>

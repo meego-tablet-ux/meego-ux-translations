@@ -48,7 +48,7 @@
     <message>
         <location filename="../../EditableStringListView.qml" line="50"/>
         <source>+ Add new item</source>
-        <translation/>
+        <translation>+ Ajouter un nouvel élement</translation>
     </message>
     <message>
         <location filename="../../EditableStringListView.qml" line="79"/>
@@ -61,17 +61,17 @@
     <message>
         <location filename="../../TaskListPicker.qml" line="84"/>
         <source>Create a new list</source>
-        <translation/>
+        <translation>Créer une nouvelle liste</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="101"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="102"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="105"/>
@@ -109,12 +109,12 @@
     <message>
         <location filename="../../TaskListView.qml" line="424"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Oui</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="425"/>
         <source>No</source>
-        <translation/>
+        <translation>Non</translation>
     </message>
 </context>
 <context>
@@ -145,7 +145,7 @@
     <message>
         <location filename="../../TasksDetailMenu.qml" line="127"/>
         <source>Date</source>
-        <translation/>
+        <translation>Date</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="128"/>
@@ -160,7 +160,7 @@
     <message>
         <location filename="../../TasksDetailMenu.qml" line="155"/>
         <source>Notes</source>
-        <translation/>
+        <translation>Notes</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="163"/>
@@ -175,17 +175,17 @@
     <message>
         <location filename="../../TasksDetailMenu.qml" line="191"/>
         <source>Edit</source>
-        <translation/>
+        <translation>Modifier</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="203"/>
         <source>Save</source>
-        <translation/>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="215"/>
         <source>Close</source>
-        <translation/>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
@@ -355,7 +355,7 @@
     <message>
         <location filename="../../main.qml" line="514"/>
         <source>You can create a new list using the action menu</source>
-        <translation/>
+        <translation>Vous pouvez créer une nouvelle liste en utilisant le menu action</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="745"/>
@@ -370,12 +370,12 @@
     <message>
         <location filename="../../main.qml" line="835"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Oui</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="836"/>
         <source>No</source>
-        <translation/>
+        <translation>Non</translation>
     </message>
 </context>
 </TS>

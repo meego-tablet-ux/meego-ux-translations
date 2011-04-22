@@ -5,50 +5,50 @@
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="54"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="59"/>
         <source>Disconnect Audio</source>
-        <translation/>
+        <translation>Desconeutar audio</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="54"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <source>Connect Audio</source>
-        <translation/>
+        <translation>Coneutar audio</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="83"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="89"/>
         <source>Disconnect</source>
-        <translation/>
+        <translation>Desconeutar</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="83"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="93"/>
         <source>Connect</source>
-        <translation/>
+        <translation>Coneutar</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="113"/>
         <source>Disconnect Internet</source>
-        <translation/>
+        <translation>Desconeutar internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="113"/>
         <source>Connect Internet</source>
-        <translation/>
+        <translation>Coneutar internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="168"/>
         <source>Connect Actions</source>
-        <translation/>
+        <translation>Aiciones de conexón</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="216"/>
         <source>Manage</source>
-        <translation/>
+        <translation>Xestionar</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="223"/>
         <source>Remove</source>
-        <translation/>
+        <translation>Desaniciar</translation>
     </message>
 </context>
 <context>
@@ -57,32 +57,32 @@
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="16"/>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="64"/>
         <source>Bluetooth</source>
-        <translation/>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="42"/>
         <source>No bluetooth adapter present</source>
-        <translation/>
+        <translation>Nun hai dengún adautador Bluetooth</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="98"/>
         <source>Discoverable</source>
-        <translation/>
+        <translation>Reconocible</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="109"/>
         <source>Discoverable for %1 seconds</source>
-        <translation/>
+        <translation>Reconocible durante %1 segundos</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="155"/>
         <source>Paired Devices</source>
-        <translation/>
+        <translation>Preseos empareyaos</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="168"/>
         <source>Add Device</source>
-        <translation/>
+        <translation>Amestar preséu</translation>
     </message>
 </context>
 <context>
@@ -90,24 +90,24 @@
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="14"/>
         <source>Bookmarks</source>
-        <translation/>
+        <translation>Marcadores</translation>
     </message>
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="32"/>
         <location filename="../../Browser/BookmarkGroup.qml" line="50"/>
         <source>Always show</source>
-        <translation/>
+        <translation>Amosar siempre</translation>
     </message>
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="37"/>
         <location filename="../../Browser/BookmarkGroup.qml" line="55"/>
         <source>Never show</source>
-        <translation/>
+        <translation>Enxamás amosar</translation>
     </message>
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="46"/>
         <source>Always show bookmarks bar</source>
-        <translation/>
+        <translation>Amosar siempre barra de marcadores</translation>
     </message>
 </context>
 <context>
@@ -115,17 +115,17 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="106"/>
         <source>Restore to default</source>
-        <translation/>
+        <translation>Restaurar a predefinío</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="118"/>
         <source>Restore to default?</source>
-        <translation/>
+        <translation>Restaurar a predefinío?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="119"/>
         <source>Are you sure you want to restore default settings?</source>
-        <translation/>
+        <translation>Daveres que quies restaurar a los axustes predefiníos?</translation>
     </message>
 </context>
 <context>
@@ -133,43 +133,43 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="8"/>
         <source>Cellular Settings</source>
-        <translation/>
+        <translation>Axustes del móvil</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="31"/>
         <source>Manual APN Entry</source>
-        <translation/>
+        <translation>Manual APN Entry</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="61"/>
         <source>Country</source>
-        <translation/>
+        <translation>País</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="78"/>
         <source>Provider</source>
-        <translation/>
+        <translation>Fornidor</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="93"/>
         <location filename="../../Wifi/CellularSettings.qml" line="115"/>
         <source>APN</source>
-        <translation/>
+        <translation>APN</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="126"/>
         <source>Username</source>
-        <translation/>
+        <translation>Nome d&apos;usuariu</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="137"/>
         <source>Password</source>
-        <translation/>
+        <translation>Contraseña</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="149"/>
         <source>Apply</source>
-        <translation/>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -177,7 +177,7 @@
     <message>
         <location filename="../../Browser/CheckboxButton.qml" line="13"/>
         <source>Radio Button</source>
-        <translation/>
+        <translation>Botón d&apos;escoyeta</translation>
     </message>
 </context>
 <context>
@@ -185,22 +185,22 @@
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="58"/>
         <source>Confirm Dialog</source>
-        <translation/>
+        <translation>Diálogu de confirmación</translation>
     </message>
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="72"/>
         <source>Are you sure?</source>
-        <translation/>
+        <translation>¿De xuru?</translation>
     </message>
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="93"/>
         <source>OK</source>
-        <translation/>
+        <translation>Aceutar</translation>
     </message>
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="104"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
 </context>
 <context>
@@ -208,52 +208,52 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="17"/>
         <source>Connections</source>
-        <translation/>
+        <translation>Conexones</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="21"/>
         <source>Ethernet</source>
-        <translation/>
+        <translation>Ethernet</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="22"/>
         <source>Wi-Fi</source>
-        <translation/>
+        <translation>Wi-Fi</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="23"/>
         <source>Bluetooth</source>
-        <translation/>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="24"/>
         <source>3G</source>
-        <translation/>
+        <translation>3G</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="25"/>
         <source>WiMAX</source>
-        <translation/>
+        <translation>WiMAX</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="61"/>
         <source>Airplane Mode</source>
-        <translation/>
+        <translation>Mou vuelu</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="87"/>
         <source>Network Connections</source>
-        <translation/>
+        <translation>Conexones de rede</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="185"/>
         <source>Available Networks</source>
-        <translation/>
+        <translation>Conexones disponibles</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="185"/>
         <source>No networks available</source>
-        <translation/>
+        <translation>Nun hai conexones disponibles</translation>
     </message>
 </context>
 <context>
@@ -261,27 +261,27 @@
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="14"/>
         <source>Content Settings</source>
-        <translation/>
+        <translation>Axustes de conteníu</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="90"/>
         <source>Allow JavaScript to run</source>
-        <translation/>
+        <translation>Permitir executar JavaScript</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="106"/>
         <source>Allow Popups</source>
-        <translation/>
+        <translation>Permitir Popups</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="120"/>
         <source>Allow Cookies</source>
-        <translation/>
+        <translation>Permitir Cookies</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="134"/>
         <source>Allow Images</source>
-        <translation/>
+        <translation>Permitir Imaxes</translation>
     </message>
 </context>
 <context>
@@ -289,7 +289,7 @@
     <message>
         <location filename="../../Browser/GroupBox.qml" line="87"/>
         <source>group</source>
-        <translation/>
+        <translation>grupu</translation>
     </message>
 </context>
 <context>
@@ -297,24 +297,24 @@
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="14"/>
         <source>Home Page</source>
-        <translation/>
+        <translation>Páxina d&apos;aniciu</translation>
     </message>
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="32"/>
         <location filename="../../Browser/HomePageGroup.qml" line="53"/>
         <location filename="../../Browser/HomePageGroup.qml" line="62"/>
         <source>New tab page</source>
-        <translation/>
+        <translation>Llingüeta nueva</translation>
     </message>
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="50"/>
         <source>Use the new tab page as home page</source>
-        <translation/>
+        <translation>Usar la llingüeta nueva como páxina d&apos;aniciu</translation>
     </message>
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="70"/>
         <source>Open this page: </source>
-        <translation/>
+        <translation>Abrir esta páxina: </translation>
     </message>
 </context>
 <context>
@@ -322,12 +322,12 @@
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="15"/>
         <source>Language Settings</source>
-        <translation/>
+        <translation>Axustes de llingua</translation>
     </message>
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="40"/>
         <source>Language:</source>
-        <translation/>
+        <translation>Llingua:</translation>
     </message>
 </context>
 <context>
@@ -335,32 +335,32 @@
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="45"/>
         <source>Google Account</source>
-        <translation/>
+        <translation>Cuenta de Google</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="69"/>
         <source>Email:</source>
-        <translation/>
+        <translation>Corréu-e:</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="95"/>
         <source>Password:</source>
-        <translation/>
+        <translation>Contraseña:</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="126"/>
         <source>OK</source>
-        <translation/>
+        <translation>Aceutar</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="131"/>
         <source>Please enter your email address and password</source>
-        <translation/>
+        <translation>Escribi&apos;l to corréu-e y contraseña</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="140"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
 </context>
 <context>
@@ -369,103 +369,103 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="198"/>
         <source>completed</source>
         <extracomment>Status message: successfully completed sync job. (PLACEHOLDER)</extracomment>
-        <translation/>
+        <translation>completáu</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="205"/>
         <source>finished</source>
         <extracomment>Sync finished with potential(?) error.</extracomment>
-        <translation/>
+        <translation>fináu</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="210"/>
         <source>internal error</source>
         <extracomment>Internal error occurred during sync.</extracomment>
-        <translation/>
+        <translation>fallu internu</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="215"/>
         <source>authentication failure</source>
         <extracomment>Authentication failure occurred during sync.</extracomment>
-        <translation/>
+        <translation>fallu d&apos;autenticación</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="221"/>
         <source>database failure</source>
         <extracomment>Database access error occurred during sync.</extracomment>
-        <translation/>
+        <translation>fallu de base de datos</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="226"/>
         <source>suspended</source>
         <extracomment>Sync job suspended.</extracomment>
-        <translation/>
+        <translation>suspendíu</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="231"/>
         <source>aborted</source>
         <extracomment>Sync job aborted.</extracomment>
-        <translation/>
+        <translation>albortáu</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="237"/>
         <source>connection error</source>
         <extracomment>Connection to remote sync service failed during sync.</extracomment>
-        <translation/>
+        <translation>fallu de conexón</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="243"/>
         <source>invalid syncml message</source>
         <extracomment>Invalid syncml message/request submitted during sync.</extracomment>
-        <translation/>
+        <translation>mensaje syncml non válidu</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="249"/>
         <source>unsupported sync type</source>
         <extracomment>Unsupported sync type (manual or auto?)</extracomment>
-        <translation/>
+        <translation>triba de sincronización incompatible</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="255"/>
         <source>unsupported storage type</source>
         <extracomment>&quot;Storage&quot; refers to contacts, calendar, etc.</extracomment>
-        <translation/>
+        <translation>triba d&apos;almacenamientu incompatible</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="264"/>
         <source>other</source>
         <extracomment>Unknown error occurred during sync.</extracomment>
-        <translation/>
+        <translation>otru</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="299"/>
         <source>Last sync %1</source>
         <extracomment>Arg 1 is a &quot;fuzzy time&quot;, e.g. &quot;2 min ago&quot;.</extracomment>
-        <translation/>
+        <translation>Cabera sincronización %1</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="305"/>
         <source>Last sync failed: %1</source>
         <extracomment>Arg 1 is a brief sync error description, e.g. &quot;connection failed&quot;.</extracomment>
-        <translation/>
+        <translation>Falló la cabera sincronización: %1</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="433"/>
         <source>Sync request queued</source>
         <extracomment>Status message: sync request/job has been queued</extracomment>
-        <translation/>
+        <translation>Solicitú de sincronización en cola</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="439"/>
         <source>Sync started</source>
         <extracomment>Status message: sync job started</extracomment>
-        <translation/>
+        <translation>Sincronización aniciada</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="445"/>
         <source>Syncing now...</source>
         <extracomment>Status message: Sync in-progress</extracomment>
-        <translation/>
+        <translation>Sincronizando agora...</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="457"/>
@@ -474,61 +474,61 @@
         <extracomment>Status message: Sync job completed
 ----------
 Status message: successfully completed sync job.</extracomment>
-        <translation/>
+        <translation>Sincronización completada</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="463"/>
         <source>Sync aborted</source>
         <extracomment>Sync explicitly stopped.</extracomment>
-        <translation/>
+        <translation>Sincronización encaboxada</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="470"/>
         <source>Unknown sync status</source>
         <extracomment>Status message: Displayed when an unknown/unhandled error occurs.</extracomment>
-        <translation/>
+        <translation>Estatus de sincronización desconocíu</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="496"/>
         <source>Sync failed: %1</source>
         <extracomment>Sync result message. The argument provides the error details.</extracomment>
-        <translation/>
+        <translation>Fallu de sincronización: %1</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="571"/>
         <source>Unable to update sync profile</source>
         <extracomment>Failed to update and store sync account/profile info on disk.</extracomment>
-        <translation/>
+        <translation>Nun se pue anovar el perfil de sincronización</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="601"/>
         <source>Sync scheduling failed</source>
         <extracomment>Attempt to set automatic sync schedule failed.</extracomment>
-        <translation/>
+        <translation>Fallu al programar sincronización</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="643"/>
         <source>Unable to forget sync account!</source>
         <extracomment>Displayed when removal of sync account information fails.</extracomment>
-        <translation/>
+        <translation>Nun pue escaecese la cuenta de sincronización</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="659"/>
         <source>Failed to store credentials</source>
         <extracomment>Internal error. Failed to store user supplied credentials in DB.</extracomment>
-        <translation/>
+        <translation>Fallu al almacenar credenciales</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="663"/>
         <source>Failed to clear credentials</source>
         <extracomment>Displayed when clearing stored sync account credentials fails.</extracomment>
-        <translation/>
+        <translation>Fallu al desaniciar credenciales</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="667"/>
         <source>Unknown credentials error</source>
         <extracomment>We're really not expecting any other kinds of cred errors.</extracomment>
-        <translation/>
+        <translation>Fallu de credenciales desconocíu</translation>
     </message>
 </context>
 <context>
@@ -536,7 +536,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/NearbyDevices.qml" line="15"/>
         <source>Add New Device</source>
-        <translation/>
+        <translation>Amestar preséu nuevu</translation>
     </message>
 </context>
 <context>
@@ -544,7 +544,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="14"/>
         <source>Networking Proxy</source>
-        <translation/>
+        <translation>Proxy de rede</translation>
     </message>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="31"/>
@@ -552,12 +552,12 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="51"/>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="55"/>
         <source>No Proxy</source>
-        <translation/>
+        <translation>Ensin proxy</translation>
     </message>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="68"/>
         <source>Use Http Proxy</source>
-        <translation/>
+        <translation>Usar proxy http</translation>
     </message>
 </context>
 <context>
@@ -565,7 +565,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="17"/>
         <source>Panels</source>
-        <translation/>
+        <translation>Paneles</translation>
     </message>
 </context>
 <context>
@@ -573,7 +573,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/PasswordGroup.qml" line="13"/>
         <source>Passwords</source>
-        <translation/>
+        <translation>Contraseñes</translation>
     </message>
     <message>
         <location filename="../../Browser/PasswordGroup.qml" line="33"/>
@@ -582,7 +582,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/PasswordGroup.qml" line="58"/>
         <location filename="../../Browser/PasswordGroup.qml" line="72"/>
         <source>Offer to save passwords</source>
-        <translation/>
+        <translation>Ufrir guardar contraseñes</translation>
     </message>
     <message>
         <location filename="../../Browser/PasswordGroup.qml" line="37"/>
@@ -591,7 +591,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/PasswordGroup.qml" line="69"/>
         <location filename="../../Browser/PasswordGroup.qml" line="79"/>
         <source>Never save passwords</source>
-        <translation/>
+        <translation>Nun guardar enxamás les contraseñes</translation>
     </message>
 </context>
 <context>
@@ -599,7 +599,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="16"/>
         <source>Personalize</source>
-        <translation/>
+        <translation>Personalizar</translation>
     </message>
 </context>
 <context>
@@ -607,62 +607,62 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="15"/>
         <source>Privacy</source>
-        <translation/>
+        <translation>Privacidá</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="25"/>
         <source>Clear Data?</source>
-        <translation/>
+        <translation>¿Desaniciar datos?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="58"/>
         <source>Clear Browsing History</source>
-        <translation/>
+        <translation>Desaniciar historial de navegación</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="61"/>
         <source>Are you sure about clearing the browsing history?</source>
-        <translation/>
+        <translation>¿De xuru que quies desaniciar l&apos;historial de navegación?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="71"/>
         <source>Clear Download History</source>
-        <translation/>
+        <translation>Desaniciar historial de descargues</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="74"/>
         <source>Are you sure about clearing the download history?</source>
-        <translation/>
+        <translation>¿De xuru que quies desaniciar l&apos;historial de descargues?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="84"/>
         <source>Clear Cookies and Site Data</source>
-        <translation/>
+        <translation>Desaniciar cookies y datos de sitios</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="87"/>
         <source>Are you sure about clearing your cookies?</source>
-        <translation/>
+        <translation>¿De xuru que quies desaniciar les cookies y datos de sitios?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="97"/>
         <source>Clear Caches</source>
-        <translation/>
+        <translation>Llimpiar cachés</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="100"/>
         <source>Are you sure about clearing your caches?</source>
-        <translation/>
+        <translation>¿Daveres que quies llimpiar les cachés?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="109"/>
         <source>Clear Saved Passwords</source>
-        <translation/>
+        <translation>Desaniciar contraseñes guardaes</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="113"/>
         <source>Are you sure about clearing your saved passwords?</source>
-        <translation/>
+        <translation>¿Daveres que quies desaniciar les contraseñes guardaes?</translation>
     </message>
 </context>
 <context>
@@ -670,7 +670,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/RadioButton.qml" line="13"/>
         <source>Radio Button</source>
-        <translation/>
+        <translation>Botón d&apos;escoyeta</translation>
     </message>
 </context>
 <context>
@@ -678,17 +678,17 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="31"/>
         <source>Pair with %1 with key %2?</source>
-        <translation/>
+        <translation>Emparexar con %1 con clave %2?</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="45"/>
         <source>Accept</source>
-        <translation/>
+        <translation>Aceutar</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="56"/>
         <source>Reject</source>
-        <translation/>
+        <translation>Refugar</translation>
     </message>
 </context>
 <context>
@@ -696,12 +696,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="24"/>
         <source>Enter the following code on %1</source>
-        <translation/>
+        <translation>Introduz el códigu siguiente en %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="40"/>
         <source>Accept</source>
-        <translation/>
+        <translation>Aceutar</translation>
     </message>
 </context>
 <context>
@@ -709,12 +709,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="21"/>
         <source>Enter passcode to use:</source>
-        <translation/>
+        <translation>Introduz el códigu d&apos;accesu a usar:</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="37"/>
         <source>Accept</source>
-        <translation/>
+        <translation>Aceutar</translation>
     </message>
 </context>
 <context>
@@ -722,12 +722,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/SearchGroup.qml" line="13"/>
         <source>Search Engine</source>
-        <translation/>
+        <translation>Motor de gueta</translation>
     </message>
     <message>
         <location filename="../../Browser/SearchGroup.qml" line="17"/>
         <source>Google</source>
-        <translation/>
+        <translation>Google</translation>
     </message>
 </context>
 <context>
@@ -735,17 +735,17 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/SetTimezoneMenu.qml" line="123"/>
         <source>GMT</source>
-        <translation/>
+        <translation>GMT</translation>
     </message>
     <message>
         <location filename="../../TimeDate/SetTimezoneMenu.qml" line="164"/>
         <source>Ok</source>
-        <translation/>
+        <translation>Aceutar</translation>
     </message>
     <message>
         <location filename="../../TimeDate/SetTimezoneMenu.qml" line="183"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
 </context>
 <context>
@@ -753,31 +753,31 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="14"/>
         <source>On Startup</source>
-        <translation/>
+        <translation>Al aniciar</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="31"/>
         <location filename="../../Browser/StartupGroup.qml" line="48"/>
         <location filename="../../Browser/StartupGroup.qml" line="57"/>
         <source>Open home page</source>
-        <translation/>
+        <translation>Abrir páxina d&apos;aniciu</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="37"/>
         <location filename="../../Browser/StartupGroup.qml" line="68"/>
         <location filename="../../Browser/StartupGroup.qml" line="78"/>
         <source>Reopen pages open last</source>
-        <translation/>
+        <translation>Reabrir les caberes páxines abiertes</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="45"/>
         <source>Open the home page</source>
-        <translation/>
+        <translation>Abrir la páxina d&apos;aniciu</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="65"/>
         <source>Reopen the pages that were open last</source>
-        <translation/>
+        <translation>Reabrir les páxines abiertes la cabera vegada</translation>
     </message>
 </context>
 <context>
@@ -785,27 +785,27 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="123"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="142"/>
         <source>Sync now</source>
-        <translation/>
+        <translation>Sincronizara agora</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="165"/>
         <source>Sync %1</source>
-        <translation/>
+        <translation>Sincronizar %1</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="204"/>
         <source>Sync account details</source>
-        <translation/>
+        <translation>Sincronizar detalles de la cuenta</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="221"/>
         <source>Forget this</source>
-        <translation/>
+        <translation>Escaecer esto</translation>
     </message>
 </context>
 <context>
@@ -813,59 +813,59 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="15"/>
         <source>Sync</source>
-        <translation/>
+        <translation>Sincronizar</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="19"/>
         <location filename="../../Browser/SyncGroup.qml" line="176"/>
         <source>Not set up yet</source>
-        <translation/>
+        <translation>Aínda ensin configurar</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="32"/>
         <source>Stop Syncing</source>
-        <translation/>
+        <translation>Interrumpir sincronización</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="34"/>
         <source>Are you sure about stopping this account from syncing?</source>
-        <translation/>
+        <translation>¿Daveres que quies encaboxar la sincronización d&apos;esta cuenta?</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="79"/>
         <location filename="../../Browser/SyncGroup.qml" line="168"/>
         <source>You are not set up sync your browser data with another computer.</source>
-        <translation/>
+        <translation>Nun se definió sincronización de datos del restolador con otru equipu.</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="183"/>
         <source>%1 %2 </source>
-        <translation/>
+        <translation>%1 %2 </translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="198"/>
         <source>Invalid username or password.</source>
-        <translation/>
+        <translation>Nome d&apos;usuariu o contraseña inválidos</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="210"/>
         <source>Please wait for a moment ...</source>
-        <translation/>
+        <translation>Por favor, aguarda un momentu...</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="218"/>
         <source>Syncing now...</source>
-        <translation/>
+        <translation>Sincronizar agora...</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="225"/>
         <source>Synced to %1. Last synced: %2</source>
-        <translation/>
+        <translation>Sincronizáu pa %1. Cabera sincronización: %2</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="233"/>
         <source>Last synced time: %1</source>
-        <translation/>
+        <translation>Hora de cabera sincronización: %1</translation>
     </message>
 </context>
 <context>
@@ -873,7 +873,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/SyncList.qml" line="43"/>
         <source>Sync %1</source>
-        <translation/>
+        <translation>Sincronizar %1</translation>
     </message>
 </context>
 <context>
@@ -881,7 +881,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/SyncListDelegate.qml" line="133"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -889,32 +889,32 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="42"/>
         <source>(ex: foo@example.com)</source>
-        <translation/>
+        <translation>(ex: foo@example.com)</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="45"/>
         <source>Username %1</source>
-        <translation/>
+        <translation>Nome d&apos;usuariu %1</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="73"/>
         <source>Password</source>
-        <translation/>
+        <translation>Contraseña</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="123"/>
         <source>Sign in</source>
-        <translation/>
+        <translation>Aniciar sesión</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="125"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="127"/>
         <source>Sign in to your %1 account</source>
-        <translation/>
+        <translation>Conetase a la cuenta %1</translation>
     </message>
 </context>
 <context>
@@ -922,7 +922,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/SyncMain.qml" line="16"/>
         <source>Sync Settings</source>
-        <translation/>
+        <translation>Axustes de sincronización</translation>
     </message>
 </context>
 <context>
@@ -930,7 +930,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/TextBox.qml" line="51"/>
         <source>Text</source>
-        <translation/>
+        <translation>Testu</translation>
     </message>
 </context>
 <context>
@@ -938,58 +938,58 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="16"/>
         <source>Time and Date</source>
-        <translation/>
+        <translation>Data y hora</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="41"/>
         <source>What time it is</source>
-        <translation/>
+        <translation>Qué hora ye</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="109"/>
         <source>24 hour clock</source>
-        <translation/>
+        <translation>Reló de 24 hores</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="137"/>
         <source>Set date and time automatically</source>
-        <translation/>
+        <translation>Afitar data y hora automáticamente</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="165"/>
         <source>Where you are</source>
-        <translation/>
+        <translation>Aú tas</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="184"/>
         <source>Current Timezone is %1</source>
-        <translation/>
+        <translation>La estaya horaria actual ye %1</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="201"/>
         <source>Find me and keep my location updated</source>
-        <translation/>
+        <translation>Llocalizáime y caltener anovada la mio llocalización</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="215"/>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="263"/>
         <source>Current Timezone is </source>
-        <translation/>
+        <translation>La estaya horaria actual ye</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="229"/>
         <source>Manual time zone selection</source>
-        <translation/>
+        <translation>Seleición manual d&apos;estaya horaria</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="248"/>
         <source>Set Time Zone</source>
-        <translation/>
+        <translation>Afitar estaya horaria</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="268"/>
         <source>Unable to set timezone manually</source>
-        <translation/>
+        <translation>Nun ye posible afita la estaya horaria manualmente</translation>
     </message>
 </context>
 <context>
@@ -997,7 +997,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Volume/VolumeSettings.qml" line="14"/>
         <source>Sound</source>
-        <translation/>
+        <translation>Soníu</translation>
     </message>
 </context>
 <context>
@@ -1005,12 +1005,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Personalize/WallpaperTools.qml" line="28"/>
         <source>Pick a color</source>
-        <translation/>
+        <translation>Seleiciona un color</translation>
     </message>
     <message>
         <location filename="../../Personalize/WallpaperTools.qml" line="39"/>
         <source>Pick a photo</source>
-        <translation/>
+        <translation>Seleiciona una semeya</translation>
     </message>
 </context>
 <context>
@@ -1018,140 +1018,140 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="40"/>
         <source>WPA</source>
-        <translation/>
+        <translation>WPA</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="41"/>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="44"/>
         <source>WPA2</source>
-        <translation/>
+        <translation>WPA2</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="42"/>
         <source>WEP</source>
-        <translation/>
+        <translation>WEP</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="43"/>
         <source>RADIUS</source>
-        <translation/>
+        <translation>RADIUS</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="47"/>
         <source>DHCP</source>
-        <translation/>
+        <translation>DHCP</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="48"/>
         <source>Static</source>
-        <translation/>
+        <translation>Estática</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="120"/>
         <source>Failed to Connect</source>
-        <translation/>
+        <translation>Fallu de conexón</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="123"/>
         <source>Associating</source>
-        <translation/>
+        <translation>Asociando</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="127"/>
         <source>Configuring</source>
-        <translation/>
+        <translation>Configurando</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="131"/>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="135"/>
         <source>Connected</source>
-        <translation/>
+        <translation>Coneutáu</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="168"/>
         <source>Do you want to remove %1 ?
 This action will forget any passwords and you will no longer be automatically connected to %2</source>
-        <translation/>
+        <translation>¿Quies desaniciar %1? Con esta aición escaeceránse toless contraseñes y yá nun podrás coneutate automáticamente a %2</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="180"/>
         <source>Yes, Delete</source>
-        <translation/>
+        <translation>Sí, desaniciar</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="192"/>
         <source>No, Save</source>
-        <translation/>
+        <translation>Non, guardar</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="216"/>
         <source>Disconnect</source>
-        <translation/>
+        <translation>Desconeutar</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="227"/>
         <source>Remove Connection</source>
-        <translation/>
+        <translation>Desaniciar conexón</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="238"/>
         <source>Connect by:</source>
-        <translation/>
+        <translation>Coneutar por:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="259"/>
         <source>IP Address:</source>
-        <translation/>
+        <translation>Direición IP:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="278"/>
         <source>Subnet Mask:</source>
-        <translation/>
+        <translation>Mázcara de sorrede:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="296"/>
         <source>Gateway</source>
-        <translation/>
+        <translation>Puerta d&apos;enllaz</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="313"/>
         <source>DNS:</source>
-        <translation/>
+        <translation>DNS:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="331"/>
         <source>Hardware Address:</source>
-        <translation/>
+        <translation>Direición de hardware</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="340"/>
         <source>Apply</source>
-        <translation/>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="354"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Encaboxar</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="384"/>
         <source>Type password here</source>
-        <translation/>
+        <translation>Escribi equí la contraseña</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="395"/>
         <source>Setup</source>
-        <translation/>
+        <translation>Configuración</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="406"/>
         <source>Connect</source>
-        <translation/>
+        <translation>Coneutar</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="434"/>
         <source>Show Password</source>
-        <translation/>
+        <translation>Amosar la contraseña</translation>
     </message>
 </context>
 <context>
@@ -1159,12 +1159,12 @@ This action will forget any passwords and you will no longer be automatically co
     <message>
         <location filename="../../main.qml" line="16"/>
         <source>All Settings</source>
-        <translation/>
+        <translation>Tolos axustes</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="104"/>
         <source>Settings</source>
-        <translation/>
+        <translation>Axustes</translation>
     </message>
 </context>
 </TS>

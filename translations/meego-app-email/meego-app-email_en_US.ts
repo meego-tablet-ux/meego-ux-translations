@@ -137,7 +137,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="70"/>
         <source>Update:</source>
-        <translation/>
+        <translation>Update:</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="120"/>
@@ -234,7 +234,7 @@
         <location filename="../../AddRecipient.qml" line="45"/>
         <source>Select &quot;%1&quot; recipient</source>
         <extracomment>The contact (e-mail recipient) picker title.</extracomment>
-        <translation/>
+        <translation>Select &quot;%1&quot; recipient</translation>
     </message>
 </context>
 <context>
@@ -447,19 +447,19 @@
         <location filename="../../EmailHeader.qml" line="105"/>
         <source>To</source>
         <extracomment>The &quot;to&quot; recipient label.</extracomment>
-        <translation/>
+        <translation>To</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="130"/>
         <source>Cc</source>
         <extracomment>The Cc (carbon copy) label.</extracomment>
-        <translation/>
+        <translation>Cc</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="154"/>
         <source>Bcc</source>
         <extracomment>The Bcc (blind carbon copy) label.</extracomment>
-        <translation/>
+        <translation>Bcc</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="187"/>
@@ -488,12 +488,12 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="148"/>
         <source>(%1)</source>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="160"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -563,7 +563,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="171"/>
         <source>There are no messages in this folder.</source>
-        <translation/>
+        <translation>There are no messages in this folder.</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="210"/>
@@ -950,7 +950,7 @@
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Go to folder:</source>
-        <translation/>
+        <translation>Go to folder:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="55"/>
@@ -1028,12 +1028,12 @@
     <message>
         <location filename="../../settings/settings.js" line="15"/>
         <source>Update every hour</source>
-        <translation/>
+        <translation>Update every hour</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="17"/>
         <source>Update every %1 minutes</source>
-        <translation/>
+        <translation>Update every %1 minutes</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="23"/>

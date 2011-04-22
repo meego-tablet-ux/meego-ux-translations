@@ -301,7 +301,7 @@
     <message>
         <location filename="../../Components/TimeToggleSwitch.qml" line="40"/>
         <source>ON</source>
-        <translation>❘</translation>
+        <translation>|</translation>
     </message>
     <message>
         <location filename="../../Components/TimeToggleSwitch.qml" line="41"/>
@@ -314,7 +314,7 @@
     <message>
         <location filename="../../Components/ToggleButton.qml" line="42"/>
         <source>On</source>
-        <translation>❘</translation>
+        <translation>|</translation>
     </message>
     <message>
         <location filename="../../Components/ToggleButton.qml" line="53"/>
@@ -327,7 +327,7 @@
     <message>
         <location filename="../../Components/ToggleSwitch.qml" line="39"/>
         <source>ON</source>
-        <translation>❘</translation>
+        <translation>|</translation>
     </message>
     <message>
         <location filename="../../Components/ToggleSwitch.qml" line="40"/>

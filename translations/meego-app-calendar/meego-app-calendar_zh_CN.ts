@@ -9,47 +9,47 @@
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="27"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 分钟前</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="28"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 分钟前</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="29"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 分钟前</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="30"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 小时前</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="31"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 小时前</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="32"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 天前</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="33"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 天前</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="34"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 个星期前</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="35"/>
         <source>Other...</source>
-        <translation/>
+        <translation>其它...</translation>
     </message>
 </context>
 <context>
@@ -107,12 +107,12 @@
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="87"/>
         <source>All day: </source>
-        <translation/>
+        <translation>全天： </translation>
     </message>
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="124"/>
         <source>%1 more events...</source>
-        <translation/>
+        <translation>%1 更多活动...</translation>
     </message>
 </context>
 <context>
@@ -252,7 +252,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="86"/>
         <source>Check the date and time inputs</source>
-        <translation/>
+        <translation>检查输入的日期和时间</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="156"/>
@@ -307,7 +307,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="941"/>
         <source>Time zone</source>
-        <translation/>
+        <translation>时区</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="983"/>
@@ -360,17 +360,17 @@
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="98"/>
         <source>Repeats forever</source>
-        <translation/>
+        <translation>永久重复</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="99"/>
         <source>Ends after number of times...</source>
-        <translation/>
+        <translation>在这些次数后结束...</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="100"/>
         <source>Ends after date...</source>
-        <translation/>
+        <translation>在此日期后结束...</translation>
     </message>
 </context>
 <context>
@@ -383,32 +383,32 @@
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="28"/>
         <source>Every day</source>
-        <translation/>
+        <translation>每天</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="29"/>
         <source>Every week</source>
-        <translation/>
+        <translation>每星期</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="30"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>每 2 个星期</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="31"/>
         <source>Every month</source>
-        <translation/>
+        <translation>每月</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="32"/>
         <source>Every year</source>
-        <translation/>
+        <translation>每年</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="33"/>
         <source>Other...</source>
-        <translation/>
+        <translation>其它...</translation>
     </message>
 </context>
 <context>
@@ -426,48 +426,48 @@
     <message>
         <location filename="../../lib/utilmethods.cpp" line="259"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 分钟前</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="260"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 分钟前</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="261"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 分钟前</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="262"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 小时前</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="263"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 小时前</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="264"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 天前</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="265"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 天前</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="266"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 个星期前</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="267"/>
         <location filename="../../lib/utilmethods.cpp" line="282"/>
         <source>Other...</source>
-        <translation/>
+        <translation>其它...</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="276"/>
@@ -477,27 +477,27 @@
     <message>
         <location filename="../../lib/utilmethods.cpp" line="277"/>
         <source>Every day</source>
-        <translation/>
+        <translation>每天</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="278"/>
         <source>Every week</source>
-        <translation/>
+        <translation>每星期</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="279"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>每 2 个星期</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="280"/>
         <source>Every month</source>
-        <translation/>
+        <translation>每月</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="281"/>
         <source>Every year</source>
-        <translation/>
+        <translation>每年</translation>
     </message>
 </context>
 <context>

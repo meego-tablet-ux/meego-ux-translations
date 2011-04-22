@@ -948,7 +948,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="109"/>
         <source>24 hour clock</source>
-        <translation/>
+        <translation>24-urni prikaz</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="137"/>

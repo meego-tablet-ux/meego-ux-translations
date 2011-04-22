@@ -20,7 +20,8 @@
         <location filename="../../plugin/IM/AccountContent.qml" line="190"/>
         <source>There is already an account configured using this login. 
 Please check your username.</source>
-        <translation/>
+        <translation>Ya hay una cuenta configurada con este inicio de sesión.  
+Compruebe su nombre de usuario.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="191"/>
@@ -37,7 +38,7 @@ Verifique su nombre de usuario y contraseña.</translation>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="218"/>
         <source>Name / ID</source>
-        <translation/>
+        <translation>Nombre / ID</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="226"/>
@@ -294,7 +295,7 @@ Verifique su nombre de usuario y contraseña.</translation>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="279"/>
         <source>Invalidated text channel  %1 - %2 - %3</source>
-        <translation/>
+        <translation>Canal de texto invalidado %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="284"/>
@@ -498,7 +499,7 @@ Verifique su nombre de usuario y contraseña.</translation>
     <message>
         <location filename="../../ContactsDelegate.qml" line="99"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>Borrar contacto</translation>
     </message>
 </context>
 <context>
@@ -774,7 +775,7 @@ Verifique su nombre de usuario y contraseña.</translation>
     <message>
         <location filename="../../IncomingCall.qml" line="16"/>
         <source>Incoming Call</source>
-        <translation/>
+        <translation>Llamada entrante</translation>
     </message>
     <message>
         <location filename="../../IncomingCall.qml" line="19"/>

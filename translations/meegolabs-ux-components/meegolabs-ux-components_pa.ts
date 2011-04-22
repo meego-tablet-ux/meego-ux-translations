@@ -282,18 +282,18 @@
     <message>
         <location filename="../../Components/ShareObj.qml" line="227"/>
         <source>An error occurred while sharing: %1</source>
-        <translation/>
+        <translation>ਸਾਂਝਾ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਆਈ: %1</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="232"/>
         <location filename="../../Components/ShareObj.qml" line="263"/>
         <source>Ok</source>
-        <translation/>
+        <translation>ਠੀਕ ਹੈ</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="258"/>
         <source>Upload progress: %1%%</source>
-        <translation/>
+        <translation>ਅੱਪਲੋਡ ਤਰੱਕੀ: %1%5</translation>
     </message>
 </context>
 <context>

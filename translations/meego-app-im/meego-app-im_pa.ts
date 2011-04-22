@@ -4,23 +4,24 @@
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="117"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>ਕਈ ਅਕਾਊਂਟ ਕੁਨੈਕਟ ਹਨ</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="118"/>
         <source>Do you really want to connect this account?</source>
-        <translation/>
+        <translation>ਕੀ ਤੁਸੀਂ ਇਹ ਅਕਾਊਂਟ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="119"/>
         <source>By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>ਇੰਝ ਕਰਨ ਨਾਲ ਹੋਰ ਸਭ %1 ਅਕਾਊਂਟ ਡਿਸ-ਕੁਨੈਕਟ ਹੋ ਜਾਣਗੇ।</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="190"/>
         <source>There is already an account configured using this login. 
 Please check your username.</source>
-        <translation/>
+        <translation>ਇਸ ਲਾਗਇਨ ਨਾਲ ਪਹਿਲਾਂ ਹੀ ਅਕਾਊਂਟ ਸੰਰਚਿਤ ਹੈ।
+ਆਪਣਾ ਯੂਜ਼ਰ ਨਾਂ ਚੈੱਕ ਕਰੋ।</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="191"/>
@@ -73,17 +74,17 @@ Please check your username and password.</source>
     <message>
         <location filename="../../AccountDelegate.qml" line="113"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>ਕਈ ਅਕਾਊਂਟ ਕੁਨੈਕਟ ਹਨ</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="114"/>
         <source>Do you really want to connect this account?</source>
-        <translation/>
+        <translation>ਕੀਤੁਸੀਂ ਇਹ ਅਕਾਊਂਟ ਨਾਲ ਕੁਨੈਕਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="115"/>
         <source>By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>ਇਹ ਕਰਨ ਨਾਲ ਸਭ ਹੋਰ %1 ਅਕਾਊਂਟ ਡਿਸ-ਕੁਨੈਕਟ ਹੋ ਜਾਣਗੇ।</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="177"/>
@@ -98,7 +99,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../AccountDelegate.qml" line="181"/>
         <source>Settings</source>
-        <translation/>
+        <translation>ਸੈਟਿੰਗ</translation>
     </message>
 </context>
 <context>
@@ -166,7 +167,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../AddAFriend.qml" line="114"/>
         <source>Your device is not connected to a network. Please connect and try again.</source>
-        <translation/>
+        <translation>ਤੁਹਾਡਾ ਜੰਤਰ ਨੈੱਟਵਰਕ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਹੈ। ਕੁਨੈਕਟ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</translation>
     </message>
 </context>
 <context>
@@ -175,12 +176,12 @@ Please check your username and password.</source>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="115"/>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="163"/>
         <source>An error occurred while trying to complete your request. Please try again.</source>
-        <translation/>
+        <translation>ਤੁਹਾਡੀ ਮੰਗ ਨਾਲ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="176"/>
         <source>Account not found. Please enter a valid account name.</source>
-        <translation/>
+        <translation>ਅਕਾਊਂਟ ਨਹੀਂ ਲੱਭਾ। ਠੀਕ ਅਕਾਊਂਟ ਨਾਂ ਦਿਉ ਜੀ।</translation>
     </message>
 </context>
 <context>
@@ -188,7 +189,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="112"/>
         <source>Unable to create media call for contact %1</source>
-        <translation/>
+        <translation>ਸੰਪਰਕ %1 ਲਈ ਮੀਡਿਆ ਕਾਲ ਕਰਨ ਲਈ ਅਸਮਰੱਥ</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="160"/>
@@ -205,7 +206,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="366"/>
         <source>Could not set hold = %</source>
-        <translation/>
+        <translation>ਹੋਲਡ ਸੈੱਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ =%</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="462"/>
@@ -216,12 +217,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="557"/>
         <source>Unable to create call channel for contact %1</source>
-        <translation/>
+        <translation>ਸੰਪਰਕ %1 ਲਈ ਕਾਲ ਚੈਨਲ ਬਣਾਉਣ ਲਈ ਅਸਮਰੱਥ</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="857"/>
         <source>Unable to create channel: %1 - %2</source>
-        <translation/>
+        <translation>ਚੈਨਲ ਬਣਾਉਣ ਲਈ ਅਸਮਰੱਥ: %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="872"/>
@@ -241,12 +242,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1210"/>
         <source>Error ending call: %1 - %2</source>
-        <translation/>
+        <translation>ਕਾਲ ਖਤਮ ਕਰਨ ਲਈ ਗਲਤੀ: %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1224"/>
         <source>Call could not be accepted %1 - %2</source>
-        <translation/>
+        <translation>ਕਾਲ ਮਨਜ਼ੂਰ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1238"/>
@@ -269,7 +270,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="147"/>
         <source>Unable to create channel: %1 - %2</source>
-        <translation/>
+        <translation>ਚੈਨਲ ਬਣਾਉਣ ਲਈ ਅਸਮਰੱਥ: %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="162"/>
@@ -279,7 +280,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="175"/>
         <source>Channel not available</source>
-        <translation/>
+        <translation>ਚੈਨਲ ਉਪਲੱਬਧ ਨਹੀਂ</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="200"/>
@@ -307,12 +308,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="26"/>
         <source>Yes</source>
-        <translation/>
+        <translation>ਹਾਂ</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="29"/>
         <source>No</source>
-        <translation/>
+        <translation>ਨਹੀਂ</translation>
     </message>
 </context>
 <context>
@@ -320,17 +321,17 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactContentMenu.qml" line="33"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>ਕਈ ਅਕਾਊਂਟ ਕੁਨੈਕਟ ਹਨ</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="34"/>
         <source>Do you really want to connect this account?</source>
-        <translation/>
+        <translation>ਕੀ ਤੁਸੀਂ ਇਹ ਅਕਾਊਂਟ ਕੁਨੈਕਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="35"/>
         <source>By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>ਇਹ ਕਰਨ ਨਾਲ ਹੋਰ ਸਭ %1 ਅਕਾਊਂਟ ਡਿਸ-ਕੁਨੈਕਟ ਹੋ ਜਾਣਗੇ।</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="183"/>
@@ -371,7 +372,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactContentMenu.qml" line="396"/>
         <source>Update user display name</source>
-        <translation/>
+        <translation>ਯੂਜ਼ਰ ਡਿਸਪਲੇਅ ਨਾਂ ਅੱਪਡੇਟ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="503"/>
@@ -381,7 +382,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactContentMenu.qml" line="563"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>ਗੱਲਬਾਤ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="602"/>
@@ -399,7 +400,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactPickerContent.qml" line="49"/>
         <source>Add contacts to chat</source>
-        <translation/>
+        <translation>ਸੰਪਰਕ ਗੱਲਬਾਤ ਵਿੱਚ ਜੋੜੋ</translation>
     </message>
     <message>
         <location filename="../../ContactPickerContent.qml" line="133"/>
@@ -432,7 +433,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="130"/>
         <source>extended away</source>
-        <translation/>
+        <translation>ਪੂਰੀ ਤਰ੍ਹਾਂ ਦੂਰ</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="132"/>
@@ -498,7 +499,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../ContactsDelegate.qml" line="99"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>ਸੰਪਰਕ ਹਟਾਓ</translation>
     </message>
 </context>
 <context>
@@ -563,12 +564,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="226"/>
         <source>There was a problem downloading</source>
-        <translation/>
+        <translation>ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ</translation>
     </message>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="228"/>
         <source>There was a problem uploading</source>
-        <translation/>
+        <translation>ਅੱਪਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ</translation>
     </message>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="231"/>
@@ -731,7 +732,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../settings/ImSettings.qml" line="16"/>
         <source>Instant Messaging Settings</source>
-        <translation/>
+        <translation>ਤੁਰੰਤ ਸੁਨੇਹਾ ਸੈਟਿੰਗ</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="87"/>
@@ -761,7 +762,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../settings/ImSettings.qml" line="214"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>ਗੱਲਬਾਤ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="240"/>
@@ -825,7 +826,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../LoadingConversationHistory.qml" line="28"/>
         <source>Loading conversation history</source>
-        <translation/>
+        <translation>ਗੱਲਬਾਤ ਅਤੀਤ ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</translation>
     </message>
 </context>
 <context>
@@ -833,7 +834,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="331"/>
         <source>has been added as contact</source>
-        <translation/>
+        <translation>ਨੂੰ ਸੰਪਰਕ ਵਜੋਂ ਜੋੜਿਆ ਗਿਆ</translation>
     </message>
 </context>
 <context>
@@ -859,7 +860,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../MessageContentMenu.qml" line="97"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>ਗੱਲਬਾਤ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../MessageContentMenu.qml" line="135"/>
@@ -896,12 +897,12 @@ Please check your username and password.</source>
     <message>
         <location filename="../../MessageScreenContent.qml" line="857"/>
         <source>Minimize me</source>
-        <translation/>
+        <translation>ਮੈਨੂੰ ਘੱਟੋ-ਘੱਟ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="857"/>
         <source>Maximize me</source>
-        <translation/>
+        <translation>ਮੈਨੂੰ ਵੱਧੋ-ਵੱਧ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="858"/>
@@ -924,7 +925,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../NoNetworkHeader.qml" line="38"/>
         <source>Your device is not connected to a network. To chat with your contacts, you need to connect to a network.</source>
-        <translation/>
+        <translation>ਤੁਹਾਡਾ ਜੰਤਰ ਨੈੱਟਵਰਕ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਹੈ। ਆਪਣੇ ਸੰਪਰਕਾਂ ਨਾਲ ਗੱਲਾਂ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਨੈੱਟਵਰਕ ਨਾਲ ਕੁਨੈਕਟ ਕਰਨਾ ਪਵੇਗਾ।</translation>
     </message>
 </context>
 <context>
@@ -932,7 +933,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="130"/>
         <source>%1 is sending you the file %2</source>
-        <translation/>
+        <translation>%1 ਤੁਹਾਨੂੰ ਫਾਇਲ %2 ਭੇਜ ਰਿਹਾ ਹੈ</translation>
     </message>
 </context>
 <context>
@@ -958,17 +959,17 @@ Please check your username and password.</source>
     <message>
         <location filename="../../SearchHeader.qml" line="48"/>
         <source>%1 matches found</source>
-        <translation/>
+        <translation>%1 ਮਿਲਦੇ ਲੱਭੇ</translation>
     </message>
     <message>
         <location filename="../../SearchHeader.qml" line="73"/>
         <source>Older</source>
-        <translation/>
+        <translation>ਹੋਰ ਪੁਰਾਣਾ</translation>
     </message>
     <message>
         <location filename="../../SearchHeader.qml" line="86"/>
         <source>Newer</source>
-        <translation/>
+        <translation>ਹੋਰ ਨਵਾਂ</translation>
     </message>
 </context>
 <context>
@@ -1048,7 +1049,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../main.qml" line="389"/>
         <source>extended away</source>
-        <translation/>
+        <translation>ਪੂਰੀ ਤਰ੍ਹਾਂ ਦੂਰ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="391"/>

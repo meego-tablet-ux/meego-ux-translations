@@ -23,7 +23,7 @@
         <extracomment>IDS_SESSION_CRASHED_VIEW_MESSAGE
 - description: Message shown when the last session didn't exit cleanly.
 </extracomment>
-        <translation>Der MeeGo Browser wurde nicht richtig heruntergefahren. Klicken Sie auf Wiederherstellen, um die zuvor geöffneten Seiten erneut zu öffnen.</translation>
+        <translation>Inkorrektes Herunterfahren. Klicken Sie auf Wiederherstellen, um vorher offene Seiten zu öffnen.</translation>
     </message>
     <message>
         <location filename="id" line="1550207900"/>
@@ -72,7 +72,7 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="207"/>
         <source>Are you sure you want to delete this bookmark?</source>
-        <translation/>
+        <translation>Möchten Sie dieses Lesezeichen wirklich löschen?</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="219"/>
@@ -82,7 +82,7 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Edit bookmark</source>
-        <translation/>
+        <translation>Lesezeichen bearbeiten</translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>

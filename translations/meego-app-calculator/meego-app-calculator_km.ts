@@ -4,47 +4,47 @@
     <message>
         <location filename="../../calculator.js" line="49"/>
         <source>Infinity</source>
-        <translation/>
+        <translation>អនន្ត</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="51"/>
         <source>-Infinity</source>
-        <translation/>
+        <translation>-អនន្ត</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="53"/>
         <source>Error</source>
-        <translation/>
+        <translation>កំហុស</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="115"/>
         <source>mc</source>
-        <translation/>
+        <translation>mc</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="117"/>
         <source>m+</source>
-        <translation/>
+        <translation>m+</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="119"/>
         <source>mr</source>
-        <translation/>
+        <translation>mr</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="121"/>
         <source>m-</source>
-        <translation/>
+        <translation>m-</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="125"/>
         <source>C</source>
-        <translation/>
+        <translation>C</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="127"/>
         <source>AC</source>
-        <translation/>
+        <translation>AC</translation>
     </message>
 </context>
 <context>
@@ -52,37 +52,37 @@
     <message>
         <location filename="../../main.qml" line="59"/>
         <source>Calculator</source>
-        <translation/>
+        <translation>ឧបករណ៍​គិត​លេខ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="92"/>
         <source>C</source>
-        <translation/>
+        <translation>C</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="93"/>
         <source>AC</source>
-        <translation/>
+        <translation>AC</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="100"/>
         <source>mc</source>
-        <translation/>
+        <translation>mc</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="101"/>
         <source>m+</source>
-        <translation/>
+        <translation>m+</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="102"/>
         <source>m-</source>
-        <translation/>
+        <translation>m-</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="103"/>
         <source>mr</source>
-        <translation/>
+        <translation>mr</translation>
     </message>
 </context>
 </TS>

@@ -4,22 +4,22 @@
     <message>
         <location filename="../../AlbumsView.qml" line="25"/>
         <source>Open</source>
-        <translation/>
+        <translation>បើក</translation>
     </message>
     <message>
         <location filename="../../AlbumsView.qml" line="26"/>
         <source>Play slideshow</source>
-        <translation/>
+        <translation>មើល​រូប​រអិល​ចុះ​ឡើង</translation>
     </message>
     <message>
         <location filename="../../AlbumsView.qml" line="27"/>
         <source>Share</source>
-        <translation/>
+        <translation>ចែក​រំលែក</translation>
     </message>
     <message>
         <location filename="../../AlbumsView.qml" line="28"/>
         <source>Delete</source>
-        <translation/>
+        <translation>លុប</translation>
     </message>
 </context>
 <context>
@@ -27,42 +27,42 @@
     <message>
         <location filename="../../PhotosView.qml" line="33"/>
         <source>Open</source>
-        <translation/>
+        <translation>បើក</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="34"/>
         <source>Play slideshow</source>
-        <translation/>
+        <translation>មើល​រូប​រអិល​ចុះ​ឡើង</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="35"/>
         <source>Share</source>
-        <translation/>
+        <translation>ចែក​រំលែក</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="36"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>ដែល​ពេញ​ចិត្ត</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="37"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>ដែល​មិន​ពេញ​ចិត្ត</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="38"/>
         <source>Add to album</source>
-        <translation/>
+        <translation>បន្ថែម​ទៅ​ក្នុង​អាល់​បុម</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="39"/>
         <source>Delete</source>
-        <translation/>
+        <translation>លុប</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="40"/>
         <source>Select multiple photos</source>
-        <translation/>
+        <translation>រើស​រូប​ថត​ច្រើន</translation>
     </message>
 </context>
 <context>
@@ -70,177 +70,177 @@
     <message>
         <location filename="../../main.qml" line="18"/>
         <source>All</source>
-        <translation/>
+        <translation>ទាំង​អស់</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="19"/>
         <source>Recently added</source>
-        <translation/>
+        <translation>ដែល​ទើប​បន្ថែម</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Last viewed</source>
-        <translation/>
+        <translation>បាន​មើល​ចុង​ក្រោយ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
         <source>Favorites</source>
-        <translation/>
+        <translation>ដែល​ពេញ​ចិត្ត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="22"/>
         <source>Share</source>
-        <translation/>
+        <translation>ចែក​រំលែក</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="23"/>
         <source>Photos</source>
-        <translation/>
+        <translation>រូប​ថត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="24"/>
         <source>All photos</source>
-        <translation/>
+        <translation>រូប​ថត​ទាំង​អស់</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="25"/>
         <source>Albums</source>
-        <translation/>
+        <translation>អាល់បុម</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>New album</source>
-        <translation/>
+        <translation>អាល់បុម​បន្ទាប់</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="27"/>
         <source>Open</source>
-        <translation/>
+        <translation>បើក</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
         <source>Play slideshow</source>
-        <translation/>
+        <translation>មើល​រូប​រអិល​ចុះ​ឡើង</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Full screen</source>
-        <translation/>
+        <translation>ពេញ​អេក្រង់</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>Leave full screen</source>
-        <translation/>
+        <translation>បិទ​ពេញ​អេក្រង់</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>ដែល​ពេញ​ចិត្ត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>ដែល​មិន​ពេញ​ចិត្ត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="33"/>
         <source>Add to album</source>
-        <translation/>
+        <translation>បន្ថែម​ទៅ​ក្នុង​អាល់បុម</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
         <source>Remove from album</source>
-        <translation/>
+        <translation>ដក​ចេញ​ពី​អាល់បុម</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
         <source>Delete?</source>
-        <translation/>
+        <translation>លុប?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
         <source>Delete</source>
-        <translation/>
+        <translation>លុប</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Delete album</source>
-        <translation/>
+        <translation>លុប​អាល់បុម</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
         <source>Delete photo</source>
-        <translation/>
+        <translation>លុប​រូប​ថត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Rename photo</source>
-        <translation/>
+        <translation>ប្ដូរ​ឈ្មោះ​រូប​ថត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="40"/>
         <source>1 photo</source>
-        <translation/>
+        <translation>១ រូប</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
         <source>%1 photos</source>
-        <translation/>
+        <translation>%1 រូប</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="42"/>
         <source>Create new album</source>
-        <translation/>
+        <translation>បង្កើត​អាល់បុម​ថ្មី</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="43"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>បោះ​បង់</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="44"/>
         <source>Set as background</source>
-        <translation/>
+        <translation>កំណត់​ជា​រូប​ផ្ទៃ​ក្រោយ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="45"/>
         <source>View by:</source>
-        <translation/>
+        <translation>មើល​តាម:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="47"/>
         <source>Are you sure you want to delete this photo?</source>
-        <translation/>
+        <translation>តើ​អ្នក​ប្រាកដ​ថា​ចង់​លុប​រូប​នេះ​ឬ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="48"/>
         <source>Are you sure you want to delete the %1 selected photos?</source>
-        <translation/>
+        <translation>តើ​អ្នក​ប្រាកដ​ថា​ចង់​លុប​រូប​ដែល​បាន​រើស​ទាំង %1 នេះ​ឬ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="49"/>
         <source>Are you sure you want to delete this album?</source>
-        <translation/>
+        <translation>តើ​អ្នក​ប្រាកដ​ថា​ចង់​លុប​អាល់បុម​នេះ​ឬ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="51"/>
         <source>Album title</source>
-        <translation/>
+        <translation>ចំណង​ជើង​អាល់​បុម</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="59"/>
         <source>Photo title</source>
-        <translation/>
+        <translation>ចំណង​ជើង​រូប</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="480"/>
         <source>Create</source>
-        <translation/>
+        <translation>បង្កើត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="492"/>
         <source>Album name</source>
-        <translation/>
+        <translation>ឈ្មោះ​អាល់បុម</translation>
     </message>
 </context>
 </TS>

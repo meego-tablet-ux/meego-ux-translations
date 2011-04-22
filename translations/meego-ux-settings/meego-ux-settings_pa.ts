@@ -138,33 +138,33 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="31"/>
         <source>Manual APN Entry</source>
-        <translation/>
+        <translation>ਖੁਦ APN ਐਂਟਰੀ</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="61"/>
         <source>Country</source>
-        <translation/>
+        <translation>ਦੇਸ਼</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="78"/>
         <source>Provider</source>
-        <translation/>
+        <translation>ਪਰੋਵਾਇਡਰ</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="93"/>
         <location filename="../../Wifi/CellularSettings.qml" line="115"/>
         <source>APN</source>
-        <translation/>
+        <translation>APN</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="126"/>
         <source>Username</source>
-        <translation/>
+        <translation>ਯੂਜ਼ਰ ਨਾਂ</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="137"/>
         <source>Password</source>
-        <translation/>
+        <translation>ਪਾਸਵਰਡ</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="149"/>
@@ -233,7 +233,7 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="25"/>
         <source>WiMAX</source>
-        <translation/>
+        <translation>ਵਾਈਮੈਕ</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="61"/>
@@ -369,7 +369,7 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="198"/>
         <source>completed</source>
         <extracomment>Status message: successfully completed sync job. (PLACEHOLDER)</extracomment>
-        <translation/>
+        <translation>ਪੂਰਾ ਹੋਇਆ</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="205"/>
@@ -441,13 +441,13 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="299"/>
         <source>Last sync %1</source>
         <extracomment>Arg 1 is a &quot;fuzzy time&quot;, e.g. &quot;2 min ago&quot;.</extracomment>
-        <translation/>
+        <translation>ਆਖਰੀ ਸਿੰਕ %1</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="305"/>
         <source>Last sync failed: %1</source>
         <extracomment>Arg 1 is a brief sync error description, e.g. &quot;connection failed&quot;.</extracomment>
-        <translation/>
+        <translation>ਆਖਰੀ ਫੇਲ੍ਹ ਹੋਇਆ ਸਿੰਕ: %1</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="433"/>
@@ -835,7 +835,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/SyncGroup.qml" line="79"/>
         <location filename="../../Browser/SyncGroup.qml" line="168"/>
         <source>You are not set up sync your browser data with another computer.</source>
-        <translation/>
+        <translation>ਤੁਸੀਂ ਹੋਰ ਕੰਪਿਊਟਰ ਨਾਲ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਡਾਟਾ ਸਿੰਕ ਕਰਨ ਲਈ ਸੈੱਟ ਅੱਪ ਨਹੀਂ ਕੀਤਾ।</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="183"/>
@@ -948,7 +948,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="109"/>
         <source>24 hour clock</source>
-        <translation/>
+        <translation>24 ਘੰਟੇ ਘੜੀ</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="137"/>
@@ -963,7 +963,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="184"/>
         <source>Current Timezone is %1</source>
-        <translation/>
+        <translation>ਮੌਜੂਦਾ ਸਮਾਂ-ਖੇਤਰ %1 ਹੈ</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="201"/>
@@ -1049,7 +1049,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="120"/>
         <source>Failed to Connect</source>
-        <translation/>
+        <translation>ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਫੇਲ੍ਹ</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="123"/>

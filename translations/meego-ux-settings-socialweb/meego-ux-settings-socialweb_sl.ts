@@ -4,77 +4,77 @@
     <message>
         <location filename="../../qml/constants.js" line="3"/>
         <source>Web Accounts</source>
-        <translation/>
+        <translation>Spletni računi</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
         <source>Done</source>
-        <translation/>
+        <translation>Opravljeno</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="6"/>
         <source>Sign In</source>
-        <translation/>
+        <translation>Prijavi</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="8"/>
         <source>Sign in</source>
-        <translation/>
+        <translation>Prijavi</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="9"/>
         <source>Sign out</source>
-        <translation/>
+        <translation>Odjavi</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="10"/>
         <source>Continue</source>
-        <translation/>
+        <translation>Nadaljuj</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="13"/>
         <source>&lt;b&gt;Username:&lt;/b&gt; </source>
-        <translation/>
+        <translation>&lt;b&gt;Uporabniško ime:&lt;/b&gt; </translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="14"/>
         <source>Username</source>
-        <translation/>
+        <translation>Uporabniško ime</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="15"/>
         <source>Password</source>
-        <translation/>
+        <translation>Geslo</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="16"/>
         <source>Verifier code</source>
-        <translation/>
+        <translation>Potrditvena koda</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="18"/>
         <source>More Details</source>
-        <translation/>
+        <translation>Podrobnosti</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
         <source>Unable to sign in, try again later</source>
-        <translation/>
+        <translation>Ni se moč prijaviti, poskusite spet kasneje</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="21"/>
         <source>Attempting to sign in...</source>
-        <translation/>
+        <translation>Poskus prijave ...</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="22"/>
         <source>Successfully signed in!</source>
-        <translation/>
+        <translation>Prijava je bila uspešna.</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="23"/>
         <source>You have successfully signed out.  Content from this service will no longer appear on this Device</source>
-        <translation/>
+        <translation>Uspešno ste se odjavili. Vsebina te storitve ne bo več prikazana na tej napravi.</translation>
     </message>
 </context>
 </TS>

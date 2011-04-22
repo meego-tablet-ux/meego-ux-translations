@@ -31,7 +31,7 @@ Please check your username and password.</source>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="207"/>
         <source>Username:</source>
-        <translation/>
+        <translation>Nome d&apos;usuariu:</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="218"/>

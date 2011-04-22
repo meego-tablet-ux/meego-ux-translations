@@ -12,7 +12,7 @@
         <location filename="../../src/DataHandler.cpp" line="494"/>
         <location filename="../../src/DataHandler.cpp" line="498"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../src/DataHandler.cpp" line="1299"/>
@@ -69,7 +69,7 @@
     <message>
         <location filename="../../InformationDialog.qml" line="82"/>
         <source>OK</source>
-        <translation/>
+        <translation>V redu</translation>
     </message>
 </context>
 <context>
@@ -260,13 +260,13 @@ teh %1 beležnic?</translation>
     <message>
         <location filename="../../NotebooksView.qml" line="400"/>
         <source>&quot;%1&quot; notebooks have been deleted</source>
-        <translation/>
+        <translation>Beležnice »%1« so bile izbrisane</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="402"/>
         <location filename="../../NotebooksView.qml" line="404"/>
         <source>&quot;%1&quot; has been deleted</source>
-        <translation/>
+        <translation>»%1« je bila izbrisana</translation>
     </message>
 </context>
 <context>
@@ -320,7 +320,7 @@ teh %1 beležnic?</translation>
     <message>
         <location filename="../../NotesView.qml" line="361"/>
         <source>Rename</source>
-        <translation/>
+        <translation>Preimenuj</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="386"/>
@@ -337,12 +337,12 @@ teh %1 beležnic?</translation>
     <message>
         <location filename="../../NotesView.qml" line="419"/>
         <source>%1 notes have successfully been moved to &quot;%2&quot;</source>
-        <translation/>
+        <translation>%1 opomb je bilo uspešno premaknjenih v »%2«</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="423"/>
         <source>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</source>
-        <translation/>
+        <translation>»%1« je bila uspešno premaknjena v »%2«</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="446"/>
@@ -409,12 +409,12 @@ teh %1 opomb?</translation>
     <message>
         <location filename="../../NotesView.qml" line="578"/>
         <source>Rename Note</source>
-        <translation/>
+        <translation>Preimenuj opombo</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="588"/>
         <source>%1 (Renamed Note)</source>
-        <translation/>
+        <translation>%1 (preimenovana opomba)</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="615"/>
@@ -440,7 +440,7 @@ teh %1 opomb?</translation>
     <message>
         <location filename="../../src/DataHandler.cpp" line="25"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>Vsakodnevne opombe (privzeto)</translation>
     </message>
 </context>
 <context>
@@ -483,12 +483,12 @@ teh %1 opomb?</translation>
     <message>
         <location filename="../../main.qml" line="16"/>
         <source>All</source>
-        <translation/>
+        <translation>Vse</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="16"/>
         <source>Alphabetical order</source>
-        <translation/>
+        <translation>Abecedni vrstni red</translation>
     </message>
 </context>
 </TS>

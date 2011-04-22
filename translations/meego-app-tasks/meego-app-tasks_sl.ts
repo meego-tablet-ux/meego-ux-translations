@@ -48,7 +48,7 @@
     <message>
         <location filename="../../EditableStringListView.qml" line="50"/>
         <source>+ Add new item</source>
-        <translation/>
+        <translation>+ Dodaj novo postavko</translation>
     </message>
     <message>
         <location filename="../../EditableStringListView.qml" line="79"/>
@@ -61,27 +61,27 @@
     <message>
         <location filename="../../TaskListPicker.qml" line="84"/>
         <source>Create a new list</source>
-        <translation/>
+        <translation>Ustvari nov seznam</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="101"/>
         <source>OK</source>
-        <translation/>
+        <translation>V redu</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="102"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="105"/>
         <source>Please name the new list</source>
-        <translation/>
+        <translation>Poimenujte nov seznam</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="113"/>
         <source>List name</source>
-        <translation/>
+        <translation>Ime seznama</translation>
     </message>
 </context>
 <context>
@@ -99,22 +99,22 @@
     <message>
         <location filename="../../TaskListView.qml" line="416"/>
         <source>Are you sure you want to delete these %1 tasks?</source>
-        <translation/>
+        <translation>Ali res želite izbrisati teh %1 opravil?</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="419"/>
         <source>Are you sure you want to delete this task?</source>
-        <translation/>
+        <translation>Ali ste prepričani, da želite izbrisati to opravilo?</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="424"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Da</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="425"/>
         <source>No</source>
-        <translation/>
+        <translation>Ne</translation>
     </message>
 </context>
 <context>
@@ -130,62 +130,62 @@
     <message>
         <location filename="../../TasksDetailMenu.qml" line="48"/>
         <source>Insert task name</source>
-        <translation/>
+        <translation>Vnesite ime opravila</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="59"/>
         <source>List:</source>
-        <translation/>
+        <translation>Seznam:</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="114"/>
         <source>Due date:</source>
-        <translation/>
+        <translation>Datum zapadlosti:</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="127"/>
         <source>Date</source>
-        <translation/>
+        <translation>Datum</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="128"/>
         <source>Someday</source>
-        <translation/>
+        <translation>Nekega dne</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="135"/>
         <source>Set due date</source>
-        <translation/>
+        <translation>Nastavi datum zapadlosti</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="155"/>
         <source>Notes</source>
-        <translation/>
+        <translation>Opombe</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="163"/>
         <source>Add a note here</source>
-        <translation/>
+        <translation>Sem dodajte opombo</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="170"/>
         <source>Delete task</source>
-        <translation/>
+        <translation>Izbriši opravilo</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="191"/>
         <source>Edit</source>
-        <translation/>
+        <translation>Uredi</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="203"/>
         <source>Save</source>
-        <translation/>
+        <translation>Shrani</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="215"/>
         <source>Close</source>
-        <translation/>
+        <translation>Zapri</translation>
     </message>
 </context>
 <context>
@@ -193,7 +193,7 @@
     <message>
         <location filename="../../TasksDetailWindow.qml" line="13"/>
         <source>If you see me, something is very wrong!</source>
-        <translation/>
+        <translation>Nekaj je šlo povsem narobe.</translation>
     </message>
 </context>
 <context>
@@ -351,7 +351,7 @@ in vsa opravila na njem?</translation>
     <message>
         <location filename="../../main.qml" line="271"/>
         <source>List name</source>
-        <translation/>
+        <translation>Ime seznama</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="514"/>
@@ -366,17 +366,17 @@ in vsa opravila na njem?</translation>
     <message>
         <location filename="../../main.qml" line="834"/>
         <source>Are you sure you want to delete the completed tasks?</source>
-        <translation/>
+        <translation>Ali res želite izbrisati zaključena opravila?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="835"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Da</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="836"/>
         <source>No</source>
-        <translation/>
+        <translation>Ne</translation>
     </message>
 </context>
 </TS>
