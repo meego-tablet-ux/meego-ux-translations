@@ -47,12 +47,12 @@ IDS_SXS_SHORTCUT_NAME
 <context>
     <name>AddAttachmentView</name>
     <message>
-        <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="77"/>
+        <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="74"/>
         <source>Photos</source>
         <translation>Fotografije</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="87"/>
+        <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="84"/>
         <source>Movies</source>
         <translation>Filmi</translation>
     </message>

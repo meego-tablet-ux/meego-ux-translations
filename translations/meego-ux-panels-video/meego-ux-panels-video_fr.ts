@@ -22,20 +22,20 @@
         <translation>Ouvrir Vidéos !</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="121"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="125"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="123"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="127"/>
         <source>Play</source>
         <translation>Jouer</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="121"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="133"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="123"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="135"/>
         <source>Share</source>
         <translation>Partager</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="121"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="129"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="123"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="131"/>
         <source>Hide</source>
         <translation>Masquer</translation>
     </message>

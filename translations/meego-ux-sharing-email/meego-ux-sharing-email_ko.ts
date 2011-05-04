@@ -7,12 +7,12 @@
         <translation>MeeGo 이메일</translation>
     </message>
     <message>
-        <location filename="../../emailsharingservice.cpp" line="65"/>
+        <location filename="../../emailsharingservice.cpp" line="64"/>
         <source>Sharing via Email</source>
         <translation>이메일을 통해 공유</translation>
     </message>
     <message>
-        <location filename="../../emailsharingservice.cpp" line="80"/>
+        <location filename="../../emailsharingservice.cpp" line="79"/>
         <source>Email</source>
         <translation>이메일 보내기</translation>
     </message>

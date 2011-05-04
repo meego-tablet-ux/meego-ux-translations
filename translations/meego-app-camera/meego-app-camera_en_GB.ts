@@ -27,17 +27,17 @@
     <message>
         <location filename="../plugin/viewfinder.cpp" line="341"/>
         <source>Auto</source>
-        <translation/>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="../plugin/viewfinder.cpp" line="343"/>
         <source>Off</source>
-        <translation/>
+        <translation>Off</translation>
     </message>
     <message>
         <location filename="../plugin/viewfinder.cpp" line="344"/>
         <source>On</source>
-        <translation/>
+        <translation>On</translation>
     </message>
 </context>
 </TS>

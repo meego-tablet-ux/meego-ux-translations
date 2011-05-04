@@ -240,7 +240,7 @@
     <message>
         <location filename="../../main.qml" line="492"/>
         <source>Album name</source>
-        <translation/>
+        <translation>Albüm adı</translation>
     </message>
 </context>
 </TS>

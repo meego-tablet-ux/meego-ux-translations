@@ -7,12 +7,12 @@
         <translation>Эл. почта MeeGo</translation>
     </message>
     <message>
-        <location filename="../../emailsharingservice.cpp" line="65"/>
+        <location filename="../../emailsharingservice.cpp" line="64"/>
         <source>Sharing via Email</source>
         <translation>Распространение через эл. почту</translation>
     </message>
     <message>
-        <location filename="../../emailsharingservice.cpp" line="80"/>
+        <location filename="../../emailsharingservice.cpp" line="79"/>
         <source>Email</source>
         <translation>Эл. почта</translation>
     </message>

@@ -84,22 +84,22 @@
         <translation>Удалить учетную запись</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="232"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="225"/>
         <source>Yes</source>
         <translation>Да</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="233"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="226"/>
         <source>Cancel</source>
         <translation>Отменить</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="234"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="227"/>
         <source>Delete account</source>
         <translation>Удалить учетную запись</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="236"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="229"/>
         <source>Are you sure you want to delete this account?</source>
         <translation>Вы уверены, что хотите удалить эту учетную запись?</translation>
     </message>
@@ -150,62 +150,62 @@
         <translation>&quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="166"/>
+        <location filename="../../settings/AccountSettings.qml" line="158"/>
         <source>Notifications</source>
         <translation>Оповещения</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="184"/>
+        <location filename="../../settings/AccountSettings.qml" line="176"/>
         <source>New email notifications</source>
         <translation>Оповещения о новой почте</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="189"/>
+        <location filename="../../settings/AccountSettings.qml" line="181"/>
         <source>Ask before deleting email</source>
         <translation>Спрашивать перед удалением эл. почты</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="204"/>
+        <location filename="../../settings/AccountSettings.qml" line="194"/>
         <source>Yes</source>
         <translation>Да</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="205"/>
+        <location filename="../../settings/AccountSettings.qml" line="195"/>
         <source>No</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="206"/>
+        <location filename="../../settings/AccountSettings.qml" line="196"/>
         <source>Discard changes</source>
         <translation>Отказаться от изменений</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="208"/>
+        <location filename="../../settings/AccountSettings.qml" line="198"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
         <translation>Вы внесли изменения в настройки. Уверены, что хотите их отменить?</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="222"/>
+        <location filename="../../settings/AccountSettings.qml" line="204"/>
         <source>OK</source>
         <translation>ОК</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="223"/>
+        <location filename="../../settings/AccountSettings.qml" line="206"/>
         <source>Changes saved</source>
         <translation>Изменения сохранены</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="225"/>
+        <location filename="../../settings/AccountSettings.qml" line="208"/>
         <source>Your changes have been saved.</source>
         <translation>Ваши изменения сохранены.</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="244"/>
+        <location filename="../../settings/AccountSettings.qml" line="225"/>
         <source>Save changes</source>
         <translation>Сохранить изменения</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="262"/>
+        <location filename="../../settings/AccountSettings.qml" line="243"/>
         <source>Cancel</source>
         <translation>Отменить</translation>
     </message>
@@ -350,67 +350,62 @@
         <translation>Аутентификация: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="105"/>
+        <location filename="../../settings/DetailsScreen.qml" line="103"/>
         <source>Yes</source>
         <translation>Да</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="106"/>
+        <location filename="../../settings/DetailsScreen.qml" line="104"/>
         <source>No</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="107"/>
+        <location filename="../../settings/DetailsScreen.qml" line="105"/>
         <source>Discard changes</source>
         <translation>Отказаться от изменений</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="109"/>
+        <location filename="../../settings/DetailsScreen.qml" line="107"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
         <translation>Вы внесли изменения в настройки. Уверены, что хотите их отменить?</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="126"/>
+        <location filename="../../settings/DetailsScreen.qml" line="113"/>
         <source>OK</source>
         <translation>ОК</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="127"/>
+        <location filename="../../settings/DetailsScreen.qml" line="115"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="129"/>
+        <location filename="../../settings/DetailsScreen.qml" line="117"/>
         <source>Error %1: %2</source>
         <translation>Ошибка %1: %2</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="134"/>
+        <location filename="../../settings/DetailsScreen.qml" line="121"/>
         <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
         <translation>К сожалению, мы не можем настроить вашу учетную запись автоматически. Укажите данные учетной записи:</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="155"/>
-        <source>Testing account configuration...</source>
-        <translation>Проверка конфигурации учетной записи...</translation>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="184"/>
+        <location filename="../../settings/DetailsScreen.qml" line="143"/>
         <source>Next</source>
         <translation>Далее</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="214"/>
+        <location filename="../../settings/DetailsScreen.qml" line="169"/>
         <source>Manual Edit</source>
         <translation>Редактирование вручную</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="217"/>
+        <location filename="../../settings/DetailsScreen.qml" line="172"/>
         <source>Please fill in account details:</source>
         <translation>Укажите данные учетной записи:</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="227"/>
+        <location filename="../../settings/DetailsScreen.qml" line="182"/>
         <source>Cancel</source>
         <translation>Отменить</translation>
     </message>
@@ -604,6 +599,15 @@
         <location filename="../../FolderListView.qml" line="431"/>
         <source>Mark as read</source>
         <translation>Отметить как прочитанное</translation>
+    </message>
+</context>
+<context>
+    <name>FolderListViewToolbar</name>
+    <message>
+        <location filename="../../FolderListViewToolbar.qml" line="136"/>
+        <source>(%1)</source>
+        <extracomment>Arg1 is the number of selected messages</extracomment>
+        <translation/>
     </message>
 </context>
 <context>
@@ -953,67 +957,67 @@
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="55"/>
+        <location filename="../../main.qml" line="56"/>
         <source>Email</source>
         <translation>Эл. почта</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="94"/>
-        <location filename="../../main.qml" line="101"/>
-        <location filename="../../main.qml" line="377"/>
+        <location filename="../../main.qml" line="95"/>
+        <location filename="../../main.qml" line="102"/>
+        <location filename="../../main.qml" line="420"/>
         <source>Account switcher</source>
         <translation>Переключатель учетных записей</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="125"/>
+        <location filename="../../main.qml" line="126"/>
         <source>On %1 %2 wrote:
 </source>
         <translation>%1 %2 написал:
 </translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="166"/>
+        <location filename="../../main.qml" line="167"/>
         <source>OK</source>
         <translation>ОК</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="167"/>
+        <location filename="../../main.qml" line="168"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="289"/>
+        <location filename="../../main.qml" line="332"/>
         <source>-------- Forwarded Message --------</source>
         <translation>-------- Перенаправленное сообщение --------</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="290"/>
+        <location filename="../../main.qml" line="333"/>
         <source>[Fwd: %1]</source>
         <translation>[Перенапр.: %1]</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="313"/>
-        <location filename="../../main.qml" line="338"/>
+        <location filename="../../main.qml" line="356"/>
+        <location filename="../../main.qml" line="381"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="372"/>
+        <location filename="../../main.qml" line="415"/>
         <source>Account list</source>
         <translation>Список учетных записей</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="400"/>
+        <location filename="../../main.qml" line="443"/>
         <source>Composer</source>
         <translation>Composer</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="454"/>
+        <location filename="../../main.qml" line="497"/>
         <source>Mark as unread</source>
         <translation>Отметить как непрочитанное</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="454"/>
+        <location filename="../../main.qml" line="497"/>
         <source>Mark as read</source>
         <translation>Отметить как прочитанное</translation>
     </message>

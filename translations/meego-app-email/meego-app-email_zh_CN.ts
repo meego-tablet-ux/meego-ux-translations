@@ -84,22 +84,22 @@
         <translation>删除帐户</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="232"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="225"/>
         <source>Yes</source>
         <translation>是</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="233"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="226"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="234"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="227"/>
         <source>Delete account</source>
         <translation>删除帐号</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="236"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="229"/>
         <source>Are you sure you want to delete this account?</source>
         <translation>您确定要删除此帐户？</translation>
     </message>
@@ -150,62 +150,62 @@
         <translation>“%1”</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="166"/>
+        <location filename="../../settings/AccountSettings.qml" line="158"/>
         <source>Notifications</source>
         <translation>通知</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="184"/>
+        <location filename="../../settings/AccountSettings.qml" line="176"/>
         <source>New email notifications</source>
         <translation>新电子邮件通知</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="189"/>
+        <location filename="../../settings/AccountSettings.qml" line="181"/>
         <source>Ask before deleting email</source>
         <translation>删除电子邮件前询问</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="204"/>
+        <location filename="../../settings/AccountSettings.qml" line="194"/>
         <source>Yes</source>
         <translation>是</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="205"/>
+        <location filename="../../settings/AccountSettings.qml" line="195"/>
         <source>No</source>
         <translation>否</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="206"/>
+        <location filename="../../settings/AccountSettings.qml" line="196"/>
         <source>Discard changes</source>
         <translation>丢弃更改</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="208"/>
+        <location filename="../../settings/AccountSettings.qml" line="198"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
         <translation>您对设置作了更改，您确定要取消？</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="222"/>
+        <location filename="../../settings/AccountSettings.qml" line="204"/>
         <source>OK</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="223"/>
+        <location filename="../../settings/AccountSettings.qml" line="206"/>
         <source>Changes saved</source>
         <translation>更改已保存</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="225"/>
+        <location filename="../../settings/AccountSettings.qml" line="208"/>
         <source>Your changes have been saved.</source>
         <translation>您的更改已保存。</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="244"/>
+        <location filename="../../settings/AccountSettings.qml" line="225"/>
         <source>Save changes</source>
         <translation>保存更改</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="262"/>
+        <location filename="../../settings/AccountSettings.qml" line="243"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -350,67 +350,62 @@
         <translation>验证： %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="105"/>
+        <location filename="../../settings/DetailsScreen.qml" line="103"/>
         <source>Yes</source>
         <translation>是</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="106"/>
+        <location filename="../../settings/DetailsScreen.qml" line="104"/>
         <source>No</source>
         <translation>否</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="107"/>
+        <location filename="../../settings/DetailsScreen.qml" line="105"/>
         <source>Discard changes</source>
         <translation>丢弃更改</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="109"/>
+        <location filename="../../settings/DetailsScreen.qml" line="107"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
         <translation>您对设置作了更改，您确定要取消？</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="126"/>
+        <location filename="../../settings/DetailsScreen.qml" line="113"/>
         <source>OK</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="127"/>
+        <location filename="../../settings/DetailsScreen.qml" line="115"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="129"/>
+        <location filename="../../settings/DetailsScreen.qml" line="117"/>
         <source>Error %1: %2</source>
         <translation>错误 %1： %2</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="134"/>
+        <location filename="../../settings/DetailsScreen.qml" line="121"/>
         <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
         <translation>抱歉，我们不能自动设置您的帐户。 请填入帐户信息：</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="155"/>
-        <source>Testing account configuration...</source>
-        <translation>测试帐户配置...</translation>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="184"/>
+        <location filename="../../settings/DetailsScreen.qml" line="143"/>
         <source>Next</source>
         <translation>下一步</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="214"/>
+        <location filename="../../settings/DetailsScreen.qml" line="169"/>
         <source>Manual Edit</source>
         <translation>手动编辑</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="217"/>
+        <location filename="../../settings/DetailsScreen.qml" line="172"/>
         <source>Please fill in account details:</source>
         <translation>请填入帐户信息：</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="227"/>
+        <location filename="../../settings/DetailsScreen.qml" line="182"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -604,6 +599,15 @@
         <location filename="../../FolderListView.qml" line="431"/>
         <source>Mark as read</source>
         <translation>标为已读</translation>
+    </message>
+</context>
+<context>
+    <name>FolderListViewToolbar</name>
+    <message>
+        <location filename="../../FolderListViewToolbar.qml" line="136"/>
+        <source>(%1)</source>
+        <extracomment>Arg1 is the number of selected messages</extracomment>
+        <translation/>
     </message>
 </context>
 <context>
@@ -953,67 +957,67 @@
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="55"/>
+        <location filename="../../main.qml" line="56"/>
         <source>Email</source>
         <translation>电邮</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="94"/>
-        <location filename="../../main.qml" line="101"/>
-        <location filename="../../main.qml" line="377"/>
+        <location filename="../../main.qml" line="95"/>
+        <location filename="../../main.qml" line="102"/>
+        <location filename="../../main.qml" line="420"/>
         <source>Account switcher</source>
         <translation>帐户切换器</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="125"/>
+        <location filename="../../main.qml" line="126"/>
         <source>On %1 %2 wrote:
 </source>
         <translation>在 %1 %2 写道：
 </translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="166"/>
+        <location filename="../../main.qml" line="167"/>
         <source>OK</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="167"/>
+        <location filename="../../main.qml" line="168"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="289"/>
+        <location filename="../../main.qml" line="332"/>
         <source>-------- Forwarded Message --------</source>
         <translation>-------- 转发的消息 --------</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="290"/>
+        <location filename="../../main.qml" line="333"/>
         <source>[Fwd: %1]</source>
         <translation>[Fwd： %1]</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="313"/>
-        <location filename="../../main.qml" line="338"/>
+        <location filename="../../main.qml" line="356"/>
+        <location filename="../../main.qml" line="381"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="372"/>
+        <location filename="../../main.qml" line="415"/>
         <source>Account list</source>
         <translation>帐号列表</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="400"/>
+        <location filename="../../main.qml" line="443"/>
         <source>Composer</source>
         <translation>编辑器</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="454"/>
+        <location filename="../../main.qml" line="497"/>
         <source>Mark as unread</source>
         <translation>标为未读</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="454"/>
+        <location filename="../../main.qml" line="497"/>
         <source>Mark as read</source>
         <translation>标为已读</translation>
     </message>

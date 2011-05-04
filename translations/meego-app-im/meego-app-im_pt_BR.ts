@@ -4,54 +4,45 @@
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="117"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>Várias contas conectadas</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="118"/>
-        <source>Do you really want to connect this account?</source>
-        <translation/>
+        <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
+        <translation>Você realmente deseja conectar esta conta? Ao fazer isso todas as outras %1 contas serão desconectadas.</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="119"/>
-        <source>By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="188"/>
+        <source>There is already an account configured using this login. Please check your username.</source>
+        <translation>Já existe uma conta configurada usando este nome de usuário. Por favor, verifique o seu nome de usuário.</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="190"/>
-        <source>There is already an account configured using this login. 
-Please check your username.</source>
-        <translation>Já há uma conta configurada usando este nome de usuário.
-Por favor, verifique se está correto.</translation>
+        <location filename="../../plugin/IM/AccountContent.qml" line="189"/>
+        <source>Sorry, there was a problem logging in. Please check your username and password.</source>
+        <translation>Desculpe, houve um problema ao logar. Por favor verifique o seu nome de usuário e senha.</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="191"/>
-        <source>Sorry, there was a problem logging in. 
-Please check your username and password.</source>
-        <translation>Desculpe, ocorreu um problema ao efetuar login.
-Por favor, verifique o seu usuário e senha.</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="207"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="205"/>
         <source>Username:</source>
         <translation>Nome de usuário:</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="218"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="216"/>
         <source>Name / ID</source>
         <translation>Nome / ID</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="226"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="224"/>
         <source>Password:</source>
         <translation>Senha:</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="238"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="236"/>
         <source>Password</source>
         <translation>Senha</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="255"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="253"/>
         <source>Advanced settings</source>
         <translation>Configurações avançadas</translation>
     </message>
@@ -59,12 +50,12 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>AccountContentDialog</name>
     <message>
-        <location filename="../../plugin/IM/AccountContentDialog.qml" line="112"/>
+        <location filename="../../plugin/IM/AccountContentDialog.qml" line="111"/>
         <source>Done</source>
         <translation>Pronto</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContentDialog.qml" line="133"/>
+        <location filename="../../plugin/IM/AccountContentDialog.qml" line="130"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
@@ -72,32 +63,27 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>AccountDelegate</name>
     <message>
-        <location filename="../../AccountDelegate.qml" line="113"/>
-        <source>Multiple accounts connected</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../AccountDelegate.qml" line="114"/>
-        <source>Do you really want to connect this account?</source>
-        <translation/>
-    </message>
-    <message>
         <location filename="../../AccountDelegate.qml" line="115"/>
-        <source>By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <source>Multiple accounts connected</source>
+        <translation>Várias contas conectadas</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="177"/>
+        <location filename="../../AccountDelegate.qml" line="116"/>
+        <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
+        <translation>Você realmente deseja conectar esta conta? Ao fazer isso todas as outras %1 contas serão desconectadas.</translation>
+    </message>
+    <message>
+        <location filename="../../AccountDelegate.qml" line="171"/>
         <source>Log out</source>
         <translation>Sair</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="179"/>
+        <location filename="../../AccountDelegate.qml" line="173"/>
         <source>Log in to %1</source>
         <translation>Iniciar sessão no %1</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="181"/>
+        <location filename="../../AccountDelegate.qml" line="175"/>
         <source>Settings</source>
         <translation>Configurações</translation>
     </message>
@@ -105,7 +91,7 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>AccountOffline</name>
     <message>
-        <location filename="../../AccountOffline.qml" line="24"/>
+        <location filename="../../AccountOffline.qml" line="25"/>
         <source>Account is offline</source>
         <translation>Conta está offline</translation>
     </message>
@@ -113,18 +99,18 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>AccountScreenContent</name>
     <message>
-        <location filename="../../AccountScreenContent.qml" line="15"/>
-        <location filename="../../AccountScreenContent.qml" line="19"/>
+        <location filename="../../AccountScreenContent.qml" line="16"/>
+        <location filename="../../AccountScreenContent.qml" line="20"/>
         <source>Account list</source>
         <translation>Lista de contas</translation>
     </message>
     <message>
-        <location filename="../../AccountScreenContent.qml" line="50"/>
+        <location filename="../../AccountScreenContent.qml" line="52"/>
         <source>Choose an account</source>
         <translation>Escolha uma conta</translation>
     </message>
     <message>
-        <location filename="../../AccountScreenContent.qml" line="81"/>
+        <location filename="../../AccountScreenContent.qml" line="83"/>
         <source>Add an account</source>
         <translation>Adicione uma conta</translation>
     </message>
@@ -132,17 +118,17 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>AccountSetupBar</name>
     <message>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="36"/>
+        <location filename="../../plugin/IM/AccountSetupBar.qml" line="39"/>
         <source>Update</source>
         <translation>Atualizar</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="54"/>
+        <location filename="../../plugin/IM/AccountSetupBar.qml" line="55"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="73"/>
+        <location filename="../../plugin/IM/AccountSetupBar.qml" line="79"/>
         <source>Delete account</source>
         <translation>Apagar conta</translation>
     </message>
@@ -150,22 +136,27 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>AddAFriend</name>
     <message>
-        <location filename="../../AddAFriend.qml" line="58"/>
+        <location filename="../../AddAFriend.qml" line="51"/>
+        <source>friend&apos;s username</source>
+        <translation>nome de usuário do amigo</translation>
+    </message>
+    <message>
+        <location filename="../../AddAFriend.qml" line="59"/>
         <source>Send</source>
         <translation>Enviar</translation>
     </message>
     <message>
-        <location filename="../../AddAFriend.qml" line="87"/>
+        <location filename="../../AddAFriend.qml" line="88"/>
         <source>Sending request</source>
         <translation>Enviando requisição</translation>
     </message>
     <message>
-        <location filename="../../AddAFriend.qml" line="96"/>
+        <location filename="../../AddAFriend.qml" line="97"/>
         <source>Request sent</source>
         <translation>Requisição enviada</translation>
     </message>
     <message>
-        <location filename="../../AddAFriend.qml" line="114"/>
+        <location filename="../../AddAFriend.qml" line="115"/>
         <source>Your device is not connected to a network. Please connect and try again.</source>
         <translation>O seu dispositivo não está conectado à rede. Por favor, conecte e tente novamente.</translation>
     </message>
@@ -187,70 +178,70 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>CallAgent</name>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="112"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="115"/>
         <source>Unable to create media call for contact %1</source>
         <translation>Não foi possível criar chamada de mídia para contato %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="160"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="169"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="163"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="172"/>
         <source>Error ending call</source>
         <translation>Erro terminando chamada</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="194"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="898"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="197"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="929"/>
         <source>Call could not be accepted</source>
         <translation>A chamada não pôde ser aceita</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="366"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="369"/>
         <source>Could not set hold = %</source>
         <translation>Não foi definir espera  = %</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="462"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="617"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="469"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="626"/>
         <source>Channel not available</source>
         <translation>Canal indisponível</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="557"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="566"/>
         <source>Unable to create call channel for contact %1</source>
         <translation>Não foi possível criar canal de chamada para contato %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="857"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="888"/>
         <source>Unable to create channel: %1 - %2</source>
         <translation>Não foi possível criar canal: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="872"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="903"/>
         <source>Unable to create channel</source>
         <translation>Não foi possível criar canal</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="886"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="917"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
         <translation>Não foi possível criar canal de chamada para contato %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="942"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="973"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
         <translation>Canal de chamada invalidado para contato %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1210"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1241"/>
         <source>Error ending call: %1 - %2</source>
         <translation>Erro terminando chamada: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1224"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1255"/>
         <source>Call could not be accepted %1 - %2</source>
         <translation>A chamada não pôde ser aceita %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1238"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1269"/>
         <source>Hold request could not be done %1 - %2</source>
         <translation>A requisição de espera não pode ser completada %1 - %2</translation>
     </message>
@@ -258,47 +249,47 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>ChatAgent</name>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="68"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="70"/>
         <source>Unable to create text channel room %1</source>
         <translation>Não foi possível criar sala de canal de texto %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="126"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="130"/>
         <source>Unable to create text channel for contact %1</source>
         <translation>Não foi possível criar canais de texto para contato %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="147"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="151"/>
         <source>Unable to create channel: %1 - %2</source>
         <translation>Não foi possível criar canais: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="162"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="166"/>
         <source>Unable to create channel</source>
         <translation>Não foi possível criar</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="175"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="179"/>
         <source>Channel not available</source>
         <translation>Canal indisponível</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="200"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="204"/>
         <source>Unable to create text channel for contact %1 - %2 - %3</source>
         <translation>Não foi possível criar canal de texto para contato %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="218"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="222"/>
         <source>Unable to create text channel</source>
         <translation>Não foi possível criar canal de texto</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="279"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="283"/>
         <source>Invalidated text channel  %1 - %2 - %3</source>
         <translation>Canal de texto invalidado  %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="284"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="288"/>
         <source>Invalidated text channel for contact %1 - %2 - %3</source>
         <translation>Canal de texto invalidado para contato %1 - %2 - %3</translation>
     </message>
@@ -306,12 +297,12 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>ConfirmationDialog</name>
     <message>
-        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="26"/>
+        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="15"/>
         <source>Yes</source>
         <translation>Sim</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="29"/>
+        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="18"/>
         <source>No</source>
         <translation>Não</translation>
     </message>
@@ -319,78 +310,78 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>ContactContentMenu</name>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="33"/>
+        <location filename="../../ContactContentMenu.qml" line="31"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>Várias contas conectadas</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="34"/>
-        <source>Do you really want to connect this account?</source>
-        <translation/>
+        <location filename="../../ContactContentMenu.qml" line="32"/>
+        <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
+        <translation>Você realmente deseja conectar esta conta? Ao fazer isso todas as outras %1 contas serão desconectadas.</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="35"/>
-        <source>By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="183"/>
+        <location filename="../../ContactContentMenu.qml" line="165"/>
         <source>Update status</source>
         <translation>Atualizar status</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="217"/>
+        <location filename="../../ContactContentMenu.qml" line="204"/>
         <source>Available</source>
         <translation>Disponível</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="222"/>
+        <location filename="../../ContactContentMenu.qml" line="209"/>
         <source>Away</source>
         <translation>Ausente</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="227"/>
+        <location filename="../../ContactContentMenu.qml" line="214"/>
         <source>Busy</source>
         <translation>Ocupado</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="232"/>
+        <location filename="../../ContactContentMenu.qml" line="219"/>
         <source>Invisible</source>
         <translation>Invisível</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="237"/>
+        <location filename="../../ContactContentMenu.qml" line="224"/>
         <source>Offline</source>
         <translation>Desconectado</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="353"/>
-        <location filename="../../ContactContentMenu.qml" line="468"/>
+        <location filename="../../ContactContentMenu.qml" line="303"/>
+        <source>Custom status message</source>
+        <translation>Mensagem de status personalizada</translation>
+    </message>
+    <message>
+        <location filename="../../ContactContentMenu.qml" line="311"/>
+        <location filename="../../ContactContentMenu.qml" line="407"/>
         <source>Update</source>
         <translation>Atualizar</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="396"/>
+        <location filename="../../ContactContentMenu.qml" line="339"/>
         <source>Update user display name</source>
         <translation>Atualizar nome de exibição</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="503"/>
+        <location filename="../../ContactContentMenu.qml" line="426"/>
         <source>Add a friend</source>
         <translation>Adicionar um amigo</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="563"/>
+        <location filename="../../ContactContentMenu.qml" line="463"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>Limpar o histórico de conversas</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="602"/>
+        <location filename="../../ContactContentMenu.qml" line="479"/>
         <source>Log in</source>
         <translation>Entrar</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="602"/>
+        <location filename="../../ContactContentMenu.qml" line="479"/>
         <source>Log out</source>
         <translation>Sair</translation>
     </message>
@@ -398,17 +389,17 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>ContactPickerContent</name>
     <message>
-        <location filename="../../ContactPickerContent.qml" line="49"/>
+        <location filename="../../ContactPickerContent.qml" line="50"/>
         <source>Add contacts to chat</source>
         <translation>Adicionar contatos para conversa</translation>
     </message>
     <message>
-        <location filename="../../ContactPickerContent.qml" line="133"/>
+        <location filename="../../ContactPickerContent.qml" line="135"/>
         <source>Add</source>
         <translation>Adicionar</translation>
     </message>
     <message>
-        <location filename="../../ContactPickerContent.qml" line="172"/>
+        <location filename="../../ContactPickerContent.qml" line="174"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
@@ -416,27 +407,27 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>ContactPickerDelegate</name>
     <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="124"/>
+        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="123"/>
         <source>available</source>
         <translation>disponível</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="126"/>
+        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="125"/>
         <source>busy</source>
         <translation>ocupado</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="128"/>
+        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="127"/>
         <source>away</source>
         <translation>ausente</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="130"/>
+        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="129"/>
         <source>extended away</source>
         <translation>ausente (estendido)</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="132"/>
+        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="131"/>
         <source>offline</source>
         <translation>desconectado</translation>
     </message>
@@ -449,12 +440,12 @@ Por favor, verifique o seu usuário e senha.</translation>
         <translation>Requisição de %1</translation>
     </message>
     <message>
-        <location filename="../../ContactRequestDelegate.qml" line="61"/>
+        <location filename="../../ContactRequestDelegate.qml" line="60"/>
         <source>Accept</source>
         <translation>Aceitar</translation>
     </message>
     <message>
-        <location filename="../../ContactRequestDelegate.qml" line="80"/>
+        <location filename="../../ContactRequestDelegate.qml" line="78"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
@@ -462,42 +453,42 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>ContactsDelegate</name>
     <message>
-        <location filename="../../ContactsDelegate.qml" line="73"/>
+        <location filename="../../ContactsDelegate.qml" line="72"/>
         <source>Return to chat</source>
         <translation>Retornar para bate-papo</translation>
     </message>
     <message>
-        <location filename="../../ContactsDelegate.qml" line="75"/>
+        <location filename="../../ContactsDelegate.qml" line="74"/>
         <source>Open chat</source>
         <translation>Abrir bate-papo</translation>
     </message>
     <message>
-        <location filename="../../ContactsDelegate.qml" line="79"/>
+        <location filename="../../ContactsDelegate.qml" line="78"/>
         <source>Call</source>
         <translation>Chamada</translation>
     </message>
     <message>
-        <location filename="../../ContactsDelegate.qml" line="82"/>
+        <location filename="../../ContactsDelegate.qml" line="81"/>
         <source>Video call</source>
         <translation>Chamada de vídeo</translation>
     </message>
     <message>
-        <location filename="../../ContactsDelegate.qml" line="87"/>
+        <location filename="../../ContactsDelegate.qml" line="86"/>
         <source>Unblock</source>
         <translation>Desbloquear</translation>
     </message>
     <message>
-        <location filename="../../ContactsDelegate.qml" line="89"/>
+        <location filename="../../ContactsDelegate.qml" line="88"/>
         <source>Block</source>
         <translation>Bloquear</translation>
     </message>
     <message>
-        <location filename="../../ContactsDelegate.qml" line="95"/>
+        <location filename="../../ContactsDelegate.qml" line="94"/>
         <source>End chat</source>
         <translation>Finalizar bate-papo</translation>
     </message>
     <message>
-        <location filename="../../ContactsDelegate.qml" line="99"/>
+        <location filename="../../ContactsDelegate.qml" line="98"/>
         <source>Delete contact</source>
         <translation>Apagar contato</translation>
     </message>
@@ -505,7 +496,7 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>ContactsLoading</name>
     <message>
-        <location filename="../../ContactsLoading.qml" line="27"/>
+        <location filename="../../ContactsLoading.qml" line="28"/>
         <source>Loading contacts</source>
         <translation>Carregando contatos</translation>
     </message>
@@ -527,174 +518,145 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>FileTransferDelegate</name>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="130"/>
+        <location filename="../../FileTransferDelegate.qml" line="135"/>
         <source>Upload canceled:</source>
         <translation>Envio cancelado:</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="132"/>
+        <location filename="../../FileTransferDelegate.qml" line="137"/>
         <source>Sent:</source>
         <translation>Enviado:</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="134"/>
+        <location filename="../../FileTransferDelegate.qml" line="139"/>
         <source>Uploading:</source>
         <translation>Enviando:</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="138"/>
+        <location filename="../../FileTransferDelegate.qml" line="143"/>
         <source>%1 has sent you:</source>
         <translation>%1 foi enviado para você:</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="140"/>
+        <location filename="../../FileTransferDelegate.qml" line="145"/>
         <source>%1 is sending you:</source>
         <translation>%1 foi enviado para você:</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="194"/>
+        <location filename="../../FileTransferDelegate.qml" line="199"/>
         <source>(%1)</source>
         <translation>(%1)</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="206"/>
+        <location filename="../../FileTransferDelegate.qml" line="211"/>
         <source>Open</source>
         <translation>Abrir</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="226"/>
+        <location filename="../../FileTransferDelegate.qml" line="235"/>
         <source>There was a problem downloading</source>
         <translation>Há um problema ao baixar</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="228"/>
+        <location filename="../../FileTransferDelegate.qml" line="237"/>
         <source>There was a problem uploading</source>
         <translation>Ocorreu um problema ao enviar</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="231"/>
+        <location filename="../../FileTransferDelegate.qml" line="240"/>
         <source>Canceled</source>
         <translation>Cancelado</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="257"/>
+        <location filename="../../FileTransferDelegate.qml" line="266"/>
         <source>Save</source>
         <translation>Salvar</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="273"/>
+        <location filename="../../FileTransferDelegate.qml" line="282"/>
         <source>Decline</source>
         <translation>Recusar</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="303"/>
+        <location filename="../../FileTransferDelegate.qml" line="312"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
 </context>
 <context>
-    <name>FileTransferItem</name>
-    <message>
-        <location filename="../../telepathy-qml-lib/filetransferitem.cpp" line="16"/>
-        <source>Incoming file</source>
-        <translation>Recebendo arquivo</translation>
-    </message>
-</context>
-<context>
     <name>IMConversationModel</name>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="247"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="252"/>
         <source>%1 is typing</source>
         <translation>%1 está digitando</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="249"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="254"/>
         <source>%1 and %2 are typing</source>
         <translation>%1 e %2 estão digitando</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="251"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="256"/>
         <source>Lots of people are typing</source>
         <translation>Há muitas pessoas digitando</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="256"/>
-        <source>%1 has left the conversation</source>
-        <translation>%1 saiu da conversa</translation>
-    </message>
-    <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="261"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="265"/>
         <source>%1 has paused typing</source>
         <translation>%1 parou de digitar</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="265"/>
-        <source>%1 is now active</source>
-        <translation>%1 agora está ativo</translation>
-    </message>
-    <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="269"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="273"/>
         <source>%1 is now idle</source>
         <translation>%1 está agora ocioso</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="339"/>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="399"/>
-        <source>Error in call with %1</source>
-        <translation>Erro na chamada com %1</translation>
-    </message>
-    <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="344"/>
-        <source>Call with %1 ended</source>
-        <translation>Chamada com %1 finalizada</translation>
-    </message>
-    <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="346"/>
-        <source>Missed call from %1</source>
-        <translation>Chamada perdida de %1</translation>
-    </message>
-    <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="351"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="357"/>
         <source>%1 is calling you</source>
         <translation>%1 está chamando você</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="354"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="360"/>
         <source>Setting up call to %1</source>
         <translation>Configurando chamada para %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="357"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="363"/>
         <source>Calling %1</source>
         <translation>Chamando %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="360"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="366"/>
         <source>Call with %1 started</source>
         <translation>Chamada com %1 iniciadas</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="363"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="369"/>
         <source>Call with %1 on hold</source>
         <translation>Chamada com %1 em espera</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="422"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="429"/>
+        <source>Error in call with %1</source>
+        <translation>Erro na chamada com %1</translation>
+    </message>
+    <message>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="454"/>
         <source>%1 bytes</source>
         <translation>%1 bytes</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="426"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="458"/>
         <source>%1 KB</source>
         <translation>%1 KB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="430"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="462"/>
         <source>%1 MB</source>
         <translation>%1 MB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="434"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="466"/>
         <source>%1 GB</source>
         <translation>%1 GB</translation>
     </message>
@@ -730,7 +692,7 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>ImSettings</name>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="16"/>
+        <location filename="../../settings/ImSettings.qml" line="17"/>
         <source>Instant Messaging Settings</source>
         <translation>Configurações de mensagem instantânea</translation>
     </message>
@@ -740,32 +702,32 @@ Por favor, verifique o seu usuário e senha.</translation>
         <translation>Contas</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="117"/>
+        <location filename="../../settings/ImSettings.qml" line="115"/>
         <source>Add another account</source>
         <translation>Adicionar outra conta</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="134"/>
+        <location filename="../../settings/ImSettings.qml" line="132"/>
         <source>General Settings</source>
         <translation>Opções gerais</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="158"/>
+        <location filename="../../settings/ImSettings.qml" line="156"/>
         <source>Show offline contacts</source>
         <translation>Mostrar contatos offline</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="182"/>
+        <location filename="../../settings/ImSettings.qml" line="180"/>
         <source>Notification on new message</source>
         <translation>Notificação na nova mensagem</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="214"/>
+        <location filename="../../settings/ImSettings.qml" line="210"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>Limpar o histórico de conversas</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="240"/>
+        <location filename="../../settings/ImSettings.qml" line="236"/>
         <source>Blocked contacts</source>
         <translation>Contatos bloqueados</translation>
     </message>
@@ -778,19 +740,14 @@ Por favor, verifique o seu usuário e senha.</translation>
         <translation>Recebendo chamada</translation>
     </message>
     <message>
-        <location filename="../../IncomingCall.qml" line="19"/>
+        <location filename="../../IncomingCall.qml" line="20"/>
         <source>Accept</source>
         <translation>Aceitar</translation>
     </message>
     <message>
-        <location filename="../../IncomingCall.qml" line="22"/>
+        <location filename="../../IncomingCall.qml" line="23"/>
         <source>Decline</source>
         <translation>Recusar</translation>
-    </message>
-    <message>
-        <location filename="../../IncomingCall.qml" line="33"/>
-        <source>Incoming call: %1</source>
-        <translation>Recebendo chamada: %1</translation>
     </message>
 </context>
 <context>
@@ -824,9 +781,9 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>LoadingConversationHistory</name>
     <message>
-        <location filename="../../LoadingConversationHistory.qml" line="28"/>
+        <location filename="../../LoadingConversationHistory.qml" line="29"/>
         <source>Loading conversation history</source>
-        <translation/>
+        <translation>Carregando histórico de conversas</translation>
     </message>
 </context>
 <context>
@@ -840,12 +797,12 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>MessageContactsDelegate</name>
     <message>
-        <location filename="../../MessageContactsDelegate.qml" line="51"/>
+        <location filename="../../MessageContactsDelegate.qml" line="53"/>
         <source>Private chat</source>
         <translation>Conversa privada</translation>
     </message>
     <message>
-        <location filename="../../MessageContactsDelegate.qml" line="55"/>
+        <location filename="../../MessageContactsDelegate.qml" line="57"/>
         <source>Add to contacts</source>
         <translation>Adicionar para contatos</translation>
     </message>
@@ -853,17 +810,17 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>MessageContentMenu</name>
     <message>
-        <location filename="../../MessageContentMenu.qml" line="63"/>
+        <location filename="../../MessageContentMenu.qml" line="48"/>
         <source>Add contacts to chat</source>
         <translation>Adicionar contatos para conversa</translation>
     </message>
     <message>
-        <location filename="../../MessageContentMenu.qml" line="97"/>
+        <location filename="../../MessageContentMenu.qml" line="63"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>Limpar o histórico de conversas</translation>
     </message>
     <message>
-        <location filename="../../MessageContentMenu.qml" line="135"/>
+        <location filename="../../MessageContentMenu.qml" line="82"/>
         <source>End chat</source>
         <translation>Finalizar conversa</translation>
     </message>
@@ -871,51 +828,66 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>MessageDelegate</name>
     <message>
-        <location filename="../../MessageDelegate.qml" line="208"/>
-        <location filename="../../MessageDelegate.qml" line="215"/>
+        <location filename="../../MessageDelegate.qml" line="232"/>
+        <location filename="../../MessageDelegate.qml" line="239"/>
         <source>%1 - %2</source>
         <translation>%1 - %2</translation>
+    </message>
+    <message>
+        <location filename="../../MessageDelegate.qml" line="282"/>
+        <source>%1 tried to call - %2</source>
+        <translation>%1 tentou chamar - %2</translation>
+    </message>
+    <message>
+        <location filename="../../MessageDelegate.qml" line="284"/>
+        <source>%1 rejected call - %2</source>
+        <translation>%1 rejeitou chamada - %2</translation>
+    </message>
+    <message>
+        <location filename="../../MessageDelegate.qml" line="286"/>
+        <source>%1 called - duration %2 - %3</source>
+        <translation>%1 chamou - duração %2 - %3</translation>
     </message>
 </context>
 <context>
     <name>MessageScreenContent</name>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="83"/>
+        <location filename="../../MessageScreenContent.qml" line="84"/>
         <source>Group conversation</source>
         <translation>Agrupar conversa</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="85"/>
+        <location filename="../../MessageScreenContent.qml" line="86"/>
         <source>Chat with %1</source>
         <translation>Conversa com %1</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="450"/>
+        <location filename="../../MessageScreenContent.qml" line="453"/>
         <source>Send</source>
         <translation>Enviar</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="857"/>
+        <location filename="../../MessageScreenContent.qml" line="861"/>
         <source>Minimize me</source>
         <translation>MInimize-me</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="857"/>
+        <location filename="../../MessageScreenContent.qml" line="861"/>
         <source>Maximize me</source>
         <translation>Maximize-me</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="858"/>
+        <location filename="../../MessageScreenContent.qml" line="862"/>
         <source>Disable camera</source>
         <translation>Desativar câmera</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="858"/>
+        <location filename="../../MessageScreenContent.qml" line="862"/>
         <source>Enable camera</source>
         <translation>Habilitar câmera</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="859"/>
+        <location filename="../../MessageScreenContent.qml" line="863"/>
         <source>Swap camera</source>
         <translation>Trocar câmera</translation>
     </message>
@@ -957,45 +929,45 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>SearchHeader</name>
     <message>
-        <location filename="../../SearchHeader.qml" line="48"/>
+        <location filename="../../SearchHeader.qml" line="49"/>
         <source>%1 matches found</source>
-        <translation/>
+        <translation>%1 combinações encontradas</translation>
     </message>
     <message>
-        <location filename="../../SearchHeader.qml" line="73"/>
+        <location filename="../../SearchHeader.qml" line="74"/>
         <source>Older</source>
-        <translation/>
+        <translation>Mais antiga</translation>
     </message>
     <message>
-        <location filename="../../SearchHeader.qml" line="86"/>
+        <location filename="../../SearchHeader.qml" line="87"/>
         <source>Newer</source>
-        <translation/>
+        <translation>Mais recente</translation>
     </message>
 </context>
 <context>
     <name>SendFileView</name>
     <message>
-        <location filename="../../SendFileView.qml" line="46"/>
+        <location filename="../../SendFileView.qml" line="53"/>
         <source>Send:</source>
         <translation>Enviar:</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="71"/>
+        <location filename="../../SendFileView.qml" line="68"/>
         <source>Photo</source>
         <translation>Foto</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="99"/>
+        <location filename="../../SendFileView.qml" line="85"/>
         <source>Video</source>
         <translation>Vídeo</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="127"/>
+        <location filename="../../SendFileView.qml" line="102"/>
         <source>Music</source>
         <translation>Música</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="154"/>
+        <location filename="../../SendFileView.qml" line="119"/>
         <source>Contact Details</source>
         <translation>Detalhes do contato</translation>
     </message>
@@ -1003,7 +975,7 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>TelepathyManager</name>
     <message>
-        <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="484"/>
+        <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="514"/>
         <source>%1 - %2</source>
         <translation>%1 - %2</translation>
     </message>
@@ -1011,48 +983,48 @@ Por favor, verifique o seu usuário e senha.</translation>
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="20"/>
+        <location filename="../../main.qml" line="21"/>
         <source>Chat</source>
         <translation>Bate-papo</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="227"/>
-        <location filename="../../main.qml" line="292"/>
+        <location filename="../../main.qml" line="203"/>
+        <location filename="../../main.qml" line="268"/>
         <source>Group conversation</source>
         <translation>Agrupar conversa</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="273"/>
+        <location filename="../../main.qml" line="249"/>
         <source>Chat with %1</source>
         <translation>Conversa com %1</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="376"/>
+        <location filename="../../main.qml" line="352"/>
         <source>Account switcher</source>
         <translation>Alternador de conta</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="383"/>
+        <location filename="../../main.qml" line="359"/>
         <source>available</source>
         <translation>disponível</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="385"/>
+        <location filename="../../main.qml" line="361"/>
         <source>busy</source>
         <translation>ocupado</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="387"/>
+        <location filename="../../main.qml" line="363"/>
         <source>away</source>
         <translation>ausente</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="389"/>
+        <location filename="../../main.qml" line="365"/>
         <source>extended away</source>
         <translation>ausente (estendido)</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="391"/>
+        <location filename="../../main.qml" line="367"/>
         <source>offline</source>
         <translation>desconectado</translation>
     </message>
@@ -1083,11 +1055,6 @@ Por favor, verifique o seu usuário e senha.</translation>
         <location filename="../../utils.js" line="25"/>
         <source>Ringing</source>
         <translation>Tocando</translation>
-    </message>
-    <message>
-        <location filename="../../utils.js" line="28"/>
-        <source>HH:mm:ss</source>
-        <translation>HH:mm:ss</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="31"/>

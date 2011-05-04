@@ -14,11 +14,6 @@
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
-    <message>
-        <location filename="../../src/DataHandler.cpp" line="1299"/>
-        <source>dd-MMM-yyyy</source>
-        <translation>dd-MMM-rrrr</translation>
-    </message>
 </context>
 <context>
     <name>DeleteMoveNotificationDialog</name>
@@ -31,17 +26,17 @@
 <context>
     <name>FontSelector</name>
     <message>
-        <location filename="../../FontSelector.qml" line="128"/>
+        <location filename="../../FontSelector.qml" line="125"/>
         <source>&lt;b&gt;Pick a font&lt;/b&gt;</source>
         <translation>&lt;b&gt;Vyberte si písmo&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../../FontSelector.qml" line="156"/>
+        <location filename="../../FontSelector.qml" line="147"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../FontSelector.qml" line="185"/>
+        <location filename="../../FontSelector.qml" line="173"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
@@ -54,12 +49,12 @@
         <translation>Vyberte si velikost písma</translation>
     </message>
     <message>
-        <location filename="../../FontSizeSelector.qml" line="146"/>
+        <location filename="../../FontSizeSelector.qml" line="144"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../FontSizeSelector.qml" line="177"/>
+        <location filename="../../FontSizeSelector.qml" line="172"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
@@ -75,12 +70,12 @@
 <context>
     <name>NoteButton</name>
     <message>
-        <location filename="../../NoteButton.qml" line="104"/>
+        <location filename="../../NoteButton.qml" line="105"/>
         <source>Text Element</source>
         <translation>Textová část</translation>
     </message>
     <message>
-        <location filename="../../NoteButton.qml" line="119"/>
+        <location filename="../../NoteButton.qml" line="118"/>
         <source>Add some comments here</source>
         <translation>Zde přidejte nějaké poznámky</translation>
     </message>
@@ -88,22 +83,22 @@
 <context>
     <name>NoteDetail</name>
     <message>
-        <location filename="../../NoteDetail.qml" line="15"/>
+        <location filename="../../NoteDetail.qml" line="16"/>
         <source>Everyday Notes (default)</source>
         <translation>Všední poznámky (výchozí)</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="16"/>
+        <location filename="../../NoteDetail.qml" line="17"/>
         <source>Note name...</source>
         <translation>Název poznámky...</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="30"/>
+        <location filename="../../NoteDetail.qml" line="36"/>
         <source>Save</source>
         <translation>Uložit</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="30"/>
+        <location filename="../../NoteDetail.qml" line="36"/>
         <source>Delete</source>
         <translation>Smazat</translation>
     </message>
@@ -118,37 +113,35 @@
         <translation>Začněte psát novou poznámku.</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="127"/>
+        <location filename="../../NoteDetail.qml" line="122"/>
         <source>Yes</source>
         <translation>Ano</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="128"/>
+        <location filename="../../NoteDetail.qml" line="123"/>
         <source>No</source>
         <translation>Ne</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="129"/>
+        <location filename="../../NoteDetail.qml" line="124"/>
         <source>Delete?</source>
         <translation>Smazat?</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="135"/>
-        <source>Do you want to Delete
-this notebook?</source>
-        <translation>Chcete smazat
-tento zápisník?</translation>
+        <location filename="../../NoteDetail.qml" line="127"/>
+        <source>Do you want to Delete this note?</source>
+        <translation>Chcete smazat tuto poznámku?</translation>
     </message>
 </context>
 <context>
     <name>NotebookSelector</name>
     <message>
-        <location filename="../../NotebookSelector.qml" line="54"/>
+        <location filename="../../NotebookSelector.qml" line="53"/>
         <source>Everyday Notes (default)</source>
         <translation>Všední poznámky (výchozí)</translation>
     </message>
     <message>
-        <location filename="../../NotebookSelector.qml" line="113"/>
+        <location filename="../../NotebookSelector.qml" line="107"/>
         <source>&lt;b&gt;Pick a notebook&lt;/b&gt;</source>
         <translation>&lt;b&gt;Vyberte si zápisník&lt;/b&gt;</translation>
     </message>
@@ -156,115 +149,107 @@ tento zápisník?</translation>
 <context>
     <name>NotebooksView</name>
     <message>
-        <location filename="../../NotebooksView.qml" line="16"/>
         <location filename="../../NotebooksView.qml" line="17"/>
+        <location filename="../../NotebooksView.qml" line="18"/>
         <source>Everyday Notes (default)</source>
         <translation>Všední poznámky (výchozí)</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="32"/>
-        <location filename="../../NotebooksView.qml" line="34"/>
+        <location filename="../../NotebooksView.qml" line="33"/>
+        <location filename="../../NotebooksView.qml" line="35"/>
         <source>New Notebook</source>
         <translation>Nový zápisník</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="34"/>
+        <location filename="../../NotebooksView.qml" line="35"/>
         <source>Select Multiple</source>
         <translation>Vybrat více</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="61"/>
-        <location filename="../../NotebooksView.qml" line="96"/>
+        <location filename="../../NotebooksView.qml" line="62"/>
+        <location filename="../../NotebooksView.qml" line="98"/>
         <source>%1 Note</source>
         <translation>%1 poznámka</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="63"/>
-        <location filename="../../NotebooksView.qml" line="98"/>
+        <location filename="../../NotebooksView.qml" line="64"/>
+        <location filename="../../NotebooksView.qml" line="100"/>
         <source>%1 Notes</source>
         <translation>%1 poznámka</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="178"/>
-        <location filename="../../NotebooksView.qml" line="218"/>
-        <location filename="../../NotebooksView.qml" line="336"/>
+        <location filename="../../NotebooksView.qml" line="185"/>
+        <location filename="../../NotebooksView.qml" line="224"/>
+        <location filename="../../NotebooksView.qml" line="315"/>
         <source>Delete</source>
         <translation>Smazat</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="193"/>
-        <location filename="../../NotebooksView.qml" line="301"/>
-        <location filename="../../NotebooksView.qml" line="337"/>
+        <location filename="../../NotebooksView.qml" line="200"/>
+        <location filename="../../NotebooksView.qml" line="281"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="216"/>
+        <location filename="../../NotebooksView.qml" line="222"/>
         <source>Open</source>
         <translation>Otevřít</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="217"/>
+        <location filename="../../NotebooksView.qml" line="223"/>
         <source>Email</source>
         <translation>E-mail</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="299"/>
+        <location filename="../../NotebooksView.qml" line="279"/>
         <source>Create a new Notebook</source>
         <translation>Vytvořit nový zápisník</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="300"/>
+        <location filename="../../NotebooksView.qml" line="280"/>
         <source>Create</source>
         <translation>Vytvořit</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="302"/>
+        <location filename="../../NotebooksView.qml" line="282"/>
         <source>Notebook name</source>
         <translation>Název zápisníku</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="338"/>
-        <source>Delete?</source>
-        <translation>Smazat?</translation>
-    </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="347"/>
-        <source>Are you sure you want to
-delete &quot;%1&quot;?</source>
-        <translation>Jste si jistý, že chcete
-smazat &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="358"/>
-        <source>Are you sure you want to
-delete these %1 notebooks?</source>
+        <location filename="../../NotebooksView.qml" line="317"/>
+        <source>Are you sure you want to delete these %1 notebooks?</source>
         <translation>Jste si jistý, že chcete smazat
 tyto %1 zápisníky?</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="396"/>
+        <location filename="../../NotebooksView.qml" line="318"/>
+        <source>Are you sure you want to delete &quot;%1&quot;?</source>
+        <translation>Jste si jistý, že chcete
+smazat &quot;%1&quot;?</translation>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="349"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="397"/>
+        <location filename="../../NotebooksView.qml" line="350"/>
         <source>Notebooks deleted</source>
         <translation>Zápisníky smazány</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="397"/>
+        <location filename="../../NotebooksView.qml" line="350"/>
         <source>Notebook deleted</source>
         <translation>Zápisník smazán</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="400"/>
+        <location filename="../../NotebooksView.qml" line="353"/>
         <source>&quot;%1&quot; notebooks have been deleted</source>
         <translation>&quot;%1&quot; zápisníky byly smazány</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="402"/>
-        <location filename="../../NotebooksView.qml" line="404"/>
+        <location filename="../../NotebooksView.qml" line="355"/>
+        <location filename="../../NotebooksView.qml" line="357"/>
         <source>&quot;%1&quot; has been deleted</source>
         <translation>&quot;%1&quot; byl smazán</translation>
     </message>
@@ -272,152 +257,139 @@ tyto %1 zápisníky?</translation>
 <context>
     <name>NotesView</name>
     <message>
-        <location filename="../../NotesView.qml" line="39"/>
         <location filename="../../NotesView.qml" line="41"/>
+        <location filename="../../NotesView.qml" line="43"/>
         <source>New Note</source>
         <translation>Nová poznámka</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="41"/>
+        <location filename="../../NotesView.qml" line="43"/>
         <source>Select Multiple</source>
         <translation>Vybrat více</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="78"/>
+        <location filename="../../NotesView.qml" line="80"/>
         <source>Test Notebook Name</source>
         <translation>Vyzkoušet název zápisníku</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="321"/>
-        <location filename="../../NotesView.qml" line="360"/>
-        <location filename="../../NotesView.qml" line="497"/>
+        <location filename="../../NotesView.qml" line="334"/>
+        <location filename="../../NotesView.qml" line="376"/>
+        <location filename="../../NotesView.qml" line="534"/>
         <source>Delete</source>
         <translation>Smazat</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="336"/>
-        <location filename="../../NotesView.qml" line="474"/>
+        <location filename="../../NotesView.qml" line="349"/>
         <location filename="../../NotesView.qml" line="498"/>
-        <location filename="../../NotesView.qml" line="577"/>
+        <location filename="../../NotesView.qml" line="590"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="357"/>
+        <location filename="../../NotesView.qml" line="373"/>
         <source>Open</source>
         <translation>Otevřít</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="358"/>
+        <location filename="../../NotesView.qml" line="374"/>
+        <location filename="../../NotesView.qml" line="398"/>
         <source>Email</source>
-        <translation>E-mail</translation>
+        <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="359"/>
+        <location filename="../../NotesView.qml" line="375"/>
         <source>Move</source>
         <translation>Přesunout</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="361"/>
+        <location filename="../../NotesView.qml" line="377"/>
         <source>Rename</source>
         <translation>Přejmenovat</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="386"/>
-        <location filename="../../NotesView.qml" line="557"/>
+        <location filename="../../NotesView.qml" line="409"/>
+        <location filename="../../NotesView.qml" line="570"/>
         <source>%1 notes have been deleted</source>
         <translation>Bylo smazáno %1 poznámek</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="390"/>
-        <location filename="../../NotesView.qml" line="394"/>
+        <location filename="../../NotesView.qml" line="413"/>
+        <location filename="../../NotesView.qml" line="417"/>
         <source>&quot;%1&quot; has been deleted</source>
         <translation>&quot;%1&quot; byl smazán</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="419"/>
+        <location filename="../../NotesView.qml" line="460"/>
         <source>%1 notes have successfully been moved to &quot;%2&quot;</source>
         <translation>%1 poznámek bylo úspěšně přesunuto do &quot;%2&quot;</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="423"/>
+        <location filename="../../NotesView.qml" line="464"/>
         <source>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</source>
         <translation>&quot;%1&quot; bylo úspěšně přesunuto do &quot;%2&quot;</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="446"/>
-        <source>Email note &quot;%1&quot;</source>
-        <translation>Poslat poznámku &quot;%1&quot; el. poštou</translation>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="472"/>
+        <location filename="../../NotesView.qml" line="496"/>
         <source>Create a new Note</source>
         <translation>Vytvořit novou poznámku</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="473"/>
+        <location filename="../../NotesView.qml" line="497"/>
         <source>Create</source>
         <translation>Vytvořit</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="475"/>
+        <location filename="../../NotesView.qml" line="499"/>
         <source>Note name</source>
         <translation>Název poznámky</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="499"/>
-        <source>Delete?</source>
-        <translation>Smazat?</translation>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="508"/>
-        <source>Are you sure you want to
-delete &quot;%1&quot;?</source>
-        <translation>Jste si jistý, že chcete
-smazat &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="519"/>
-        <source>Are you sure you want to
-delete these %1 notes?</source>
+        <location filename="../../NotesView.qml" line="537"/>
+        <source>Are you sure you want to delete these %1 notes?</source>
         <translation>Jste si jistý, že chcete smazat
 tyto %1 poznámky?</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="553"/>
-        <location filename="../../NotesView.qml" line="576"/>
-        <location filename="../../NotesView.qml" line="614"/>
+        <location filename="../../NotesView.qml" line="538"/>
+        <source>Are you sure you want to delete &quot;%1&quot;?</source>
+        <translation>Jste si jistý, že chcete smazat &quot;%1&quot;?</translation>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="566"/>
+        <location filename="../../NotesView.qml" line="589"/>
+        <location filename="../../NotesView.qml" line="627"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="554"/>
+        <location filename="../../NotesView.qml" line="567"/>
         <source>Notes deleted</source>
         <translation>Poznámky smazány</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="554"/>
+        <location filename="../../NotesView.qml" line="567"/>
         <source>Note deleted</source>
         <translation>Poznámka smazána</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="559"/>
-        <location filename="../../NotesView.qml" line="561"/>
+        <location filename="../../NotesView.qml" line="572"/>
+        <location filename="../../NotesView.qml" line="574"/>
         <source>%1 has been deleted</source>
         <translation>%1 byl smazán</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="578"/>
+        <location filename="../../NotesView.qml" line="591"/>
         <source>Rename Note</source>
         <translation>Přejmenovat poznámku</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="588"/>
+        <location filename="../../NotesView.qml" line="601"/>
         <source>%1 (Renamed Note)</source>
         <translation>%1 (Přejmenovaná poznámka)</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="615"/>
+        <location filename="../../NotesView.qml" line="628"/>
         <source>Note moved</source>
         <translation>Poznámka přesunuta</translation>
     </message>
@@ -446,47 +418,56 @@ tyto %1 poznámky?</translation>
 <context>
     <name>ShareNote</name>
     <message>
-        <location filename="../../ShareNote.qml" line="69"/>
+        <location filename="../../ShareNote.qml" line="71"/>
         <source>Title</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="../../ShareNote.qml" line="101"/>
+        <location filename="../../ShareNote.qml" line="103"/>
         <source>Enter Email addresses</source>
         <translation>Zadat adresy el. pošty</translation>
     </message>
     <message>
-        <location filename="../../ShareNote.qml" line="161"/>
+        <location filename="../../ShareNote.qml" line="163"/>
         <source>Add a message</source>
         <translation>Přidat zprávu</translation>
     </message>
     <message>
-        <location filename="../../ShareNote.qml" line="198"/>
+        <location filename="../../ShareNote.qml" line="200"/>
         <source>Send</source>
         <translation>Poslat</translation>
     </message>
     <message>
-        <location filename="../../ShareNote.qml" line="224"/>
+        <location filename="../../ShareNote.qml" line="226"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
 </context>
 <context>
+    <name>TwoButtonsModalDialog</name>
+    <message>
+        <location filename="../../TwoButtonsModalDialog.qml" line="152"/>
+        <location filename="../../TwoButtonsModalDialog.qml" line="174"/>
+        <source>%1/%2</source>
+        <translation>%1/%2</translation>
+    </message>
+</context>
+<context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="15"/>
-        <location filename="../../main.qml" line="65"/>
-        <location filename="../../main.qml" line="82"/>
+        <location filename="../../main.qml" line="16"/>
+        <location filename="../../main.qml" line="67"/>
+        <location filename="../../main.qml" line="83"/>
         <source>Notes</source>
         <translation>Poznámky</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="16"/>
+        <location filename="../../main.qml" line="22"/>
         <source>All</source>
         <translation>Vše</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="16"/>
+        <location filename="../../main.qml" line="22"/>
         <source>Alphabetical order</source>
         <translation>Abecední pořadí</translation>
     </message>

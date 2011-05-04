@@ -47,12 +47,12 @@ IDS_SXS_SHORTCUT_NAME
 <context>
     <name>AddAttachmentView</name>
     <message>
-        <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="77"/>
+        <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="74"/>
         <source>Photos</source>
         <translation>Photos</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="87"/>
+        <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="84"/>
         <source>Movies</source>
         <translation>Movies</translation>
     </message>
@@ -61,34 +61,34 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="205"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Delete</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="206"/>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="220"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="207"/>
         <source>Are you sure you want to delete this bookmark?</source>
-        <translation/>
+        <translation>Are you sure you want to delete this bookmark?</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="219"/>
         <source>Save</source>
-        <translation/>
+        <translation>Save</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Edit bookmark</source>
-        <translation/>
+        <translation>Edit bookmark</translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>
     <message>
         <location filename="../chrome/browser/qt/common/DownloadShelf.qml" line="220"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Delete</translation>
     </message>
 </context></TS>

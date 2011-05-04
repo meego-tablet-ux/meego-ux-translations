@@ -68,48 +68,48 @@
     </message>
     <message>
         <location filename="../../main.qml" line="90"/>
-        <location filename="../../main.qml" line="335"/>
+        <location filename="../../main.qml" line="333"/>
         <source>All (%1 videos)</source>
         <translation>全部 (%1 個影片)</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="121"/>
+        <location filename="../../main.qml" line="119"/>
         <source>Videos</source>
         <translation>影片</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="153"/>
+        <location filename="../../main.qml" line="151"/>
         <source>Video name</source>
         <translation>影片名稱</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="159"/>
-        <location filename="../../main.qml" line="583"/>
+        <location filename="../../main.qml" line="157"/>
+        <location filename="../../main.qml" line="610"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>若您刪除此項，將從您的裝置中移除</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="171"/>
+        <location filename="../../main.qml" line="169"/>
         <source>Permanently delete this video?</source>
         <translation>永久刪除此影片嗎？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="171"/>
+        <location filename="../../main.qml" line="169"/>
         <source>Permanently delete these %1 videos?</source>
         <translation>永久刪除這 %1 個影片？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="184"/>
+        <location filename="../../main.qml" line="182"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>若您刪除這些項目，將從您的裝置中移除</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="402"/>
+        <location filename="../../main.qml" line="400"/>
         <source>No videos added yet, do you want to start watching videos?</source>
         <translation>尚未新增影片，您是否要開始觀賞影片？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="410"/>
+        <location filename="../../main.qml" line="408"/>
         <source>Start recording your own or upload your favourite shows.</source>
         <translation>開始錄製自己的影片或上傳最喜歡的影片。</translation>
     </message>

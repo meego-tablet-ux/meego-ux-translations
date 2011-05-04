@@ -68,48 +68,48 @@
     </message>
     <message>
         <location filename="../../main.qml" line="90"/>
-        <location filename="../../main.qml" line="335"/>
+        <location filename="../../main.qml" line="333"/>
         <source>All (%1 videos)</source>
         <translation>Alle (%1 Videos)</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="121"/>
+        <location filename="../../main.qml" line="119"/>
         <source>Videos</source>
         <translation>Videos</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="153"/>
+        <location filename="../../main.qml" line="151"/>
         <source>Video name</source>
         <translation>Videoname</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="159"/>
-        <location filename="../../main.qml" line="583"/>
+        <location filename="../../main.qml" line="157"/>
+        <location filename="../../main.qml" line="610"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>Wenn Sie dies löschen, wird es von Ihrem Gerät entfernt.</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="171"/>
+        <location filename="../../main.qml" line="169"/>
         <source>Permanently delete this video?</source>
         <translation>Dieses Video permanent löschen?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="171"/>
+        <location filename="../../main.qml" line="169"/>
         <source>Permanently delete these %1 videos?</source>
         <translation>Diese %1 Videos dauerhaft löschen?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="184"/>
+        <location filename="../../main.qml" line="182"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>Wenn Sie diese löschen, werden sie von Ihrem Gerät entfernt.</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="402"/>
+        <location filename="../../main.qml" line="400"/>
         <source>No videos added yet, do you want to start watching videos?</source>
         <translation>Noch keine Videos hinzugefügt, möchten Sie jetzt Videos anschauen?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="410"/>
+        <location filename="../../main.qml" line="408"/>
         <source>Start recording your own or upload your favourite shows.</source>
         <translation>Beginnen Sie mit dem Aufzeichnen Ihrer eigenen oder laden Sie Ihre beliebtesten Shows hoch.</translation>
     </message>

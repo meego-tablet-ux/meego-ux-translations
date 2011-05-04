@@ -68,28 +68,28 @@
     </message>
     <message>
         <location filename="../../main.qml" line="90"/>
-        <location filename="../../main.qml" line="335"/>
+        <location filename="../../main.qml" line="333"/>
         <source>All (%1 videos)</source>
         <translation>Tutti (%1 video)</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="121"/>
+        <location filename="../../main.qml" line="119"/>
         <source>Videos</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="153"/>
+        <location filename="../../main.qml" line="151"/>
         <source>Video name</source>
         <translation>Nome video</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="159"/>
-        <location filename="../../main.qml" line="583"/>
+        <location filename="../../main.qml" line="157"/>
+        <location filename="../../main.qml" line="610"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>Se si elimina il brano, verrà rimosso anche dal dispositivo.</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="171"/>
+        <location filename="../../main.qml" line="169"/>
         <source>Permanently delete this video?</source>
         <translation>Eliminare definitivamente il video?
 
@@ -98,22 +98,22 @@
 </translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="171"/>
+        <location filename="../../main.qml" line="169"/>
         <source>Permanently delete these %1 videos?</source>
         <translation>Eliminare permanentemente i %1 video selezionati?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="184"/>
+        <location filename="../../main.qml" line="182"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>Se si eliminano questi brani, verranno rimossi anche dal dispositivo.</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="402"/>
+        <location filename="../../main.qml" line="400"/>
         <source>No videos added yet, do you want to start watching videos?</source>
         <translation>Non sono ancora stati aggiunti video. Iniziare a guardare i video?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="410"/>
+        <location filename="../../main.qml" line="408"/>
         <source>Start recording your own or upload your favourite shows.</source>
         <translation>Iniziare a registrare i propri video oppure caricare i video preferiti.</translation>
     </message>

@@ -17,32 +17,32 @@
         <translation>Virhe</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="115"/>
+        <location filename="../../calculator.js" line="117"/>
         <source>mc</source>
         <translation>mc</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="117"/>
+        <location filename="../../calculator.js" line="119"/>
         <source>m+</source>
         <translation>m+</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="119"/>
+        <location filename="../../calculator.js" line="121"/>
         <source>mr</source>
         <translation>mr</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="121"/>
+        <location filename="../../calculator.js" line="123"/>
         <source>m-</source>
         <translation>m-</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="125"/>
+        <location filename="../../calculator.js" line="127"/>
         <source>C</source>
         <translation>C</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="127"/>
+        <location filename="../../calculator.js" line="129"/>
         <source>AC</source>
         <translation>AC</translation>
     </message>

@@ -22,20 +22,20 @@
         <translation>Odpri video</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="121"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="125"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="123"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="127"/>
         <source>Play</source>
         <translation>Predvajaj</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="121"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="133"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="123"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="135"/>
         <source>Share</source>
         <translation>Deli</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="121"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="129"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="123"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="131"/>
         <source>Hide</source>
         <translation>Skrij</translation>
     </message>

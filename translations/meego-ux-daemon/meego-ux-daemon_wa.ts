@@ -4,12 +4,12 @@
     <message>
         <location filename="../../statusindicatormenu.qml" line="206"/>
         <source>Notifications</source>
-        <translation/>
+        <translation>Notifiaedjes</translation>
     </message>
     <message>
         <location filename="../../statusindicatormenu.qml" line="213"/>
         <source>Clear</source>
-        <translation/>
+        <translation>Oister</translation>
     </message>
 </context>
 <context>
@@ -17,12 +17,12 @@
     <message>
         <location filename="../../taskswitcher.qml" line="223"/>
         <source>Open</source>
-        <translation/>
+        <translation>Drovi</translation>
     </message>
     <message>
         <location filename="../../taskswitcher.qml" line="223"/>
         <source>Close</source>
-        <translation/>
+        <translation>Clôre</translation>
     </message>
 </context>
 </TS>

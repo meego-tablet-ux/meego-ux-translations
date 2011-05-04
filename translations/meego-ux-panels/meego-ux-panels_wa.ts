@@ -2,17 +2,17 @@
 <context>
     <name>BackPanelGeneric</name>
     <message>
-        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="46"/>
+        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="47"/>
         <source>Manage panels</source>
         <translation>Manaedjî les scriftôrs</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="58"/>
+        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="59"/>
         <source>Hide panel</source>
         <translation>Catchî scriftôr</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="78"/>
+        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="79"/>
         <source>Clear history</source>
         <translation>Netyî l&apos; istwere</translation>
     </message>
@@ -28,37 +28,37 @@
 <context>
     <name>WifiDialog</name>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="92"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="93"/>
         <source>No connection currently</source>
         <translation>Nou raloyaedje pol moumint</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="95"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="96"/>
         <source>Wired</source>
         <translation>Raloyî pa fyi</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="100"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="101"/>
         <source>Connected to %1</source>
         <translation>Raloyî a %1</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="102"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="103"/>
         <source>Connecting...</source>
         <translation>Dji m&apos; raloye...</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="105"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="106"/>
         <source>Connected by %1</source>
         <translation>Raloyî pa %1</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="177"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="178"/>
         <source>Wi-Fi</source>
         <translation>Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="237"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="238"/>
         <source>Wi-Fi settings</source>
         <translation>Apontiaedjes do Wi-Fi</translation>
     </message>

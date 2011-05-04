@@ -15,7 +15,7 @@
         <extracomment>IDS_DEFAULT_BROWSER_INFOBAR_SHORT_TEXT
 - description: More compact text to show in the default browser query infobar.
 </extracomment>
-        <translation>O navegador Meego não é o seu navegador padrão</translation>
+        <translation>O navegador Meego não é o seu navegador padrão.</translation>
     </message>
     <message>
         <location filename="id" line="-209926424"/>
@@ -47,12 +47,12 @@ IDS_SXS_SHORTCUT_NAME
 <context>
     <name>AddAttachmentView</name>
     <message>
-        <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="77"/>
+        <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="74"/>
         <source>Photos</source>
         <translation>Fotos</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="87"/>
+        <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="84"/>
         <source>Movies</source>
         <translation>Filmes</translation>
     </message>

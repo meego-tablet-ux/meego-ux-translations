@@ -84,22 +84,22 @@
         <translation>Smazat účet</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="232"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="225"/>
         <source>Yes</source>
         <translation>Ano</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="233"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="226"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="234"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="227"/>
         <source>Delete account</source>
         <translation>Smazat účet</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="236"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="229"/>
         <source>Are you sure you want to delete this account?</source>
         <translation>Jste si jistý, že chcete smazat tento účet?</translation>
     </message>
@@ -150,62 +150,62 @@
         <translation>&quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="166"/>
+        <location filename="../../settings/AccountSettings.qml" line="158"/>
         <source>Notifications</source>
         <translation>Oznámení</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="184"/>
+        <location filename="../../settings/AccountSettings.qml" line="176"/>
         <source>New email notifications</source>
         <translation>Oznámení nového dopisu el. pošty</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="189"/>
+        <location filename="../../settings/AccountSettings.qml" line="181"/>
         <source>Ask before deleting email</source>
         <translation>Zeptat se před smazáním dopisu el. pošty</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="204"/>
+        <location filename="../../settings/AccountSettings.qml" line="194"/>
         <source>Yes</source>
         <translation>Ano</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="205"/>
+        <location filename="../../settings/AccountSettings.qml" line="195"/>
         <source>No</source>
         <translation>Ne</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="206"/>
+        <location filename="../../settings/AccountSettings.qml" line="196"/>
         <source>Discard changes</source>
         <translation>Zahodit změny</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="208"/>
+        <location filename="../../settings/AccountSettings.qml" line="198"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
         <translation>Provedl jste změny svých nastavení. Jste si jistý, že je chcete zrušit?</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="222"/>
+        <location filename="../../settings/AccountSettings.qml" line="204"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="223"/>
+        <location filename="../../settings/AccountSettings.qml" line="206"/>
         <source>Changes saved</source>
         <translation>Změny uloženy</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="225"/>
+        <location filename="../../settings/AccountSettings.qml" line="208"/>
         <source>Your changes have been saved.</source>
         <translation>Vaše změny byly uloženy.</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="244"/>
+        <location filename="../../settings/AccountSettings.qml" line="225"/>
         <source>Save changes</source>
         <translation>Uložit změny</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="262"/>
+        <location filename="../../settings/AccountSettings.qml" line="243"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
@@ -350,67 +350,62 @@
         <translation>Ověření pravosti: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="105"/>
+        <location filename="../../settings/DetailsScreen.qml" line="103"/>
         <source>Yes</source>
         <translation>Ano</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="106"/>
+        <location filename="../../settings/DetailsScreen.qml" line="104"/>
         <source>No</source>
         <translation>Ne</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="107"/>
+        <location filename="../../settings/DetailsScreen.qml" line="105"/>
         <source>Discard changes</source>
         <translation>Zahodit změny</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="109"/>
+        <location filename="../../settings/DetailsScreen.qml" line="107"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
         <translation>Provedl jste změny svých nastavení. Jste si jistý, že je chcete zrušit?</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="126"/>
+        <location filename="../../settings/DetailsScreen.qml" line="113"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="127"/>
+        <location filename="../../settings/DetailsScreen.qml" line="115"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="129"/>
+        <location filename="../../settings/DetailsScreen.qml" line="117"/>
         <source>Error %1: %2</source>
         <translation>Chyba %1: %2</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="134"/>
+        <location filename="../../settings/DetailsScreen.qml" line="121"/>
         <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
         <translation>Promiňte, ale nemůžeme váš účet zřídit automaticky. Vyplňte, prosím, podrobnosti účtu:</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="155"/>
-        <source>Testing account configuration...</source>
-        <translation>Zkouší se nastavení účtu...</translation>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="184"/>
+        <location filename="../../settings/DetailsScreen.qml" line="143"/>
         <source>Next</source>
         <translation>Další</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="214"/>
+        <location filename="../../settings/DetailsScreen.qml" line="169"/>
         <source>Manual Edit</source>
         <translation>Ruční úpravy</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="217"/>
+        <location filename="../../settings/DetailsScreen.qml" line="172"/>
         <source>Please fill in account details:</source>
         <translation>Vyplňte, prosím, podrobnosti účtu:</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="227"/>
+        <location filename="../../settings/DetailsScreen.qml" line="182"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
@@ -604,6 +599,15 @@
         <location filename="../../FolderListView.qml" line="431"/>
         <source>Mark as read</source>
         <translation>Označit jako přečtené</translation>
+    </message>
+</context>
+<context>
+    <name>FolderListViewToolbar</name>
+    <message>
+        <location filename="../../FolderListViewToolbar.qml" line="136"/>
+        <source>(%1)</source>
+        <extracomment>Arg1 is the number of selected messages</extracomment>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -953,67 +957,67 @@
         <translation>Jít do složky:</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="55"/>
+        <location filename="../../main.qml" line="56"/>
         <source>Email</source>
         <translation>E-mail</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="94"/>
-        <location filename="../../main.qml" line="101"/>
-        <location filename="../../main.qml" line="377"/>
+        <location filename="../../main.qml" line="95"/>
+        <location filename="../../main.qml" line="102"/>
+        <location filename="../../main.qml" line="420"/>
         <source>Account switcher</source>
         <translation>Přepínač účtů</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="125"/>
+        <location filename="../../main.qml" line="126"/>
         <source>On %1 %2 wrote:
 </source>
         <translation>%1 %2 napsal:
 </translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="166"/>
+        <location filename="../../main.qml" line="167"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="167"/>
+        <location filename="../../main.qml" line="168"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="289"/>
+        <location filename="../../main.qml" line="332"/>
         <source>-------- Forwarded Message --------</source>
         <translation>-------- Přeposlaná zpráva --------</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="290"/>
+        <location filename="../../main.qml" line="333"/>
         <source>[Fwd: %1]</source>
         <translation>[Přep: %1]</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="313"/>
-        <location filename="../../main.qml" line="338"/>
+        <location filename="../../main.qml" line="356"/>
+        <location filename="../../main.qml" line="381"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="372"/>
+        <location filename="../../main.qml" line="415"/>
         <source>Account list</source>
         <translation>Seznam účtů</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="400"/>
+        <location filename="../../main.qml" line="443"/>
         <source>Composer</source>
         <translation>Skladatel</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="454"/>
+        <location filename="../../main.qml" line="497"/>
         <source>Mark as unread</source>
         <translation>Označit jako nepřečtené</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="454"/>
+        <location filename="../../main.qml" line="497"/>
         <source>Mark as read</source>
         <translation>Označit jako přečtené</translation>
     </message>

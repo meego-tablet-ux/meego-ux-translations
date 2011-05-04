@@ -9,12 +9,12 @@
     <message>
         <location filename="../../main.qml" line="22"/>
         <source>Recently added</source>
-        <translation/>
+        <translation>Recently added</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="23"/>
         <source>Recently viewed</source>
-        <translation/>
+        <translation>Recently viewed</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="24"/>
@@ -29,12 +29,12 @@
     <message>
         <location filename="../../main.qml" line="28"/>
         <source>Yes, Delete</source>
-        <translation/>
+        <translation>Yes, Delete</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
@@ -54,7 +54,7 @@
     <message>
         <location filename="../../main.qml" line="38"/>
         <source>Share</source>
-        <translation/>
+        <translation>Share</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
@@ -64,54 +64,54 @@
     <message>
         <location filename="../../main.qml" line="40"/>
         <source>Select Multiple Videos</source>
-        <translation/>
+        <translation>Select Multiple Videos</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="90"/>
-        <location filename="../../main.qml" line="335"/>
+        <location filename="../../main.qml" line="333"/>
         <source>All (%1 videos)</source>
         <translation>All (%1 videos)</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="121"/>
+        <location filename="../../main.qml" line="119"/>
         <source>Videos</source>
         <translation>Videos</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="153"/>
+        <location filename="../../main.qml" line="151"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Video name</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="159"/>
-        <location filename="../../main.qml" line="583"/>
+        <location filename="../../main.qml" line="157"/>
+        <location filename="../../main.qml" line="610"/>
         <source>If you delete this, it will be removed from your device</source>
-        <translation/>
+        <translation>If you delete this, it will be removed from your device</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="171"/>
+        <location filename="../../main.qml" line="169"/>
         <source>Permanently delete this video?</source>
         <translation>Permanently delete this video?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="171"/>
+        <location filename="../../main.qml" line="169"/>
         <source>Permanently delete these %1 videos?</source>
         <translation>Permanently delete these %1 videos?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="184"/>
+        <location filename="../../main.qml" line="182"/>
         <source>If you delete these, they will be removed from your device</source>
-        <translation/>
+        <translation>If you delete these, they will be removed from your device</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="402"/>
+        <location filename="../../main.qml" line="400"/>
         <source>No videos added yet, do you want to start watching videos?</source>
-        <translation/>
+        <translation>No videos added yet, do you want to start watching videos?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="410"/>
+        <location filename="../../main.qml" line="408"/>
         <source>Start recording your own or upload your favourite shows.</source>
-        <translation/>
+        <translation>Start recording your own or upload your favourite shows.</translation>
     </message>
 </context>
 </TS>

@@ -7,12 +7,12 @@
         <translation>MeeGo 電子郵件</translation>
     </message>
     <message>
-        <location filename="../../emailsharingservice.cpp" line="65"/>
+        <location filename="../../emailsharingservice.cpp" line="64"/>
         <source>Sharing via Email</source>
         <translation>透過電子郵件分享</translation>
     </message>
     <message>
-        <location filename="../../emailsharingservice.cpp" line="80"/>
+        <location filename="../../emailsharingservice.cpp" line="79"/>
         <source>Email</source>
         <translation>電子郵件</translation>
     </message>

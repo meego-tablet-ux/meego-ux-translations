@@ -2,62 +2,62 @@
 <context>
     <name>AddressEditWidget</name>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="23"/>
+        <location filename="../../AddressEditWidget.qml" line="25"/>
         <source>Address</source>
         <translation>Adres</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="24"/>
+        <location filename="../../AddressEditWidget.qml" line="26"/>
         <source>Home</source>
         <translation>Ev</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="25"/>
+        <location filename="../../AddressEditWidget.qml" line="27"/>
         <source>Work</source>
         <translation>İş</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="26"/>
+        <location filename="../../AddressEditWidget.qml" line="28"/>
         <source>Other</source>
         <translation>Diğer</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="27"/>
+        <location filename="../../AddressEditWidget.qml" line="29"/>
         <source>Street address</source>
         <translation>Sokak adresi</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="28"/>
+        <location filename="../../AddressEditWidget.qml" line="30"/>
         <source>Town / City</source>
         <translation>Kasaba / Şehir</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="29"/>
+        <location filename="../../AddressEditWidget.qml" line="31"/>
         <source>Region / State</source>
         <translation>Bölge / Eyalet</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="30"/>
+        <location filename="../../AddressEditWidget.qml" line="32"/>
         <source>Country</source>
         <translation>Ülke</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="31"/>
+        <location filename="../../AddressEditWidget.qml" line="33"/>
         <source>Postcode / Zip</source>
         <translation>Posta kodu / Zip</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="32"/>
+        <location filename="../../AddressEditWidget.qml" line="34"/>
         <source>Add address</source>
         <translation>Adres ekle</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="33"/>
+        <location filename="../../AddressEditWidget.qml" line="35"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="34"/>
+        <location filename="../../AddressEditWidget.qml" line="36"/>
         <source>Add</source>
         <translation>Ekle</translation>
     </message>
@@ -70,38 +70,43 @@
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="72"/>
+        <location filename="../../ContactCardPortrait.qml" line="68"/>
         <source>Unfavorite</source>
         <translation>Favorilerimden çıkar</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="73"/>
+        <location filename="../../ContactCardPortrait.qml" line="69"/>
         <source>Favorite</source>
         <translation>Favorilerime ekle</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="74"/>
+        <location filename="../../ContactCardPortrait.qml" line="70"/>
         <source>Idle</source>
         <translation>Boş</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="75"/>
+        <location filename="../../ContactCardPortrait.qml" line="71"/>
         <source>Busy</source>
         <translation>Meşgul</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="76"/>
+        <location filename="../../ContactCardPortrait.qml" line="72"/>
         <source>Online</source>
         <translation>Çevrimiçi</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="77"/>
+        <location filename="../../ContactCardPortrait.qml" line="73"/>
         <source>Offline</source>
         <translation>Çevrimdışı</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="104"/>
-        <location filename="../../ContactCardPortrait.qml" line="106"/>
+        <location filename="../../ContactCardPortrait.qml" line="74"/>
+        <source>(...)</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactCardPortrait.qml" line="101"/>
+        <location filename="../../ContactCardPortrait.qml" line="103"/>
         <source>%1  %2</source>
         <translation>%1  %2</translation>
     </message>
@@ -308,12 +313,12 @@
         <translation>Favorilerimden çıkar</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="84"/>
+        <location filename="../../DetailViewPortrait.qml" line="83"/>
         <source>View</source>
         <translation>Göster</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="85"/>
+        <location filename="../../DetailViewPortrait.qml" line="84"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -389,42 +394,42 @@
 <context>
     <name>EmailEditWidget</name>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="23"/>
+        <location filename="../../EmailEditWidget.qml" line="25"/>
         <source>Home</source>
         <translation>Ev</translation>
     </message>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="24"/>
+        <location filename="../../EmailEditWidget.qml" line="26"/>
         <source>Work</source>
         <translation>İş</translation>
     </message>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="25"/>
+        <location filename="../../EmailEditWidget.qml" line="27"/>
         <source>Other</source>
         <translation>Diğer</translation>
     </message>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="26"/>
+        <location filename="../../EmailEditWidget.qml" line="28"/>
         <source>Email address</source>
         <translation>Eposta adresi</translation>
     </message>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="27"/>
+        <location filename="../../EmailEditWidget.qml" line="29"/>
         <source>Email</source>
         <translation>Eposta</translation>
     </message>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="28"/>
+        <location filename="../../EmailEditWidget.qml" line="30"/>
         <source>Add email address</source>
         <translation>Eposta adresi ekle</translation>
     </message>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="29"/>
+        <location filename="../../EmailEditWidget.qml" line="31"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="30"/>
+        <location filename="../../EmailEditWidget.qml" line="32"/>
         <source>Add</source>
         <translation>Ekle</translation>
     </message>
@@ -453,67 +458,72 @@
 <context>
     <name>ImEditWidget</name>
     <message>
-        <location filename="../../ImEditWidget.qml" line="25"/>
+        <location filename="../../ImEditWidget.qml" line="26"/>
         <source>Add account</source>
         <translation>Hesap ekle</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="26"/>
+        <location filename="../../ImEditWidget.qml" line="27"/>
         <source>Instant messaging</source>
         <translation>Anlık mesajlaşma</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="27"/>
+        <location filename="../../ImEditWidget.qml" line="28"/>
         <source>AIM</source>
         <translation>AIM</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="28"/>
+        <location filename="../../ImEditWidget.qml" line="29"/>
         <source>MSN</source>
         <translation>MSN</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="29"/>
+        <location filename="../../ImEditWidget.qml" line="30"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="30"/>
+        <location filename="../../ImEditWidget.qml" line="31"/>
         <source>Yahoo</source>
         <translation>Yahoo</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="31"/>
+        <location filename="../../ImEditWidget.qml" line="32"/>
         <source>Facebook</source>
         <translation>Facebook</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="32"/>
+        <location filename="../../ImEditWidget.qml" line="33"/>
         <source>gTalk</source>
         <translation>gTalk</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="33"/>
+        <location filename="../../ImEditWidget.qml" line="34"/>
         <source>Account Name / ID</source>
         <translation>Hesap Adı / ID</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="34"/>
+        <location filename="../../ImEditWidget.qml" line="35"/>
+        <source>Account Type</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ImEditWidget.qml" line="36"/>
         <source>No IM accounts are configured</source>
         <translation>Hiç IM hesabı ayarlanmamış</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="35"/>
+        <location filename="../../ImEditWidget.qml" line="37"/>
         <source>No buddies for this account</source>
         <translation>Bu hesap için arkadaş yok</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="36"/>
+        <location filename="../../ImEditWidget.qml" line="38"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="37"/>
+        <location filename="../../ImEditWidget.qml" line="39"/>
         <source>Add</source>
         <translation>Ekle</translation>
     </message>
@@ -589,52 +599,52 @@
 <context>
     <name>PhoneEditWidget</name>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="23"/>
+        <location filename="../../PhoneEditWidget.qml" line="25"/>
         <source>Address</source>
         <translation>Adres</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="24"/>
+        <location filename="../../PhoneEditWidget.qml" line="26"/>
         <source>Home</source>
         <translation>Ev</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="25"/>
+        <location filename="../../PhoneEditWidget.qml" line="27"/>
         <source>Work</source>
         <translation>İş</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="26"/>
+        <location filename="../../PhoneEditWidget.qml" line="28"/>
         <source>Other</source>
         <translation>Diğer</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="27"/>
+        <location filename="../../PhoneEditWidget.qml" line="29"/>
         <source>Mobile</source>
         <translation>Mobil</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="28"/>
+        <location filename="../../PhoneEditWidget.qml" line="30"/>
         <source>Phone numbers</source>
         <translation>Telefon numaraları</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="29"/>
+        <location filename="../../PhoneEditWidget.qml" line="31"/>
         <source>Add number</source>
         <translation>Numara ekle</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="30"/>
+        <location filename="../../PhoneEditWidget.qml" line="32"/>
         <source>Phone number</source>
         <translation>Telefon numarası</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="31"/>
+        <location filename="../../PhoneEditWidget.qml" line="33"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="32"/>
+        <location filename="../../PhoneEditWidget.qml" line="34"/>
         <source>Add</source>
         <translation>Ekle</translation>
     </message>
@@ -642,37 +652,37 @@
 <context>
     <name>WebPageEditWidget</name>
     <message>
-        <location filename="../../WebPageEditWidget.qml" line="23"/>
+        <location filename="../../WebPageEditWidget.qml" line="25"/>
         <source>Add web page</source>
         <translation>Web sayfası ekle</translation>
     </message>
     <message>
-        <location filename="../../WebPageEditWidget.qml" line="24"/>
+        <location filename="../../WebPageEditWidget.qml" line="26"/>
         <source>Site</source>
         <translation>Site</translation>
     </message>
     <message>
-        <location filename="../../WebPageEditWidget.qml" line="25"/>
+        <location filename="../../WebPageEditWidget.qml" line="27"/>
         <source>Web</source>
         <translation>Web</translation>
     </message>
     <message>
-        <location filename="../../WebPageEditWidget.qml" line="26"/>
+        <location filename="../../WebPageEditWidget.qml" line="28"/>
         <source>Bookmark</source>
         <translation>Yer imi</translation>
     </message>
     <message>
-        <location filename="../../WebPageEditWidget.qml" line="27"/>
+        <location filename="../../WebPageEditWidget.qml" line="29"/>
         <source>Favorite</source>
         <translation>Favori</translation>
     </message>
     <message>
-        <location filename="../../WebPageEditWidget.qml" line="28"/>
+        <location filename="../../WebPageEditWidget.qml" line="30"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="../../WebPageEditWidget.qml" line="29"/>
+        <location filename="../../WebPageEditWidget.qml" line="31"/>
         <source>Add</source>
         <translation>Ekle</translation>
     </message>

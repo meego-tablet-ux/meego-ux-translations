@@ -16,14 +16,14 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="83"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="89"/>
-        <source>Disconnect</source>
-        <translation>Prekini povezavo</translation>
+        <source>Disconnect Input Device</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="83"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="93"/>
-        <source>Connect</source>
-        <translation>Vzpostavi povezavo</translation>
+        <source>Connect Input Device</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="113"/>
@@ -41,12 +41,12 @@
         <translation>Dejanja povezave</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="216"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="219"/>
         <source>Manage</source>
         <translation>Upravljanje</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="223"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="226"/>
         <source>Remove</source>
         <translation>Odstrani</translation>
     </message>
@@ -241,17 +241,17 @@
         <translation>Način za letalo</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="87"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="94"/>
         <source>Network Connections</source>
         <translation>Omrežne povezave</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="185"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="192"/>
         <source>Available Networks</source>
         <translation>Razpoložljiva omrežja</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="185"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="192"/>
         <source>No networks available</source>
         <translation>Na razpolago ni nobenega omrežja</translation>
     </message>
@@ -366,110 +366,110 @@
 <context>
     <name>MeeGo::Sync::FrameworkClient</name>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="198"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="201"/>
         <source>completed</source>
         <extracomment>Status message: successfully completed sync job. (PLACEHOLDER)</extracomment>
         <translation>zaključeno</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="205"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="208"/>
         <source>finished</source>
         <extracomment>Sync finished with potential(?) error.</extracomment>
         <translation>končano</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="210"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="213"/>
         <source>internal error</source>
         <extracomment>Internal error occurred during sync.</extracomment>
         <translation>notranja napaka</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="215"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="218"/>
         <source>authentication failure</source>
         <extracomment>Authentication failure occurred during sync.</extracomment>
         <translation>neuspeh overjanja</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="221"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="224"/>
         <source>database failure</source>
         <extracomment>Database access error occurred during sync.</extracomment>
         <translation>neuspeh podatkovne zbirke</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="226"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="229"/>
         <source>suspended</source>
         <extracomment>Sync job suspended.</extracomment>
         <translation>zaustavljeno</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="231"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="234"/>
         <source>aborted</source>
         <extracomment>Sync job aborted.</extracomment>
         <translation>preklicano</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="237"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="240"/>
         <source>connection error</source>
         <extracomment>Connection to remote sync service failed during sync.</extracomment>
         <translation>napaka pri povezavi</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="243"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="246"/>
         <source>invalid syncml message</source>
         <extracomment>Invalid syncml message/request submitted during sync.</extracomment>
         <translation>neveljavno sporočilo syncml</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="249"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="252"/>
         <source>unsupported sync type</source>
         <extracomment>Unsupported sync type (manual or auto?)</extracomment>
         <translation>nepodprta vrsta uskladitve</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="255"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="258"/>
         <source>unsupported storage type</source>
         <extracomment>&quot;Storage&quot; refers to contacts, calendar, etc.</extracomment>
         <translation>nepodprta vrsta hrambe</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="264"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="267"/>
         <source>other</source>
         <extracomment>Unknown error occurred during sync.</extracomment>
         <translation>drugo</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="299"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="302"/>
         <source>Last sync %1</source>
         <extracomment>Arg 1 is a &quot;fuzzy time&quot;, e.g. &quot;2 min ago&quot;.</extracomment>
         <translation>Zadnja uskladitev %1</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="305"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="308"/>
         <source>Last sync failed: %1</source>
         <extracomment>Arg 1 is a brief sync error description, e.g. &quot;connection failed&quot;.</extracomment>
         <translation>Zadnja uskladitev ni uspela: %1</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="433"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="436"/>
         <source>Sync request queued</source>
         <extracomment>Status message: sync request/job has been queued</extracomment>
         <translation>Zahtevek za uskladitev je v čakalni vrsti</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="439"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="442"/>
         <source>Sync started</source>
         <extracomment>Status message: sync job started</extracomment>
         <translation>Usklajanje se je pričelo</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="445"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="448"/>
         <source>Syncing now...</source>
         <extracomment>Status message: Sync in-progress</extracomment>
         <translation>Usklajanje ...</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="457"/>
-        <location filename="../../Sync/FrameworkClient.cpp" line="488"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="460"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="491"/>
         <source>Sync completed</source>
         <extracomment>Status message: Sync job completed
 ----------
@@ -477,55 +477,55 @@ Status message: successfully completed sync job.</extracomment>
         <translation>Usklajanje zaključeno</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="463"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="466"/>
         <source>Sync aborted</source>
         <extracomment>Sync explicitly stopped.</extracomment>
         <translation>Usklajanje preklicano</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="470"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="473"/>
         <source>Unknown sync status</source>
         <extracomment>Status message: Displayed when an unknown/unhandled error occurs.</extracomment>
         <translation>Neznano stanje usklajanja</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="496"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="499"/>
         <source>Sync failed: %1</source>
         <extracomment>Sync result message. The argument provides the error details.</extracomment>
         <translation>Usklajanje ni uspelo: %1</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="571"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="585"/>
         <source>Unable to update sync profile</source>
         <extracomment>Failed to update and store sync account/profile info on disk.</extracomment>
         <translation>Ni moč posodobiti profila usklajanja</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="601"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="615"/>
         <source>Sync scheduling failed</source>
         <extracomment>Attempt to set automatic sync schedule failed.</extracomment>
         <translation>Razporeditev uskladitve ni uspela</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="643"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="657"/>
         <source>Unable to forget sync account!</source>
         <extracomment>Displayed when removal of sync account information fails.</extracomment>
         <translation>Računa za uskladitev ni moč pozabiti.</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="659"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="673"/>
         <source>Failed to store credentials</source>
         <extracomment>Internal error. Failed to store user supplied credentials in DB.</extracomment>
         <translation>Shranjevanje poveril ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="663"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="677"/>
         <source>Failed to clear credentials</source>
         <extracomment>Displayed when clearing stored sync account credentials fails.</extracomment>
         <translation>Čiščenje poveril ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="667"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="681"/>
         <source>Unknown credentials error</source>
         <extracomment>We're really not expecting any other kinds of cred errors.</extracomment>
         <translation>Neznana napaka glede poveril</translation>
@@ -558,6 +558,24 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="68"/>
         <source>Use Http Proxy</source>
         <translation>Uporabi posrednika HTTP</translation>
+    </message>
+</context>
+<context>
+    <name>NotificationSettings</name>
+    <message>
+        <location filename="../../Notifications/NotificationSettings.qml" line="16"/>
+        <source>Notifications</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
+        <source>By default, phone and messaging notifications will be shown on the lockscreen.</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Notifications/NotificationSettings.qml" line="67"/>
+        <source>You may select up to 4 additional notifications to receive on the lockscreen</source>
+        <translation/>
     </message>
 </context>
 <context>
@@ -733,6 +751,11 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>SetTimezoneMenu</name>
     <message>
+        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="78"/>
+        <source>Filter list</source>
+        <translation/>
+    </message>
+    <message>
         <location filename="../../TimeDate/SetTimezoneMenu.qml" line="123"/>
         <source>GMT</source>
         <translation>GMT</translation>
@@ -785,26 +808,31 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="123"/>
         <source>%1 %2</source>
+        <extracomment>Arg 1 is the name of the sync service (e.g. &quot;Yahoo!&quot;) and arg 2 is the name of the storage (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;).</extracomment>
         <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="142"/>
         <source>Sync now</source>
+        <extracomment>Text displayed in &quot;sync now&quot; button.</extracomment>
         <translation>Uskladi zdaj</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="165"/>
         <source>Sync %1</source>
+        <extracomment>Argument is sync storage (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;).</extracomment>
         <translation>Uskladi %1</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="204"/>
         <source>Sync account details</source>
+        <extracomment>Title of &quot;account details&quot; area of page.</extracomment>
         <translation>Podrobnosti računa usklajevanja</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="221"/>
         <source>Forget this</source>
+        <extracomment>Text displayed in &quot;forget this&quot; button (used to remove current sync account).</extracomment>
         <translation>Pozabi to</translation>
     </message>
 </context>
@@ -881,6 +909,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/SyncListDelegate.qml" line="133"/>
         <source>%1 %2</source>
+        <extracomment>Arg 1 is the sync service name (e.g. &quot;Yahoo!&quot;) and arg 2 is the storage name (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;.</extracomment>
         <translation>%1 %2</translation>
     </message>
 </context>
@@ -889,31 +918,37 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="42"/>
         <source>(ex: foo@example.com)</source>
+        <extracomment>Username example text. Note: do not translate &quot;example.com&quot;!</extracomment>
         <translation>(npr.: nekaj@primer.si)</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="45"/>
         <source>Username %1</source>
+        <extracomment>Sync account username (e.g. foo.bar@yahoo.com) login field label, where arg 1 is an example, which may or not be visible.</extracomment>
         <translation>Uporabniško ime %1</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="73"/>
         <source>Password</source>
+        <extracomment>Sync account password login field label</extracomment>
         <translation>Geslo</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="123"/>
         <source>Sign in</source>
+        <extracomment>&quot;Sign in&quot; button text displayed in sync account login dialog.</extracomment>
         <translation>Prijavi</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="125"/>
         <source>Cancel</source>
+        <extracomment>&quot;Cancel&quot; button text displayed in sync account login dialog.</extracomment>
         <translation>Prekliči</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="127"/>
         <source>Sign in to your %1 account</source>
+        <extracomment>The argument is the name of the remote sync service (e.g. Google, Yahoo!, etc).</extracomment>
         <translation>Prijavite se v svoj račun %1</translation>
     </message>
 </context>
@@ -922,6 +957,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/SyncMain.qml" line="16"/>
         <source>Sync Settings</source>
+        <extracomment>The title of the Sync UI displayed to the user.</extracomment>
         <translation>Nastavitve usklajevanja</translation>
     </message>
 </context>
@@ -946,48 +982,48 @@ Status message: successfully completed sync job.</extracomment>
         <translation>Koliko je ura</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="109"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="112"/>
         <source>24 hour clock</source>
         <translation>24-urni prikaz</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="137"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="140"/>
         <source>Set date and time automatically</source>
         <translation>Čas in datum nastavi samodejno</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="165"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="168"/>
         <source>Where you are</source>
         <translation>Kje ste</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="184"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="187"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="218"/>
         <source>Current Timezone is %1</source>
         <translation>Trenutni časovni pas je %1</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="201"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="204"/>
         <source>Find me and keep my location updated</source>
         <translation>Najdi me in redno posodabljaj mojo lokacijo</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="215"/>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="263"/>
-        <source>Current Timezone is </source>
-        <translation>Trenutni časovni pas je </translation>
-    </message>
-    <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="229"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="232"/>
         <source>Manual time zone selection</source>
         <translation>Ročni izbor časovnega pasu</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="248"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="251"/>
         <source>Set Time Zone</source>
         <translation>Nastavi časovni pas</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="268"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="266"/>
+        <source>Current Timezone is </source>
+        <translation>Trenutni časovni pas je </translation>
+    </message>
+    <message>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="271"/>
         <source>Unable to set timezone manually</source>
         <translation>Ni moč ročno nastaviti časovnega pasu</translation>
     </message>
@@ -995,7 +1031,7 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>VolumeSettings</name>
     <message>
-        <location filename="../../Volume/VolumeSettings.qml" line="14"/>
+        <location filename="../../Volume/VolumeSettings.qml" line="15"/>
         <source>Sound</source>
         <translation>Zvok</translation>
     </message>
@@ -1069,10 +1105,8 @@ Status message: successfully completed sync job.</extracomment>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="168"/>
-        <source>Do you want to remove %1 ?
-This action will forget any passwords and you will no longer be automatically connected to %2</source>
-        <translation>Ali želite odstraniti %1?
-S tem bodo pozabljena vsa gesla, povezava z %2 pa nikoli več ne bo vzpostavljena samodejno.</translation>
+        <source>Do you want to remove %1 ?  This action will forget any passwords and you will no longer be automatically connected to %2</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="180"/>
@@ -1100,57 +1134,57 @@ S tem bodo pozabljena vsa gesla, povezava z %2 pa nikoli več ne bo vzpostavljen
         <translation>Poveži se prek:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="259"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="268"/>
         <source>IP Address:</source>
         <translation>Naslov IP:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="278"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="287"/>
         <source>Subnet Mask:</source>
         <translation>Podomrežna maska:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="296"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="305"/>
         <source>Gateway</source>
         <translation>Prehod</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="313"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="322"/>
         <source>DNS:</source>
         <translation>Imenski strežnik:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="331"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="340"/>
         <source>Hardware Address:</source>
         <translation>Strojni naslov:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="340"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="349"/>
         <source>Apply</source>
         <translation>Uveljavi</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="354"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="363"/>
         <source>Cancel</source>
         <translation>Prekliči</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="384"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="393"/>
         <source>Type password here</source>
         <translation>Sem vnesite geslo</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="395"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="404"/>
         <source>Setup</source>
         <translation>Nastavitev</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="406"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="415"/>
         <source>Connect</source>
         <translation>Poveži se</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="434"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="443"/>
         <source>Show Password</source>
         <translation>Prikaži geslo</translation>
     </message>
@@ -1158,12 +1192,12 @@ S tem bodo pozabljena vsa gesla, povezava z %2 pa nikoli več ne bo vzpostavljen
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="16"/>
+        <location filename="../../main.qml" line="17"/>
         <source>All Settings</source>
         <translation>Vse nastavitve</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="104"/>
+        <location filename="../../main.qml" line="111"/>
         <source>Settings</source>
         <translation>Nastavitve</translation>
     </message>

@@ -2,27 +2,27 @@
 <context>
     <name>BottomBar</name>
     <message>
-        <location filename="../../BottomBar.qml" line="21"/>
+        <location filename="../../BottomBar.qml" line="20"/>
         <source>Save</source>
         <translation>儲存</translation>
     </message>
     <message>
-        <location filename="../../BottomBar.qml" line="22"/>
+        <location filename="../../BottomBar.qml" line="21"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../BottomBar.qml" line="23"/>
+        <location filename="../../BottomBar.qml" line="22"/>
         <source>Move to (%1)</source>
         <translation>移至 (%1)</translation>
     </message>
     <message>
-        <location filename="../../BottomBar.qml" line="24"/>
+        <location filename="../../BottomBar.qml" line="23"/>
         <source>Delete (%1)</source>
         <translation>刪除 (%1)</translation>
     </message>
     <message>
-        <location filename="../../BottomBar.qml" line="25"/>
+        <location filename="../../BottomBar.qml" line="24"/>
         <source>OK</source>
         <translation>確定</translation>
     </message>
@@ -31,6 +31,7 @@
     <name>CategoryView</name>
     <message>
         <location filename="../../CategoryView.qml" line="74"/>
+        <location filename="../../CategoryView.qml" line="82"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
@@ -38,22 +39,14 @@
 <context>
     <name>CreateNewTaskRow</name>
     <message>
-        <location filename="../../CreateNewTaskRow.qml" line="17"/>
+        <location filename="../../CreateNewTaskRow.qml" line="16"/>
         <source>Tap to add task</source>
         <translation>輕點以新增工作</translation>
     </message>
-</context>
-<context>
-    <name>EditableStringListView</name>
     <message>
-        <location filename="../../EditableStringListView.qml" line="50"/>
-        <source>+ Add new item</source>
+        <location filename="../../CreateNewTaskRow.qml" line="26"/>
+        <source>* </source>
         <translation/>
-    </message>
-    <message>
-        <location filename="../../EditableStringListView.qml" line="79"/>
-        <source>X</source>
-        <translation>X</translation>
     </message>
 </context>
 <context>
@@ -64,22 +57,22 @@
         <translation/>
     </message>
     <message>
-        <location filename="../../TaskListPicker.qml" line="101"/>
+        <location filename="../../TaskListPicker.qml" line="105"/>
         <source>OK</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TaskListPicker.qml" line="102"/>
+        <location filename="../../TaskListPicker.qml" line="106"/>
         <source>Cancel</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TaskListPicker.qml" line="105"/>
+        <location filename="../../TaskListPicker.qml" line="107"/>
         <source>Please name the new list</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TaskListPicker.qml" line="113"/>
+        <location filename="../../TaskListPicker.qml" line="112"/>
         <source>List name</source>
         <translation/>
     </message>
@@ -87,14 +80,24 @@
 <context>
     <name>TaskListView</name>
     <message>
-        <location filename="../../TaskListView.qml" line="43"/>
+        <location filename="../../TaskListView.qml" line="41"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../../TaskListView.qml" line="233"/>
+        <location filename="../../TaskListView.qml" line="229"/>
         <source>%1 tasks</source>
         <translation>%1 個工作</translation>
+    </message>
+    <message>
+        <location filename="../../TaskListView.qml" line="410"/>
+        <source>No</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../TaskListView.qml" line="411"/>
+        <source>Yes</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="416"/>
@@ -106,102 +109,76 @@
         <source>Are you sure you want to delete this task?</source>
         <translation/>
     </message>
-    <message>
-        <location filename="../../TaskListView.qml" line="424"/>
-        <source>Yes</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../TaskListView.qml" line="425"/>
-        <source>No</source>
-        <translation/>
-    </message>
 </context>
 <context>
-    <name>TasksDatePicker</name>
+    <name>TasksDatabase</name>
     <message>
-        <location filename="../../TasksDatePicker.qml" line="102"/>
-        <source>yyyy</source>
-        <translation>yyyy</translation>
+        <location filename="../../model/tasksdatabase.cpp" line="80"/>
+        <source>Default List</source>
+        <translation/>
     </message>
 </context>
 <context>
     <name>TasksDetailMenu</name>
     <message>
-        <location filename="../../TasksDetailMenu.qml" line="48"/>
+        <location filename="../../TasksDetailMenu.qml" line="49"/>
         <source>Insert task name</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TasksDetailMenu.qml" line="59"/>
+        <location filename="../../TasksDetailMenu.qml" line="60"/>
         <source>List:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TasksDetailMenu.qml" line="114"/>
+        <location filename="../../TasksDetailMenu.qml" line="115"/>
         <source>Due date:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TasksDetailMenu.qml" line="127"/>
+        <location filename="../../TasksDetailMenu.qml" line="128"/>
         <source>Date</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TasksDetailMenu.qml" line="128"/>
+        <location filename="../../TasksDetailMenu.qml" line="129"/>
         <source>Someday</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TasksDetailMenu.qml" line="135"/>
+        <location filename="../../TasksDetailMenu.qml" line="136"/>
         <source>Set due date</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TasksDetailMenu.qml" line="155"/>
+        <location filename="../../TasksDetailMenu.qml" line="156"/>
         <source>Notes</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TasksDetailMenu.qml" line="163"/>
+        <location filename="../../TasksDetailMenu.qml" line="164"/>
         <source>Add a note here</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TasksDetailMenu.qml" line="170"/>
+        <location filename="../../TasksDetailMenu.qml" line="171"/>
         <source>Delete task</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TasksDetailMenu.qml" line="191"/>
+        <location filename="../../TasksDetailMenu.qml" line="192"/>
         <source>Edit</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TasksDetailMenu.qml" line="203"/>
+        <location filename="../../TasksDetailMenu.qml" line="204"/>
         <source>Save</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TasksDetailMenu.qml" line="215"/>
+        <location filename="../../TasksDetailMenu.qml" line="216"/>
         <source>Close</source>
         <translation/>
-    </message>
-</context>
-<context>
-    <name>TasksDetailWindow</name>
-    <message>
-        <location filename="../../TasksDetailWindow.qml" line="13"/>
-        <source>If you see me, something is very wrong!</source>
-        <translation/>
-    </message>
-</context>
-<context>
-    <name>TasksModalDialog</name>
-    <message>
-        <location filename="../../TasksModalDialog.qml" line="75"/>
-        <source>Title text</source>
-        <translation>標題文字</translation>
     </message>
 </context>
 <context>
@@ -328,10 +305,8 @@
     </message>
     <message>
         <location filename="../../main.qml" line="40"/>
-        <source>Do you want to delete this list
- and all of its tasks?</source>
-        <translation>您確定要刪除此清單
-與其所有工作？</translation>
+        <source>Do you want to delete this list and all of its tasks?</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -349,32 +324,40 @@
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="271"/>
+        <location filename="../../main.qml" line="82"/>
+        <source>%1 %2 %3</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="237"/>
+        <location filename="../../main.qml" line="276"/>
+        <location filename="../../main.qml" line="847"/>
         <source>List name</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="514"/>
+        <location filename="../../main.qml" line="509"/>
         <source>You can create a new list using the action menu</source>
         <translation>您可使用行動功能表來建立新清單</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="745"/>
+        <location filename="../../main.qml" line="624"/>
+        <location filename="../../main.qml" line="909"/>
         <source>Don&apos;t ask to confirm deleting tasks.</source>
         <translation>不要詢問確認刪除工作。</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="834"/>
+        <location filename="../../main.qml" line="828"/>
         <source>Are you sure you want to delete the completed tasks?</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="835"/>
+        <location filename="../../main.qml" line="829"/>
         <source>Yes</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="836"/>
+        <location filename="../../main.qml" line="830"/>
         <source>No</source>
         <translation/>
     </message>
