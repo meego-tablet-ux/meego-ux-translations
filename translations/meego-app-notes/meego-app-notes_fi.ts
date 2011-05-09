@@ -6,13 +6,13 @@
         <location filename="../../src/DataHandler.cpp" line="1260"/>
         <location filename="../../src/DataHandler.cpp" line="1295"/>
         <source>Everyday Notes</source>
-        <translation/>
+        <translation>Arkimuistiinpanot</translation>
     </message>
     <message>
         <location filename="../../src/DataHandler.cpp" line="494"/>
         <location filename="../../src/DataHandler.cpp" line="498"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -20,7 +20,7 @@
     <message>
         <location filename="../../DeleteMoveNotificationDialog.qml" line="74"/>
         <source>Title text</source>
-        <translation/>
+        <translation>Otsikkoteksti</translation>
     </message>
 </context>
 <context>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../../InformationDialog.qml" line="82"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -72,12 +72,12 @@
     <message>
         <location filename="../../NoteButton.qml" line="105"/>
         <source>Text Element</source>
-        <translation/>
+        <translation>Tekstielementti</translation>
     </message>
     <message>
         <location filename="../../NoteButton.qml" line="118"/>
         <source>Add some comments here</source>
-        <translation/>
+        <translation>Lisää kommentit tähän</translation>
     </message>
 </context>
 <context>
@@ -85,12 +85,12 @@
     <message>
         <location filename="../../NoteDetail.qml" line="16"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>Arkimuistiinpanot (oletus)</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="17"/>
         <source>Note name...</source>
-        <translation/>
+        <translation>Muistiinpanon nimi...</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="36"/>
@@ -105,12 +105,12 @@
     <message>
         <location filename="../../NoteDetail.qml" line="71"/>
         <source>Test Notebook Name</source>
-        <translation/>
+        <translation>Testimuistikirjan nimi</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="99"/>
         <source>Start typing a new note.</source>
-        <translation/>
+        <translation>Aloita uuden muistiinpanon kirjoitus</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="122"/>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../NoteDetail.qml" line="127"/>
         <source>Do you want to Delete this note?</source>
-        <translation/>
+        <translation>Haluatko poistaa tämän muistiinpanon?</translation>
     </message>
 </context>
 <context>
@@ -138,12 +138,12 @@
     <message>
         <location filename="../../NotebookSelector.qml" line="53"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>Arkimuistiinpanot (oletus)</translation>
     </message>
     <message>
         <location filename="../../NotebookSelector.qml" line="107"/>
         <source>&lt;b&gt;Pick a notebook&lt;/b&gt;</source>
-        <translation/>
+        <translation>&lt;b&gt;Valitse muistikirja&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -152,104 +152,104 @@
         <location filename="../../NotebooksView.qml" line="17"/>
         <location filename="../../NotebooksView.qml" line="18"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>Arkimuistiinpanot (oletus)</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="33"/>
         <location filename="../../NotebooksView.qml" line="35"/>
         <source>New Notebook</source>
-        <translation/>
+        <translation>Uusi muistikirja</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="35"/>
         <source>Select Multiple</source>
-        <translation/>
+        <translation>Valitse useita</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="62"/>
         <location filename="../../NotebooksView.qml" line="98"/>
         <source>%1 Note</source>
-        <translation/>
+        <translation>%1 Muistiinpano</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="64"/>
         <location filename="../../NotebooksView.qml" line="100"/>
         <source>%1 Notes</source>
-        <translation/>
+        <translation>%1 Muistiinpanoa</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="185"/>
         <location filename="../../NotebooksView.qml" line="224"/>
         <location filename="../../NotebooksView.qml" line="315"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Poista</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="200"/>
         <location filename="../../NotebooksView.qml" line="281"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="222"/>
         <source>Open</source>
-        <translation/>
+        <translation>Avaa</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="223"/>
         <source>Email</source>
-        <translation/>
+        <translation>Sähköposti</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="279"/>
         <source>Create a new Notebook</source>
-        <translation/>
+        <translation>Luo uusi muistikirja</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="280"/>
         <source>Create</source>
-        <translation/>
+        <translation>Luo</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="282"/>
         <source>Notebook name</source>
-        <translation/>
+        <translation>Muistikirjan nimi</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="317"/>
         <source>Are you sure you want to delete these %1 notebooks?</source>
-        <translation/>
+        <translation>Haluatko varmasti poistaa nämä %1 muistikirjaa?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="318"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
-        <translation/>
+        <translation>Haluatko varmasti poistaa &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="349"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="350"/>
         <source>Notebooks deleted</source>
-        <translation/>
+        <translation>Muistikirjat poistettu</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="350"/>
         <source>Notebook deleted</source>
-        <translation/>
+        <translation>Muistikirja poistettu</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="353"/>
         <source>&quot;%1&quot; notebooks have been deleted</source>
-        <translation/>
+        <translation>&quot;%1&quot; muistikirjaa poistettu</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="355"/>
         <location filename="../../NotebooksView.qml" line="357"/>
         <source>&quot;%1&quot; has been deleted</source>
-        <translation/>
+        <translation>&quot;%1&quot; on poistettu</translation>
     </message>
 </context>
 <context>
@@ -258,137 +258,137 @@
         <location filename="../../NotesView.qml" line="41"/>
         <location filename="../../NotesView.qml" line="43"/>
         <source>New Note</source>
-        <translation/>
+        <translation>Uusi muistiinpano</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="43"/>
         <source>Select Multiple</source>
-        <translation/>
+        <translation>Valitse useita</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="80"/>
         <source>Test Notebook Name</source>
-        <translation/>
+        <translation>Testimuistikirjan nimi</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="334"/>
         <location filename="../../NotesView.qml" line="376"/>
         <location filename="../../NotesView.qml" line="534"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Poista</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="349"/>
         <location filename="../../NotesView.qml" line="498"/>
         <location filename="../../NotesView.qml" line="590"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="373"/>
         <source>Open</source>
-        <translation/>
+        <translation>Avaa</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="374"/>
         <location filename="../../NotesView.qml" line="398"/>
         <source>Email</source>
-        <translation/>
+        <translation>Sähköposti</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="375"/>
         <source>Move</source>
-        <translation/>
+        <translation>Siirrä</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="377"/>
         <source>Rename</source>
-        <translation/>
+        <translation>Nimeä uudelleen</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="409"/>
         <location filename="../../NotesView.qml" line="570"/>
         <source>%1 notes have been deleted</source>
-        <translation/>
+        <translation>%1 muistiinpanoa poistettu</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="413"/>
         <location filename="../../NotesView.qml" line="417"/>
         <source>&quot;%1&quot; has been deleted</source>
-        <translation/>
+        <translation>&quot;%1&quot; on poistettu</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="460"/>
         <source>%1 notes have successfully been moved to &quot;%2&quot;</source>
-        <translation/>
+        <translation>%1 muistiinpanoa siirrettiin onnistuneesti &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="464"/>
         <source>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</source>
-        <translation/>
+        <translation>&quot;%1&quot; siirrettiin onnistuneesti &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="496"/>
         <source>Create a new Note</source>
-        <translation/>
+        <translation>Luo uusi muistiinpano</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="497"/>
         <source>Create</source>
-        <translation/>
+        <translation>Luo</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="499"/>
         <source>Note name</source>
-        <translation/>
+        <translation>Muistiinpanon nimi</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="537"/>
         <source>Are you sure you want to delete these %1 notes?</source>
-        <translation/>
+        <translation>Haluatko varmasti poistaa nämä %1 muistiinpanoa?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="538"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
-        <translation/>
+        <translation>Haluatko varmasti poistaa &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="566"/>
         <location filename="../../NotesView.qml" line="589"/>
         <location filename="../../NotesView.qml" line="627"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="567"/>
         <source>Notes deleted</source>
-        <translation/>
+        <translation>Muistiinpanot poistettu</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="567"/>
         <source>Note deleted</source>
-        <translation/>
+        <translation>Muistiinpano poistettu</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="572"/>
         <location filename="../../NotesView.qml" line="574"/>
         <source>%1 has been deleted</source>
-        <translation/>
+        <translation>%1 on poistettu</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="591"/>
         <source>Rename Note</source>
-        <translation/>
+        <translation>Nimeä muistiinpano uudelleen</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="601"/>
         <source>%1 (Renamed Note)</source>
-        <translation/>
+        <translation>%1 (Uudelleen nimettyä muistiinpanoa)</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="628"/>
         <source>Note moved</source>
-        <translation/>
+        <translation>Muistiinpano siirretty</translation>
     </message>
 </context>
 <context>
@@ -396,12 +396,12 @@
     <message>
         <location filename="../../OneButtonModalDialog.qml" line="62"/>
         <source>Title text</source>
-        <translation/>
+        <translation>Otsikkoteksti</translation>
     </message>
     <message>
         <location filename="../../OneButtonModalDialog.qml" line="89"/>
         <source>Some text here</source>
-        <translation/>
+        <translation>Jotain tekstiä tähän</translation>
     </message>
 </context>
 <context>
@@ -409,7 +409,7 @@
     <message>
         <location filename="../../src/DataHandler.cpp" line="25"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>Arkimuistiinpanot (oletus)</translation>
     </message>
 </context>
 <context>
@@ -417,27 +417,27 @@
     <message>
         <location filename="../../ShareNote.qml" line="71"/>
         <source>Title</source>
-        <translation/>
+        <translation>Otsikko</translation>
     </message>
     <message>
         <location filename="../../ShareNote.qml" line="103"/>
         <source>Enter Email addresses</source>
-        <translation/>
+        <translation>Syötä sähköpostiosoite</translation>
     </message>
     <message>
         <location filename="../../ShareNote.qml" line="163"/>
         <source>Add a message</source>
-        <translation/>
+        <translation>Lisää viesti</translation>
     </message>
     <message>
         <location filename="../../ShareNote.qml" line="200"/>
         <source>Send</source>
-        <translation/>
+        <translation>Lähetä</translation>
     </message>
     <message>
         <location filename="../../ShareNote.qml" line="226"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
 </context>
 <context>
@@ -446,7 +446,7 @@
         <location filename="../../TwoButtonsModalDialog.qml" line="152"/>
         <location filename="../../TwoButtonsModalDialog.qml" line="174"/>
         <source>%1/%2</source>
-        <translation/>
+        <translation>%1/%2</translation>
     </message>
 </context>
 <context>
@@ -456,17 +456,17 @@
         <location filename="../../main.qml" line="67"/>
         <location filename="../../main.qml" line="83"/>
         <source>Notes</source>
-        <translation/>
+        <translation>Muistiinpanot</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="22"/>
         <source>All</source>
-        <translation/>
+        <translation>Kaikki</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="22"/>
         <source>Alphabetical order</source>
-        <translation/>
+        <translation>Aakkosjärjestys</translation>
     </message>
 </context>
 </TS>

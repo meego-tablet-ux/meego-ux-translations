@@ -197,7 +197,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="369"/>
         <source>Could not set hold = %</source>
-        <translation/>
+        <translation>Bekletme ayarlanamadı = %</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="469"/>
@@ -243,7 +243,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1269"/>
         <source>Hold request could not be done %1 - %2</source>
-        <translation/>
+        <translation>Bekletme isteği yapılamadı %1 - %2</translation>
     </message>
 </context>
 <context>
@@ -251,7 +251,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="70"/>
         <source>Unable to create text channel room %1</source>
-        <translation/>
+        <translation>Metin kanalı odası oluşturulamadı %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="130"/>
@@ -291,7 +291,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="288"/>
         <source>Invalidated text channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>%1 - %2 - %3 için metin kanalı geçersizleştirildi</translation>
     </message>
 </context>
 <context>
@@ -363,7 +363,7 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="339"/>
         <source>Update user display name</source>
-        <translation/>
+        <translation>Kullanıcı ekran ismini güncelle</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="426"/>
@@ -437,7 +437,7 @@
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="45"/>
         <source>Request from %1</source>
-        <translation/>
+        <translation>%1 tarafından istek</translation>
     </message>
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="60"/>
@@ -512,7 +512,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="136"/>
         <source>Invalidated file transfer channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>%1 - %2 - %3 için dosya transfer kanalı geçersizleştirildi</translation>
     </message>
 </context>
 <context>
@@ -618,7 +618,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="360"/>
         <source>Setting up call to %1</source>
-        <translation/>
+        <translation>%1 için arama ayarlanıyor</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="363"/>
@@ -817,7 +817,7 @@
     <message>
         <location filename="../../MessageContentMenu.qml" line="63"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>Sohbet geçmişini temizle</translation>
     </message>
     <message>
         <location filename="../../MessageContentMenu.qml" line="82"/>
@@ -836,17 +836,17 @@
     <message>
         <location filename="../../MessageDelegate.qml" line="282"/>
         <source>%1 tried to call - %2</source>
-        <translation/>
+        <translation>%1 aramaya çalıştı - %2</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="284"/>
         <source>%1 rejected call - %2</source>
-        <translation/>
+        <translation>%1 aramayı reddetti - %2</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="286"/>
         <source>%1 called - duration %2 - %3</source>
-        <translation/>
+        <translation>%1 aradı - süre %2 - %3</translation>
     </message>
 </context>
 <context>
@@ -905,7 +905,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="130"/>
         <source>%1 is sending you the file %2</source>
-        <translation/>
+        <translation>%1 size %2 dosyasını gönderiyor</translation>
     </message>
 </context>
 <context>

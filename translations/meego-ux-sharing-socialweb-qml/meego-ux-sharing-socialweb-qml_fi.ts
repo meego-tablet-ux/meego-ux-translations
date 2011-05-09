@@ -9,12 +9,12 @@
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="164"/>
         <source>Add a new album</source>
-        <translation/>
+        <translation>Lisää uusi albumi</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="188"/>
         <source>Add a title</source>
-        <translation/>
+        <translation>Lisää otsikko</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="207"/>
@@ -29,12 +29,12 @@
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="310"/>
         <source>Photo</source>
-        <translation/>
+        <translation>Valokuva</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="312"/>
         <source>Music</source>
-        <translation/>
+        <translation>Musiikki</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="314"/>
@@ -47,17 +47,17 @@
     <message>
         <location filename="../../qml/CreateCollection.qml" line="60"/>
         <source>Choose a name for your new album</source>
-        <translation/>
+        <translation>Valitse nimi uudelle albumillesi</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="105"/>
         <source>Album name</source>
-        <translation/>
+        <translation>Albumin nimi</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="135"/>
         <source>Create album</source>
-        <translation/>
+        <translation>Luo albumi</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="145"/>
@@ -68,22 +68,22 @@
     <message>
         <location filename="../../qml/CreateCollection.qml" line="152"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="241"/>
         <source>Video</source>
-        <translation/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="243"/>
         <source>Photo</source>
-        <translation/>
+        <translation>Valokuva</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="245"/>
         <source>Music</source>
-        <translation/>
+        <translation>Musiikki</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="247"/>
@@ -101,22 +101,22 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="221"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="252"/>
         <source>Video</source>
-        <translation/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="254"/>
         <source>Photo</source>
-        <translation/>
+        <translation>Valokuva</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="256"/>
         <source>Music</source>
-        <translation/>
+        <translation>Musiikki</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="258"/>
@@ -131,7 +131,7 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="296"/>
         <source>&lt;b&gt;Album:&lt;/b&gt; %1</source>
-        <translation/>
+        <translation>&lt;b&gt;Albumi:&lt;/b&gt; %1</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="301"/>
@@ -141,7 +141,7 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="303"/>
         <source>Next</source>
-        <translation/>
+        <translation>Seuraava</translation>
     </message>
 </context>
 <context>
@@ -149,7 +149,7 @@
     <message>
         <location filename="../../qml/facebook_image_multi.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Valokuvan nimi</translation>
     </message>
 </context>
 <context>
@@ -157,7 +157,7 @@
     <message>
         <location filename="../../qml/facebook_image_single.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Valokuvan nimi</translation>
     </message>
 </context>
 <context>
@@ -165,7 +165,7 @@
     <message>
         <location filename="../../qml/facebook_video_multi.qml" line="19"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Videon nimi</translation>
     </message>
 </context>
 <context>
@@ -173,7 +173,7 @@
     <message>
         <location filename="../../qml/facebook_video_single.qml" line="19"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Videon nimi</translation>
     </message>
 </context>
 <context>
@@ -181,37 +181,37 @@
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Valokuvan nimi</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="23"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Valokuvan kuvaus</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="26"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Valokuvan tagit</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="55"/>
         <source>Only You (private)</source>
-        <translation/>
+        <translation>Vain sinä (yksityinen)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="85"/>
         <source>Your Friends</source>
-        <translation/>
+        <translation>Ystäväsi</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="117"/>
         <source>Your Family</source>
-        <translation/>
+        <translation>Perheesi</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="151"/>
         <source>Anyone (public)</source>
-        <translation/>
+        <translation>Kaikki (julkinen)</translation>
     </message>
 </context>
 <context>
@@ -219,37 +219,37 @@
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Valokuvan nimi</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="23"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Valokuvan kuvaus</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="26"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Valokuvan tagit</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="55"/>
         <source>Only You (private)</source>
-        <translation/>
+        <translation>Vain sinä (yksityinen)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="85"/>
         <source>Your Friends</source>
-        <translation/>
+        <translation>Ystäväsi</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="117"/>
         <source>Your Family</source>
-        <translation/>
+        <translation>Perheesi</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="151"/>
         <source>Anyone (public)</source>
-        <translation/>
+        <translation>Kaikki (julkinen)</translation>
     </message>
 </context>
 <context>
@@ -257,37 +257,37 @@
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Valokuvan nimi</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="23"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Valokuvan kuvaus</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="26"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Valokuvan tagit</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="55"/>
         <source>Only You (private)</source>
-        <translation/>
+        <translation>Vain sinä (yksityinen)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="85"/>
         <source>Your Friends</source>
-        <translation/>
+        <translation>Ystäväsi</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="117"/>
         <source>Your Family</source>
-        <translation/>
+        <translation>Perheesi</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="151"/>
         <source>Anyone (public)</source>
-        <translation/>
+        <translation>Kaikki (julkinen)</translation>
     </message>
 </context>
 <context>
@@ -295,37 +295,37 @@
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Valokuvan nimi</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="23"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Valokuvan kuvaus</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="26"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Valokuvan tagit</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="55"/>
         <source>Only You (private)</source>
-        <translation/>
+        <translation>Vain sinä (yksityinen)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="85"/>
         <source>Your Friends</source>
-        <translation/>
+        <translation>Ystäväsi</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="117"/>
         <source>Your Family</source>
-        <translation/>
+        <translation>Perheesi</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="151"/>
         <source>Anyone (public)</source>
-        <translation/>
+        <translation>Kaikki (julkinen)</translation>
     </message>
 </context>
 <context>
@@ -333,12 +333,12 @@
     <message>
         <location filename="../../qml/photobucket_image_multi.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Valokuvan nimi</translation>
     </message>
     <message>
         <location filename="../../qml/photobucket_image_multi.qml" line="23"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Valokuvan kuvaus</translation>
     </message>
 </context>
 <context>
@@ -346,12 +346,12 @@
     <message>
         <location filename="../../qml/photobucket_image_single.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Valokuvan nimi</translation>
     </message>
     <message>
         <location filename="../../qml/photobucket_image_single.qml" line="23"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Valokuvan kuvaus</translation>
     </message>
 </context>
 <context>
@@ -359,12 +359,12 @@
     <message>
         <location filename="../../qml/smugmug_image_multi.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Valokuvan nimi</translation>
     </message>
     <message>
         <location filename="../../qml/smugmug_image_multi.qml" line="23"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Valokuvan tagit</translation>
     </message>
 </context>
 <context>
@@ -372,12 +372,12 @@
     <message>
         <location filename="../../qml/smugmug_image_single.qml" line="20"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Valokuvan nimi</translation>
     </message>
     <message>
         <location filename="../../qml/smugmug_image_single.qml" line="23"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Valokuvan tagit</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../../qml/twitter_image_multi.qml" line="19"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Valokuvan nimi</translation>
     </message>
 </context>
 <context>
@@ -393,7 +393,7 @@
     <message>
         <location filename="../../qml/twitter_image_single.qml" line="19"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Valokuvan nimi</translation>
     </message>
 </context>
 <context>
@@ -401,17 +401,17 @@
     <message>
         <location filename="../../qml/youtube_video_multi.qml" line="19"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Videon nimi</translation>
     </message>
     <message>
         <location filename="../../qml/youtube_video_multi.qml" line="22"/>
         <source>Video description</source>
-        <translation/>
+        <translation>Videon kuvaus</translation>
     </message>
     <message>
         <location filename="../../qml/youtube_video_multi.qml" line="25"/>
         <source>Video tags</source>
-        <translation/>
+        <translation>Videon tagit</translation>
     </message>
 </context>
 <context>
@@ -419,17 +419,17 @@
     <message>
         <location filename="../../qml/youtube_video_single.qml" line="19"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Videon nimi</translation>
     </message>
     <message>
         <location filename="../../qml/youtube_video_single.qml" line="22"/>
         <source>Video description</source>
-        <translation/>
+        <translation>Videon kuvaus</translation>
     </message>
     <message>
         <location filename="../../qml/youtube_video_single.qml" line="25"/>
         <source>Video tags</source>
-        <translation/>
+        <translation>Videon tagit</translation>
     </message>
 </context>
 </TS>

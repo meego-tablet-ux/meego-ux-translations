@@ -326,7 +326,7 @@
     <message>
         <location filename="../../main.qml" line="82"/>
         <source>%1 %2 %3</source>
-        <translation/>
+        <translation>%1 %2 %3</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="237"/>

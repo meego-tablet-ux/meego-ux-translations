@@ -46,7 +46,7 @@
     <message>
         <location filename="../../CreateNewTaskRow.qml" line="26"/>
         <source>* </source>
-        <translation/>
+        <translation>* </translation>
     </message>
 </context>
 <context>
@@ -133,22 +133,22 @@
     <message>
         <location filename="../../TasksDetailMenu.qml" line="115"/>
         <source>Due date:</source>
-        <translation/>
+        <translation>Bitiş tarihi:</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="128"/>
         <source>Date</source>
-        <translation/>
+        <translation>Tarih</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="129"/>
         <source>Someday</source>
-        <translation/>
+        <translation>Birgün</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="136"/>
         <source>Set due date</source>
-        <translation/>
+        <translation>Bitiş tarihini ayarla</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="156"/>
@@ -326,7 +326,7 @@
     <message>
         <location filename="../../main.qml" line="82"/>
         <source>%1 %2 %3</source>
-        <translation/>
+        <translation>%1 %2 %3</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="237"/>

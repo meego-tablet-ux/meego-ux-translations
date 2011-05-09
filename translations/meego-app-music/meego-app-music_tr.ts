@@ -4,12 +4,12 @@
     <message>
         <location filename="../../MusicListView.qml" line="20"/>
         <source>unknown artist</source>
-        <translation>sanatçı bilinmiyor</translation>
+        <translation>bilinmeyen sanatçı</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="21"/>
         <source>unknown album</source>
-        <translation>albüm bilinmiyor</translation>
+        <translation>bilinmeyen albüm</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="22"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Play Queue</source>
-        <translation/>
+        <translation>Kuyruğu Çal</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
@@ -230,7 +230,7 @@
     <message>
         <location filename="../../main.qml" line="62"/>
         <source>Alphabetically</source>
-        <translation>Alfebetik</translation>
+        <translation>Alfabetik</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="63"/>
@@ -300,12 +300,12 @@
     <message>
         <location filename="../../main.qml" line="522"/>
         <source>Permanently delete these %1 songs?</source>
-        <translation>Kalıcı olarak bu %1 şarkıları sil?</translation>
+        <translation>Kalıcı olarak bu %1 şarkıyı sil?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="535"/>
         <source>If you delete these, they will be removed from your device</source>
-        <translation>Bunu silerseniz, cihazınızdan silinecektir</translation>
+        <translation>Bunları silerseniz, cihazınızdan da kaldırılacaktır</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="580"/>
@@ -320,7 +320,7 @@
         <location filename="../../main.qml" line="1273"/>
         <location filename="../../main.qml" line="1523"/>
         <source>View By</source>
-        <translation/>
+        <translation>Göster</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="936"/>

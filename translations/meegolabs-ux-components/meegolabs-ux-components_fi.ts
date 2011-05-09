@@ -12,7 +12,7 @@
     <message>
         <location filename="../../Components/ApplicationPage.qml" line="195"/>
         <source>Search</source>
-        <translation/>
+        <translation>Etsi</translation>
     </message>
 </context>
 <context>
@@ -20,17 +20,17 @@
     <message>
         <location filename="../../Components/ClipboardContextMenu.qml" line="12"/>
         <source>Copy</source>
-        <translation/>
+        <translation>Kopioi</translation>
     </message>
     <message>
         <location filename="../../Components/ClipboardContextMenu.qml" line="12"/>
         <source>Cut</source>
-        <translation/>
+        <translation>Leikkaa</translation>
     </message>
     <message>
         <location filename="../../Components/ClipboardContextMenu.qml" line="12"/>
         <source>Paste</source>
-        <translation/>
+        <translation>Liitä</translation>
     </message>
 </context>
 <context>
@@ -38,37 +38,37 @@
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="36"/>
         <source>Pick a contact:</source>
-        <translation/>
+        <translation>Valitse yhteystieto:</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="118"/>
         <source>Loading...</source>
-        <translation/>
+        <translation>Ladataan...</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="247"/>
         <source>Idle</source>
-        <translation/>
+        <translation>Joutilas</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="249"/>
         <source>Available</source>
-        <translation/>
+        <translation>Tavoitettavissa</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="251"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Varattu</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="331"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="354"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
 </context>
 <context>
@@ -232,17 +232,17 @@
     <message>
         <location filename="../../Components/MessageBox.qml" line="138"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../Components/MessageBox.qml" line="139"/>
         <source>Reject</source>
-        <translation/>
+        <translation>Hylkää</translation>
     </message>
     <message>
         <location filename="../../Components/MessageBox.qml" line="140"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
 </context>
 <context>
@@ -250,12 +250,12 @@
     <message>
         <location filename="../../Components/ModalMessageBox.qml" line="127"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../Components/ModalMessageBox.qml" line="137"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
 </context>
 <context>
@@ -277,18 +277,18 @@
         <location filename="../../Components/ShareObj.qml" line="63"/>
         <location filename="../../Components/ShareObj.qml" line="83"/>
         <source>Email</source>
-        <translation/>
+        <translation>Sähköposti</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="227"/>
         <source>An error occurred while sharing: %1</source>
-        <translation/>
+        <translation>Tapahtui virhe jaettaessa: %1</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="232"/>
         <location filename="../../Components/ShareObj.qml" line="263"/>
         <source>Ok</source>
-        <translation/>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="258"/>
@@ -327,12 +327,12 @@
     <message>
         <location filename="../../Components/ToggleSwitch.qml" line="39"/>
         <source>ON</source>
-        <translation/>
+        <translation>PÄÄLLE</translation>
     </message>
     <message>
         <location filename="../../Components/ToggleSwitch.qml" line="40"/>
         <source>OFF</source>
-        <translation/>
+        <translation>POIS PÄÄLTÄ</translation>
     </message>
 </context>
 </TS>

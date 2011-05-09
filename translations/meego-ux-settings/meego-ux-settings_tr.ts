@@ -17,13 +17,13 @@
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="83"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="89"/>
         <source>Disconnect Input Device</source>
-        <translation/>
+        <translation>Giriş Cihazı Bağlantısını Kes</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="83"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="93"/>
         <source>Connect Input Device</source>
-        <translation/>
+        <translation>Giriş Cihazı Bağla</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="113"/>
@@ -465,7 +465,7 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="448"/>
         <source>Syncing now...</source>
         <extracomment>Status message: Sync in-progress</extracomment>
-        <translation>Şu anda senkronizasyon...</translation>
+        <translation>Şimdi senkronlanıyor...</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="460"/>
@@ -565,17 +565,17 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="16"/>
         <source>Notifications</source>
-        <translation/>
+        <translation>Bildirimler</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
         <source>By default, phone and messaging notifications will be shown on the lockscreen.</source>
-        <translation/>
+        <translation>Varsayılan olarak, telefon ve mesajlaşma bildirimleri kilit ekranında görüntülenir.</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="67"/>
         <source>You may select up to 4 additional notifications to receive on the lockscreen</source>
-        <translation/>
+        <translation>Kilit ekranında görüntülenecek 4 ekstra bildirim daha seçebilirsiniz</translation>
     </message>
 </context>
 <context>
@@ -753,7 +753,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/SetTimezoneMenu.qml" line="78"/>
         <source>Filter list</source>
-        <translation/>
+        <translation>Filtre listesi</translation>
     </message>
     <message>
         <location filename="../../TimeDate/SetTimezoneMenu.qml" line="123"/>
@@ -1000,7 +1000,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="187"/>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="218"/>
         <source>Current Timezone is %1</source>
-        <translation/>
+        <translation>Geçerli Zamandilimi %1</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="204"/>
@@ -1106,7 +1106,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="168"/>
         <source>Do you want to remove %1 ?  This action will forget any passwords and you will no longer be automatically connected to %2</source>
-        <translation/>
+        <translation>Kaldırmak istiyor musunuz %1 ?  Bu eylem ile tüm parolalar unutulacak ve artık %2 ile otomatik bağlantı yapılmayacaktır</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="180"/>

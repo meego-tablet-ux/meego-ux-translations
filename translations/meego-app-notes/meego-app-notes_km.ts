@@ -293,7 +293,7 @@
         <location filename="../../NotesView.qml" line="374"/>
         <location filename="../../NotesView.qml" line="398"/>
         <source>Email</source>
-        <translation/>
+        <translation>អ៊ីមែល</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="375"/>

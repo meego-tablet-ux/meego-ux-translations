@@ -137,7 +137,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="70"/>
         <source>Update:</source>
-        <translation/>
+        <translation>Güncelle</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="120"/>
@@ -234,7 +234,7 @@
         <location filename="../../AddRecipient.qml" line="45"/>
         <source>Select &quot;%1&quot; recipient</source>
         <extracomment>The contact (e-mail recipient) picker title.</extracomment>
-        <translation/>
+        <translation>&quot;%1&quot; alıcı seç</translation>
     </message>
 </context>
 <context>
@@ -442,19 +442,19 @@
         <location filename="../../EmailHeader.qml" line="105"/>
         <source>To</source>
         <extracomment>The &quot;to&quot; recipient label.</extracomment>
-        <translation/>
+        <translation>Kime</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="130"/>
         <source>Cc</source>
         <extracomment>The Cc (carbon copy) label.</extracomment>
-        <translation/>
+        <translation>Cc</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="154"/>
         <source>Bcc</source>
         <extracomment>The Bcc (blind carbon copy) label.</extracomment>
-        <translation/>
+        <translation>Bcc</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="187"/>
@@ -558,7 +558,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="171"/>
         <source>There are no messages in this folder.</source>
-        <translation/>
+        <translation>Bu klasörde mesaj yok</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="210"/>
@@ -607,7 +607,7 @@
         <location filename="../../FolderListViewToolbar.qml" line="136"/>
         <source>(%1)</source>
         <extracomment>Arg1 is the number of selected messages</extracomment>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -800,7 +800,8 @@
         <location filename="../../ReadingViewToolbar.qml" line="61"/>
         <source>On %1 %2 wrote:
 </source>
-        <translation/>
+        <translation>%1 tarihinde %2 yazdı:
+</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="184"/>
@@ -953,7 +954,7 @@
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Go to folder:</source>
-        <translation/>
+        <translation>Klasöre git:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="56"/>
@@ -971,7 +972,8 @@
         <location filename="../../main.qml" line="126"/>
         <source>On %1 %2 wrote:
 </source>
-        <translation/>
+        <translation>%1 tarihinde %2 yazdı:
+</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="167"/>
@@ -1030,12 +1032,12 @@
     <message>
         <location filename="../../settings/settings.js" line="15"/>
         <source>Update every hour</source>
-        <translation/>
+        <translation>Her saat  güncelle</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="17"/>
         <source>Update every %1 minutes</source>
-        <translation/>
+        <translation>Her %1 dakikada güncelle</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="23"/>
@@ -1076,7 +1078,7 @@
     <message>
         <location filename="../../settings/settings.js" line="73"/>
         <source>Cram MD5</source>
-        <translation/>
+        <translation>Cram MD5</translation>
     </message>
 </context>
 </TS>

@@ -111,7 +111,7 @@
     <message>
         <location filename="../../main.qml" line="408"/>
         <source>Start recording your own or upload your favourite shows.</source>
-        <translation/>
+        <translation>Favori şovlarınızı yükleyin veya kendiniz bir tane kaydedin.</translation>
     </message>
 </context>
 </TS>

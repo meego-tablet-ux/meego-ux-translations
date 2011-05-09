@@ -295,7 +295,7 @@ smazat &quot;%1&quot;?</translation>
         <location filename="../../NotesView.qml" line="374"/>
         <location filename="../../NotesView.qml" line="398"/>
         <source>Email</source>
-        <translation/>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="375"/>

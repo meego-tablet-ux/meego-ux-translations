@@ -77,7 +77,7 @@
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="155"/>
         <source>Paired Devices</source>
-        <translation/>
+        <translation>ឧបករណ៍​ដែល​បាន​ផ្សំផ្គុំ</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="168"/>
@@ -213,7 +213,7 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="21"/>
         <source>Ethernet</source>
-        <translation/>
+        <translation>អ៊ីសឺរណិត</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="22"/>
@@ -399,7 +399,7 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="229"/>
         <source>suspended</source>
         <extracomment>Sync job suspended.</extracomment>
-        <translation/>
+        <translation>បាន​ផ្អាក</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="234"/>
@@ -536,7 +536,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/NearbyDevices.qml" line="15"/>
         <source>Add New Device</source>
-        <translation/>
+        <translation>បន្ថែម​ឧបករណ៍​ថ្មី</translation>
     </message>
 </context>
 <context>
@@ -696,7 +696,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="31"/>
         <source>Pair with %1 with key %2?</source>
-        <translation/>
+        <translation>ផ្សំ​ផ្គុំ​ជាមួយ %1 ជាមួយ​សោរ %2?</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="45"/>

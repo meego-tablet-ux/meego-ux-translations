@@ -306,7 +306,7 @@
     <message>
         <location filename="../../main.qml" line="40"/>
         <source>Do you want to delete this list and all of its tasks?</source>
-        <translation/>
+        <translation>Haluatko poistaa tämän listan ja kaikki sen tehtävät?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -326,7 +326,7 @@
     <message>
         <location filename="../../main.qml" line="82"/>
         <source>%1 %2 %3</source>
-        <translation/>
+        <translation>%1 %2 %3</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="237"/>

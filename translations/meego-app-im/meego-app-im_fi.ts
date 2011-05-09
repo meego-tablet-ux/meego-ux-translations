@@ -4,22 +4,22 @@
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="117"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>Useita tilejä yhdistetty</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="118"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>Haluatko varmasti yhdistää tähän tiliin? Niin tekemällä yhteys muihin %1 tiliin katkaistaan.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="188"/>
         <source>There is already an account configured using this login. Please check your username.</source>
-        <translation/>
+        <translation>Tällä tunnuksella on jo tili olemassa. Ole hyvä ja tarkista käyttäjänimesi.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="189"/>
         <source>Sorry, there was a problem logging in. Please check your username and password.</source>
-        <translation/>
+        <translation>Virhe sisään kirjautumisessa. Ole hyvä ja tarkista käyttäjänimi ja salasana.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="205"/>
@@ -29,7 +29,7 @@
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="216"/>
         <source>Name / ID</source>
-        <translation/>
+        <translation>Nimi / ID</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="224"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="236"/>
         <source>Password</source>
-        <translation/>
+        <translation>Salasana</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="253"/>
@@ -65,27 +65,27 @@
     <message>
         <location filename="../../AccountDelegate.qml" line="115"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>Useita tilejä yhdistetty</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="116"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>Haluatko varmasti yhdistää tähän tiliin? Niin tekemällä yhteys muihin %1 tiliin katkaistaan.</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="171"/>
         <source>Log out</source>
-        <translation/>
+        <translation>Kirjaudu ulos</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="173"/>
         <source>Log in to %1</source>
-        <translation/>
+        <translation>Kirjaudu sisään: %1</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="175"/>
         <source>Settings</source>
-        <translation/>
+        <translation>Asetukset</translation>
     </message>
 </context>
 <context>
@@ -120,17 +120,17 @@
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="39"/>
         <source>Update</source>
-        <translation/>
+        <translation>Päivitä</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="55"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="79"/>
         <source>Delete account</source>
-        <translation/>
+        <translation>Poista tili</translation>
     </message>
 </context>
 <context>
@@ -138,27 +138,27 @@
     <message>
         <location filename="../../AddAFriend.qml" line="51"/>
         <source>friend&apos;s username</source>
-        <translation/>
+        <translation>ystävän käyttäjänimi</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="59"/>
         <source>Send</source>
-        <translation/>
+        <translation>Lähetä</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="88"/>
         <source>Sending request</source>
-        <translation/>
+        <translation>Lähetetään pyyntö</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="97"/>
         <source>Request sent</source>
-        <translation/>
+        <translation>Pyyntö lähetetty</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="115"/>
         <source>Your device is not connected to a network. Please connect and try again.</source>
-        <translation/>
+        <translation>Laitteesi ei ole verkossa. Yhdistä verkkoon ja yritä uudelleen.</translation>
     </message>
 </context>
 <context>
@@ -167,12 +167,12 @@
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="115"/>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="163"/>
         <source>An error occurred while trying to complete your request. Please try again.</source>
-        <translation/>
+        <translation>Tapahtui virhe pyynnön toteutuksessa. Yritä uudelleen.</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="176"/>
         <source>Account not found. Please enter a valid account name.</source>
-        <translation/>
+        <translation>Tiliä ei löydy. Ole hyvä ja anna kelvollinen tilin nimi.</translation>
     </message>
 </context>
 <context>
@@ -186,29 +186,29 @@
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="163"/>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="172"/>
         <source>Error ending call</source>
-        <translation/>
+        <translation>Virhe puhelun lopetuksessa</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="197"/>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="929"/>
         <source>Call could not be accepted</source>
-        <translation/>
+        <translation>Puhelua ei voitu hyväksyä</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="369"/>
         <source>Could not set hold = %</source>
-        <translation/>
+        <translation>Ei voitu asettaa pitoon = %</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="469"/>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="626"/>
         <source>Channel not available</source>
-        <translation/>
+        <translation>Kanava ei ole käytössä</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="566"/>
         <source>Unable to create call channel for contact %1</source>
-        <translation/>
+        <translation>Yhteystiedolle %1 ei voitu luoda puhelukanavaa</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="888"/>
@@ -218,12 +218,12 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="903"/>
         <source>Unable to create channel</source>
-        <translation/>
+        <translation>Kanavaa ei voitu luoda</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="917"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>Yhteystiedolle %1 - %2 - %3 ei voitu luoda puhelukanavaa</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="973"/>
@@ -233,17 +233,17 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1241"/>
         <source>Error ending call: %1 - %2</source>
-        <translation/>
+        <translation>Virhe puhelun lopetuksessa: %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1255"/>
         <source>Call could not be accepted %1 - %2</source>
-        <translation/>
+        <translation>Puhelua ei voitu hyväksyä %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1269"/>
         <source>Hold request could not be done %1 - %2</source>
-        <translation/>
+        <translation>Pyyntöä pitoon ei voitu tehdä %1 - %2</translation>
     </message>
 </context>
 <context>
@@ -251,12 +251,12 @@
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="70"/>
         <source>Unable to create text channel room %1</source>
-        <translation/>
+        <translation>Tekstikanavan luonti huoneelle %1 epäonnistui</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="130"/>
         <source>Unable to create text channel for contact %1</source>
-        <translation>Tekstikanavan luonti yhteyshenkilölle %1 epäonnistui</translation>
+        <translation>Tekstikanavan luonti yhteystiedolle %1 epäonnistui</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="151"/>
@@ -276,12 +276,12 @@
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="204"/>
         <source>Unable to create text channel for contact %1 - %2 - %3</source>
-        <translation>Yhteyshenkilölle %1 - %2 - %3 ei voitu luoda tekstikanavaa</translation>
+        <translation>Yhteystiedolle %1 - %2 - %3 ei voitu luoda tekstikanavaa</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="222"/>
         <source>Unable to create text channel</source>
-        <translation/>
+        <translation>Tekstikanavaa ei voitu luoda</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="283"/>
@@ -299,12 +299,12 @@
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="15"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Kyllä</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ConfirmationDialog.qml" line="18"/>
         <source>No</source>
-        <translation/>
+        <translation>Ei</translation>
     </message>
 </context>
 <context>
@@ -312,53 +312,53 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="31"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>Useita tilejä yhdistetty</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="32"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>Haluatko varmasti yhdistää tähän tiliin? Niin tekemällä yhteys muihin %1 tiliin katkaistaan.</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="165"/>
         <source>Update status</source>
-        <translation/>
+        <translation>Päivitä tila</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="204"/>
         <source>Available</source>
-        <translation/>
+        <translation>Tavoitettavissa</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="209"/>
         <source>Away</source>
-        <translation/>
+        <translation>Poissa</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="214"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Varattu</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="219"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>Näkymätön</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="224"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Poissa linjoilta</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="303"/>
         <source>Custom status message</source>
-        <translation/>
+        <translation>Oma tilaviesti</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="311"/>
         <location filename="../../ContactContentMenu.qml" line="407"/>
         <source>Update</source>
-        <translation/>
+        <translation>Päivitä</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="339"/>
@@ -368,22 +368,22 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="426"/>
         <source>Add a friend</source>
-        <translation/>
+        <translation>Lisää ystävä</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="463"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>Tyhjennä keskusteluhistoria</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="479"/>
         <source>Log in</source>
-        <translation/>
+        <translation>Kirjaudu sisään</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="479"/>
         <source>Log out</source>
-        <translation/>
+        <translation>Kirjaudu ulos</translation>
     </message>
 </context>
 <context>
@@ -391,17 +391,17 @@
     <message>
         <location filename="../../ContactPickerContent.qml" line="50"/>
         <source>Add contacts to chat</source>
-        <translation/>
+        <translation>Lisää yhteystiedot keskusteluun</translation>
     </message>
     <message>
         <location filename="../../ContactPickerContent.qml" line="135"/>
         <source>Add</source>
-        <translation/>
+        <translation>Lisää</translation>
     </message>
     <message>
         <location filename="../../ContactPickerContent.qml" line="174"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
 </context>
 <context>
@@ -409,17 +409,17 @@
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="123"/>
         <source>available</source>
-        <translation/>
+        <translation>tavoitettavissa</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="125"/>
         <source>busy</source>
-        <translation/>
+        <translation>varattu</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="127"/>
         <source>away</source>
-        <translation/>
+        <translation>poissa</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="129"/>
@@ -429,7 +429,7 @@
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="131"/>
         <source>offline</source>
-        <translation/>
+        <translation>poissa linjoilta</translation>
     </message>
 </context>
 <context>
@@ -475,12 +475,12 @@
     <message>
         <location filename="../../ContactsDelegate.qml" line="86"/>
         <source>Unblock</source>
-        <translation/>
+        <translation>Pura esto</translation>
     </message>
     <message>
         <location filename="../../ContactsDelegate.qml" line="88"/>
         <source>Block</source>
-        <translation/>
+        <translation>Estä</translation>
     </message>
     <message>
         <location filename="../../ContactsDelegate.qml" line="94"/>
@@ -490,7 +490,7 @@
     <message>
         <location filename="../../ContactsDelegate.qml" line="98"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>Poista yhteystieto</translation>
     </message>
 </context>
 <context>
@@ -498,7 +498,7 @@
     <message>
         <location filename="../../ContactsLoading.qml" line="28"/>
         <source>Loading contacts</source>
-        <translation/>
+        <translation>Ladataan yhteystietoja</translation>
     </message>
 </context>
 <context>
@@ -507,7 +507,7 @@
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="40"/>
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="79"/>
         <source>Channel not available</source>
-        <translation/>
+        <translation>Kanava ei ole käytössä</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="136"/>
@@ -545,12 +545,12 @@
     <message>
         <location filename="../../FileTransferDelegate.qml" line="199"/>
         <source>(%1)</source>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="211"/>
         <source>Open</source>
-        <translation/>
+        <translation>Avaa</translation>
     </message>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="235"/>
@@ -565,22 +565,22 @@
     <message>
         <location filename="../../FileTransferDelegate.qml" line="240"/>
         <source>Canceled</source>
-        <translation/>
+        <translation>Peruutettu</translation>
     </message>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="266"/>
         <source>Save</source>
-        <translation/>
+        <translation>Tallenna</translation>
     </message>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="282"/>
         <source>Decline</source>
-        <translation/>
+        <translation>Kieltäydy</translation>
     </message>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="312"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
 </context>
 <context>
@@ -603,17 +603,17 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="265"/>
         <source>%1 has paused typing</source>
-        <translation/>
+        <translation>%1 on keskeyttänyt kirjoituksen</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="273"/>
         <source>%1 is now idle</source>
-        <translation/>
+        <translation>%1 on nyt joutilas</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="357"/>
         <source>%1 is calling you</source>
-        <translation/>
+        <translation>%1 soittaa sinulle</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="360"/>
@@ -643,22 +643,22 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="454"/>
         <source>%1 bytes</source>
-        <translation/>
+        <translation>%1 tavua</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="458"/>
         <source>%1 KB</source>
-        <translation/>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="462"/>
         <source>%1 MB</source>
-        <translation/>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="466"/>
         <source>%1 GB</source>
-        <translation/>
+        <translation>%1 GB</translation>
     </message>
 </context>
 <context>
@@ -667,13 +667,13 @@
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="348"/>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="560"/>
         <source>Incoming call from %1</source>
-        <translation/>
+        <translation>Tuleva puhelu henkilöltä %1</translation>
     </message>
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="364"/>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="563"/>
         <source>Incoming file transfer from %1</source>
-        <translation/>
+        <translation>Tuleva tiedoston siirto henkilöltä %1</translation>
     </message>
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="415"/>
@@ -686,7 +686,7 @@
     <message>
         <location filename="../../plugin/imgroupchatmodelitem.cpp" line="69"/>
         <source>%1 chatting</source>
-        <translation/>
+        <translation>%1 keskustelee</translation>
     </message>
 </context>
 <context>
@@ -709,12 +709,12 @@
     <message>
         <location filename="../../settings/ImSettings.qml" line="132"/>
         <source>General Settings</source>
-        <translation/>
+        <translation>Yleiset asetukset</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="156"/>
         <source>Show offline contacts</source>
-        <translation>Näytä yhteyshenkilöt jotka ovat offline-tilassa</translation>
+        <translation>Näytä yhteystiedot jotka ovat offline-tilassa</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="180"/>
@@ -724,12 +724,12 @@
     <message>
         <location filename="../../settings/ImSettings.qml" line="210"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>Tyhjennä keskusteluhistoria</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="236"/>
         <source>Blocked contacts</source>
-        <translation/>
+        <translation>Estetyt yhteystiedot</translation>
     </message>
 </context>
 <context>
@@ -737,7 +737,7 @@
     <message>
         <location filename="../../IncomingCall.qml" line="16"/>
         <source>Incoming Call</source>
-        <translation/>
+        <translation>Tuleva puhelu</translation>
     </message>
     <message>
         <location filename="../../IncomingCall.qml" line="20"/>
@@ -755,27 +755,27 @@
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="51"/>
         <source>Require encryption</source>
-        <translation/>
+        <translation>Vaadi salaus</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="64"/>
         <source>Priority:</source>
-        <translation/>
+        <translation>Prioriteetti:</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="77"/>
         <source>Resource:</source>
-        <translation/>
+        <translation>Resurssi:</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="90"/>
         <source>Server:</source>
-        <translation/>
+        <translation>Palvelin:</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="103"/>
         <source>Port:</source>
-        <translation/>
+        <translation>Portti:</translation>
     </message>
 </context>
 <context>
@@ -783,7 +783,7 @@
     <message>
         <location filename="../../LoadingConversationHistory.qml" line="29"/>
         <source>Loading conversation history</source>
-        <translation/>
+        <translation>Ladataan keskusteluhistoriaa</translation>
     </message>
 </context>
 <context>
@@ -799,12 +799,12 @@
     <message>
         <location filename="../../MessageContactsDelegate.qml" line="53"/>
         <source>Private chat</source>
-        <translation/>
+        <translation>Yksityinen keskustelu</translation>
     </message>
     <message>
         <location filename="../../MessageContactsDelegate.qml" line="57"/>
         <source>Add to contacts</source>
-        <translation/>
+        <translation>Lisää yhteystietoihin</translation>
     </message>
 </context>
 <context>
@@ -812,17 +812,17 @@
     <message>
         <location filename="../../MessageContentMenu.qml" line="48"/>
         <source>Add contacts to chat</source>
-        <translation/>
+        <translation>Lisää yhteystiedot keskusteluun</translation>
     </message>
     <message>
         <location filename="../../MessageContentMenu.qml" line="63"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>Tyhjennä keskusteluhistoria</translation>
     </message>
     <message>
         <location filename="../../MessageContentMenu.qml" line="82"/>
         <source>End chat</source>
-        <translation/>
+        <translation>Lopeta keskustelu</translation>
     </message>
 </context>
 <context>
@@ -831,22 +831,22 @@
         <location filename="../../MessageDelegate.qml" line="232"/>
         <location filename="../../MessageDelegate.qml" line="239"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="282"/>
         <source>%1 tried to call - %2</source>
-        <translation/>
+        <translation>%1 yritti soittaa - %2</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="284"/>
         <source>%1 rejected call - %2</source>
-        <translation/>
+        <translation>%1 hylkäsi puhelun - %2</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="286"/>
         <source>%1 called - duration %2 - %3</source>
-        <translation/>
+        <translation>%1 soitti - kesto %2 - %3</translation>
     </message>
 </context>
 <context>
@@ -854,12 +854,12 @@
     <message>
         <location filename="../../MessageScreenContent.qml" line="84"/>
         <source>Group conversation</source>
-        <translation/>
+        <translation>Ryhmäkeskustelu</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="86"/>
         <source>Chat with %1</source>
-        <translation/>
+        <translation>Keskustele henkilön %1 kanssa</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="453"/>
@@ -884,12 +884,12 @@
     <message>
         <location filename="../../MessageScreenContent.qml" line="862"/>
         <source>Enable camera</source>
-        <translation/>
+        <translation>Ota kamera käyttöön</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="863"/>
         <source>Swap camera</source>
-        <translation/>
+        <translation>Vaihda kamera</translation>
     </message>
 </context>
 <context>
@@ -897,7 +897,7 @@
     <message>
         <location filename="../../NoNetworkHeader.qml" line="38"/>
         <source>Your device is not connected to a network. To chat with your contacts, you need to connect to a network.</source>
-        <translation/>
+        <translation>Laitteesi ei ole verkossa. Keskustellaksesi yhteystietojesi kanssa sinun tulee olla verkossa.</translation>
     </message>
 </context>
 <context>
@@ -936,12 +936,12 @@
     <message>
         <location filename="../../SearchHeader.qml" line="74"/>
         <source>Older</source>
-        <translation/>
+        <translation>Vanhemmat</translation>
     </message>
     <message>
         <location filename="../../SearchHeader.qml" line="87"/>
         <source>Newer</source>
-        <translation/>
+        <translation>Uudemmat</translation>
     </message>
 </context>
 <context>
@@ -949,27 +949,27 @@
     <message>
         <location filename="../../SendFileView.qml" line="53"/>
         <source>Send:</source>
-        <translation/>
+        <translation>Lähetä:</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="68"/>
         <source>Photo</source>
-        <translation/>
+        <translation>Valokuva</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="85"/>
         <source>Video</source>
-        <translation/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="102"/>
         <source>Music</source>
-        <translation/>
+        <translation>Musiikki</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="119"/>
         <source>Contact Details</source>
-        <translation/>
+        <translation>Yhteystiedon tiedot</translation>
     </message>
 </context>
 <context>
@@ -977,7 +977,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="514"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -991,12 +991,12 @@
         <location filename="../../main.qml" line="203"/>
         <location filename="../../main.qml" line="268"/>
         <source>Group conversation</source>
-        <translation/>
+        <translation>Ryhmäkeskustelu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="249"/>
         <source>Chat with %1</source>
-        <translation/>
+        <translation>Keskustele henkilön %1 kanssa</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="352"/>
@@ -1006,17 +1006,17 @@
     <message>
         <location filename="../../main.qml" line="359"/>
         <source>available</source>
-        <translation/>
+        <translation>tavoitettavissa</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="361"/>
         <source>busy</source>
-        <translation/>
+        <translation>varattu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="363"/>
         <source>away</source>
-        <translation/>
+        <translation>poissa</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="365"/>
@@ -1026,7 +1026,7 @@
     <message>
         <location filename="../../main.qml" line="367"/>
         <source>offline</source>
-        <translation/>
+        <translation>poissa linjoilta</translation>
     </message>
 </context>
 <context>
@@ -1034,12 +1034,12 @@
     <message>
         <location filename="../../utils.js" line="13"/>
         <source>Error</source>
-        <translation/>
+        <translation>Virhe</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="15"/>
         <source>No Call</source>
-        <translation/>
+        <translation>Ei puhelua</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="19"/>
@@ -1049,7 +1049,7 @@
     <message>
         <location filename="../../utils.js" line="22"/>
         <source>Connecting</source>
-        <translation/>
+        <translation>Yhdistetään</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="25"/>
@@ -1059,17 +1059,17 @@
     <message>
         <location filename="../../utils.js" line="31"/>
         <source>On Hold</source>
-        <translation/>
+        <translation>Pidossa</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="34"/>
         <source>Hanging up</source>
-        <translation/>
+        <translation>Katkaistaan</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="37"/>
         <source>Unknown</source>
-        <translation/>
+        <translation>Tuntematon</translation>
     </message>
 </context>
 </TS>

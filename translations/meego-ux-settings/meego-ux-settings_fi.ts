@@ -5,35 +5,35 @@
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="54"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="59"/>
         <source>Disconnect Audio</source>
-        <translation/>
+        <translation>Katkaise ääni</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="54"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <source>Connect Audio</source>
-        <translation/>
+        <translation>Yhdistä ääni</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="83"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="89"/>
         <source>Disconnect Input Device</source>
-        <translation/>
+        <translation>Katkaise syöttölaitteen yhteys</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="83"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="93"/>
         <source>Connect Input Device</source>
-        <translation/>
+        <translation>Yhdistä syöttölaite</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="113"/>
         <source>Disconnect Internet</source>
-        <translation/>
+        <translation>Katkaise Internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="113"/>
         <source>Connect Internet</source>
-        <translation/>
+        <translation>Yhdistä Internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="168"/>
@@ -43,7 +43,7 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="219"/>
         <source>Manage</source>
-        <translation/>
+        <translation>Hallitse</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="226"/>
@@ -57,22 +57,22 @@
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="16"/>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="64"/>
         <source>Bluetooth</source>
-        <translation/>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="42"/>
         <source>No bluetooth adapter present</source>
-        <translation/>
+        <translation>Bluetooth sovitinta ei saatavilla</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="98"/>
         <source>Discoverable</source>
-        <translation/>
+        <translation>Näkyvä</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="109"/>
         <source>Discoverable for %1 seconds</source>
-        <translation/>
+        <translation>Näkyvissä %1 sekuntia</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="155"/>
@@ -82,7 +82,7 @@
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="168"/>
         <source>Add Device</source>
-        <translation/>
+        <translation>Lisää laite</translation>
     </message>
 </context>
 <context>
@@ -90,24 +90,24 @@
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="14"/>
         <source>Bookmarks</source>
-        <translation/>
+        <translation>Kirjanmerkit</translation>
     </message>
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="32"/>
         <location filename="../../Browser/BookmarkGroup.qml" line="50"/>
         <source>Always show</source>
-        <translation/>
+        <translation>Näytä aina</translation>
     </message>
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="37"/>
         <location filename="../../Browser/BookmarkGroup.qml" line="55"/>
         <source>Never show</source>
-        <translation/>
+        <translation>Älä näytä koskaan</translation>
     </message>
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="46"/>
         <source>Always show bookmarks bar</source>
-        <translation/>
+        <translation>Näytä kirjanmerkkipalkki aina</translation>
     </message>
 </context>
 <context>
@@ -115,17 +115,17 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="106"/>
         <source>Restore to default</source>
-        <translation/>
+        <translation>Palauta oletukset</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="118"/>
         <source>Restore to default?</source>
-        <translation>Palauta oletukseksi?</translation>
+        <translation>Palauta oletukset?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="119"/>
         <source>Are you sure you want to restore default settings?</source>
-        <translation/>
+        <translation>Haluatko varmasti palauttaa oletusasetukset?</translation>
     </message>
 </context>
 <context>
@@ -133,7 +133,7 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="8"/>
         <source>Cellular Settings</source>
-        <translation/>
+        <translation>Puhelinasetukset</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="31"/>
@@ -143,12 +143,12 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="61"/>
         <source>Country</source>
-        <translation/>
+        <translation>Maa</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="78"/>
         <source>Provider</source>
-        <translation/>
+        <translation>Palveluntarjoaja</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="93"/>
@@ -159,17 +159,17 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="126"/>
         <source>Username</source>
-        <translation/>
+        <translation>Käyttäjänimi</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="137"/>
         <source>Password</source>
-        <translation/>
+        <translation>Salasana</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="149"/>
         <source>Apply</source>
-        <translation/>
+        <translation>Käytä</translation>
     </message>
 </context>
 <context>
@@ -195,12 +195,12 @@
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="93"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="104"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
 </context>
 <context>
@@ -208,37 +208,37 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="17"/>
         <source>Connections</source>
-        <translation/>
+        <translation>Yhteydet</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="21"/>
         <source>Ethernet</source>
-        <translation/>
+        <translation>Ethernet</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="22"/>
         <source>Wi-Fi</source>
-        <translation/>
+        <translation>Wi-Fi</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="23"/>
         <source>Bluetooth</source>
-        <translation/>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="24"/>
         <source>3G</source>
-        <translation/>
+        <translation>3G</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="25"/>
         <source>WiMAX</source>
-        <translation/>
+        <translation>WiMAX</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="61"/>
         <source>Airplane Mode</source>
-        <translation/>
+        <translation>Lentokone tila</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="94"/>
@@ -261,27 +261,27 @@
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="14"/>
         <source>Content Settings</source>
-        <translation/>
+        <translation>Sisällön asetukset</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="90"/>
         <source>Allow JavaScript to run</source>
-        <translation/>
+        <translation>Salli JavaScript</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="106"/>
         <source>Allow Popups</source>
-        <translation/>
+        <translation>Salli ponnahdusikkunat</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="120"/>
         <source>Allow Cookies</source>
-        <translation/>
+        <translation>Salli evästeet</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="134"/>
         <source>Allow Images</source>
-        <translation/>
+        <translation>Salli kuvat</translation>
     </message>
 </context>
 <context>
@@ -289,7 +289,7 @@
     <message>
         <location filename="../../Browser/GroupBox.qml" line="87"/>
         <source>group</source>
-        <translation/>
+        <translation>ryhmä</translation>
     </message>
 </context>
 <context>
@@ -297,7 +297,7 @@
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="14"/>
         <source>Home Page</source>
-        <translation/>
+        <translation>Kotisivu</translation>
     </message>
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="32"/>
@@ -314,7 +314,7 @@
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="70"/>
         <source>Open this page: </source>
-        <translation/>
+        <translation>Avaa tämä sivu: </translation>
     </message>
 </context>
 <context>
@@ -322,12 +322,12 @@
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="15"/>
         <source>Language Settings</source>
-        <translation/>
+        <translation>Kieliasetukset</translation>
     </message>
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="40"/>
         <source>Language:</source>
-        <translation/>
+        <translation>Kieli:</translation>
     </message>
 </context>
 <context>
@@ -335,7 +335,7 @@
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="45"/>
         <source>Google Account</source>
-        <translation/>
+        <translation>Google-tili</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="69"/>
@@ -350,17 +350,17 @@
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="126"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="131"/>
         <source>Please enter your email address and password</source>
-        <translation/>
+        <translation>Syötä sähköpostiosoitteesi ja salana</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="140"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
 </context>
 <context>
@@ -381,19 +381,19 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="213"/>
         <source>internal error</source>
         <extracomment>Internal error occurred during sync.</extracomment>
-        <translation/>
+        <translation>sisäinen virhe</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="218"/>
         <source>authentication failure</source>
         <extracomment>Authentication failure occurred during sync.</extracomment>
-        <translation/>
+        <translation>tunnistautumisvirhe</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="224"/>
         <source>database failure</source>
         <extracomment>Database access error occurred during sync.</extracomment>
-        <translation/>
+        <translation>tietokantavirhe</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="229"/>
@@ -405,13 +405,13 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="234"/>
         <source>aborted</source>
         <extracomment>Sync job aborted.</extracomment>
-        <translation/>
+        <translation>keskeytetty</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="240"/>
         <source>connection error</source>
         <extracomment>Connection to remote sync service failed during sync.</extracomment>
-        <translation/>
+        <translation>yhdistämisvirhe</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="246"/>
@@ -435,7 +435,7 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="267"/>
         <source>other</source>
         <extracomment>Unknown error occurred during sync.</extracomment>
-        <translation/>
+        <translation>muu</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="302"/>
@@ -544,7 +544,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="14"/>
         <source>Networking Proxy</source>
-        <translation/>
+        <translation>Välipalvelin</translation>
     </message>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="31"/>
@@ -552,12 +552,12 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="51"/>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="55"/>
         <source>No Proxy</source>
-        <translation/>
+        <translation>Ei välipalvelinta</translation>
     </message>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="68"/>
         <source>Use Http Proxy</source>
-        <translation/>
+        <translation>Käytä HTTP-välipalvelinta</translation>
     </message>
 </context>
 <context>
@@ -565,17 +565,17 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="16"/>
         <source>Notifications</source>
-        <translation/>
+        <translation>Huomautukset</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
         <source>By default, phone and messaging notifications will be shown on the lockscreen.</source>
-        <translation/>
+        <translation>Oletuksena, puhelu- ja viestihuomautukset näytetään lukitusnäytössä.</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="67"/>
         <source>You may select up to 4 additional notifications to receive on the lockscreen</source>
-        <translation/>
+        <translation>Voit valita enintään 4 muuta lukitusnäytössä näytettävää huomautusta</translation>
     </message>
 </context>
 <context>
@@ -583,7 +583,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="17"/>
         <source>Panels</source>
-        <translation/>
+        <translation>Paneelit</translation>
     </message>
 </context>
 <context>
@@ -591,7 +591,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/PasswordGroup.qml" line="13"/>
         <source>Passwords</source>
-        <translation/>
+        <translation>Salasanat</translation>
     </message>
     <message>
         <location filename="../../Browser/PasswordGroup.qml" line="33"/>
@@ -600,7 +600,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/PasswordGroup.qml" line="58"/>
         <location filename="../../Browser/PasswordGroup.qml" line="72"/>
         <source>Offer to save passwords</source>
-        <translation/>
+        <translation>Tarjoa salasanojen tallennusta</translation>
     </message>
     <message>
         <location filename="../../Browser/PasswordGroup.qml" line="37"/>
@@ -609,7 +609,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/PasswordGroup.qml" line="69"/>
         <location filename="../../Browser/PasswordGroup.qml" line="79"/>
         <source>Never save passwords</source>
-        <translation/>
+        <translation>Älä koskaan tallenna salasanoja</translation>
     </message>
 </context>
 <context>
@@ -617,7 +617,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="16"/>
         <source>Personalize</source>
-        <translation/>
+        <translation>Personalisoi</translation>
     </message>
 </context>
 <context>
@@ -625,62 +625,62 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="15"/>
         <source>Privacy</source>
-        <translation/>
+        <translation>Yksityisyys</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="25"/>
         <source>Clear Data?</source>
-        <translation/>
+        <translation>Poista tiedot?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="58"/>
         <source>Clear Browsing History</source>
-        <translation/>
+        <translation>Poista selailuhistorian tiedot</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="61"/>
         <source>Are you sure about clearing the browsing history?</source>
-        <translation/>
+        <translation>Haluatko varmasti poistaa selailuhistorian?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="71"/>
         <source>Clear Download History</source>
-        <translation/>
+        <translation>Poista lataushistoria</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="74"/>
         <source>Are you sure about clearing the download history?</source>
-        <translation/>
+        <translation>Haluatko varmasti poistaa lataushistorian?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="84"/>
         <source>Clear Cookies and Site Data</source>
-        <translation/>
+        <translation>Poista evästeet ja sivustotiedot</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="87"/>
         <source>Are you sure about clearing your cookies?</source>
-        <translation/>
+        <translation>Haluatko varmasti poistaa evästeet?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="97"/>
         <source>Clear Caches</source>
-        <translation/>
+        <translation>Tyhjennä välimuisti</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="100"/>
         <source>Are you sure about clearing your caches?</source>
-        <translation/>
+        <translation>Haluatko varmasti tyhjentää välimuistin?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="109"/>
         <source>Clear Saved Passwords</source>
-        <translation/>
+        <translation>Poista tallennetut salasanat</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="113"/>
         <source>Are you sure about clearing your saved passwords?</source>
-        <translation/>
+        <translation>Haluatko varmasti poistaa tallennetut salasanat?</translation>
     </message>
 </context>
 <context>
@@ -696,17 +696,17 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="31"/>
         <source>Pair with %1 with key %2?</source>
-        <translation/>
+        <translation>Parita %1 avaimella %2?</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="45"/>
         <source>Accept</source>
-        <translation/>
+        <translation>Hyväksy</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="56"/>
         <source>Reject</source>
-        <translation/>
+        <translation>Hylkää</translation>
     </message>
 </context>
 <context>
@@ -714,12 +714,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="24"/>
         <source>Enter the following code on %1</source>
-        <translation/>
+        <translation>Syötä seuraava koodi laitteeseen %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="40"/>
         <source>Accept</source>
-        <translation/>
+        <translation>Hyväksy</translation>
     </message>
 </context>
 <context>
@@ -727,12 +727,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="21"/>
         <source>Enter passcode to use:</source>
-        <translation/>
+        <translation>Syötä käytettävä salaustunnus:</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="37"/>
         <source>Accept</source>
-        <translation/>
+        <translation>Hyväksy</translation>
     </message>
 </context>
 <context>
@@ -740,12 +740,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/SearchGroup.qml" line="13"/>
         <source>Search Engine</source>
-        <translation/>
+        <translation>Hakukone</translation>
     </message>
     <message>
         <location filename="../../Browser/SearchGroup.qml" line="17"/>
         <source>Google</source>
-        <translation/>
+        <translation>Google</translation>
     </message>
 </context>
 <context>
@@ -758,17 +758,17 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/SetTimezoneMenu.qml" line="123"/>
         <source>GMT</source>
-        <translation/>
+        <translation>GMT</translation>
     </message>
     <message>
         <location filename="../../TimeDate/SetTimezoneMenu.qml" line="164"/>
         <source>Ok</source>
-        <translation/>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../../TimeDate/SetTimezoneMenu.qml" line="183"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
 </context>
 <context>
@@ -776,31 +776,31 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="14"/>
         <source>On Startup</source>
-        <translation/>
+        <translation>Käynnistyksessä</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="31"/>
         <location filename="../../Browser/StartupGroup.qml" line="48"/>
         <location filename="../../Browser/StartupGroup.qml" line="57"/>
         <source>Open home page</source>
-        <translation/>
+        <translation>Avaa kotisivu</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="37"/>
         <location filename="../../Browser/StartupGroup.qml" line="68"/>
         <location filename="../../Browser/StartupGroup.qml" line="78"/>
         <source>Reopen pages open last</source>
-        <translation/>
+        <translation>Avaa viimeisen istunnon sivut</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="45"/>
         <source>Open the home page</source>
-        <translation/>
+        <translation>Avaa kotisivu</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="65"/>
         <source>Reopen the pages that were open last</source>
-        <translation/>
+        <translation>Avaa viimeksi avoinna olleet sivut</translation>
     </message>
 </context>
 <context>
@@ -809,7 +809,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Sync/SyncDetails.qml" line="123"/>
         <source>%1 %2</source>
         <extracomment>Arg 1 is the name of the sync service (e.g. &quot;Yahoo!&quot;) and arg 2 is the name of the storage (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;).</extracomment>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="142"/>
@@ -868,17 +868,17 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="183"/>
         <source>%1 %2 </source>
-        <translation/>
+        <translation>%1 %2 </translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="198"/>
         <source>Invalid username or password.</source>
-        <translation/>
+        <translation>Virheellinen käyttäjänimi tai salasana</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="210"/>
         <source>Please wait for a moment ...</source>
-        <translation/>
+        <translation>Ole hyvä ja odota hetki...</translation>
     </message>
     <message>
         <location filename="../../Browser/SyncGroup.qml" line="218"/>
@@ -925,25 +925,25 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Sync/SyncLoginDialog.qml" line="45"/>
         <source>Username %1</source>
         <extracomment>Sync account username (e.g. foo.bar@yahoo.com) login field label, where arg 1 is an example, which may or not be visible.</extracomment>
-        <translation/>
+        <translation>Käyttäjänimi %1</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="73"/>
         <source>Password</source>
         <extracomment>Sync account password login field label</extracomment>
-        <translation/>
+        <translation>Salasana</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="123"/>
         <source>Sign in</source>
         <extracomment>&quot;Sign in&quot; button text displayed in sync account login dialog.</extracomment>
-        <translation/>
+        <translation>Kirjaudu sisään</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="125"/>
         <source>Cancel</source>
         <extracomment>&quot;Cancel&quot; button text displayed in sync account login dialog.</extracomment>
-        <translation/>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="127"/>
@@ -966,7 +966,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/TextBox.qml" line="51"/>
         <source>Text</source>
-        <translation/>
+        <translation>Teksti</translation>
     </message>
 </context>
 <context>
@@ -974,7 +974,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="16"/>
         <source>Time and Date</source>
-        <translation/>
+        <translation>Aika ja päiväys</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="41"/>
@@ -984,7 +984,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="112"/>
         <source>24 hour clock</source>
-        <translation/>
+        <translation>24 tunnin kello</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="140"/>
@@ -1000,7 +1000,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="187"/>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="218"/>
         <source>Current Timezone is %1</source>
-        <translation/>
+        <translation>Nykyinen aikavyöhyke on %1</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="204"/>
@@ -1015,12 +1015,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="251"/>
         <source>Set Time Zone</source>
-        <translation/>
+        <translation>Aseta aikavyöhyke</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="266"/>
         <source>Current Timezone is </source>
-        <translation/>
+        <translation>Nykyinen aikavyöhyke on </translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="271"/>
@@ -1041,12 +1041,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Personalize/WallpaperTools.qml" line="28"/>
         <source>Pick a color</source>
-        <translation/>
+        <translation>Valitse väri</translation>
     </message>
     <message>
         <location filename="../../Personalize/WallpaperTools.qml" line="39"/>
         <source>Pick a photo</source>
-        <translation/>
+        <translation>Valitse valokuva</translation>
     </message>
 </context>
 <context>
@@ -1054,33 +1054,33 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="40"/>
         <source>WPA</source>
-        <translation/>
+        <translation>WPA</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="41"/>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="44"/>
         <source>WPA2</source>
-        <translation/>
+        <translation>WPA2</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="42"/>
         <source>WEP</source>
-        <translation/>
+        <translation>WEP</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="43"/>
         <source>RADIUS</source>
-        <translation/>
+        <translation>RADIUS</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="47"/>
         <source>DHCP</source>
-        <translation/>
+        <translation>DHCP</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="48"/>
         <source>Static</source>
-        <translation/>
+        <translation>Manuaalinen</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="120"/>
@@ -1106,27 +1106,27 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="168"/>
         <source>Do you want to remove %1 ?  This action will forget any passwords and you will no longer be automatically connected to %2</source>
-        <translation/>
+        <translation>Haluatko poistaa verkon %1? Tämä poistaa kaikki salasanat, etkä voi yhdistää enää automaattisesti verkkoon %2</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="180"/>
         <source>Yes, Delete</source>
-        <translation/>
+        <translation>Kyllä, poista</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="192"/>
         <source>No, Save</source>
-        <translation/>
+        <translation>Ei, tallenna</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="216"/>
         <source>Disconnect</source>
-        <translation/>
+        <translation>Katkaise yhteys</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="227"/>
         <source>Remove Connection</source>
-        <translation/>
+        <translation>Poista yhteys</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="238"/>
@@ -1186,7 +1186,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="443"/>
         <source>Show Password</source>
-        <translation/>
+        <translation>Näytä salasana</translation>
     </message>
 </context>
 <context>
@@ -1194,7 +1194,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../main.qml" line="17"/>
         <source>All Settings</source>
-        <translation/>
+        <translation>Kaikki asetukset</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="111"/>

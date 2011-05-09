@@ -205,7 +205,7 @@
     <message>
         <location filename="../../main.qml" line="45"/>
         <source>View by:</source>
-        <translation/>
+        <translation>Gösterim:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="47"/>

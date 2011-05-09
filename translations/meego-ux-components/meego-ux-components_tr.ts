@@ -152,7 +152,7 @@
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="646"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="835"/>
@@ -347,7 +347,7 @@
         <location filename="../../src/components/ux/ProgressBar.qml" line="105"/>
         <location filename="../../src/components/ux/ProgressBar.qml" line="123"/>
         <source>%1%</source>
-        <translation/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>

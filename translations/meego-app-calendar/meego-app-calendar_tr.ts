@@ -333,7 +333,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="1040"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>Her 2 haftada bir</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1040"/>
@@ -359,12 +359,12 @@
     <message>
         <location filename="../../NewEventView.qml" line="1096"/>
         <source>Ends after number of times...</source>
-        <translation/>
+        <translation>Tekrar sayısından sonra biter...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1096"/>
         <source>Ends after date...</source>
-        <translation/>
+        <translation>Tarihten sonra biter...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1202"/>

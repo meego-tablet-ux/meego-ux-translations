@@ -218,7 +218,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="317"/>
         <source>Are you sure you want to delete these %1 notebooks?</source>
-        <translation/>
+        <translation>Bu %1 not defterini silmek istediğinize emin misiniz?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="318"/>
@@ -243,7 +243,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="353"/>
         <source>&quot;%1&quot; notebooks have been deleted</source>
-        <translation/>
+        <translation>&quot;%1&quot; not defteri silindi</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="355"/>
@@ -293,7 +293,7 @@
         <location filename="../../NotesView.qml" line="374"/>
         <location filename="../../NotesView.qml" line="398"/>
         <source>Email</source>
-        <translation/>
+        <translation>Eposta</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="375"/>
@@ -320,7 +320,7 @@
     <message>
         <location filename="../../NotesView.qml" line="460"/>
         <source>%1 notes have successfully been moved to &quot;%2&quot;</source>
-        <translation>%1 notlar başarıyla &quot;%2&quot; taşındı</translation>
+        <translation>%1 not başarıyla &quot;%2&quot; taşındı</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="464"/>
