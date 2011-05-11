@@ -3,7 +3,7 @@
     <name>constants</name>
     <message>
         <location filename="../../qml/constants.js" line="3"/>
-        <source>Web Accounts</source>
+        <source>Web accounts</source>
         <translation/>
     </message>
     <message>
@@ -13,10 +13,6 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="6"/>
-        <source>Sign In</source>
-        <translation/>
-    </message>
-    <message>
         <location filename="../../qml/constants.js" line="8"/>
         <source>Sign in</source>
         <translation>Sartu</translation>
@@ -53,7 +49,7 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="18"/>
-        <source>More Details</source>
+        <source>More details</source>
         <translation/>
     </message>
     <message>
@@ -73,7 +69,7 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="23"/>
-        <source>You have successfully signed out.  Content from this service will no longer appear on this Device</source>
+        <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
         <translation/>
     </message>
 </context>

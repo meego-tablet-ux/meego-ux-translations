@@ -2,25 +2,25 @@
 <context>
     <name>BackPanelGeneric</name>
     <message>
-        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="47"/>
-        <source>Manage panels</source>
-        <translation>Gérer les panneaux</translation>
-    </message>
-    <message>
-        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="59"/>
-        <source>Hide panel</source>
-        <translation>Masquer le panneau</translation>
-    </message>
-    <message>
-        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="79"/>
+        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="58"/>
         <source>Clear history</source>
         <translation>Effacer l&apos;historique</translation>
+    </message>
+    <message>
+        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="73"/>
+        <source>Panels</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="77"/>
+        <source>Manage panels</source>
+        <translation>Gérer les panneaux</translation>
     </message>
 </context>
 <context>
     <name>BackPanelMessageTextItem</name>
     <message>
-        <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="22"/>
+        <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="21"/>
         <source>To show items on the front of the panel select ON, to hide select OFF</source>
         <translation>Pour afficher des éléments à l&apos;avant du panneau, sélectionnez ❘, pour les masquer, sélectionnez ○</translation>
     </message>

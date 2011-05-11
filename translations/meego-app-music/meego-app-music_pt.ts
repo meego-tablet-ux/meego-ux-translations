@@ -18,23 +18,23 @@
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="50"/>
-        <source>Playlist Name</source>
-        <translation>Nome da lista</translation>
+        <source>Playlist name</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="52"/>
-        <source>Artist Name</source>
-        <translation>Nome do artista</translation>
+        <source>Artist name</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="54"/>
-        <source>Album Name</source>
-        <translation>Nome do álbum</translation>
+        <source>Album name</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="55"/>
-        <source>Track Name</source>
-        <translation>Nome da música</translation>
+        <source>Track name</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="70"/>
@@ -74,7 +74,7 @@
     <name>main</name>
     <message>
         <location filename="../../main.qml" line="20"/>
-        <source>Play Queue</source>
+        <source>Play queue</source>
         <translation/>
     </message>
     <message>
@@ -104,7 +104,7 @@
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
-        <source>All Tracks</source>
+        <source>All tracks</source>
         <translation/>
     </message>
     <message>
@@ -129,8 +129,8 @@
     </message>
     <message>
         <location filename="../../main.qml" line="37"/>
-        <source>Open Album</source>
-        <translation>Abrir álbum</translation>
+        <source>Open album</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
@@ -179,13 +179,14 @@
     </message>
     <message>
         <location filename="../../main.qml" line="49"/>
+        <location filename="../../main.qml" line="69"/>
         <source>Delete</source>
         <translation>Apagar</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="50"/>
-        <source>Remove From Queue</source>
-        <translation>Remover da fila</translation>
+        <source>Remove from queue</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../main.qml" line="51"/>
@@ -203,158 +204,139 @@
         <translation>Apagar fila de reprodução</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="55"/>
-        <source>%1 Items</source>
-        <translation>%1 itens</translation>
+        <location filename="../../main.qml" line="54"/>
+        <source>Clear playlist</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../main.qml" line="56"/>
-        <source>%1 Album</source>
-        <translation>%1 álbum</translation>
+        <source>%1 items</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../main.qml" line="57"/>
-        <source>%1 Tracks</source>
-        <translation>%1 músicas</translation>
+        <source>%1 album</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="59"/>
+        <location filename="../../main.qml" line="58"/>
+        <source>%1 tracks</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="60"/>
         <source>Grid</source>
         <translation>Grelha</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="60"/>
+        <location filename="../../main.qml" line="61"/>
         <source>List</source>
         <translation>Lista</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="62"/>
+        <location filename="../../main.qml" line="63"/>
         <source>Alphabetically</source>
         <translation>Alfabeticamente</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="63"/>
-        <source>By Date</source>
-        <translation>Por data</translation>
+        <location filename="../../main.qml" line="64"/>
+        <source>By date</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="65"/>
+        <location filename="../../main.qml" line="66"/>
         <source>Create new playlist</source>
         <translation>Criar nova lista de reprodução</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="66"/>
+        <location filename="../../main.qml" line="67"/>
         <source>Rename playlist</source>
         <translation>Renomear lista de reprodução</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="68"/>
-        <source>Yes, Delete</source>
-        <translation>Sim, apagar</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="69"/>
+        <location filename="../../main.qml" line="70"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="70"/>
+        <location filename="../../main.qml" line="71"/>
         <source>Type playlist name here.</source>
         <translation>Indique aqui o nome da lista</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="71"/>
-        <source>Select Multiple Songs</source>
-        <translation>Selecionar múltiplas músicas</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="73"/>
-        <source>Where is all the music?</source>
+        <location filename="../../main.qml" line="72"/>
+        <source>Select multiple songs</source>
         <translation/>
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
+        <source>Where is all the music?</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="75"/>
         <source>Buy, download or copy your music onto your table, then you can enjoy listening to it from here.</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="497"/>
+        <location filename="../../main.qml" line="496"/>
         <source>Artist name</source>
         <translation>Nome do artista</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="504"/>
+        <location filename="../../main.qml" line="503"/>
         <source>Track name</source>
         <translation>Nome da música</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="510"/>
+        <location filename="../../main.qml" line="509"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>Se for apagada, será removida do seu dispositivo</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="522"/>
+        <location filename="../../main.qml" line="521"/>
         <source>Permanently delete this song?</source>
         <translation>Apagar permanentemente esta música?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="522"/>
+        <location filename="../../main.qml" line="521"/>
         <source>Permanently delete these %1 songs?</source>
         <translation>Apagar permanentemente estas %1 músicas?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="535"/>
+        <location filename="../../main.qml" line="534"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>Se forem apagadas, serão removidas do seu dispositivo</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="580"/>
-        <location filename="../../main.qml" line="623"/>
-        <source>Invalid Characters: %1</source>
+        <location filename="../../main.qml" line="578"/>
+        <location filename="../../main.qml" line="621"/>
+        <source>Invalid characters: %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="908"/>
-        <location filename="../../main.qml" line="1041"/>
-        <location filename="../../main.qml" line="1151"/>
-        <location filename="../../main.qml" line="1273"/>
-        <location filename="../../main.qml" line="1523"/>
-        <source>View By</source>
-        <translation>Ver por</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="936"/>
-        <source>Actions</source>
-        <translation>Ações</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1415"/>
-        <source>Sort</source>
-        <translation>Ordenação</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1654"/>
-        <location filename="../../main.qml" line="1947"/>
+        <location filename="../../main.qml" line="1636"/>
+        <location filename="../../main.qml" line="1938"/>
         <source>%1 songs</source>
         <translation>%1 músicas</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="1666"/>
-        <location filename="../../main.qml" line="1959"/>
-        <source>%1 Seconds</source>
-        <translation>%1 segundos</translation>
+        <location filename="../../main.qml" line="1648"/>
+        <location filename="../../main.qml" line="1950"/>
+        <source>%1 seconds</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="1667"/>
-        <location filename="../../main.qml" line="1960"/>
-        <source>%1 Minutes</source>
-        <translation>%1 minutos</translation>
+        <location filename="../../main.qml" line="1649"/>
+        <location filename="../../main.qml" line="1951"/>
+        <source>%1 minutes</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="1668"/>
-        <location filename="../../main.qml" line="1961"/>
-        <source>%1 Hours</source>
-        <translation>%1 horas</translation>
+        <location filename="../../main.qml" line="1650"/>
+        <location filename="../../main.qml" line="1952"/>
+        <source>%1 hours</source>
+        <translation/>
     </message>
 </context>
 </TS>

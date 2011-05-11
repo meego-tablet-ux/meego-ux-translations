@@ -49,56 +49,67 @@
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="35"/>
         <source>Other...</source>
-        <translation>其它...</translation>
+        <translation>其他...</translation>
     </message>
 </context>
 <context>
     <name>CalendarDayView</name>
     <message>
         <location filename="../../CalendarDayView.qml" line="176"/>
-        <location filename="../../CalendarDayView.qml" line="339"/>
+        <location filename="../../CalendarDayView.qml" line="340"/>
         <source>All day</source>
         <translation>全天</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="178"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <comment>Event StartDate, StartTime - EndTime </comment>
+        <translation>%1，%2 - %3</translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="414"/>
+        <location filename="../../CalendarDayView.qml" line="415"/>
         <source>%1 more events exist</source>
+        <comment>Events count</comment>
         <translation>還有 %1 個活動存在</translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="566"/>
+        <location filename="../../CalendarDayView.qml" line="567"/>
         <source>%1 - %2</source>
+        <comment>StartTime - EndTime</comment>
         <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
     <name>CalendarListView</name>
     <message>
-        <location filename="../../CalendarListView.qml" line="45"/>
-        <location filename="../../CalendarListView.qml" line="101"/>
+        <location filename="../../CalendarListView.qml" line="46"/>
+        <location filename="../../CalendarListView.qml" line="106"/>
         <source>%1 results found</source>
+        <comment>Search result count</comment>
         <translation>找到 %1 個結果</translation>
     </message>
     <message>
-        <location filename="../../CalendarListView.qml" line="172"/>
-        <location filename="../../CalendarListView.qml" line="192"/>
+        <location filename="../../CalendarListView.qml" line="177"/>
+        <location filename="../../CalendarListView.qml" line="196"/>
         <source>All day</source>
         <translation>全天</translation>
     </message>
     <message>
-        <location filename="../../CalendarListView.qml" line="172"/>
-        <location filename="../../CalendarListView.qml" line="192"/>
+        <location filename="../../CalendarListView.qml" line="177"/>
         <source>%1 - %2</source>
+        <comment>StartTime - EndTime</comment>
         <translation>%1 - %2</translation>
     </message>
     <message>
-        <location filename="../../CalendarListView.qml" line="192"/>
+        <location filename="../../CalendarListView.qml" line="196"/>
         <source>%1, </source>
+        <comment>Event StartDate,</comment>
+        <translation>%1，</translation>
+    </message>
+    <message>
+        <location filename="../../CalendarListView.qml" line="196"/>
+        <source>%1, %2 - %3</source>
+        <comment>Event StartDate, StartTime - EndTime</comment>
         <translation/>
     </message>
 </context>
@@ -107,66 +118,71 @@
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="87"/>
         <source>All day: </source>
-        <translation>全天： </translation>
+        <translation>全天：</translation>
     </message>
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="124"/>
         <source>%1 more events</source>
-        <translation/>
+        <translation>還有 %1 個活動</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthView</name>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="30"/>
-        <location filename="../../CalendarMonthView.qml" line="37"/>
-        <location filename="../../CalendarMonthView.qml" line="52"/>
-        <location filename="../../CalendarMonthView.qml" line="64"/>
-        <source>%1 %2</source>
-        <translation>%1 %2</translation>
-    </message>
-    <message>
         <location filename="../../CalendarMonthView.qml" line="171"/>
-        <location filename="../../CalendarMonthView.qml" line="535"/>
+        <location filename="../../CalendarMonthView.qml" line="539"/>
         <source>All day</source>
         <translation>全天</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="173"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <comment>Event StartDate, StartTime - EndTime</comment>
+        <translation>%1，%2 - %3</translation>
     </message>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="535"/>
+        <location filename="../../CalendarMonthView.qml" line="539"/>
         <source>%1 - %2</source>
+        <comment>StartTime - EndTime</comment>
         <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekView</name>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="173"/>
+        <location filename="../../CalendarWeekView.qml" line="31"/>
+        <location filename="../../CalendarWeekView.qml" line="51"/>
+        <location filename="../../CalendarWeekView.qml" line="125"/>
+        <source>%1 - %2</source>
+        <comment>Week's StartDate - Week's EndDate</comment>
+        <translation>%1 - %2</translation>
+    </message>
+    <message>
+        <location filename="../../CalendarWeekView.qml" line="179"/>
         <source>All day</source>
         <translation>全天</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="175"/>
+        <location filename="../../CalendarWeekView.qml" line="181"/>
         <source>%1, %2 - %3</source>
-        <translation/>
+        <comment>Event StartDate, StartTime - EndTime</comment>
+        <translation>%1，%2 - %3</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="305"/>
+        <location filename="../../CalendarWeekView.qml" line="314"/>
         <source>All Day</source>
-        <translation/>
+        <translation>全天</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="348"/>
+        <location filename="../../CalendarWeekView.qml" line="357"/>
         <source>%1 more events exist</source>
+        <comment>Events count</comment>
         <translation>還有 %1 個活動存在</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="510"/>
+        <location filename="../../CalendarWeekView.qml" line="519"/>
         <source>%1 - %2</source>
+        <comment>StartTime - EndTime</comment>
         <translation>%1 - %2</translation>
     </message>
 </context>
@@ -191,27 +207,27 @@
 <context>
     <name>EventDetailsView</name>
     <message>
-        <location filename="../../EventDetailsView.qml" line="194"/>
+        <location filename="../../EventDetailsView.qml" line="192"/>
         <source>Reminder: </source>
         <translation>提醒： </translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="240"/>
+        <location filename="../../EventDetailsView.qml" line="238"/>
         <source>Show in calendar view</source>
         <translation>在行事曆檢視中顯示</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="288"/>
+        <location filename="../../EventDetailsView.qml" line="291"/>
         <source>Back</source>
-        <translation>上一步</translation>
+        <translation>返回</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="303"/>
+        <location filename="../../EventDetailsView.qml" line="305"/>
         <source>Edit</source>
         <translation>編輯</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="318"/>
+        <location filename="../../EventDetailsView.qml" line="320"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
@@ -227,22 +243,29 @@
 <context>
     <name>MultipleEventsPopup</name>
     <message>
-        <location filename="../../MultipleEventsPopup.qml" line="56"/>
+        <location filename="../../MultipleEventsPopup.qml" line="60"/>
         <source>Selected events</source>
         <translation>選取的活動</translation>
     </message>
     <message>
-        <location filename="../../MultipleEventsPopup.qml" line="123"/>
+        <location filename="../../MultipleEventsPopup.qml" line="127"/>
         <source>All day</source>
         <translation>全天</translation>
     </message>
     <message>
-        <location filename="../../MultipleEventsPopup.qml" line="123"/>
-        <source>%1, %2 - %3</source>
+        <location filename="../../MultipleEventsPopup.qml" line="127"/>
+        <source>%1 - %2</source>
+        <comment>StartTime - EndTime</comment>
         <translation/>
     </message>
     <message>
-        <location filename="../../MultipleEventsPopup.qml" line="186"/>
+        <location filename="../../MultipleEventsPopup.qml" line="156"/>
+        <source>%1, %2</source>
+        <comment>Event StartDate, Start and End Time String</comment>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../MultipleEventsPopup.qml" line="185"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
@@ -275,170 +298,170 @@
         <translation>新活動</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="541"/>
+        <location filename="../../NewEventView.qml" line="532"/>
         <source>Event title</source>
         <translation>活動標題</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="611"/>
+        <location filename="../../NewEventView.qml" line="602"/>
         <source>Date &amp; time</source>
         <translation>日期與時間</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="661"/>
+        <location filename="../../NewEventView.qml" line="652"/>
         <source>All-day</source>
         <translation>全天</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="714"/>
+        <location filename="../../NewEventView.qml" line="705"/>
         <source>Start time</source>
         <translation>開始時間</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="802"/>
+        <location filename="../../NewEventView.qml" line="793"/>
         <source>End time</source>
         <translation>結束時間</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="904"/>
+        <location filename="../../NewEventView.qml" line="895"/>
         <source>More...</source>
-        <translation>更多...</translation>
+        <translation>其他...</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="973"/>
+        <location filename="../../NewEventView.qml" line="964"/>
         <source>Time zone</source>
         <translation>時區</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1011"/>
+        <location filename="../../NewEventView.qml" line="1003"/>
         <source>Repeat</source>
         <translation>重複</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1037"/>
-        <location filename="../../NewEventView.qml" line="1040"/>
+        <location filename="../../NewEventView.qml" line="1029"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
         <source>Never</source>
         <translation>永不</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1040"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every day</source>
-        <translation/>
+        <translation>每天</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1040"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every week</source>
-        <translation/>
+        <translation>每週</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1040"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>每 2 週</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1040"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every month</source>
-        <translation/>
+        <translation>每月</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1040"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every year</source>
-        <translation/>
+        <translation>每年</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1040"/>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>Other...</source>
-        <translation/>
+        <translation>其他...</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1096"/>
+        <location filename="../../NewEventView.qml" line="1088"/>
         <source>Repeats forever</source>
-        <translation/>
+        <translation>永久重複</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1096"/>
+        <location filename="../../NewEventView.qml" line="1088"/>
         <source>Ends after number of times...</source>
-        <translation/>
+        <translation>幾次後結束...</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1096"/>
+        <location filename="../../NewEventView.qml" line="1088"/>
         <source>Ends after date...</source>
-        <translation/>
+        <translation>特定日期後結束...</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1202"/>
+        <location filename="../../NewEventView.qml" line="1194"/>
         <source>Reminders</source>
         <translation>提醒</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1228"/>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1220"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>No reminder</source>
         <translation>不提醒</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 分鐘前</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 分鐘前</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 分鐘前</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 小時前</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 小時前</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 天前</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 天前</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 週前</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1277"/>
+        <location filename="../../NewEventView.qml" line="1269"/>
         <source>Location</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1328"/>
+        <location filename="../../NewEventView.qml" line="1320"/>
         <source>Notes</source>
         <translation>備註</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1380"/>
+        <location filename="../../NewEventView.qml" line="1374"/>
         <source>Delete event</source>
         <translation>刪除活動</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1476"/>
+        <location filename="../../NewEventView.qml" line="1470"/>
         <source>Save</source>
         <translation>儲存</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1496"/>
+        <location filename="../../NewEventView.qml" line="1490"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -458,7 +481,7 @@
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="100"/>
         <source>Ends after date...</source>
-        <translation>日期後結束...</translation>
+        <translation>特定日期後結束...</translation>
     </message>
 </context>
 <context>
@@ -496,7 +519,7 @@
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="33"/>
         <source>Other...</source>
-        <translation>其它...</translation>
+        <translation>其他...</translation>
     </message>
 </context>
 <context>
@@ -507,83 +530,83 @@
         <translation>%1 - %2</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="258"/>
+        <location filename="../../lib/utilmethods.cpp" line="275"/>
         <source>No reminder</source>
         <translation>不提醒</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="259"/>
+        <location filename="../../lib/utilmethods.cpp" line="276"/>
         <source>10 minutes before</source>
         <translation>10 分鐘前</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="260"/>
+        <location filename="../../lib/utilmethods.cpp" line="277"/>
         <source>15 minutes before</source>
         <translation>15 分鐘前</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="261"/>
+        <location filename="../../lib/utilmethods.cpp" line="278"/>
         <source>30 minutes before</source>
         <translation>30 分鐘前</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="262"/>
+        <location filename="../../lib/utilmethods.cpp" line="279"/>
         <source>1 hour before</source>
         <translation>1 小時前</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="263"/>
+        <location filename="../../lib/utilmethods.cpp" line="280"/>
         <source>2 hours before</source>
         <translation>2 小時前</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="264"/>
+        <location filename="../../lib/utilmethods.cpp" line="281"/>
         <source>1 day before</source>
         <translation>1 天前</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="265"/>
+        <location filename="../../lib/utilmethods.cpp" line="282"/>
         <source>2 days before</source>
         <translation>2 天前</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="266"/>
+        <location filename="../../lib/utilmethods.cpp" line="283"/>
         <source>1 week before</source>
         <translation>1 週前</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="267"/>
-        <location filename="../../lib/utilmethods.cpp" line="282"/>
+        <location filename="../../lib/utilmethods.cpp" line="284"/>
+        <location filename="../../lib/utilmethods.cpp" line="299"/>
         <source>Other...</source>
-        <translation>其它...</translation>
+        <translation>其他...</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="276"/>
+        <location filename="../../lib/utilmethods.cpp" line="293"/>
         <source>Never</source>
         <translation>永不</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="277"/>
+        <location filename="../../lib/utilmethods.cpp" line="294"/>
         <source>Every day</source>
         <translation>每天</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="278"/>
+        <location filename="../../lib/utilmethods.cpp" line="295"/>
         <source>Every week</source>
         <translation>每週</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="279"/>
+        <location filename="../../lib/utilmethods.cpp" line="296"/>
         <source>Every 2 weeks</source>
         <translation>每 2 週</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="280"/>
+        <location filename="../../lib/utilmethods.cpp" line="297"/>
         <source>Every month</source>
         <translation>每月</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="281"/>
+        <location filename="../../lib/utilmethods.cpp" line="298"/>
         <source>Every year</source>
         <translation>每年</translation>
     </message>
@@ -615,71 +638,71 @@
     </message>
     <message>
         <location filename="../../main.qml" line="18"/>
-        <location filename="../../main.qml" line="110"/>
+        <location filename="../../main.qml" line="114"/>
         <source>Day</source>
         <translation>天</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="18"/>
-        <location filename="../../main.qml" line="136"/>
+        <location filename="../../main.qml" line="140"/>
         <source>Week</source>
         <translation>週</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="18"/>
-        <location filename="../../main.qml" line="161"/>
+        <location filename="../../main.qml" line="165"/>
         <source>Month</source>
         <translation>月</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="246"/>
-        <source>%1, </source>
+        <location filename="../../main.qml" line="250"/>
+        <source>%1, %2</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="246"/>
+        <location filename="../../main.qml" line="250"/>
         <source>All day</source>
         <translation>全天</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="248"/>
+        <location filename="../../main.qml" line="252"/>
         <source>%1, %2 - %3</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="319"/>
-        <source>Delete event?</source>
-        <translation/>
+        <translation>%1，%2 - %3</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="323"/>
+        <source>Delete event?</source>
+        <translation>刪除活動？</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="327"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="324"/>
+        <location filename="../../main.qml" line="328"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="335"/>
+        <location filename="../../main.qml" line="339"/>
         <source>Are you sure you want to delete this event?</source>
         <translation>您確定要刪除此活動？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="359"/>
+        <location filename="../../main.qml" line="363"/>
         <source>Create new event</source>
         <translation>建立新活動</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="359"/>
+        <location filename="../../main.qml" line="363"/>
         <source>Go to today</source>
-        <translation>到今天</translation>
+        <translation>前往今天</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="359"/>
+        <location filename="../../main.qml" line="363"/>
         <source>Go to date</source>
-        <translation/>
+        <translation>前往日期</translation>
     </message>
 </context>
 </TS>

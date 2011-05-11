@@ -65,42 +65,42 @@
 <context>
     <name>ContactCardPortrait</name>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="26"/>
+        <location filename="../../ContactCardPortrait.qml" line="24"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="68"/>
+        <location filename="../../ContactCardPortrait.qml" line="67"/>
         <source>Unfavorite</source>
         <translation>Non preferito</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="69"/>
+        <location filename="../../ContactCardPortrait.qml" line="68"/>
         <source>Favorite</source>
         <translation>Preferito</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="70"/>
+        <location filename="../../ContactCardPortrait.qml" line="69"/>
         <source>Idle</source>
         <translation>Inattivo</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="71"/>
+        <location filename="../../ContactCardPortrait.qml" line="70"/>
         <source>Busy</source>
         <translation>Occupato</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="72"/>
+        <location filename="../../ContactCardPortrait.qml" line="71"/>
         <source>Online</source>
         <translation>On line</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="73"/>
+        <location filename="../../ContactCardPortrait.qml" line="72"/>
         <source>Offline</source>
         <translation>Offline</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="74"/>
+        <location filename="../../ContactCardPortrait.qml" line="73"/>
         <source>(...)</source>
         <translation/>
     </message>
@@ -114,37 +114,37 @@
 <context>
     <name>ContactsSettings</name>
     <message>
-        <location filename="../../ContactsSettings.qml" line="16"/>
+        <location filename="../../ContactsSettings.qml" line="17"/>
         <source>Contacts Settings</source>
         <translation>Impostazioni contatti</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="17"/>
+        <location filename="../../ContactsSettings.qml" line="18"/>
         <source>Sort Order:</source>
         <translation>Ordinamento:</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="18"/>
+        <location filename="../../ContactsSettings.qml" line="19"/>
         <source>Display Order:</source>
         <translation>Ordine di visualizzazione:</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="19"/>
+        <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Sort by first name</source>
         <translation>Ordina per nome</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="20"/>
+        <location filename="../../ContactsSettings.qml" line="21"/>
         <source>Sort by last name</source>
         <translation>Ordina per cognome</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="21"/>
+        <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Display by first name</source>
         <translation>Visualizza per nome</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="22"/>
+        <location filename="../../ContactsSettings.qml" line="23"/>
         <source>Display by last name</source>
         <translation>Visualizza per cognome</translation>
     </message>
@@ -690,94 +690,94 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="15"/>
-        <location filename="../../main.qml" line="39"/>
+        <location filename="../../main.qml" line="16"/>
+        <location filename="../../main.qml" line="40"/>
         <source>Contacts</source>
         <translation>Contatti</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="23"/>
-        <location filename="../../main.qml" line="41"/>
+        <location filename="../../main.qml" line="24"/>
+        <location filename="../../main.qml" line="42"/>
         <source>New contact</source>
         <translation>Nuovo contatto</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="24"/>
+        <location filename="../../main.qml" line="25"/>
         <source>All</source>
         <translation>Tutti</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="25"/>
+        <location filename="../../main.qml" line="26"/>
         <source>Favorites</source>
         <translation>Preferiti</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="26"/>
+        <location filename="../../main.qml" line="27"/>
         <source>Who&apos;s online</source>
         <translation>Contatti on line</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="28"/>
+        <location filename="../../main.qml" line="29"/>
         <source>View</source>
         <translation>Visualizza</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="29"/>
+        <location filename="../../main.qml" line="30"/>
         <source>Share</source>
         <translation>Condividi</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="30"/>
+        <location filename="../../main.qml" line="31"/>
         <source>Email</source>
         <translation>E-mail</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="31"/>
+        <location filename="../../main.qml" line="32"/>
         <source>Favorite</source>
         <translation>Preferito</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="32"/>
+        <location filename="../../main.qml" line="33"/>
         <source>Edit</source>
         <translation>Modifica</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="33"/>
+        <location filename="../../main.qml" line="34"/>
         <source>Save</source>
         <translation>Salva</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="34"/>
+        <location filename="../../main.qml" line="35"/>
         <source>Cancel</source>
         <translation>Annulla</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="35"/>
+        <location filename="../../main.qml" line="36"/>
         <source>Delete</source>
         <translation>Elimina</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="36"/>
+        <location filename="../../main.qml" line="37"/>
         <source>Delete Confirmation</source>
         <translation>Elimina conferma</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="40"/>
+        <location filename="../../main.qml" line="41"/>
         <source>Contact details</source>
         <translation>Dettagli contatto</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="42"/>
+        <location filename="../../main.qml" line="43"/>
         <source>Edit contacts</source>
         <translation>Modifica contatti</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="44"/>
+        <location filename="../../main.qml" line="45"/>
         <source>this contact</source>
         <translation>questo contatto</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="45"/>
+        <location filename="../../main.qml" line="46"/>
         <source>Are you sure you want to remove %1 from your contacts?</source>
         <translation>Rimuovere %1 dai contatti?</translation>
     </message>

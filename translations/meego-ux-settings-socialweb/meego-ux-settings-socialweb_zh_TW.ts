@@ -3,8 +3,8 @@
     <name>constants</name>
     <message>
         <location filename="../../qml/constants.js" line="3"/>
-        <source>Web Accounts</source>
-        <translation>網路帳戶</translation>
+        <source>Web accounts</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
@@ -13,10 +13,6 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="6"/>
-        <source>Sign In</source>
-        <translation>登入</translation>
-    </message>
-    <message>
         <location filename="../../qml/constants.js" line="8"/>
         <source>Sign in</source>
         <translation>登入</translation>
@@ -49,12 +45,12 @@
     <message>
         <location filename="../../qml/constants.js" line="16"/>
         <source>Verifier code</source>
-        <translation>驗證器編碼</translation>
+        <translation>驗證符代碼</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="18"/>
-        <source>More Details</source>
-        <translation>其他詳細資料</translation>
+        <source>More details</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
@@ -73,8 +69,8 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="23"/>
-        <source>You have successfully signed out.  Content from this service will no longer appear on this Device</source>
-        <translation>您已經成功登出。  來自此服務的內容將不再出現在此裝置上</translation>
+        <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
+        <translation/>
     </message>
 </context>
 </TS>

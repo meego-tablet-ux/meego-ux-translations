@@ -2,47 +2,47 @@
 <context>
     <name>calculator</name>
     <message>
-        <location filename="../../calculator.js" line="49"/>
+        <location filename="../../calculator.js" line="50"/>
         <source>Infinity</source>
         <translation>∞</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="51"/>
+        <location filename="../../calculator.js" line="52"/>
         <source>-Infinity</source>
         <translation>-∞</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="53"/>
+        <location filename="../../calculator.js" line="54"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="117"/>
+        <location filename="../../calculator.js" line="162"/>
         <source>mc</source>
         <translation>mc</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="119"/>
+        <location filename="../../calculator.js" line="164"/>
         <source>m+</source>
         <translation>m+</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="121"/>
+        <location filename="../../calculator.js" line="166"/>
         <source>mr</source>
         <translation>mr</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="123"/>
+        <location filename="../../calculator.js" line="168"/>
         <source>m-</source>
         <translation>m-</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="127"/>
+        <location filename="../../calculator.js" line="170"/>
         <source>C</source>
         <translation>C</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="129"/>
+        <location filename="../../calculator.js" line="172"/>
         <source>AC</source>
         <translation>AC</translation>
     </message>
@@ -55,32 +55,32 @@
         <translation>計算機</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="92"/>
+        <location filename="../../main.qml" line="91"/>
         <source>C</source>
         <translation>C</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="93"/>
+        <location filename="../../main.qml" line="92"/>
         <source>AC</source>
         <translation>AC</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="100"/>
+        <location filename="../../main.qml" line="99"/>
         <source>mc</source>
         <translation>mc</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="101"/>
+        <location filename="../../main.qml" line="100"/>
         <source>m+</source>
         <translation>m+</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="102"/>
+        <location filename="../../main.qml" line="101"/>
         <source>m-</source>
         <translation>m-</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="103"/>
+        <location filename="../../main.qml" line="102"/>
         <source>mr</source>
         <translation>mr</translation>
     </message>

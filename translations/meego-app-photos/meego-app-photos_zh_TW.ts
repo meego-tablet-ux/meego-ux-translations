@@ -42,17 +42,17 @@
     <message>
         <location filename="../../PhotosView.qml" line="36"/>
         <source>Favorite</source>
-        <translation>我的最愛</translation>
+        <translation>喜愛</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="37"/>
         <source>Unfavorite</source>
-        <translation>非最愛</translation>
+        <translation>非喜愛</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="38"/>
         <source>Add to album</source>
-        <translation>新增至相簿</translation>
+        <translation>加入至相簿</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="39"/>
@@ -75,17 +75,17 @@
     <message>
         <location filename="../../main.qml" line="19"/>
         <source>Recently added</source>
-        <translation>最近新增</translation>
+        <translation>最近加入</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Last viewed</source>
-        <translation>最近檢視</translation>
+        <translation>上次檢視</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
         <source>Favorites</source>
-        <translation>我的最愛</translation>
+        <translation>喜愛</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="22"/>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../../main.qml" line="25"/>
         <source>Albums</source>
-        <translation>專輯</translation>
+        <translation>相簿</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="26"/>
@@ -130,22 +130,22 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>Leave full screen</source>
-        <translation>退出全螢幕</translation>
+        <translation>離開全螢幕</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>Favorite</source>
-        <translation>我的最愛</translation>
+        <translation>喜愛</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Unfavorite</source>
-        <translation>非最愛</translation>
+        <translation>非喜愛</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="33"/>
         <source>Add to album</source>
-        <translation>新增至相簿</translation>
+        <translation>加入至相簿</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
@@ -175,7 +175,7 @@
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Rename photo</source>
-        <translation>新命名相片</translation>
+        <translation>重新命名相片</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="40"/>
@@ -205,7 +205,7 @@
     <message>
         <location filename="../../main.qml" line="45"/>
         <source>View by:</source>
-        <translation/>
+        <translation>以此檢視：</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="47"/>
@@ -240,7 +240,7 @@
     <message>
         <location filename="../../main.qml" line="492"/>
         <source>Album name</source>
-        <translation/>
+        <translation>相簿名稱</translation>
     </message>
 </context>
 </TS>

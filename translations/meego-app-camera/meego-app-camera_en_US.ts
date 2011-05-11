@@ -2,19 +2,14 @@
 <context>
     <name>NoSpaceDialog</name>
     <message>
-        <location filename="../NoSpaceDialog.qml" line="13"/>
+        <location filename="../NoSpaceDialog.qml" line="14"/>
         <source>Memory Full</source>
         <translation>Memory Full</translation>
     </message>
     <message>
-        <location filename="../NoSpaceDialog.qml" line="14"/>
+        <location filename="../NoSpaceDialog.qml" line="15"/>
         <source>Open Photos</source>
         <translation>Open Photos</translation>
-    </message>
-    <message>
-        <location filename="../NoSpaceDialog.qml" line="15"/>
-        <source>Cancel</source>
-        <translation>Cancel</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="18"/>
@@ -25,17 +20,17 @@
 <context>
     <name>ViewFinder</name>
     <message>
-        <location filename="../plugin/viewfinder.cpp" line="341"/>
+        <location filename="../plugin/viewfinder.cpp" line="358"/>
         <source>Auto</source>
         <translation>Auto</translation>
     </message>
     <message>
-        <location filename="../plugin/viewfinder.cpp" line="343"/>
+        <location filename="../plugin/viewfinder.cpp" line="360"/>
         <source>Off</source>
         <translation>Off</translation>
     </message>
     <message>
-        <location filename="../plugin/viewfinder.cpp" line="344"/>
+        <location filename="../plugin/viewfinder.cpp" line="361"/>
         <source>On</source>
         <translation>On</translation>
     </message>

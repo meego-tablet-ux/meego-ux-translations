@@ -2,25 +2,25 @@
 <context>
     <name>BackPanelGeneric</name>
     <message>
-        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="47"/>
-        <source>Manage panels</source>
-        <translation>管理面板</translation>
-    </message>
-    <message>
-        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="59"/>
-        <source>Hide panel</source>
-        <translation>隐藏面板</translation>
-    </message>
-    <message>
-        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="79"/>
+        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="58"/>
         <source>Clear history</source>
         <translation>清除历史</translation>
+    </message>
+    <message>
+        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="73"/>
+        <source>Panels</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="77"/>
+        <source>Manage panels</source>
+        <translation>管理面板</translation>
     </message>
 </context>
 <context>
     <name>BackPanelMessageTextItem</name>
     <message>
-        <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="22"/>
+        <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="21"/>
         <source>To show items on the front of the panel select ON, to hide select OFF</source>
         <translation>如有在面板前方显示各项目，选择“打开”，或者选择“关闭”以隐藏</translation>
     </message>

@@ -2,14 +2,19 @@
 <context>
     <name>videopanel</name>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="57"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="56"/>
         <source>Video</source>
         <translation>Vídeo</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="63"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="62"/>
         <source>Video settings</source>
         <translation>Definições de vídeo</translation>
+    </message>
+    <message>
+        <location filename="../../panelsrc/video/videopanel.qml" line="63"/>
+        <source>Video panel content</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="93"/>

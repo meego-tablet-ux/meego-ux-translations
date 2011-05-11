@@ -12,37 +12,37 @@
         <translation/>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="188"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="189"/>
         <source>There is already an account configured using this login. Please check your username.</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="189"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="190"/>
         <source>Sorry, there was a problem logging in. Please check your username and password.</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="205"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="206"/>
         <source>Username:</source>
         <translation>ਯੂਜ਼ਰ ਨਾਂ:</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="216"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="217"/>
         <source>Name / ID</source>
         <translation>ਨਾਂ / ID</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="224"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="225"/>
         <source>Password:</source>
         <translation>ਪਾਸਵਰਡ:</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="236"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="237"/>
         <source>Password</source>
         <translation>ਪਾਸਵਰ</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="253"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="254"/>
         <source>Advanced settings</source>
         <translation>ਤਕਨੀਕੀ ਸੈਟਿੰਗ</translation>
     </message>
@@ -63,27 +63,27 @@
 <context>
     <name>AccountDelegate</name>
     <message>
-        <location filename="../../AccountDelegate.qml" line="115"/>
+        <location filename="../../AccountDelegate.qml" line="119"/>
         <source>Multiple accounts connected</source>
         <translation>ਕਈ ਅਕਾਊਂਟ ਕੁਨੈਕਟ ਹਨ</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="116"/>
+        <location filename="../../AccountDelegate.qml" line="120"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="171"/>
+        <location filename="../../AccountDelegate.qml" line="181"/>
         <source>Log out</source>
         <translation>ਲਾਗ ਆਉਟ</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="173"/>
+        <location filename="../../AccountDelegate.qml" line="183"/>
         <source>Log in to %1</source>
         <translation>%1 ਵਜੋਂ ਲਾਗ ਇਨ</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="175"/>
+        <location filename="../../AccountDelegate.qml" line="185"/>
         <source>Settings</source>
         <translation>ਸੈਟਿੰਗ</translation>
     </message>
@@ -100,17 +100,16 @@
     <name>AccountScreenContent</name>
     <message>
         <location filename="../../AccountScreenContent.qml" line="16"/>
-        <location filename="../../AccountScreenContent.qml" line="20"/>
         <source>Account list</source>
         <translation>ਅਕਾਊਂਟ ਲਿਸਟ</translation>
     </message>
     <message>
-        <location filename="../../AccountScreenContent.qml" line="52"/>
+        <location filename="../../AccountScreenContent.qml" line="57"/>
         <source>Choose an account</source>
         <translation>ਅਕਾਊਂਟ ਚੁਣੋ</translation>
     </message>
     <message>
-        <location filename="../../AccountScreenContent.qml" line="83"/>
+        <location filename="../../AccountScreenContent.qml" line="87"/>
         <source>Add an account</source>
         <translation>ਅਕਾਊਂਟ ਸ਼ਾਮਲ ਕਰੋ</translation>
     </message>
@@ -128,7 +127,7 @@
         <translation>ਰੱਦ ਕਰੋ</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="79"/>
+        <location filename="../../plugin/IM/AccountSetupBar.qml" line="80"/>
         <source>Delete account</source>
         <translation>ਅਕਾਊਂਟ ਹਟਾਓ</translation>
     </message>
@@ -136,27 +135,27 @@
 <context>
     <name>AddAFriend</name>
     <message>
-        <location filename="../../AddAFriend.qml" line="51"/>
-        <source>friend&apos;s username</source>
+        <location filename="../../AddAFriend.qml" line="52"/>
+        <source>Friend&apos;s username</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../AddAFriend.qml" line="59"/>
+        <location filename="../../AddAFriend.qml" line="73"/>
         <source>Send</source>
         <translation>ਭੇਜੋ</translation>
     </message>
     <message>
-        <location filename="../../AddAFriend.qml" line="88"/>
+        <location filename="../../AddAFriend.qml" line="91"/>
         <source>Sending request</source>
         <translation>ਭੇਜਣ ਦੀ ਬੇਨਤੀ ਕੀਤੀ</translation>
     </message>
     <message>
-        <location filename="../../AddAFriend.qml" line="97"/>
+        <location filename="../../AddAFriend.qml" line="100"/>
         <source>Request sent</source>
         <translation>ਬੇਨਤੀ ਭੇਜੀ ਗਈ</translation>
     </message>
     <message>
-        <location filename="../../AddAFriend.qml" line="115"/>
+        <location filename="../../AddAFriend.qml" line="118"/>
         <source>Your device is not connected to a network. Please connect and try again.</source>
         <translation>ਤੁਹਾਡਾ ਜੰਤਰ ਨੈੱਟਵਰਕ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਹੈ। ਕੁਨੈਕਟ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</translation>
     </message>
@@ -249,47 +248,47 @@
 <context>
     <name>ChatAgent</name>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="70"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="54"/>
         <source>Unable to create text channel room %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="130"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="116"/>
         <source>Unable to create text channel for contact %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="151"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="137"/>
         <source>Unable to create channel: %1 - %2</source>
         <translation>ਚੈਨਲ ਬਣਾਉਣ ਲਈ ਅਸਮਰੱਥ: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="166"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="152"/>
         <source>Unable to create channel</source>
         <translation>ਚੈਨਲ ਬਣਾਉਣ ਲਈ ਅਸਮਰੱਥ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="179"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="165"/>
         <source>Channel not available</source>
         <translation>ਚੈਨਲ ਉਪਲੱਬਧ ਨਹੀਂ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="204"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="190"/>
         <source>Unable to create text channel for contact %1 - %2 - %3</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="222"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="208"/>
         <source>Unable to create text channel</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="283"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="263"/>
         <source>Invalidated text channel  %1 - %2 - %3</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="288"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="268"/>
         <source>Invalidated text channel for contact %1 - %2 - %3</source>
         <translation/>
     </message>
@@ -310,96 +309,149 @@
 <context>
     <name>ContactContentMenu</name>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="31"/>
-        <source>Multiple accounts connected</source>
-        <translation>ਕਈ ਅਕਾਊਂਟ ਕੁਨੈਕਟ ਹਨ</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="32"/>
-        <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="165"/>
+        <location filename="../../ContactContentMenu.qml" line="153"/>
         <source>Update status</source>
         <translation>ਹਾਲਤ ਅੱਪਡੇਟ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="204"/>
+        <location filename="../../ContactContentMenu.qml" line="208"/>
         <source>Available</source>
         <translation>ਉਪਲੱਬਧ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="209"/>
+        <location filename="../../ContactContentMenu.qml" line="213"/>
         <source>Away</source>
         <translation>ਦੂਰ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="214"/>
+        <location filename="../../ContactContentMenu.qml" line="218"/>
         <source>Busy</source>
         <translation>ਰੁੱਝਿਆ/ਰੁੱਝੀ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="219"/>
+        <location filename="../../ContactContentMenu.qml" line="223"/>
         <source>Invisible</source>
         <translation>ਅਦਿੱਖ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="224"/>
+        <location filename="../../ContactContentMenu.qml" line="228"/>
         <source>Offline</source>
         <translation>ਆਫਲਾਈਨ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="303"/>
+        <location filename="../../ContactContentMenu.qml" line="239"/>
+        <source>Your Status:</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactContentMenu.qml" line="315"/>
         <source>Custom status message</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="311"/>
-        <location filename="../../ContactContentMenu.qml" line="407"/>
+        <location filename="../../ContactContentMenu.qml" line="340"/>
+        <location filename="../../ContactContentMenu.qml" line="465"/>
         <source>Update</source>
         <translation>ਅੱਪਡੇਟ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="339"/>
-        <source>Update user display name</source>
-        <translation>ਯੂਜ਼ਰ ਡਿਸਪਲੇਅ ਨਾਂ ਅੱਪਡੇਟ ਕਰੋ</translation>
+        <location filename="../../ContactContentMenu.qml" line="355"/>
+        <source>Change display name</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="426"/>
+        <location filename="../../ContactContentMenu.qml" line="446"/>
+        <source>Display name</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactContentMenu.qml" line="480"/>
         <source>Add a friend</source>
         <translation>ਦੋਸਤ ਸ਼ਾਮਲ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="463"/>
+        <location filename="../../ContactContentMenu.qml" line="544"/>
         <source>Clear chat history</source>
         <translation>ਗੱਲਬਾਤ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="479"/>
+        <location filename="../../ContactContentMenu.qml" line="556"/>
         <source>Log in</source>
         <translation>ਲਾਗ ਇਨ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="479"/>
+        <location filename="../../ContactContentMenu.qml" line="556"/>
         <source>Log out</source>
         <translation>ਲਾਗ ਆਉਟ</translation>
+    </message>
+    <message>
+        <location filename="../../ContactContentMenu.qml" line="606"/>
+        <source>Multiple accounts connected</source>
+        <translation>ਕਈ ਅਕਾਊਂਟ ਕੁਨੈਕਟ ਹਨ</translation>
+    </message>
+    <message>
+        <location filename="../../ContactContentMenu.qml" line="607"/>
+        <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
+        <translation/>
+    </message>
+</context>
+<context>
+    <name>ContactDelegate</name>
+    <message>
+        <location filename="../../ContactDelegate.qml" line="83"/>
+        <source>Return to chat</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactDelegate.qml" line="84"/>
+        <source>Open chat</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactDelegate.qml" line="96"/>
+        <source>Call</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactDelegate.qml" line="108"/>
+        <source>Video call</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactDelegate.qml" line="120"/>
+        <source>Unblock</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactDelegate.qml" line="121"/>
+        <source>Block</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactDelegate.qml" line="137"/>
+        <source>End chat</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactDelegate.qml" line="148"/>
+        <source>Delete contact</source>
+        <translation/>
     </message>
 </context>
 <context>
     <name>ContactPickerContent</name>
     <message>
-        <location filename="../../ContactPickerContent.qml" line="50"/>
+        <location filename="../../ContactPickerContent.qml" line="43"/>
         <source>Add contacts to chat</source>
         <translation>ਸੰਪਰਕ ਗੱਲਬਾਤ ਵਿੱਚ ਜੋੜੋ</translation>
     </message>
     <message>
-        <location filename="../../ContactPickerContent.qml" line="135"/>
+        <location filename="../../ContactPickerContent.qml" line="126"/>
         <source>Add</source>
         <translation>ਸ਼ਾਮਲ</translation>
     </message>
     <message>
-        <location filename="../../ContactPickerContent.qml" line="174"/>
+        <location filename="../../ContactPickerContent.qml" line="162"/>
         <source>Cancel</source>
         <translation>ਰੱਦ ਕਰੋ</translation>
     </message>
@@ -407,98 +459,60 @@
 <context>
     <name>ContactPickerDelegate</name>
     <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="123"/>
-        <source>available</source>
-        <translation>ਉਪਲੱਬਧ</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="125"/>
-        <source>busy</source>
-        <translation>ਰੁੱਝੇ</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="127"/>
-        <source>away</source>
-        <translation>ਦੂਰ</translation>
-    </message>
-    <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="129"/>
-        <source>extended away</source>
-        <translation>ਪੂਰੀ ਤਰ੍ਹਾਂ ਦੂਰ</translation>
+        <source>Available</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="131"/>
-        <source>offline</source>
-        <translation>ਆਫਲਾਈਨ</translation>
+        <source>Busy</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="133"/>
+        <source>Away</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="135"/>
+        <source>Extended away</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="137"/>
+        <source>Offline</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="139"/>
+        <source>Invisible</source>
+        <translation/>
     </message>
 </context>
 <context>
     <name>ContactRequestDelegate</name>
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="45"/>
-        <source>Request from %1</source>
-        <translation>%1 ਵਲੋਂ ਬੇਨਤੀ</translation>
+        <source>Friend request from</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../ContactRequestDelegate.qml" line="60"/>
+        <location filename="../../ContactRequestDelegate.qml" line="73"/>
         <source>Accept</source>
         <translation>ਮਨਜ਼ੂਰ</translation>
     </message>
     <message>
-        <location filename="../../ContactRequestDelegate.qml" line="78"/>
+        <location filename="../../ContactRequestDelegate.qml" line="90"/>
         <source>Cancel</source>
         <translation>ਰੱਦ ਕਰੋ</translation>
     </message>
 </context>
 <context>
-    <name>ContactsDelegate</name>
+    <name>ContactsScreenContent</name>
     <message>
-        <location filename="../../ContactsDelegate.qml" line="72"/>
-        <source>Return to chat</source>
-        <translation>ਗੱਲਬਾਤ ਉੱਤੇ ਵਾਪਸ</translation>
-    </message>
-    <message>
-        <location filename="../../ContactsDelegate.qml" line="74"/>
-        <source>Open chat</source>
-        <translation>ਗੱਲਬਾਤ ਸ਼ੁਰੂ ਕਰੋ</translation>
-    </message>
-    <message>
-        <location filename="../../ContactsDelegate.qml" line="78"/>
-        <source>Call</source>
-        <translation>ਕਾਲ ਕਰੋ</translation>
-    </message>
-    <message>
-        <location filename="../../ContactsDelegate.qml" line="81"/>
-        <source>Video call</source>
-        <translation>ਵਿਡੀਓ ਕਾਲ</translation>
-    </message>
-    <message>
-        <location filename="../../ContactsDelegate.qml" line="86"/>
-        <source>Unblock</source>
-        <translation>ਪਾਬੰਦੀ ਹਟਾਓ</translation>
-    </message>
-    <message>
-        <location filename="../../ContactsDelegate.qml" line="88"/>
-        <source>Block</source>
-        <translation>ਪਾਬੰਦੀ ਲਗਾਓ</translation>
-    </message>
-    <message>
-        <location filename="../../ContactsDelegate.qml" line="94"/>
-        <source>End chat</source>
-        <translation>ਗੱਲਬਾਤ ਖਤਮ</translation>
-    </message>
-    <message>
-        <location filename="../../ContactsDelegate.qml" line="98"/>
-        <source>Delete contact</source>
-        <translation>ਸੰਪਰਕ ਹਟਾਓ</translation>
-    </message>
-</context>
-<context>
-    <name>ContactsLoading</name>
-    <message>
-        <location filename="../../ContactsLoading.qml" line="28"/>
-        <source>Loading contacts</source>
-        <translation>ਸੰਪਰਕ ਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ</translation>
+        <location filename="../../ContactsScreenContent.qml" line="164"/>
+        <source>Add a friend</source>
+        <translation/>
     </message>
 </context>
 <context>
@@ -518,67 +532,67 @@
 <context>
     <name>FileTransferDelegate</name>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="135"/>
+        <location filename="../../FileTransferDelegate.qml" line="71"/>
         <source>Upload canceled:</source>
         <translation>ਅੱਪਲੋਡ ਰੱਦ ਕੀਤਾ:</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="137"/>
+        <location filename="../../FileTransferDelegate.qml" line="73"/>
         <source>Sent:</source>
         <translation>ਭੇਜੇ:</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="139"/>
+        <location filename="../../FileTransferDelegate.qml" line="75"/>
         <source>Uploading:</source>
         <translation>ਅੱਪਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ:</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="143"/>
+        <location filename="../../FileTransferDelegate.qml" line="79"/>
         <source>%1 has sent you:</source>
         <translation>%1 ਨੇ ਤੁਹਾਨੂੰ ਭੇਜਿਆ:</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="145"/>
+        <location filename="../../FileTransferDelegate.qml" line="81"/>
         <source>%1 is sending you:</source>
         <translation>%1 ਤੁਹਾਨੂੰ ਭੇਜ ਰਿਹਾ ਹੈ:</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="199"/>
+        <location filename="../../FileTransferDelegate.qml" line="134"/>
         <source>(%1)</source>
         <translation>(%1)</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="211"/>
+        <location filename="../../FileTransferDelegate.qml" line="144"/>
         <source>Open</source>
         <translation>ਖੋਲ੍ਹੋ</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="235"/>
+        <location filename="../../FileTransferDelegate.qml" line="168"/>
         <source>There was a problem downloading</source>
         <translation>ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="237"/>
+        <location filename="../../FileTransferDelegate.qml" line="170"/>
         <source>There was a problem uploading</source>
         <translation>ਅੱਪਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="240"/>
+        <location filename="../../FileTransferDelegate.qml" line="173"/>
         <source>Canceled</source>
         <translation>ਰੱਦ ਕੀਤਾ</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="266"/>
+        <location filename="../../FileTransferDelegate.qml" line="197"/>
         <source>Save</source>
         <translation>ਸੰਭਾਲੋ</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="282"/>
+        <location filename="../../FileTransferDelegate.qml" line="211"/>
         <source>Decline</source>
         <translation>ਇਨਕਾ</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="312"/>
+        <location filename="../../FileTransferDelegate.qml" line="239"/>
         <source>Cancel</source>
         <translation>ਰੱਦ ਕਰੋ</translation>
     </message>
@@ -586,77 +600,77 @@
 <context>
     <name>IMConversationModel</name>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="252"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="268"/>
         <source>%1 is typing</source>
         <translation>%1 ਲਿਖ ਰਿਹਾ/ਰਹੀ ਹੈ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="254"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="270"/>
         <source>%1 and %2 are typing</source>
         <translation>%1 ਅਤੇ %2 ਲਿਖ ਰਹੇ ਹਨ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="256"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="272"/>
         <source>Lots of people are typing</source>
         <translation>ਕੋਈ ਲੋਕ ਲਿਖ ਰਹੇ ਹਨ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="265"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="281"/>
         <source>%1 has paused typing</source>
         <translation>%1 ਲਿਖਣ ਤੋਂ ਰੁਕ ਗਿਆ/ਗਈ ਹੈ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="273"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="289"/>
         <source>%1 is now idle</source>
         <translation>%1 ਹੁਣ ਵੇਹਲਾ ਹੈ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="357"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="373"/>
         <source>%1 is calling you</source>
         <translation>%1 ਤੁਹਾਨੂੰ ਕਾਲ ਕਰ ਰਿਹਾ ਹੈ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="360"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="376"/>
         <source>Setting up call to %1</source>
         <translation>%1 ਨਾਲ ਕਾਲ ਸੈੱਟ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="363"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="379"/>
         <source>Calling %1</source>
         <translation>%1 ਕਾਲ ਕਰ ਰਿਹਾ/ਰਹੀ ਹੈ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="366"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="382"/>
         <source>Call with %1 started</source>
         <translation>%1 ਨਾਲ ਕਾਲ ਸ਼ੁਰੂ ਹੋਈ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="369"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="385"/>
         <source>Call with %1 on hold</source>
         <translation>%1 ਨਾਲ ਕਾਲ ਹੋਲਡ ਉੱਤੇ ਪਈ ਹੈ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="429"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="445"/>
         <source>Error in call with %1</source>
         <translation>%1 ਨਾਲ ਕਾਲ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="454"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="472"/>
         <source>%1 bytes</source>
         <translation>%1 ਬਾਈਟ</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="458"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="476"/>
         <source>%1 KB</source>
         <translation>%1 KB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="462"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="480"/>
         <source>%1 MB</source>
         <translation>%1 MB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="466"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="484"/>
         <source>%1 GB</source>
         <translation>%1 GB</translation>
     </message>
@@ -692,42 +706,42 @@
 <context>
     <name>ImSettings</name>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="17"/>
+        <location filename="../../settings/ImSettings.qml" line="18"/>
         <source>Instant Messaging Settings</source>
         <translation>ਤੁਰੰਤ ਸੁਨੇਹਾ ਸੈਟਿੰਗ</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="87"/>
+        <location filename="../../settings/ImSettings.qml" line="90"/>
         <source>Accounts</source>
         <translation>ਅਕਾਊਂਟ</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="115"/>
+        <location filename="../../settings/ImSettings.qml" line="118"/>
         <source>Add another account</source>
         <translation>ਹੋਰ ਅਕਾਊਂਟ ਸ਼ਾਮਲ</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="132"/>
+        <location filename="../../settings/ImSettings.qml" line="135"/>
         <source>General Settings</source>
         <translation>ਆਮ ਸੈਟਿੰਗ</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="156"/>
+        <location filename="../../settings/ImSettings.qml" line="157"/>
         <source>Show offline contacts</source>
         <translation>ਆਫਲਾਈਨ ਸੰਪਰਕ ਵੇਖੋ</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="180"/>
+        <location filename="../../settings/ImSettings.qml" line="196"/>
         <source>Notification on new message</source>
         <translation>ਨਵੇਂ ਸੁਨੇਹੇ ਉੱਤੇ ਨੋਟੀਫਿਕੇਸ਼ਨ</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="210"/>
+        <location filename="../../settings/ImSettings.qml" line="234"/>
         <source>Clear chat history</source>
         <translation>ਗੱਲਬਾਤ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="236"/>
+        <location filename="../../settings/ImSettings.qml" line="258"/>
         <source>Blocked contacts</source>
         <translation>ਪਾਬੰਦੀਸ਼ੁਦਾ ਸੰਪਰ</translation>
     </message>
@@ -740,12 +754,12 @@
         <translation>ਆ ਰਹੀ ਕਾਲ</translation>
     </message>
     <message>
-        <location filename="../../IncomingCall.qml" line="20"/>
+        <location filename="../../IncomingCall.qml" line="18"/>
         <source>Accept</source>
         <translation>ਮਨਜ਼ੂਰ</translation>
     </message>
     <message>
-        <location filename="../../IncomingCall.qml" line="23"/>
+        <location filename="../../IncomingCall.qml" line="21"/>
         <source>Decline</source>
         <translation>ਇਨਕਾਰ</translation>
     </message>
@@ -795,32 +809,32 @@
     </message>
 </context>
 <context>
-    <name>MessageContactsDelegate</name>
+    <name>MessageContactDelegate</name>
     <message>
-        <location filename="../../MessageContactsDelegate.qml" line="53"/>
+        <location filename="../../MessageContactDelegate.qml" line="50"/>
         <source>Private chat</source>
-        <translation>ਪ੍ਰਾਈਵੇਟ ਗੱਲਬਾਤ</translation>
+        <translation/>
     </message>
     <message>
-        <location filename="../../MessageContactsDelegate.qml" line="57"/>
+        <location filename="../../MessageContactDelegate.qml" line="54"/>
         <source>Add to contacts</source>
-        <translation>ਸੰਪਰਕ &apos;ਚ ਸ਼ਾਮਲ</translation>
+        <translation/>
     </message>
 </context>
 <context>
     <name>MessageContentMenu</name>
     <message>
-        <location filename="../../MessageContentMenu.qml" line="48"/>
+        <location filename="../../MessageContentMenu.qml" line="54"/>
         <source>Add contacts to chat</source>
         <translation>ਗੱਲਬਾਤ ਲਈ ਸੰਪਰਕ ਸ਼ਾਮਲ ਕਰੋ</translation>
     </message>
     <message>
-        <location filename="../../MessageContentMenu.qml" line="63"/>
+        <location filename="../../MessageContentMenu.qml" line="69"/>
         <source>Clear chat history</source>
         <translation>ਗੱਲਬਾਤ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ</translation>
     </message>
     <message>
-        <location filename="../../MessageContentMenu.qml" line="82"/>
+        <location filename="../../MessageContentMenu.qml" line="88"/>
         <source>End chat</source>
         <translation>ਗੱਲਬਾਤ ਖਤ</translation>
     </message>
@@ -828,23 +842,23 @@
 <context>
     <name>MessageDelegate</name>
     <message>
-        <location filename="../../MessageDelegate.qml" line="232"/>
-        <location filename="../../MessageDelegate.qml" line="239"/>
+        <location filename="../../MessageDelegate.qml" line="230"/>
+        <location filename="../../MessageDelegate.qml" line="237"/>
         <source>%1 - %2</source>
         <translation>%1 - %2</translation>
     </message>
     <message>
-        <location filename="../../MessageDelegate.qml" line="282"/>
+        <location filename="../../MessageDelegate.qml" line="280"/>
         <source>%1 tried to call - %2</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../MessageDelegate.qml" line="284"/>
+        <location filename="../../MessageDelegate.qml" line="282"/>
         <source>%1 rejected call - %2</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../MessageDelegate.qml" line="286"/>
+        <location filename="../../MessageDelegate.qml" line="284"/>
         <source>%1 called - duration %2 - %3</source>
         <translation/>
     </message>
@@ -852,44 +866,52 @@
 <context>
     <name>MessageScreenContent</name>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="84"/>
+        <location filename="../../MessageScreenContent.qml" line="35"/>
         <source>Group conversation</source>
         <translation>ਗਰੁੱਪ ਗੱਲਬਾਤ</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="86"/>
+        <location filename="../../MessageScreenContent.qml" line="37"/>
         <source>Chat with %1</source>
         <translation>%1 ਨਾਲ ਗੱਲਬਾਤ</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="453"/>
+        <location filename="../../MessageScreenContent.qml" line="413"/>
         <source>Send</source>
         <translation>ਭੇਜੋ</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="861"/>
+        <location filename="../../MessageScreenContent.qml" line="789"/>
         <source>Minimize me</source>
         <translation>ਮੈਨੂੰ ਘੱਟੋ-ਘੱਟ ਕਰੋ</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="861"/>
+        <location filename="../../MessageScreenContent.qml" line="789"/>
         <source>Maximize me</source>
         <translation>ਮੈਨੂੰ ਵੱਧੋ-ਵੱਧ ਕਰੋ</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="862"/>
+        <location filename="../../MessageScreenContent.qml" line="790"/>
         <source>Disable camera</source>
         <translation>ਕੈਮਰਾ ਬੰਦ</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="862"/>
+        <location filename="../../MessageScreenContent.qml" line="790"/>
         <source>Enable camera</source>
         <translation>ਕੈਮਰਾ ਚਾਲੂ</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="863"/>
+        <location filename="../../MessageScreenContent.qml" line="791"/>
         <source>Swap camera</source>
         <translation>ਕੈਮਰਾ ਬਦਲੋ</translation>
+    </message>
+</context>
+<context>
+    <name>NoFriends</name>
+    <message>
+        <location filename="../../NoFriends.qml" line="27"/>
+        <source>You haven&apos;t added any friends yet</source>
+        <translation/>
     </message>
 </context>
 <context>
@@ -952,30 +974,35 @@
         <translation>ਭੇਜੋ:</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="68"/>
+        <location filename="../../SendFileView.qml" line="64"/>
         <source>Photo</source>
         <translation>ਫੋਟੋ</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="85"/>
+        <location filename="../../SendFileView.qml" line="75"/>
         <source>Video</source>
         <translation>ਵਿਡੀਓ</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="102"/>
+        <location filename="../../SendFileView.qml" line="86"/>
         <source>Music</source>
         <translation>ਸੰਗੀਤ</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="119"/>
+        <location filename="../../SendFileView.qml" line="97"/>
         <source>Contact Details</source>
         <translation>ਸੰਪਰਕ ਵੇਰਵਾ</translation>
+    </message>
+    <message>
+        <location filename="../../SendFileView.qml" line="133"/>
+        <source>Select contact</source>
+        <translation/>
     </message>
 </context>
 <context>
     <name>TelepathyManager</name>
     <message>
-        <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="514"/>
+        <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="226"/>
         <source>%1 - %2</source>
         <translation>%1 - %2</translation>
     </message>
@@ -983,50 +1010,44 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="21"/>
+        <location filename="../../main.qml" line="20"/>
         <source>Chat</source>
         <translation>ਗੱਲਬਾਤ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="203"/>
-        <location filename="../../main.qml" line="268"/>
-        <source>Group conversation</source>
-        <translation>ਗਰੁੱਪ ਗੱਲਬਾਤ</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="249"/>
-        <source>Chat with %1</source>
-        <translation>%1 ਨਾਲ ਗੱਲਬਾਤ</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="352"/>
+        <location filename="../../main.qml" line="362"/>
         <source>Account switcher</source>
         <translation>ਅਕਾਊਂਟ ਸਵਿੱਚਰ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="359"/>
-        <source>available</source>
-        <translation>ਉਪਲੱਬਧ</translation>
+        <location filename="../../main.qml" line="369"/>
+        <source>Available</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="361"/>
-        <source>busy</source>
-        <translation>ਰੁੱਝੇ</translation>
+        <location filename="../../main.qml" line="371"/>
+        <source>Busy</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="363"/>
-        <source>away</source>
-        <translation>ਦੂਰ</translation>
+        <location filename="../../main.qml" line="373"/>
+        <source>Away</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="365"/>
-        <source>extended away</source>
-        <translation>ਪੂਰੀ ਤਰ੍ਹਾਂ ਦੂਰ</translation>
+        <location filename="../../main.qml" line="375"/>
+        <source>Extended away</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="367"/>
-        <source>offline</source>
-        <translation>ਆਫਲਾਈ</translation>
+        <location filename="../../main.qml" line="377"/>
+        <source>Offline</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="379"/>
+        <source>Invisible</source>
+        <translation/>
     </message>
 </context>
 <context>
@@ -1057,17 +1078,17 @@
         <translation>ਰਿੰਗ ਜਾ ਰਹੀ ਹੈ</translation>
     </message>
     <message>
-        <location filename="../../utils.js" line="31"/>
+        <location filename="../../utils.js" line="32"/>
         <source>On Hold</source>
         <translation>ਹੋਲਡ ਹੈ</translation>
     </message>
     <message>
-        <location filename="../../utils.js" line="34"/>
+        <location filename="../../utils.js" line="35"/>
         <source>Hanging up</source>
         <translation>ਕੱਟ ਦਿੱਤੀ</translation>
     </message>
     <message>
-        <location filename="../../utils.js" line="37"/>
+        <location filename="../../utils.js" line="38"/>
         <source>Unknown</source>
         <translation>ਅਣਜਾਣ</translation>
     </message>

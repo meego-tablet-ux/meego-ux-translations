@@ -3,115 +3,111 @@
     <name>main</name>
     <message>
         <location filename="../../main.qml" line="21"/>
-        <source>All</source>
-        <translation>全部</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="22"/>
-        <source>Recently added</source>
-        <translation>最近新增</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="23"/>
-        <source>Recently viewed</source>
-        <translation>最近檢視</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="24"/>
-        <source>Unwatched</source>
-        <translation>尚未觀賞</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="25"/>
-        <source>Favorites</source>
-        <translation>我的最愛</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="28"/>
-        <source>Yes, Delete</source>
-        <translation>是，刪除</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="29"/>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="35"/>
-        <source>Play</source>
-        <translation>播放</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="36"/>
-        <source>Favorite</source>
-        <translation>我的最愛</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="37"/>
-        <source>Unfavorite</source>
-        <translation>非最愛</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="38"/>
-        <source>Share</source>
-        <translation>分享</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="39"/>
-        <source>Delete</source>
-        <translation>刪除</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="40"/>
-        <source>Select Multiple Videos</source>
-        <translation>選取多個影片</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="90"/>
-        <location filename="../../main.qml" line="333"/>
-        <source>All (%1 videos)</source>
-        <translation>全部 (%1 個影片)</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="119"/>
         <source>Videos</source>
         <translation>影片</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="151"/>
+        <location filename="../../main.qml" line="22"/>
+        <source>All</source>
+        <translation>全部</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="23"/>
+        <source>Recently added</source>
+        <translation>最近加入</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="24"/>
+        <source>Recently viewed</source>
+        <translation>最近檢視</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="25"/>
+        <source>Unwatched</source>
+        <translation>尚未觀賞</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="26"/>
+        <source>Favorites</source>
+        <translation>喜愛</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="29"/>
+        <location filename="../../main.qml" line="40"/>
+        <source>Delete</source>
+        <translation>刪除</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="30"/>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="36"/>
+        <source>Play</source>
+        <translation>播放</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="37"/>
+        <source>Favorite</source>
+        <translation>喜愛</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="38"/>
+        <source>Unfavorite</source>
+        <translation>非喜愛</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="39"/>
+        <source>Share</source>
+        <translation>分享</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="41"/>
+        <source>Select multiple videos</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="109"/>
+        <location filename="../../main.qml" line="356"/>
+        <source>All (%1 videos)</source>
+        <translation>全部 (%1 個影片)</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="176"/>
         <source>Video name</source>
         <translation>影片名稱</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="157"/>
-        <location filename="../../main.qml" line="610"/>
+        <location filename="../../main.qml" line="182"/>
+        <location filename="../../main.qml" line="661"/>
         <source>If you delete this, it will be removed from your device</source>
-        <translation>若您刪除此項，將從您的裝置中移除</translation>
+        <translation>若您刪除此項，它將從您的裝置中移除</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="169"/>
+        <location filename="../../main.qml" line="194"/>
         <source>Permanently delete this video?</source>
         <translation>永久刪除此影片嗎？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="169"/>
+        <location filename="../../main.qml" line="194"/>
         <source>Permanently delete these %1 videos?</source>
         <translation>永久刪除這 %1 個影片？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="182"/>
+        <location filename="../../main.qml" line="209"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>若您刪除這些項目，將從您的裝置中移除</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="400"/>
-        <source>No videos added yet, do you want to start watching videos?</source>
-        <translation>尚未新增影片，您是否要開始觀賞影片？</translation>
+        <location filename="../../main.qml" line="423"/>
+        <source>No videos have been added. Do you want to start watching videos?</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="408"/>
-        <source>Start recording your own or upload your favourite shows.</source>
-        <translation>開始錄製自己的影片或上傳最喜歡的影片。</translation>
+        <location filename="../../main.qml" line="431"/>
+        <source>Start recording or upload your favorite shows.</source>
+        <translation/>
     </message>
 </context>
 </TS>

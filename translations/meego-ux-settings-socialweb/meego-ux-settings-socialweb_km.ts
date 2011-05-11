@@ -3,8 +3,8 @@
     <name>constants</name>
     <message>
         <location filename="../../qml/constants.js" line="3"/>
-        <source>Web Accounts</source>
-        <translation>គណនី​វែប</translation>
+        <source>Web accounts</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
@@ -13,10 +13,6 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="6"/>
-        <source>Sign In</source>
-        <translation>ភ្ជាប់​ចូល</translation>
-    </message>
-    <message>
         <location filename="../../qml/constants.js" line="8"/>
         <source>Sign in</source>
         <translation>ភ្ជាប់​ចូល</translation>
@@ -53,8 +49,8 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="18"/>
-        <source>More Details</source>
-        <translation>ព័ត៌មាន​លម្អិត</translation>
+        <source>More details</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
@@ -73,8 +69,8 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="23"/>
-        <source>You have successfully signed out.  Content from this service will no longer appear on this Device</source>
-        <translation>អ្នក​បាន​ភ្ជាប់​ចេញ​រួច​រាល់​ហើយ។  មាតិកា​ដែល​បាន​មក​ពី​សេវាកម្ម​នេះ នឹង​លែង​មាន​នៅ​ក្នុង​ឧបករណ៍​នេះ​ហើយ។</translation>
+        <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
+        <translation/>
     </message>
 </context>
 </TS>

@@ -3,8 +3,8 @@
     <name>constants</name>
     <message>
         <location filename="../../qml/constants.js" line="3"/>
-        <source>Web Accounts</source>
-        <translation>Web 帐户</translation>
+        <source>Web accounts</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
@@ -13,10 +13,6 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="6"/>
-        <source>Sign In</source>
-        <translation>登录</translation>
-    </message>
-    <message>
         <location filename="../../qml/constants.js" line="8"/>
         <source>Sign in</source>
         <translation>登录</translation>
@@ -53,8 +49,8 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="18"/>
-        <source>More Details</source>
-        <translation>更多细节</translation>
+        <source>More details</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
@@ -73,8 +69,8 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="23"/>
-        <source>You have successfully signed out.  Content from this service will no longer appear on this Device</source>
-        <translation>您已经成功登出。  此项服务的内容将不再出现在此设备中</translation>
+        <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
+        <translation/>
     </message>
 </context>
 </TS>

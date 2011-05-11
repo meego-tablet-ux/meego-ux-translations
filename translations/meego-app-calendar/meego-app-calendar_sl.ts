@@ -56,50 +56,61 @@
     <name>CalendarDayView</name>
     <message>
         <location filename="../../CalendarDayView.qml" line="176"/>
-        <location filename="../../CalendarDayView.qml" line="339"/>
+        <location filename="../../CalendarDayView.qml" line="340"/>
         <source>All day</source>
         <translation>Ves dan</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="178"/>
         <source>%1, %2 - %3</source>
+        <comment>Event StartDate, StartTime - EndTime </comment>
         <translation>%1, %2 – %3</translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="414"/>
+        <location filename="../../CalendarDayView.qml" line="415"/>
         <source>%1 more events exist</source>
+        <comment>Events count</comment>
         <translation>Obstaja še %1 dogodkov</translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="566"/>
+        <location filename="../../CalendarDayView.qml" line="567"/>
         <source>%1 - %2</source>
+        <comment>StartTime - EndTime</comment>
         <translation>%1 – %2</translation>
     </message>
 </context>
 <context>
     <name>CalendarListView</name>
     <message>
-        <location filename="../../CalendarListView.qml" line="45"/>
-        <location filename="../../CalendarListView.qml" line="101"/>
+        <location filename="../../CalendarListView.qml" line="46"/>
+        <location filename="../../CalendarListView.qml" line="106"/>
         <source>%1 results found</source>
+        <comment>Search result count</comment>
         <translation>Najdenih %1 rezultatov</translation>
     </message>
     <message>
-        <location filename="../../CalendarListView.qml" line="172"/>
-        <location filename="../../CalendarListView.qml" line="192"/>
+        <location filename="../../CalendarListView.qml" line="177"/>
+        <location filename="../../CalendarListView.qml" line="196"/>
         <source>All day</source>
         <translation>Ves dan</translation>
     </message>
     <message>
-        <location filename="../../CalendarListView.qml" line="172"/>
-        <location filename="../../CalendarListView.qml" line="192"/>
+        <location filename="../../CalendarListView.qml" line="177"/>
         <source>%1 - %2</source>
+        <comment>StartTime - EndTime</comment>
         <translation>%1 – %2</translation>
     </message>
     <message>
-        <location filename="../../CalendarListView.qml" line="192"/>
+        <location filename="../../CalendarListView.qml" line="196"/>
         <source>%1, </source>
+        <comment>Event StartDate,</comment>
         <translation>%1, </translation>
+    </message>
+    <message>
+        <location filename="../../CalendarListView.qml" line="196"/>
+        <source>%1, %2 - %3</source>
+        <comment>Event StartDate, StartTime - EndTime</comment>
+        <translation/>
     </message>
 </context>
 <context>
@@ -118,55 +129,60 @@
 <context>
     <name>CalendarMonthView</name>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="30"/>
-        <location filename="../../CalendarMonthView.qml" line="37"/>
-        <location filename="../../CalendarMonthView.qml" line="52"/>
-        <location filename="../../CalendarMonthView.qml" line="64"/>
-        <source>%1 %2</source>
-        <translation>%1 %2</translation>
-    </message>
-    <message>
         <location filename="../../CalendarMonthView.qml" line="171"/>
-        <location filename="../../CalendarMonthView.qml" line="535"/>
+        <location filename="../../CalendarMonthView.qml" line="539"/>
         <source>All day</source>
         <translation>Ves dan</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="173"/>
         <source>%1, %2 - %3</source>
+        <comment>Event StartDate, StartTime - EndTime</comment>
         <translation>%1, %2 – %3</translation>
     </message>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="535"/>
+        <location filename="../../CalendarMonthView.qml" line="539"/>
         <source>%1 - %2</source>
+        <comment>StartTime - EndTime</comment>
         <translation>%1 – %2</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekView</name>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="173"/>
+        <location filename="../../CalendarWeekView.qml" line="31"/>
+        <location filename="../../CalendarWeekView.qml" line="51"/>
+        <location filename="../../CalendarWeekView.qml" line="125"/>
+        <source>%1 - %2</source>
+        <comment>Week's StartDate - Week's EndDate</comment>
+        <translation>%1 – %2</translation>
+    </message>
+    <message>
+        <location filename="../../CalendarWeekView.qml" line="179"/>
         <source>All day</source>
         <translation>Ves dan</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="175"/>
+        <location filename="../../CalendarWeekView.qml" line="181"/>
         <source>%1, %2 - %3</source>
+        <comment>Event StartDate, StartTime - EndTime</comment>
         <translation>%1, %2 – %3</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="305"/>
+        <location filename="../../CalendarWeekView.qml" line="314"/>
         <source>All Day</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="348"/>
+        <location filename="../../CalendarWeekView.qml" line="357"/>
         <source>%1 more events exist</source>
+        <comment>Events count</comment>
         <translation>Obstaja še %1 dogodkov</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="510"/>
+        <location filename="../../CalendarWeekView.qml" line="519"/>
         <source>%1 - %2</source>
+        <comment>StartTime - EndTime</comment>
         <translation>%1 – %2</translation>
     </message>
 </context>
@@ -191,27 +207,27 @@
 <context>
     <name>EventDetailsView</name>
     <message>
-        <location filename="../../EventDetailsView.qml" line="194"/>
+        <location filename="../../EventDetailsView.qml" line="192"/>
         <source>Reminder: </source>
         <translation>Opomnik: </translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="240"/>
+        <location filename="../../EventDetailsView.qml" line="238"/>
         <source>Show in calendar view</source>
         <translation>Prikaži v prikazu koledarja</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="288"/>
+        <location filename="../../EventDetailsView.qml" line="291"/>
         <source>Back</source>
         <translation>Nazaj</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="303"/>
+        <location filename="../../EventDetailsView.qml" line="305"/>
         <source>Edit</source>
         <translation>Uredi</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="318"/>
+        <location filename="../../EventDetailsView.qml" line="320"/>
         <source>Close</source>
         <translation>Zapri</translation>
     </message>
@@ -227,22 +243,29 @@
 <context>
     <name>MultipleEventsPopup</name>
     <message>
-        <location filename="../../MultipleEventsPopup.qml" line="56"/>
+        <location filename="../../MultipleEventsPopup.qml" line="60"/>
         <source>Selected events</source>
         <translation>Izbrani dogodki</translation>
     </message>
     <message>
-        <location filename="../../MultipleEventsPopup.qml" line="123"/>
+        <location filename="../../MultipleEventsPopup.qml" line="127"/>
         <source>All day</source>
         <translation>Ves dan</translation>
     </message>
     <message>
-        <location filename="../../MultipleEventsPopup.qml" line="123"/>
-        <source>%1, %2 - %3</source>
-        <translation>%1, %2 – %3</translation>
+        <location filename="../../MultipleEventsPopup.qml" line="127"/>
+        <source>%1 - %2</source>
+        <comment>StartTime - EndTime</comment>
+        <translation/>
     </message>
     <message>
-        <location filename="../../MultipleEventsPopup.qml" line="186"/>
+        <location filename="../../MultipleEventsPopup.qml" line="156"/>
+        <source>%1, %2</source>
+        <comment>Event StartDate, Start and End Time String</comment>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../MultipleEventsPopup.qml" line="185"/>
         <source>Close</source>
         <translation>Zapri</translation>
     </message>
@@ -275,170 +298,170 @@
         <translation>Nov dogodek</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="541"/>
+        <location filename="../../NewEventView.qml" line="532"/>
         <source>Event title</source>
         <translation>Naslov dogodka</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="611"/>
+        <location filename="../../NewEventView.qml" line="602"/>
         <source>Date &amp; time</source>
         <translation>Datum in čas</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="661"/>
+        <location filename="../../NewEventView.qml" line="652"/>
         <source>All-day</source>
         <translation>Ves dan</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="714"/>
+        <location filename="../../NewEventView.qml" line="705"/>
         <source>Start time</source>
         <translation>Začetni čas</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="802"/>
+        <location filename="../../NewEventView.qml" line="793"/>
         <source>End time</source>
         <translation>Končni čas</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="904"/>
+        <location filename="../../NewEventView.qml" line="895"/>
         <source>More...</source>
         <translation>Več ...</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="973"/>
+        <location filename="../../NewEventView.qml" line="964"/>
         <source>Time zone</source>
         <translation>Časovni pas</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1011"/>
+        <location filename="../../NewEventView.qml" line="1003"/>
         <source>Repeat</source>
         <translation>Ponovi</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1037"/>
-        <location filename="../../NewEventView.qml" line="1040"/>
+        <location filename="../../NewEventView.qml" line="1029"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
         <source>Never</source>
         <translation>Nikoli</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1040"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every day</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1040"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every week</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1040"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every 2 weeks</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1040"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every month</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1040"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every year</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1040"/>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1032"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>Other...</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1096"/>
+        <location filename="../../NewEventView.qml" line="1088"/>
         <source>Repeats forever</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1096"/>
+        <location filename="../../NewEventView.qml" line="1088"/>
         <source>Ends after number of times...</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1096"/>
+        <location filename="../../NewEventView.qml" line="1088"/>
         <source>Ends after date...</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1202"/>
+        <location filename="../../NewEventView.qml" line="1194"/>
         <source>Reminders</source>
         <translation>Opomniki</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1228"/>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1220"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>No reminder</source>
         <translation>Brez opomnika</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>10 minutes before</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>15 minutes before</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>30 minutes before</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>1 hour before</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>2 hours before</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>1 day before</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>2 days before</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1232"/>
+        <location filename="../../NewEventView.qml" line="1224"/>
         <source>1 week before</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1277"/>
+        <location filename="../../NewEventView.qml" line="1269"/>
         <source>Location</source>
         <translation>Lokacija</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1328"/>
+        <location filename="../../NewEventView.qml" line="1320"/>
         <source>Notes</source>
         <translation>Opombe</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1380"/>
+        <location filename="../../NewEventView.qml" line="1374"/>
         <source>Delete event</source>
         <translation>Izbriši dogodek</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1476"/>
+        <location filename="../../NewEventView.qml" line="1470"/>
         <source>Save</source>
         <translation>Shrani</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1496"/>
+        <location filename="../../NewEventView.qml" line="1490"/>
         <source>Cancel</source>
         <translation>Prekliči</translation>
     </message>
@@ -507,83 +530,83 @@
         <translation>%1 – %2</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="258"/>
+        <location filename="../../lib/utilmethods.cpp" line="275"/>
         <source>No reminder</source>
         <translation>Brez opomnika</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="259"/>
+        <location filename="../../lib/utilmethods.cpp" line="276"/>
         <source>10 minutes before</source>
         <translation>10 minut vnaprej</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="260"/>
+        <location filename="../../lib/utilmethods.cpp" line="277"/>
         <source>15 minutes before</source>
         <translation>15 minut vnaprej</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="261"/>
+        <location filename="../../lib/utilmethods.cpp" line="278"/>
         <source>30 minutes before</source>
         <translation>30 minut vnaprej</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="262"/>
+        <location filename="../../lib/utilmethods.cpp" line="279"/>
         <source>1 hour before</source>
         <translation>1 uro vnaprej</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="263"/>
+        <location filename="../../lib/utilmethods.cpp" line="280"/>
         <source>2 hours before</source>
         <translation>2 uri vnaprej</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="264"/>
+        <location filename="../../lib/utilmethods.cpp" line="281"/>
         <source>1 day before</source>
         <translation>1 dan vnaprej</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="265"/>
+        <location filename="../../lib/utilmethods.cpp" line="282"/>
         <source>2 days before</source>
         <translation>2 dneva vnaprej</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="266"/>
+        <location filename="../../lib/utilmethods.cpp" line="283"/>
         <source>1 week before</source>
         <translation>1 teden vnaprej</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="267"/>
-        <location filename="../../lib/utilmethods.cpp" line="282"/>
+        <location filename="../../lib/utilmethods.cpp" line="284"/>
+        <location filename="../../lib/utilmethods.cpp" line="299"/>
         <source>Other...</source>
         <translation>Drugo ...</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="276"/>
+        <location filename="../../lib/utilmethods.cpp" line="293"/>
         <source>Never</source>
         <translation>Nikoli</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="277"/>
+        <location filename="../../lib/utilmethods.cpp" line="294"/>
         <source>Every day</source>
         <translation>Vsak dan</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="278"/>
+        <location filename="../../lib/utilmethods.cpp" line="295"/>
         <source>Every week</source>
         <translation>Vsak teden</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="279"/>
+        <location filename="../../lib/utilmethods.cpp" line="296"/>
         <source>Every 2 weeks</source>
         <translation>Vsaka dva tedna</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="280"/>
+        <location filename="../../lib/utilmethods.cpp" line="297"/>
         <source>Every month</source>
         <translation>Vsak mesec</translation>
     </message>
     <message>
-        <location filename="../../lib/utilmethods.cpp" line="281"/>
+        <location filename="../../lib/utilmethods.cpp" line="298"/>
         <source>Every year</source>
         <translation>Vsako leto</translation>
     </message>
@@ -615,69 +638,69 @@
     </message>
     <message>
         <location filename="../../main.qml" line="18"/>
-        <location filename="../../main.qml" line="110"/>
+        <location filename="../../main.qml" line="114"/>
         <source>Day</source>
         <translation>Dan</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="18"/>
-        <location filename="../../main.qml" line="136"/>
+        <location filename="../../main.qml" line="140"/>
         <source>Week</source>
         <translation>Teden</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="18"/>
-        <location filename="../../main.qml" line="161"/>
+        <location filename="../../main.qml" line="165"/>
         <source>Month</source>
         <translation>Mesec</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="246"/>
-        <source>%1, </source>
-        <translation>%1, </translation>
+        <location filename="../../main.qml" line="250"/>
+        <source>%1, %2</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="246"/>
+        <location filename="../../main.qml" line="250"/>
         <source>All day</source>
         <translation>Ves dan</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="248"/>
+        <location filename="../../main.qml" line="252"/>
         <source>%1, %2 - %3</source>
         <translation>%1, %2 – %3</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="319"/>
+        <location filename="../../main.qml" line="323"/>
         <source>Delete event?</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="323"/>
+        <location filename="../../main.qml" line="327"/>
         <source>Cancel</source>
         <translation>Prekliči</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="324"/>
+        <location filename="../../main.qml" line="328"/>
         <source>Delete</source>
         <translation>Izbriši</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="335"/>
+        <location filename="../../main.qml" line="339"/>
         <source>Are you sure you want to delete this event?</source>
         <translation>Ali ste prepričani, da želite izbrisati ta dogodek?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="359"/>
+        <location filename="../../main.qml" line="363"/>
         <source>Create new event</source>
         <translation>Ustvari nov dogodek</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="359"/>
+        <location filename="../../main.qml" line="363"/>
         <source>Go to today</source>
         <translation>Pojdi na današnji dan</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="359"/>
+        <location filename="../../main.qml" line="363"/>
         <source>Go to date</source>
         <translation/>
     </message>

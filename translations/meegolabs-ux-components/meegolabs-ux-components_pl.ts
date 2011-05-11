@@ -10,7 +10,7 @@
 <context>
     <name>ApplicationPage</name>
     <message>
-        <location filename="../../Components/ApplicationPage.qml" line="195"/>
+        <location filename="../../Components/ApplicationPage.qml" line="204"/>
         <source>Search</source>
         <translation/>
     </message>
@@ -36,37 +36,37 @@
 <context>
     <name>ContactsPicker</name>
     <message>
-        <location filename="../../Components/ContactsPicker.qml" line="36"/>
+        <location filename="../../Components/ContactsPicker.qml" line="38"/>
         <source>Pick a contact:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Components/ContactsPicker.qml" line="118"/>
+        <location filename="../../Components/ContactsPicker.qml" line="122"/>
         <source>Loading...</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Components/ContactsPicker.qml" line="247"/>
+        <location filename="../../Components/ContactsPicker.qml" line="251"/>
         <source>Idle</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Components/ContactsPicker.qml" line="249"/>
+        <location filename="../../Components/ContactsPicker.qml" line="253"/>
         <source>Available</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Components/ContactsPicker.qml" line="251"/>
+        <location filename="../../Components/ContactsPicker.qml" line="255"/>
         <source>Busy</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Components/ContactsPicker.qml" line="331"/>
+        <location filename="../../Components/ContactsPicker.qml" line="335"/>
         <source>OK</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Components/ContactsPicker.qml" line="354"/>
+        <location filename="../../Components/ContactsPicker.qml" line="358"/>
         <source>Cancel</source>
         <translation/>
     </message>
@@ -185,76 +185,75 @@
         <translation/>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="111"/>
+        <location filename="../../localehelper.cpp" line="109"/>
+        <source>MMMM d, yyyy</source>
+        <extracomment>MMMM = full month, d = day of month, yyyy = full year (e.g. January 31, 2011)</extracomment>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../localehelper.cpp" line="113"/>
+        <source>MMM d yyyy</source>
+        <extracomment>MMM = short month, d = day of month, yyyy = full year (e.g. Jan 31 2011)</extracomment>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../localehelper.cpp" line="121"/>
         <source>dddd, MMMM d</source>
         <extracomment>dddd = full day of week, MMMM = full month, d = day of month (e.g. Monday, January 31)</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="115"/>
+        <location filename="../../localehelper.cpp" line="125"/>
         <source>ddd d</source>
         <extracomment>ddd = day of week, d = day of month (e.g. Mon 31)</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="119"/>
+        <location filename="../../localehelper.cpp" line="129"/>
         <source>MMMM yyyy</source>
         <extracomment>MMMM = full month, yyyy = full year (e.g. January 2011)</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="123"/>
+        <location filename="../../localehelper.cpp" line="133"/>
+        <source>MMM yyyy</source>
+        <extracomment>MMM = short month, yyyy = full year (e.g. Jan 2011)</extracomment>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../localehelper.cpp" line="137"/>
         <source>d</source>
         <extracomment>d = day of month (e.g. 31, no leading zero)</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="127"/>
+        <location filename="../../localehelper.cpp" line="141"/>
+        <source>dddd</source>
+        <extracomment>dddd = day of week (e.g. Monday)</extracomment>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../localehelper.cpp" line="145"/>
+        <source>ddd</source>
+        <extracomment>ddd = day of week (e.g. Mon)</extracomment>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../localehelper.cpp" line="149"/>
         <source>MMMM</source>
         <extracomment>MMMM = full month (e.g. January)</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="131"/>
+        <location filename="../../localehelper.cpp" line="153"/>
         <source>MMM</source>
         <extracomment>MMM = short month (e.g. Jan)</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="135"/>
+        <location filename="../../localehelper.cpp" line="157"/>
         <source>yyyy</source>
         <extracomment>yyyy (e.g. 2011)</extracomment>
-        <translation/>
-    </message>
-</context>
-<context>
-    <name>MessageBox</name>
-    <message>
-        <location filename="../../Components/MessageBox.qml" line="138"/>
-        <source>OK</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Components/MessageBox.qml" line="139"/>
-        <source>Reject</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Components/MessageBox.qml" line="140"/>
-        <source>Cancel</source>
-        <translation/>
-    </message>
-</context>
-<context>
-    <name>ModalMessageBox</name>
-    <message>
-        <location filename="../../Components/ModalMessageBox.qml" line="127"/>
-        <source>OK</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Components/ModalMessageBox.qml" line="137"/>
-        <source>Cancel</source>
         <translation/>
     </message>
 </context>
@@ -274,25 +273,33 @@
 <context>
     <name>ShareObj</name>
     <message>
-        <location filename="../../Components/ShareObj.qml" line="63"/>
-        <location filename="../../Components/ShareObj.qml" line="83"/>
+        <location filename="../../Components/ShareObj.qml" line="77"/>
+        <location filename="../../Components/ShareObj.qml" line="97"/>
         <source>Email</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Components/ShareObj.qml" line="227"/>
+        <location filename="../../Components/ShareObj.qml" line="241"/>
         <source>An error occurred while sharing: %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Components/ShareObj.qml" line="232"/>
-        <location filename="../../Components/ShareObj.qml" line="263"/>
+        <location filename="../../Components/ShareObj.qml" line="246"/>
+        <location filename="../../Components/ShareObj.qml" line="277"/>
         <source>Ok</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Components/ShareObj.qml" line="258"/>
+        <location filename="../../Components/ShareObj.qml" line="272"/>
         <source>Upload progress: %1%%</source>
+        <translation/>
+    </message>
+</context>
+<context>
+    <name>StatusBar</name>
+    <message>
+        <location filename="../../Components/StatusBar.qml" line="106"/>
+        <source>%1 : %2</source>
         <translation/>
     </message>
 </context>
@@ -307,19 +314,6 @@
         <location filename="../../Components/TimeToggleSwitch.qml" line="41"/>
         <source>OFF</source>
         <translation>WYŁ.</translation>
-    </message>
-</context>
-<context>
-    <name>ToggleButton</name>
-    <message>
-        <location filename="../../Components/ToggleButton.qml" line="42"/>
-        <source>On</source>
-        <translation>Wł.</translation>
-    </message>
-    <message>
-        <location filename="../../Components/ToggleButton.qml" line="53"/>
-        <source>Off</source>
-        <translation>Wył.</translation>
     </message>
 </context>
 <context>

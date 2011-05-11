@@ -2,53 +2,68 @@
 <context>
     <name>BluetoothDeviceExpandingBox</name>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="54"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="59"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="64"/>
         <source>Disconnect Audio</source>
         <translation>ផ្ដាច់​អូឌីយ៉ូ</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="54"/>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="59"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="68"/>
         <source>Connect Audio</source>
         <translation>ភ្ជាប់​អូឌីយ៉ូ</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="83"/>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="89"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="88"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="94"/>
         <source>Disconnect Input Device</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="83"/>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="93"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="88"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="98"/>
         <source>Connect Input Device</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="113"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="118"/>
         <source>Disconnect Internet</source>
         <translation>ផ្ដាច់​អ៊ីនធើណិត</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="113"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="118"/>
         <source>Connect Internet</source>
         <translation>តភ្ជាប់​អ៊ីនធើណិត</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="168"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="173"/>
         <source>Connect Actions</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="219"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="224"/>
         <source>Manage</source>
         <translation>គ្រប់​គ្រង</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="226"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="231"/>
         <source>Remove</source>
         <translation>ដក​ចេញ</translation>
+    </message>
+    <message>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="243"/>
+        <source>Paired: %1</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="251"/>
+        <source>Hardware Address: %1</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="259"/>
+        <source>UUids: %1</source>
+        <translation/>
     </message>
 </context>
 <context>
@@ -112,6 +127,11 @@
 </context>
 <context>
     <name>BrowserSettings</name>
+    <message>
+        <location filename="../../Browser/BrowserSettings.qml" line="15"/>
+        <source>Browser</source>
+        <translation/>
+    </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="106"/>
         <source>Restore to default</source>
@@ -236,22 +256,70 @@
         <translation>WiMAX</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="61"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="27"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <source>WPA</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="28"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <source>WPA2</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="29"/>
+        <source>WEP</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="65"/>
         <source>Airplane Mode</source>
         <translation>របៀប​លើ​យន្ត​ហោះ</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="94"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="98"/>
         <source>Network Connections</source>
         <translation>ការ​ត​ភ្ជាប់​បណ្ដាញ</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="192"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="197"/>
         <source>Available Networks</source>
         <translation>បណ្ដាញ​ដែល​មាន</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="192"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="206"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="220"/>
+        <source>Add Network</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="234"/>
+        <source>Network Name:</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="250"/>
+        <source>Security Type:</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <source>none</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <source>wep</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="272"/>
+        <source>Security Passphrase:</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="298"/>
         <source>No networks available</source>
         <translation>មិន​មាន​បណ្ដាញ</translation>
     </message>
@@ -329,6 +397,26 @@
         <source>Language:</source>
         <translation>ភាសា:</translation>
     </message>
+    <message>
+        <location filename="../../Language/LanguageSettings.qml" line="68"/>
+        <source>Virtual Keyboard:</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Language/LanguageSettings.qml" line="96"/>
+        <source>Date format:</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Language/LanguageSettings.qml" line="124"/>
+        <source>Time format:</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Language/LanguageSettings.qml" line="174"/>
+        <source>Number Format:</source>
+        <translation/>
+    </message>
 </context>
 <context>
     <name>LoginDialog</name>
@@ -366,110 +454,110 @@
 <context>
     <name>MeeGo::Sync::FrameworkClient</name>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="201"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="216"/>
         <source>completed</source>
         <extracomment>Status message: successfully completed sync job. (PLACEHOLDER)</extracomment>
         <translation>បាន​បញ្ចប់</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="208"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="223"/>
         <source>finished</source>
         <extracomment>Sync finished with potential(?) error.</extracomment>
         <translation>បាន​បញ្ចប់</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="213"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="228"/>
         <source>internal error</source>
         <extracomment>Internal error occurred during sync.</extracomment>
         <translation>មាន​កំហុស​ផ្នែក​ក្នុង</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="218"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="233"/>
         <source>authentication failure</source>
         <extracomment>Authentication failure occurred during sync.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="224"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="239"/>
         <source>database failure</source>
         <extracomment>Database access error occurred during sync.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="229"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="244"/>
         <source>suspended</source>
         <extracomment>Sync job suspended.</extracomment>
         <translation>បាន​ផ្អាក</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="234"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="249"/>
         <source>aborted</source>
         <extracomment>Sync job aborted.</extracomment>
         <translation>មិន​បាន​សម្រេច</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="240"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="255"/>
         <source>connection error</source>
         <extracomment>Connection to remote sync service failed during sync.</extracomment>
         <translation>កំហុស​ការ​តភ្ជាប់</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="246"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="261"/>
         <source>invalid syncml message</source>
         <extracomment>Invalid syncml message/request submitted during sync.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="252"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="267"/>
         <source>unsupported sync type</source>
         <extracomment>Unsupported sync type (manual or auto?)</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="258"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="273"/>
         <source>unsupported storage type</source>
         <extracomment>&quot;Storage&quot; refers to contacts, calendar, etc.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="267"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="282"/>
         <source>other</source>
         <extracomment>Unknown error occurred during sync.</extracomment>
         <translation>ផ្សេងៗ</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="302"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="317"/>
         <source>Last sync %1</source>
         <extracomment>Arg 1 is a &quot;fuzzy time&quot;, e.g. &quot;2 min ago&quot;.</extracomment>
         <translation>ធ្វើ​សមកាល​កម្ម​ចុង​ក្រោយ %1</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="308"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="323"/>
         <source>Last sync failed: %1</source>
         <extracomment>Arg 1 is a brief sync error description, e.g. &quot;connection failed&quot;.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="436"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="459"/>
         <source>Sync request queued</source>
         <extracomment>Status message: sync request/job has been queued</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="442"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="465"/>
         <source>Sync started</source>
         <extracomment>Status message: sync job started</extracomment>
         <translation>បាន​ចាប់​ផ្ដើម​ធ្វើ​សមកាល​កម្ម</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="448"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="471"/>
         <source>Syncing now...</source>
         <extracomment>Status message: Sync in-progress</extracomment>
         <translation>កំពុង​ធ្វើ​សមកាលកម្ម...</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="460"/>
-        <location filename="../../Sync/FrameworkClient.cpp" line="491"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="483"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="514"/>
         <source>Sync completed</source>
         <extracomment>Status message: Sync job completed
 ----------
@@ -477,55 +565,60 @@ Status message: successfully completed sync job.</extracomment>
         <translation>បាន​ធ្វើ​សមកាល​កម្ម​រួច​រាល់</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="466"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="489"/>
         <source>Sync aborted</source>
         <extracomment>Sync explicitly stopped.</extracomment>
         <translation>បាន​បោះ​បង់​ការ​ធ្វើ​សមកាល​កម្ម</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="473"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="496"/>
         <source>Unknown sync status</source>
         <extracomment>Status message: Displayed when an unknown/unhandled error occurs.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="499"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="522"/>
         <source>Sync failed: %1</source>
         <extracomment>Sync result message. The argument provides the error details.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="585"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="526"/>
+        <source>%1 %2 sync failed</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="605"/>
         <source>Unable to update sync profile</source>
         <extracomment>Failed to update and store sync account/profile info on disk.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="615"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="635"/>
         <source>Sync scheduling failed</source>
         <extracomment>Attempt to set automatic sync schedule failed.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="657"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="677"/>
         <source>Unable to forget sync account!</source>
         <extracomment>Displayed when removal of sync account information fails.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="673"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="693"/>
         <source>Failed to store credentials</source>
         <extracomment>Internal error. Failed to store user supplied credentials in DB.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="677"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="697"/>
         <source>Failed to clear credentials</source>
         <extracomment>Displayed when clearing stored sync account credentials fails.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="681"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="701"/>
         <source>Unknown credentials error</source>
         <extracomment>We're really not expecting any other kinds of cred errors.</extracomment>
         <translation/>
@@ -581,7 +674,7 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>PanelSettings</name>
     <message>
-        <location filename="../../Panels/PanelSettings.qml" line="17"/>
+        <location filename="../../Panels/PanelSettings.qml" line="18"/>
         <source>Panels</source>
         <translation>បន្ទះ</translation>
     </message>
@@ -694,17 +787,17 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>RequestConfirmDialog</name>
     <message>
-        <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="31"/>
+        <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="30"/>
         <source>Pair with %1 with key %2?</source>
         <translation>ផ្សំ​ផ្គុំ​ជាមួយ %1 ជាមួយ​សោរ %2?</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="45"/>
+        <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="44"/>
         <source>Accept</source>
         <translation>យល់​ព្រម</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="56"/>
+        <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="55"/>
         <source>Reject</source>
         <translation>បដិសេធ</translation>
     </message>
@@ -712,12 +805,12 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>RequestPidCodeDialog</name>
     <message>
-        <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="24"/>
+        <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="23"/>
         <source>Enter the following code on %1</source>
         <translation>បញ្ចូល​កូដ​នេះ​ទៅ %1</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="40"/>
+        <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="39"/>
         <source>Accept</source>
         <translation>យល់​ព្រម</translation>
     </message>
@@ -725,12 +818,12 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>RequestpasskeyDialog</name>
     <message>
-        <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="21"/>
+        <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="20"/>
         <source>Enter passcode to use:</source>
         <translation>បញ្ចូល​ពាក្យ​សម្ងាត់​ដើម្បី​ប្រើ:</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="37"/>
+        <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="36"/>
         <source>Accept</source>
         <translation>យល់​ព្រម</translation>
     </message>
@@ -751,22 +844,22 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>SetTimezoneMenu</name>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="78"/>
+        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="79"/>
         <source>Filter list</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="123"/>
+        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="124"/>
         <source>GMT</source>
         <translation>GMT</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="164"/>
+        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="162"/>
         <source>Ok</source>
         <translation>ព្រម</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="183"/>
+        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="177"/>
         <source>Cancel</source>
         <translation>បោះ​បង់</translation>
     </message>
@@ -806,108 +899,49 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>SyncDetails</name>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="123"/>
+        <location filename="../../Sync/SyncDetails.qml" line="119"/>
         <source>%1 %2</source>
         <extracomment>Arg 1 is the name of the sync service (e.g. &quot;Yahoo!&quot;) and arg 2 is the name of the storage (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;).</extracomment>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="142"/>
+        <location filename="../../Sync/SyncDetails.qml" line="138"/>
         <source>Sync now</source>
         <extracomment>Text displayed in &quot;sync now&quot; button.</extracomment>
         <translation>ធ្វើ​សមកាល​កម្ម​ឥឡូវ​នេះ</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="165"/>
+        <location filename="../../Sync/SyncDetails.qml" line="161"/>
         <source>Sync %1</source>
         <extracomment>Argument is sync storage (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;).</extracomment>
         <translation>ធ្វើ​សកមកាលកម្ម %1</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="204"/>
+        <location filename="../../Sync/SyncDetails.qml" line="200"/>
         <source>Sync account details</source>
         <extracomment>Title of &quot;account details&quot; area of page.</extracomment>
         <translation>លម្អិត​អំពី​គណនី​ធ្វើ​សមកាលកម្ម</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="221"/>
+        <location filename="../../Sync/SyncDetails.qml" line="217"/>
         <source>Forget this</source>
         <extracomment>Text displayed in &quot;forget this&quot; button (used to remove current sync account).</extracomment>
         <translation>បំភ្លេច</translation>
     </message>
 </context>
 <context>
-    <name>SyncGroup</name>
-    <message>
-        <location filename="../../Browser/SyncGroup.qml" line="15"/>
-        <source>Sync</source>
-        <translation>ធ្វើ​សមកាលកម្ម</translation>
-    </message>
-    <message>
-        <location filename="../../Browser/SyncGroup.qml" line="19"/>
-        <location filename="../../Browser/SyncGroup.qml" line="176"/>
-        <source>Not set up yet</source>
-        <translation>មិន​ទាន់​ដំឡើង</translation>
-    </message>
-    <message>
-        <location filename="../../Browser/SyncGroup.qml" line="32"/>
-        <source>Stop Syncing</source>
-        <translation>បញ្ឈប់​ការ​ធ្វើ​សមកាល​កម្ម</translation>
-    </message>
-    <message>
-        <location filename="../../Browser/SyncGroup.qml" line="34"/>
-        <source>Are you sure about stopping this account from syncing?</source>
-        <translation>តើ​អ្នក​ប្រាកដ​អំពី​ការ​បញ្ឈប់​គណនី​នេះ​ចេញ​ពី ការ​ធ្វើ​សមកាល​កម្ម​ឬ?</translation>
-    </message>
-    <message>
-        <location filename="../../Browser/SyncGroup.qml" line="79"/>
-        <location filename="../../Browser/SyncGroup.qml" line="168"/>
-        <source>You are not set up sync your browser data with another computer.</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Browser/SyncGroup.qml" line="183"/>
-        <source>%1 %2 </source>
-        <translation>%1 %2 </translation>
-    </message>
-    <message>
-        <location filename="../../Browser/SyncGroup.qml" line="198"/>
-        <source>Invalid username or password.</source>
-        <translation>ខុស​ឈ្មោះ​សមាជិក និង​ពាក្យ​សម្ងាត់។</translation>
-    </message>
-    <message>
-        <location filename="../../Browser/SyncGroup.qml" line="210"/>
-        <source>Please wait for a moment ...</source>
-        <translation>សូម​រង់​ចាំ...</translation>
-    </message>
-    <message>
-        <location filename="../../Browser/SyncGroup.qml" line="218"/>
-        <source>Syncing now...</source>
-        <translation>កំពុង​ធ្វើ​សមកាលកម្ម...</translation>
-    </message>
-    <message>
-        <location filename="../../Browser/SyncGroup.qml" line="225"/>
-        <source>Synced to %1. Last synced: %2</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Browser/SyncGroup.qml" line="233"/>
-        <source>Last synced time: %1</source>
-        <translation>ពេល​ធ្វើ​សមកាល​កម្ម​ចុង​ក្រោយ៖ %1</translation>
-    </message>
-</context>
-<context>
     <name>SyncList</name>
     <message>
-        <location filename="../../Sync/SyncList.qml" line="43"/>
+        <location filename="../../Sync/SyncList.qml" line="41"/>
         <source>Sync %1</source>
+        <extracomment>Arg 1 refers to the storage type (e.g. Contacts, Calendar, etc)</extracomment>
         <translation>ធ្វើ​សមកាលកម្ម %1</translation>
     </message>
 </context>
 <context>
     <name>SyncListDelegate</name>
     <message>
-        <location filename="../../Sync/SyncListDelegate.qml" line="133"/>
+        <location filename="../../Sync/SyncListDelegate.qml" line="125"/>
         <source>%1 %2</source>
         <extracomment>Arg 1 is the sync service name (e.g. &quot;Yahoo!&quot;) and arg 2 is the storage name (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;.</extracomment>
         <translation>%1 %2</translation>
@@ -915,6 +949,24 @@ Status message: successfully completed sync job.</extracomment>
 </context>
 <context>
     <name>SyncLoginDialog</name>
+    <message>
+        <location filename="../../Sync/SyncLoginDialog.qml" line="24"/>
+        <source>Sign in</source>
+        <extracomment>&quot;Sign in&quot; button text displayed in sync account login dialog.</extracomment>
+        <translation>ភ្ជាប់​ចូល</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/SyncLoginDialog.qml" line="26"/>
+        <source>Cancel</source>
+        <extracomment>&quot;Cancel&quot; button text displayed in sync account login dialog.</extracomment>
+        <translation>បោះ​បង់</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/SyncLoginDialog.qml" line="28"/>
+        <source>Sign in to your %1 account</source>
+        <extracomment>The argument is the name of the remote sync service (e.g. Google, Yahoo!, etc).</extracomment>
+        <translation>ភ្ជាប់​ទៅ​គណនី %1 របស់​អ្នក</translation>
+    </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="42"/>
         <source>(ex: foo@example.com)</source>
@@ -932,24 +984,6 @@ Status message: successfully completed sync job.</extracomment>
         <source>Password</source>
         <extracomment>Sync account password login field label</extracomment>
         <translation>ពាក្យ​សម្ងាត់</translation>
-    </message>
-    <message>
-        <location filename="../../Sync/SyncLoginDialog.qml" line="123"/>
-        <source>Sign in</source>
-        <extracomment>&quot;Sign in&quot; button text displayed in sync account login dialog.</extracomment>
-        <translation>ភ្ជាប់​ចូល</translation>
-    </message>
-    <message>
-        <location filename="../../Sync/SyncLoginDialog.qml" line="125"/>
-        <source>Cancel</source>
-        <extracomment>&quot;Cancel&quot; button text displayed in sync account login dialog.</extracomment>
-        <translation>បោះ​បង់</translation>
-    </message>
-    <message>
-        <location filename="../../Sync/SyncLoginDialog.qml" line="127"/>
-        <source>Sign in to your %1 account</source>
-        <extracomment>The argument is the name of the remote sync service (e.g. Google, Yahoo!, etc).</extracomment>
-        <translation>ភ្ជាប់​ទៅ​គណនី %1 របស់​អ្នក</translation>
     </message>
 </context>
 <context>
@@ -982,48 +1016,52 @@ Status message: successfully completed sync job.</extracomment>
         <translation>ពេល​វេលា</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="112"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="113"/>
         <source>24 hour clock</source>
         <translation>នាឡិកា​២៤ម៉ោង</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="140"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="142"/>
         <source>Set date and time automatically</source>
         <translation>កំណត់​ម៉ោង និង​កាល​បរិច្ឆេទ ដោយ​ស្វ័យ​ប្រវត្តិ</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="168"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="170"/>
         <source>Where you are</source>
         <translation>ទី​កន្លែង​អ្នក</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="187"/>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="218"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="189"/>
         <source>Current Timezone is %1</source>
         <translation>តំបន់​ម៉ោង​បច្ចុប្បន្ន​គឺ %1</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="204"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="206"/>
         <source>Find me and keep my location updated</source>
         <translation>ស្វែង​រក​ខ្ញុំ និង​រក្សា​ទីតាំង​ខ្ញុំ​ឲ្យ​មាន​ភាព​ថ្មី</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="232"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="220"/>
+        <source>Current Timezone isal %1</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="242"/>
         <source>Manual time zone selection</source>
         <translation>ការ​រើស​តំបន់​ម៉ោង​ដោយ​ដៃ</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="251"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="261"/>
         <source>Set Time Zone</source>
         <translation>កំណត់​តំបន់​ម៉ោង</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="266"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="276"/>
         <source>Current Timezone is </source>
         <translation>តំបន់​ម៉ោង​បច្ចុប្បន្ន​គឺ </translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="271"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="282"/>
         <source>Unable to set timezone manually</source>
         <translation>មិន​អាច​កំណត់​តំបន់​ម៉ោង​ដោយ​ដៃ​បាន​ទេ</translation>
     </message>
@@ -1039,12 +1077,12 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>WallpaperTools</name>
     <message>
-        <location filename="../../Personalize/WallpaperTools.qml" line="28"/>
+        <location filename="../../Personalize/WallpaperTools.qml" line="30"/>
         <source>Pick a color</source>
         <translation>រើស​ពណ៌</translation>
     </message>
     <message>
-        <location filename="../../Personalize/WallpaperTools.qml" line="39"/>
+        <location filename="../../Personalize/WallpaperTools.qml" line="42"/>
         <source>Pick a photo</source>
         <translation>រើស​រូប​ថត</translation>
     </message>
@@ -1052,139 +1090,139 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>WifiExpandingBox</name>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="40"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="44"/>
         <source>WPA</source>
         <translation>WPA</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="41"/>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="44"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="45"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="48"/>
         <source>WPA2</source>
         <translation>WPA2</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="42"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="46"/>
         <source>WEP</source>
         <translation>WEP</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="43"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="47"/>
         <source>RADIUS</source>
         <translation>RADIUS</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="47"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="51"/>
         <source>DHCP</source>
         <translation>DHCP</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="48"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="52"/>
         <source>Static</source>
         <translation>ស្ថិតិ</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="120"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="129"/>
         <source>Failed to Connect</source>
         <translation>បរាជ័យ​ក្នុង​ការ​ត​ភ្ជាប់</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="123"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="132"/>
         <source>Associating</source>
         <translation>ការ​រួម​បញ្ចូល</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="127"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="136"/>
         <source>Configuring</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="131"/>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="135"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="140"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="144"/>
         <source>Connected</source>
         <translation>បាន​ភ្ជាប់</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="168"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="177"/>
         <source>Do you want to remove %1 ?  This action will forget any passwords and you will no longer be automatically connected to %2</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="180"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="189"/>
         <source>Yes, Delete</source>
         <translation>ព្រម​លុប</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="192"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="201"/>
         <source>No, Save</source>
         <translation>ទេ, រក្សា​ទុក</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="216"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="225"/>
         <source>Disconnect</source>
         <translation>ផ្ដាច់</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="227"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="236"/>
         <source>Remove Connection</source>
         <translation>ដក​ចេញ​ការ​ត​ភ្ជាប់</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="238"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="247"/>
         <source>Connect by:</source>
         <translation>ភ្ជាប់​ដោយ:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="268"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="278"/>
         <source>IP Address:</source>
         <translation>អាសយដ្ឋាន IP:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="287"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="297"/>
         <source>Subnet Mask:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="305"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="315"/>
         <source>Gateway</source>
         <translation>ច្រកចូល</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="322"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="332"/>
         <source>DNS:</source>
         <translation>DNS:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="340"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="350"/>
         <source>Hardware Address:</source>
         <translation>អាសយដ្ឋាន​ផ្នែក​រឹង:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="349"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="359"/>
         <source>Apply</source>
         <translation>អនុវត្ត</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="363"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="373"/>
         <source>Cancel</source>
         <translation>បោះ​បង់</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="393"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="404"/>
         <source>Type password here</source>
         <translation>បញ្ចូល​ពាក្យ​សម្ងាត់នៅ​ទីនេះ</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="404"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="415"/>
         <source>Setup</source>
         <translation>ដំឡើង</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="415"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="426"/>
         <source>Connect</source>
         <translation>ភ្ជាប់</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="443"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="454"/>
         <source>Show Password</source>
         <translation>បង្ហាញ​ពាក្យ​សម្ងាត់</translation>
     </message>
@@ -1197,7 +1235,7 @@ Status message: successfully completed sync job.</extracomment>
         <translation>គ្រប់​ការ​កំណត់</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="111"/>
+        <location filename="../../main.qml" line="112"/>
         <source>Settings</source>
         <translation>ការ​កំណត់</translation>
     </message>

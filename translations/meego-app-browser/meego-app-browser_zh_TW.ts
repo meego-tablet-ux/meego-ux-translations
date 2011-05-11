@@ -10,12 +10,28 @@
         <translation>MeeGo</translation>
     </message>
     <message>
+        <location filename="id" line="496379237"/>
+        <source>Do you want MeeGo browser to save your password?</source>
+        <extracomment>IDS_PASSWORD_MANAGER_SAVE_PASSWORD_PROMPT
+- description: Info bar message to save a password
+</extracomment>
+        <translation/>
+    </message>
+    <message>
+        <location filename="id" line="311677227"/>
+        <source>Copyright © 2010-2011 MeeGo. All Rights Reserved.</source>
+        <extracomment>IDS_ABOUT_VERSION_COPYRIGHT
+- description: Copyright information on the about pages
+</extracomment>
+        <translation/>
+    </message>
+    <message>
         <location filename="id" line="-1572705952"/>
         <source>MeeGo browser isn&apos;t your default browser.</source>
         <extracomment>IDS_DEFAULT_BROWSER_INFOBAR_SHORT_TEXT
 - description: More compact text to show in the default browser query infobar.
 </extracomment>
-        <translation>MeeGo 瀏覽器並不是你的預設瀏覽器。</translation>
+        <translation>MeeGo 瀏覽器並不是您的預設瀏覽器。</translation>
     </message>
     <message>
         <location filename="id" line="-209926424"/>
@@ -23,7 +39,7 @@
         <extracomment>IDS_SESSION_CRASHED_VIEW_MESSAGE
 - description: Message shown when the last session didn't exit cleanly.
 </extracomment>
-        <translation>沒有正確關閉。要重新打開你曾經使用的頁面，請按一下「還原」。</translation>
+        <translation>MeeGo 沒有正確關閉。要重新打開您曾經使用的頁面，請按一下「還原」。</translation>
     </message>
     <message>
         <location filename="id" line="1550207900"/>
@@ -34,14 +50,6 @@ IDS_SXS_SHORTCUT_NAME
 - description: The Chrome short cut name for SxS channel
 </extracomment>
         <translation>MeeGo 瀏覽器</translation>
-    </message>
-    <message>
-        <location filename="id" line="-1008283151"/>
-        <source>Copyright © 2010 MeeGo. All Rights Reserved.</source>
-        <extracomment>IDS_ABOUT_VERSION_COPYRIGHT
-- description: Copyright information on the about pages
-</extracomment>
-        <translation>著作權 © 2010 MeeGo。保留所有權利。</translation>
     </message>
 </context>
 <context>
@@ -59,30 +67,35 @@ IDS_SXS_SHORTCUT_NAME
 </context><context>
     <name>BookmarkList</name>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="205"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="199"/>
+        <source>Delete bookmark</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="200"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="206"/>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="220"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="203"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="207"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="205"/>
         <source>Are you sure you want to delete this bookmark?</source>
         <translation>您確定要刪除此書籤？</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="219"/>
-        <source>Save</source>
-        <translation>儲存</translation>
-    </message>
-    <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Edit bookmark</source>
         <translation>編輯書籤</translation>
+    </message>
+    <message>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="220"/>
+        <source>Save</source>
+        <translation>儲存</translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>

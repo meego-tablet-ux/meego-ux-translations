@@ -10,6 +10,22 @@
         <translation>MeeGo</translation>
     </message>
     <message>
+        <location filename="id" line="496379237"/>
+        <source>Do you want MeeGo browser to save your password?</source>
+        <extracomment>IDS_PASSWORD_MANAGER_SAVE_PASSWORD_PROMPT
+- description: Info bar message to save a password
+</extracomment>
+        <translation/>
+    </message>
+    <message>
+        <location filename="id" line="311677227"/>
+        <source>Copyright © 2010-2011 MeeGo. All Rights Reserved.</source>
+        <extracomment>IDS_ABOUT_VERSION_COPYRIGHT
+- description: Copyright information on the about pages
+</extracomment>
+        <translation/>
+    </message>
+    <message>
         <location filename="id" line="-1572705952"/>
         <source>MeeGo browser isn&apos;t your default browser.</source>
         <extracomment>IDS_DEFAULT_BROWSER_INFOBAR_SHORT_TEXT
@@ -35,14 +51,6 @@ IDS_SXS_SHORTCUT_NAME
 </extracomment>
         <translation>Navegador MeeGo</translation>
     </message>
-    <message>
-        <location filename="id" line="-1008283151"/>
-        <source>Copyright © 2010 MeeGo. All Rights Reserved.</source>
-        <extracomment>IDS_ABOUT_VERSION_COPYRIGHT
-- description: Copyright information on the about pages
-</extracomment>
-        <translation>Copyright © 2010 MeeGo. Todos los derechos reservados.</translation>
-    </message>
 </context>
 <context>
     <name>AddAttachmentView</name>
@@ -59,30 +67,35 @@ IDS_SXS_SHORTCUT_NAME
 </context><context>
     <name>BookmarkList</name>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="205"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="199"/>
+        <source>Delete bookmark</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="200"/>
         <source>Delete</source>
         <translation>Eliminar</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="206"/>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="220"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="203"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="207"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="205"/>
         <source>Are you sure you want to delete this bookmark?</source>
         <translation>¿Está seguro de querer borrar este marcador?</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="219"/>
-        <source>Save</source>
-        <translation>Guardar</translation>
-    </message>
-    <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Edit bookmark</source>
         <translation>Editar marcador</translation>
+    </message>
+    <message>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="220"/>
+        <source>Save</source>
+        <translation>Guardar</translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>

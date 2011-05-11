@@ -3,15 +3,15 @@
     <name>photospanel</name>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="53"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="217"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="218"/>
         <source>Recently viewed</source>
         <translation>最近檢視</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="54"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="263"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="264"/>
         <source>Albums</source>
-        <translation>專輯</translation>
+        <translation>相簿</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="78"/>
@@ -24,39 +24,44 @@
         <translation>相片設定</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="126"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
+        <source>Photos panel content</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="127"/>
         <source>See your photos.</source>
         <translation>觀賞相片。</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="135"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="136"/>
         <source>Open Photos!</source>
         <translation>開啟相片！</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="156"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="158"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="187"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="190"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="157"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="159"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="188"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="191"/>
         <source>Open</source>
         <translation>開啟</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="156"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="165"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="157"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="166"/>
         <source>Share</source>
         <translation>分享</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="156"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="162"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="187"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="194"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="157"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="163"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="188"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="195"/>
         <source>Hide</source>
         <translation>隱藏</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="156"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="157"/>
         <source>Set as background</source>
         <translation>設定為背景</translation>
     </message>

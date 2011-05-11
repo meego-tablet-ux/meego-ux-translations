@@ -64,7 +64,7 @@
     <message>
         <location filename="../../InformationDialog.qml" line="82"/>
         <source>OK</source>
-        <translation/>
+        <translation>確定</translation>
     </message>
 </context>
 <context>
@@ -77,60 +77,60 @@
     <message>
         <location filename="../../NoteButton.qml" line="118"/>
         <source>Add some comments here</source>
-        <translation>在此處新增註解</translation>
+        <translation>在此處加入一些註解</translation>
     </message>
 </context>
 <context>
     <name>NoteDetail</name>
     <message>
-        <location filename="../../NoteDetail.qml" line="16"/>
+        <location filename="../../NoteDetail.qml" line="15"/>
         <source>Everyday Notes (default)</source>
         <translation>每日備註 (預設)</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="17"/>
+        <location filename="../../NoteDetail.qml" line="16"/>
         <source>Note name...</source>
         <translation>備註名稱...</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="36"/>
+        <location filename="../../NoteDetail.qml" line="32"/>
         <source>Save</source>
         <translation>儲存</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="36"/>
+        <location filename="../../NoteDetail.qml" line="32"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="71"/>
+        <location filename="../../NoteDetail.qml" line="69"/>
         <source>Test Notebook Name</source>
-        <translation>測試筆記簿名稱</translation>
+        <translation>測試記事本名稱</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="99"/>
+        <location filename="../../NoteDetail.qml" line="97"/>
         <source>Start typing a new note.</source>
         <translation>開始輸入新的備註。</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="122"/>
+        <location filename="../../NoteDetail.qml" line="120"/>
         <source>Yes</source>
         <translation>是</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="123"/>
+        <location filename="../../NoteDetail.qml" line="121"/>
         <source>No</source>
         <translation>否</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="124"/>
+        <location filename="../../NoteDetail.qml" line="122"/>
         <source>Delete?</source>
         <translation>刪除？</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="127"/>
+        <location filename="../../NoteDetail.qml" line="125"/>
         <source>Do you want to Delete this note?</source>
-        <translation/>
+        <translation>您想要刪除這個備註嗎？</translation>
     </message>
 </context>
 <context>
@@ -143,250 +143,303 @@
     <message>
         <location filename="../../NotebookSelector.qml" line="107"/>
         <source>&lt;b&gt;Pick a notebook&lt;/b&gt;</source>
-        <translation>&lt;b&gt;選取筆記簿&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;選取記事本&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
     <name>NotebooksView</name>
     <message>
+        <location filename="../../NotebooksView.qml" line="16"/>
         <location filename="../../NotebooksView.qml" line="17"/>
-        <location filename="../../NotebooksView.qml" line="18"/>
         <source>Everyday Notes (default)</source>
         <translation>每日備註 (預設)</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="33"/>
-        <location filename="../../NotebooksView.qml" line="35"/>
+        <location filename="../../NotebooksView.qml" line="63"/>
+        <location filename="../../NotebooksView.qml" line="65"/>
         <source>New Notebook</source>
-        <translation>新筆記簿</translation>
+        <translation>新記事本</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="35"/>
+        <location filename="../../NotebooksView.qml" line="65"/>
         <source>Select Multiple</source>
         <translation>多重選取</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="62"/>
-        <location filename="../../NotebooksView.qml" line="98"/>
+        <location filename="../../NotebooksView.qml" line="83"/>
+        <source>View by:</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="89"/>
+        <source>All</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="89"/>
+        <source>A-Z</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="117"/>
+        <location filename="../../NotebooksView.qml" line="153"/>
         <source>%1 Note</source>
         <translation>%1 個備註</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="64"/>
-        <location filename="../../NotebooksView.qml" line="100"/>
+        <location filename="../../NotebooksView.qml" line="119"/>
+        <location filename="../../NotebooksView.qml" line="155"/>
         <source>%1 Notes</source>
         <translation>%1 個備註</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="185"/>
-        <location filename="../../NotebooksView.qml" line="224"/>
-        <location filename="../../NotebooksView.qml" line="315"/>
+        <location filename="../../NotebooksView.qml" line="240"/>
+        <location filename="../../NotebooksView.qml" line="279"/>
+        <location filename="../../NotebooksView.qml" line="375"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="200"/>
-        <location filename="../../NotebooksView.qml" line="281"/>
+        <location filename="../../NotebooksView.qml" line="255"/>
+        <location filename="../../NotebooksView.qml" line="341"/>
+        <location filename="../../NotebooksView.qml" line="440"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="222"/>
+        <location filename="../../NotebooksView.qml" line="277"/>
         <source>Open</source>
         <translation>開啟</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="223"/>
+        <location filename="../../NotebooksView.qml" line="278"/>
         <source>Email</source>
         <translation>電子郵件</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="279"/>
-        <source>Create a new Notebook</source>
-        <translation>建立新的筆記簿</translation>
+        <location filename="../../NotebooksView.qml" line="280"/>
+        <source>Rename</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="280"/>
+        <location filename="../../NotebooksView.qml" line="339"/>
+        <source>Create a new Notebook</source>
+        <translation>建立新的記事本</translation>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="340"/>
         <source>Create</source>
         <translation>建立</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="282"/>
+        <location filename="../../NotebooksView.qml" line="342"/>
         <source>Notebook name</source>
-        <translation>筆記簿名稱</translation>
+        <translation>記事本名稱</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="317"/>
+        <location filename="../../NotebooksView.qml" line="353"/>
+        <location filename="../../NotebooksView.qml" line="453"/>
+        <source>A NoteBook &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="377"/>
         <source>Are you sure you want to delete these %1 notebooks?</source>
-        <translation/>
+        <translation>您確定要刪除這 %1 本記事本？</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="318"/>
+        <location filename="../../NotebooksView.qml" line="378"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
-        <translation/>
+        <translation>您確定要刪除「%1」？</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="349"/>
+        <location filename="../../NotebooksView.qml" line="409"/>
+        <location filename="../../NotebooksView.qml" line="439"/>
         <source>OK</source>
         <translation>確定</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="350"/>
+        <location filename="../../NotebooksView.qml" line="410"/>
         <source>Notebooks deleted</source>
-        <translation>筆記簿已刪除</translation>
+        <translation>記事本已刪除</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="350"/>
+        <location filename="../../NotebooksView.qml" line="410"/>
         <source>Notebook deleted</source>
-        <translation>筆記簿已經刪除</translation>
+        <translation>記事本已經刪除</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="353"/>
+        <location filename="../../NotebooksView.qml" line="413"/>
         <source>&quot;%1&quot; notebooks have been deleted</source>
-        <translation/>
+        <translation>「%1」記事本已經被刪除</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="355"/>
-        <location filename="../../NotebooksView.qml" line="357"/>
+        <location filename="../../NotebooksView.qml" line="415"/>
+        <location filename="../../NotebooksView.qml" line="417"/>
         <source>&quot;%1&quot; has been deleted</source>
+        <translation>「%1」已經被刪除</translation>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="441"/>
+        <source>Rename NoteBook</source>
         <translation/>
     </message>
 </context>
 <context>
     <name>NotesView</name>
     <message>
-        <location filename="../../NotesView.qml" line="41"/>
-        <location filename="../../NotesView.qml" line="43"/>
+        <location filename="../../NotesView.qml" line="51"/>
+        <location filename="../../NotesView.qml" line="53"/>
         <source>New Note</source>
         <translation>新備註</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="43"/>
+        <location filename="../../NotesView.qml" line="53"/>
         <source>Select Multiple</source>
         <translation>多重選取</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="80"/>
-        <source>Test Notebook Name</source>
-        <translation>測試筆記簿名稱</translation>
+        <location filename="../../NotesView.qml" line="71"/>
+        <source>View by:</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="334"/>
-        <location filename="../../NotesView.qml" line="376"/>
-        <location filename="../../NotesView.qml" line="534"/>
+        <location filename="../../NotesView.qml" line="77"/>
+        <source>All</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="77"/>
+        <source>A-Z</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="114"/>
+        <source>Test Notebook Name</source>
+        <translation>測試記事本名稱</translation>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="368"/>
+        <location filename="../../NotesView.qml" line="410"/>
+        <location filename="../../NotesView.qml" line="568"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="349"/>
-        <location filename="../../NotesView.qml" line="498"/>
-        <location filename="../../NotesView.qml" line="590"/>
+        <location filename="../../NotesView.qml" line="383"/>
+        <location filename="../../NotesView.qml" line="532"/>
+        <location filename="../../NotesView.qml" line="624"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="373"/>
+        <location filename="../../NotesView.qml" line="407"/>
         <source>Open</source>
         <translation>開啟</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="374"/>
-        <location filename="../../NotesView.qml" line="398"/>
+        <location filename="../../NotesView.qml" line="408"/>
+        <location filename="../../NotesView.qml" line="432"/>
         <source>Email</source>
-        <translation/>
+        <translation>電子郵件</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="375"/>
+        <location filename="../../NotesView.qml" line="409"/>
         <source>Move</source>
         <translation>移動</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="377"/>
+        <location filename="../../NotesView.qml" line="411"/>
         <source>Rename</source>
         <translation>重新命名</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="409"/>
-        <location filename="../../NotesView.qml" line="570"/>
+        <location filename="../../NotesView.qml" line="443"/>
+        <location filename="../../NotesView.qml" line="604"/>
         <source>%1 notes have been deleted</source>
         <translation>已刪除 %1 個備註</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="413"/>
-        <location filename="../../NotesView.qml" line="417"/>
+        <location filename="../../NotesView.qml" line="447"/>
+        <location filename="../../NotesView.qml" line="451"/>
         <source>&quot;%1&quot; has been deleted</source>
         <translation>已刪除「%1」</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="460"/>
+        <location filename="../../NotesView.qml" line="494"/>
         <source>%1 notes have successfully been moved to &quot;%2&quot;</source>
-        <translation/>
+        <translation>%1 個備註已經成功移動至「%2」</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="464"/>
+        <location filename="../../NotesView.qml" line="498"/>
         <source>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</source>
-        <translation/>
+        <translation>「%1」已經成功移動至「%2」</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="496"/>
+        <location filename="../../NotesView.qml" line="530"/>
         <source>Create a new Note</source>
         <translation>建立新備註</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="497"/>
+        <location filename="../../NotesView.qml" line="531"/>
         <source>Create</source>
         <translation>建立</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="499"/>
+        <location filename="../../NotesView.qml" line="533"/>
         <source>Note name</source>
         <translation>備註名稱</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="537"/>
+        <location filename="../../NotesView.qml" line="544"/>
+        <source>A Note &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="571"/>
         <source>Are you sure you want to delete these %1 notes?</source>
-        <translation/>
+        <translation>您確定要刪除這 %1 本記事本？</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="538"/>
+        <location filename="../../NotesView.qml" line="572"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
-        <translation/>
+        <translation>您確定要刪除「%1」？</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="566"/>
-        <location filename="../../NotesView.qml" line="589"/>
-        <location filename="../../NotesView.qml" line="627"/>
+        <location filename="../../NotesView.qml" line="600"/>
+        <location filename="../../NotesView.qml" line="623"/>
+        <location filename="../../NotesView.qml" line="661"/>
         <source>OK</source>
         <translation>確定</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="567"/>
+        <location filename="../../NotesView.qml" line="601"/>
         <source>Notes deleted</source>
         <translation>備註已刪除</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="567"/>
+        <location filename="../../NotesView.qml" line="601"/>
         <source>Note deleted</source>
         <translation>備註已刪除</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="572"/>
-        <location filename="../../NotesView.qml" line="574"/>
+        <location filename="../../NotesView.qml" line="606"/>
+        <location filename="../../NotesView.qml" line="608"/>
         <source>%1 has been deleted</source>
         <translation>已刪除 %1</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="591"/>
+        <location filename="../../NotesView.qml" line="625"/>
         <source>Rename Note</source>
         <translation>重新命名備註</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="601"/>
+        <location filename="../../NotesView.qml" line="635"/>
         <source>%1 (Renamed Note)</source>
         <translation>%1 (重新命名的備註)</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="628"/>
+        <location filename="../../NotesView.qml" line="662"/>
         <source>Note moved</source>
         <translation>備註已移動</translation>
     </message>
@@ -401,7 +454,7 @@
     <message>
         <location filename="../../OneButtonModalDialog.qml" line="89"/>
         <source>Some text here</source>
-        <translation>此處某些文字</translation>
+        <translation>在此處輸入某些文字</translation>
     </message>
 </context>
 <context>
@@ -427,7 +480,7 @@
     <message>
         <location filename="../../ShareNote.qml" line="163"/>
         <source>Add a message</source>
-        <translation>新增訊息</translation>
+        <translation>加入訊息</translation>
     </message>
     <message>
         <location filename="../../ShareNote.qml" line="200"/>
@@ -446,27 +499,17 @@
         <location filename="../../TwoButtonsModalDialog.qml" line="152"/>
         <location filename="../../TwoButtonsModalDialog.qml" line="174"/>
         <source>%1/%2</source>
-        <translation/>
+        <translation>%1/%2</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="16"/>
+        <location filename="../../main.qml" line="15"/>
+        <location filename="../../main.qml" line="51"/>
         <location filename="../../main.qml" line="67"/>
-        <location filename="../../main.qml" line="83"/>
         <source>Notes</source>
         <translation>備註</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="22"/>
-        <source>All</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="22"/>
-        <source>Alphabetical order</source>
-        <translation/>
     </message>
 </context>
 </TS>

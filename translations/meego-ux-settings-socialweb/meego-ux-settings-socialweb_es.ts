@@ -3,8 +3,8 @@
     <name>constants</name>
     <message>
         <location filename="../../qml/constants.js" line="3"/>
-        <source>Web Accounts</source>
-        <translation>Cuentas web</translation>
+        <source>Web accounts</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
@@ -13,10 +13,6 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="6"/>
-        <source>Sign In</source>
-        <translation>Iniciar sesión</translation>
-    </message>
-    <message>
         <location filename="../../qml/constants.js" line="8"/>
         <source>Sign in</source>
         <translation>Iniciar sesión</translation>
@@ -53,8 +49,8 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="18"/>
-        <source>More Details</source>
-        <translation>Más detalles</translation>
+        <source>More details</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
@@ -73,8 +69,8 @@
     </message>
     <message>
         <location filename="../../qml/constants.js" line="23"/>
-        <source>You have successfully signed out.  Content from this service will no longer appear on this Device</source>
-        <translation>Ha salido correctamente.  El contenido de este servicio dejará de aparecer en este dispositivo</translation>
+        <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
+        <translation/>
     </message>
 </context>
 </TS>

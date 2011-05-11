@@ -4,105 +4,105 @@
     <message>
         <location filename="../../Alarm.qml" line="31"/>
         <source>On</source>
-        <translation>開啟</translation>
+        <translation>開</translation>
     </message>
     <message>
         <location filename="../../Alarm.qml" line="31"/>
         <source>Off</source>
-        <translation>關閉</translation>
+        <translation>關</translation>
     </message>
 </context>
 <context>
     <name>NewAlarmMenu</name>
     <message>
-        <location filename="../../NewAlarmMenu.qml" line="25"/>
+        <location filename="../../NewAlarmMenu.qml" line="24"/>
         <source>Mo</source>
-        <translation/>
+        <translation>一</translation>
+    </message>
+    <message>
+        <location filename="../../NewAlarmMenu.qml" line="25"/>
+        <source>Tu</source>
+        <translation>二</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="26"/>
-        <source>Tu</source>
-        <translation/>
+        <source>We</source>
+        <translation>三</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="27"/>
-        <source>We</source>
-        <translation/>
+        <source>Th</source>
+        <translation>四</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="28"/>
-        <source>Th</source>
-        <translation/>
+        <source>Fr</source>
+        <translation>五</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="29"/>
-        <source>Fr</source>
-        <translation/>
+        <source>Sa</source>
+        <translation>六</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="30"/>
-        <source>Sa</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../NewAlarmMenu.qml" line="31"/>
         <source>Su</source>
-        <translation/>
+        <translation>日</translation>
     </message>
     <message>
-        <location filename="../../NewAlarmMenu.qml" line="33"/>
+        <location filename="../../NewAlarmMenu.qml" line="32"/>
         <source>On</source>
-        <translation>開啟</translation>
+        <translation>開</translation>
+    </message>
+    <message>
+        <location filename="../../NewAlarmMenu.qml" line="32"/>
+        <source>Off</source>
+        <translation>關</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="33"/>
-        <source>Off</source>
-        <translation>關閉</translation>
-    </message>
-    <message>
-        <location filename="../../NewAlarmMenu.qml" line="34"/>
         <source>sound</source>
         <translation>音效</translation>
     </message>
     <message>
-        <location filename="../../NewAlarmMenu.qml" line="34"/>
+        <location filename="../../NewAlarmMenu.qml" line="33"/>
         <source>track</source>
-        <translation>追蹤</translation>
+        <translation>歌曲</translation>
     </message>
     <message>
-        <location filename="../../NewAlarmMenu.qml" line="352"/>
+        <location filename="../../NewAlarmMenu.qml" line="351"/>
         <source>Snooze</source>
         <translation>貪睡</translation>
     </message>
     <message>
-        <location filename="../../NewAlarmMenu.qml" line="390"/>
-        <location filename="../../NewAlarmMenu.qml" line="438"/>
+        <location filename="../../NewAlarmMenu.qml" line="389"/>
+        <location filename="../../NewAlarmMenu.qml" line="437"/>
         <source>1 Minute</source>
         <translation>1 分鐘</translation>
     </message>
     <message>
-        <location filename="../../NewAlarmMenu.qml" line="390"/>
-        <location filename="../../NewAlarmMenu.qml" line="438"/>
+        <location filename="../../NewAlarmMenu.qml" line="389"/>
+        <location filename="../../NewAlarmMenu.qml" line="437"/>
         <source>%1 Minutes</source>
         <translation>%1 分鐘</translation>
     </message>
     <message>
-        <location filename="../../NewAlarmMenu.qml" line="510"/>
+        <location filename="../../NewAlarmMenu.qml" line="509"/>
         <source>Type</source>
         <translation>類型</translation>
     </message>
     <message>
-        <location filename="../../NewAlarmMenu.qml" line="665"/>
+        <location filename="../../NewAlarmMenu.qml" line="664"/>
         <source>Sound</source>
         <translation>音效</translation>
     </message>
     <message>
-        <location filename="../../NewAlarmMenu.qml" line="884"/>
+        <location filename="../../NewAlarmMenu.qml" line="883"/>
         <source>Save</source>
         <translation>儲存</translation>
     </message>
     <message>
-        <location filename="../../NewAlarmMenu.qml" line="904"/>
+        <location filename="../../NewAlarmMenu.qml" line="902"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -110,17 +110,17 @@
 <context>
     <name>NewClockMenu</name>
     <message>
-        <location filename="../../NewClockMenu.qml" line="112"/>
+        <location filename="../../NewClockMenu.qml" line="113"/>
         <source>(GMT %1)</source>
         <translation>(GMT %1)</translation>
     </message>
     <message>
-        <location filename="../../NewClockMenu.qml" line="112"/>
+        <location filename="../../NewClockMenu.qml" line="113"/>
         <source>(GMT +%1)</source>
         <translation>(GMT +%1)</translation>
     </message>
     <message>
-        <location filename="../../NewClockMenu.qml" line="153"/>
+        <location filename="../../NewClockMenu.qml" line="154"/>
         <source>Save</source>
         <translation>儲存</translation>
     </message>
@@ -133,27 +133,27 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="17"/>
-        <location filename="../../main.qml" line="27"/>
-        <location filename="../../main.qml" line="141"/>
+        <location filename="../../main.qml" line="18"/>
+        <location filename="../../main.qml" line="28"/>
+        <location filename="../../main.qml" line="137"/>
         <source>Clocks</source>
         <translation>時鐘</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="17"/>
-        <location filename="../../main.qml" line="33"/>
+        <location filename="../../main.qml" line="18"/>
+        <location filename="../../main.qml" line="34"/>
         <source>Alarms</source>
         <translation>鬧鈴</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="59"/>
-        <source>no</source>
-        <translation>否</translation>
+        <source>yes</source>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="60"/>
-        <source>yes</source>
-        <translation>是</translation>
+        <source>no</source>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="61"/>
@@ -161,48 +161,48 @@
         <translation>您是否確定要刪除？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="148"/>
+        <location filename="../../main.qml" line="144"/>
         <source>New alarm</source>
         <translation>新鬧鐘</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="148"/>
+        <location filename="../../main.qml" line="144"/>
         <source>New clock</source>
         <translation>新時鐘</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="378"/>
+        <location filename="../../main.qml" line="374"/>
         <source>Alarm details</source>
-        <translation/>
+        <translation>鬧鈴細節</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="378"/>
+        <location filename="../../main.qml" line="374"/>
         <source>Delete alarm</source>
-        <translation/>
+        <translation>刪除鬧鈴</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="378"/>
-        <location filename="../../main.qml" line="396"/>
+        <location filename="../../main.qml" line="374"/>
+        <location filename="../../main.qml" line="392"/>
         <source>Move to top</source>
-        <translation/>
+        <translation>移動至頂端</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="387"/>
-        <location filename="../../main.qml" line="396"/>
+        <location filename="../../main.qml" line="383"/>
+        <location filename="../../main.qml" line="392"/>
         <source>Edit clock</source>
-        <translation/>
+        <translation>編輯時鐘</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="387"/>
-        <location filename="../../main.qml" line="396"/>
+        <location filename="../../main.qml" line="383"/>
+        <location filename="../../main.qml" line="392"/>
         <source>Make local time</source>
-        <translation/>
+        <translation>設為本地時間</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="387"/>
-        <location filename="../../main.qml" line="396"/>
+        <location filename="../../main.qml" line="383"/>
+        <location filename="../../main.qml" line="392"/>
         <source>Delete clock</source>
-        <translation/>
+        <translation>刪除時鐘</translation>
     </message>
 </context>
 </TS>

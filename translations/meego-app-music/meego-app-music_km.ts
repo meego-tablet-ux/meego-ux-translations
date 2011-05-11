@@ -18,23 +18,23 @@
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="50"/>
-        <source>Playlist Name</source>
-        <translation>ឈ្មោះ​បញ្ជី​ចម្រៀង</translation>
+        <source>Playlist name</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="52"/>
-        <source>Artist Name</source>
-        <translation>ឈ្មោះសិល្បករ</translation>
+        <source>Artist name</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="54"/>
-        <source>Album Name</source>
-        <translation>ឈ្មោះអាល់បុម</translation>
+        <source>Album name</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="55"/>
-        <source>Track Name</source>
-        <translation>ឈ្មោះ​ចម្រៀង</translation>
+        <source>Track name</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="70"/>
@@ -74,8 +74,8 @@
     <name>main</name>
     <message>
         <location filename="../../main.qml" line="20"/>
-        <source>Play Queue</source>
-        <translation>លេង​តាម​លំដាប់​ជួរ</translation>
+        <source>Play queue</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
@@ -104,8 +104,8 @@
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
-        <source>All Tracks</source>
-        <translation>បទ​ទាំង​អស់</translation>
+        <source>All tracks</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -129,8 +129,8 @@
     </message>
     <message>
         <location filename="../../main.qml" line="37"/>
-        <source>Open Album</source>
-        <translation>បើកអាល់បុម</translation>
+        <source>Open album</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
@@ -179,13 +179,14 @@
     </message>
     <message>
         <location filename="../../main.qml" line="49"/>
+        <location filename="../../main.qml" line="69"/>
         <source>Delete</source>
         <translation>លុប</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="50"/>
-        <source>Remove From Queue</source>
-        <translation>យកចេញពីលំដាប់</translation>
+        <source>Remove from queue</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../main.qml" line="51"/>
@@ -203,158 +204,139 @@
         <translation>លុបការចាក់តាមលំដាប់</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="55"/>
-        <source>%1 Items</source>
-        <translation>%1 របស់</translation>
+        <location filename="../../main.qml" line="54"/>
+        <source>Clear playlist</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../main.qml" line="56"/>
-        <source>%1 Album</source>
-        <translation>%1 អាល់​បុម</translation>
+        <source>%1 items</source>
+        <translation/>
     </message>
     <message>
         <location filename="../../main.qml" line="57"/>
-        <source>%1 Tracks</source>
-        <translation>%1 បទ​ចម្រៀង</translation>
+        <source>%1 album</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="59"/>
+        <location filename="../../main.qml" line="58"/>
+        <source>%1 tracks</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="60"/>
         <source>Grid</source>
         <translation>ក្រឡា</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="60"/>
+        <location filename="../../main.qml" line="61"/>
         <source>List</source>
         <translation>បញ្ជី</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="62"/>
+        <location filename="../../main.qml" line="63"/>
         <source>Alphabetically</source>
         <translation>តាមលំដាប់តួអក្សរ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="63"/>
-        <source>By Date</source>
-        <translation>តាមរយៈថ្ងៃ</translation>
+        <location filename="../../main.qml" line="64"/>
+        <source>By date</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="65"/>
+        <location filename="../../main.qml" line="66"/>
         <source>Create new playlist</source>
         <translation>បង្កើត បញ្ជី​ចម្រៀង​ថ្មី</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="66"/>
+        <location filename="../../main.qml" line="67"/>
         <source>Rename playlist</source>
         <translation>ប្ដូរឈ្មោះ បញ្ជី​ចម្រៀង</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="68"/>
-        <source>Yes, Delete</source>
-        <translation>យល់ព្រម លុប</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="69"/>
+        <location filename="../../main.qml" line="70"/>
         <source>Cancel</source>
         <translation>បោះ​បង់</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="70"/>
+        <location filename="../../main.qml" line="71"/>
         <source>Type playlist name here.</source>
         <translation>បញ្ចូល​ឈ្មោះ​បញ្ជី​ចម្រៀង នៅ​ទីនេះ។</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="71"/>
-        <source>Select Multiple Songs</source>
-        <translation>រើស​បទ​ចម្រៀង​ចំនួន​ច្រើន</translation>
+        <location filename="../../main.qml" line="72"/>
+        <source>Select multiple songs</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="73"/>
+        <location filename="../../main.qml" line="74"/>
         <source>Where is all the music?</source>
         <translation>តន្ត្រី​ទាំង​អស់​នៅ​ទីណា?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="74"/>
+        <location filename="../../main.qml" line="75"/>
         <source>Buy, download or copy your music onto your table, then you can enjoy listening to it from here.</source>
         <translation>ទិញ ឬ ទាញ​យក ឬ ចម្លង​តន្ត្រី​របស់​អ្នក​ទៅ​ក្នុង​តារាង, បន្ទាប់​មក​អ្នក​នឹង​អាច​ស្ដាប់​បទ​ទាំង​នេះ​ពី​ទីនេះ​ទៅ។</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="497"/>
+        <location filename="../../main.qml" line="496"/>
         <source>Artist name</source>
         <translation>ឈ្មោះសិល្បករ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="504"/>
+        <location filename="../../main.qml" line="503"/>
         <source>Track name</source>
         <translation>ឈ្មោះ​បទ​ចម្រៀង</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="510"/>
+        <location filename="../../main.qml" line="509"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>ប្រសិនបើលុបចោល វាមិននៅក្នុងឧបករណ៍របស់លោកអ្នកទៀតទេ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="522"/>
+        <location filename="../../main.qml" line="521"/>
         <source>Permanently delete this song?</source>
         <translation>លុប​បទ​ចម្រៀង​នេះ​ចោល​ទាំង​ស្រុង?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="522"/>
+        <location filename="../../main.qml" line="521"/>
         <source>Permanently delete these %1 songs?</source>
         <translation>លុប​បទ​ចម្រៀង​ទាំង %1 នេះ​ចោល​ទាំង​ស្រុង?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="535"/>
+        <location filename="../../main.qml" line="534"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>ប្រសិនបើលុបចោល វាមិននៅក្នុងឧបករណ៍របស់លោកអ្នកទៀតទេ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="580"/>
-        <location filename="../../main.qml" line="623"/>
-        <source>Invalid Characters: %1</source>
-        <translation>តួ​អក្សរ​មិន​ត្រឹម​ត្រូវ: %1</translation>
+        <location filename="../../main.qml" line="578"/>
+        <location filename="../../main.qml" line="621"/>
+        <source>Invalid characters: %1</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="908"/>
-        <location filename="../../main.qml" line="1041"/>
-        <location filename="../../main.qml" line="1151"/>
-        <location filename="../../main.qml" line="1273"/>
-        <location filename="../../main.qml" line="1523"/>
-        <source>View By</source>
-        <translation>មើលតាមរយៈ</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="936"/>
-        <source>Actions</source>
-        <translation>សកម្មភាព</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1415"/>
-        <source>Sort</source>
-        <translation>តម្រៀប</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1654"/>
-        <location filename="../../main.qml" line="1947"/>
+        <location filename="../../main.qml" line="1636"/>
+        <location filename="../../main.qml" line="1938"/>
         <source>%1 songs</source>
         <translation>%1 ចម្រៀង</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="1666"/>
-        <location filename="../../main.qml" line="1959"/>
-        <source>%1 Seconds</source>
-        <translation>%1 វិនាទី</translation>
+        <location filename="../../main.qml" line="1648"/>
+        <location filename="../../main.qml" line="1950"/>
+        <source>%1 seconds</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="1667"/>
-        <location filename="../../main.qml" line="1960"/>
-        <source>%1 Minutes</source>
-        <translation>%1 នាទី</translation>
+        <location filename="../../main.qml" line="1649"/>
+        <location filename="../../main.qml" line="1951"/>
+        <source>%1 minutes</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="1668"/>
-        <location filename="../../main.qml" line="1961"/>
-        <source>%1 Hours</source>
-        <translation>%1 ម៉ោង</translation>
+        <location filename="../../main.qml" line="1650"/>
+        <location filename="../../main.qml" line="1952"/>
+        <source>%1 hours</source>
+        <translation/>
     </message>
 </context>
 </TS>
