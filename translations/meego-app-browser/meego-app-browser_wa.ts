@@ -15,7 +15,7 @@
         <extracomment>IDS_PASSWORD_MANAGER_SAVE_PASSWORD_PROMPT
 - description: Info bar message to save a password
 </extracomment>
-        <translation/>
+        <translation>Voloz vs kel betchteu da MeeGo si sovegne di vos screts ?</translation>
     </message>
     <message>
         <location filename="id" line="311677227"/>
@@ -23,7 +23,7 @@
         <extracomment>IDS_ABOUT_VERSION_COPYRIGHT
 - description: Copyright information on the about pages
 </extracomment>
-        <translation/>
+        <translation>Copyright © 2010-2011 MeeGo. Tos les abondroets rizervés.</translation>
     </message>
     <message>
         <location filename="id" line="-1572705952"/>
@@ -69,7 +69,7 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="199"/>
         <source>Delete bookmark</source>
-        <translation/>
+        <translation>Disfacer rimarke</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="200"/>

@@ -137,7 +137,7 @@
     <message>
         <location filename="../../AddAFriend.qml" line="52"/>
         <source>Friend&apos;s username</source>
-        <translation/>
+        <translation>ឈ្មោះ​សមាជិក​របស់​មិត្ត</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="73"/>
@@ -285,7 +285,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="263"/>
         <source>Invalidated text channel  %1 - %2 - %3</source>
-        <translation/>
+        <translation>បណ្ដាញ​អក្សរ​មិន​ត្រឹម​ត្រូវ  %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="268"/>
@@ -341,7 +341,7 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="239"/>
         <source>Your Status:</source>
-        <translation/>
+        <translation>ស្ថានភាព​របស់​អ្នក៖</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="315"/>
@@ -357,12 +357,12 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="355"/>
         <source>Change display name</source>
-        <translation/>
+        <translation>ប្ដូរ​ឈ្មោះ​បង្ហាញ</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="446"/>
         <source>Display name</source>
-        <translation/>
+        <translation>ឈ្មោះ​បង្ហាញ</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="480"/>
@@ -400,42 +400,42 @@
     <message>
         <location filename="../../ContactDelegate.qml" line="83"/>
         <source>Return to chat</source>
-        <translation/>
+        <translation>ត្រឡប់​ទៅ​ការ​ជជែគ</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="84"/>
         <source>Open chat</source>
-        <translation/>
+        <translation>បើក​ការ​ជជែគ</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="96"/>
         <source>Call</source>
-        <translation/>
+        <translation>ហៅ</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="108"/>
         <source>Video call</source>
-        <translation/>
+        <translation>ជជែក​តាម​វីដេអូ</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="120"/>
         <source>Unblock</source>
-        <translation/>
+        <translation>លែង​រារាំង</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="121"/>
         <source>Block</source>
-        <translation/>
+        <translation>រារាំង</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="137"/>
         <source>End chat</source>
-        <translation/>
+        <translation>បញ្ចប់​ការ​ជជែក</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="148"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>លុប​ឈ្មោះ​ទាក់​ទង</translation>
     </message>
 </context>
 <context>
@@ -461,32 +461,32 @@
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="129"/>
         <source>Available</source>
-        <translation/>
+        <translation>នៅ​លើ​បណ្ដាញ</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="131"/>
         <source>Busy</source>
-        <translation/>
+        <translation>រវល់</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="133"/>
         <source>Away</source>
-        <translation/>
+        <translation>បាន​ទៅ​ឆ្ងាយ</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="135"/>
         <source>Extended away</source>
-        <translation/>
+        <translation>បាន​ទៅ​ឆ្ងាយ​យូរ​ហើយ</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="137"/>
         <source>Offline</source>
-        <translation/>
+        <translation>នៅ​ក្រៅ​បណ្ដាញ</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="139"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>មើល​មិន​ឃើញ</translation>
     </message>
 </context>
 <context>
@@ -494,7 +494,7 @@
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="45"/>
         <source>Friend request from</source>
-        <translation/>
+        <translation>សំណើសុំ​រាប់​អាន​ពី</translation>
     </message>
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="73"/>
@@ -512,7 +512,7 @@
     <message>
         <location filename="../../ContactsScreenContent.qml" line="164"/>
         <source>Add a friend</source>
-        <translation/>
+        <translation>បន្ថែម​ជា​មិត្ត</translation>
     </message>
 </context>
 <context>
@@ -526,7 +526,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="136"/>
         <source>Invalidated file transfer channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>បណ្ដាញ​ឧបករណ៍​បញ្ជូន​ឯកសារ​មិន​បាន​ការ​សម្រាប់​ឈ្មោះ​ទាក់​ទង %1 - %2 - %3</translation>
     </message>
 </context>
 <context>
@@ -632,7 +632,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="376"/>
         <source>Setting up call to %1</source>
-        <translation/>
+        <translation>កំពុង​រៀប​ចំ​ហៅ​ទៅ %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="379"/>
@@ -647,7 +647,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="385"/>
         <source>Call with %1 on hold</source>
-        <translation/>
+        <translation>ផ្អាក​ការ​ហៅ​ជាមួយ %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="445"/>
@@ -769,7 +769,7 @@
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="51"/>
         <source>Require encryption</source>
-        <translation/>
+        <translation>ត្រូវ​ការ​ការ​អ៊ីនគ្រីប</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="64"/>
@@ -813,12 +813,12 @@
     <message>
         <location filename="../../MessageContactDelegate.qml" line="50"/>
         <source>Private chat</source>
-        <translation/>
+        <translation>ការ​ជជែក​ឯកជន</translation>
     </message>
     <message>
         <location filename="../../MessageContactDelegate.qml" line="54"/>
         <source>Add to contacts</source>
-        <translation/>
+        <translation>បន្ថែម​ទៅ​បញ្ជី​ឈ្មោះ​ទាក់​ទង</translation>
     </message>
 </context>
 <context>
@@ -903,7 +903,7 @@
     <message>
         <location filename="../../MessageScreenContent.qml" line="791"/>
         <source>Swap camera</source>
-        <translation/>
+        <translation>ដោះ​ដូរ​ម៉ាស៊ីន​ថត</translation>
     </message>
 </context>
 <context>
@@ -911,7 +911,7 @@
     <message>
         <location filename="../../NoFriends.qml" line="27"/>
         <source>You haven&apos;t added any friends yet</source>
-        <translation/>
+        <translation>អ្នក​មិន​ទាន់​បានបន្ថែម​មិត្ត​ណា​ម្នាក់​ទេ។</translation>
     </message>
 </context>
 <context>
@@ -996,7 +996,7 @@
     <message>
         <location filename="../../SendFileView.qml" line="133"/>
         <source>Select contact</source>
-        <translation/>
+        <translation>រើស​ឈ្មោះ​ទាក់​ទង</translation>
     </message>
 </context>
 <context>
@@ -1022,32 +1022,32 @@
     <message>
         <location filename="../../main.qml" line="369"/>
         <source>Available</source>
-        <translation/>
+        <translation>នៅ​លើ​បណ្ដាញ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="371"/>
         <source>Busy</source>
-        <translation/>
+        <translation>រវល់</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="373"/>
         <source>Away</source>
-        <translation/>
+        <translation>បាន​ទៅ​ឆ្ងាយ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="375"/>
         <source>Extended away</source>
-        <translation/>
+        <translation>បាន​ទៅ​ឆ្ងាយ​យូរ​ហើយ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="377"/>
         <source>Offline</source>
-        <translation/>
+        <translation>នៅ​ក្រៅ​បណ្ដាញ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="379"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>មើល​មិន​ឃើញ</translation>
     </message>
 </context>
 <context>

@@ -4,7 +4,7 @@
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="26"/>
         <source>No reminder</source>
-        <translation/>
+        <translation>Χωρίς υπενθύμιση</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="27"/>
@@ -49,7 +49,7 @@
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="35"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Άλλο...</translation>
     </message>
 </context>
 <context>
@@ -70,7 +70,7 @@
         <location filename="../../CalendarDayView.qml" line="415"/>
         <source>%1 more events exist</source>
         <comment>Events count</comment>
-        <translation/>
+        <translation>Υπάρχουν ακόμη %1 γεγονότα</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="567"/>
@@ -110,7 +110,7 @@
         <location filename="../../CalendarListView.qml" line="196"/>
         <source>%1, %2 - %3</source>
         <comment>Event StartDate, StartTime - EndTime</comment>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
 </context>
 <context>
@@ -123,7 +123,7 @@
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="124"/>
         <source>%1 more events</source>
-        <translation/>
+        <translation>Υπάρχουν ακόμη %1 γεγονότα</translation>
     </message>
 </context>
 <context>
@@ -171,13 +171,13 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="314"/>
         <source>All Day</source>
-        <translation/>
+        <translation>Όλη μέρα</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="357"/>
         <source>%1 more events exist</source>
         <comment>Events count</comment>
-        <translation/>
+        <translation>Υπάρχουν ακόμη %1 γεγονότα</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="519"/>
@@ -191,17 +191,17 @@
     <message>
         <location filename="../../EventActionsPopup.qml" line="73"/>
         <source>Event details</source>
-        <translation/>
+        <translation>Λεπτομέρειες γεγονότος</translation>
     </message>
     <message>
         <location filename="../../EventActionsPopup.qml" line="73"/>
         <source>Edit event</source>
-        <translation/>
+        <translation>Επεξεργασία γεγονότος</translation>
     </message>
     <message>
         <location filename="../../EventActionsPopup.qml" line="73"/>
         <source>Delete event</source>
-        <translation/>
+        <translation>Διαγραφή γεγονότος</translation>
     </message>
 </context>
 <context>
@@ -209,7 +209,7 @@
     <message>
         <location filename="../../EventDetailsView.qml" line="192"/>
         <source>Reminder: </source>
-        <translation/>
+        <translation>Υπενθύμιση: </translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="238"/>
@@ -219,7 +219,7 @@
     <message>
         <location filename="../../EventDetailsView.qml" line="291"/>
         <source>Back</source>
-        <translation/>
+        <translation>Πίσω</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="305"/>
@@ -245,7 +245,7 @@
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="60"/>
         <source>Selected events</source>
-        <translation/>
+        <translation>Επιλεγμένα γεγονότα</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="127"/>
@@ -256,13 +256,13 @@
         <location filename="../../MultipleEventsPopup.qml" line="127"/>
         <source>%1 - %2</source>
         <comment>StartTime - EndTime</comment>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="156"/>
         <source>%1, %2</source>
         <comment>Event StartDate, Start and End Time String</comment>
-        <translation/>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="185"/>
@@ -275,7 +275,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="87"/>
         <source>Check the date and time inputs</source>
-        <translation/>
+        <translation>Ελέγξτε την ημερομηνία και την ώρα που έχετε εισάγει</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="158"/>
@@ -290,17 +290,17 @@
     <message>
         <location filename="../../NewEventView.qml" line="173"/>
         <source>Please check the date and time entered</source>
-        <translation/>
+        <translation>Παρακαλώ ελέγξτε την ημερομηνία και την ώρα που έχετε εισάγει</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="248"/>
         <source>New event</source>
-        <translation/>
+        <translation>Νέο γεγονός</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="532"/>
         <source>Event title</source>
-        <translation/>
+        <translation>Τίτλος γεγονότος</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="602"/>
@@ -335,7 +335,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="1003"/>
         <source>Repeat</source>
-        <translation/>
+        <translation>Επανάληψη</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1029"/>
@@ -346,33 +346,33 @@
     <message>
         <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every day</source>
-        <translation/>
+        <translation>Κάθε μέρα</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every week</source>
-        <translation/>
+        <translation>Κάθε εβδομάδα</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>Κάθε 2 εβδομάδες</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every month</source>
-        <translation/>
+        <translation>Κάθε μήνα</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every year</source>
-        <translation/>
+        <translation>Κάθε χρόνο</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1032"/>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Άλλο...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1088"/>
@@ -392,53 +392,53 @@
     <message>
         <location filename="../../NewEventView.qml" line="1194"/>
         <source>Reminders</source>
-        <translation/>
+        <translation>Υπενθυμίσεις</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1220"/>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>No reminder</source>
-        <translation/>
+        <translation>Καμία υπενθύμιση</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 λεπτά πριν</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 λεπτά πριν</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 λεπτά πριν</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 ώρα πριν</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 ώρες πριν</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 ημέρα πριν</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 ημέρες πριν</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 εβδομάδα πριν</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1269"/>
@@ -453,7 +453,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="1374"/>
         <source>Delete event</source>
-        <translation/>
+        <translation>Διαγραφή γεγονότος</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1470"/>
@@ -532,7 +532,7 @@
     <message>
         <location filename="../../lib/utilmethods.cpp" line="275"/>
         <source>No reminder</source>
-        <translation/>
+        <translation>Καμία υπενθύμιση</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="276"/>
@@ -657,7 +657,7 @@
     <message>
         <location filename="../../main.qml" line="250"/>
         <source>%1, %2</source>
-        <translation/>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="250"/>
@@ -672,7 +672,7 @@
     <message>
         <location filename="../../main.qml" line="323"/>
         <source>Delete event?</source>
-        <translation/>
+        <translation>Διαγραφή γεγονότος;</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="327"/>
@@ -687,22 +687,22 @@
     <message>
         <location filename="../../main.qml" line="339"/>
         <source>Are you sure you want to delete this event?</source>
-        <translation/>
+        <translation>Είστε σίγουρος ότι θέλετε να διαγράψετε αυτό το γεγονός;</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="363"/>
         <source>Create new event</source>
-        <translation/>
+        <translation>Δημιουργία νέου γεγονότος</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="363"/>
         <source>Go to today</source>
-        <translation>Μετάβαση σε σήμερα</translation>
+        <translation>Μετάβαση στο σήμερα</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="363"/>
         <source>Go to date</source>
-        <translation/>
+        <translation>Πήγαινε στην ημερομηνία</translation>
     </message>
 </context>
 </TS>

@@ -26,7 +26,7 @@
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="125"/>
         <source>Web panel content</source>
-        <translation/>
+        <translation>Web panel content</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="155"/>

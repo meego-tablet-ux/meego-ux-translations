@@ -72,12 +72,12 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="67"/>
         <source>Unfavorite</source>
-        <translation>Unfavorite</translation>
+        <translation>Unfavourite</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="68"/>
         <source>Favorite</source>
-        <translation>Favorite</translation>
+        <translation>Favourite</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="69"/>
@@ -131,7 +131,7 @@
     <message>
         <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Sort by first name</source>
-        <translation>Sort by given name</translation>
+        <translation>Sort by first name</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="21"/>
@@ -141,7 +141,7 @@
     <message>
         <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Display by first name</source>
-        <translation>Display by given name</translation>
+        <translation>Display by first name</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="23"/>
@@ -200,7 +200,7 @@
         <location filename="../../DetailViewPortrait.qml" line="39"/>
         <location filename="../../DetailViewPortrait.qml" line="65"/>
         <source>Favorite</source>
-        <translation>Favorite</translation>
+        <translation>Favourite</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="41"/>
@@ -210,7 +210,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="42"/>
         <source>Last name</source>
-        <translation>Last name</translation>
+        <translation>Surname</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="43"/>
@@ -310,7 +310,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="66"/>
         <source>Unfavorite</source>
-        <translation>Unfavorite</translation>
+        <translation>Unfavourite</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="83"/>
@@ -353,7 +353,7 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="37"/>
         <source>Last name</source>
-        <translation>Last name</translation>
+        <translation>Surname</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="38"/>
@@ -383,12 +383,12 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="45"/>
         <source>Favorite</source>
-        <translation>Favorite</translation>
+        <translation>Favourite</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="47"/>
         <source>Unfavorite</source>
-        <translation>Unfavorite</translation>
+        <translation>Unfavourite</translation>
     </message>
 </context>
 <context>
@@ -558,7 +558,7 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="34"/>
         <source>Last name</source>
-        <translation>Last name</translation>
+        <translation>Surname</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="35"/>
@@ -588,12 +588,12 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="43"/>
         <source>Unfavorite</source>
-        <translation>Unfavorite</translation>
+        <translation>Unfavourite</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="44"/>
         <source>Favorite</source>
-        <translation>Favorite</translation>
+        <translation>Favourite</translation>
     </message>
 </context>
 <context>
@@ -674,7 +674,7 @@
     <message>
         <location filename="../../WebPageEditWidget.qml" line="29"/>
         <source>Favorite</source>
-        <translation>Favorite</translation>
+        <translation>Favourite</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="30"/>
@@ -709,7 +709,7 @@
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>Favorites</source>
-        <translation>Favorites</translation>
+        <translation>Favourites</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="27"/>
@@ -734,7 +734,7 @@
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Favorite</source>
-        <translation>Favorite</translation>
+        <translation>Favourite</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="33"/>

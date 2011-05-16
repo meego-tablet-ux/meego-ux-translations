@@ -9,7 +9,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="73"/>
         <source>Panels</source>
-        <translation/>
+        <translation>面板</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="77"/>

@@ -26,7 +26,7 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
         <source>Photos panel content</source>
-        <translation/>
+        <translation>មាតិកា​បន្ទះ​រូបភាព</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="127"/>

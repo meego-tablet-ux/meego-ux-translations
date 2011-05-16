@@ -26,7 +26,7 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="99"/>
         <source>Music panel content</source>
-        <translation/>
+        <translation>Obsah panelu pro hudbu</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="157"/>

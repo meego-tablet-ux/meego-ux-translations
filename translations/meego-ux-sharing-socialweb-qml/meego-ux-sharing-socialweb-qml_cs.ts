@@ -63,7 +63,7 @@
         <location filename="../../qml/CreateCollection.qml" line="145"/>
         <location filename="../../qml/CreateCollection.qml" line="232"/>
         <source>Collection creation: General error</source>
-        <translation/>
+        <translation>Vytvoření sbírky: Obecná chyba</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="152"/>
@@ -96,7 +96,7 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="32"/>
         <source>No album</source>
-        <translation/>
+        <translation>Žádné album</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="218"/>
@@ -196,17 +196,17 @@
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="55"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>Pouze ty (soukromé)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="85"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>Tvoji přátelé</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="117"/>
         <source>Your family</source>
-        <translation/>
+        <translation>Tvoje rodina</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="151"/>
@@ -234,17 +234,17 @@
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="55"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>Pouze ty (soukromé)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="85"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>Tvoji přátelé</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="117"/>
         <source>Your family</source>
-        <translation/>
+        <translation>Tvoje rodina</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="151"/>
@@ -272,17 +272,17 @@
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="55"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>Pouze ty (soukromé)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="85"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>Tvoji přátelé</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="117"/>
         <source>Your family</source>
-        <translation/>
+        <translation>Tvoje rodina</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="151"/>
@@ -310,17 +310,17 @@
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="55"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>Pouze ty (soukromé)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="85"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>Tvoji přátelé</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="117"/>
         <source>Your family</source>
-        <translation/>
+        <translation>Tvoje rodina</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="151"/>

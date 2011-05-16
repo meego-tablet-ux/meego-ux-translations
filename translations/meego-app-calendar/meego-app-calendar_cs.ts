@@ -110,7 +110,7 @@
         <location filename="../../CalendarListView.qml" line="196"/>
         <source>%1, %2 - %3</source>
         <comment>Event StartDate, StartTime - EndTime</comment>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
 </context>
 <context>
@@ -256,13 +256,13 @@
         <location filename="../../MultipleEventsPopup.qml" line="127"/>
         <source>%1 - %2</source>
         <comment>StartTime - EndTime</comment>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="156"/>
         <source>%1, %2</source>
         <comment>Event StartDate, Start and End Time String</comment>
-        <translation/>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="185"/>
@@ -658,7 +658,7 @@ Zrušit</translation>
     <message>
         <location filename="../../main.qml" line="250"/>
         <source>%1, %2</source>
-        <translation/>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="250"/>

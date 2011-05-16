@@ -4,7 +4,7 @@
     <message>
         <location filename="../../qml/constants.js" line="3"/>
         <source>Web accounts</source>
-        <translation/>
+        <translation>網路帳戶</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
@@ -50,7 +50,7 @@
     <message>
         <location filename="../../qml/constants.js" line="18"/>
         <source>More details</source>
-        <translation/>
+        <translation>更多細節</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="../../qml/constants.js" line="23"/>
         <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
-        <translation/>
+        <translation>您已經成功登出。此服務的內容不會再出現於此裝置上</translation>
     </message>
 </context>
 </TS>

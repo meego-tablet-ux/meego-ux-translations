@@ -110,7 +110,7 @@
         <location filename="../../CalendarListView.qml" line="196"/>
         <source>%1, %2 - %3</source>
         <comment>Event StartDate, StartTime - EndTime</comment>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
 </context>
 <context>
@@ -123,7 +123,7 @@
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="124"/>
         <source>%1 more events</source>
-        <translation/>
+        <translation>%1 acara lagi</translation>
     </message>
 </context>
 <context>
@@ -171,7 +171,7 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="314"/>
         <source>All Day</source>
-        <translation/>
+        <translation>Seharian</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="357"/>
@@ -256,13 +256,13 @@
         <location filename="../../MultipleEventsPopup.qml" line="127"/>
         <source>%1 - %2</source>
         <comment>StartTime - EndTime</comment>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="156"/>
         <source>%1, %2</source>
         <comment>Event StartDate, Start and End Time String</comment>
-        <translation/>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="185"/>
@@ -346,48 +346,48 @@
     <message>
         <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every day</source>
-        <translation/>
+        <translation>Setiap hari</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every week</source>
-        <translation/>
+        <translation>Setiap minggu</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>Setiap 2 minggu</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every month</source>
-        <translation/>
+        <translation>Setiap bulan</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1032"/>
         <source>Every year</source>
-        <translation/>
+        <translation>Setiap tahun</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1032"/>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Lainnya...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1088"/>
         <source>Repeats forever</source>
-        <translation/>
+        <translation>Diulang seterusnya</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1088"/>
         <source>Ends after number of times...</source>
-        <translation/>
+        <translation>Berakhir setelah sekian kali...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1088"/>
         <source>Ends after date...</source>
-        <translation/>
+        <translation>Berakhir setelah tanggal...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1194"/>
@@ -403,42 +403,42 @@
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 menit sebelumnya</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 menit sebelumnya</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 menit sebelumnya</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 jam sebelumnya</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 jam sebelumnya</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 hari sebelumnya</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 hari sebelumnya</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1224"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 minggu sebelumnya</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1269"/>
@@ -657,7 +657,7 @@
     <message>
         <location filename="../../main.qml" line="250"/>
         <source>%1, %2</source>
-        <translation/>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="250"/>
@@ -672,7 +672,7 @@
     <message>
         <location filename="../../main.qml" line="323"/>
         <source>Delete event?</source>
-        <translation/>
+        <translation>Hapus acara?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="327"/>
@@ -702,7 +702,7 @@
     <message>
         <location filename="../../main.qml" line="363"/>
         <source>Go to date</source>
-        <translation/>
+        <translation>Ke tanggal</translation>
     </message>
 </context>
 </TS>

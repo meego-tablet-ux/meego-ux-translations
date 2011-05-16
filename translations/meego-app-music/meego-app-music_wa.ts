@@ -19,22 +19,22 @@
     <message>
         <location filename="../../MusicListView.qml" line="50"/>
         <source>Playlist name</source>
-        <translation/>
+        <translation>No del djivêye a djouwer</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="52"/>
         <source>Artist name</source>
-        <translation/>
+        <translation>No di l&apos; årtisse</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="54"/>
         <source>Album name</source>
-        <translation/>
+        <translation>No di l&apos; albom</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="55"/>
         <source>Track name</source>
-        <translation/>
+        <translation>No do boket</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="70"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Play queue</source>
-        <translation/>
+        <translation>Djouwer cawêye</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>All tracks</source>
-        <translation/>
+        <translation>Tos les bokets</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Open album</source>
-        <translation/>
+        <translation>Drovi albom</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
@@ -186,7 +186,7 @@
     <message>
         <location filename="../../main.qml" line="50"/>
         <source>Remove from queue</source>
-        <translation/>
+        <translation>Oister del cawêye</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="51"/>
@@ -206,22 +206,22 @@
     <message>
         <location filename="../../main.qml" line="54"/>
         <source>Clear playlist</source>
-        <translation/>
+        <translation>Rinetyî l&apos; djivêye a djouwer</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="56"/>
         <source>%1 items</source>
-        <translation/>
+        <translation>%1 cayets</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="57"/>
         <source>%1 album</source>
-        <translation/>
+        <translation>%1 albom</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="58"/>
         <source>%1 tracks</source>
-        <translation/>
+        <translation>%1 bokets</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="60"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../../main.qml" line="64"/>
         <source>By date</source>
-        <translation/>
+        <translation>Sol date</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="66"/>
@@ -266,7 +266,7 @@
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>Select multiple songs</source>
-        <translation/>
+        <translation>Tchoezi sacwantès tchansons</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
@@ -312,7 +312,7 @@
         <location filename="../../main.qml" line="578"/>
         <location filename="../../main.qml" line="621"/>
         <source>Invalid characters: %1</source>
-        <translation/>
+        <translation>Mwais caracteres : %1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1636"/>
@@ -324,19 +324,19 @@
         <location filename="../../main.qml" line="1648"/>
         <location filename="../../main.qml" line="1950"/>
         <source>%1 seconds</source>
-        <translation/>
+        <translation>%1 segondes</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1649"/>
         <location filename="../../main.qml" line="1951"/>
         <source>%1 minutes</source>
-        <translation/>
+        <translation>%1 munutes</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1650"/>
         <location filename="../../main.qml" line="1952"/>
         <source>%1 hours</source>
-        <translation/>
+        <translation>%1 eures</translation>
     </message>
 </context>
 </TS>

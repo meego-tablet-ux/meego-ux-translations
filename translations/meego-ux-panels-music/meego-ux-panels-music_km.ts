@@ -26,7 +26,7 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="99"/>
         <source>Music panel content</source>
-        <translation/>
+        <translation>មាតិកា​បន្ទះ​តន្ត្រី</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="157"/>

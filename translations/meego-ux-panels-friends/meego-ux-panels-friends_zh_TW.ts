@@ -27,7 +27,7 @@
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="33"/>
         <source>Friends panel content</source>
-        <translation/>
+        <translation>朋友面板內容</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="95"/>

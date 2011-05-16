@@ -168,17 +168,17 @@
     <message>
         <location filename="../../NotebooksView.qml" line="83"/>
         <source>View by:</source>
-        <translation/>
+        <translation>មើល​តាម:</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="89"/>
         <source>All</source>
-        <translation/>
+        <translation>ទាំង​អស់</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="89"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>A-Z</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="117"/>
@@ -219,7 +219,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="280"/>
         <source>Rename</source>
-        <translation/>
+        <translation>ប្ដូរ​ឈ្មោះ</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="339"/>
@@ -240,7 +240,7 @@
         <location filename="../../NotebooksView.qml" line="353"/>
         <location filename="../../NotebooksView.qml" line="453"/>
         <source>A NoteBook &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
-        <translation/>
+        <translation>សៀវភៅ​កំណត់​​ហេតុ &lt;b&gt;&apos;%1&apos;&lt;/b&gt; មាន​រួច​ហើយ។</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="377"/>
@@ -282,7 +282,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="441"/>
         <source>Rename NoteBook</source>
-        <translation/>
+        <translation>ប្ដូរ​ឈ្មោះ​សៀវភៅ​កំណត់​ហេតុ</translation>
     </message>
 </context>
 <context>
@@ -301,17 +301,17 @@
     <message>
         <location filename="../../NotesView.qml" line="71"/>
         <source>View by:</source>
-        <translation/>
+        <translation>មើល​តាម:</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="77"/>
         <source>All</source>
-        <translation/>
+        <translation>ទាំង​អស់</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="77"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>A-Z</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="114"/>
@@ -393,7 +393,7 @@
     <message>
         <location filename="../../NotesView.qml" line="544"/>
         <source>A Note &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
-        <translation/>
+        <translation>កំណត់​ហេតុ &lt;b&gt;&apos;%1&apos;&lt;/b&gt; មាន​រួច​ហើយ។</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="571"/>

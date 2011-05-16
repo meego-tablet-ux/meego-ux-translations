@@ -65,7 +65,7 @@
     <message>
         <location filename="../../main.qml" line="41"/>
         <source>Select multiple videos</source>
-        <translation/>
+        <translation>Tchoezi sacwantès videyos</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="109"/>
@@ -102,12 +102,12 @@
     <message>
         <location filename="../../main.qml" line="423"/>
         <source>No videos have been added. Do you want to start watching videos?</source>
-        <translation/>
+        <translation>Vos n&apos; avoz nén co radjouté d&apos; videyo. Voloz vs ataker a rwaitî des videyos ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="431"/>
         <source>Start recording or upload your favorite shows.</source>
-        <translation/>
+        <translation>Ataker l&apos; eredjistraedje oudon-bén l&apos; eberwetaedje di vos programes colås.</translation>
     </message>
 </context>
 </TS>

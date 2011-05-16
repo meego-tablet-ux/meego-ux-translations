@@ -63,7 +63,7 @@
         <location filename="../../qml/CreateCollection.qml" line="145"/>
         <location filename="../../qml/CreateCollection.qml" line="232"/>
         <source>Collection creation: General error</source>
-        <translation/>
+        <translation>ការ​បង្កើត​ការ​ប្រមូល​ផ្ដុំ: កំហុស​ទូទៅ</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="152"/>
@@ -96,7 +96,7 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="32"/>
         <source>No album</source>
-        <translation/>
+        <translation>មិន​មាន​អាល់បុម</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="218"/>
@@ -196,17 +196,17 @@
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="55"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>តែ​អ្នក​ប៉ុណ្ណោះ (ឯកជន)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="85"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>មិត្ត​របស់​អ្នក</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="117"/>
         <source>Your family</source>
-        <translation/>
+        <translation>គ្រួសារ​របស់​អ្នក</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="151"/>
@@ -234,17 +234,17 @@
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="55"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>តែ​អ្នក​ប៉ុណ្ណោះ (ឯកជន)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="85"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>មិត្ត​របស់​អ្នក</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="117"/>
         <source>Your family</source>
-        <translation/>
+        <translation>គ្រួសារ​របស់​អ្នក</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="151"/>
@@ -272,17 +272,17 @@
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="55"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>តែ​អ្នកប៉ុណ្ណោះ (ឯកជន)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="85"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>មិត្ត​របស់​អ្នក</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="117"/>
         <source>Your family</source>
-        <translation/>
+        <translation>គ្រួសារ​របស់​អ្នក</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="151"/>
@@ -310,17 +310,17 @@
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="55"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>តែ​អ្នក​ប៉ុណ្ណោះ (ឯក​ជន)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="85"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>មិត្ត​របស់​អ្នក</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="117"/>
         <source>Your family</source>
-        <translation/>
+        <translation>គ្រួសារ​របស់​អ្នក</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="151"/>

@@ -9,7 +9,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="73"/>
         <source>Panels</source>
-        <translation/>
+        <translation>Panels</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="77"/>
@@ -55,12 +55,12 @@
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="178"/>
         <source>Wi-Fi</source>
-        <translation>Wi-Fi</translation>
+        <translation>WiFi</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="238"/>
         <source>Wi-Fi settings</source>
-        <translation>Wi-Fi settings</translation>
+        <translation>WiFi settings</translation>
     </message>
 </context>
 </TS>

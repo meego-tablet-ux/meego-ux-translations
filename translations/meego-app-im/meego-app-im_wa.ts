@@ -137,7 +137,7 @@
     <message>
         <location filename="../../AddAFriend.qml" line="52"/>
         <source>Friend&apos;s username</source>
-        <translation/>
+        <translation>No d&apos; uzeu då socçon</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="73"/>
@@ -341,7 +341,7 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="239"/>
         <source>Your Status:</source>
-        <translation/>
+        <translation>Vost estat :</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="315"/>
@@ -357,12 +357,12 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="355"/>
         <source>Change display name</source>
-        <translation/>
+        <translation>Candjî l&apos; no håyné</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="446"/>
         <source>Display name</source>
-        <translation/>
+        <translation>No håyné</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="480"/>
@@ -400,42 +400,42 @@
     <message>
         <location filename="../../ContactDelegate.qml" line="83"/>
         <source>Return to chat</source>
-        <translation/>
+        <translation>Raler å berdelaedje</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="84"/>
         <source>Open chat</source>
-        <translation/>
+        <translation>Drovi berdelaedje</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="96"/>
         <source>Call</source>
-        <translation/>
+        <translation>Houkî</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="108"/>
         <source>Video call</source>
-        <translation/>
+        <translation>Houcaedje videyo</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="120"/>
         <source>Unblock</source>
-        <translation/>
+        <translation>Dizehåyî</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="121"/>
         <source>Block</source>
-        <translation/>
+        <translation>Ehåyî</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="137"/>
         <source>End chat</source>
-        <translation/>
+        <translation>Fini l&apos; berdelaedje</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="148"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>Disfacer contak</translation>
     </message>
 </context>
 <context>
@@ -461,32 +461,32 @@
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="129"/>
         <source>Available</source>
-        <translation/>
+        <translation>Est la</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="131"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Ocupé</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="133"/>
         <source>Away</source>
-        <translation/>
+        <translation>Evoye</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="135"/>
         <source>Extended away</source>
-        <translation/>
+        <translation>Evoye po lontins</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="137"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Disraloyî</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="139"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>Nén veyåve</translation>
     </message>
 </context>
 <context>
@@ -494,7 +494,7 @@
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="45"/>
         <source>Friend request from</source>
-        <translation/>
+        <translation>Dimande d&apos; esse vosse soçon di</translation>
     </message>
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="73"/>
@@ -512,7 +512,7 @@
     <message>
         <location filename="../../ContactsScreenContent.qml" line="164"/>
         <source>Add a friend</source>
-        <translation/>
+        <translation>Radjouter on soçon</translation>
     </message>
 </context>
 <context>
@@ -813,12 +813,12 @@
     <message>
         <location filename="../../MessageContactDelegate.qml" line="50"/>
         <source>Private chat</source>
-        <translation/>
+        <translation>Berdelaedje privé</translation>
     </message>
     <message>
         <location filename="../../MessageContactDelegate.qml" line="54"/>
         <source>Add to contacts</source>
-        <translation/>
+        <translation>Radjouter ås contaks</translation>
     </message>
 </context>
 <context>
@@ -911,7 +911,7 @@
     <message>
         <location filename="../../NoFriends.qml" line="27"/>
         <source>You haven&apos;t added any friends yet</source>
-        <translation/>
+        <translation>Vos n&apos; avoz nén co radjouté d&apos; soçons</translation>
     </message>
 </context>
 <context>
@@ -996,7 +996,7 @@
     <message>
         <location filename="../../SendFileView.qml" line="133"/>
         <source>Select contact</source>
-        <translation/>
+        <translation>Tchoezi contak</translation>
     </message>
 </context>
 <context>
@@ -1022,32 +1022,32 @@
     <message>
         <location filename="../../main.qml" line="369"/>
         <source>Available</source>
-        <translation/>
+        <translation>Est la</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="371"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Ocupé</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="373"/>
         <source>Away</source>
-        <translation/>
+        <translation>Evoye</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="375"/>
         <source>Extended away</source>
-        <translation/>
+        <translation>Evoye po lontins</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="377"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Disraloyî</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="379"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>Nén veyåve</translation>
     </message>
 </context>
 <context>

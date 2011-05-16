@@ -53,17 +53,17 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="243"/>
         <source>Paired: %1</source>
-        <translation/>
+        <translation>Paired: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="251"/>
         <source>Hardware Address: %1</source>
-        <translation/>
+        <translation>Hardware Address: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="259"/>
         <source>UUids: %1</source>
-        <translation/>
+        <translation>UUids: %1</translation>
     </message>
 </context>
 <context>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="15"/>
         <source>Browser</source>
-        <translation/>
+        <translation>Browser</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="106"/>
@@ -259,18 +259,18 @@
         <location filename="../../Wifi/ConnectionsSettings.qml" line="27"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
         <source>WPA</source>
-        <translation/>
+        <translation>WPA</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="28"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
         <source>WPA2</source>
-        <translation/>
+        <translation>WPA2</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="29"/>
         <source>WEP</source>
-        <translation/>
+        <translation>WEP</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="65"/>
@@ -291,32 +291,32 @@
         <location filename="../../Wifi/ConnectionsSettings.qml" line="206"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="220"/>
         <source>Add Network</source>
-        <translation/>
+        <translation>Add Network</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="234"/>
         <source>Network Name:</source>
-        <translation/>
+        <translation>Network Name:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="250"/>
         <source>Security Type:</source>
-        <translation/>
+        <translation>Security Type:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
         <source>none</source>
-        <translation/>
+        <translation>none</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
         <source>wep</source>
-        <translation/>
+        <translation>WEP</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="272"/>
         <source>Security Passphrase:</source>
-        <translation/>
+        <translation>Security Passphrase:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="298"/>
@@ -400,22 +400,22 @@
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="68"/>
         <source>Virtual Keyboard:</source>
-        <translation/>
+        <translation>Virtual Keyboard:</translation>
     </message>
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="96"/>
         <source>Date format:</source>
-        <translation/>
+        <translation>Date format:</translation>
     </message>
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="124"/>
         <source>Time format:</source>
-        <translation/>
+        <translation>Time format:</translation>
     </message>
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="174"/>
         <source>Number Format:</source>
-        <translation/>
+        <translation>Number Format:</translation>
     </message>
 </context>
 <context>
@@ -585,7 +585,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="526"/>
         <source>%1 %2 sync failed</source>
-        <translation/>
+        <translation>%1 %2 sync failed</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="605"/>
@@ -1043,7 +1043,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="220"/>
         <source>Current Timezone isal %1</source>
-        <translation/>
+        <translation>Current Timezone is %1</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="242"/>

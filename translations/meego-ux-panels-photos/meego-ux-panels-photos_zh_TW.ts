@@ -26,7 +26,7 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
         <source>Photos panel content</source>
-        <translation/>
+        <translation>相片面板內容</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="127"/>

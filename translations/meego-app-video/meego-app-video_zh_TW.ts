@@ -65,7 +65,7 @@
     <message>
         <location filename="../../main.qml" line="41"/>
         <source>Select multiple videos</source>
-        <translation/>
+        <translation>選取多個影片</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="109"/>
@@ -102,12 +102,12 @@
     <message>
         <location filename="../../main.qml" line="423"/>
         <source>No videos have been added. Do you want to start watching videos?</source>
-        <translation/>
+        <translation>尚未加入影片。您想要開始觀賞影片嗎？</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="431"/>
         <source>Start recording or upload your favorite shows.</source>
-        <translation/>
+        <translation>開始錄製或上傳您喜愛的節目。</translation>
     </message>
 </context>
 </TS>

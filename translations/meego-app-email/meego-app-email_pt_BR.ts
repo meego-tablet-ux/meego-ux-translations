@@ -243,7 +243,7 @@
         <location filename="../../ComposerView.qml" line="186"/>
         <source>Attach a file</source>
         <extracomment>Attach a file (e.g. music, video, photo) to the document being composed.</extracomment>
-        <translation/>
+        <translation>Anexar um arquivo</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="235"/>
@@ -454,17 +454,17 @@
     <message>
         <location filename="../../EmailHeader.qml" line="231"/>
         <source>Low Priority</source>
-        <translation/>
+        <translation>Prioridade baixa</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="232"/>
         <source>Normal Priority</source>
-        <translation/>
+        <translation>Prioridade normal</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="233"/>
         <source>High Priority</source>
-        <translation/>
+        <translation>Prioridade alta</translation>
     </message>
 </context>
 <context>
@@ -518,7 +518,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="58"/>
         <source>On %1 %2 wrote:</source>
-        <translation/>
+        <translation>Em %1 %2 escreveu:</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="92"/>
@@ -746,7 +746,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="43"/>
         <source>Warning</source>
-        <translation/>
+        <translation>Aviso</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="48"/>
@@ -779,7 +779,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="37"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="38"/>
@@ -799,7 +799,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="65"/>
         <source>On %1 %2 wrote:</source>
-        <translation/>
+        <translation>Em %1 %2 escreveu:</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="188"/>
@@ -969,7 +969,7 @@
     <message>
         <location filename="../../main.qml" line="121"/>
         <source>On %1 %2 wrote:</source>
-        <translation/>
+        <translation>Em %1 %2 escreveu:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="157"/>

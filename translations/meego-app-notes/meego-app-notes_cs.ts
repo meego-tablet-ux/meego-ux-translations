@@ -168,17 +168,17 @@
     <message>
         <location filename="../../NotebooksView.qml" line="83"/>
         <source>View by:</source>
-        <translation/>
+        <translation>Prohlížet podle:</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="89"/>
         <source>All</source>
-        <translation/>
+        <translation>Vše</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="89"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>A-Z</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="117"/>
@@ -219,7 +219,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="280"/>
         <source>Rename</source>
-        <translation/>
+        <translation>Přejmenovat</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="339"/>
@@ -240,7 +240,7 @@
         <location filename="../../NotebooksView.qml" line="353"/>
         <location filename="../../NotebooksView.qml" line="453"/>
         <source>A NoteBook &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
-        <translation/>
+        <translation>Zápisník &lt;b&gt;&apos;%1&apos;&lt;/b&gt; již existuje.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="377"/>
@@ -284,7 +284,7 @@ smazat &quot;%1&quot;?</translation>
     <message>
         <location filename="../../NotebooksView.qml" line="441"/>
         <source>Rename NoteBook</source>
-        <translation/>
+        <translation>Přejmenovat zápisník</translation>
     </message>
 </context>
 <context>
@@ -303,17 +303,17 @@ smazat &quot;%1&quot;?</translation>
     <message>
         <location filename="../../NotesView.qml" line="71"/>
         <source>View by:</source>
-        <translation/>
+        <translation>Prohlížet podle:</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="77"/>
         <source>All</source>
-        <translation/>
+        <translation>Vše</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="77"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>A-Z</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="114"/>
@@ -395,7 +395,7 @@ smazat &quot;%1&quot;?</translation>
     <message>
         <location filename="../../NotesView.qml" line="544"/>
         <source>A Note &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
-        <translation/>
+        <translation>Poznámka &lt;b&gt;&apos;%1&apos;&lt;/b&gt; již existuje.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="571"/>

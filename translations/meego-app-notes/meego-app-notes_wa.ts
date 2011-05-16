@@ -168,17 +168,17 @@
     <message>
         <location filename="../../NotebooksView.qml" line="83"/>
         <source>View by:</source>
-        <translation/>
+        <translation>Vey sorlon :</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="89"/>
         <source>All</source>
-        <translation/>
+        <translation>Totafwait</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="89"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>A-Z</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="117"/>
@@ -219,7 +219,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="280"/>
         <source>Rename</source>
-        <translation/>
+        <translation>Rilomer</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="339"/>
@@ -240,7 +240,7 @@
         <location filename="../../NotebooksView.qml" line="353"/>
         <location filename="../../NotebooksView.qml" line="453"/>
         <source>A NoteBook &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
-        <translation/>
+        <translation>I gn a ddja on calpin &lt;b&gt;« %1 »&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="377"/>
@@ -282,7 +282,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="441"/>
         <source>Rename NoteBook</source>
-        <translation/>
+        <translation>Rilomer calpin</translation>
     </message>
 </context>
 <context>
@@ -301,17 +301,17 @@
     <message>
         <location filename="../../NotesView.qml" line="71"/>
         <source>View by:</source>
-        <translation/>
+        <translation>Vey sorlon :</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="77"/>
         <source>All</source>
-        <translation/>
+        <translation>Totafwait</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="77"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>A-Z</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="114"/>
@@ -341,7 +341,7 @@
         <location filename="../../NotesView.qml" line="408"/>
         <location filename="../../NotesView.qml" line="432"/>
         <source>Email</source>
-        <translation/>
+        <translation>Emile</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="409"/>
@@ -393,7 +393,7 @@
     <message>
         <location filename="../../NotesView.qml" line="544"/>
         <source>A Note &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
-        <translation/>
+        <translation>I gn a ddja ene note &lt;b&gt;« %1 »&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="571"/>

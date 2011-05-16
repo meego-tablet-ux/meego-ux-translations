@@ -14,7 +14,7 @@
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="63"/>
         <source>Video panel content</source>
-        <translation/>
+        <translation>Video panel content</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="93"/>

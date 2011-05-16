@@ -102,7 +102,7 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="73"/>
         <source>(...)</source>
-        <translation/>
+        <translation>(...)</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="101"/>
@@ -505,7 +505,7 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="35"/>
         <source>Account Type</source>
-        <translation/>
+        <translation>Jenis Akun</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="36"/>

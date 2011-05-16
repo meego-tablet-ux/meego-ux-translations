@@ -5,7 +5,7 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="53"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="218"/>
         <source>Recently viewed</source>
-        <translation>Veyowes i n&apos; a nén lontins</translation>
+        <translation>Veyowes i gn a nén lontins</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="54"/>
@@ -26,7 +26,7 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
         <source>Photos panel content</source>
-        <translation/>
+        <translation>Ådvins do scriftôr des fotos</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="127"/>

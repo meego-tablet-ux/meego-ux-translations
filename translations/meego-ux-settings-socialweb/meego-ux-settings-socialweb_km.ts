@@ -4,7 +4,7 @@
     <message>
         <location filename="../../qml/constants.js" line="3"/>
         <source>Web accounts</source>
-        <translation/>
+        <translation>គណនី​វែប</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
@@ -50,7 +50,7 @@
     <message>
         <location filename="../../qml/constants.js" line="18"/>
         <source>More details</source>
-        <translation/>
+        <translation>ព័ត៌មាន​លម្អីត</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="../../qml/constants.js" line="23"/>
         <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
-        <translation/>
+        <translation>អ្នក​បាន​ភ្ជាប់​ចេញ​រួច​ហើយ។  ទិន្នន័យ​ដែល​មាន​មក​ពី​សេវាកម្ម​នេះ នឹង​ត្រូវ​លុប​ចោល។</translation>
     </message>
 </context>
 </TS>

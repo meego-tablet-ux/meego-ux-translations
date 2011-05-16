@@ -15,7 +15,7 @@
         <extracomment>IDS_PASSWORD_MANAGER_SAVE_PASSWORD_PROMPT
 - description: Info bar message to save a password
 </extracomment>
-        <translation/>
+        <translation>Θέλετε ο περιηγητής MeeGo να αποθηκεύσει τον κωδικό σας;</translation>
     </message>
     <message>
         <location filename="id" line="311677227"/>
@@ -23,7 +23,7 @@
         <extracomment>IDS_ABOUT_VERSION_COPYRIGHT
 - description: Copyright information on the about pages
 </extracomment>
-        <translation/>
+        <translation>Πνευματικά δικαιώματα © 2010-2011 MeeGo. Όλα τα δικαιώματα κατοχυρώθηκαν.</translation>
     </message>
     <message>
         <location filename="id" line="-1572705952"/>
@@ -39,7 +39,7 @@
         <extracomment>IDS_SESSION_CRASHED_VIEW_MESSAGE
 - description: Message shown when the last session didn't exit cleanly.
 </extracomment>
-        <translation>Ο περιηγητής MeeGo δεν έκλεισε επιτυχώς. Για να ανοίξετε τις σελίδες που είχατε, πατήστε Επαναφορά</translation>
+        <translation>Ο περιηγητής MeeGo δεν έκλεισε επιτυχώς. Για να ανοίξετε τις σελίδες που είχατε, πατήστε Επαναφορά.</translation>
     </message>
     <message>
         <location filename="id" line="1550207900"/>
@@ -69,7 +69,7 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="199"/>
         <source>Delete bookmark</source>
-        <translation/>
+        <translation>Διαγραφή σελιδοδείκτη</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="200"/>
@@ -85,7 +85,7 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="205"/>
         <source>Are you sure you want to delete this bookmark?</source>
-        <translation>Είστε σίγουροι πως θέλετε να διαγράψετε το σελιδοδείκτη?</translation>
+        <translation>Είστε σίγουρος πως θέλετε να διαγράψετε αυτόν τον σελιδοδείκτη;</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="219"/>

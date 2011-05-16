@@ -125,49 +125,49 @@
         <location filename="../../fuzzydatetime.cpp" line="57"/>
         <source>%1/%2/%3 - Last week</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%1/%2/%3 - Last week</translation>
+        <translation>%2/%1/%3 - Last week</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="62"/>
         <source>%1/%2/%3 - A couple of weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%1/%2/%3 - A couple of weeks ago</translation>
+        <translation>%2/%1/%3 - A couple of weeks ago</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="67"/>
         <source>%1/%2/%3 - %4 weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is number of weeks</comment>
-        <translation>%1/%2/%3 - %4 weeks ago</translation>
+        <translation>%2/%1/%3 - %4 weeks ago</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="73"/>
         <source>%1/%2/%3 - Last month</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%1/%2/%3 - Last month</translation>
+        <translation>%2/%1/%3 - Last month</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="78"/>
         <source>%1/%2/%3 - A couple of months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%1/%2/%3 - A couple of months ago</translation>
+        <translation>%2/%1/%3 - A couple of months ago</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="87"/>
         <source>%1/%2/%3 - %4 months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%1/%2/%3 - %4 months ago</translation>
+        <translation>%2/%1/%3 - %4 months ago</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="93"/>
         <source>%1/%2/%3 - Last year</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%1/%2/%3 - Last year</translation>
+        <translation>%2/%1/%3 - Last year</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="98"/>
         <source>%1/%2/%3 - %4 years ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%1/%2/%3 - %4 years ago</translation>
+        <translation>%2/%1/%3 - %4 years ago</translation>
     </message>
 </context>
 <context>
@@ -176,25 +176,25 @@
         <location filename="../../localehelper.cpp" line="71"/>
         <source>mdy</source>
         <extracomment>default order for numeric date (m = month, d = date, y = year) this string should contain these exact three characters in some order</extracomment>
-        <translation>mdy</translation>
+        <translation>dmy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="83"/>
         <source>1</source>
         <extracomment>localize this first day of the week (1 = Sunday, 2 = Monday, ...)</extracomment>
-        <translation>1</translation>
+        <translation>2</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="109"/>
         <source>MMMM d, yyyy</source>
         <extracomment>MMMM = full month, d = day of month, yyyy = full year (e.g. January 31, 2011)</extracomment>
-        <translation/>
+        <translation>d MMMM, yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="113"/>
         <source>MMM d yyyy</source>
         <extracomment>MMM = short month, d = day of month, yyyy = full year (e.g. Jan 31 2011)</extracomment>
-        <translation/>
+        <translation>d MMM yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="121"/>
@@ -206,7 +206,7 @@
         <location filename="../../localehelper.cpp" line="125"/>
         <source>ddd d</source>
         <extracomment>ddd = day of week, d = day of month (e.g. Mon 31)</extracomment>
-        <translation>ddd d</translation>
+        <translation>d ddd</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="129"/>
@@ -218,7 +218,7 @@
         <location filename="../../localehelper.cpp" line="133"/>
         <source>MMM yyyy</source>
         <extracomment>MMM = short month, yyyy = full year (e.g. Jan 2011)</extracomment>
-        <translation/>
+        <translation>MMM yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="137"/>
@@ -230,13 +230,13 @@
         <location filename="../../localehelper.cpp" line="141"/>
         <source>dddd</source>
         <extracomment>dddd = day of week (e.g. Monday)</extracomment>
-        <translation/>
+        <translation>dddd</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="145"/>
         <source>ddd</source>
         <extracomment>ddd = day of week (e.g. Mon)</extracomment>
-        <translation/>
+        <translation>ddd</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="149"/>
@@ -300,7 +300,7 @@
     <message>
         <location filename="../../Components/StatusBar.qml" line="106"/>
         <source>%1 : %2</source>
-        <translation/>
+        <translation>%1 : %2</translation>
     </message>
 </context>
 <context>
