@@ -15,6 +15,7 @@ LOCALES = ar \
 	  en_GB \
 	  en_US \
 	  es \
+	  es_CR \
 	  eu \
 	  fi \
 	  fr \
