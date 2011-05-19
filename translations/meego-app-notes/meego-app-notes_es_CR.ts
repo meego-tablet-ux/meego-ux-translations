@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="id" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="es_CR" version="2.0">
 <context>
     <name>CDataHandler</name>
     <message>
@@ -6,7 +6,7 @@
         <location filename="../../src/DataHandler.cpp" line="1260"/>
         <location filename="../../src/DataHandler.cpp" line="1295"/>
         <source>Everyday Notes</source>
-        <translation>Catatan Sehari-hari</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../src/DataHandler.cpp" line="494"/>
@@ -20,7 +20,7 @@
     <message>
         <location filename="../../DeleteMoveNotificationDialog.qml" line="74"/>
         <source>Title text</source>
-        <translation>Teks judul</translation>
+        <translation/>
     </message>
 </context>
 <context>
@@ -28,17 +28,17 @@
     <message>
         <location filename="../../FontSelector.qml" line="125"/>
         <source>&lt;b&gt;Pick a font&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Pilih fonta&lt;/b&gt;</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../FontSelector.qml" line="147"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../FontSelector.qml" line="173"/>
         <source>Cancel</source>
-        <translation>Batal</translation>
+        <translation/>
     </message>
 </context>
 <context>
@@ -46,17 +46,17 @@
     <message>
         <location filename="../../FontSizeSelector.qml" line="48"/>
         <source>Pick font size</source>
-        <translation>Pilih ukuran fonta</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../FontSizeSelector.qml" line="144"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../FontSizeSelector.qml" line="172"/>
         <source>Cancel</source>
-        <translation>Batal</translation>
+        <translation/>
     </message>
 </context>
 <context>
@@ -72,7 +72,7 @@
     <message>
         <location filename="../../NoteButton.qml" line="105"/>
         <source>Text Element</source>
-        <translation>Elemen Teks</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../NoteButton.qml" line="118"/>
@@ -85,27 +85,27 @@
     <message>
         <location filename="../../NoteDetail.qml" line="15"/>
         <source>Everyday Notes (default)</source>
-        <translation>Catatan Sehari-hari (baku)</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="16"/>
         <source>Note name...</source>
-        <translation>Nama catatan...</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="32"/>
         <source>Save</source>
-        <translation>Simpan</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="32"/>
         <source>Delete</source>
-        <translation>Hapus</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="69"/>
         <source>Test Notebook Name</source>
-        <translation>Nama Buku Catatan Tes</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="97"/>
@@ -115,17 +115,17 @@
     <message>
         <location filename="../../NoteDetail.qml" line="120"/>
         <source>Yes</source>
-        <translation>Ya</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="121"/>
         <source>No</source>
-        <translation>Tidak</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="122"/>
         <source>Delete?</source>
-        <translation>Hapus?</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="125"/>
@@ -138,7 +138,7 @@
     <message>
         <location filename="../../NotebookSelector.qml" line="53"/>
         <source>Everyday Notes (default)</source>
-        <translation>Catatan Sehari-hari (baku)</translation>
+        <translation/>
     </message>
     <message>
         <location filename="../../NotebookSelector.qml" line="107"/>

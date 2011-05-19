@@ -168,17 +168,17 @@
     <message>
         <location filename="../../NotebooksView.qml" line="83"/>
         <source>View by:</source>
-        <translation/>
+        <translation>以此檢視：</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="89"/>
         <source>All</source>
-        <translation/>
+        <translation>全部</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="89"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>A-Z</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="117"/>
@@ -219,7 +219,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="280"/>
         <source>Rename</source>
-        <translation/>
+        <translation>重新命名</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="339"/>
@@ -240,7 +240,7 @@
         <location filename="../../NotebooksView.qml" line="353"/>
         <location filename="../../NotebooksView.qml" line="453"/>
         <source>A NoteBook &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
-        <translation/>
+        <translation>&lt;b&gt;「%1」&lt;/b&gt;筆記本已經存在。</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="377"/>
@@ -282,7 +282,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="441"/>
         <source>Rename NoteBook</source>
-        <translation/>
+        <translation>重新命名記事本</translation>
     </message>
 </context>
 <context>
@@ -301,17 +301,17 @@
     <message>
         <location filename="../../NotesView.qml" line="71"/>
         <source>View by:</source>
-        <translation/>
+        <translation>以此檢視：</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="77"/>
         <source>All</source>
-        <translation/>
+        <translation>全部</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="77"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>A-Z</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="114"/>
@@ -393,7 +393,7 @@
     <message>
         <location filename="../../NotesView.qml" line="544"/>
         <source>A Note &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
-        <translation/>
+        <translation>&lt;b&gt;「%1」&lt;/b&gt;筆記已經存在。</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="571"/>

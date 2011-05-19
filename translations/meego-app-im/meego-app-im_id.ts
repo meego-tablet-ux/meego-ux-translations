@@ -9,17 +9,17 @@
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="118"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>Apakah Anda benar ingin menyambung akun ini? Bila Anda lakukan semua %1 akun lain akan diputus.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="189"/>
         <source>There is already an account configured using this login. Please check your username.</source>
-        <translation/>
+        <translation>Telah ada akun yang ditata memakai log masuk ini. Silakan periksa nama pengguna Anda:</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="190"/>
         <source>Sorry, there was a problem logging in. Please check your username and password.</source>
-        <translation/>
+        <translation>Maaf, ada masalah saat log masuk. Silakan periksa nama pengguna dan sandi Anda.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="206"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="../../AccountDelegate.qml" line="120"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>Apakah Anda benar ingin menyambung akun ini? Bila Anda lakukan semua %1 akun lain akan diputus.</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="181"/>
@@ -137,7 +137,7 @@
     <message>
         <location filename="../../AddAFriend.qml" line="52"/>
         <source>Friend&apos;s username</source>
-        <translation/>
+        <translation>Nama pengguna milik teman</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="73"/>
@@ -227,7 +227,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="973"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>Kanal pemanggilan dibatalkan bagi kontak %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1241"/>
@@ -285,12 +285,12 @@
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="263"/>
         <source>Invalidated text channel  %1 - %2 - %3</source>
-        <translation/>
+        <translation>Kanal teks dibatalkan  %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="268"/>
         <source>Invalidated text channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>Kanal teks dibatalkan bagi kontak %1 - %2 - %3</translation>
     </message>
 </context>
 <context>
@@ -341,12 +341,12 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="239"/>
         <source>Your Status:</source>
-        <translation/>
+        <translation>Status Anda:</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="315"/>
         <source>Custom status message</source>
-        <translation/>
+        <translation>Pesan status gubahan</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="340"/>
@@ -357,12 +357,12 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="355"/>
         <source>Change display name</source>
-        <translation/>
+        <translation>Ubah nama tampil</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="446"/>
         <source>Display name</source>
-        <translation/>
+        <translation>Nama tampil</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="480"/>
@@ -392,7 +392,7 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="607"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>Apakah Anda benar ingin menyambung akun ini? Bila Anda lakukan semua %1 akun lain akan diputus.</translation>
     </message>
 </context>
 <context>
@@ -400,42 +400,42 @@
     <message>
         <location filename="../../ContactDelegate.qml" line="83"/>
         <source>Return to chat</source>
-        <translation/>
+        <translation>Kembali ke obrolan</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="84"/>
         <source>Open chat</source>
-        <translation/>
+        <translation>Buka obrolan</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="96"/>
         <source>Call</source>
-        <translation/>
+        <translation>Panggil</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="108"/>
         <source>Video call</source>
-        <translation/>
+        <translation>Panggilan video</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="120"/>
         <source>Unblock</source>
-        <translation/>
+        <translation>Buka blok</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="121"/>
         <source>Block</source>
-        <translation/>
+        <translation>Blok</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="137"/>
         <source>End chat</source>
-        <translation/>
+        <translation>Akhir obrolan</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="148"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>Hapus kontak</translation>
     </message>
 </context>
 <context>
@@ -461,32 +461,32 @@
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="129"/>
         <source>Available</source>
-        <translation/>
+        <translation>Ada</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="131"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Sibuk</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="133"/>
         <source>Away</source>
-        <translation/>
+        <translation>Pergi</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="135"/>
         <source>Extended away</source>
-        <translation/>
+        <translation>Pergi lama</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="137"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Luring</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="139"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>Tak nampak</translation>
     </message>
 </context>
 <context>
@@ -494,7 +494,7 @@
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="45"/>
         <source>Friend request from</source>
-        <translation/>
+        <translation>Permintaan berteman dari</translation>
     </message>
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="73"/>
@@ -512,7 +512,7 @@
     <message>
         <location filename="../../ContactsScreenContent.qml" line="164"/>
         <source>Add a friend</source>
-        <translation/>
+        <translation>Tambahkan teman</translation>
     </message>
 </context>
 <context>
@@ -526,7 +526,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="136"/>
         <source>Invalidated file transfer channel for contact %1 - %2 - %3</source>
-        <translation/>
+        <translation>Kanal pemindahan berkas dibatalkan bagi kontak %1 - %2 - %3</translation>
     </message>
 </context>
 <context>
@@ -627,27 +627,27 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="373"/>
         <source>%1 is calling you</source>
-        <translation/>
+        <translation>%1 sedang memanggil Anda</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="376"/>
         <source>Setting up call to %1</source>
-        <translation/>
+        <translation>Menyiapkan paggilan ke %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="379"/>
         <source>Calling %1</source>
-        <translation/>
+        <translation>Memanggil %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="382"/>
         <source>Call with %1 started</source>
-        <translation/>
+        <translation>Panggilan dengan %1 dimulai</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="385"/>
         <source>Call with %1 on hold</source>
-        <translation/>
+        <translation>Panggilan dengan %1 di-hold</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="445"/>
@@ -681,18 +681,18 @@
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="348"/>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="560"/>
         <source>Incoming call from %1</source>
-        <translation/>
+        <translation>Panggilan masuk dari %1</translation>
     </message>
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="364"/>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="563"/>
         <source>Incoming file transfer from %1</source>
-        <translation/>
+        <translation>Pemindahan berkas masuk dari %1</translation>
     </message>
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="415"/>
         <source>Add as friend?</source>
-        <translation/>
+        <translation>Tambahkan sebagai teman?</translation>
     </message>
 </context>
 <context>
@@ -700,7 +700,7 @@
     <message>
         <location filename="../../plugin/imgroupchatmodelitem.cpp" line="69"/>
         <source>%1 chatting</source>
-        <translation/>
+        <translation>%1 sedang mengobrol</translation>
     </message>
 </context>
 <context>
@@ -708,32 +708,32 @@
     <message>
         <location filename="../../settings/ImSettings.qml" line="18"/>
         <source>Instant Messaging Settings</source>
-        <translation/>
+        <translation>Pengaturan Pesan Instan</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="90"/>
         <source>Accounts</source>
-        <translation/>
+        <translation>Akun</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="118"/>
         <source>Add another account</source>
-        <translation/>
+        <translation>Tambah akun lain</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="135"/>
         <source>General Settings</source>
-        <translation/>
+        <translation>Pengaturan Umum</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="157"/>
         <source>Show offline contacts</source>
-        <translation/>
+        <translation>Tampilkan kontak luring</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="196"/>
         <source>Notification on new message</source>
-        <translation/>
+        <translation>Pemberitahuan atas pesan baru</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="234"/>
@@ -743,7 +743,7 @@
     <message>
         <location filename="../../settings/ImSettings.qml" line="258"/>
         <source>Blocked contacts</source>
-        <translation/>
+        <translation>Kontak yang diblok</translation>
     </message>
 </context>
 <context>
@@ -751,17 +751,17 @@
     <message>
         <location filename="../../IncomingCall.qml" line="16"/>
         <source>Incoming Call</source>
-        <translation/>
+        <translation>Panggilan Masuk</translation>
     </message>
     <message>
         <location filename="../../IncomingCall.qml" line="18"/>
         <source>Accept</source>
-        <translation/>
+        <translation>Terima</translation>
     </message>
     <message>
         <location filename="../../IncomingCall.qml" line="21"/>
         <source>Decline</source>
-        <translation/>
+        <translation>Tolak</translation>
     </message>
 </context>
 <context>
@@ -769,27 +769,27 @@
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="51"/>
         <source>Require encryption</source>
-        <translation/>
+        <translation>Mengharuskan enkripsi</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="64"/>
         <source>Priority:</source>
-        <translation/>
+        <translation>Prioritas:</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="77"/>
         <source>Resource:</source>
-        <translation/>
+        <translation>Sumberdaya:</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="90"/>
         <source>Server:</source>
-        <translation/>
+        <translation>Server:</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="103"/>
         <source>Port:</source>
-        <translation/>
+        <translation>Port:</translation>
     </message>
 </context>
 <context>
@@ -805,7 +805,7 @@
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="331"/>
         <source>has been added as contact</source>
-        <translation/>
+        <translation>telah ditambahkan sebagai kontak</translation>
     </message>
 </context>
 <context>
@@ -813,12 +813,12 @@
     <message>
         <location filename="../../MessageContactDelegate.qml" line="50"/>
         <source>Private chat</source>
-        <translation/>
+        <translation>Obrolan pribadi</translation>
     </message>
     <message>
         <location filename="../../MessageContactDelegate.qml" line="54"/>
         <source>Add to contacts</source>
-        <translation/>
+        <translation>Tambahkan ke kontak</translation>
     </message>
 </context>
 <context>
@@ -826,7 +826,7 @@
     <message>
         <location filename="../../MessageContentMenu.qml" line="54"/>
         <source>Add contacts to chat</source>
-        <translation/>
+        <translation>Tambahkan kontak ke obrolan</translation>
     </message>
     <message>
         <location filename="../../MessageContentMenu.qml" line="69"/>
@@ -836,7 +836,7 @@
     <message>
         <location filename="../../MessageContentMenu.qml" line="88"/>
         <source>End chat</source>
-        <translation/>
+        <translation>Akhiri obrolan</translation>
     </message>
 </context>
 <context>
@@ -845,22 +845,22 @@
         <location filename="../../MessageDelegate.qml" line="230"/>
         <location filename="../../MessageDelegate.qml" line="237"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="280"/>
         <source>%1 tried to call - %2</source>
-        <translation/>
+        <translation>%1 mencoba memanggil - %2</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="282"/>
         <source>%1 rejected call - %2</source>
-        <translation/>
+        <translation>%1 menolak panggilan - %2</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="284"/>
         <source>%1 called - duration %2 - %3</source>
-        <translation/>
+        <translation>%1 memanggil - lamanya %2 - %3</translation>
     </message>
 </context>
 <context>
@@ -868,42 +868,42 @@
     <message>
         <location filename="../../MessageScreenContent.qml" line="35"/>
         <source>Group conversation</source>
-        <translation/>
+        <translation>Obrolan grup</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="37"/>
         <source>Chat with %1</source>
-        <translation/>
+        <translation>Obrolan dengan %1</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="413"/>
         <source>Send</source>
-        <translation/>
+        <translation>Kirim</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="789"/>
         <source>Minimize me</source>
-        <translation/>
+        <translation>Minimalkan saya</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="789"/>
         <source>Maximize me</source>
-        <translation/>
+        <translation>Maksimalkan saya</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="790"/>
         <source>Disable camera</source>
-        <translation/>
+        <translation>Matikan kamera</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="790"/>
         <source>Enable camera</source>
-        <translation/>
+        <translation>Aktifkan kamera</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="791"/>
         <source>Swap camera</source>
-        <translation/>
+        <translation>Tukar kamera</translation>
     </message>
 </context>
 <context>
@@ -911,7 +911,7 @@
     <message>
         <location filename="../../NoFriends.qml" line="27"/>
         <source>You haven&apos;t added any friends yet</source>
-        <translation/>
+        <translation>Anda belum menambahkan teman seorangpun</translation>
     </message>
 </context>
 <context>
@@ -919,7 +919,7 @@
     <message>
         <location filename="../../NoNetworkHeader.qml" line="38"/>
         <source>Your device is not connected to a network. To chat with your contacts, you need to connect to a network.</source>
-        <translation/>
+        <translation>Perangkat Anda tak tersambung ke jaringan. Perlu menyambung ke jaringan untuk mengobrol dengan kontak Anda.</translation>
     </message>
 </context>
 <context>
@@ -927,7 +927,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="130"/>
         <source>%1 is sending you the file %2</source>
-        <translation/>
+        <translation>%1 sedang mengirimi Anda berkas %2</translation>
     </message>
 </context>
 <context>
@@ -935,17 +935,17 @@
     <message>
         <location filename="../../PictureChangeMenu.qml" line="108"/>
         <source>Change your picture:</source>
-        <translation/>
+        <translation>Ubah gambar Anda:</translation>
     </message>
     <message>
         <location filename="../../PictureChangeMenu.qml" line="115"/>
         <source>Take picture</source>
-        <translation/>
+        <translation>Ambil gambar</translation>
     </message>
     <message>
         <location filename="../../PictureChangeMenu.qml" line="122"/>
         <source>Choose picture</source>
-        <translation/>
+        <translation>Pilih gambar</translation>
     </message>
 </context>
 <context>
@@ -971,32 +971,32 @@
     <message>
         <location filename="../../SendFileView.qml" line="53"/>
         <source>Send:</source>
-        <translation/>
+        <translation>Kirim:</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="64"/>
         <source>Photo</source>
-        <translation/>
+        <translation>Foto</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="75"/>
         <source>Video</source>
-        <translation/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="86"/>
         <source>Music</source>
-        <translation/>
+        <translation>Musik</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="97"/>
         <source>Contact Details</source>
-        <translation/>
+        <translation>Rincian Kontak</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="133"/>
         <source>Select contact</source>
-        <translation/>
+        <translation>Pilih kontak</translation>
     </message>
 </context>
 <context>
@@ -1004,7 +1004,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="226"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -1012,42 +1012,42 @@
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Chat</source>
-        <translation/>
+        <translation>Obrolan</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="362"/>
         <source>Account switcher</source>
-        <translation/>
+        <translation>Penukar akun</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="369"/>
         <source>Available</source>
-        <translation/>
+        <translation>Ada</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="371"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Sibuk</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="373"/>
         <source>Away</source>
-        <translation/>
+        <translation>Pergi</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="375"/>
         <source>Extended away</source>
-        <translation/>
+        <translation>Pergi lama</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="377"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Luring</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="379"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>Tak nampak</translation>
     </message>
 </context>
 <context>
@@ -1055,27 +1055,27 @@
     <message>
         <location filename="../../utils.js" line="13"/>
         <source>Error</source>
-        <translation/>
+        <translation>Galat</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="15"/>
         <source>No Call</source>
-        <translation/>
+        <translation>Tidak ada panggilan</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="19"/>
         <source>Incoming</source>
-        <translation/>
+        <translation>Masuk</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="22"/>
         <source>Connecting</source>
-        <translation/>
+        <translation>Menyambung</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="25"/>
         <source>Ringing</source>
-        <translation/>
+        <translation>Berdering</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="32"/>
@@ -1085,12 +1085,12 @@
     <message>
         <location filename="../../utils.js" line="35"/>
         <source>Hanging up</source>
-        <translation/>
+        <translation>Mengakhiri panggilan</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="38"/>
         <source>Unknown</source>
-        <translation/>
+        <translation>Tak diketahui</translation>
     </message>
 </context>
 </TS>

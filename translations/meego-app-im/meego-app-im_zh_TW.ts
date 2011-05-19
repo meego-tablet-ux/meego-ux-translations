@@ -137,7 +137,7 @@
     <message>
         <location filename="../../AddAFriend.qml" line="52"/>
         <source>Friend&apos;s username</source>
-        <translation/>
+        <translation>朋友的使用者名稱</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="73"/>
@@ -341,7 +341,7 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="239"/>
         <source>Your Status:</source>
-        <translation/>
+        <translation>您的狀態：</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="315"/>
@@ -357,12 +357,12 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="355"/>
         <source>Change display name</source>
-        <translation/>
+        <translation>變更顯示名稱</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="446"/>
         <source>Display name</source>
-        <translation/>
+        <translation>顯示名稱</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="480"/>
@@ -400,42 +400,42 @@
     <message>
         <location filename="../../ContactDelegate.qml" line="83"/>
         <source>Return to chat</source>
-        <translation/>
+        <translation>返回聊天</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="84"/>
         <source>Open chat</source>
-        <translation/>
+        <translation>開啟聊天</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="96"/>
         <source>Call</source>
-        <translation/>
+        <translation>通話</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="108"/>
         <source>Video call</source>
-        <translation/>
+        <translation>視訊通話</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="120"/>
         <source>Unblock</source>
-        <translation/>
+        <translation>解除封鎖</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="121"/>
         <source>Block</source>
-        <translation/>
+        <translation>封鎖</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="137"/>
         <source>End chat</source>
-        <translation/>
+        <translation>結束聊天</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="148"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>刪除聯絡人</translation>
     </message>
 </context>
 <context>
@@ -461,32 +461,32 @@
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="129"/>
         <source>Available</source>
-        <translation/>
+        <translation>有空</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="131"/>
         <source>Busy</source>
-        <translation/>
+        <translation>忙碌</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="133"/>
         <source>Away</source>
-        <translation/>
+        <translation>離開</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="135"/>
         <source>Extended away</source>
-        <translation/>
+        <translation>擴展的離開</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="137"/>
         <source>Offline</source>
-        <translation/>
+        <translation>離線</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="139"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>隱藏</translation>
     </message>
 </context>
 <context>
@@ -494,7 +494,7 @@
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="45"/>
         <source>Friend request from</source>
-        <translation/>
+        <translation>朋友請求來自</translation>
     </message>
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="73"/>
@@ -512,7 +512,7 @@
     <message>
         <location filename="../../ContactsScreenContent.qml" line="164"/>
         <source>Add a friend</source>
-        <translation/>
+        <translation>加入朋友</translation>
     </message>
 </context>
 <context>
@@ -813,12 +813,12 @@
     <message>
         <location filename="../../MessageContactDelegate.qml" line="50"/>
         <source>Private chat</source>
-        <translation/>
+        <translation>私人聊天</translation>
     </message>
     <message>
         <location filename="../../MessageContactDelegate.qml" line="54"/>
         <source>Add to contacts</source>
-        <translation/>
+        <translation>加入至聯絡人資料</translation>
     </message>
 </context>
 <context>
@@ -911,7 +911,7 @@
     <message>
         <location filename="../../NoFriends.qml" line="27"/>
         <source>You haven&apos;t added any friends yet</source>
-        <translation/>
+        <translation>您尚未加入任何朋友</translation>
     </message>
 </context>
 <context>
@@ -996,7 +996,7 @@
     <message>
         <location filename="../../SendFileView.qml" line="133"/>
         <source>Select contact</source>
-        <translation/>
+        <translation>選取聯絡人</translation>
     </message>
 </context>
 <context>
@@ -1022,32 +1022,32 @@
     <message>
         <location filename="../../main.qml" line="369"/>
         <source>Available</source>
-        <translation/>
+        <translation>有空</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="371"/>
         <source>Busy</source>
-        <translation/>
+        <translation>忙碌</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="373"/>
         <source>Away</source>
-        <translation/>
+        <translation>離開</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="375"/>
         <source>Extended away</source>
-        <translation/>
+        <translation>擴展的離開</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="377"/>
         <source>Offline</source>
-        <translation/>
+        <translation>離線</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="379"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>隱藏</translation>
     </message>
 </context>
 <context>

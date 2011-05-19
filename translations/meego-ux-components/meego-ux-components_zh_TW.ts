@@ -4,17 +4,17 @@
     <message>
         <location filename="../../src/components/ux/CCPContextArea.qml" line="156"/>
         <source>Copy</source>
-        <translation/>
+        <translation>複製</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/CCPContextArea.qml" line="156"/>
         <source>Cut</source>
-        <translation/>
+        <translation>剪下</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/CCPContextArea.qml" line="156"/>
         <source>Paste</source>
-        <translation/>
+        <translation>貼上</translation>
     </message>
 </context>
 <context>
@@ -22,37 +22,37 @@
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="202"/>
         <source>Sun</source>
-        <translation/>
+        <translation>日</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="203"/>
         <source>Mon</source>
-        <translation/>
+        <translation>一</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="204"/>
         <source>Tue</source>
-        <translation/>
+        <translation>二</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="205"/>
         <source>Wed</source>
-        <translation/>
+        <translation>三</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="206"/>
         <source>Thu</source>
-        <translation/>
+        <translation>四</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="207"/>
         <source>Fri</source>
-        <translation/>
+        <translation>五</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="208"/>
         <source>Sat</source>
-        <translation/>
+        <translation>六</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="210"/>
@@ -173,7 +173,7 @@
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="533"/>
         <source>day-month-year</source>
-        <translation/>
+        <translation>日-月-年</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="551"/>
@@ -188,7 +188,7 @@
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="597"/>
         <source>dateUnitThree</source>
-        <translation/>
+        <translation>日本</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/DatePicker.qml" line="620"/>
@@ -326,7 +326,8 @@
     <message>
         <location filename="../../src/components/ux/ModalDialog.qml" line="271"/>
         <source>left-to-right</source>
-        <translation/>
+        <translation>左至右
+</translation>
     </message>
 </context>
 <context>
@@ -334,12 +335,12 @@
     <message>
         <location filename="../../src/components/ux/MucMediaGridView.qml" line="327"/>
         <source>%1 Minute</source>
-        <translation/>
+        <translation>%1 分鐘</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/MucMediaGridView.qml" line="327"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 分鐘</translation>
     </message>
 </context>
 <context>
@@ -422,7 +423,7 @@
     <message>
         <location filename="../../src/components/ux/ScrollableMusicList.qml" line="186"/>
         <source>%1:%2</source>
-        <translation/>
+        <translation>%1:%2</translation>
     </message>
 </context>
 <context>
@@ -430,7 +431,7 @@
     <message>
         <location filename="../../src/components/ux/StatusBar.qml" line="110"/>
         <source>%1: %2</source>
-        <translation/>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -443,7 +444,7 @@
     <message>
         <location filename="../../src/components/ux/TimePicker.qml" line="138"/>
         <source>%1:%2 %3</source>
-        <translation/>
+        <translation>%3 %1:%2</translation>
     </message>
     <message>
         <location filename="../../src/components/ux/TimePicker.qml" line="226"/>

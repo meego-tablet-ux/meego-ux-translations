@@ -300,7 +300,7 @@
     <message>
         <location filename="../../Components/StatusBar.qml" line="106"/>
         <source>%1 : %2</source>
-        <translation/>
+        <translation>%1 : %2</translation>
     </message>
 </context>
 <context>

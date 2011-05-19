@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="es_CR" version="2.0">
 <context>
     <name/>
     <message>
@@ -7,7 +7,7 @@
         <extracomment>IDS_ABOUT_VERSION_COMPANY_NAME
 - description: Company name on the about pages
 </extracomment>
-        <translation>MeeGo</translation>
+        <translation>Meego</translation>
     </message>
     <message>
         <location filename="id" line="496379237"/>
@@ -15,7 +15,7 @@
         <extracomment>IDS_PASSWORD_MANAGER_SAVE_PASSWORD_PROMPT
 - description: Info bar message to save a password
 </extracomment>
-        <translation>Deseja que o navegador Meego salve sua senha?</translation>
+        <translation>¿Desea que Meego navegador guarde su contraseña?</translation>
     </message>
     <message>
         <location filename="id" line="311677227"/>
@@ -23,7 +23,7 @@
         <extracomment>IDS_ABOUT_VERSION_COPYRIGHT
 - description: Copyright information on the about pages
 </extracomment>
-        <translation>Copyright © 2010-2011 MeeGo. Todos os direitos reservados.</translation>
+        <translation>Derechos de autor © 2010-2011 Meego. Todos los derechos reservados.</translation>
     </message>
     <message>
         <location filename="id" line="-1572705952"/>
@@ -31,7 +31,7 @@
         <extracomment>IDS_DEFAULT_BROWSER_INFOBAR_SHORT_TEXT
 - description: More compact text to show in the default browser query infobar.
 </extracomment>
-        <translation>O navegador Meego não é o seu navegador padrão.</translation>
+        <translation>Meego navegador no es el navegador de internet predeterminado.</translation>
     </message>
     <message>
         <location filename="id" line="-209926424"/>
@@ -39,7 +39,7 @@
         <extracomment>IDS_SESSION_CRASHED_VIEW_MESSAGE
 - description: Message shown when the last session didn't exit cleanly.
 </extracomment>
-        <translation>O navegador Meego não foi finalizado corretamente. Para reabrir as páginas, cliquem e Restaurar.</translation>
+        <translation>Meego navegador no se cerró correctamente. Para volver a abrir las páginas que tenía abiertas, haga clic en Restaurar.</translation>
     </message>
     <message>
         <location filename="id" line="1550207900"/>
@@ -49,7 +49,7 @@
 IDS_SXS_SHORTCUT_NAME
 - description: The Chrome short cut name for SxS channel
 </extracomment>
-        <translation>Navegador Meego</translation>
+        <translation>Meego navegador</translation>
     </message>
 </context>
 <context>
@@ -57,24 +57,24 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="74"/>
         <source>Photos</source>
-        <translation>Fotos</translation>
+        <translation>Fotografías</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="84"/>
         <source>Movies</source>
-        <translation>Filmes</translation>
+        <translation>Películas</translation>
     </message>
 </context><context>
     <name>BookmarkList</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="199"/>
         <source>Delete bookmark</source>
-        <translation>Excluir favorito</translation>
+        <translation>Eliminar marcador</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="200"/>
         <source>Delete</source>
-        <translation>Excluir</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="203"/>
@@ -85,23 +85,23 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="205"/>
         <source>Are you sure you want to delete this bookmark?</source>
-        <translation>Tem certeza que deseja apagar esse favorito?</translation>
+        <translation>¿Está seguro que desea eliminar este marcador?</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="219"/>
         <source>Edit bookmark</source>
-        <translation>Editar favorito</translation>
+        <translation>Editar marcador</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="220"/>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation>Guardar</translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>
     <message>
         <location filename="../chrome/browser/qt/common/DownloadShelf.qml" line="220"/>
         <source>Delete</source>
-        <translation>Excluir</translation>
+        <translation>Eliminar</translation>
     </message>
 </context></TS>
