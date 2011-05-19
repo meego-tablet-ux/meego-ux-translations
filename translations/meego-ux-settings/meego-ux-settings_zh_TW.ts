@@ -128,22 +128,22 @@
 <context>
     <name>BrowserSettings</name>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="15"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="16"/>
         <source>Browser</source>
         <translation>瀏覽器</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="106"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="107"/>
         <source>Restore to default</source>
         <translation>還原為預設值</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="118"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="119"/>
         <source>Restore to default?</source>
         <translation>還原為預設值？</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="119"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="120"/>
         <source>Are you sure you want to restore default settings?</source>
         <translation>您確定要還原為預設值？</translation>
     </message>
@@ -1032,6 +1032,7 @@ Status message: successfully completed sync job.</extracomment>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="189"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="220"/>
         <source>Current Timezone is %1</source>
         <translation>目前時區是 %1</translation>
     </message>
@@ -1039,11 +1040,6 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="206"/>
         <source>Find me and keep my location updated</source>
         <translation>找到我並持續更新我的位置</translation>
-    </message>
-    <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="220"/>
-        <source>Current Timezone isal %1</source>
-        <translation>目前時區 isal %1</translation>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="242"/>

@@ -128,22 +128,22 @@
 <context>
     <name>BrowserSettings</name>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="15"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="16"/>
         <source>Browser</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="106"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="107"/>
         <source>Restore to default</source>
         <translation>Restaurer les paramètres par défaut</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="118"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="119"/>
         <source>Restore to default?</source>
         <translation>Restaurer les paramètres par défaut ?</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="119"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="120"/>
         <source>Are you sure you want to restore default settings?</source>
         <translation>Voulez-vous vraiment restaurer les paramètres par défaut ?</translation>
     </message>
@@ -1032,6 +1032,7 @@ Status message: successfully completed sync job.</extracomment>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="189"/>
+        <location filename="../../TimeDate/TimeDateSettings.qml" line="220"/>
         <source>Current Timezone is %1</source>
         <translation/>
     </message>
@@ -1039,11 +1040,6 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="206"/>
         <source>Find me and keep my location updated</source>
         <translation>Me trouver et garder mon emplacement à jour</translation>
-    </message>
-    <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="220"/>
-        <source>Current Timezone isal %1</source>
-        <translation/>
     </message>
     <message>
         <location filename="../../TimeDate/TimeDateSettings.qml" line="242"/>
