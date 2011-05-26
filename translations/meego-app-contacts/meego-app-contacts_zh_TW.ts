@@ -2,64 +2,44 @@
 <context>
     <name>AddressEditWidget</name>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="25"/>
-        <source>Address</source>
-        <translation>地址</translation>
-    </message>
-    <message>
-        <location filename="../../AddressEditWidget.qml" line="26"/>
+        <location filename="../../AddressEditWidget.qml" line="22"/>
         <source>Home</source>
         <translation>住家</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="27"/>
+        <location filename="../../AddressEditWidget.qml" line="23"/>
         <source>Work</source>
         <translation>工作</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="28"/>
+        <location filename="../../AddressEditWidget.qml" line="24"/>
         <source>Other</source>
         <translation>其他</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="29"/>
+        <location filename="../../AddressEditWidget.qml" line="25"/>
         <source>Street address</source>
         <translation>街道地址</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="30"/>
+        <location filename="../../AddressEditWidget.qml" line="26"/>
         <source>Town / City</source>
         <translation>城鎮 / 城市</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="31"/>
+        <location filename="../../AddressEditWidget.qml" line="27"/>
         <source>Region / State</source>
         <translation>區域 / 州</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="32"/>
+        <location filename="../../AddressEditWidget.qml" line="28"/>
         <source>Country</source>
         <translation>國家</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="33"/>
+        <location filename="../../AddressEditWidget.qml" line="29"/>
         <source>Postcode / Zip</source>
         <translation>郵遞區號</translation>
-    </message>
-    <message>
-        <location filename="../../AddressEditWidget.qml" line="34"/>
-        <source>Add address</source>
-        <translation>加入地址</translation>
-    </message>
-    <message>
-        <location filename="../../AddressEditWidget.qml" line="35"/>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
-        <location filename="../../AddressEditWidget.qml" line="36"/>
-        <source>Add</source>
-        <translation>新增</translation>
     </message>
 </context>
 <context>
@@ -112,39 +92,52 @@
     </message>
 </context>
 <context>
+    <name>ContactsExpandableDetails</name>
+    <message>
+        <location filename="../../ContactsExpandableDetails.qml" line="31"/>
+        <source>Add</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../ContactsExpandableDetails.qml" line="32"/>
+        <source>Cancel</source>
+        <translation/>
+    </message>
+</context>
+<context>
     <name>ContactsSettings</name>
     <message>
-        <location filename="../../ContactsSettings.qml" line="17"/>
+        <location filename="../../ContactsSettings.qml" line="16"/>
         <source>Contacts Settings</source>
         <translation>聯絡人設定</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="18"/>
+        <location filename="../../ContactsSettings.qml" line="17"/>
         <source>Sort Order:</source>
         <translation>排序順序：</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="19"/>
+        <location filename="../../ContactsSettings.qml" line="18"/>
         <source>Display Order:</source>
         <translation>顯示順序：</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="20"/>
+        <location filename="../../ContactsSettings.qml" line="19"/>
         <source>Sort by first name</source>
         <translation>依名排序</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="21"/>
+        <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Sort by last name</source>
         <translation>依姓排序</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="22"/>
+        <location filename="../../ContactsSettings.qml" line="21"/>
         <source>Display by first name</source>
         <translation>依名顯示</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="23"/>
+        <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Display by last name</source>
         <translation>依姓顯示</translation>
     </message>
@@ -357,81 +350,116 @@
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="38"/>
+        <source>Pronounciation</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="39"/>
         <source>Company</source>
         <translation>公司</translation>
     </message>
     <message>
-        <location filename="../../EditViewPortrait.qml" line="39"/>
+        <location filename="../../EditViewPortrait.qml" line="40"/>
         <source>Enter note</source>
         <translation>輸入備註</translation>
     </message>
     <message>
-        <location filename="../../EditViewPortrait.qml" line="40"/>
+        <location filename="../../EditViewPortrait.qml" line="41"/>
         <source>Enter birthday</source>
         <translation>輸入生日</translation>
     </message>
     <message>
-        <location filename="../../EditViewPortrait.qml" line="41"/>
+        <location filename="../../EditViewPortrait.qml" line="42"/>
         <source>Birthday</source>
         <translation>生日</translation>
     </message>
     <message>
-        <location filename="../../EditViewPortrait.qml" line="42"/>
+        <location filename="../../EditViewPortrait.qml" line="43"/>
         <source>Note</source>
         <translation>備註</translation>
     </message>
     <message>
-        <location filename="../../EditViewPortrait.qml" line="45"/>
+        <location filename="../../EditViewPortrait.qml" line="46"/>
         <source>Favorite</source>
         <translation>喜愛</translation>
     </message>
     <message>
-        <location filename="../../EditViewPortrait.qml" line="47"/>
+        <location filename="../../EditViewPortrait.qml" line="48"/>
         <source>Unfavorite</source>
         <translation>非喜愛</translation>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="50"/>
+        <source>Phone numbers</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="51"/>
+        <source>Add number</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="52"/>
+        <source>Instant messaging</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="53"/>
+        <source>Add account</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="54"/>
+        <source>Email</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="55"/>
+        <source>Add email address</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="56"/>
+        <source>Web</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="57"/>
+        <source>Add web page</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="58"/>
+        <source>Address</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="59"/>
+        <source>Add address</source>
+        <translation/>
     </message>
 </context>
 <context>
     <name>EmailEditWidget</name>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="25"/>
+        <location filename="../../EmailEditWidget.qml" line="22"/>
         <source>Home</source>
         <translation>住家</translation>
     </message>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="26"/>
+        <location filename="../../EmailEditWidget.qml" line="23"/>
         <source>Work</source>
         <translation>工作</translation>
     </message>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="27"/>
+        <location filename="../../EmailEditWidget.qml" line="24"/>
         <source>Other</source>
         <translation>其他</translation>
     </message>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="28"/>
+        <location filename="../../EmailEditWidget.qml" line="25"/>
         <source>Email address</source>
         <translation>電子郵件位址</translation>
-    </message>
-    <message>
-        <location filename="../../EmailEditWidget.qml" line="29"/>
-        <source>Email</source>
-        <translation>電子郵件</translation>
-    </message>
-    <message>
-        <location filename="../../EmailEditWidget.qml" line="30"/>
-        <source>Add email address</source>
-        <translation>新增電子郵件位址</translation>
-    </message>
-    <message>
-        <location filename="../../EmailEditWidget.qml" line="31"/>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
-        <location filename="../../EmailEditWidget.qml" line="32"/>
-        <source>Add</source>
-        <translation>加入</translation>
     </message>
 </context>
 <context>
@@ -458,74 +486,67 @@
 <context>
     <name>ImEditWidget</name>
     <message>
-        <location filename="../../ImEditWidget.qml" line="26"/>
-        <source>Add account</source>
-        <translation>加入帳戶</translation>
-    </message>
-    <message>
-        <location filename="../../ImEditWidget.qml" line="27"/>
+        <location filename="../../ImEditWidget.qml" line="24"/>
         <source>Instant messaging</source>
         <translation>即時通訊 (IM)</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="28"/>
+        <location filename="../../ImEditWidget.qml" line="25"/>
         <source>AIM</source>
         <translation>AIM</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="29"/>
+        <location filename="../../ImEditWidget.qml" line="26"/>
         <source>MSN</source>
         <translation>MSN</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="30"/>
+        <location filename="../../ImEditWidget.qml" line="27"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="31"/>
-        <source>Yahoo</source>
-        <translation>Yahoo!</translation>
+        <location filename="../../ImEditWidget.qml" line="28"/>
+        <source>Yahoo!</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="32"/>
+        <location filename="../../ImEditWidget.qml" line="29"/>
         <source>Facebook</source>
         <translation>Facebook</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="33"/>
+        <location filename="../../ImEditWidget.qml" line="30"/>
         <source>gTalk</source>
         <translation>gTalk</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="34"/>
+        <location filename="../../ImEditWidget.qml" line="31"/>
         <source>Account Name / ID</source>
         <translation>帳戶名稱 / ID</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="35"/>
+        <location filename="../../ImEditWidget.qml" line="32"/>
         <source>Account Type</source>
         <translation>帳戶類型</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="36"/>
+        <location filename="../../ImEditWidget.qml" line="33"/>
         <source>No IM accounts are configured</source>
         <translation>未設定任何 IM 帳戶</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="37"/>
+        <location filename="../../ImEditWidget.qml" line="34"/>
         <source>No buddies for this account</source>
         <translation>此帳戶沒有任何好友</translation>
     </message>
+</context>
+<context>
+    <name>IndexModel</name>
     <message>
-        <location filename="../../ImEditWidget.qml" line="38"/>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
-        <location filename="../../ImEditWidget.qml" line="39"/>
-        <source>Add</source>
-        <translation>加入</translation>
+        <location filename="../../IndexModel.qml" line="8"/>
+        <source>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z #</source>
+        <translation/>
     </message>
 </context>
 <context>
@@ -557,94 +578,149 @@
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="34"/>
+        <source>Pronounciation</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="35"/>
         <source>Last name</source>
         <translation>姓</translation>
     </message>
     <message>
-        <location filename="../../NewContactViewPortrait.qml" line="35"/>
+        <location filename="../../NewContactViewPortrait.qml" line="36"/>
         <source>Company</source>
         <translation>公司</translation>
     </message>
     <message>
-        <location filename="../../NewContactViewPortrait.qml" line="36"/>
+        <location filename="../../NewContactViewPortrait.qml" line="37"/>
         <source>Enter note</source>
         <translation>輸入備註</translation>
     </message>
     <message>
-        <location filename="../../NewContactViewPortrait.qml" line="37"/>
+        <location filename="../../NewContactViewPortrait.qml" line="38"/>
         <source>Enter birthday</source>
         <translation>輸入生日</translation>
     </message>
     <message>
-        <location filename="../../NewContactViewPortrait.qml" line="38"/>
+        <location filename="../../NewContactViewPortrait.qml" line="39"/>
         <source>Birthday</source>
         <translation>生日</translation>
     </message>
     <message>
-        <location filename="../../NewContactViewPortrait.qml" line="39"/>
+        <location filename="../../NewContactViewPortrait.qml" line="40"/>
         <source>Note</source>
         <translation>備註</translation>
     </message>
     <message>
-        <location filename="../../NewContactViewPortrait.qml" line="43"/>
+        <location filename="../../NewContactViewPortrait.qml" line="44"/>
         <source>Unfavorite</source>
         <translation>非</translation>
     </message>
     <message>
-        <location filename="../../NewContactViewPortrait.qml" line="44"/>
+        <location filename="../../NewContactViewPortrait.qml" line="45"/>
         <source>Favorite</source>
         <translation>喜愛</translation>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="47"/>
+        <source>Phone numbers</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="48"/>
+        <source>Add number</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="49"/>
+        <source>Instant messaging</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="50"/>
+        <source>Add account</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="51"/>
+        <source>Email</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="52"/>
+        <source>Add email address</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="53"/>
+        <source>Web</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="54"/>
+        <source>Add web page</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="55"/>
+        <source>Address</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="56"/>
+        <source>Add address</source>
+        <translation/>
     </message>
 </context>
 <context>
     <name>PhoneEditWidget</name>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="25"/>
+        <location filename="../../PhoneEditWidget.qml" line="22"/>
         <source>Address</source>
         <translation>地址</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="26"/>
+        <location filename="../../PhoneEditWidget.qml" line="23"/>
         <source>Home</source>
         <translation>住家</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="27"/>
+        <location filename="../../PhoneEditWidget.qml" line="24"/>
         <source>Work</source>
         <translation>工作</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="28"/>
+        <location filename="../../PhoneEditWidget.qml" line="25"/>
         <source>Other</source>
         <translation>其他</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="29"/>
+        <location filename="../../PhoneEditWidget.qml" line="26"/>
         <source>Mobile</source>
         <translation>行動電話</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="30"/>
+        <location filename="../../PhoneEditWidget.qml" line="27"/>
         <source>Phone numbers</source>
         <translation>電話號碼</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="31"/>
+        <location filename="../../PhoneEditWidget.qml" line="28"/>
         <source>Add number</source>
         <translation>加入號碼</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="32"/>
+        <location filename="../../PhoneEditWidget.qml" line="29"/>
         <source>Phone number</source>
         <translation>電話號碼</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="33"/>
+        <location filename="../../PhoneEditWidget.qml" line="30"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="34"/>
+        <location filename="../../PhoneEditWidget.qml" line="31"/>
         <source>Add</source>
         <translation>加入</translation>
     </message>
@@ -652,132 +728,117 @@
 <context>
     <name>WebPageEditWidget</name>
     <message>
-        <location filename="../../WebPageEditWidget.qml" line="25"/>
-        <source>Add web page</source>
-        <translation>加入網頁</translation>
-    </message>
-    <message>
-        <location filename="../../WebPageEditWidget.qml" line="26"/>
+        <location filename="../../WebPageEditWidget.qml" line="22"/>
         <source>Site</source>
         <translation>網站</translation>
     </message>
     <message>
-        <location filename="../../WebPageEditWidget.qml" line="27"/>
-        <source>Web</source>
-        <translation>網路</translation>
-    </message>
-    <message>
-        <location filename="../../WebPageEditWidget.qml" line="28"/>
+        <location filename="../../WebPageEditWidget.qml" line="23"/>
         <source>Bookmark</source>
         <translation>書籤</translation>
     </message>
     <message>
-        <location filename="../../WebPageEditWidget.qml" line="29"/>
+        <location filename="../../WebPageEditWidget.qml" line="24"/>
         <source>Favorite</source>
         <translation>喜愛</translation>
-    </message>
-    <message>
-        <location filename="../../WebPageEditWidget.qml" line="30"/>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
-        <location filename="../../WebPageEditWidget.qml" line="31"/>
-        <source>Add</source>
-        <translation>加入</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
         <location filename="../../main.qml" line="16"/>
-        <location filename="../../main.qml" line="40"/>
+        <location filename="../../main.qml" line="42"/>
         <source>Contacts</source>
         <translation>聯絡人</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="24"/>
-        <location filename="../../main.qml" line="42"/>
+        <location filename="../../main.qml" line="25"/>
+        <location filename="../../main.qml" line="44"/>
         <source>New contact</source>
         <translation>聯絡人</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="25"/>
+        <location filename="../../main.qml" line="26"/>
         <source>All</source>
         <translation>全部</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="26"/>
+        <location filename="../../main.qml" line="27"/>
         <source>Favorites</source>
         <translation>喜愛</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="27"/>
+        <location filename="../../main.qml" line="28"/>
         <source>Who&apos;s online</source>
         <translation>誰在線上</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="29"/>
+        <location filename="../../main.qml" line="30"/>
         <source>View</source>
         <translation>檢視 </translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="30"/>
+        <location filename="../../main.qml" line="31"/>
         <source>Share</source>
         <translation>分享</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="31"/>
+        <location filename="../../main.qml" line="32"/>
         <source>Email</source>
         <translation>電子郵件</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="32"/>
+        <location filename="../../main.qml" line="33"/>
         <source>Favorite</source>
         <translation>喜愛</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="33"/>
+        <location filename="../../main.qml" line="34"/>
+        <source>UnFavorite</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="35"/>
         <source>Edit</source>
         <translation>編輯</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="34"/>
+        <location filename="../../main.qml" line="36"/>
         <source>Save</source>
         <translation>儲存</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="35"/>
+        <location filename="../../main.qml" line="37"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="36"/>
+        <location filename="../../main.qml" line="38"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="37"/>
+        <location filename="../../main.qml" line="39"/>
         <source>Delete Confirmation</source>
         <translation>確認刪除</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="41"/>
+        <location filename="../../main.qml" line="43"/>
         <source>Contact details</source>
         <translation>聯絡人細節</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="43"/>
+        <location filename="../../main.qml" line="45"/>
         <source>Edit contacts</source>
         <translation>編輯聯絡人</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="45"/>
+        <location filename="../../main.qml" line="47"/>
         <source>this contact</source>
         <translation>此聯絡人</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="46"/>
+        <location filename="../../main.qml" line="48"/>
         <source>Are you sure you want to remove %1 from your contacts?</source>
         <translation>您確定要從聯絡人資料中移除 %1？</translation>
     </message>

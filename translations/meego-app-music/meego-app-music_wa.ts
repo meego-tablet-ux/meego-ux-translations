@@ -2,57 +2,57 @@
 <context>
     <name>MusicListView</name>
     <message>
-        <location filename="../../MusicListView.qml" line="20"/>
+        <location filename="../../MusicListView.qml" line="19"/>
         <source>unknown artist</source>
         <translation>årtisse nén cnoxhou</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="21"/>
+        <location filename="../../MusicListView.qml" line="20"/>
         <source>unknown album</source>
         <translation>albom nén cnoxhou</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="22"/>
+        <location filename="../../MusicListView.qml" line="21"/>
         <source>%1</source>
         <translation>%1</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="50"/>
+        <location filename="../../MusicListView.qml" line="51"/>
         <source>Playlist name</source>
         <translation>No del djivêye a djouwer</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="52"/>
+        <location filename="../../MusicListView.qml" line="53"/>
         <source>Artist name</source>
         <translation>No di l&apos; årtisse</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="54"/>
+        <location filename="../../MusicListView.qml" line="55"/>
         <source>Album name</source>
         <translation>No di l&apos; albom</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="55"/>
+        <location filename="../../MusicListView.qml" line="56"/>
         <source>Track name</source>
         <translation>No do boket</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="70"/>
+        <location filename="../../MusicListView.qml" line="71"/>
         <source>Artist</source>
         <translation>Årtisse</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="84"/>
+        <location filename="../../MusicListView.qml" line="85"/>
         <source>Time</source>
         <translation>Durêye</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="98"/>
+        <location filename="../../MusicListView.qml" line="99"/>
         <source>Album</source>
         <translation>Albom</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="111"/>
+        <location filename="../../MusicListView.qml" line="112"/>
         <source>Number of tracks</source>
         <translation>Nombe di bokets</translation>
     </message>
@@ -275,68 +275,50 @@
     </message>
     <message>
         <location filename="../../main.qml" line="75"/>
-        <source>Buy, download or copy your music onto your table, then you can enjoy listening to it from here.</source>
-        <translation>Atchtez, aberwetez oudon-bén copyîz vosse muzike so vosse tåvlete, adon vos åroz l&apos; plaijhi del schoûter did cial.</translation>
+        <source>Buy, download or copy your music onto your tablet, then you can enjoy listening to it from here.</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="496"/>
+        <location filename="../../main.qml" line="639"/>
         <source>Artist name</source>
         <translation>No di l&apos; årtisse</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="503"/>
+        <location filename="../../main.qml" line="647"/>
         <source>Track name</source>
         <translation>No do boket</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="509"/>
+        <location filename="../../main.qml" line="661"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>Si vs disfacez çoula, i srè oisté d&apos; voste éndjin</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="521"/>
+        <location filename="../../main.qml" line="674"/>
         <source>Permanently delete this song?</source>
         <translation>Disfacer cisse tchanson po todi ?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="521"/>
+        <location filename="../../main.qml" line="674"/>
         <source>Permanently delete these %1 songs?</source>
         <translation>Disfacer ces %1 tchansons po todi ?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="534"/>
+        <location filename="../../main.qml" line="687"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>Si vs disfacez ces ci, i sront oisté d&apos; voste éndjin</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="578"/>
-        <location filename="../../main.qml" line="621"/>
+        <location filename="../../main.qml" line="735"/>
+        <location filename="../../main.qml" line="778"/>
         <source>Invalid characters: %1</source>
         <translation>Mwais caracteres : %1</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="1636"/>
-        <location filename="../../main.qml" line="1938"/>
+        <location filename="../../main.qml" line="1785"/>
+        <location filename="../../main.qml" line="2084"/>
         <source>%1 songs</source>
         <translation>%1 tchansons</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1648"/>
-        <location filename="../../main.qml" line="1950"/>
-        <source>%1 seconds</source>
-        <translation>%1 segondes</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1649"/>
-        <location filename="../../main.qml" line="1951"/>
-        <source>%1 minutes</source>
-        <translation>%1 munutes</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1650"/>
-        <location filename="../../main.qml" line="1952"/>
-        <source>%1 hours</source>
-        <translation>%1 eures</translation>
     </message>
 </context>
 </TS>

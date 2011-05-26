@@ -133,76 +133,14 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="18"/>
-        <location filename="../../main.qml" line="28"/>
-        <location filename="../../main.qml" line="137"/>
+        <location filename="../../main.qml" line="22"/>
         <source>Clocks</source>
         <translation>時鐘</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="18"/>
-        <location filename="../../main.qml" line="34"/>
+        <location filename="../../main.qml" line="22"/>
         <source>Alarms</source>
         <translation>鬧鈴</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="59"/>
-        <source>yes</source>
-        <translation>是</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="60"/>
-        <source>no</source>
-        <translation>否</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="61"/>
-        <source>Are you sure you want to delete?</source>
-        <translation>您是否確定要刪除？</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="144"/>
-        <source>New alarm</source>
-        <translation>新鬧鐘</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="144"/>
-        <source>New clock</source>
-        <translation>新時鐘</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="374"/>
-        <source>Alarm details</source>
-        <translation>鬧鈴細節</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="374"/>
-        <source>Delete alarm</source>
-        <translation>刪除鬧鈴</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="374"/>
-        <location filename="../../main.qml" line="392"/>
-        <source>Move to top</source>
-        <translation>移動至頂端</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="383"/>
-        <location filename="../../main.qml" line="392"/>
-        <source>Edit clock</source>
-        <translation>編輯時鐘</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="383"/>
-        <location filename="../../main.qml" line="392"/>
-        <source>Make local time</source>
-        <translation>設為本地時間</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="383"/>
-        <location filename="../../main.qml" line="392"/>
-        <source>Delete clock</source>
-        <translation>刪除時鐘</translation>
     </message>
 </context>
 </TS>

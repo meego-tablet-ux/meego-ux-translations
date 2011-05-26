@@ -27,16 +27,16 @@
     <name>FontSelector</name>
     <message>
         <location filename="../../FontSelector.qml" line="125"/>
-        <source>&lt;b&gt;Pick a font&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Wählen Sie einen Schriftsatz&lt;/b&gt;</translation>
+        <source>Pick a font</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../FontSelector.qml" line="147"/>
+        <location filename="../../FontSelector.qml" line="148"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../FontSelector.qml" line="173"/>
+        <location filename="../../FontSelector.qml" line="174"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
@@ -70,12 +70,12 @@
 <context>
     <name>NoteButton</name>
     <message>
-        <location filename="../../NoteButton.qml" line="105"/>
+        <location filename="../../NoteButton.qml" line="107"/>
         <source>Text Element</source>
         <translation>Textelement</translation>
     </message>
     <message>
-        <location filename="../../NoteButton.qml" line="118"/>
+        <location filename="../../NoteButton.qml" line="119"/>
         <source>Add some comments here</source>
         <translation>Geben Sie hier einige Kommentare ein</translation>
     </message>
@@ -142,8 +142,8 @@
     </message>
     <message>
         <location filename="../../NotebookSelector.qml" line="107"/>
-        <source>&lt;b&gt;Pick a notebook&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Wählen Sie ein Notizbuch&lt;/b&gt;</translation>
+        <source>Pick a notebook</source>
+        <translation/>
     </message>
 </context>
 <context>
@@ -155,132 +155,162 @@
         <translation>Tagesnotizen (Standard)</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="63"/>
-        <location filename="../../NotebooksView.qml" line="65"/>
+        <location filename="../../NotebooksView.qml" line="72"/>
+        <source>Use the default notebook, or make a new one</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="73"/>
+        <source>Create a new notebook</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="74"/>
+        <source>What&apos;s a notebook?</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="75"/>
+        <source>How do I create notes?</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="76"/>
+        <source>A notebook is a collection of notes. Use the default notebook we have created for you, or make a new one.</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="77"/>
+        <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="93"/>
+        <location filename="../../NotebooksView.qml" line="95"/>
         <source>New Notebook</source>
         <translation>Neues Notizbuch</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="65"/>
+        <location filename="../../NotebooksView.qml" line="95"/>
         <source>Select Multiple</source>
         <translation>Mehrere wählen</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="83"/>
+        <location filename="../../NotebooksView.qml" line="113"/>
         <source>View by:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="89"/>
+        <location filename="../../NotebooksView.qml" line="119"/>
         <source>All</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="89"/>
+        <location filename="../../NotebooksView.qml" line="119"/>
         <source>A-Z</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="117"/>
-        <location filename="../../NotebooksView.qml" line="153"/>
+        <location filename="../../NotebooksView.qml" line="147"/>
+        <location filename="../../NotebooksView.qml" line="183"/>
         <source>%1 Note</source>
         <translation>%1 Notiz</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="119"/>
-        <location filename="../../NotebooksView.qml" line="155"/>
+        <location filename="../../NotebooksView.qml" line="149"/>
+        <location filename="../../NotebooksView.qml" line="185"/>
         <source>%1 Notes</source>
         <translation>%1 Notizen</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="240"/>
-        <location filename="../../NotebooksView.qml" line="279"/>
-        <location filename="../../NotebooksView.qml" line="375"/>
+        <location filename="../../NotebooksView.qml" line="270"/>
+        <location filename="../../NotebooksView.qml" line="309"/>
+        <location filename="../../NotebooksView.qml" line="411"/>
         <source>Delete</source>
         <translation>Löschen</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="255"/>
-        <location filename="../../NotebooksView.qml" line="341"/>
-        <location filename="../../NotebooksView.qml" line="440"/>
+        <location filename="../../NotebooksView.qml" line="285"/>
+        <location filename="../../NotebooksView.qml" line="371"/>
+        <location filename="../../NotebooksView.qml" line="476"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="277"/>
+        <location filename="../../NotebooksView.qml" line="307"/>
         <source>Open</source>
         <translation>Öffnen</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="278"/>
+        <location filename="../../NotebooksView.qml" line="308"/>
         <source>Email</source>
         <translation>E-Mail</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="280"/>
+        <location filename="../../NotebooksView.qml" line="310"/>
         <source>Rename</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="339"/>
+        <location filename="../../NotebooksView.qml" line="369"/>
         <source>Create a new Notebook</source>
         <translation>Neues Notizbuch erstellen</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="340"/>
+        <location filename="../../NotebooksView.qml" line="370"/>
         <source>Create</source>
         <translation>Erstellen</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="342"/>
+        <location filename="../../NotebooksView.qml" line="372"/>
         <source>Notebook name</source>
         <translation>Notizbuchname</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="353"/>
-        <location filename="../../NotebooksView.qml" line="453"/>
-        <source>A NoteBook &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
+        <location filename="../../NotebooksView.qml" line="389"/>
+        <location filename="../../NotebooksView.qml" line="489"/>
+        <source>A NoteBook &apos;%1&apos; already exists.</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="377"/>
+        <location filename="../../NotebooksView.qml" line="413"/>
         <source>Are you sure you want to delete these %1 notebooks?</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="378"/>
+        <location filename="../../NotebooksView.qml" line="414"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="409"/>
-        <location filename="../../NotebooksView.qml" line="439"/>
+        <location filename="../../NotebooksView.qml" line="445"/>
+        <location filename="../../NotebooksView.qml" line="475"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="410"/>
+        <location filename="../../NotebooksView.qml" line="446"/>
         <source>Notebooks deleted</source>
         <translation>Notizbücher gelöscht</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="410"/>
+        <location filename="../../NotebooksView.qml" line="446"/>
         <source>Notebook deleted</source>
         <translation>Notizbuch gelöscht</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="413"/>
+        <location filename="../../NotebooksView.qml" line="449"/>
         <source>&quot;%1&quot; notebooks have been deleted</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="415"/>
-        <location filename="../../NotebooksView.qml" line="417"/>
+        <location filename="../../NotebooksView.qml" line="451"/>
+        <location filename="../../NotebooksView.qml" line="453"/>
         <source>&quot;%1&quot; has been deleted</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="441"/>
+        <location filename="../../NotebooksView.qml" line="477"/>
         <source>Rename NoteBook</source>
         <translation/>
     </message>
@@ -288,158 +318,188 @@
 <context>
     <name>NotesView</name>
     <message>
-        <location filename="../../NotesView.qml" line="51"/>
-        <location filename="../../NotesView.qml" line="53"/>
+        <location filename="../../NotesView.qml" line="60"/>
+        <source>This notebook is empty</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="61"/>
+        <source>Create the first note</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="62"/>
+        <source>How do I create notes?</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="63"/>
+        <source>Share your notes by email</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="64"/>
+        <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="65"/>
+        <source>To send a note by email, tap and hold the note you want to send, then select &apos;Email&apos;.</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="82"/>
+        <location filename="../../NotesView.qml" line="84"/>
         <source>New Note</source>
         <translation>Neue Notiz</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="53"/>
+        <location filename="../../NotesView.qml" line="84"/>
         <source>Select Multiple</source>
         <translation>Mehrere wählen</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="71"/>
+        <location filename="../../NotesView.qml" line="102"/>
         <source>View by:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="77"/>
+        <location filename="../../NotesView.qml" line="116"/>
         <source>All</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="77"/>
+        <location filename="../../NotesView.qml" line="116"/>
         <source>A-Z</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="114"/>
+        <location filename="../../NotesView.qml" line="153"/>
         <source>Test Notebook Name</source>
         <translation>Notizbuchname testen</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="368"/>
-        <location filename="../../NotesView.qml" line="410"/>
-        <location filename="../../NotesView.qml" line="568"/>
+        <location filename="../../NotesView.qml" line="418"/>
+        <location filename="../../NotesView.qml" line="460"/>
+        <location filename="../../NotesView.qml" line="624"/>
         <source>Delete</source>
         <translation>Löschen</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="383"/>
-        <location filename="../../NotesView.qml" line="532"/>
-        <location filename="../../NotesView.qml" line="624"/>
+        <location filename="../../NotesView.qml" line="433"/>
+        <location filename="../../NotesView.qml" line="582"/>
+        <location filename="../../NotesView.qml" line="680"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="407"/>
+        <location filename="../../NotesView.qml" line="457"/>
         <source>Open</source>
         <translation>Öffnen</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="408"/>
-        <location filename="../../NotesView.qml" line="432"/>
+        <location filename="../../NotesView.qml" line="458"/>
+        <location filename="../../NotesView.qml" line="482"/>
         <source>Email</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="409"/>
+        <location filename="../../NotesView.qml" line="459"/>
         <source>Move</source>
         <translation>Verschieben</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="411"/>
+        <location filename="../../NotesView.qml" line="461"/>
         <source>Rename</source>
         <translation>Umbenennen</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="443"/>
-        <location filename="../../NotesView.qml" line="604"/>
+        <location filename="../../NotesView.qml" line="493"/>
+        <location filename="../../NotesView.qml" line="660"/>
         <source>%1 notes have been deleted</source>
         <translation>%1 Notizen wurden gelöscht</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="447"/>
-        <location filename="../../NotesView.qml" line="451"/>
+        <location filename="../../NotesView.qml" line="497"/>
+        <location filename="../../NotesView.qml" line="501"/>
         <source>&quot;%1&quot; has been deleted</source>
         <translation>&quot;%1&quot; wurde gelöscht</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="494"/>
+        <location filename="../../NotesView.qml" line="544"/>
         <source>%1 notes have successfully been moved to &quot;%2&quot;</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="498"/>
+        <location filename="../../NotesView.qml" line="548"/>
         <source>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="530"/>
+        <location filename="../../NotesView.qml" line="580"/>
         <source>Create a new Note</source>
         <translation>Neue Notiz erstellen</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="531"/>
+        <location filename="../../NotesView.qml" line="581"/>
         <source>Create</source>
         <translation>Erstellen</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="533"/>
+        <location filename="../../NotesView.qml" line="583"/>
         <source>Note name</source>
         <translation>Notizname</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="544"/>
+        <location filename="../../NotesView.qml" line="600"/>
         <source>A Note &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="571"/>
+        <location filename="../../NotesView.qml" line="627"/>
         <source>Are you sure you want to delete these %1 notes?</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="572"/>
+        <location filename="../../NotesView.qml" line="628"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="600"/>
-        <location filename="../../NotesView.qml" line="623"/>
-        <location filename="../../NotesView.qml" line="661"/>
+        <location filename="../../NotesView.qml" line="656"/>
+        <location filename="../../NotesView.qml" line="679"/>
+        <location filename="../../NotesView.qml" line="717"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="601"/>
+        <location filename="../../NotesView.qml" line="657"/>
         <source>Notes deleted</source>
         <translation>Notizen gelöscht</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="601"/>
+        <location filename="../../NotesView.qml" line="657"/>
         <source>Note deleted</source>
         <translation>Notiz gelöscht</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="606"/>
-        <location filename="../../NotesView.qml" line="608"/>
+        <location filename="../../NotesView.qml" line="662"/>
+        <location filename="../../NotesView.qml" line="664"/>
         <source>%1 has been deleted</source>
         <translation>%1 wurde gelöscht</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="625"/>
+        <location filename="../../NotesView.qml" line="681"/>
         <source>Rename Note</source>
         <translation>Notiz umbenennen</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="635"/>
+        <location filename="../../NotesView.qml" line="691"/>
         <source>%1 (Renamed Note)</source>
         <translation>%1 (umbenannte Notiz)</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="662"/>
+        <location filename="../../NotesView.qml" line="718"/>
         <source>Note moved</source>
         <translation>Notiz verschoben</translation>
     </message>

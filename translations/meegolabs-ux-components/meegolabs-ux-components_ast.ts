@@ -176,7 +176,7 @@
         <location filename="../../localehelper.cpp" line="71"/>
         <source>mdy</source>
         <extracomment>default order for numeric date (m = month, d = date, y = year) this string should contain these exact three characters in some order</extracomment>
-        <translation>mdy</translation>
+        <translation>dmy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="83"/>
@@ -188,13 +188,13 @@
         <location filename="../../localehelper.cpp" line="109"/>
         <source>MMMM d, yyyy</source>
         <extracomment>MMMM = full month, d = day of month, yyyy = full year (e.g. January 31, 2011)</extracomment>
-        <translation/>
+        <translation>d MMMM, yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="113"/>
         <source>MMM d yyyy</source>
         <extracomment>MMM = short month, d = day of month, yyyy = full year (e.g. Jan 31 2011)</extracomment>
-        <translation/>
+        <translation>d MMM yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="121"/>
@@ -218,7 +218,7 @@
         <location filename="../../localehelper.cpp" line="133"/>
         <source>MMM yyyy</source>
         <extracomment>MMM = short month, yyyy = full year (e.g. Jan 2011)</extracomment>
-        <translation/>
+        <translation>MMM yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="137"/>
@@ -230,13 +230,13 @@
         <location filename="../../localehelper.cpp" line="141"/>
         <source>dddd</source>
         <extracomment>dddd = day of week (e.g. Monday)</extracomment>
-        <translation/>
+        <translation>dddd</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="145"/>
         <source>ddd</source>
         <extracomment>ddd = day of week (e.g. Mon)</extracomment>
-        <translation/>
+        <translation>ddd</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="149"/>
@@ -300,7 +300,7 @@
     <message>
         <location filename="../../Components/StatusBar.qml" line="106"/>
         <source>%1 : %2</source>
-        <translation/>
+        <translation>%1 : %2</translation>
     </message>
 </context>
 <context>

@@ -51,18 +51,28 @@
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="243"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="245"/>
+        <source>Properties</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="250"/>
         <source>Paired: %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="251"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="258"/>
         <source>Hardware Address: %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="259"/>
-        <source>UUids: %1</source>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="266"/>
+        <source>Icon: %1</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="274"/>
+        <source>UUIDs: %1</source>
         <translation/>
     </message>
 </context>
@@ -133,17 +143,17 @@
         <translation/>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="107"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="105"/>
         <source>Restore to default</source>
         <translation>恢复为默认</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="119"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="117"/>
         <source>Restore to default?</source>
         <translation>恢复为默认？</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="120"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="118"/>
         <source>Are you sure you want to restore default settings?</source>
         <translation>您确定要恢复默认设置？</translation>
     </message>
@@ -156,38 +166,38 @@
         <translation>手机设置</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="31"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="30"/>
         <source>Manual APN Entry</source>
         <translation>手动 APN 条目</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="61"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="60"/>
         <source>Country</source>
         <translation>国家</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="78"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="77"/>
         <source>Provider</source>
         <translation>供应商</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="93"/>
-        <location filename="../../Wifi/CellularSettings.qml" line="115"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="92"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="114"/>
         <source>APN</source>
         <translation>APN</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="126"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="125"/>
         <source>Username</source>
         <translation>用户名</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="137"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="136"/>
         <source>Password</source>
         <translation>密码</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="149"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="148"/>
         <source>Apply</source>
         <translation>应用</translation>
     </message>
@@ -231,95 +241,95 @@
         <translation>连接</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="21"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="20"/>
         <source>Ethernet</source>
         <translation>以太网</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="22"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="21"/>
         <source>Wi-Fi</source>
         <translation>Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="23"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="22"/>
         <source>Bluetooth</source>
         <translation>蓝牙</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="24"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="23"/>
         <source>3G</source>
         <translation>3G</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="25"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="24"/>
         <source>WiMAX</source>
         <translation>WiMAX</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="27"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="26"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>WPA</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="28"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="27"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>WPA2</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="29"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="28"/>
         <source>WEP</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="65"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="63"/>
         <source>Airplane Mode</source>
         <translation>飞行模式</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="98"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="96"/>
         <source>Network Connections</source>
         <translation>网络连接</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="197"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="195"/>
         <source>Available Networks</source>
         <translation>可用网络</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="206"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="220"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="204"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="218"/>
         <source>Add Network</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="234"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="232"/>
         <source>Network Name:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="250"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="248"/>
         <source>Security Type:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>none</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>wep</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="272"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="270"/>
         <source>Security Passphrase:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="298"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="296"/>
         <source>No networks available</source>
         <translation>无可用网络</translation>
     </message>
@@ -353,7 +363,35 @@
     </message>
 </context>
 <context>
+    <name>GeneralSettings</name>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="7"/>
+        <source>General</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="33"/>
+        <source>Time and Date</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="49"/>
+        <source>Sound</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="55"/>
+        <source>%1%</source>
+        <translation/>
+    </message>
+</context>
+<context>
     <name>GroupBox</name>
+    <message>
+        <location filename="../../Browser/GroupBox.qml" line="71"/>
+        <source/>
+        <translation/>
+    </message>
     <message>
         <location filename="../../Browser/GroupBox.qml" line="87"/>
         <source>group</source>
@@ -388,32 +426,32 @@
 <context>
     <name>LanguageSettings</name>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="15"/>
+        <location filename="../../Language/LanguageSettings.qml" line="16"/>
         <source>Language Settings</source>
         <translation>语言设置</translation>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="40"/>
+        <location filename="../../Language/LanguageSettings.qml" line="38"/>
         <source>Language:</source>
         <translation>语言：</translation>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="68"/>
+        <location filename="../../Language/LanguageSettings.qml" line="66"/>
         <source>Virtual Keyboard:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="96"/>
+        <location filename="../../Language/LanguageSettings.qml" line="94"/>
         <source>Date format:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="124"/>
+        <location filename="../../Language/LanguageSettings.qml" line="122"/>
         <source>Time format:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="174"/>
+        <location filename="../../Language/LanguageSettings.qml" line="172"/>
         <source>Number Format:</source>
         <translation/>
     </message>
@@ -441,6 +479,11 @@
         <translation>确定</translation>
     </message>
     <message>
+        <location filename="../../Browser/LoginDialog.qml" line="129"/>
+        <source/>
+        <translation/>
+    </message>
+    <message>
         <location filename="../../Browser/LoginDialog.qml" line="131"/>
         <source>Please enter your email address and password</source>
         <translation>请输入您的电子邮件地址和密码</translation>
@@ -454,110 +497,128 @@
 <context>
     <name>MeeGo::Sync::FrameworkClient</name>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="216"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="237"/>
         <source>completed</source>
         <extracomment>Status message: successfully completed sync job. (PLACEHOLDER)</extracomment>
         <translation>已完成</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="223"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="244"/>
         <source>finished</source>
         <extracomment>Sync finished with potential(?) error.</extracomment>
         <translation>完成</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="228"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="249"/>
         <source>internal error</source>
         <extracomment>Internal error occurred during sync.</extracomment>
         <translation>内部错误</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="233"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="254"/>
         <source>authentication failure</source>
         <extracomment>Authentication failure occurred during sync.</extracomment>
         <translation>认证失败</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="239"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="260"/>
         <source>database failure</source>
         <extracomment>Database access error occurred during sync.</extracomment>
         <translation>数据库故障</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="244"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="265"/>
         <source>suspended</source>
         <extracomment>Sync job suspended.</extracomment>
         <translation>暂停</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="249"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="270"/>
         <source>aborted</source>
         <extracomment>Sync job aborted.</extracomment>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="255"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="276"/>
         <source>connection error</source>
         <extracomment>Connection to remote sync service failed during sync.</extracomment>
         <translation>连接错误</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="261"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="282"/>
         <source>invalid syncml message</source>
         <extracomment>Invalid syncml message/request submitted during sync.</extracomment>
         <translation>无效 syncml 信息</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="267"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="288"/>
         <source>unsupported sync type</source>
         <extracomment>Unsupported sync type (manual or auto?)</extracomment>
         <translation>不支持的同步类型</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="273"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="294"/>
         <source>unsupported storage type</source>
         <extracomment>&quot;Storage&quot; refers to contacts, calendar, etc.</extracomment>
         <translation>不支持的储存类型</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="282"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="303"/>
         <source>other</source>
         <extracomment>Unknown error occurred during sync.</extracomment>
         <translation>其它</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="317"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="343"/>
         <source>Last sync %1</source>
         <extracomment>Arg 1 is a &quot;fuzzy time&quot;, e.g. &quot;2 min ago&quot;.</extracomment>
         <translation>上次同步 %1</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="323"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="349"/>
         <source>Last sync failed: %1</source>
         <extracomment>Arg 1 is a brief sync error description, e.g. &quot;connection failed&quot;.</extracomment>
         <translation>最后同步失败时间： %1</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="459"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="403"/>
+        <source>Unable to update sync profile</source>
+        <extracomment>Failed to update and store sync account/profile info on disk.</extracomment>
+        <translation>无法更新同步配置文件</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="432"/>
+        <source>Sync scheduling failed</source>
+        <extracomment>Attempt to set automatic sync schedule failed.</extracomment>
+        <translation>同步日程表失败</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="502"/>
+        <source>Unable to forget sync account!</source>
+        <extracomment>Displayed when removal of sync account information fails.</extracomment>
+        <translation>无法删除同步帐号！</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="522"/>
         <source>Sync request queued</source>
         <extracomment>Status message: sync request/job has been queued</extracomment>
         <translation>同步请求已列队</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="465"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="528"/>
         <source>Sync started</source>
         <extracomment>Status message: sync job started</extracomment>
         <translation>同步已开始</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="471"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="534"/>
         <source>Syncing now...</source>
         <extracomment>Status message: Sync in-progress</extracomment>
         <translation>正在同步...</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="483"/>
-        <location filename="../../Sync/FrameworkClient.cpp" line="514"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="546"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="577"/>
         <source>Sync completed</source>
         <extracomment>Status message: Sync job completed
 ----------
@@ -565,69 +626,33 @@ Status message: successfully completed sync job.</extracomment>
         <translation>同步已完成</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="489"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="552"/>
         <source>Sync aborted</source>
         <extracomment>Sync explicitly stopped.</extracomment>
         <translation>同步已中止</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="496"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="559"/>
         <source>Unknown sync status</source>
         <extracomment>Status message: Displayed when an unknown/unhandled error occurs.</extracomment>
         <translation>未知同步状态</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="522"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="585"/>
         <source>Sync failed: %1</source>
         <extracomment>Sync result message. The argument provides the error details.</extracomment>
         <translation>同步失败： %1</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="526"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="589"/>
         <source>%1 %2 sync failed</source>
         <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="605"/>
-        <source>Unable to update sync profile</source>
-        <extracomment>Failed to update and store sync account/profile info on disk.</extracomment>
-        <translation>无法更新同步配置文件</translation>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="635"/>
-        <source>Sync scheduling failed</source>
-        <extracomment>Attempt to set automatic sync schedule failed.</extracomment>
-        <translation>同步日程表失败</translation>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="677"/>
-        <source>Unable to forget sync account!</source>
-        <extracomment>Displayed when removal of sync account information fails.</extracomment>
-        <translation>无法删除同步帐号！</translation>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="693"/>
-        <source>Failed to store credentials</source>
-        <extracomment>Internal error. Failed to store user supplied credentials in DB.</extracomment>
-        <translation>无法存储身份凭证</translation>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="697"/>
-        <source>Failed to clear credentials</source>
-        <extracomment>Displayed when clearing stored sync account credentials fails.</extracomment>
-        <translation>无法清除身份凭证</translation>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="701"/>
-        <source>Unknown credentials error</source>
-        <extracomment>We're really not expecting any other kinds of cred errors.</extracomment>
-        <translation>未知身份凭证错误</translation>
     </message>
 </context>
 <context>
     <name>NearbyDevices</name>
     <message>
-        <location filename="../../Bluetooth/NearbyDevices.qml" line="15"/>
+        <location filename="../../Bluetooth/NearbyDevices.qml" line="16"/>
         <source>Add New Device</source>
         <translation>新增设备</translation>
     </message>
@@ -661,12 +686,12 @@ Status message: successfully completed sync job.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
+        <location filename="../../Notifications/NotificationSettings.qml" line="45"/>
         <source>By default, phone and messaging notifications will be shown on the lockscreen.</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Notifications/NotificationSettings.qml" line="67"/>
+        <location filename="../../Notifications/NotificationSettings.qml" line="64"/>
         <source>You may select up to 4 additional notifications to receive on the lockscreen</source>
         <translation/>
     </message>
@@ -844,22 +869,22 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>SetTimezoneMenu</name>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="79"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="79"/>
         <source>Filter list</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="124"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="124"/>
         <source>GMT</source>
         <translation>格林威治时间</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="162"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="162"/>
         <source>Ok</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="177"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="177"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -899,31 +924,31 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>SyncDetails</name>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="119"/>
+        <location filename="../../Sync/SyncDetails.qml" line="123"/>
         <source>%1 %2</source>
         <extracomment>Arg 1 is the name of the sync service (e.g. &quot;Yahoo!&quot;) and arg 2 is the name of the storage (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;).</extracomment>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="138"/>
+        <location filename="../../Sync/SyncDetails.qml" line="142"/>
         <source>Sync now</source>
         <extracomment>Text displayed in &quot;sync now&quot; button.</extracomment>
         <translation>现在同步</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="161"/>
+        <location filename="../../Sync/SyncDetails.qml" line="165"/>
         <source>Sync %1</source>
         <extracomment>Argument is sync storage (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;).</extracomment>
         <translation>同步%1</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="200"/>
+        <location filename="../../Sync/SyncDetails.qml" line="204"/>
         <source>Sync account details</source>
         <extracomment>Title of &quot;account details&quot; area of page.</extracomment>
         <translation>同步帐号信息</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="217"/>
+        <location filename="../../Sync/SyncDetails.qml" line="221"/>
         <source>Forget this</source>
         <extracomment>Text displayed in &quot;forget this&quot; button (used to remove current sync account).</extracomment>
         <translation>删除此项</translation>
@@ -932,7 +957,7 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>SyncList</name>
     <message>
-        <location filename="../../Sync/SyncList.qml" line="41"/>
+        <location filename="../../Sync/SyncList.qml" line="40"/>
         <source>Sync %1</source>
         <extracomment>Arg 1 refers to the storage type (e.g. Contacts, Calendar, etc)</extracomment>
         <translation>同步%1</translation>
@@ -941,7 +966,7 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>SyncListDelegate</name>
     <message>
-        <location filename="../../Sync/SyncListDelegate.qml" line="125"/>
+        <location filename="../../Sync/SyncListDelegate.qml" line="89"/>
         <source>%1 %2</source>
         <extracomment>Arg 1 is the sync service name (e.g. &quot;Yahoo!&quot;) and arg 2 is the storage name (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;.</extracomment>
         <translation>%1 %2</translation>
@@ -989,7 +1014,7 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>SyncMain</name>
     <message>
-        <location filename="../../Sync/SyncMain.qml" line="16"/>
+        <location filename="../../Sync/SyncMain.qml" line="17"/>
         <source>Sync Settings</source>
         <extracomment>The title of the Sync UI displayed to the user.</extracomment>
         <translation>同步设置</translation>
@@ -1006,68 +1031,55 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>TimeDateSettings</name>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="16"/>
-        <source>Time and Date</source>
-        <translation>时间和日期</translation>
-    </message>
-    <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="41"/>
+        <location filename="../../General/TimeDateSettings.qml" line="35"/>
         <source>What time it is</source>
         <translation>什么时候</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="113"/>
+        <location filename="../../General/TimeDateSettings.qml" line="107"/>
         <source>24 hour clock</source>
         <translation>24 小时时钟</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="142"/>
+        <location filename="../../General/TimeDateSettings.qml" line="136"/>
         <source>Set date and time automatically</source>
         <translation>自动设置日期和时间</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="170"/>
+        <location filename="../../General/TimeDateSettings.qml" line="164"/>
         <source>Where you are</source>
         <translation>您在哪里</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="189"/>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="220"/>
+        <location filename="../../General/TimeDateSettings.qml" line="183"/>
+        <location filename="../../General/TimeDateSettings.qml" line="214"/>
         <source>Current Timezone is %1</source>
         <translation>当前的时区是 %1</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="206"/>
+        <location filename="../../General/TimeDateSettings.qml" line="200"/>
         <source>Find me and keep my location updated</source>
         <translation>找到我并随时更新我的位置</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="242"/>
+        <location filename="../../General/TimeDateSettings.qml" line="236"/>
         <source>Manual time zone selection</source>
         <translation>手动选择时区</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="261"/>
+        <location filename="../../General/TimeDateSettings.qml" line="255"/>
         <source>Set Time Zone</source>
         <translation>设定时区</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="276"/>
+        <location filename="../../General/TimeDateSettings.qml" line="270"/>
         <source>Current Timezone is </source>
         <translation>当前的时区是 </translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="282"/>
+        <location filename="../../General/TimeDateSettings.qml" line="276"/>
         <source>Unable to set timezone manually</source>
         <translation>无法手动设定时区</translation>
-    </message>
-</context>
-<context>
-    <name>VolumeSettings</name>
-    <message>
-        <location filename="../../Volume/VolumeSettings.qml" line="15"/>
-        <source>Sound</source>
-        <translation>声音</translation>
     </message>
 </context>
 <context>
@@ -1231,7 +1243,7 @@ Status message: successfully completed sync job.</extracomment>
         <translation>所有设置</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="112"/>
+        <location filename="../../main.qml" line="111"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>

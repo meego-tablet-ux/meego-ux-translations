@@ -2,56 +2,56 @@
 <context>
     <name>MyTabletPanel</name>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="67"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="57"/>
         <source>Wi-Fi</source>
         <translation>Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="73"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="63"/>
         <source>Sound</source>
         <translation>Ses</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="79"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="69"/>
         <source>All settings</source>
         <translation>Tüm ayarlar</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="95"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="85"/>
         <source>View all applications</source>
         <translation>Tüm uygulamaları görüntüle</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="105"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="95"/>
         <source>Visit the Intel AppUp(sm) center</source>
         <translation>Intel AppUp(sm) merkezini ziyaret edin</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="127"/>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="166"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="117"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="158"/>
         <source>Top applications</source>
         <translation>En son uygulamalar</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="128"/>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="175"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="118"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="166"/>
         <source>Settings</source>
         <translation>Ayarlar</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="134"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="124"/>
         <source>My Tablet</source>
-        <translation>Tablet&apos;im</translation>
+        <translation>Tabletim</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="187"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="177"/>
         <source>My Tablet settings</source>
-        <translation>Tablet&apos;imin ayarları</translation>
+        <translation>Tabletim ayarları</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="188"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="178"/>
         <source>My Tablet content</source>
-        <translation/>
+        <translation>Tabletim içeriği</translation>
     </message>
 </context>
 </TS>

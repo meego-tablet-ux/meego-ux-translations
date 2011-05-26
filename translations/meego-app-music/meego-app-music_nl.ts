@@ -2,59 +2,59 @@
 <context>
     <name>MusicListView</name>
     <message>
-        <location filename="../../MusicListView.qml" line="20"/>
+        <location filename="../../MusicListView.qml" line="19"/>
         <source>unknown artist</source>
         <translation>onbekende artiest</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="21"/>
+        <location filename="../../MusicListView.qml" line="20"/>
         <source>unknown album</source>
         <translation>onbekend album</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="22"/>
+        <location filename="../../MusicListView.qml" line="21"/>
         <source>%1</source>
-        <translation/>
+        <translation>%1</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="50"/>
+        <location filename="../../MusicListView.qml" line="51"/>
         <source>Playlist name</source>
-        <translation/>
+        <translation>Afspeellijst naam</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="52"/>
+        <location filename="../../MusicListView.qml" line="53"/>
         <source>Artist name</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../MusicListView.qml" line="54"/>
-        <source>Album name</source>
-        <translation/>
+        <translation>Artiest naam</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="55"/>
-        <source>Track name</source>
-        <translation/>
+        <source>Album name</source>
+        <translation>Album naam</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="70"/>
+        <location filename="../../MusicListView.qml" line="56"/>
+        <source>Track name</source>
+        <translation>Tracknaam</translation>
+    </message>
+    <message>
+        <location filename="../../MusicListView.qml" line="71"/>
         <source>Artist</source>
         <translation>Artiest</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="84"/>
+        <location filename="../../MusicListView.qml" line="85"/>
         <source>Time</source>
         <translation>Tijd</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="98"/>
+        <location filename="../../MusicListView.qml" line="99"/>
         <source>Album</source>
         <translation>Album</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="111"/>
+        <location filename="../../MusicListView.qml" line="112"/>
         <source>Number of tracks</source>
-        <translation/>
+        <translation>Aantal nummers</translation>
     </message>
 </context>
 <context>
@@ -62,12 +62,12 @@
     <message>
         <location filename="../../MusicToolBar.qml" line="54"/>
         <source>Now playing: </source>
-        <translation/>
+        <translation>Speelt nu af:</translation>
     </message>
     <message>
         <location filename="../../MusicToolBar.qml" line="63"/>
         <source>%1, %2</source>
-        <translation/>
+        <translation>%1, %2</translation>
     </message>
 </context>
 <context>
@@ -75,7 +75,7 @@
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Play queue</source>
-        <translation/>
+        <translation>Speel wachtrij</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>All tracks</source>
-        <translation/>
+        <translation>Alle nummers</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Open album</source>
-        <translation/>
+        <translation>Open album</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
@@ -155,7 +155,7 @@
     <message>
         <location filename="../../main.qml" line="42"/>
         <source>Remove from playlist</source>
-        <translation/>
+        <translation>Verwijder van playlist</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="44"/>
@@ -186,12 +186,12 @@
     <message>
         <location filename="../../main.qml" line="50"/>
         <source>Remove from queue</source>
-        <translation/>
+        <translation>Verwijder van wachtrij</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="51"/>
         <source>Create</source>
-        <translation/>
+        <translation>Maak</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="52"/>
@@ -206,22 +206,22 @@
     <message>
         <location filename="../../main.qml" line="54"/>
         <source>Clear playlist</source>
-        <translation/>
+        <translation>Afspeellijst wissen</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="56"/>
         <source>%1 items</source>
-        <translation/>
+        <translation>%1 items</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="57"/>
         <source>%1 album</source>
-        <translation/>
+        <translation>%1 album</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="58"/>
         <source>%1 tracks</source>
-        <translation/>
+        <translation>%1 nummers</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="60"/>
@@ -236,22 +236,22 @@
     <message>
         <location filename="../../main.qml" line="63"/>
         <source>Alphabetically</source>
-        <translation/>
+        <translation>Op alfabetische volgorde</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="64"/>
         <source>By date</source>
-        <translation/>
+        <translation>Bij datum</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="66"/>
         <source>Create new playlist</source>
-        <translation/>
+        <translation>Maak nieuwe afspeellijst</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="67"/>
         <source>Rename playlist</source>
-        <translation/>
+        <translation>Hernoem afspeellijst</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="70"/>
@@ -261,82 +261,64 @@
     <message>
         <location filename="../../main.qml" line="71"/>
         <source>Type playlist name here.</source>
-        <translation/>
+        <translation>Typ afspeellijst naam hier</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>Select multiple songs</source>
-        <translation/>
+        <translation>Selecteer meerdere nummers</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
         <source>Where is all the music?</source>
-        <translation/>
+        <translation>Waar is alle muziek?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="75"/>
-        <source>Buy, download or copy your music onto your table, then you can enjoy listening to it from here.</source>
+        <source>Buy, download or copy your music onto your tablet, then you can enjoy listening to it from here.</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="496"/>
+        <location filename="../../main.qml" line="639"/>
         <source>Artist name</source>
-        <translation/>
+        <translation>Artiest naam</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="503"/>
+        <location filename="../../main.qml" line="647"/>
         <source>Track name</source>
-        <translation/>
+        <translation>Tracknaam</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="509"/>
+        <location filename="../../main.qml" line="661"/>
         <source>If you delete this, it will be removed from your device</source>
-        <translation/>
+        <translation>Als je dit verwijdert, dan wordt het van je apparaat verwijderd</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="521"/>
+        <location filename="../../main.qml" line="674"/>
         <source>Permanently delete this song?</source>
-        <translation/>
+        <translation>Nummer permanent verwijderen? </translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="521"/>
+        <location filename="../../main.qml" line="674"/>
         <source>Permanently delete these %1 songs?</source>
-        <translation/>
+        <translation>Deze %1 nummers permanent verwijderen? </translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="534"/>
+        <location filename="../../main.qml" line="687"/>
         <source>If you delete these, they will be removed from your device</source>
-        <translation/>
+        <translation>Als je deze verwijdert, dan worden ze van je apparaat verwijderd</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="578"/>
-        <location filename="../../main.qml" line="621"/>
+        <location filename="../../main.qml" line="735"/>
+        <location filename="../../main.qml" line="778"/>
         <source>Invalid characters: %1</source>
-        <translation/>
+        <translation>%1 ongeldige tekens</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="1636"/>
-        <location filename="../../main.qml" line="1938"/>
+        <location filename="../../main.qml" line="1785"/>
+        <location filename="../../main.qml" line="2084"/>
         <source>%1 songs</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1648"/>
-        <location filename="../../main.qml" line="1950"/>
-        <source>%1 seconds</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1649"/>
-        <location filename="../../main.qml" line="1951"/>
-        <source>%1 minutes</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1650"/>
-        <location filename="../../main.qml" line="1952"/>
-        <source>%1 hours</source>
-        <translation/>
+        <translation>%1 nummers</translation>
     </message>
 </context>
 </TS>

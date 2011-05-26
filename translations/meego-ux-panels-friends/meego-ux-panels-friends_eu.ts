@@ -2,12 +2,12 @@
 <context>
     <name>FriendsItem</name>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="169"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="198"/>
         <source>Accept</source>
         <translation>Onartu</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="185"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="207"/>
         <source>Decline</source>
         <translation>Ez onartu</translation>
     </message>
@@ -15,55 +15,45 @@
 <context>
     <name>friendspanel</name>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="25"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="29"/>
         <source>Friends</source>
         <translation>Lagunak</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="32"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="35"/>
         <source>Friends settings</source>
         <translation>Lagunen ezarpenak</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="33"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="36"/>
         <source>Friends panel content</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="95"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="134"/>
         <source>You have no web accounts enabled - tap here to configure your web accounts.</source>
         <translation>Ez duzu web kontu gaiturik - sakatu hemen zure web kontuak konfiguratzeko</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="104"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="143"/>
         <source>Tap here!</source>
         <translation>Sakatu hemen!</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="153"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="192"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="204"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="245"/>
         <source>View</source>
         <translation>Ikusi</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="156"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="190"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="192"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="207"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="243"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="245"/>
         <source>Hide</source>
         <translation>Ezkutatu</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="292"/>
-        <source>Clear history from:</source>
-        <translation>Garbitu historia:</translation>
-    </message>
-    <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="365"/>
-        <source>Clear</source>
-        <translation>Garbitu</translation>
-    </message>
-    <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="428"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="371"/>
         <source>Go to settings</source>
         <translation>Joan ezarpenetara</translation>
     </message>

@@ -133,76 +133,14 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="18"/>
-        <location filename="../../main.qml" line="28"/>
-        <location filename="../../main.qml" line="137"/>
+        <location filename="../../main.qml" line="22"/>
         <source>Clocks</source>
         <translation>Saatler</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="18"/>
-        <location filename="../../main.qml" line="34"/>
+        <location filename="../../main.qml" line="22"/>
         <source>Alarms</source>
         <translation>Alarmlar</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="59"/>
-        <source>yes</source>
-        <translation>evet</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="60"/>
-        <source>no</source>
-        <translation>hayır</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="61"/>
-        <source>Are you sure you want to delete?</source>
-        <translation>Silmek istediğinize eminmisiniz?</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="144"/>
-        <source>New alarm</source>
-        <translation>Yeni alarm</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="144"/>
-        <source>New clock</source>
-        <translation>Yeni saat</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="374"/>
-        <source>Alarm details</source>
-        <translation>Alarm detayları</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="374"/>
-        <source>Delete alarm</source>
-        <translation>Alarmı Sil</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="374"/>
-        <location filename="../../main.qml" line="392"/>
-        <source>Move to top</source>
-        <translation>Yukarı Taşı</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="383"/>
-        <location filename="../../main.qml" line="392"/>
-        <source>Edit clock</source>
-        <translation>Saati düzenle</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="383"/>
-        <location filename="../../main.qml" line="392"/>
-        <source>Make local time</source>
-        <translation>Yerel saat yap</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="383"/>
-        <location filename="../../main.qml" line="392"/>
-        <source>Delete clock</source>
-        <translation>Saati sil</translation>
     </message>
 </context>
 </TS>

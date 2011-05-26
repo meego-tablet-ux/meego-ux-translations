@@ -133,76 +133,14 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="18"/>
-        <location filename="../../main.qml" line="28"/>
-        <location filename="../../main.qml" line="137"/>
+        <location filename="../../main.qml" line="22"/>
         <source>Clocks</source>
         <translation>Ôrlodje</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="18"/>
-        <location filename="../../main.qml" line="34"/>
+        <location filename="../../main.qml" line="22"/>
         <source>Alarms</source>
         <translation>Abranles</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="59"/>
-        <source>yes</source>
-        <translation>oyi</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="60"/>
-        <source>no</source>
-        <translation>nonna</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="61"/>
-        <source>Are you sure you want to delete?</source>
-        <translation>Voloz vs disfacer podbon ?</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="144"/>
-        <source>New alarm</source>
-        <translation>Novele abranle</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="144"/>
-        <source>New clock</source>
-        <translation>Novele ôrlodje</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="374"/>
-        <source>Alarm details</source>
-        <translation>Totafwait so l&apos; abranle</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="374"/>
-        <source>Delete alarm</source>
-        <translation>Disfacer abranle</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="374"/>
-        <location filename="../../main.qml" line="392"/>
-        <source>Move to top</source>
-        <translation>Monter</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="383"/>
-        <location filename="../../main.qml" line="392"/>
-        <source>Edit clock</source>
-        <translation>Candjî ôrlodje</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="383"/>
-        <location filename="../../main.qml" line="392"/>
-        <source>Make local time</source>
-        <translation>Endè fé l&apos; eure coinrece</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="383"/>
-        <location filename="../../main.qml" line="392"/>
-        <source>Delete clock</source>
-        <translation>Disfacer l&apos; ôrlodje</translation>
     </message>
 </context>
 </TS>

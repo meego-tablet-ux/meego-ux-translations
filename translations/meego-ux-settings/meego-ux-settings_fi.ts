@@ -51,18 +51,28 @@
         <translation>Poista</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="243"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="245"/>
+        <source>Properties</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="250"/>
         <source>Paired: %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="251"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="258"/>
         <source>Hardware Address: %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="259"/>
-        <source>UUids: %1</source>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="266"/>
+        <source>Icon: %1</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="274"/>
+        <source>UUIDs: %1</source>
         <translation/>
     </message>
 </context>
@@ -133,17 +143,17 @@
         <translation/>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="107"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="105"/>
         <source>Restore to default</source>
         <translation>Palauta oletukset</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="119"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="117"/>
         <source>Restore to default?</source>
         <translation>Palauta oletukset?</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="120"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="118"/>
         <source>Are you sure you want to restore default settings?</source>
         <translation>Haluatko varmasti palauttaa oletusasetukset?</translation>
     </message>
@@ -156,38 +166,38 @@
         <translation>Puhelinasetukset</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="31"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="30"/>
         <source>Manual APN Entry</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="61"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="60"/>
         <source>Country</source>
         <translation>Maa</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="78"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="77"/>
         <source>Provider</source>
         <translation>Palveluntarjoaja</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="93"/>
-        <location filename="../../Wifi/CellularSettings.qml" line="115"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="92"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="114"/>
         <source>APN</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="126"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="125"/>
         <source>Username</source>
         <translation>Käyttäjänimi</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="137"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="136"/>
         <source>Password</source>
         <translation>Salasana</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="149"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="148"/>
         <source>Apply</source>
         <translation>Käytä</translation>
     </message>
@@ -231,95 +241,95 @@
         <translation>Yhteydet</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="21"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="20"/>
         <source>Ethernet</source>
         <translation>Ethernet</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="22"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="21"/>
         <source>Wi-Fi</source>
         <translation>Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="23"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="22"/>
         <source>Bluetooth</source>
         <translation>Bluetooth</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="24"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="23"/>
         <source>3G</source>
         <translation>3G</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="25"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="24"/>
         <source>WiMAX</source>
         <translation>WiMAX</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="27"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="26"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>WPA</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="28"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="27"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>WPA2</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="29"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="28"/>
         <source>WEP</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="65"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="63"/>
         <source>Airplane Mode</source>
         <translation>Lentokone tila</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="98"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="96"/>
         <source>Network Connections</source>
         <translation>Verkkoyhteydet</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="197"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="195"/>
         <source>Available Networks</source>
         <translation>Käytössä olevat verkot</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="206"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="220"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="204"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="218"/>
         <source>Add Network</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="234"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="232"/>
         <source>Network Name:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="250"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="248"/>
         <source>Security Type:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>none</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>wep</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="272"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="270"/>
         <source>Security Passphrase:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="298"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="296"/>
         <source>No networks available</source>
         <translation>Ei yhtään verkkoa käytettävissä</translation>
     </message>
@@ -353,7 +363,35 @@
     </message>
 </context>
 <context>
+    <name>GeneralSettings</name>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="7"/>
+        <source>General</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="33"/>
+        <source>Time and Date</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="49"/>
+        <source>Sound</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="55"/>
+        <source>%1%</source>
+        <translation/>
+    </message>
+</context>
+<context>
     <name>GroupBox</name>
+    <message>
+        <location filename="../../Browser/GroupBox.qml" line="71"/>
+        <source/>
+        <translation/>
+    </message>
     <message>
         <location filename="../../Browser/GroupBox.qml" line="87"/>
         <source>group</source>
@@ -388,32 +426,32 @@
 <context>
     <name>LanguageSettings</name>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="15"/>
+        <location filename="../../Language/LanguageSettings.qml" line="16"/>
         <source>Language Settings</source>
         <translation>Kieliasetukset</translation>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="40"/>
+        <location filename="../../Language/LanguageSettings.qml" line="38"/>
         <source>Language:</source>
         <translation>Kieli:</translation>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="68"/>
+        <location filename="../../Language/LanguageSettings.qml" line="66"/>
         <source>Virtual Keyboard:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="96"/>
+        <location filename="../../Language/LanguageSettings.qml" line="94"/>
         <source>Date format:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="124"/>
+        <location filename="../../Language/LanguageSettings.qml" line="122"/>
         <source>Time format:</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="174"/>
+        <location filename="../../Language/LanguageSettings.qml" line="172"/>
         <source>Number Format:</source>
         <translation/>
     </message>
@@ -441,6 +479,11 @@
         <translation>OK</translation>
     </message>
     <message>
+        <location filename="../../Browser/LoginDialog.qml" line="129"/>
+        <source/>
+        <translation/>
+    </message>
+    <message>
         <location filename="../../Browser/LoginDialog.qml" line="131"/>
         <source>Please enter your email address and password</source>
         <translation>Syötä sähköpostiosoitteesi ja salana</translation>
@@ -454,110 +497,128 @@
 <context>
     <name>MeeGo::Sync::FrameworkClient</name>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="216"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="237"/>
         <source>completed</source>
         <extracomment>Status message: successfully completed sync job. (PLACEHOLDER)</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="223"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="244"/>
         <source>finished</source>
         <extracomment>Sync finished with potential(?) error.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="228"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="249"/>
         <source>internal error</source>
         <extracomment>Internal error occurred during sync.</extracomment>
         <translation>sisäinen virhe</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="233"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="254"/>
         <source>authentication failure</source>
         <extracomment>Authentication failure occurred during sync.</extracomment>
         <translation>tunnistautumisvirhe</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="239"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="260"/>
         <source>database failure</source>
         <extracomment>Database access error occurred during sync.</extracomment>
         <translation>tietokantavirhe</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="244"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="265"/>
         <source>suspended</source>
         <extracomment>Sync job suspended.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="249"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="270"/>
         <source>aborted</source>
         <extracomment>Sync job aborted.</extracomment>
         <translation>keskeytetty</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="255"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="276"/>
         <source>connection error</source>
         <extracomment>Connection to remote sync service failed during sync.</extracomment>
         <translation>yhdistämisvirhe</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="261"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="282"/>
         <source>invalid syncml message</source>
         <extracomment>Invalid syncml message/request submitted during sync.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="267"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="288"/>
         <source>unsupported sync type</source>
         <extracomment>Unsupported sync type (manual or auto?)</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="273"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="294"/>
         <source>unsupported storage type</source>
         <extracomment>&quot;Storage&quot; refers to contacts, calendar, etc.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="282"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="303"/>
         <source>other</source>
         <extracomment>Unknown error occurred during sync.</extracomment>
         <translation>muu</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="317"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="343"/>
         <source>Last sync %1</source>
         <extracomment>Arg 1 is a &quot;fuzzy time&quot;, e.g. &quot;2 min ago&quot;.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="323"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="349"/>
         <source>Last sync failed: %1</source>
         <extracomment>Arg 1 is a brief sync error description, e.g. &quot;connection failed&quot;.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="459"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="403"/>
+        <source>Unable to update sync profile</source>
+        <extracomment>Failed to update and store sync account/profile info on disk.</extracomment>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="432"/>
+        <source>Sync scheduling failed</source>
+        <extracomment>Attempt to set automatic sync schedule failed.</extracomment>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="502"/>
+        <source>Unable to forget sync account!</source>
+        <extracomment>Displayed when removal of sync account information fails.</extracomment>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="522"/>
         <source>Sync request queued</source>
         <extracomment>Status message: sync request/job has been queued</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="465"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="528"/>
         <source>Sync started</source>
         <extracomment>Status message: sync job started</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="471"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="534"/>
         <source>Syncing now...</source>
         <extracomment>Status message: Sync in-progress</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="483"/>
-        <location filename="../../Sync/FrameworkClient.cpp" line="514"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="546"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="577"/>
         <source>Sync completed</source>
         <extracomment>Status message: Sync job completed
 ----------
@@ -565,69 +626,33 @@ Status message: successfully completed sync job.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="489"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="552"/>
         <source>Sync aborted</source>
         <extracomment>Sync explicitly stopped.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="496"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="559"/>
         <source>Unknown sync status</source>
         <extracomment>Status message: Displayed when an unknown/unhandled error occurs.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="522"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="585"/>
         <source>Sync failed: %1</source>
         <extracomment>Sync result message. The argument provides the error details.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="526"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="589"/>
         <source>%1 %2 sync failed</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="605"/>
-        <source>Unable to update sync profile</source>
-        <extracomment>Failed to update and store sync account/profile info on disk.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="635"/>
-        <source>Sync scheduling failed</source>
-        <extracomment>Attempt to set automatic sync schedule failed.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="677"/>
-        <source>Unable to forget sync account!</source>
-        <extracomment>Displayed when removal of sync account information fails.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="693"/>
-        <source>Failed to store credentials</source>
-        <extracomment>Internal error. Failed to store user supplied credentials in DB.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="697"/>
-        <source>Failed to clear credentials</source>
-        <extracomment>Displayed when clearing stored sync account credentials fails.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="701"/>
-        <source>Unknown credentials error</source>
-        <extracomment>We're really not expecting any other kinds of cred errors.</extracomment>
         <translation/>
     </message>
 </context>
 <context>
     <name>NearbyDevices</name>
     <message>
-        <location filename="../../Bluetooth/NearbyDevices.qml" line="15"/>
+        <location filename="../../Bluetooth/NearbyDevices.qml" line="16"/>
         <source>Add New Device</source>
         <translation>Lisää uusi laite</translation>
     </message>
@@ -661,12 +686,12 @@ Status message: successfully completed sync job.</extracomment>
         <translation>Huomautukset</translation>
     </message>
     <message>
-        <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
+        <location filename="../../Notifications/NotificationSettings.qml" line="45"/>
         <source>By default, phone and messaging notifications will be shown on the lockscreen.</source>
         <translation>Oletuksena, puhelu- ja viestihuomautukset näytetään lukitusnäytössä.</translation>
     </message>
     <message>
-        <location filename="../../Notifications/NotificationSettings.qml" line="67"/>
+        <location filename="../../Notifications/NotificationSettings.qml" line="64"/>
         <source>You may select up to 4 additional notifications to receive on the lockscreen</source>
         <translation>Voit valita enintään 4 muuta lukitusnäytössä näytettävää huomautusta</translation>
     </message>
@@ -844,22 +869,22 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>SetTimezoneMenu</name>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="79"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="79"/>
         <source>Filter list</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="124"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="124"/>
         <source>GMT</source>
         <translation>GMT</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="162"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="162"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="177"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="177"/>
         <source>Cancel</source>
         <translation>Peruuta</translation>
     </message>
@@ -899,31 +924,31 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>SyncDetails</name>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="119"/>
+        <location filename="../../Sync/SyncDetails.qml" line="123"/>
         <source>%1 %2</source>
         <extracomment>Arg 1 is the name of the sync service (e.g. &quot;Yahoo!&quot;) and arg 2 is the name of the storage (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;).</extracomment>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="138"/>
+        <location filename="../../Sync/SyncDetails.qml" line="142"/>
         <source>Sync now</source>
         <extracomment>Text displayed in &quot;sync now&quot; button.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="161"/>
+        <location filename="../../Sync/SyncDetails.qml" line="165"/>
         <source>Sync %1</source>
         <extracomment>Argument is sync storage (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;).</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="200"/>
+        <location filename="../../Sync/SyncDetails.qml" line="204"/>
         <source>Sync account details</source>
         <extracomment>Title of &quot;account details&quot; area of page.</extracomment>
         <translation/>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="217"/>
+        <location filename="../../Sync/SyncDetails.qml" line="221"/>
         <source>Forget this</source>
         <extracomment>Text displayed in &quot;forget this&quot; button (used to remove current sync account).</extracomment>
         <translation/>
@@ -932,7 +957,7 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>SyncList</name>
     <message>
-        <location filename="../../Sync/SyncList.qml" line="41"/>
+        <location filename="../../Sync/SyncList.qml" line="40"/>
         <source>Sync %1</source>
         <extracomment>Arg 1 refers to the storage type (e.g. Contacts, Calendar, etc)</extracomment>
         <translation/>
@@ -941,7 +966,7 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>SyncListDelegate</name>
     <message>
-        <location filename="../../Sync/SyncListDelegate.qml" line="125"/>
+        <location filename="../../Sync/SyncListDelegate.qml" line="89"/>
         <source>%1 %2</source>
         <extracomment>Arg 1 is the sync service name (e.g. &quot;Yahoo!&quot;) and arg 2 is the storage name (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;.</extracomment>
         <translation/>
@@ -989,7 +1014,7 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>SyncMain</name>
     <message>
-        <location filename="../../Sync/SyncMain.qml" line="16"/>
+        <location filename="../../Sync/SyncMain.qml" line="17"/>
         <source>Sync Settings</source>
         <extracomment>The title of the Sync UI displayed to the user.</extracomment>
         <translation/>
@@ -1006,67 +1031,54 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>TimeDateSettings</name>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="16"/>
-        <source>Time and Date</source>
-        <translation>Aika ja päiväys</translation>
-    </message>
-    <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="41"/>
+        <location filename="../../General/TimeDateSettings.qml" line="35"/>
         <source>What time it is</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="113"/>
+        <location filename="../../General/TimeDateSettings.qml" line="107"/>
         <source>24 hour clock</source>
         <translation>24 tunnin kello</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="142"/>
+        <location filename="../../General/TimeDateSettings.qml" line="136"/>
         <source>Set date and time automatically</source>
         <translation>Aseta päivämäärä ja aika automaattisesti</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="170"/>
+        <location filename="../../General/TimeDateSettings.qml" line="164"/>
         <source>Where you are</source>
         <translation>Missä olet</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="189"/>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="220"/>
+        <location filename="../../General/TimeDateSettings.qml" line="183"/>
+        <location filename="../../General/TimeDateSettings.qml" line="214"/>
         <source>Current Timezone is %1</source>
         <translation>Nykyinen aikavyöhyke on %1</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="206"/>
+        <location filename="../../General/TimeDateSettings.qml" line="200"/>
         <source>Find me and keep my location updated</source>
         <translation>Löydä minut ja päivitä sijaintini</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="242"/>
+        <location filename="../../General/TimeDateSettings.qml" line="236"/>
         <source>Manual time zone selection</source>
         <translation>Manuaalinen aikavyöhykkeen valinta</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="261"/>
+        <location filename="../../General/TimeDateSettings.qml" line="255"/>
         <source>Set Time Zone</source>
         <translation>Aseta aikavyöhyke</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="276"/>
+        <location filename="../../General/TimeDateSettings.qml" line="270"/>
         <source>Current Timezone is </source>
         <translation>Nykyinen aikavyöhyke on </translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="282"/>
+        <location filename="../../General/TimeDateSettings.qml" line="276"/>
         <source>Unable to set timezone manually</source>
-        <translation/>
-    </message>
-</context>
-<context>
-    <name>VolumeSettings</name>
-    <message>
-        <location filename="../../Volume/VolumeSettings.qml" line="15"/>
-        <source>Sound</source>
         <translation/>
     </message>
 </context>
@@ -1231,7 +1243,7 @@ Status message: successfully completed sync job.</extracomment>
         <translation>Kaikki asetukset</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="112"/>
+        <location filename="../../main.qml" line="111"/>
         <source>Settings</source>
         <translation>Asetukset</translation>
     </message>

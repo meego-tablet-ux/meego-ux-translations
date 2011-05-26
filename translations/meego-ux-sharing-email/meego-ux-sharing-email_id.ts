@@ -4,17 +4,17 @@
     <message>
         <location filename="../../emailsharingservice.cpp" line="49"/>
         <source>MeeGo Email</source>
-        <translation/>
+        <translation>Surel MeeGo</translation>
     </message>
     <message>
         <location filename="../../emailsharingservice.cpp" line="64"/>
         <source>Sharing via Email</source>
-        <translation/>
+        <translation>Berbagi lewat Surel</translation>
     </message>
     <message>
         <location filename="../../emailsharingservice.cpp" line="79"/>
         <source>Email</source>
-        <translation/>
+        <translation>Surel</translation>
     </message>
 </context>
 </TS>

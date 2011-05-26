@@ -4,7 +4,7 @@
     <message>
         <location filename="../../qml/constants.js" line="3"/>
         <source>Web accounts</source>
-        <translation/>
+        <translation>Web hesapları</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
@@ -50,7 +50,7 @@
     <message>
         <location filename="../../qml/constants.js" line="18"/>
         <source>More details</source>
-        <translation/>
+        <translation>Daha fazla detay</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="../../qml/constants.js" line="23"/>
         <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
-        <translation/>
+        <translation>Başarıyla çıkış yaptınız.  Bu servisin içeriği artık cihazda görünmeyecek</translation>
     </message>
 </context>
 </TS>

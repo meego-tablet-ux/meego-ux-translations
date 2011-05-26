@@ -1,18 +1,21 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="ast" version="2.0">
 <context>
-    <name>BackPanelGeneric</name>
+    <name>BackPanelClearButton</name>
     <message>
-        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="58"/>
+        <location filename="../../panellib/Panels/BackPanelClearButton.qml" line="21"/>
         <source>Clear history</source>
-        <translation>Llimpiar historial</translation>
-    </message>
-    <message>
-        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="73"/>
-        <source>Panels</source>
         <translation/>
     </message>
+</context>
+<context>
+    <name>BackPanelGeneric</name>
     <message>
-        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="77"/>
+        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="43"/>
+        <source>Panels</source>
+        <translation>Paneles</translation>
+    </message>
+    <message>
+        <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="46"/>
         <source>Manage panels</source>
         <translation>Remanar paneles</translation>
     </message>
@@ -20,7 +23,7 @@
 <context>
     <name>BackPanelMessageTextItem</name>
     <message>
-        <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="21"/>
+        <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="17"/>
         <source>To show items on the front of the panel select ON, to hide select OFF</source>
         <translation>P&apos;amosar elementos na parte frontal del panel, selecciona ON, p&apos;anubrilos seleiciona OFF</translation>
     </message>
@@ -29,6 +32,7 @@
     <name>WifiDialog</name>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="93"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="103"/>
         <source>No connection currently</source>
         <translation>Ensin conexón</translation>
     </message>
@@ -43,22 +47,17 @@
         <translation>Coneutáu a %1</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="103"/>
-        <source>Connecting...</source>
-        <translation>Coneutando...</translation>
-    </message>
-    <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="106"/>
         <source>Connected by %1</source>
         <translation>Coneutáu por %1</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="178"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="142"/>
         <source>Wi-Fi</source>
         <translation>Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="238"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="194"/>
         <source>Wi-Fi settings</source>
         <translation>Axustes de Wi-Fi</translation>
     </message>

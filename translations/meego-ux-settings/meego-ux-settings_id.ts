@@ -5,64 +5,74 @@
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="59"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="64"/>
         <source>Disconnect Audio</source>
-        <translation/>
+        <translation>Putuskan Audio</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="59"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="68"/>
         <source>Connect Audio</source>
-        <translation/>
+        <translation>Sambungkan Audio</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="88"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="94"/>
         <source>Disconnect Input Device</source>
-        <translation/>
+        <translation>Putuskan Perangkat Masukan</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="88"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="98"/>
         <source>Connect Input Device</source>
-        <translation/>
+        <translation>Sambungkan Perangkat Masukan</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="118"/>
         <source>Disconnect Internet</source>
-        <translation/>
+        <translation>Putuskan Internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="118"/>
         <source>Connect Internet</source>
-        <translation/>
+        <translation>Sambungkan Internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="173"/>
         <source>Connect Actions</source>
-        <translation/>
+        <translation>Aksi Penyambungan</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="224"/>
         <source>Manage</source>
-        <translation/>
+        <translation>Kelola</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="231"/>
         <source>Remove</source>
+        <translation>Hapus</translation>
+    </message>
+    <message>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="245"/>
+        <source>Properties</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="243"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="250"/>
         <source>Paired: %1</source>
-        <translation/>
+        <translation>Dipasangkan: %1</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="251"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="258"/>
         <source>Hardware Address: %1</source>
+        <translation>Alamat Perangkat Keras: %1</translation>
+    </message>
+    <message>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="266"/>
+        <source>Icon: %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="259"/>
-        <source>UUids: %1</source>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="274"/>
+        <source>UUIDs: %1</source>
         <translation/>
     </message>
 </context>
@@ -72,32 +82,32 @@
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="16"/>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="64"/>
         <source>Bluetooth</source>
-        <translation/>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="42"/>
         <source>No bluetooth adapter present</source>
-        <translation/>
+        <translation>Tidak ada adaptor Bluetooth</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="98"/>
         <source>Discoverable</source>
-        <translation/>
+        <translation>Dapat ditemukan</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="109"/>
         <source>Discoverable for %1 seconds</source>
-        <translation/>
+        <translation>Dapat ditemukan selama %1 detik</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="155"/>
         <source>Paired Devices</source>
-        <translation/>
+        <translation>Perangkat Dipasangkan</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="168"/>
         <source>Add Device</source>
-        <translation/>
+        <translation>Tambah Perangkat</translation>
     </message>
 </context>
 <context>
@@ -105,24 +115,24 @@
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="14"/>
         <source>Bookmarks</source>
-        <translation/>
+        <translation>Penanda Taut</translation>
     </message>
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="32"/>
         <location filename="../../Browser/BookmarkGroup.qml" line="50"/>
         <source>Always show</source>
-        <translation/>
+        <translation>Selalu tampilkan</translation>
     </message>
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="37"/>
         <location filename="../../Browser/BookmarkGroup.qml" line="55"/>
         <source>Never show</source>
-        <translation/>
+        <translation>Tak pernah tampilkan</translation>
     </message>
     <message>
         <location filename="../../Browser/BookmarkGroup.qml" line="46"/>
         <source>Always show bookmarks bar</source>
-        <translation/>
+        <translation>Selalu tampilkan bilah penanda taut</translation>
     </message>
 </context>
 <context>
@@ -130,22 +140,22 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="16"/>
         <source>Browser</source>
-        <translation/>
+        <translation>Peramban</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="107"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="105"/>
         <source>Restore to default</source>
-        <translation/>
+        <translation>Kembalikan ke baku</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="119"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="117"/>
         <source>Restore to default?</source>
-        <translation/>
+        <translation>Kembalikan ke baku?</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="120"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="118"/>
         <source>Are you sure you want to restore default settings?</source>
-        <translation/>
+        <translation>Anda yakin ingin mengembalikan ke pengaturan baku?</translation>
     </message>
 </context>
 <context>
@@ -153,43 +163,43 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="8"/>
         <source>Cellular Settings</source>
-        <translation/>
+        <translation>Pengaturan Seluler</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="31"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="30"/>
         <source>Manual APN Entry</source>
-        <translation/>
+        <translation>Entri APN Manual</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="61"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="60"/>
         <source>Country</source>
-        <translation/>
+        <translation>Negara</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="78"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="77"/>
         <source>Provider</source>
-        <translation/>
+        <translation>Operator</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="93"/>
-        <location filename="../../Wifi/CellularSettings.qml" line="115"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="92"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="114"/>
         <source>APN</source>
-        <translation/>
+        <translation>APN</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="126"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="125"/>
         <source>Username</source>
-        <translation/>
+        <translation>Nama pengguna</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="137"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="136"/>
         <source>Password</source>
-        <translation/>
+        <translation>Sandi</translation>
     </message>
     <message>
-        <location filename="../../Wifi/CellularSettings.qml" line="149"/>
+        <location filename="../../Wifi/CellularSettings.qml" line="148"/>
         <source>Apply</source>
-        <translation/>
+        <translation>Terapkan</translation>
     </message>
 </context>
 <context>
@@ -197,7 +207,7 @@
     <message>
         <location filename="../../Browser/CheckboxButton.qml" line="13"/>
         <source>Radio Button</source>
-        <translation/>
+        <translation>Tombol Radio</translation>
     </message>
 </context>
 <context>
@@ -205,22 +215,22 @@
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="58"/>
         <source>Confirm Dialog</source>
-        <translation/>
+        <translation>Dialog Konfirmasi</translation>
     </message>
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="72"/>
         <source>Are you sure?</source>
-        <translation/>
+        <translation>Anda yakin?</translation>
     </message>
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="93"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../Browser/ConfirmDialog.qml" line="104"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Batal</translation>
     </message>
 </context>
 <context>
@@ -228,100 +238,100 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="17"/>
         <source>Connections</source>
-        <translation/>
+        <translation>Koneksi</translation>
+    </message>
+    <message>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="20"/>
+        <source>Ethernet</source>
+        <translation>Ethernet</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="21"/>
-        <source>Ethernet</source>
-        <translation/>
+        <source>Wi-Fi</source>
+        <translation>Wi-Fi</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="22"/>
-        <source>Wi-Fi</source>
-        <translation/>
+        <source>Bluetooth</source>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="23"/>
-        <source>Bluetooth</source>
-        <translation/>
+        <source>3G</source>
+        <translation>3G</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="24"/>
-        <source>3G</source>
-        <translation/>
+        <source>WiMAX</source>
+        <translation>WiMAX</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="25"/>
-        <source>WiMAX</source>
-        <translation/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="26"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
+        <source>WPA</source>
+        <translation>WPA</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="27"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
-        <source>WPA</source>
-        <translation/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
+        <source>WPA2</source>
+        <translation>WPA2</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="28"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
-        <source>WPA2</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="29"/>
         <source>WEP</source>
-        <translation/>
+        <translation>WEP</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="65"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="63"/>
         <source>Airplane Mode</source>
-        <translation/>
+        <translation>Mode Pesawat Terbang</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="98"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="96"/>
         <source>Network Connections</source>
-        <translation/>
+        <translation>Koneksi Jaringan</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="197"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="195"/>
         <source>Available Networks</source>
-        <translation/>
+        <translation>Jaringan Tersedia</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="206"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="220"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="204"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="218"/>
         <source>Add Network</source>
-        <translation/>
+        <translation>Tambah Jaringan</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="234"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="232"/>
         <source>Network Name:</source>
-        <translation/>
+        <translation>Nama Jaringan:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="250"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="248"/>
         <source>Security Type:</source>
-        <translation/>
+        <translation>Jenis Keamanan:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>none</source>
-        <translation/>
+        <translation>tak ada</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>wep</source>
-        <translation/>
+        <translation>wep</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="272"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="270"/>
         <source>Security Passphrase:</source>
-        <translation/>
+        <translation>Frasa Sandi Keamanan:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="298"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="296"/>
         <source>No networks available</source>
-        <translation/>
+        <translation>Tak tersedia jaringan</translation>
     </message>
 </context>
 <context>
@@ -329,35 +339,63 @@
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="14"/>
         <source>Content Settings</source>
-        <translation/>
+        <translation>Pengaturan Isi</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="90"/>
         <source>Allow JavaScript to run</source>
-        <translation/>
+        <translation>Perbolehkan JavaScript berjalan</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="106"/>
         <source>Allow Popups</source>
-        <translation/>
+        <translation>Perbolehkan Popup</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="120"/>
         <source>Allow Cookies</source>
-        <translation/>
+        <translation>Perbolehkan Cookie</translation>
     </message>
     <message>
         <location filename="../../Browser/ContentSettingGroup.qml" line="134"/>
         <source>Allow Images</source>
+        <translation>Perbolehkan Gambar</translation>
+    </message>
+</context>
+<context>
+    <name>GeneralSettings</name>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="7"/>
+        <source>General</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="33"/>
+        <source>Time and Date</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="49"/>
+        <source>Sound</source>
+        <translation/>
+    </message>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="55"/>
+        <source>%1%</source>
         <translation/>
     </message>
 </context>
 <context>
     <name>GroupBox</name>
     <message>
+        <location filename="../../Browser/GroupBox.qml" line="71"/>
+        <source/>
+        <translation/>
+    </message>
+    <message>
         <location filename="../../Browser/GroupBox.qml" line="87"/>
         <source>group</source>
-        <translation/>
+        <translation>grup</translation>
     </message>
 </context>
 <context>
@@ -365,57 +403,57 @@
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="14"/>
         <source>Home Page</source>
-        <translation/>
+        <translation>Beranda</translation>
     </message>
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="32"/>
         <location filename="../../Browser/HomePageGroup.qml" line="53"/>
         <location filename="../../Browser/HomePageGroup.qml" line="62"/>
         <source>New tab page</source>
-        <translation/>
+        <translation>Halaman tab baru</translation>
     </message>
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="50"/>
         <source>Use the new tab page as home page</source>
-        <translation/>
+        <translation>Gunakan halaman tab baru sebagai beranda</translation>
     </message>
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="70"/>
         <source>Open this page: </source>
-        <translation/>
+        <translation>Buka halaman ini: </translation>
     </message>
 </context>
 <context>
     <name>LanguageSettings</name>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="15"/>
+        <location filename="../../Language/LanguageSettings.qml" line="16"/>
         <source>Language Settings</source>
-        <translation/>
+        <translation>Pengaturan Bahasa</translation>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="40"/>
+        <location filename="../../Language/LanguageSettings.qml" line="38"/>
         <source>Language:</source>
-        <translation/>
+        <translation>Bahasa:</translation>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="68"/>
+        <location filename="../../Language/LanguageSettings.qml" line="66"/>
         <source>Virtual Keyboard:</source>
-        <translation/>
+        <translation>Papan Tik Maya:</translation>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="96"/>
+        <location filename="../../Language/LanguageSettings.qml" line="94"/>
         <source>Date format:</source>
-        <translation/>
+        <translation>Format tanggal:</translation>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="124"/>
+        <location filename="../../Language/LanguageSettings.qml" line="122"/>
         <source>Time format:</source>
-        <translation/>
+        <translation>Format waktu:</translation>
     </message>
     <message>
-        <location filename="../../Language/LanguageSettings.qml" line="174"/>
+        <location filename="../../Language/LanguageSettings.qml" line="172"/>
         <source>Number Format:</source>
-        <translation/>
+        <translation>Format angka:</translation>
     </message>
 </context>
 <context>
@@ -423,213 +461,200 @@
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="45"/>
         <source>Google Account</source>
-        <translation/>
+        <translation>Akun Google</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="69"/>
         <source>Email:</source>
-        <translation/>
+        <translation>Surel:</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="95"/>
         <source>Password:</source>
-        <translation/>
+        <translation>Sandi:</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="126"/>
         <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <location filename="../../Browser/LoginDialog.qml" line="129"/>
+        <source/>
         <translation/>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="131"/>
         <source>Please enter your email address and password</source>
-        <translation/>
+        <translation>Silakan masukkan alamat surel dan sandi Anda</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="140"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Batal</translation>
     </message>
 </context>
 <context>
     <name>MeeGo::Sync::FrameworkClient</name>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="216"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="237"/>
         <source>completed</source>
         <extracomment>Status message: successfully completed sync job. (PLACEHOLDER)</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="223"/>
-        <source>finished</source>
-        <extracomment>Sync finished with potential(?) error.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="228"/>
-        <source>internal error</source>
-        <extracomment>Internal error occurred during sync.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="233"/>
-        <source>authentication failure</source>
-        <extracomment>Authentication failure occurred during sync.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="239"/>
-        <source>database failure</source>
-        <extracomment>Database access error occurred during sync.</extracomment>
-        <translation/>
+        <translation>selesai</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="244"/>
-        <source>suspended</source>
-        <extracomment>Sync job suspended.</extracomment>
-        <translation/>
+        <source>finished</source>
+        <extracomment>Sync finished with potential(?) error.</extracomment>
+        <translation>selesai</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="249"/>
+        <source>internal error</source>
+        <extracomment>Internal error occurred during sync.</extracomment>
+        <translation>galat internal</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="254"/>
+        <source>authentication failure</source>
+        <extracomment>Authentication failure occurred during sync.</extracomment>
+        <translation>kegagalan otentikasi</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="260"/>
+        <source>database failure</source>
+        <extracomment>Database access error occurred during sync.</extracomment>
+        <translation>kegagalan basis data</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="265"/>
+        <source>suspended</source>
+        <extracomment>Sync job suspended.</extracomment>
+        <translation>ditahan</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="270"/>
         <source>aborted</source>
         <extracomment>Sync job aborted.</extracomment>
-        <translation/>
+        <translation>digugurkan</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="255"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="276"/>
         <source>connection error</source>
         <extracomment>Connection to remote sync service failed during sync.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="261"/>
-        <source>invalid syncml message</source>
-        <extracomment>Invalid syncml message/request submitted during sync.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="267"/>
-        <source>unsupported sync type</source>
-        <extracomment>Unsupported sync type (manual or auto?)</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="273"/>
-        <source>unsupported storage type</source>
-        <extracomment>&quot;Storage&quot; refers to contacts, calendar, etc.</extracomment>
-        <translation/>
+        <translation>galat koneksi</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="282"/>
+        <source>invalid syncml message</source>
+        <extracomment>Invalid syncml message/request submitted during sync.</extracomment>
+        <translation>pesan syncml tak valid</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="288"/>
+        <source>unsupported sync type</source>
+        <extracomment>Unsupported sync type (manual or auto?)</extracomment>
+        <translation>jenis penyelarasan tak didukung</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="294"/>
+        <source>unsupported storage type</source>
+        <extracomment>&quot;Storage&quot; refers to contacts, calendar, etc.</extracomment>
+        <translation>jenis penyimpanan tak didukung</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="303"/>
         <source>other</source>
         <extracomment>Unknown error occurred during sync.</extracomment>
-        <translation/>
+        <translation>lainnya</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="317"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="343"/>
         <source>Last sync %1</source>
         <extracomment>Arg 1 is a &quot;fuzzy time&quot;, e.g. &quot;2 min ago&quot;.</extracomment>
-        <translation/>
+        <translation>Penyelarasan terakhir %1</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="323"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="349"/>
         <source>Last sync failed: %1</source>
         <extracomment>Arg 1 is a brief sync error description, e.g. &quot;connection failed&quot;.</extracomment>
-        <translation/>
+        <translation>Gagal menyelaraskan terakhir: %1</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="459"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="403"/>
+        <source>Unable to update sync profile</source>
+        <extracomment>Failed to update and store sync account/profile info on disk.</extracomment>
+        <translation>Tak berhasil memutakhirkan profil penyelarasan</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="432"/>
+        <source>Sync scheduling failed</source>
+        <extracomment>Attempt to set automatic sync schedule failed.</extracomment>
+        <translation>Jadwal penyelarasan gagal</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="502"/>
+        <source>Unable to forget sync account!</source>
+        <extracomment>Displayed when removal of sync account information fails.</extracomment>
+        <translation>Tak bisa melupakan akun penyelarasan!</translation>
+    </message>
+    <message>
+        <location filename="../../Sync/FrameworkClient.cpp" line="522"/>
         <source>Sync request queued</source>
         <extracomment>Status message: sync request/job has been queued</extracomment>
-        <translation/>
+        <translation>Permintaan penyelarasan diantrikan</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="465"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="528"/>
         <source>Sync started</source>
         <extracomment>Status message: sync job started</extracomment>
-        <translation/>
+        <translation>Penyelarasan dimulai</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="471"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="534"/>
         <source>Syncing now...</source>
         <extracomment>Status message: Sync in-progress</extracomment>
-        <translation/>
+        <translation>Sedang menyelaraskan</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="483"/>
-        <location filename="../../Sync/FrameworkClient.cpp" line="514"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="546"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="577"/>
         <source>Sync completed</source>
         <extracomment>Status message: Sync job completed
 ----------
 Status message: successfully completed sync job.</extracomment>
-        <translation/>
+        <translation>Penyelarasan selesai</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="489"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="552"/>
         <source>Sync aborted</source>
         <extracomment>Sync explicitly stopped.</extracomment>
-        <translation/>
+        <translation>Penyelarasan digugurkan</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="496"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="559"/>
         <source>Unknown sync status</source>
         <extracomment>Status message: Displayed when an unknown/unhandled error occurs.</extracomment>
-        <translation/>
+        <translation>Status penyelarasan tak diketahui</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="522"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="585"/>
         <source>Sync failed: %1</source>
         <extracomment>Sync result message. The argument provides the error details.</extracomment>
-        <translation/>
+        <translation>Penyelarasan gagal: %1</translation>
     </message>
     <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="526"/>
+        <location filename="../../Sync/FrameworkClient.cpp" line="589"/>
         <source>%1 %2 sync failed</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="605"/>
-        <source>Unable to update sync profile</source>
-        <extracomment>Failed to update and store sync account/profile info on disk.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="635"/>
-        <source>Sync scheduling failed</source>
-        <extracomment>Attempt to set automatic sync schedule failed.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="677"/>
-        <source>Unable to forget sync account!</source>
-        <extracomment>Displayed when removal of sync account information fails.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="693"/>
-        <source>Failed to store credentials</source>
-        <extracomment>Internal error. Failed to store user supplied credentials in DB.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="697"/>
-        <source>Failed to clear credentials</source>
-        <extracomment>Displayed when clearing stored sync account credentials fails.</extracomment>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../Sync/FrameworkClient.cpp" line="701"/>
-        <source>Unknown credentials error</source>
-        <extracomment>We're really not expecting any other kinds of cred errors.</extracomment>
-        <translation/>
+        <translation>%1 %2 penyelarasan gagal</translation>
     </message>
 </context>
 <context>
     <name>NearbyDevices</name>
     <message>
-        <location filename="../../Bluetooth/NearbyDevices.qml" line="15"/>
+        <location filename="../../Bluetooth/NearbyDevices.qml" line="16"/>
         <source>Add New Device</source>
-        <translation/>
+        <translation>Tambah Perangkat Baru</translation>
     </message>
 </context>
 <context>
@@ -637,7 +662,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="14"/>
         <source>Networking Proxy</source>
-        <translation/>
+        <translation>Proksi Jaringan</translation>
     </message>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="31"/>
@@ -645,12 +670,12 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="51"/>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="55"/>
         <source>No Proxy</source>
-        <translation/>
+        <translation>Tanpa Proksi</translation>
     </message>
     <message>
         <location filename="../../Browser/NetworkingProxyGroup.qml" line="68"/>
         <source>Use Http Proxy</source>
-        <translation/>
+        <translation>Gunakan Proksi HTTP</translation>
     </message>
 </context>
 <context>
@@ -658,17 +683,17 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="16"/>
         <source>Notifications</source>
-        <translation/>
+        <translation>Pemberitahuan</translation>
     </message>
     <message>
-        <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
+        <location filename="../../Notifications/NotificationSettings.qml" line="45"/>
         <source>By default, phone and messaging notifications will be shown on the lockscreen.</source>
-        <translation/>
+        <translation>Secara baku, pemberitahuan telepon dan perpesanan akan ditampilkan pada layar pengunci.</translation>
     </message>
     <message>
-        <location filename="../../Notifications/NotificationSettings.qml" line="67"/>
+        <location filename="../../Notifications/NotificationSettings.qml" line="64"/>
         <source>You may select up to 4 additional notifications to receive on the lockscreen</source>
-        <translation/>
+        <translation>Anda dapat memilih sampai dengan 4 pemberitahuan tambahan untuk diterima pada layar pengunci.</translation>
     </message>
 </context>
 <context>
@@ -676,7 +701,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="18"/>
         <source>Panels</source>
-        <translation/>
+        <translation>Panel</translation>
     </message>
 </context>
 <context>
@@ -684,7 +709,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/PasswordGroup.qml" line="13"/>
         <source>Passwords</source>
-        <translation/>
+        <translation>Sandi</translation>
     </message>
     <message>
         <location filename="../../Browser/PasswordGroup.qml" line="33"/>
@@ -693,7 +718,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/PasswordGroup.qml" line="58"/>
         <location filename="../../Browser/PasswordGroup.qml" line="72"/>
         <source>Offer to save passwords</source>
-        <translation/>
+        <translation>Tawarkan untuk menyimpan sandi</translation>
     </message>
     <message>
         <location filename="../../Browser/PasswordGroup.qml" line="37"/>
@@ -702,7 +727,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Browser/PasswordGroup.qml" line="69"/>
         <location filename="../../Browser/PasswordGroup.qml" line="79"/>
         <source>Never save passwords</source>
-        <translation/>
+        <translation>Jangan pernah simpan sandi</translation>
     </message>
 </context>
 <context>
@@ -710,7 +735,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="16"/>
         <source>Personalize</source>
-        <translation/>
+        <translation>Personalisasikan</translation>
     </message>
 </context>
 <context>
@@ -718,62 +743,62 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="15"/>
         <source>Privacy</source>
-        <translation/>
+        <translation>Privasi</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="25"/>
         <source>Clear Data?</source>
-        <translation/>
+        <translation>Hapus Data?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="58"/>
         <source>Clear Browsing History</source>
-        <translation/>
+        <translation>Bersihkan Riwayat Perambanan</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="61"/>
         <source>Are you sure about clearing the browsing history?</source>
-        <translation/>
+        <translation>Anda yakin akan membersihkan riwayat perambanan?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="71"/>
         <source>Clear Download History</source>
-        <translation/>
+        <translation>Bersihkan Riwayat Pengunduhan</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="74"/>
         <source>Are you sure about clearing the download history?</source>
-        <translation/>
+        <translation>Anda yakin akan membersihkan riwayat pengunduhan?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="84"/>
         <source>Clear Cookies and Site Data</source>
-        <translation/>
+        <translation>Bersihkan Cookie dan Data Situs</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="87"/>
         <source>Are you sure about clearing your cookies?</source>
-        <translation/>
+        <translation>Anda yakin akan membersihkan cookie Anda?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="97"/>
         <source>Clear Caches</source>
-        <translation/>
+        <translation>Bersihkan Singgahan</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="100"/>
         <source>Are you sure about clearing your caches?</source>
-        <translation/>
+        <translation>Anda yakin akan membersihkan singgahan Anda?</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="109"/>
         <source>Clear Saved Passwords</source>
-        <translation/>
+        <translation>Bersihkan Sandi Tersimpan</translation>
     </message>
     <message>
         <location filename="../../Browser/PrivacyGroup.qml" line="113"/>
         <source>Are you sure about clearing your saved passwords?</source>
-        <translation/>
+        <translation>Anda yakin akan membersihkan sandi tersimpan?</translation>
     </message>
 </context>
 <context>
@@ -781,7 +806,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/RadioButton.qml" line="13"/>
         <source>Radio Button</source>
-        <translation/>
+        <translation>Tombol Radio</translation>
     </message>
 </context>
 <context>
@@ -789,17 +814,17 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="30"/>
         <source>Pair with %1 with key %2?</source>
-        <translation/>
+        <translation>Pasangkan dengan %1 memakai kunci %2?</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="44"/>
         <source>Accept</source>
-        <translation/>
+        <translation>Terima</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="55"/>
         <source>Reject</source>
-        <translation/>
+        <translation>Tolak</translation>
     </message>
 </context>
 <context>
@@ -807,12 +832,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="23"/>
         <source>Enter the following code on %1</source>
-        <translation/>
+        <translation>Masukkan kode berikut pada %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="39"/>
         <source>Accept</source>
-        <translation/>
+        <translation>Terima</translation>
     </message>
 </context>
 <context>
@@ -820,12 +845,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="20"/>
         <source>Enter passcode to use:</source>
-        <translation/>
+        <translation>Masukkan kode sandi:</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="36"/>
         <source>Accept</source>
-        <translation/>
+        <translation>Terima</translation>
     </message>
 </context>
 <context>
@@ -833,35 +858,35 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/SearchGroup.qml" line="13"/>
         <source>Search Engine</source>
-        <translation/>
+        <translation>Mesin Pencari</translation>
     </message>
     <message>
         <location filename="../../Browser/SearchGroup.qml" line="17"/>
         <source>Google</source>
-        <translation/>
+        <translation>Google</translation>
     </message>
 </context>
 <context>
     <name>SetTimezoneMenu</name>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="79"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="79"/>
         <source>Filter list</source>
-        <translation/>
+        <translation>Daftar penyaring</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="124"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="124"/>
         <source>GMT</source>
-        <translation/>
+        <translation>GMT</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="162"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="162"/>
         <source>Ok</source>
-        <translation/>
+        <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/SetTimezoneMenu.qml" line="177"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="177"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Batal</translation>
     </message>
 </context>
 <context>
@@ -869,82 +894,82 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="14"/>
         <source>On Startup</source>
-        <translation/>
+        <translation>Saat Awalan</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="31"/>
         <location filename="../../Browser/StartupGroup.qml" line="48"/>
         <location filename="../../Browser/StartupGroup.qml" line="57"/>
         <source>Open home page</source>
-        <translation/>
+        <translation>Buka beranda</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="37"/>
         <location filename="../../Browser/StartupGroup.qml" line="68"/>
         <location filename="../../Browser/StartupGroup.qml" line="78"/>
         <source>Reopen pages open last</source>
-        <translation/>
+        <translation>Buka kembali halaman yang sebelumnya</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="45"/>
         <source>Open the home page</source>
-        <translation/>
+        <translation>Buka laman beranda</translation>
     </message>
     <message>
         <location filename="../../Browser/StartupGroup.qml" line="65"/>
         <source>Reopen the pages that were open last</source>
-        <translation/>
+        <translation>Buka ulang halaman yang terakhir kali dibuka</translation>
     </message>
 </context>
 <context>
     <name>SyncDetails</name>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="119"/>
+        <location filename="../../Sync/SyncDetails.qml" line="123"/>
         <source>%1 %2</source>
         <extracomment>Arg 1 is the name of the sync service (e.g. &quot;Yahoo!&quot;) and arg 2 is the name of the storage (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;).</extracomment>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="138"/>
+        <location filename="../../Sync/SyncDetails.qml" line="142"/>
         <source>Sync now</source>
         <extracomment>Text displayed in &quot;sync now&quot; button.</extracomment>
-        <translation/>
+        <translation>Selaraskan sekarang</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="161"/>
+        <location filename="../../Sync/SyncDetails.qml" line="165"/>
         <source>Sync %1</source>
         <extracomment>Argument is sync storage (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;).</extracomment>
-        <translation/>
+        <translation>Selaraskan %1</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="200"/>
+        <location filename="../../Sync/SyncDetails.qml" line="204"/>
         <source>Sync account details</source>
         <extracomment>Title of &quot;account details&quot; area of page.</extracomment>
-        <translation/>
+        <translation>Rincian akun penyelarasan</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncDetails.qml" line="217"/>
+        <location filename="../../Sync/SyncDetails.qml" line="221"/>
         <source>Forget this</source>
         <extracomment>Text displayed in &quot;forget this&quot; button (used to remove current sync account).</extracomment>
-        <translation/>
+        <translation>Lupakan ini</translation>
     </message>
 </context>
 <context>
     <name>SyncList</name>
     <message>
-        <location filename="../../Sync/SyncList.qml" line="41"/>
+        <location filename="../../Sync/SyncList.qml" line="40"/>
         <source>Sync %1</source>
         <extracomment>Arg 1 refers to the storage type (e.g. Contacts, Calendar, etc)</extracomment>
-        <translation/>
+        <translation>Selaraskan %1</translation>
     </message>
 </context>
 <context>
     <name>SyncListDelegate</name>
     <message>
-        <location filename="../../Sync/SyncListDelegate.qml" line="125"/>
+        <location filename="../../Sync/SyncListDelegate.qml" line="89"/>
         <source>%1 %2</source>
         <extracomment>Arg 1 is the sync service name (e.g. &quot;Yahoo!&quot;) and arg 2 is the storage name (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;.</extracomment>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -953,46 +978,46 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Sync/SyncLoginDialog.qml" line="24"/>
         <source>Sign in</source>
         <extracomment>&quot;Sign in&quot; button text displayed in sync account login dialog.</extracomment>
-        <translation/>
+        <translation>Masuk</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="26"/>
         <source>Cancel</source>
         <extracomment>&quot;Cancel&quot; button text displayed in sync account login dialog.</extracomment>
-        <translation/>
+        <translation>Batal</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="28"/>
         <source>Sign in to your %1 account</source>
         <extracomment>The argument is the name of the remote sync service (e.g. Google, Yahoo!, etc).</extracomment>
-        <translation/>
+        <translation>Masuk ke akun %1 Anda</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="42"/>
         <source>(ex: foo@example.com)</source>
         <extracomment>Username example text. Note: do not translate &quot;example.com&quot;!</extracomment>
-        <translation/>
+        <translation>(mis: foo@contoh.co.id)</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="45"/>
         <source>Username %1</source>
         <extracomment>Sync account username (e.g. foo.bar@yahoo.com) login field label, where arg 1 is an example, which may or not be visible.</extracomment>
-        <translation/>
+        <translation>Nama pengguna %1</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="73"/>
         <source>Password</source>
         <extracomment>Sync account password login field label</extracomment>
-        <translation/>
+        <translation>Sandi</translation>
     </message>
 </context>
 <context>
     <name>SyncMain</name>
     <message>
-        <location filename="../../Sync/SyncMain.qml" line="16"/>
+        <location filename="../../Sync/SyncMain.qml" line="17"/>
         <source>Sync Settings</source>
         <extracomment>The title of the Sync UI displayed to the user.</extracomment>
-        <translation/>
+        <translation>Pengaturan Penyelarasan</translation>
     </message>
 </context>
 <context>
@@ -1000,74 +1025,61 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Browser/TextBox.qml" line="51"/>
         <source>Text</source>
-        <translation/>
+        <translation>Teks</translation>
     </message>
 </context>
 <context>
     <name>TimeDateSettings</name>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="16"/>
-        <source>Time and Date</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="41"/>
+        <location filename="../../General/TimeDateSettings.qml" line="35"/>
         <source>What time it is</source>
-        <translation/>
+        <translation>Pukul berapa sekarang</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="113"/>
+        <location filename="../../General/TimeDateSettings.qml" line="107"/>
         <source>24 hour clock</source>
-        <translation/>
+        <translation>format 24 jam</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="142"/>
+        <location filename="../../General/TimeDateSettings.qml" line="136"/>
         <source>Set date and time automatically</source>
-        <translation/>
+        <translation>Atur tanggal dan waktu secara otomatis</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="170"/>
+        <location filename="../../General/TimeDateSettings.qml" line="164"/>
         <source>Where you are</source>
-        <translation/>
+        <translation>Dimana Anda</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="189"/>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="220"/>
+        <location filename="../../General/TimeDateSettings.qml" line="183"/>
+        <location filename="../../General/TimeDateSettings.qml" line="214"/>
         <source>Current Timezone is %1</source>
-        <translation/>
+        <translation>Zona Waktu kini adalah %1</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="206"/>
+        <location filename="../../General/TimeDateSettings.qml" line="200"/>
         <source>Find me and keep my location updated</source>
-        <translation/>
+        <translation>Temukan saya dan jaga lokasi saya termutakhirkan</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="242"/>
+        <location filename="../../General/TimeDateSettings.qml" line="236"/>
         <source>Manual time zone selection</source>
-        <translation/>
+        <translation>Pemilihan zona waktu manual</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="261"/>
+        <location filename="../../General/TimeDateSettings.qml" line="255"/>
         <source>Set Time Zone</source>
-        <translation/>
+        <translation>Atur Zona Waktu</translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="276"/>
+        <location filename="../../General/TimeDateSettings.qml" line="270"/>
         <source>Current Timezone is </source>
-        <translation/>
+        <translation>Zona waktu kini adalah </translation>
     </message>
     <message>
-        <location filename="../../TimeDate/TimeDateSettings.qml" line="282"/>
+        <location filename="../../General/TimeDateSettings.qml" line="276"/>
         <source>Unable to set timezone manually</source>
-        <translation/>
-    </message>
-</context>
-<context>
-    <name>VolumeSettings</name>
-    <message>
-        <location filename="../../Volume/VolumeSettings.qml" line="15"/>
-        <source>Sound</source>
-        <translation/>
+        <translation>Tak bisa mengatur zona waktu secara manual</translation>
     </message>
 </context>
 <context>
@@ -1075,12 +1087,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Personalize/WallpaperTools.qml" line="30"/>
         <source>Pick a color</source>
-        <translation/>
+        <translation>Pilih warna</translation>
     </message>
     <message>
         <location filename="../../Personalize/WallpaperTools.qml" line="42"/>
         <source>Pick a photo</source>
-        <translation/>
+        <translation>Pilih foto</translation>
     </message>
 </context>
 <context>
@@ -1088,139 +1100,139 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="44"/>
         <source>WPA</source>
-        <translation/>
+        <translation>WPA</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="45"/>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="48"/>
         <source>WPA2</source>
-        <translation/>
+        <translation>WPA2</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="46"/>
         <source>WEP</source>
-        <translation/>
+        <translation>WEP</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="47"/>
         <source>RADIUS</source>
-        <translation/>
+        <translation>RADIUS</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="51"/>
         <source>DHCP</source>
-        <translation/>
+        <translation>DHCP</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="52"/>
         <source>Static</source>
-        <translation/>
+        <translation>Statik</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="129"/>
         <source>Failed to Connect</source>
-        <translation/>
+        <translation>Gagal Menyambung</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="132"/>
         <source>Associating</source>
-        <translation/>
+        <translation>Sedang mengasosiasi</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="136"/>
         <source>Configuring</source>
-        <translation/>
+        <translation>Menata</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="140"/>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="144"/>
         <source>Connected</source>
-        <translation/>
+        <translation>Tersambung</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="177"/>
         <source>Do you want to remove %1 ?  This action will forget any passwords and you will no longer be automatically connected to %2</source>
-        <translation/>
+        <translation>Anda ingin menghapus %1 ?  Aksi ini akan melupakan sebarang sandi dan Anda tak akan tersambung otomatis ke %2 lagi</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="189"/>
         <source>Yes, Delete</source>
-        <translation/>
+        <translation>Ya, Hapus</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="201"/>
         <source>No, Save</source>
-        <translation/>
+        <translation>Tidak, Simpan</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="225"/>
         <source>Disconnect</source>
-        <translation/>
+        <translation>Putuskan</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="236"/>
         <source>Remove Connection</source>
-        <translation/>
+        <translation>Buang Koneksi</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="247"/>
         <source>Connect by:</source>
-        <translation/>
+        <translation>Menyambung melalui:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="278"/>
         <source>IP Address:</source>
-        <translation/>
+        <translation>Alamat IP:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="297"/>
         <source>Subnet Mask:</source>
-        <translation/>
+        <translation>Mask Subnet:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="315"/>
         <source>Gateway</source>
-        <translation/>
+        <translation>Gateway</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="332"/>
         <source>DNS:</source>
-        <translation/>
+        <translation>DNS:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="350"/>
         <source>Hardware Address:</source>
-        <translation/>
+        <translation>Alamat Perangkat Keras:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="359"/>
         <source>Apply</source>
-        <translation/>
+        <translation>Terapkan</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="373"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Batal</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="404"/>
         <source>Type password here</source>
-        <translation/>
+        <translation>Ketikkan sandi disini</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="415"/>
         <source>Setup</source>
-        <translation/>
+        <translation>Setup</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="426"/>
         <source>Connect</source>
-        <translation/>
+        <translation>Sambung</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="454"/>
         <source>Show Password</source>
-        <translation/>
+        <translation>Tampilkan Sandi</translation>
     </message>
 </context>
 <context>
@@ -1228,12 +1240,12 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../main.qml" line="17"/>
         <source>All Settings</source>
-        <translation/>
+        <translation>Semua Pengaturan</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="112"/>
+        <location filename="../../main.qml" line="111"/>
         <source>Settings</source>
-        <translation/>
+        <translation>Pengaturan</translation>
     </message>
 </context>
 </TS>

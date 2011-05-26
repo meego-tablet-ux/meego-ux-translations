@@ -68,44 +68,44 @@
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="109"/>
-        <location filename="../../main.qml" line="356"/>
+        <location filename="../../main.qml" line="98"/>
+        <location filename="../../main.qml" line="346"/>
         <source>All (%1 videos)</source>
         <translation>全部（%1 个视频）</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="176"/>
+        <location filename="../../main.qml" line="166"/>
         <source>Video name</source>
         <translation>视频名称</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="182"/>
-        <location filename="../../main.qml" line="661"/>
+        <location filename="../../main.qml" line="172"/>
+        <location filename="../../main.qml" line="663"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>如果您将其删除，它将被从您的设备中移除。</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="194"/>
+        <location filename="../../main.qml" line="184"/>
         <source>Permanently delete this video?</source>
         <translation>永久删除本视频？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="194"/>
+        <location filename="../../main.qml" line="184"/>
         <source>Permanently delete these %1 videos?</source>
         <translation>是否要永久删除这些%1视频？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="209"/>
+        <location filename="../../main.qml" line="199"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>如果您将其删除，它们将被从您的设备中移除。</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="423"/>
+        <location filename="../../main.qml" line="413"/>
         <source>No videos have been added. Do you want to start watching videos?</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="431"/>
+        <location filename="../../main.qml" line="421"/>
         <source>Start recording or upload your favorite shows.</source>
         <translation/>
     </message>

@@ -68,44 +68,44 @@
         <translation>Selecione múltiplos vídeos</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="109"/>
-        <location filename="../../main.qml" line="356"/>
+        <location filename="../../main.qml" line="98"/>
+        <location filename="../../main.qml" line="346"/>
         <source>All (%1 videos)</source>
         <translation>Todos os (%1 vídeos)</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="176"/>
+        <location filename="../../main.qml" line="166"/>
         <source>Video name</source>
         <translation>Nome do Vídeo</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="182"/>
-        <location filename="../../main.qml" line="661"/>
+        <location filename="../../main.qml" line="172"/>
+        <location filename="../../main.qml" line="663"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>Se você excluir isso, ele será removido do seu dispositivo</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="194"/>
+        <location filename="../../main.qml" line="184"/>
         <source>Permanently delete this video?</source>
         <translation>Excluir este vídeo permanentemente?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="194"/>
+        <location filename="../../main.qml" line="184"/>
         <source>Permanently delete these %1 videos?</source>
         <translation>Permanentemente apagar estes %1 vídeos?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="209"/>
+        <location filename="../../main.qml" line="199"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>Se você apagá-los, eles serão removidos do dispositivo</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="423"/>
+        <location filename="../../main.qml" line="413"/>
         <source>No videos have been added. Do you want to start watching videos?</source>
         <translation>Nenhum vídeo foi adicionado. Você quer começar a assistir videos?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="431"/>
+        <location filename="../../main.qml" line="421"/>
         <source>Start recording or upload your favorite shows.</source>
         <translation>Comece a gravar ou fazer upload de seus shows favoritos.</translation>
     </message>

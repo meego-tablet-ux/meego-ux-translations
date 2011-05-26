@@ -4,73 +4,73 @@
     <message>
         <location filename="../../qml/constants.js" line="3"/>
         <source>Web accounts</source>
-        <translation/>
+        <translation>Akun web</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
         <source>Done</source>
-        <translation/>
+        <translation>Selesai</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="6"/>
         <location filename="../../qml/constants.js" line="8"/>
         <source>Sign in</source>
-        <translation/>
+        <translation>Masuk</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="9"/>
         <source>Sign out</source>
-        <translation/>
+        <translation>Keluar</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="10"/>
         <source>Continue</source>
-        <translation/>
+        <translation>Lanjutkan</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="13"/>
         <source>&lt;b&gt;Username:&lt;/b&gt; </source>
-        <translation/>
+        <translation>&lt;b&gt;Nama pengguna:&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="14"/>
         <source>Username</source>
-        <translation/>
+        <translation>Nama pengguna</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="15"/>
         <source>Password</source>
-        <translation/>
+        <translation>Sandi</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="16"/>
         <source>Verifier code</source>
-        <translation/>
+        <translation>Kode verifikasi</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="18"/>
         <source>More details</source>
-        <translation/>
+        <translation>Rincian lebih lanjut</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
         <source>Unable to sign in, try again later</source>
-        <translation/>
+        <translation>Tak bisa masuk, coba lagi nanti</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="21"/>
         <source>Attempting to sign in...</source>
-        <translation/>
+        <translation>Sedang mencoba masuk...</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="22"/>
         <source>Successfully signed in!</source>
-        <translation/>
+        <translation>Sukses masuk!</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="23"/>
         <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
-        <translation/>
+        <translation>Anda telah berhasil keluar.  Isi dari layanan ini tak akan muncul di perangkat ini lagi.</translation>
     </message>
 </context>
 </TS>

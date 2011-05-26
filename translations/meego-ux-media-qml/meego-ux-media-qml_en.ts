@@ -2,37 +2,37 @@
 <context>
     <name>MediaGridView</name>
     <message>
-        <location filename="../../Media/MediaGridView.qml" line="57"/>
+        <location filename="../../Media/MediaGridView.qml" line="170"/>
         <source>Favorites</source>
         <translation>Favorites</translation>
     </message>
     <message>
-        <location filename="../../Media/MediaGridView.qml" line="58"/>
-        <source>Recently Viewed</source>
-        <translation>Recently Viewed</translation>
+        <location filename="../../Media/MediaGridView.qml" line="171"/>
+        <source>Recently viewed</source>
+        <translation>Recently viewed</translation>
     </message>
     <message>
-        <location filename="../../Media/MediaGridView.qml" line="59"/>
-        <source>Recently Added</source>
-        <translation>Recently Added</translation>
+        <location filename="../../Media/MediaGridView.qml" line="172"/>
+        <source>Newest</source>
+        <translation>Newest</translation>
     </message>
     <message>
-        <location filename="../../Media/MediaGridView.qml" line="60"/>
+        <location filename="../../Media/MediaGridView.qml" line="173"/>
         <source>Unwatched</source>
         <translation>Unwatched</translation>
     </message>
     <message>
-        <location filename="../../Media/MediaGridView.qml" line="61"/>
+        <location filename="../../Media/MediaGridView.qml" line="174"/>
         <source>Search Results</source>
         <translation>Search Results</translation>
     </message>
     <message>
-        <location filename="../../Media/MediaGridView.qml" line="256"/>
+        <location filename="../../Media/MediaGridView.qml" line="407"/>
         <source>%1 Minute</source>
         <translation>%1 Minute</translation>
     </message>
     <message>
-        <location filename="../../Media/MediaGridView.qml" line="256"/>
+        <location filename="../../Media/MediaGridView.qml" line="407"/>
         <source>%1 Minutes</source>
         <translation>%1 Minutes</translation>
     </message>

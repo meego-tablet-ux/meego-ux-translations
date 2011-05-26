@@ -2,93 +2,93 @@
 <context>
     <name>CollectionsPicker</name>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="64"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="68"/>
         <source>Choose an album to upload to</source>
-        <translation/>
+        <translation>Pilih album untuk diunggah</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="165"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="171"/>
         <source>Add a new album</source>
-        <translation/>
+        <translation>Tambah album baru</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="187"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="193"/>
         <source>Add a title</source>
-        <translation/>
+        <translation>Tambah judul</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="206"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="212"/>
         <source>Cancel</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="305"/>
-        <source>Video</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="307"/>
-        <source>Photo</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="309"/>
-        <source>Music</source>
-        <translation/>
+        <translation>Batal</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="311"/>
+        <source>Video</source>
+        <translation>Video</translation>
+    </message>
+    <message>
+        <location filename="../../qml/CollectionsPicker.qml" line="313"/>
+        <source>Photo</source>
+        <translation>Foto</translation>
+    </message>
+    <message>
+        <location filename="../../qml/CollectionsPicker.qml" line="315"/>
+        <source>Music</source>
+        <translation>Musik</translation>
+    </message>
+    <message>
+        <location filename="../../qml/CollectionsPicker.qml" line="317"/>
         <source>Upload %1 to %2</source>
-        <translation/>
+        <translation>Unggah %1 ke %2</translation>
     </message>
 </context>
 <context>
     <name>CreateCollection</name>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="61"/>
+        <location filename="../../qml/CreateCollection.qml" line="64"/>
         <source>Choose a name for your new album</source>
-        <translation/>
+        <translation>Pilih nama bagi album baru Anda</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="106"/>
+        <location filename="../../qml/CreateCollection.qml" line="109"/>
         <source>Album name</source>
-        <translation/>
+        <translation>Nama album</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="135"/>
+        <location filename="../../qml/CreateCollection.qml" line="138"/>
         <source>Create album</source>
-        <translation/>
+        <translation>Buat album</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="145"/>
-        <location filename="../../qml/CreateCollection.qml" line="232"/>
+        <location filename="../../qml/CreateCollection.qml" line="148"/>
+        <location filename="../../qml/CreateCollection.qml" line="235"/>
         <source>Collection creation: General error</source>
-        <translation/>
+        <translation>Pembuatan koleksi: Galat umum</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="152"/>
+        <location filename="../../qml/CreateCollection.qml" line="155"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Batal</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="240"/>
+        <location filename="../../qml/CreateCollection.qml" line="243"/>
         <source>Video</source>
-        <translation/>
+        <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="242"/>
+        <location filename="../../qml/CreateCollection.qml" line="245"/>
         <source>Photo</source>
-        <translation/>
+        <translation>Foto</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="244"/>
+        <location filename="../../qml/CreateCollection.qml" line="247"/>
         <source>Music</source>
-        <translation/>
+        <translation>Musik</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="246"/>
+        <location filename="../../qml/CreateCollection.qml" line="249"/>
         <source>Upload %1 to %2</source>
-        <translation/>
+        <translation>Unggah %1 ke %2</translation>
     </message>
 </context>
 <context>
@@ -96,340 +96,340 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="32"/>
         <source>No album</source>
-        <translation/>
+        <translation>Tak ada album</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="218"/>
+        <location filename="../../qml/MediaUploader.qml" line="220"/>
         <source>Cancel</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../qml/MediaUploader.qml" line="249"/>
-        <source>Video</source>
-        <translation/>
+        <translation>Batal</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="251"/>
-        <source>Photo</source>
-        <translation/>
+        <source>Video</source>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="253"/>
-        <source>Music</source>
-        <translation/>
+        <source>Photo</source>
+        <translation>Foto</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="255"/>
+        <source>Music</source>
+        <translation>Musik</translation>
+    </message>
+    <message>
+        <location filename="../../qml/MediaUploader.qml" line="257"/>
         <source>Upload %1 to %2</source>
-        <translation/>
+        <translation>Unggah %1 ke %2</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="273"/>
+        <location filename="../../qml/MediaUploader.qml" line="275"/>
         <source>File %1 of %2</source>
-        <translation/>
+        <translation>Berkas %1 dari %2</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="293"/>
+        <location filename="../../qml/MediaUploader.qml" line="295"/>
         <source>&lt;b&gt;Album:&lt;/b&gt; %1</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../qml/MediaUploader.qml" line="298"/>
-        <source>Upload</source>
-        <translation/>
+        <translation>&lt;b&gt;Album:&lt;/b&gt; %1</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="300"/>
+        <source>Upload</source>
+        <translation>Unggah</translation>
+    </message>
+    <message>
+        <location filename="../../qml/MediaUploader.qml" line="302"/>
         <source>Next</source>
-        <translation/>
+        <translation>Selanjutnya</translation>
     </message>
 </context>
 <context>
     <name>facebook_image_multi</name>
     <message>
-        <location filename="../../qml/facebook_image_multi.qml" line="20"/>
+        <location filename="../../qml/facebook_image_multi.qml" line="18"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Nama foto</translation>
     </message>
 </context>
 <context>
     <name>facebook_image_single</name>
     <message>
-        <location filename="../../qml/facebook_image_single.qml" line="20"/>
+        <location filename="../../qml/facebook_image_single.qml" line="18"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Nama foto</translation>
     </message>
 </context>
 <context>
     <name>facebook_video_multi</name>
     <message>
-        <location filename="../../qml/facebook_video_multi.qml" line="19"/>
+        <location filename="../../qml/facebook_video_multi.qml" line="17"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Nama video</translation>
     </message>
 </context>
 <context>
     <name>facebook_video_single</name>
     <message>
-        <location filename="../../qml/facebook_video_single.qml" line="19"/>
+        <location filename="../../qml/facebook_video_single.qml" line="17"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Nama video</translation>
     </message>
 </context>
 <context>
     <name>flickr_image_multi</name>
     <message>
-        <location filename="../../qml/flickr_image_multi.qml" line="20"/>
+        <location filename="../../qml/flickr_image_multi.qml" line="18"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Nama foto</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_image_multi.qml" line="23"/>
+        <location filename="../../qml/flickr_image_multi.qml" line="21"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Keterangan foto</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_image_multi.qml" line="26"/>
+        <location filename="../../qml/flickr_image_multi.qml" line="24"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Tag foto</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_image_multi.qml" line="55"/>
+        <location filename="../../qml/flickr_image_multi.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>Hanya Anda (privat)</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_image_multi.qml" line="85"/>
+        <location filename="../../qml/flickr_image_multi.qml" line="87"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>Teman Anda</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_image_multi.qml" line="117"/>
+        <location filename="../../qml/flickr_image_multi.qml" line="119"/>
         <source>Your family</source>
-        <translation/>
+        <translation>Keluarga Anda</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_image_multi.qml" line="151"/>
+        <location filename="../../qml/flickr_image_multi.qml" line="153"/>
         <source>Anyone (public)</source>
-        <translation/>
+        <translation>Siapapun (publik)</translation>
     </message>
 </context>
 <context>
     <name>flickr_image_single</name>
     <message>
-        <location filename="../../qml/flickr_image_single.qml" line="20"/>
+        <location filename="../../qml/flickr_image_single.qml" line="18"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Nama foto</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_image_single.qml" line="23"/>
+        <location filename="../../qml/flickr_image_single.qml" line="21"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Keterangan foto</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_image_single.qml" line="26"/>
+        <location filename="../../qml/flickr_image_single.qml" line="24"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Tag foto</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_image_single.qml" line="55"/>
+        <location filename="../../qml/flickr_image_single.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>Hanya Anda (privat)</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_image_single.qml" line="85"/>
+        <location filename="../../qml/flickr_image_single.qml" line="87"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>Teman Anda</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_image_single.qml" line="117"/>
+        <location filename="../../qml/flickr_image_single.qml" line="119"/>
         <source>Your family</source>
-        <translation/>
+        <translation>Keluarga Anda</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_image_single.qml" line="151"/>
+        <location filename="../../qml/flickr_image_single.qml" line="153"/>
         <source>Anyone (public)</source>
-        <translation/>
+        <translation>Siapapun (publik)</translation>
     </message>
 </context>
 <context>
     <name>flickr_video_multi</name>
     <message>
-        <location filename="../../qml/flickr_video_multi.qml" line="20"/>
+        <location filename="../../qml/flickr_video_multi.qml" line="18"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Nama foto</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_video_multi.qml" line="23"/>
+        <location filename="../../qml/flickr_video_multi.qml" line="21"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Keterangan foto</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_video_multi.qml" line="26"/>
+        <location filename="../../qml/flickr_video_multi.qml" line="24"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Tag foto</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_video_multi.qml" line="55"/>
+        <location filename="../../qml/flickr_video_multi.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>Hanya Anda (privat)</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_video_multi.qml" line="85"/>
+        <location filename="../../qml/flickr_video_multi.qml" line="87"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>Teman Anda</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_video_multi.qml" line="117"/>
+        <location filename="../../qml/flickr_video_multi.qml" line="119"/>
         <source>Your family</source>
-        <translation/>
+        <translation>Keluarga Anda</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_video_multi.qml" line="151"/>
+        <location filename="../../qml/flickr_video_multi.qml" line="153"/>
         <source>Anyone (public)</source>
-        <translation/>
+        <translation>Siapapun (publik)</translation>
     </message>
 </context>
 <context>
     <name>flickr_video_single</name>
     <message>
-        <location filename="../../qml/flickr_video_single.qml" line="20"/>
+        <location filename="../../qml/flickr_video_single.qml" line="18"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Nama foto</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_video_single.qml" line="23"/>
+        <location filename="../../qml/flickr_video_single.qml" line="21"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Keterangan foto</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_video_single.qml" line="26"/>
+        <location filename="../../qml/flickr_video_single.qml" line="24"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Tag foto</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_video_single.qml" line="55"/>
+        <location filename="../../qml/flickr_video_single.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>Hanya Anda (privat)</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_video_single.qml" line="85"/>
+        <location filename="../../qml/flickr_video_single.qml" line="87"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>Teman Anda</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_video_single.qml" line="117"/>
+        <location filename="../../qml/flickr_video_single.qml" line="119"/>
         <source>Your family</source>
-        <translation/>
+        <translation>Keluarga Anda</translation>
     </message>
     <message>
-        <location filename="../../qml/flickr_video_single.qml" line="151"/>
+        <location filename="../../qml/flickr_video_single.qml" line="153"/>
         <source>Anyone (public)</source>
-        <translation/>
+        <translation>Siapapun (publik)</translation>
     </message>
 </context>
 <context>
     <name>photobucket_image_multi</name>
     <message>
-        <location filename="../../qml/photobucket_image_multi.qml" line="20"/>
+        <location filename="../../qml/photobucket_image_multi.qml" line="18"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Nama foto</translation>
     </message>
     <message>
-        <location filename="../../qml/photobucket_image_multi.qml" line="23"/>
+        <location filename="../../qml/photobucket_image_multi.qml" line="21"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Keterangan foto</translation>
     </message>
 </context>
 <context>
     <name>photobucket_image_single</name>
     <message>
-        <location filename="../../qml/photobucket_image_single.qml" line="20"/>
+        <location filename="../../qml/photobucket_image_single.qml" line="18"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Nama foto</translation>
     </message>
     <message>
-        <location filename="../../qml/photobucket_image_single.qml" line="23"/>
+        <location filename="../../qml/photobucket_image_single.qml" line="21"/>
         <source>Photo description</source>
-        <translation/>
+        <translation>Keterangan foto</translation>
     </message>
 </context>
 <context>
     <name>smugmug_image_multi</name>
     <message>
-        <location filename="../../qml/smugmug_image_multi.qml" line="20"/>
+        <location filename="../../qml/smugmug_image_multi.qml" line="18"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Nama foto</translation>
     </message>
     <message>
-        <location filename="../../qml/smugmug_image_multi.qml" line="23"/>
+        <location filename="../../qml/smugmug_image_multi.qml" line="21"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Tag foto</translation>
     </message>
 </context>
 <context>
     <name>smugmug_image_single</name>
     <message>
-        <location filename="../../qml/smugmug_image_single.qml" line="20"/>
+        <location filename="../../qml/smugmug_image_single.qml" line="18"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Nama foto</translation>
     </message>
     <message>
-        <location filename="../../qml/smugmug_image_single.qml" line="23"/>
+        <location filename="../../qml/smugmug_image_single.qml" line="21"/>
         <source>Photo tags</source>
-        <translation/>
+        <translation>Tag foto</translation>
     </message>
 </context>
 <context>
     <name>twitter_image_multi</name>
     <message>
-        <location filename="../../qml/twitter_image_multi.qml" line="19"/>
+        <location filename="../../qml/twitter_image_multi.qml" line="17"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Nama foto</translation>
     </message>
 </context>
 <context>
     <name>twitter_image_single</name>
     <message>
-        <location filename="../../qml/twitter_image_single.qml" line="19"/>
+        <location filename="../../qml/twitter_image_single.qml" line="17"/>
         <source>Photo name</source>
-        <translation/>
+        <translation>Nama foto</translation>
     </message>
 </context>
 <context>
     <name>youtube_video_multi</name>
     <message>
-        <location filename="../../qml/youtube_video_multi.qml" line="19"/>
+        <location filename="../../qml/youtube_video_multi.qml" line="17"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Nama video</translation>
     </message>
     <message>
-        <location filename="../../qml/youtube_video_multi.qml" line="22"/>
+        <location filename="../../qml/youtube_video_multi.qml" line="20"/>
         <source>Video description</source>
-        <translation/>
+        <translation>Keterangan video</translation>
     </message>
     <message>
-        <location filename="../../qml/youtube_video_multi.qml" line="25"/>
+        <location filename="../../qml/youtube_video_multi.qml" line="23"/>
         <source>Video tags</source>
-        <translation/>
+        <translation>Tag video</translation>
     </message>
 </context>
 <context>
     <name>youtube_video_single</name>
     <message>
-        <location filename="../../qml/youtube_video_single.qml" line="19"/>
+        <location filename="../../qml/youtube_video_single.qml" line="17"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Nama video</translation>
     </message>
     <message>
-        <location filename="../../qml/youtube_video_single.qml" line="22"/>
+        <location filename="../../qml/youtube_video_single.qml" line="20"/>
         <source>Video description</source>
-        <translation/>
+        <translation>Keterangan video</translation>
     </message>
     <message>
-        <location filename="../../qml/youtube_video_single.qml" line="25"/>
+        <location filename="../../qml/youtube_video_single.qml" line="23"/>
         <source>Video tags</source>
-        <translation/>
+        <translation>Tag video</translation>
     </message>
 </context>
 </TS>

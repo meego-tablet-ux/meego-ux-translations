@@ -2,12 +2,12 @@
 <context>
     <name>FriendsItem</name>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="169"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="198"/>
         <source>Accept</source>
         <translation>Aceutar</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="185"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="207"/>
         <source>Decline</source>
         <translation>Refugar</translation>
     </message>
@@ -15,55 +15,45 @@
 <context>
     <name>friendspanel</name>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="25"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="29"/>
         <source>Friends</source>
         <translation>Collacios</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="32"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="35"/>
         <source>Friends settings</source>
         <translation>Axustes de collacios</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="33"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="36"/>
         <source>Friends panel content</source>
-        <translation/>
+        <translation>Conteníu del panel de collacios</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="95"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="134"/>
         <source>You have no web accounts enabled - tap here to configure your web accounts.</source>
         <translation>Nun tienes denguna cuenta web habilitada, calca equí pa configurar les cuentes web.</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="104"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="143"/>
         <source>Tap here!</source>
         <translation>Calca equí!</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="153"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="192"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="204"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="245"/>
         <source>View</source>
         <translation>Ver</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="156"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="190"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="192"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="207"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="243"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="245"/>
         <source>Hide</source>
         <translation>Anubrir</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="292"/>
-        <source>Clear history from:</source>
-        <translation>Llimpiar historial de:</translation>
-    </message>
-    <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="365"/>
-        <source>Clear</source>
-        <translation>Llimpiar</translation>
-    </message>
-    <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="428"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="371"/>
         <source>Go to settings</source>
         <translation>Dir a axustes</translation>
     </message>

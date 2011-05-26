@@ -4,45 +4,45 @@
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="56"/>
         <source>Video</source>
-        <translation/>
+        <translation>Video</translation>
+    </message>
+    <message>
+        <location filename="../../panelsrc/video/videopanel.qml" line="61"/>
+        <source>Video settings</source>
+        <translation>Pengaturan video</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="62"/>
-        <source>Video settings</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="63"/>
         <source>Video panel content</source>
-        <translation/>
+        <translation>Isi panel video</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="93"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="90"/>
         <source>Watch your videos.</source>
-        <translation/>
+        <translation>Tonton video Anda.</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="102"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="99"/>
         <source>Open Videos!</source>
-        <translation/>
+        <translation>Buka Video!</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="123"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="127"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="132"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="136"/>
         <source>Play</source>
-        <translation/>
+        <translation>Main</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="123"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="135"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="132"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="144"/>
         <source>Share</source>
-        <translation/>
+        <translation>Berbagi</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="123"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="131"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="132"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="140"/>
         <source>Hide</source>
-        <translation/>
+        <translation>Sembunyikan</translation>
     </message>
 </context>
 </TS>

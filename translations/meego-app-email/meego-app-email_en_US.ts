@@ -111,11 +111,6 @@
         <source>%1 - %2</source>
         <translation>%1 - %2</translation>
     </message>
-    <message>
-        <location filename="../../AccountPage.qml" line="156"/>
-        <source>%1 %2</source>
-        <translation>%1 %2</translation>
-    </message>
 </context>
 <context>
     <name>AccountSettings</name>
@@ -231,7 +226,7 @@
 <context>
     <name>AddRecipient</name>
     <message>
-        <location filename="../../AddRecipient.qml" line="45"/>
+        <location filename="../../AddRecipient.qml" line="46"/>
         <source>Select &quot;%1&quot; recipient</source>
         <extracomment>The contact (e-mail recipient) picker title.</extracomment>
         <translation>Select &quot;%1&quot; recipient</translation>
@@ -240,28 +235,28 @@
 <context>
     <name>ComposerView</name>
     <message>
-        <location filename="../../ComposerView.qml" line="186"/>
+        <location filename="../../ComposerView.qml" line="185"/>
         <source>Attach a file</source>
         <extracomment>Attach a file (e.g. music, video, photo) to the document being composed.</extracomment>
         <translation>Attach a file</translation>
     </message>
     <message>
-        <location filename="../../ComposerView.qml" line="235"/>
+        <location filename="../../ComposerView.qml" line="234"/>
         <source>Yes</source>
         <translation>Yes</translation>
     </message>
     <message>
-        <location filename="../../ComposerView.qml" line="236"/>
+        <location filename="../../ComposerView.qml" line="235"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="../../ComposerView.qml" line="237"/>
+        <location filename="../../ComposerView.qml" line="236"/>
         <source>Discard Email</source>
         <translation>Discard email</translation>
     </message>
     <message>
-        <location filename="../../ComposerView.qml" line="240"/>
+        <location filename="../../ComposerView.qml" line="239"/>
         <source>Are you sure you want to discard this unsent email?</source>
         <translation>Are you sure you want to discard this unsent email?</translation>
     </message>
@@ -419,50 +414,50 @@
 <context>
     <name>EmailHeader</name>
     <message>
-        <location filename="../../EmailHeader.qml" line="67"/>
+        <location filename="../../EmailHeader.qml" line="69"/>
         <source>From:</source>
         <translation>From:</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="99"/>
+        <location filename="../../EmailHeader.qml" line="101"/>
         <source>Cc/Bcc</source>
         <translation>Cc/Bcc</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="114"/>
+        <location filename="../../EmailHeader.qml" line="116"/>
         <source>To</source>
         <extracomment>The &quot;to&quot; recipient label.</extracomment>
         <translation>To</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="139"/>
+        <location filename="../../EmailHeader.qml" line="141"/>
         <source>Cc</source>
         <extracomment>The Cc (carbon copy) label.</extracomment>
         <translation>Cc</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="163"/>
+        <location filename="../../EmailHeader.qml" line="165"/>
         <source>Bcc</source>
         <extracomment>The Bcc (blind carbon copy) label.</extracomment>
         <translation>Bcc</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="196"/>
+        <location filename="../../EmailHeader.qml" line="198"/>
         <source>Enter subject here</source>
         <translation>Enter subject here</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="231"/>
+        <location filename="../../EmailHeader.qml" line="233"/>
         <source>Low Priority</source>
         <translation>Low Priority</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="232"/>
+        <location filename="../../EmailHeader.qml" line="234"/>
         <source>Normal Priority</source>
         <translation>Normal Priority</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="233"/>
+        <location filename="../../EmailHeader.qml" line="235"/>
         <source>High Priority</source>
         <translation>High Priority</translation>
     </message>
@@ -481,11 +476,6 @@
         <location filename="../../FolderListMenu.qml" line="147"/>
         <source>(%1)</source>
         <translation>(%1)</translation>
-    </message>
-    <message>
-        <location filename="../../FolderListMenu.qml" line="159"/>
-        <source>%1 %2</source>
-        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -516,82 +506,82 @@
         <translation>Attachments</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="58"/>
+        <location filename="../../FolderListView.qml" line="62"/>
         <source>On %1 %2 wrote:</source>
         <translation>On %1 %2 wrote:</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="92"/>
+        <location filename="../../FolderListView.qml" line="96"/>
         <source>Yes</source>
         <translation>Yes</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="93"/>
+        <location filename="../../FolderListView.qml" line="97"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="94"/>
+        <location filename="../../FolderListView.qml" line="98"/>
         <source>Delete Email</source>
         <translation>Delete Email</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="96"/>
+        <location filename="../../FolderListView.qml" line="100"/>
         <source>Are you sure you want to delete this email?</source>
         <translation>Are you sure you want to delete this email?</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="130"/>
+        <location filename="../../FolderListView.qml" line="134"/>
         <source>-------- Forwarded Message --------</source>
         <translation>-------- Forwarded Message --------</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="131"/>
+        <location filename="../../FolderListView.qml" line="135"/>
         <source>[Fwd: %1]</source>
         <translation>[Fwd: %1]</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="169"/>
+        <location filename="../../FolderListView.qml" line="173"/>
         <source>There are no messages in this folder.</source>
         <translation>There are no messages in this folder.</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="208"/>
+        <location filename="../../FolderListView.qml" line="212"/>
         <source>Getting more messages</source>
         <translation>Getting more messages</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="210"/>
+        <location filename="../../FolderListView.qml" line="214"/>
         <source>Get more messages</source>
         <translation>Get more messages</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="428"/>
+        <location filename="../../FolderListView.qml" line="432"/>
         <source>Reply</source>
         <translation>Reply</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="428"/>
+        <location filename="../../FolderListView.qml" line="432"/>
         <source>Reply to all</source>
         <translation>Reply to all</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="428"/>
+        <location filename="../../FolderListView.qml" line="432"/>
         <source>Forward</source>
         <translation>Forward</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="428"/>
+        <location filename="../../FolderListView.qml" line="432"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="429"/>
+        <location filename="../../FolderListView.qml" line="433"/>
         <source>Mark as unread</source>
         <translation>Mark as unread</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="429"/>
+        <location filename="../../FolderListView.qml" line="433"/>
         <source>Mark as read</source>
         <translation>Mark as read</translation>
     </message>
@@ -739,37 +729,37 @@
         <translation>Attachment saved.</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="42"/>
+        <location filename="../../ReadingView.qml" line="44"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="43"/>
+        <location filename="../../ReadingView.qml" line="45"/>
         <source>Warning</source>
         <translation>Warning</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="48"/>
+        <location filename="../../ReadingView.qml" line="50"/>
         <source>File format is not supported.</source>
         <translation>File format is not supported.</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="116"/>
+        <location filename="../../ReadingView.qml" line="118"/>
         <source>From:</source>
         <translation>From:</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="150"/>
+        <location filename="../../ReadingView.qml" line="152"/>
         <source>To:</source>
         <translation>To:</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="183"/>
+        <location filename="../../ReadingView.qml" line="185"/>
         <source>Subject:</source>
         <translation>Subject:</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="403"/>
+        <location filename="../../ReadingView.qml" line="406"/>
         <source>Downloading...</source>
         <translation>Downloading...</translation>
     </message>
@@ -925,32 +915,32 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="16"/>
+        <location filename="../../main.qml" line="15"/>
         <source>Sender</source>
         <translation>Sender</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="17"/>
+        <location filename="../../main.qml" line="16"/>
         <source>Subject</source>
         <translation>Subject</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="18"/>
+        <location filename="../../main.qml" line="17"/>
         <source>Date Sent</source>
         <translation>Date Sent</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="31"/>
+        <location filename="../../main.qml" line="30"/>
         <source>Subject:</source>
         <translation>Subject:</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="32"/>
+        <location filename="../../main.qml" line="31"/>
         <source>Sort messages by:</source>
         <translation>Sort messages by:</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="33"/>
+        <location filename="../../main.qml" line="32"/>
         <source>Go to folder:</source>
         <translation>Go to folder:</translation>
     </message>
@@ -960,60 +950,54 @@
         <translation>Email</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="96"/>
-        <location filename="../../main.qml" line="103"/>
-        <location filename="../../main.qml" line="412"/>
-        <source>Account switcher</source>
-        <translation>Account switcher</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="121"/>
-        <source>On %1 %2 wrote:</source>
-        <translation>On %1 %2 wrote:</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="157"/>
+        <location filename="../../main.qml" line="74"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="159"/>
+        <location filename="../../main.qml" line="75"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="324"/>
+        <location filename="../../main.qml" line="129"/>
+        <location filename="../../main.qml" line="136"/>
+        <location filename="../../main.qml" line="448"/>
+        <source>Account switcher</source>
+        <translation>Account switcher</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="159"/>
+        <source>On %1 %2 wrote:</source>
+        <translation>On %1 %2 wrote:</translation>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="337"/>
         <source>-------- Forwarded Message --------</source>
         <translation>-------- Forwarded Message --------</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="325"/>
+        <location filename="../../main.qml" line="338"/>
         <source>[Fwd: %1]</source>
         <translation>[Fwd: %1]</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="348"/>
-        <location filename="../../main.qml" line="373"/>
-        <source>%1 %2</source>
-        <translation>%1 %2</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="407"/>
+        <location filename="../../main.qml" line="443"/>
         <source>Account list</source>
         <translation>Account list</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="435"/>
+        <location filename="../../main.qml" line="472"/>
         <source>Composer</source>
         <translation>Composer</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="489"/>
+        <location filename="../../main.qml" line="518"/>
         <source>Mark as unread</source>
         <translation>Mark as unread</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="489"/>
+        <location filename="../../main.qml" line="518"/>
         <source>Mark as read</source>
         <translation>Mark as read</translation>
     </message>

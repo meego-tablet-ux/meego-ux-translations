@@ -7,40 +7,40 @@
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="62"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="61"/>
         <source>Video settings</source>
         <translation>Impostazioni video</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="63"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="62"/>
         <source>Video panel content</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="93"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="90"/>
         <source>Watch your videos.</source>
         <translation>Guardare i video.</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="102"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="99"/>
         <source>Open Videos!</source>
         <translation>Apri video</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="123"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="127"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="132"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="136"/>
         <source>Play</source>
         <translation>Riproduci</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="123"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="135"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="132"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="144"/>
         <source>Share</source>
         <translation>Condividi</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="123"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="131"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="132"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="140"/>
         <source>Hide</source>
         <translation>Nascondi</translation>
     </message>

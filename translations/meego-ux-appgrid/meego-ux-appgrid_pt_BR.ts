@@ -29,7 +29,7 @@
     <message>
         <location filename="../../MainContent.qml" line="661"/>
         <source>Personalize</source>
-        <translation>Personalize</translation>
+        <translation>Customize</translation>
     </message>
 </context>
 </TS>

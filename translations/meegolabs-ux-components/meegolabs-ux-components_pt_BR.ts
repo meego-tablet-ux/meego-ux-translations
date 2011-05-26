@@ -38,7 +38,7 @@
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="38"/>
         <source>Pick a contact:</source>
-        <translation>Pegar um contato:</translation>
+        <translation>Selecionar um contato:</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="122"/>
@@ -143,7 +143,7 @@
         <location filename="../../fuzzydatetime.cpp" line="73"/>
         <source>%1/%2/%3 - Last month</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%2/%1/%3 - último mês</translation>
+        <translation>%2/%1/%3 - no último mês</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="78"/>
@@ -161,7 +161,7 @@
         <location filename="../../fuzzydatetime.cpp" line="93"/>
         <source>%1/%2/%3 - Last year</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%2/%1/%3 - último ano</translation>
+        <translation>%2/%1/%3 - no último ano</translation>
     </message>
     <message>
         <location filename="../../fuzzydatetime.cpp" line="98"/>
@@ -276,7 +276,7 @@
         <location filename="../../Components/ShareObj.qml" line="77"/>
         <location filename="../../Components/ShareObj.qml" line="97"/>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="241"/>

@@ -2,56 +2,56 @@
 <context>
     <name>MyTabletPanel</name>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="67"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="57"/>
         <source>Wi-Fi</source>
         <translation>Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="73"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="63"/>
         <source>Sound</source>
         <translation>Som</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="79"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="69"/>
         <source>All settings</source>
         <translation>Todas as definições</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="95"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="85"/>
         <source>View all applications</source>
         <translation>Ver todas as aplicações</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="105"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="95"/>
         <source>Visit the Intel AppUp(sm) center</source>
         <translation>Visite a o centro Intel AppUp(sm)</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="127"/>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="166"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="117"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="158"/>
         <source>Top applications</source>
         <translation>Aplicações principais</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="128"/>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="175"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="118"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="166"/>
         <source>Settings</source>
         <translation>Definições</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="134"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="124"/>
         <source>My Tablet</source>
         <translation>O meu Tablet</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="187"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="177"/>
         <source>My Tablet settings</source>
         <translation>Definições do meu Tablet</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="188"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="178"/>
         <source>My Tablet content</source>
-        <translation/>
+        <translation>Conteúdo do My Tablet</translation>
     </message>
 </context>
 </TS>

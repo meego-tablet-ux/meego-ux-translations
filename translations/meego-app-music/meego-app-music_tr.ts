@@ -2,57 +2,57 @@
 <context>
     <name>MusicListView</name>
     <message>
-        <location filename="../../MusicListView.qml" line="20"/>
+        <location filename="../../MusicListView.qml" line="19"/>
         <source>unknown artist</source>
         <translation>bilinmeyen sanatçı</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="21"/>
+        <location filename="../../MusicListView.qml" line="20"/>
         <source>unknown album</source>
         <translation>bilinmeyen albüm</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="22"/>
+        <location filename="../../MusicListView.qml" line="21"/>
         <source>%1</source>
         <translation>%1</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="50"/>
+        <location filename="../../MusicListView.qml" line="51"/>
         <source>Playlist name</source>
-        <translation/>
+        <translation>Parça listesi adı</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="52"/>
+        <location filename="../../MusicListView.qml" line="53"/>
         <source>Artist name</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../MusicListView.qml" line="54"/>
-        <source>Album name</source>
-        <translation/>
+        <translation>Sanatçı adı</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="55"/>
-        <source>Track name</source>
-        <translation/>
+        <source>Album name</source>
+        <translation>Albüm adı</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="70"/>
+        <location filename="../../MusicListView.qml" line="56"/>
+        <source>Track name</source>
+        <translation>Parça adı</translation>
+    </message>
+    <message>
+        <location filename="../../MusicListView.qml" line="71"/>
         <source>Artist</source>
         <translation>Sanatçı</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="84"/>
+        <location filename="../../MusicListView.qml" line="85"/>
         <source>Time</source>
         <translation>Süre</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="98"/>
+        <location filename="../../MusicListView.qml" line="99"/>
         <source>Album</source>
         <translation>Albüm</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="111"/>
+        <location filename="../../MusicListView.qml" line="112"/>
         <source>Number of tracks</source>
         <translation>Parça sayısı</translation>
     </message>
@@ -75,7 +75,7 @@
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Play queue</source>
-        <translation/>
+        <translation>Kuyruğu oynat</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>All tracks</source>
-        <translation/>
+        <translation>Tüm parçalar</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Open album</source>
-        <translation/>
+        <translation>Albümü aç</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
@@ -186,7 +186,7 @@
     <message>
         <location filename="../../main.qml" line="50"/>
         <source>Remove from queue</source>
-        <translation/>
+        <translation>Kuyruktan çıkar</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="51"/>
@@ -206,22 +206,22 @@
     <message>
         <location filename="../../main.qml" line="54"/>
         <source>Clear playlist</source>
-        <translation/>
+        <translation>Parça listesini temizle</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="56"/>
         <source>%1 items</source>
-        <translation/>
+        <translation>%1 öğe</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="57"/>
         <source>%1 album</source>
-        <translation/>
+        <translation>%1 albüm</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="58"/>
         <source>%1 tracks</source>
-        <translation/>
+        <translation>%1 parça</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="60"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../../main.qml" line="64"/>
         <source>By date</source>
-        <translation/>
+        <translation>Tarihe göre</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="66"/>
@@ -266,7 +266,7 @@
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>Select multiple songs</source>
-        <translation/>
+        <translation>Birden çok şarkı seç</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
@@ -275,68 +275,50 @@
     </message>
     <message>
         <location filename="../../main.qml" line="75"/>
-        <source>Buy, download or copy your music onto your table, then you can enjoy listening to it from here.</source>
-        <translation>Müziklerinizi, satın alıp, indirip veya masaüstünüze kopyaladığınızda, buradan dinleme keyfine erişebilirsiniz.</translation>
+        <source>Buy, download or copy your music onto your tablet, then you can enjoy listening to it from here.</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="496"/>
+        <location filename="../../main.qml" line="639"/>
         <source>Artist name</source>
         <translation>Sanatçı adı</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="503"/>
+        <location filename="../../main.qml" line="647"/>
         <source>Track name</source>
         <translation>Parça adı</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="509"/>
+        <location filename="../../main.qml" line="661"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>Bunu silerseniz, cihazınızdan silinecektir</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="521"/>
+        <location filename="../../main.qml" line="674"/>
         <source>Permanently delete this song?</source>
         <translation>Kalıcı olarak bu şarkı silinsin mi?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="521"/>
+        <location filename="../../main.qml" line="674"/>
         <source>Permanently delete these %1 songs?</source>
         <translation>Kalıcı olarak bu %1 şarkıyı sil?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="534"/>
+        <location filename="../../main.qml" line="687"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>Bunları silerseniz, cihazınızdan da kaldırılacaktır</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="578"/>
-        <location filename="../../main.qml" line="621"/>
+        <location filename="../../main.qml" line="735"/>
+        <location filename="../../main.qml" line="778"/>
         <source>Invalid characters: %1</source>
-        <translation/>
+        <translation>Geçersiz karakterler: %1</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="1636"/>
-        <location filename="../../main.qml" line="1938"/>
+        <location filename="../../main.qml" line="1785"/>
+        <location filename="../../main.qml" line="2084"/>
         <source>%1 songs</source>
         <translation>Şarkı %1</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1648"/>
-        <location filename="../../main.qml" line="1950"/>
-        <source>%1 seconds</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1649"/>
-        <location filename="../../main.qml" line="1951"/>
-        <source>%1 minutes</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1650"/>
-        <location filename="../../main.qml" line="1952"/>
-        <source>%1 hours</source>
-        <translation/>
     </message>
 </context>
 </TS>

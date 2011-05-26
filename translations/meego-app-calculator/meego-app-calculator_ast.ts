@@ -2,47 +2,47 @@
 <context>
     <name>calculator</name>
     <message>
-        <location filename="../../calculator.js" line="50"/>
+        <location filename="../../calculator.js" line="57"/>
         <source>Infinity</source>
         <translation>Infinito</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="52"/>
+        <location filename="../../calculator.js" line="59"/>
         <source>-Infinity</source>
         <translation>-Infinito</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="54"/>
+        <location filename="../../calculator.js" line="61"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="162"/>
+        <location filename="../../calculator.js" line="174"/>
         <source>mc</source>
         <translation>mc</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="164"/>
+        <location filename="../../calculator.js" line="176"/>
         <source>m+</source>
         <translation>m+</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="166"/>
+        <location filename="../../calculator.js" line="178"/>
         <source>mr</source>
         <translation>mr</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="168"/>
+        <location filename="../../calculator.js" line="180"/>
         <source>m-</source>
         <translation>m-</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="170"/>
+        <location filename="../../calculator.js" line="182"/>
         <source>C</source>
         <translation>C</translation>
     </message>
     <message>
-        <location filename="../../calculator.js" line="172"/>
+        <location filename="../../calculator.js" line="184"/>
         <source>AC</source>
         <translation>AC</translation>
     </message>

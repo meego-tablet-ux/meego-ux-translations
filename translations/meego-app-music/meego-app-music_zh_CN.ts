@@ -2,57 +2,57 @@
 <context>
     <name>MusicListView</name>
     <message>
-        <location filename="../../MusicListView.qml" line="20"/>
+        <location filename="../../MusicListView.qml" line="19"/>
         <source>unknown artist</source>
         <translation>未知艺术家</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="21"/>
+        <location filename="../../MusicListView.qml" line="20"/>
         <source>unknown album</source>
         <translation>未知专辑</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="22"/>
+        <location filename="../../MusicListView.qml" line="21"/>
         <source>%1</source>
         <translation>%1</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="50"/>
+        <location filename="../../MusicListView.qml" line="51"/>
         <source>Playlist name</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="52"/>
+        <location filename="../../MusicListView.qml" line="53"/>
         <source>Artist name</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="54"/>
+        <location filename="../../MusicListView.qml" line="55"/>
         <source>Album name</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="55"/>
+        <location filename="../../MusicListView.qml" line="56"/>
         <source>Track name</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="70"/>
+        <location filename="../../MusicListView.qml" line="71"/>
         <source>Artist</source>
         <translation>艺术家</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="84"/>
+        <location filename="../../MusicListView.qml" line="85"/>
         <source>Time</source>
         <translation>时间</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="98"/>
+        <location filename="../../MusicListView.qml" line="99"/>
         <source>Album</source>
         <translation>专辑</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="111"/>
+        <location filename="../../MusicListView.qml" line="112"/>
         <source>Number of tracks</source>
         <translation>曲目数量</translation>
     </message>
@@ -275,68 +275,50 @@
     </message>
     <message>
         <location filename="../../main.qml" line="75"/>
-        <source>Buy, download or copy your music onto your table, then you can enjoy listening to it from here.</source>
-        <translation>购买、下载或复制音乐至您的平板电脑，然后便可以在此聆听欣赏。</translation>
+        <source>Buy, download or copy your music onto your tablet, then you can enjoy listening to it from here.</source>
+        <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="496"/>
+        <location filename="../../main.qml" line="639"/>
         <source>Artist name</source>
         <translation>艺术家名字</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="503"/>
+        <location filename="../../main.qml" line="647"/>
         <source>Track name</source>
         <translation>曲目名称</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="509"/>
+        <location filename="../../main.qml" line="661"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>如果您将其删除，它将被从您的设备中移除。</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="521"/>
+        <location filename="../../main.qml" line="674"/>
         <source>Permanently delete this song?</source>
         <translation>是否要永久删除此歌曲？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="521"/>
+        <location filename="../../main.qml" line="674"/>
         <source>Permanently delete these %1 songs?</source>
         <translation>是否要永久删除这些%1歌曲？</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="534"/>
+        <location filename="../../main.qml" line="687"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>如果您将其删除，它们将被从您的设备中移除。</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="578"/>
-        <location filename="../../main.qml" line="621"/>
+        <location filename="../../main.qml" line="735"/>
+        <location filename="../../main.qml" line="778"/>
         <source>Invalid characters: %1</source>
         <translation/>
     </message>
     <message>
-        <location filename="../../main.qml" line="1636"/>
-        <location filename="../../main.qml" line="1938"/>
+        <location filename="../../main.qml" line="1785"/>
+        <location filename="../../main.qml" line="2084"/>
         <source>%1 songs</source>
         <translation>%1 曲目</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1648"/>
-        <location filename="../../main.qml" line="1950"/>
-        <source>%1 seconds</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1649"/>
-        <location filename="../../main.qml" line="1951"/>
-        <source>%1 minutes</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="1650"/>
-        <location filename="../../main.qml" line="1952"/>
-        <source>%1 hours</source>
-        <translation/>
     </message>
 </context>
 </TS>

@@ -53,7 +53,7 @@
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="253"/>
         <source>Available</source>
-        <translation>線上</translation>
+        <translation>有空</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="255"/>
@@ -182,43 +182,43 @@
         <location filename="../../localehelper.cpp" line="83"/>
         <source>1</source>
         <extracomment>localize this first day of the week (1 = Sunday, 2 = Monday, ...)</extracomment>
-        <translation>1</translation>
+        <translation>2</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="109"/>
         <source>MMMM d, yyyy</source>
         <extracomment>MMMM = full month, d = day of month, yyyy = full year (e.g. January 31, 2011)</extracomment>
-        <translation/>
+        <translation>yyyy MMMM d</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="113"/>
         <source>MMM d yyyy</source>
         <extracomment>MMM = short month, d = day of month, yyyy = full year (e.g. Jan 31 2011)</extracomment>
-        <translation/>
+        <translation>yyyy MMM d</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="121"/>
         <source>dddd, MMMM d</source>
         <extracomment>dddd = full day of week, MMMM = full month, d = day of month (e.g. Monday, January 31)</extracomment>
-        <translation>MMMM d, dddd</translation>
+        <translation>MMMM d dddd</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="125"/>
         <source>ddd d</source>
         <extracomment>ddd = day of week, d = day of month (e.g. Mon 31)</extracomment>
-        <translation>d ddd </translation>
+        <translation>d ddd</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="129"/>
         <source>MMMM yyyy</source>
         <extracomment>MMMM = full month, yyyy = full year (e.g. January 2011)</extracomment>
-        <translation>yyyy MMMM </translation>
+        <translation>yyyy MMMM</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="133"/>
         <source>MMM yyyy</source>
         <extracomment>MMM = short month, yyyy = full year (e.g. Jan 2011)</extracomment>
-        <translation/>
+        <translation>yyyy MMM</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="137"/>
@@ -230,13 +230,13 @@
         <location filename="../../localehelper.cpp" line="141"/>
         <source>dddd</source>
         <extracomment>dddd = day of week (e.g. Monday)</extracomment>
-        <translation/>
+        <translation>dddd</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="145"/>
         <source>ddd</source>
         <extracomment>ddd = day of week (e.g. Mon)</extracomment>
-        <translation/>
+        <translation>ddd</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="149"/>
@@ -308,12 +308,12 @@
     <message>
         <location filename="../../Components/TimeToggleSwitch.qml" line="40"/>
         <source>ON</source>
-        <translation>開啟</translation>
+        <translation>開</translation>
     </message>
     <message>
         <location filename="../../Components/TimeToggleSwitch.qml" line="41"/>
         <source>OFF</source>
-        <translation>關閉</translation>
+        <translation>關</translation>
     </message>
 </context>
 <context>
@@ -321,12 +321,12 @@
     <message>
         <location filename="../../Components/ToggleSwitch.qml" line="39"/>
         <source>ON</source>
-        <translation>開啟</translation>
+        <translation>開</translation>
     </message>
     <message>
         <location filename="../../Components/ToggleSwitch.qml" line="40"/>
         <source>OFF</source>
-        <translation>關閉</translation>
+        <translation>關</translation>
     </message>
 </context>
 </TS>
