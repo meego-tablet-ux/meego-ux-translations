@@ -9,31 +9,58 @@ L10N_DIR = $(DESTDIR)/usr/share/qt4/translations/
 
 LOCALES = ar \
 	  ast \
+	  bg_BG \
+	  bn \
+	  bn_IN \
+	  bs \
+	  ca \
+	  ca@valencia \
 	  cs \
+	  da \
 	  de \
 	  el \
 	  en_GB \
 	  en_US \
+	  eo \
 	  es \
 	  es_CR \
+	  es_MX \
+	  et \
 	  eu \
+	  fa \
 	  fi \
 	  fr \
+	  gl \
+	  he \
+	  hi \
+	  hi_IN \
+	  hu \
 	  id \
 	  it \
 	  ja \
 	  km \
 	  ko \
+	  lo \
+	  lt \
+	  ml \
+	  nb \
 	  nl \
 	  pa \
 	  pl \
 	  pt_BR \
 	  pt \
+	  ro \
 	  ru \
+	  sk \
 	  sl \
+	  sq \
 	  sv \
+	  ta \
+	  th \
+	  tl \
 	  tr \
 	  uk \
+	  vi \
 	  wa \
 	  zh_CN \
 	  zh_TW
