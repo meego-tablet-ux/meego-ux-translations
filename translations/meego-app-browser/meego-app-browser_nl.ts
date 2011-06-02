@@ -9,7 +9,7 @@
 - description: Title of the dialog to create application shortcuts for current page.
 - condition: not pp_ifdef('use_titlecase') or os != 'linux2'
 </extracomment>
-        <translation/>
+        <translation>Snelkoppelingen maken</translation>
     </message>
     <message>
         <location filename="id" line="-1157106606"/>
@@ -18,7 +18,7 @@
         <extracomment>IDS_BOOMARK_BUBBLE_PAGE_BOOKMARKED
 - description: Title of the bubble after bookmarking something
 </extracomment>
-        <translation/>
+        <translation>Bladwijzer toegevoegd!</translation>
     </message>
     <message>
         <location filename="id" line="1267962439"/>
@@ -28,7 +28,7 @@
 - description: In Title Case: title of the dialog to create application shortcuts for current page.
 - condition: pp_ifdef('use_titlecase') and os == 'linux2'
 </extracomment>
-        <translation/>
+        <translation>Maak snelkoppeling</translation>
     </message>
     <message>
         <location filename="id" line="2005581839"/>
@@ -37,7 +37,7 @@
         <extracomment>IDS_BOOMARK_BUBBLE_FOLDER_TEXT
 - description: Text preceding the folder selector
 </extracomment>
-        <translation/>
+        <translation>Voeg bladwijzer toe aan:</translation>
     </message>
     <message>
         <location filename="id" line="1935848576"/>
@@ -46,7 +46,7 @@
         <extracomment>IDS_BOOKMARK_MANAGER_TITLE
 - description: Title of the bookmark manager window.
 </extracomment>
-        <translation/>
+        <translation>Bladwijzers</translation>
     </message>
     <message>
         <location filename="id" line="282316645"/>
@@ -59,7 +59,7 @@ IDS_BOOKMARK_MANAGER
 - description: In Title Case: The label of the menu item that shows the bookmark manager
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation/>
+        <translation>&amp;Bladwijzers</translation>
     </message>
     <message>
         <location filename="id" line="1522912963"/>
@@ -68,7 +68,7 @@ IDS_BOOKMARK_MANAGER
         <extracomment>IDS_ABOUT_VERSION_COMPANY_NAME
 - description: Company name on the about pages
 </extracomment>
-        <translation/>
+        <translation>MeeGo</translation>
     </message>
     <message>
         <location filename="id" line="496379237"/>
@@ -77,7 +77,7 @@ IDS_BOOKMARK_MANAGER
         <extracomment>IDS_PASSWORD_MANAGER_SAVE_PASSWORD_PROMPT
 - description: Info bar message to save a password
 </extracomment>
-        <translation/>
+        <translation>Wil je dat MeeGo browser je wachtwoord bewaart?</translation>
     </message>
     <message>
         <location filename="id" line="311677227"/>
@@ -86,7 +86,7 @@ IDS_BOOKMARK_MANAGER
         <extracomment>IDS_ABOUT_VERSION_COPYRIGHT
 - description: Copyright information on the about pages
 </extracomment>
-        <translation/>
+        <translation>Copyright © 2010-2011 MeeGo. Alle rechten voorbehouden.</translation>
     </message>
     <message>
         <location filename="id" line="-1572705952"/>
@@ -95,7 +95,7 @@ IDS_BOOKMARK_MANAGER
         <extracomment>IDS_DEFAULT_BROWSER_INFOBAR_SHORT_TEXT
 - description: More compact text to show in the default browser query infobar.
 </extracomment>
-        <translation/>
+        <translation>MeeGo browser is niet je standaard browser.</translation>
     </message>
     <message>
         <location filename="id" line="-209926424"/>
@@ -104,7 +104,7 @@ IDS_BOOKMARK_MANAGER
         <extracomment>IDS_SESSION_CRASHED_VIEW_MESSAGE
 - description: Message shown when the last session didn't exit cleanly.
 </extracomment>
-        <translation/>
+        <translation>MeeGo Browser is niet correct afgesloten. Voor het heropenen van de pagina&apos;s die je had geopend, klik op Herstellen.</translation>
     </message>
     <message>
         <location filename="id" line="1550207900"/>
@@ -115,7 +115,7 @@ IDS_BOOKMARK_MANAGER
 IDS_SXS_SHORTCUT_NAME
 - description: The Chrome short cut name for SxS channel
 </extracomment>
-        <translation/>
+        <translation>MeeGo Browser</translation>
     </message>
 </context>
 <context>
@@ -123,51 +123,51 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="74"/>
         <source>Photos</source>
-        <translation/>
+        <translation>Foto&apos;s</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="84"/>
         <source>Movies</source>
-        <translation/>
+        <translation>Films</translation>
     </message>
 </context><context>
     <name>BookmarkList</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="201"/>
         <source>Delete bookmark</source>
-        <translation/>
+        <translation>Bladwijzer verwijderen</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="202"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="205"/>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="224"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="207"/>
         <source>Are you sure you want to delete this bookmark?</source>
-        <translation/>
+        <translation>Weet je zeker dat je deze bladwijzer wilt verwijderen?</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="222"/>
         <source>Edit bookmark</source>
-        <translation/>
+        <translation>Bladwijzer bewerken</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="223"/>
         <source>Save</source>
-        <translation/>
+        <translation>Opslaan</translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>
     <message>
         <location filename="../chrome/browser/qt/common/DownloadShelf.qml" line="220"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Verwijderen</translation>
     </message>
 </context></TS>

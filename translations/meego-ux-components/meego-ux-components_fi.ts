@@ -6,19 +6,19 @@
         <location filename="../../src/components/common/CCPContextArea.qml" line="230"/>
         <location filename="../../src/components/common/CCPContextArea.qml" line="233"/>
         <source>Copy</source>
-        <translation/>
+        <translation>Kopioi</translation>
     </message>
     <message>
         <location filename="../../src/components/common/CCPContextArea.qml" line="227"/>
         <location filename="../../src/components/common/CCPContextArea.qml" line="233"/>
         <source>Paste</source>
-        <translation/>
+        <translation>Liitä</translation>
     </message>
     <message>
         <location filename="../../src/components/common/CCPContextArea.qml" line="230"/>
         <location filename="../../src/components/common/CCPContextArea.qml" line="233"/>
         <source>Cut</source>
-        <translation/>
+        <translation>Leikkaa</translation>
     </message>
 </context>
 <context>
@@ -26,37 +26,37 @@
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="202"/>
         <source>Sun</source>
-        <translation/>
+        <translation>Su</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="203"/>
         <source>Mon</source>
-        <translation/>
+        <translation>Ma</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="204"/>
         <source>Tue</source>
-        <translation/>
+        <translation>Ti</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="205"/>
         <source>Wed</source>
-        <translation/>
+        <translation>Ke</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="206"/>
         <source>Thu</source>
-        <translation/>
+        <translation>To</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="207"/>
         <source>Fri</source>
-        <translation/>
+        <translation>Pe</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="208"/>
         <source>Sat</source>
-        <translation/>
+        <translation>La</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="210"/>
@@ -177,7 +177,7 @@
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="533"/>
         <source>day-month-year</source>
-        <translation/>
+        <translation>päivä-kuukausi-vuosi</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="551"/>
@@ -213,7 +213,7 @@
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="1000"/>
         <source>Today</source>
-        <translation/>
+        <translation>Tänään</translation>
     </message>
 </context>
 <context>
@@ -330,7 +330,7 @@
     <message>
         <location filename="../../src/components/common/ModalDialog.qml" line="301"/>
         <source>left-to-right</source>
-        <translation/>
+        <translation>vasemmalta-oikealle</translation>
     </message>
 </context>
 <context>
@@ -338,12 +338,12 @@
     <message>
         <location filename="../../src/components/media/MucMediaGridView.qml" line="327"/>
         <source>%1 Minute</source>
-        <translation/>
+        <translation>%1 minuutti</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MucMediaGridView.qml" line="327"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 minuuttia</translation>
     </message>
 </context>
 <context>

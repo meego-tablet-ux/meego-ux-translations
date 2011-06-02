@@ -4,7 +4,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelClearButton.qml" line="21"/>
         <source>Clear history</source>
-        <translation/>
+        <translation>Tyhjennä historia</translation>
     </message>
 </context>
 <context>
@@ -12,7 +12,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="43"/>
         <source>Panels</source>
-        <translation/>
+        <translation>Paneelit</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="46"/>
@@ -25,7 +25,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="17"/>
         <source>To show items on the front of the panel select ON, to hide select OFF</source>
-        <translation>Näyttääksesi kohteita paneelin edessä valitse ON, piilottaaksesi valitse OFF</translation>
+        <translation>Näytä kohteita paneelin edessä valitsemalla ON, piilota valitsemalla OFF</translation>
     </message>
 </context>
 <context>

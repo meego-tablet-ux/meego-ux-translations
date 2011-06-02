@@ -4,42 +4,42 @@
     <message>
         <location filename="../../AddressEditWidget.qml" line="22"/>
         <source>Home</source>
-        <translation/>
+        <translation>المنزل</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="23"/>
         <source>Work</source>
-        <translation/>
+        <translation>العمل</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="24"/>
         <source>Other</source>
-        <translation/>
+        <translation>أخرى</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="25"/>
         <source>Street address</source>
-        <translation/>
+        <translation>عنوان الشارع</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="26"/>
         <source>Town / City</source>
-        <translation/>
+        <translation>بلدة / مدينة</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="27"/>
         <source>Region / State</source>
-        <translation/>
+        <translation>المنطقة / الدولة</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="28"/>
         <source>Country</source>
-        <translation/>
+        <translation>البلد</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="29"/>
         <source>Postcode / Zip</source>
-        <translation/>
+        <translation>الكود / الرمز البريدي</translation>
     </message>
 </context>
 <context>
@@ -47,48 +47,48 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="24"/>
         <source>...</source>
-        <translation/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="67"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>غير مفضل</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="68"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>المفضلة</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="69"/>
         <source>Idle</source>
-        <translation/>
+        <translation>Idle</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="70"/>
         <source>Busy</source>
-        <translation/>
+        <translation>مشغول</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="71"/>
         <source>Online</source>
-        <translation/>
+        <translation>متصل</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="72"/>
         <source>Offline</source>
-        <translation/>
+        <translation>غير متصل</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="73"/>
         <source>(...)</source>
-        <translation/>
+        <translation>(...)</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="101"/>
         <location filename="../../ContactCardPortrait.qml" line="103"/>
         <source>%1  %2</source>
-        <translation/>
+        <translation>%1  %2</translation>
     </message>
 </context>
 <context>
@@ -96,12 +96,12 @@
     <message>
         <location filename="../../ContactsExpandableDetails.qml" line="31"/>
         <source>Add</source>
-        <translation/>
+        <translation>أضف</translation>
     </message>
     <message>
         <location filename="../../ContactsExpandableDetails.qml" line="32"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
 </context>
 <context>
@@ -109,37 +109,37 @@
     <message>
         <location filename="../../ContactsSettings.qml" line="16"/>
         <source>Contacts Settings</source>
-        <translation/>
+        <translation>إعدادات الاتصالات</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="17"/>
         <source>Sort Order:</source>
-        <translation/>
+        <translation>الترتيب :</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="18"/>
         <source>Display Order:</source>
-        <translation/>
+        <translation>ترتيب العرض :</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="19"/>
         <source>Sort by first name</source>
-        <translation/>
+        <translation>الترتيب حسب الاسم الأول</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Sort by last name</source>
-        <translation/>
+        <translation>فرز حسب اسم العائلة</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="21"/>
         <source>Display by first name</source>
-        <translation/>
+        <translation>عرض حسب الاسم الأول</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Display by last name</source>
-        <translation/>
+        <translation>عرض حسب اسم العائلة</translation>
     </message>
 </context>
 <context>
@@ -147,173 +147,173 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="29"/>
         <source>Idle</source>
-        <translation/>
+        <translation>خامل</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="30"/>
         <source>Busy</source>
-        <translation/>
+        <translation>مشغول</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="31"/>
         <source>Online</source>
-        <translation/>
+        <translation>متصل</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="32"/>
         <source>Offline</source>
-        <translation/>
+        <translation>غير متصل</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="34"/>
         <source>Home</source>
-        <translation/>
+        <translation>المنزل</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="35"/>
         <source>Work</source>
-        <translation/>
+        <translation>العمل</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="36"/>
         <source>Other</source>
-        <translation/>
+        <translation>أخرى</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="37"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>المحمول</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="38"/>
         <source>Bookmark</source>
-        <translation/>
+        <translation>العلامات</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="39"/>
         <location filename="../../DetailViewPortrait.qml" line="65"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>المفضلة</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="41"/>
         <source>First name</source>
-        <translation/>
+        <translation>الاسم الأول</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="42"/>
         <source>Last name</source>
-        <translation/>
+        <translation>السم الاخير</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="43"/>
         <source>Company</source>
-        <translation/>
+        <translation>الشركة</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="44"/>
         <source>Enter note</source>
-        <translation/>
+        <translation>أدخل ملاحظة</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="45"/>
         <source>Enter birthday</source>
-        <translation/>
+        <translation>أدخل عيد ميلاد</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="46"/>
         <source>Site</source>
-        <translation/>
+        <translation>موقع</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="48"/>
         <source>Phone numbers</source>
-        <translation/>
+        <translation>أرقام الهاتف</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="49"/>
         <source>Instant messaging</source>
-        <translation/>
+        <translation>التراسل الفوري</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="50"/>
         <source>Email</source>
-        <translation/>
+        <translation>البريد الإلكتروني</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="51"/>
         <source>Web</source>
-        <translation/>
+        <translation>ويب</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="52"/>
         <source>Address</source>
-        <translation/>
+        <translation>عنوان</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="53"/>
         <source>Birthday</source>
-        <translation/>
+        <translation>تاريخ ميلاد</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="54"/>
         <source>Date</source>
-        <translation/>
+        <translation>تاريخ</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="55"/>
         <source>Note</source>
-        <translation/>
+        <translation>ملاحظة</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="57"/>
         <source>AIM</source>
-        <translation/>
+        <translation>AIM</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="58"/>
         <source>MSN</source>
-        <translation/>
+        <translation>MSN</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="59"/>
         <source>Jabber</source>
-        <translation/>
+        <translation>Jabber</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="60"/>
         <source>Yahoo!</source>
-        <translation/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="61"/>
         <source>Facebook</source>
-        <translation/>
+        <translation>فيس بوك</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="62"/>
         <source>Google Talk</source>
-        <translation/>
+        <translation>Google Talk</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="63"/>
         <source>IM</source>
-        <translation/>
+        <translation>IM</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="66"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>غير مفضل</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="83"/>
         <source>View</source>
-        <translation/>
+        <translation>عرض</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="84"/>
         <source>...</source>
-        <translation/>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -321,122 +321,122 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="32"/>
         <source>Home</source>
-        <translation/>
+        <translation>المنزل</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="33"/>
         <source>Work</source>
-        <translation/>
+        <translation>العمل</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="34"/>
         <source>Other</source>
-        <translation/>
+        <translation>أخرى</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="35"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>المحمول</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="36"/>
         <source>First name</source>
-        <translation/>
+        <translation>الاسم الأول</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="37"/>
         <source>Last name</source>
-        <translation/>
+        <translation>اسم الأخير</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="38"/>
         <source>Pronounciation</source>
-        <translation/>
+        <translation>النطق</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="39"/>
         <source>Company</source>
-        <translation/>
+        <translation>الشركة</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="40"/>
         <source>Enter note</source>
-        <translation/>
+        <translation>أدخل ملاحظة</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="41"/>
         <source>Enter birthday</source>
-        <translation/>
+        <translation>أدخل تاريخ ميلاد</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="42"/>
         <source>Birthday</source>
-        <translation/>
+        <translation>تاريخ ميلاد</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="43"/>
         <source>Note</source>
-        <translation/>
+        <translation>ملاحظة</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="46"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>المفضلة</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="48"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>غير مفضل</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="50"/>
         <source>Phone numbers</source>
-        <translation/>
+        <translation>أرقام الهاتف</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="51"/>
         <source>Add number</source>
-        <translation/>
+        <translation>إضافة رقم</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="52"/>
         <source>Instant messaging</source>
-        <translation/>
+        <translation>التراسل الفوري</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="53"/>
         <source>Add account</source>
-        <translation/>
+        <translation>إضافة حساب</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="54"/>
         <source>Email</source>
-        <translation/>
+        <translation>البريد الإلكتروني</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="55"/>
         <source>Add email address</source>
-        <translation/>
+        <translation>إضافة عنوان البريد الإلكتروني</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="56"/>
         <source>Web</source>
-        <translation/>
+        <translation>ويب</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="57"/>
         <source>Add web page</source>
-        <translation/>
+        <translation>إضافة صفحة ويب</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="58"/>
         <source>Address</source>
-        <translation/>
+        <translation>عنوان</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="59"/>
         <source>Add address</source>
-        <translation/>
+        <translation>إضافة عنوان</translation>
     </message>
 </context>
 <context>
@@ -444,22 +444,22 @@
     <message>
         <location filename="../../EmailEditWidget.qml" line="22"/>
         <source>Home</source>
-        <translation/>
+        <translation>المنزل</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="23"/>
         <source>Work</source>
-        <translation/>
+        <translation>العمل</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="24"/>
         <source>Other</source>
-        <translation/>
+        <translation>أخرى</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="25"/>
         <source>Email address</source>
-        <translation/>
+        <translation>عنوان البريد الإلكتروني</translation>
     </message>
 </context>
 <context>
@@ -467,12 +467,12 @@
     <message>
         <location filename="../../EmptyContacts.qml" line="17"/>
         <source>You haven&apos;t added any contacts yet.</source>
-        <translation/>
+        <translation>لم تقم بإضافة أي متراسل حتى الان.</translation>
     </message>
     <message>
         <location filename="../../EmptyContacts.qml" line="18"/>
         <source>Add a contact</source>
-        <translation/>
+        <translation>إضافة متراسل</translation>
     </message>
 </context>
 <context>
@@ -480,7 +480,7 @@
     <message>
         <location filename="../../HeaderPortrait.qml" line="13"/>
         <source>#</source>
-        <translation/>
+        <translation>#</translation>
     </message>
 </context>
 <context>
@@ -488,57 +488,57 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="24"/>
         <source>Instant messaging</source>
-        <translation/>
+        <translation>التراسل الفوري</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="25"/>
         <source>AIM</source>
-        <translation/>
+        <translation>AIM</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="26"/>
         <source>MSN</source>
-        <translation/>
+        <translation>MSN</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="27"/>
         <source>Jabber</source>
-        <translation/>
+        <translation>Jabber</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="28"/>
         <source>Yahoo!</source>
-        <translation/>
+        <translation>ياهو!</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="29"/>
         <source>Facebook</source>
-        <translation/>
+        <translation>فيس بوك</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="30"/>
         <source>gTalk</source>
-        <translation/>
+        <translation>gTalk</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="31"/>
         <source>Account Name / ID</source>
-        <translation/>
+        <translation>اسم الحساب / المعرف</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="32"/>
         <source>Account Type</source>
-        <translation/>
+        <translation>نوع الحساب</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="33"/>
         <source>No IM accounts are configured</source>
-        <translation/>
+        <translation>لم يتم تكوين حسابات التراسل الفوري</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="34"/>
         <source>No buddies for this account</source>
-        <translation/>
+        <translation>لا يوجد متراسلون في هذا الحساب</translation>
     </message>
 </context>
 <context>
@@ -546,7 +546,7 @@
     <message>
         <location filename="../../IndexModel.qml" line="8"/>
         <source>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z #</source>
-        <translation/>
+        <translation>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z #</translation>
     </message>
 </context>
 <context>
@@ -554,122 +554,122 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="29"/>
         <source>Home</source>
-        <translation/>
+        <translation>المنزل</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="30"/>
         <source>Work</source>
-        <translation/>
+        <translation>العمل</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="31"/>
         <source>Other</source>
-        <translation/>
+        <translation>أخرى</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="32"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>المحمول</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="33"/>
         <source>First name</source>
-        <translation/>
+        <translation>الاسم الأول</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="34"/>
         <source>Pronounciation</source>
-        <translation/>
+        <translation>النطق</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="35"/>
         <source>Last name</source>
-        <translation/>
+        <translation>الاسم الأخير</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="36"/>
         <source>Company</source>
-        <translation/>
+        <translation>الشركة</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="37"/>
         <source>Enter note</source>
-        <translation/>
+        <translation>أدخل ملاحظة</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="38"/>
         <source>Enter birthday</source>
-        <translation/>
+        <translation>أدخل تاريخ ميلاد</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="39"/>
         <source>Birthday</source>
-        <translation/>
+        <translation>تاريخ ميلاد</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="40"/>
         <source>Note</source>
-        <translation/>
+        <translation>ملاحظة</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="44"/>
         <source>Unfavorite</source>
-        <translation/>
+        <translation>غير مفضل</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="45"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>المفضلة</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="47"/>
         <source>Phone numbers</source>
-        <translation/>
+        <translation>أرقام الهاتف</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="48"/>
         <source>Add number</source>
-        <translation/>
+        <translation>إضافة رقم</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="49"/>
         <source>Instant messaging</source>
-        <translation/>
+        <translation>التراسل الفوري</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="50"/>
         <source>Add account</source>
-        <translation/>
+        <translation>إضافة حساب</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="51"/>
         <source>Email</source>
-        <translation/>
+        <translation>البريد الإلكتروني</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="52"/>
         <source>Add email address</source>
-        <translation/>
+        <translation>إضافة عنوان البريد الإلكتروني</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="53"/>
         <source>Web</source>
-        <translation/>
+        <translation>ويب</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="54"/>
         <source>Add web page</source>
-        <translation/>
+        <translation>إضافة صفحة ويب</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="55"/>
         <source>Address</source>
-        <translation/>
+        <translation>عنوان</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="56"/>
         <source>Add address</source>
-        <translation/>
+        <translation>إضافة عنوان</translation>
     </message>
 </context>
 <context>
@@ -677,52 +677,52 @@
     <message>
         <location filename="../../PhoneEditWidget.qml" line="22"/>
         <source>Address</source>
-        <translation/>
+        <translation>عنوان</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="23"/>
         <source>Home</source>
-        <translation/>
+        <translation>المنزل</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="24"/>
         <source>Work</source>
-        <translation/>
+        <translation>العمل</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="25"/>
         <source>Other</source>
-        <translation/>
+        <translation>أخرى</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="26"/>
         <source>Mobile</source>
-        <translation/>
+        <translation>المحمول</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="27"/>
         <source>Phone numbers</source>
-        <translation/>
+        <translation>أرقام الهاتف</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="28"/>
         <source>Add number</source>
-        <translation/>
+        <translation>إضافة رقم</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="29"/>
         <source>Phone number</source>
-        <translation/>
+        <translation>رقم الهاتف</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="30"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="31"/>
         <source>Add</source>
-        <translation/>
+        <translation>أضف</translation>
     </message>
 </context>
 <context>
@@ -730,17 +730,17 @@
     <message>
         <location filename="../../WebPageEditWidget.qml" line="22"/>
         <source>Site</source>
-        <translation/>
+        <translation>موقع</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="23"/>
         <source>Bookmark</source>
-        <translation/>
+        <translation>العلامات</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="24"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>المفضلة</translation>
     </message>
 </context>
 <context>
@@ -749,98 +749,98 @@
         <location filename="../../main.qml" line="16"/>
         <location filename="../../main.qml" line="42"/>
         <source>Contacts</source>
-        <translation/>
+        <translation>الاتصالات</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="25"/>
         <location filename="../../main.qml" line="44"/>
         <source>New contact</source>
-        <translation/>
+        <translation>متراسل جديد</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>All</source>
-        <translation/>
+        <translation>الكل</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="27"/>
         <source>Favorites</source>
-        <translation/>
+        <translation>المفضلة</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
         <source>Who&apos;s online</source>
-        <translation/>
+        <translation>المتواجدون الآن</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>View</source>
-        <translation/>
+        <translation>عرض</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>Share</source>
-        <translation/>
+        <translation>مشاركه</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Email</source>
-        <translation/>
+        <translation>البريد الإلكتروني</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="33"/>
         <source>Favorite</source>
-        <translation/>
+        <translation>المفضلة</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
         <source>UnFavorite</source>
-        <translation/>
+        <translation>غير مفضل</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
         <source>Edit</source>
-        <translation/>
+        <translation>تحرير</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
         <source>Save</source>
-        <translation/>
+        <translation>حفظ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
         <source>Delete</source>
-        <translation/>
+        <translation>حذف</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Delete Confirmation</source>
-        <translation/>
+        <translation>تأكيد حذف</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="43"/>
         <source>Contact details</source>
-        <translation/>
+        <translation>تفاصيل المتراسل</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="45"/>
         <source>Edit contacts</source>
-        <translation/>
+        <translation>تحرير المتراسل</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="47"/>
         <source>this contact</source>
-        <translation/>
+        <translation>هذا المتراسل</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="48"/>
         <source>Are you sure you want to remove %1 from your contacts?</source>
-        <translation/>
+        <translation>متأكد أنك تريد إزالة %1 من جهات الاتصال الخاصة بك؟</translation>
     </message>
 </context>
 </TS>

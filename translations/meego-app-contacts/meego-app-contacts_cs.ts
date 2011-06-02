@@ -96,12 +96,12 @@
     <message>
         <location filename="../../ContactsExpandableDetails.qml" line="31"/>
         <source>Add</source>
-        <translation/>
+        <translation>Přidat</translation>
     </message>
     <message>
         <location filename="../../ContactsExpandableDetails.qml" line="32"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Zrušit</translation>
     </message>
 </context>
 <context>
@@ -351,7 +351,7 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="38"/>
         <source>Pronounciation</source>
-        <translation/>
+        <translation>Výslovnost</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="39"/>
@@ -391,52 +391,52 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="50"/>
         <source>Phone numbers</source>
-        <translation/>
+        <translation>Telefonní čísla</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="51"/>
         <source>Add number</source>
-        <translation/>
+        <translation>Přidat číslo</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="52"/>
         <source>Instant messaging</source>
-        <translation/>
+        <translation>Okamžitá výměna zpráv</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="53"/>
         <source>Add account</source>
-        <translation/>
+        <translation>Přidat účet</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="54"/>
         <source>Email</source>
-        <translation/>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="55"/>
         <source>Add email address</source>
-        <translation/>
+        <translation>Přidat adresu eletronické pošty</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="56"/>
         <source>Web</source>
-        <translation/>
+        <translation>Internet</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="57"/>
         <source>Add web page</source>
-        <translation/>
+        <translation>Přidat internetovou stránku</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="58"/>
         <source>Address</source>
-        <translation/>
+        <translation>Adresa</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="59"/>
         <source>Add address</source>
-        <translation/>
+        <translation>Přidat adresu</translation>
     </message>
 </context>
 <context>
@@ -508,7 +508,7 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="28"/>
         <source>Yahoo!</source>
-        <translation/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="29"/>
@@ -546,7 +546,7 @@
     <message>
         <location filename="../../IndexModel.qml" line="8"/>
         <source>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z #</source>
-        <translation/>
+        <translation>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z #</translation>
     </message>
 </context>
 <context>
@@ -579,7 +579,7 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="34"/>
         <source>Pronounciation</source>
-        <translation/>
+        <translation>Výslovnost</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="35"/>
@@ -624,52 +624,52 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="47"/>
         <source>Phone numbers</source>
-        <translation/>
+        <translation>Telefonní čísla</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="48"/>
         <source>Add number</source>
-        <translation/>
+        <translation>Přidat číslo</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="49"/>
         <source>Instant messaging</source>
-        <translation/>
+        <translation>Okamžitá výměna zpráv</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="50"/>
         <source>Add account</source>
-        <translation/>
+        <translation>Přidat účet</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="51"/>
         <source>Email</source>
-        <translation/>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="52"/>
         <source>Add email address</source>
-        <translation/>
+        <translation>Přidat adresu eletronické pošty</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="53"/>
         <source>Web</source>
-        <translation/>
+        <translation>Internet</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="54"/>
         <source>Add web page</source>
-        <translation/>
+        <translation>Přidat internetovou stránku</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="55"/>
         <source>Address</source>
-        <translation/>
+        <translation>Adresa</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="56"/>
         <source>Add address</source>
-        <translation/>
+        <translation>Přidat adresu</translation>
     </message>
 </context>
 <context>
@@ -795,7 +795,7 @@
     <message>
         <location filename="../../main.qml" line="34"/>
         <source>UnFavorite</source>
-        <translation/>
+        <translation>NeOblíbené</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>

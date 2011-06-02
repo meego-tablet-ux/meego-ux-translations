@@ -4,45 +4,45 @@
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="56"/>
         <source>Video</source>
-        <translation/>
+        <translation>الفيديو</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="61"/>
         <source>Video settings</source>
-        <translation/>
+        <translation>ضبط الفيديو</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="62"/>
         <source>Video panel content</source>
-        <translation/>
+        <translation>لوحة محتوى الفيديو</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="90"/>
         <source>Watch your videos.</source>
-        <translation/>
+        <translation>مشاهدة أشرطة الفيديو الخاصة بك.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="99"/>
         <source>Open Videos!</source>
-        <translation/>
+        <translation>افتح الفيديو!</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="132"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="136"/>
         <source>Play</source>
-        <translation/>
+        <translation>عرض</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="132"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="144"/>
         <source>Share</source>
-        <translation/>
+        <translation>مشاركة</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="132"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="140"/>
         <source>Hide</source>
-        <translation/>
+        <translation>إخفاء</translation>
     </message>
 </context>
 </TS>

@@ -9,12 +9,12 @@
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="61"/>
         <source>Video settings</source>
-        <translation>Video asetukset</translation>
+        <translation>Videoasetukset</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="62"/>
         <source>Video panel content</source>
-        <translation/>
+        <translation>Video-paneelin asetukset</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="90"/>

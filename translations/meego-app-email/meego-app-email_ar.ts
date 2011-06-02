@@ -4,104 +4,104 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="71"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="100"/>
         <source>Account description</source>
-        <translation/>
+        <translation>وصف الحساب</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="105"/>
         <source>Your name</source>
-        <translation/>
+        <translation>اسمك</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="110"/>
         <source>Email address</source>
-        <translation/>
+        <translation>عنوان البريد الإلكتروني</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="116"/>
         <location filename="../../settings/AccountExpandobox.qml" line="159"/>
         <location filename="../../settings/AccountExpandobox.qml" line="202"/>
         <source>Password</source>
-        <translation/>
+        <translation>كلمة السر</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="124"/>
         <source>Receiving settings</source>
-        <translation/>
+        <translation>ضبط الاستلام</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="125"/>
         <location filename="../../settings/AccountExpandobox.qml" line="168"/>
         <source>You may need to contact your email provider for these settings.</source>
-        <translation/>
+        <translation>قد تحتاج إلى الاتصال بمزود خدمة البريد الإلكتروني لهذه الإعدادات.</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="129"/>
         <source>Server type</source>
-        <translation/>
+        <translation>نوع ملقم</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="135"/>
         <location filename="../../settings/AccountExpandobox.qml" line="172"/>
         <source>Server address</source>
-        <translation/>
+        <translation>عنوان الخادم</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="141"/>
         <location filename="../../settings/AccountExpandobox.qml" line="178"/>
         <source>Port</source>
-        <translation/>
+        <translation>المنفذ</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="147"/>
         <location filename="../../settings/AccountExpandobox.qml" line="190"/>
         <source>Security</source>
-        <translation/>
+        <translation>الأمن</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="153"/>
         <location filename="../../settings/AccountExpandobox.qml" line="196"/>
         <source>Username</source>
-        <translation/>
+        <translation>اسم المستخدم</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="167"/>
         <source>Sending settings</source>
-        <translation/>
+        <translation>إعداد الإرسال</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="184"/>
         <source>Authentication</source>
-        <translation/>
+        <translation>المصادقة</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="214"/>
         <source>Delete Account</source>
-        <translation/>
+        <translation>حذف الحساب</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="225"/>
         <source>Yes</source>
-        <translation/>
+        <translation>نعم</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="226"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="227"/>
         <source>Delete account</source>
-        <translation/>
+        <translation>حذف الحساب</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="228"/>
         <source>Are you sure you want to delete this account?</source>
-        <translation/>
+        <translation>متأكد أنك تريد حذف هذا الحساب؟</translation>
     </message>
 </context>
 <context>
@@ -109,7 +109,7 @@
     <message>
         <location filename="../../AccountPage.qml" line="115"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -117,92 +117,92 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="29"/>
         <source>Accounts</source>
-        <translation/>
+        <translation>حسابات</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="46"/>
         <source>Set up new account</source>
-        <translation/>
+        <translation>تعيين حساب جديد</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="59"/>
         <source>General Settings</source>
-        <translation/>
+        <translation>الإعدادات العامة</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="70"/>
         <source>Update:</source>
-        <translation/>
+        <translation>تحديث :</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="120"/>
         <source>Signature</source>
-        <translation/>
+        <translation>التوقيع</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="129"/>
         <source>&quot;%1&quot;</source>
-        <translation/>
+        <translation>&quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="158"/>
         <source>Notifications</source>
-        <translation/>
+        <translation>التنبيهات</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="176"/>
         <source>New email notifications</source>
-        <translation/>
+        <translation>نبيه البريد الجديد</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="181"/>
         <source>Ask before deleting email</source>
-        <translation/>
+        <translation>اسأل قبل حذف البريد</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="194"/>
         <source>Yes</source>
-        <translation/>
+        <translation>نعم</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="195"/>
         <source>No</source>
-        <translation/>
+        <translation>لا</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="196"/>
         <source>Discard changes</source>
-        <translation/>
+        <translation>تجاهل التغييرات</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="197"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation/>
+        <translation>لقد قمت بتغييرات في الإعدادات ، هل أنت متأكد أنك تريد إلغاء الأمر؟</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="202"/>
         <source>OK</source>
-        <translation/>
+        <translation>موافق</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="204"/>
         <source>Changes saved</source>
-        <translation/>
+        <translation>حفظ التغييرات</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="205"/>
         <source>Your changes have been saved.</source>
-        <translation/>
+        <translation>تم حفظ التغييرات.</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="221"/>
         <source>Save changes</source>
-        <translation/>
+        <translation>حفظ التغييرات</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="239"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
 </context>
 <context>
@@ -210,17 +210,17 @@
     <message>
         <location filename="../../AddAttachmentView.qml" line="55"/>
         <source>Photos</source>
-        <translation/>
+        <translation>صور</translation>
     </message>
     <message>
         <location filename="../../AddAttachmentView.qml" line="61"/>
         <source>Movies</source>
-        <translation/>
+        <translation>أفلام</translation>
     </message>
     <message>
         <location filename="../../AddAttachmentView.qml" line="67"/>
         <source>Music</source>
-        <translation/>
+        <translation>الموسيقى</translation>
     </message>
 </context>
 <context>
@@ -229,7 +229,7 @@
         <location filename="../../AddRecipient.qml" line="46"/>
         <source>Select &quot;%1&quot; recipient</source>
         <extracomment>The contact (e-mail recipient) picker title.</extracomment>
-        <translation/>
+        <translation>حدد &quot;%1&quot; المستلم</translation>
     </message>
 </context>
 <context>
@@ -238,27 +238,27 @@
         <location filename="../../ComposerView.qml" line="185"/>
         <source>Attach a file</source>
         <extracomment>Attach a file (e.g. music, video, photo) to the document being composed.</extracomment>
-        <translation/>
+        <translation>إرفاق ملف</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="234"/>
         <source>Yes</source>
-        <translation/>
+        <translation>نعم</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="235"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="236"/>
         <source>Discard Email</source>
-        <translation/>
+        <translation>تجاهل البريد الإلكتروني</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="239"/>
         <source>Are you sure you want to discard this unsent email?</source>
-        <translation/>
+        <translation>هل أنت متأكد أنك تريد تجاهل هذه الرسالة غير المرسلة؟</translation>
     </message>
 </context>
 <context>
@@ -266,22 +266,22 @@
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="29"/>
         <source>Account set up successfully!</source>
-        <translation/>
+        <translation>تم تعيين الحساب بنجاح!</translation>
     </message>
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="31"/>
         <source>Accounts</source>
-        <translation/>
+        <translation>حسابات</translation>
     </message>
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="49"/>
         <source>Done</source>
-        <translation/>
+        <translation>منتهي</translation>
     </message>
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="61"/>
         <source>Set up another account?</source>
-        <translation/>
+        <translation>انشاء حساب آخر؟</translation>
     </message>
 </context>
 <context>
@@ -289,126 +289,126 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="43"/>
         <source>Account details</source>
-        <translation/>
+        <translation>تفاصيل الحساب</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="46"/>
         <source>Account: %1</source>
-        <translation/>
+        <translation>حساب: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="49"/>
         <source>Name: %1</source>
-        <translation/>
+        <translation>الاسم: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="52"/>
         <source>Email address: %1</source>
-        <translation/>
+        <translation>عنوان البريد الإلكتروني: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="59"/>
         <source>Receiving:</source>
-        <translation/>
+        <translation>تلقي :</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="62"/>
         <source>Server type: %1</source>
-        <translation/>
+        <translation>نوع الخادم: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="65"/>
         <location filename="../../settings/DetailsScreen.qml" line="84"/>
         <source>Server address: %1</source>
-        <translation/>
+        <translation>عنوان الملقم: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="68"/>
         <location filename="../../settings/DetailsScreen.qml" line="87"/>
         <source>Port: %1</source>
-        <translation/>
+        <translation>المنفذ: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="71"/>
         <location filename="../../settings/DetailsScreen.qml" line="93"/>
         <source>Security: %1</source>
-        <translation/>
+        <translation>الأمن: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="74"/>
         <location filename="../../settings/DetailsScreen.qml" line="96"/>
         <source>Username: %1</source>
-        <translation/>
+        <translation>اسم المستخدم: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="81"/>
         <source>Sending:</source>
-        <translation/>
+        <translation>إرسال :</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="90"/>
         <source>Authentication: %1</source>
-        <translation/>
+        <translation>المصادقة: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="103"/>
         <source>Yes</source>
-        <translation/>
+        <translation>نعم</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="104"/>
         <source>No</source>
-        <translation/>
+        <translation>لا</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="105"/>
         <source>Discard changes</source>
-        <translation/>
+        <translation>تجاهل التغييرات</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="106"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation/>
+        <translation>لقد قمت بتغييرات في الإعدادات ، متأكد أنك تريد إلغاء الأمر؟</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="111"/>
         <source>OK</source>
-        <translation/>
+        <translation>موافق</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="113"/>
         <source>Error</source>
-        <translation/>
+        <translation>خطأ</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="114"/>
         <source>Error %1: %2</source>
-        <translation/>
+        <translation>خطأ%1: %2</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="117"/>
         <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
-        <translation/>
+        <translation>عذرا ، لا يمكننا إعداد حسابك تلقائيا . يرجى إكمل تفاصيل الحساب:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="139"/>
         <source>Next</source>
-        <translation/>
+        <translation>القادم</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="165"/>
         <source>Manual Edit</source>
-        <translation/>
+        <translation>دليل التحرير</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="168"/>
         <source>Please fill in account details:</source>
-        <translation/>
+        <translation>يرجى ملء تفاصيل الحساب:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="178"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
 </context>
 <context>
@@ -416,50 +416,50 @@
     <message>
         <location filename="../../EmailHeader.qml" line="69"/>
         <source>From:</source>
-        <translation/>
+        <translation>من :</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="101"/>
         <source>Cc/Bcc</source>
-        <translation/>
+        <translation>نسخة / مخفية</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="116"/>
         <source>To</source>
         <extracomment>The &quot;to&quot; recipient label.</extracomment>
-        <translation/>
+        <translation>إلى</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="141"/>
         <source>Cc</source>
         <extracomment>The Cc (carbon copy) label.</extracomment>
-        <translation/>
+        <translation>نسخة</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="165"/>
         <source>Bcc</source>
         <extracomment>The Bcc (blind carbon copy) label.</extracomment>
-        <translation/>
+        <translation>مخفية</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="198"/>
         <source>Enter subject here</source>
-        <translation/>
+        <translation>أدخل الموضوع هنا</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="233"/>
         <source>Low Priority</source>
-        <translation/>
+        <translation>أولوية منخفضة</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="234"/>
         <source>Normal Priority</source>
-        <translation/>
+        <translation>أولوية عادية</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="235"/>
         <source>High Priority</source>
-        <translation/>
+        <translation>ذات أولوية عالية</translation>
     </message>
 </context>
 <context>
@@ -467,7 +467,7 @@
     <message>
         <location filename="../../settings/EmailSettings.qml" line="18"/>
         <source>Email Settings</source>
-        <translation/>
+        <translation>إعدادات البريد الإلكتروني</translation>
     </message>
 </context>
 <context>
@@ -475,7 +475,7 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="147"/>
         <source>(%1)</source>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -483,107 +483,107 @@
     <message>
         <location filename="../../FolderListView.qml" line="19"/>
         <source>Choose folder:</source>
-        <translation/>
+        <translation>اختر المجلد :</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="20"/>
         <source>Create new folder</source>
-        <translation/>
+        <translation>إنشاء مجلد جديد</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="21"/>
         <source>Rename folder</source>
-        <translation/>
+        <translation>إعادة تسمية المجلد</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="22"/>
         <source>Delete folder</source>
-        <translation/>
+        <translation>حذف المجلد</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="23"/>
         <source>Attachments</source>
-        <translation/>
+        <translation>المرفقات</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="62"/>
         <source>On %1 %2 wrote:</source>
-        <translation/>
+        <translation>على %1 %2 كتب :</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="96"/>
         <source>Yes</source>
-        <translation/>
+        <translation>نعم</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="97"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="98"/>
         <source>Delete Email</source>
-        <translation/>
+        <translation>حذف البريد الإلكتروني</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="100"/>
         <source>Are you sure you want to delete this email?</source>
-        <translation/>
+        <translation>متأكد أنك تريد حذف هذا البريد الالكتروني؟</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="134"/>
         <source>-------- Forwarded Message --------</source>
-        <translation/>
+        <translation>-------- الرسائل المعاد توجيهها --------</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="135"/>
         <source>[Fwd: %1]</source>
-        <translation/>
+        <translation>[Fwd: %1]</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="173"/>
         <source>There are no messages in this folder.</source>
-        <translation/>
+        <translation>لا توجد رسائل في هذا المجلد.</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="212"/>
         <source>Getting more messages</source>
-        <translation/>
+        <translation>يحصل على المزيد من الرسائل</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="214"/>
         <source>Get more messages</source>
-        <translation/>
+        <translation>الحصول على المزيد من الرسائل</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="432"/>
         <source>Reply</source>
-        <translation/>
+        <translation>الرد</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="432"/>
         <source>Reply to all</source>
-        <translation/>
+        <translation>الرد على جميع</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="432"/>
         <source>Forward</source>
-        <translation/>
+        <translation>إعادة توجيه</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="432"/>
         <source>Delete</source>
-        <translation/>
+        <translation>حذف</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="433"/>
         <source>Mark as unread</source>
-        <translation/>
+        <translation>علم بغير مقروء</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="433"/>
         <source>Mark as read</source>
-        <translation/>
+        <translation>علم بمقروء</translation>
     </message>
 </context>
 <context>
@@ -592,7 +592,7 @@
         <location filename="../../FolderListViewToolbar.qml" line="136"/>
         <source>(%1)</source>
         <extracomment>Arg1 is the number of selected messages</extracomment>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -600,83 +600,83 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="44"/>
         <source>Receiving settings</source>
-        <translation/>
+        <translation>ضبط الاستلام</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="45"/>
         <location filename="../../settings/ManualScreen.qml" line="92"/>
         <source>You may need to contact your email provider for these settings.</source>
-        <translation/>
+        <translation>قد تحتاج إلى الاتصال بمزود خدمة البريد الإلكتروني لهذه الإعدادات.</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="49"/>
         <source>Server type</source>
-        <translation/>
+        <translation>نوع ملقم</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="56"/>
         <location filename="../../settings/ManualScreen.qml" line="97"/>
         <source>Server address</source>
-        <translation/>
+        <translation>عنوان الخادم</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="63"/>
         <location filename="../../settings/ManualScreen.qml" line="104"/>
         <source>Port</source>
-        <translation/>
+        <translation>منفذ</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="69"/>
         <location filename="../../settings/ManualScreen.qml" line="117"/>
         <source>Security</source>
-        <translation/>
+        <translation>الأمن</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="76"/>
         <location filename="../../settings/ManualScreen.qml" line="124"/>
         <source>Username</source>
-        <translation/>
+        <translation>اسم المستخدم</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="83"/>
         <location filename="../../settings/ManualScreen.qml" line="131"/>
         <source>Password</source>
-        <translation/>
+        <translation>كلمة السر</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="91"/>
         <source>Sending settings</source>
-        <translation/>
+        <translation>إعدادات الإرسال</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="111"/>
         <source>Authentication</source>
-        <translation/>
+        <translation>المصادقة</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="143"/>
         <source>Yes</source>
-        <translation/>
+        <translation>نعم</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="144"/>
         <source>No</source>
-        <translation/>
+        <translation>لا</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="145"/>
         <source>Discard changes</source>
-        <translation/>
+        <translation>تجاهل التغييرات</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="146"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation/>
+        <translation>لقد قمت تغييرات في الإعدادات ، متأكد أنك تريد إلغاء الأمر؟</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="166"/>
         <source>Next</source>
-        <translation/>
+        <translation>التالي</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="170"/>
@@ -688,12 +688,12 @@
         <location filename="../../settings/ManualScreen.qml" line="208"/>
         <location filename="../../settings/ManualScreen.qml" line="214"/>
         <source>This field is required</source>
-        <translation/>
+        <translation>هذا الحقل مطلوب</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="234"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
 </context>
 <context>
@@ -701,67 +701,67 @@
     <message>
         <location filename="../../ReadingView.qml" line="24"/>
         <source>Save</source>
-        <translation/>
+        <translation>حفظ</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="25"/>
         <source>Open</source>
-        <translation/>
+        <translation>فتح</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="26"/>
         <source>Music</source>
-        <translation/>
+        <translation>الموسيقى</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="27"/>
         <source>Video</source>
-        <translation/>
+        <translation>الفيديو</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="28"/>
         <source>Picture</source>
-        <translation/>
+        <translation>صور</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="29"/>
         <source>Attachment saved.</source>
-        <translation/>
+        <translation>حفظت المرفقات</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="44"/>
         <source>Ok</source>
-        <translation/>
+        <translation>موافق</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="45"/>
         <source>Warning</source>
-        <translation/>
+        <translation>تحذير</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="50"/>
         <source>File format is not supported.</source>
-        <translation/>
+        <translation> تنسيق الملف غير معتمد.</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="118"/>
         <source>From:</source>
-        <translation/>
+        <translation>من :</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="152"/>
         <source>To:</source>
-        <translation/>
+        <translation>إلى :</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="185"/>
         <source>Subject:</source>
-        <translation/>
+        <translation>الموضوع :</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="406"/>
         <source>Downloading...</source>
-        <translation/>
+        <translation>تحميل...</translation>
     </message>
 </context>
 <context>
@@ -769,37 +769,37 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="37"/>
         <source>OK</source>
-        <translation/>
+        <translation>موافق</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="38"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="39"/>
         <source>Delete Email</source>
-        <translation/>
+        <translation>حذف البريد الإلكتروني</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="46"/>
         <source>Are you sure you want to delete this email?</source>
-        <translation/>
+        <translation>متأكد أنك تريد حذف هذا البريد الالكتروني؟</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="65"/>
         <source>On %1 %2 wrote:</source>
-        <translation/>
+        <translation>على %1 %2 كتب :</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="188"/>
         <source>-------- Forwarded Message --------</source>
-        <translation/>
+        <translation>-------- الرسائل المعاد توجيهها --------</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="189"/>
         <source>[Fwd: %1]</source>
-        <translation/>
+        <translation>[Fwd: %1]</translation>
     </message>
 </context>
 <context>
@@ -807,64 +807,64 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="35"/>
         <source>Account description:</source>
-        <translation/>
+        <translation>وصف الحساب:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="43"/>
         <source>Your name:</source>
-        <translation/>
+        <translation>اسمك :</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="49"/>
         <source>Email address:</source>
-        <translation/>
+        <translation>عنوان البريد الإلكتروني :</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="56"/>
         <source>Password:</source>
-        <translation/>
+        <translation>كلمة السر :</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="67"/>
         <source>Yes</source>
-        <translation/>
+        <translation>نعم</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="68"/>
         <source>No</source>
-        <translation/>
+        <translation>لا</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="69"/>
         <source>Discard changes</source>
-        <translation/>
+        <translation>تجاهل التغييرات</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="70"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation/>
+        <translation>لقد قمت تغييرات في الإعدادات ، متأكد أنك تريد إلغاء الأمر؟</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="90"/>
         <source>Next</source>
-        <translation/>
+        <translation>التالي</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="94"/>
         <location filename="../../settings/RegisterScreen.qml" line="100"/>
         <location filename="../../settings/RegisterScreen.qml" line="106"/>
         <source>This field is required</source>
-        <translation/>
+        <translation>هذا الحقل مطلوب</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="120"/>
         <source>Please fill in account details:</source>
-        <translation/>
+        <translation>يرجى ملء تفاصيل الحساب:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="132"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
 </context>
 <context>
@@ -873,30 +873,30 @@
         <location filename="../../settings/WelcomeButtons.qml" line="18"/>
         <location filename="../../settings/WelcomeButtons.qml" line="23"/>
         <source>AOL</source>
-        <translation/>
+        <translation>AOL</translation>
     </message>
     <message>
         <location filename="../../settings/WelcomeButtons.qml" line="28"/>
         <location filename="../../settings/WelcomeButtons.qml" line="33"/>
         <source>Gmail</source>
-        <translation/>
+        <translation>Gmail</translation>
     </message>
     <message>
         <location filename="../../settings/WelcomeButtons.qml" line="38"/>
         <location filename="../../settings/WelcomeButtons.qml" line="43"/>
         <source>Microsoft Live Hotmail</source>
-        <translation/>
+        <translation>Microsoft Live Hotmail</translation>
     </message>
     <message>
         <location filename="../../settings/WelcomeButtons.qml" line="60"/>
         <location filename="../../settings/WelcomeButtons.qml" line="66"/>
         <source>Yahoo!</source>
-        <translation/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../settings/WelcomeButtons.qml" line="71"/>
         <source>Other</source>
-        <translation/>
+        <translation>أخرى</translation>
     </message>
 </context>
 <context>
@@ -904,12 +904,12 @@
     <message>
         <location filename="../../settings/WelcomeScreen.qml" line="26"/>
         <source>Welcome to your email.</source>
-        <translation/>
+        <translation>مرحبا بك في بريدك الإلكتروني.</translation>
     </message>
     <message>
         <location filename="../../settings/WelcomeScreen.qml" line="32"/>
         <source>Set up your accounts</source>
-        <translation/>
+        <translation>انشئ حساباتك</translation>
     </message>
 </context>
 <context>
@@ -917,89 +917,89 @@
     <message>
         <location filename="../../main.qml" line="15"/>
         <source>Sender</source>
-        <translation/>
+        <translation>مرسل</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="16"/>
         <source>Subject</source>
-        <translation/>
+        <translation>الموضوع</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="17"/>
         <source>Date Sent</source>
-        <translation/>
+        <translation>تاريخ الإرسال</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>Subject:</source>
-        <translation/>
+        <translation>الموضوع :</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>Sort messages by:</source>
-        <translation/>
+        <translation>ترتيب الرسائل حسب :</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Go to folder:</source>
-        <translation/>
+        <translation>انتقل إلى المجلد :</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="57"/>
         <source>Email</source>
-        <translation/>
+        <translation>البريد الإلكتروني</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
         <source>OK</source>
-        <translation/>
+        <translation>موافق</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="75"/>
         <source>Error</source>
-        <translation/>
+        <translation>خطأ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="129"/>
         <location filename="../../main.qml" line="136"/>
         <location filename="../../main.qml" line="448"/>
         <source>Account switcher</source>
-        <translation/>
+        <translation>محول الحسابات</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="159"/>
         <source>On %1 %2 wrote:</source>
-        <translation/>
+        <translation>على %1 %2 كتب :</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="337"/>
         <source>-------- Forwarded Message --------</source>
-        <translation/>
+        <translation>-------- الرسائل المعاد توجيهها --------</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="338"/>
         <source>[Fwd: %1]</source>
-        <translation/>
+        <translation>[Fwd: %1]</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="443"/>
         <source>Account list</source>
-        <translation/>
+        <translation>قائمة الحساب</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="472"/>
         <source>Composer</source>
-        <translation/>
+        <translation>المؤلف</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="518"/>
         <source>Mark as unread</source>
-        <translation/>
+        <translation>علم بغير مقروء</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="518"/>
         <source>Mark as read</source>
-        <translation/>
+        <translation>علم بمقروء</translation>
     </message>
 </context>
 <context>
@@ -1007,58 +1007,58 @@
     <message>
         <location filename="../../settings/settings.js" line="13"/>
         <source>Manual update only</source>
-        <translation/>
+        <translation>تحديث يدوي فقط</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="15"/>
         <source>Update every hour</source>
-        <translation/>
+        <translation>تحديث كل ساعة</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="17"/>
         <source>Update every %1 minutes</source>
-        <translation/>
+        <translation>تحديث كل %1 دقيقة</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="23"/>
         <source>POP</source>
-        <translation/>
+        <translation>POP</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="24"/>
         <source>IMAP</source>
-        <translation/>
+        <translation>IMAP</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="44"/>
         <location filename="../../settings/settings.js" line="70"/>
         <source>None</source>
-        <translation/>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="45"/>
         <source>SSL</source>
-        <translation/>
+        <translation>SSL</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="46"/>
         <source>TLS</source>
-        <translation/>
+        <translation>TLS</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="71"/>
         <source>Login</source>
-        <translation/>
+        <translation>تسجيل الدخول</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="72"/>
         <source>Plain</source>
-        <translation/>
+        <translation>عادي</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="73"/>
         <source>Cram MD5</source>
-        <translation/>
+        <translation>Cram MD5</translation>
     </message>
 </context>
 </TS>

@@ -5,38 +5,38 @@
         <location filename="../../panelsrc/web/webpanel.qml" line="50"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="181"/>
         <source>Recently visited</source>
-        <translation/>
+        <translation>زرته مؤخراً</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="51"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="235"/>
         <source>Bookmarks</source>
-        <translation/>
+        <translation>العلامات</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="111"/>
         <source>Web</source>
-        <translation/>
+        <translation>ويب</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="127"/>
         <source>Web settings</source>
-        <translation/>
+        <translation>ضبط الويب</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="128"/>
         <source>Web panel content</source>
-        <translation/>
+        <translation>لوحة محتوى ويب</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="157"/>
         <source>What&apos;s going on today? Open the browser to start using the web.</source>
-        <translation/>
+        <translation>ما يحدث اليوم؟ فتح المتصفح لبدء استخدام شبكة الإنترنت.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="166"/>
         <source>Open Browser!</source>
-        <translation/>
+        <translation>فتح المتصفح!</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="190"/>
@@ -44,19 +44,19 @@
         <location filename="../../panelsrc/web/webpanel.qml" line="246"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="248"/>
         <source>View</source>
-        <translation/>
+        <translation>عرض</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="190"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="197"/>
         <source>Hide</source>
-        <translation/>
+        <translation>إخفاء</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="246"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="252"/>
         <source>Delete</source>
-        <translation/>
+        <translation>حذف</translation>
     </message>
 </context>
 </TS>

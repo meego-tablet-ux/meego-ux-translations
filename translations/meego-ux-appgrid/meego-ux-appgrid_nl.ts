@@ -14,7 +14,7 @@
     <message>
         <location filename="../../MainContent.qml" line="190"/>
         <source>&quot;%1&quot; can not be deleted</source>
-        <translation/>
+        <translation>&quot;%1&quot; kunnen niet worden verwijderd</translation>
     </message>
     <message>
         <location filename="../../MainContent.qml" line="204"/>
@@ -29,7 +29,7 @@
     <message>
         <location filename="../../MainContent.qml" line="661"/>
         <source>Personalize</source>
-        <translation/>
+        <translation>Personaliseren</translation>
     </message>
 </context>
 </TS>

@@ -4,7 +4,7 @@
     <message>
         <location filename="../../plugin/swsharingservice.cpp" line="123"/>
         <source>Web</source>
-        <translation/>
+        <translation>ويب</translation>
     </message>
 </context>
 </TS>

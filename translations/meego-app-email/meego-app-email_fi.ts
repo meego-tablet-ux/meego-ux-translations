@@ -238,7 +238,7 @@
         <location filename="../../ComposerView.qml" line="185"/>
         <source>Attach a file</source>
         <extracomment>Attach a file (e.g. music, video, photo) to the document being composed.</extracomment>
-        <translation/>
+        <translation>Liitä tiedosto</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="234"/>
@@ -422,25 +422,25 @@
     <message>
         <location filename="../../EmailHeader.qml" line="101"/>
         <source>Cc/Bcc</source>
-        <translation/>
+        <translation>Kopio/piilokopio</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="116"/>
         <source>To</source>
         <extracomment>The &quot;to&quot; recipient label.</extracomment>
-        <translation/>
+        <translation>Henkilölle</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="141"/>
         <source>Cc</source>
         <extracomment>The Cc (carbon copy) label.</extracomment>
-        <translation/>
+        <translation>Kopio</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="165"/>
         <source>Bcc</source>
         <extracomment>The Bcc (blind carbon copy) label.</extracomment>
-        <translation/>
+        <translation>Piilokopio</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="198"/>
@@ -455,12 +455,12 @@
     <message>
         <location filename="../../EmailHeader.qml" line="234"/>
         <source>Normal Priority</source>
-        <translation/>
+        <translation>Normaali</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="235"/>
         <source>High Priority</source>
-        <translation/>
+        <translation>Kiirellinen</translation>
     </message>
 </context>
 <context>
@@ -737,7 +737,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="45"/>
         <source>Warning</source>
-        <translation/>
+        <translation>Varoitus</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="50"/>
@@ -770,7 +770,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="37"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="38"/>
@@ -985,7 +985,7 @@
     <message>
         <location filename="../../main.qml" line="443"/>
         <source>Account list</source>
-        <translation/>
+        <translation>Käyttäjäluettelo</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="472"/>

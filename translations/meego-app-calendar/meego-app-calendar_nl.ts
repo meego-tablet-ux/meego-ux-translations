@@ -4,47 +4,47 @@
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="26"/>
         <source>No reminder</source>
-        <translation/>
+        <translation>Geen herinnering</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="27"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 minuten voor</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="28"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 minuten voor</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="29"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 minuten voor</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="30"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 uur voor</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="31"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 uur voor</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="32"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 dag voor</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="33"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 dagen voor</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="34"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 week voor</translation>
     </message>
     <message>
         <location filename="../../lib/alarmlistmodel.cpp" line="35"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../../CalendarDayView.qml" line="24"/>
         <source>Create new event</source>
-        <translation/>
+        <translation>Maak nieuwe gebeurtenis</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="24"/>
@@ -83,7 +83,7 @@
         <location filename="../../CalendarDayView.qml" line="415"/>
         <source>%1 more events exist</source>
         <comment>Events count</comment>
-        <translation/>
+        <translation>%1 meer gebeurtenissen aanwezig</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="568"/>
@@ -123,7 +123,7 @@
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="124"/>
         <source>%1 more events</source>
-        <translation/>
+        <translation>%1 meer gebeurtenissen</translation>
     </message>
 </context>
 <context>
@@ -136,7 +136,7 @@
     <message>
         <location filename="../../CalendarMonthView.qml" line="25"/>
         <source>Create new event</source>
-        <translation/>
+        <translation>Maak nieuwe gebeurtenis</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="25"/>
@@ -170,7 +170,7 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="24"/>
         <source>Create new event</source>
-        <translation/>
+        <translation>Maak nieuwe gebeurtenis</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="24"/>
@@ -199,7 +199,7 @@
         <location filename="../../CalendarWeekView.qml" line="353"/>
         <source>%1 more events exist</source>
         <comment>Events count</comment>
-        <translation/>
+        <translation>%1 meer evenementen beschikbaar</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="518"/>
@@ -248,7 +248,7 @@
     <message>
         <location filename="../../EventDetailsView.qml" line="128"/>
         <source>Repeats</source>
-        <translation/>
+        <translation>Herhaalt</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="194"/>
@@ -258,7 +258,7 @@
     <message>
         <location filename="../../EventDetailsView.qml" line="240"/>
         <source>Show in calendar view</source>
-        <translation/>
+        <translation>Weergeef in kalender</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="292"/>
@@ -329,7 +329,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="148"/>
         <source>Please check the date and time entered</source>
-        <translation/>
+        <translation>Check de ingevoerde datum en tijd.</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="222"/>
@@ -416,17 +416,17 @@
     <message>
         <location filename="../../NewEventView.qml" line="991"/>
         <source>Repeats forever</source>
-        <translation/>
+        <translation>Herhaalt altijd</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="991"/>
         <source>Ends after number of times...</source>
-        <translation/>
+        <translation>Eindigt na een aantal keren ...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="991"/>
         <source>Ends after date...</source>
-        <translation/>
+        <translation>Eindigt na de datum ...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1100"/>
@@ -437,47 +437,47 @@
         <location filename="../../NewEventView.qml" line="1126"/>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>No reminder</source>
-        <translation/>
+        <translation>Geen herinnering</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 minuten voor</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 minuten voor</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 minuten voor</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 uur voor</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 uur voor</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 dag voor</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 dagen voor</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 week voor</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1175"/>
@@ -515,12 +515,12 @@
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="99"/>
         <source>Ends after number of times...</source>
-        <translation/>
+        <translation>Eindigt na een aantal keren ...</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="100"/>
         <source>Ends after date...</source>
-        <translation/>
+        <translation>Eindigt na de datum ...</translation>
     </message>
 </context>
 <context>
@@ -571,47 +571,47 @@
     <message>
         <location filename="../../lib/utilmethods.cpp" line="275"/>
         <source>No reminder</source>
-        <translation/>
+        <translation>Geen herinnering</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="276"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 minuten voor</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="277"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 minuten voor</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="278"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 minuten voor</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="279"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 uur voor</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="280"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 uur voor</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="281"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 dag voor</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="282"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 dagen voor</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="283"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 week voor</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="284"/>

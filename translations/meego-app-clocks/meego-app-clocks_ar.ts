@@ -4,12 +4,12 @@
     <message>
         <location filename="../../Alarm.qml" line="31"/>
         <source>On</source>
-        <translation/>
+        <translation>تشغيل</translation>
     </message>
     <message>
         <location filename="../../Alarm.qml" line="31"/>
         <source>Off</source>
-        <translation/>
+        <translation>إغلاق</translation>
     </message>
 </context>
 <context>
@@ -17,94 +17,94 @@
     <message>
         <location filename="../../NewAlarmMenu.qml" line="24"/>
         <source>Mo</source>
-        <translation/>
+        <translation>الاثنين</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="25"/>
         <source>Tu</source>
-        <translation/>
+        <translation>الثلاثاء</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="26"/>
         <source>We</source>
-        <translation/>
+        <translation>اربعاء</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="27"/>
         <source>Th</source>
-        <translation/>
+        <translation>خميس</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="28"/>
         <source>Fr</source>
-        <translation/>
+        <translation>جمعه</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="29"/>
         <source>Sa</source>
-        <translation/>
+        <translation>سبت</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="30"/>
         <source>Su</source>
-        <translation/>
+        <translation>الاحد</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="32"/>
         <source>On</source>
-        <translation/>
+        <translation>تشغيل</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="32"/>
         <source>Off</source>
-        <translation/>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="33"/>
         <source>sound</source>
-        <translation/>
+        <translation>الصوت</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="33"/>
         <source>track</source>
-        <translation/>
+        <translation>المسار</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="351"/>
         <source>Snooze</source>
-        <translation/>
+        <translation>قيلولة</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="389"/>
         <location filename="../../NewAlarmMenu.qml" line="437"/>
         <source>1 Minute</source>
-        <translation/>
+        <translation>1 دقيقة</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="389"/>
         <location filename="../../NewAlarmMenu.qml" line="437"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 دقيقة</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="509"/>
         <source>Type</source>
-        <translation/>
+        <translation>نوع</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="664"/>
         <source>Sound</source>
-        <translation/>
+        <translation>الصوت</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="883"/>
         <source>Save</source>
-        <translation/>
+        <translation>حفظ</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="902"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
 </context>
 <context>
@@ -112,22 +112,22 @@
     <message>
         <location filename="../../NewClockMenu.qml" line="113"/>
         <source>(GMT %1)</source>
-        <translation/>
+        <translation>(GMT %1)</translation>
     </message>
     <message>
         <location filename="../../NewClockMenu.qml" line="113"/>
         <source>(GMT +%1)</source>
-        <translation/>
+        <translation>(GMT +%1)</translation>
     </message>
     <message>
         <location filename="../../NewClockMenu.qml" line="154"/>
         <source>Save</source>
-        <translation/>
+        <translation>حفظ</translation>
     </message>
     <message>
         <location filename="../../NewClockMenu.qml" line="172"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
 </context>
 <context>
@@ -135,12 +135,12 @@
     <message>
         <location filename="../../main.qml" line="22"/>
         <source>Clocks</source>
-        <translation/>
+        <translation>الساعات</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="22"/>
         <source>Alarms</source>
-        <translation/>
+        <translation>إنذار</translation>
     </message>
 </context>
 </TS>

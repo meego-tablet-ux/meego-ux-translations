@@ -28,7 +28,7 @@
     <message>
         <location filename="../../FontSelector.qml" line="125"/>
         <source>Pick a font</source>
-        <translation/>
+        <translation>Vybrat písmo</translation>
     </message>
     <message>
         <location filename="../../FontSelector.qml" line="148"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../../NotebookSelector.qml" line="107"/>
         <source>Pick a notebook</source>
-        <translation/>
+        <translation>Vybrat zápisník</translation>
     </message>
 </context>
 <context>
@@ -157,32 +157,32 @@
     <message>
         <location filename="../../NotebooksView.qml" line="72"/>
         <source>Use the default notebook, or make a new one</source>
-        <translation/>
+        <translation>Použít výchozí zápisník nebo udělat nový</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="73"/>
         <source>Create a new notebook</source>
-        <translation/>
+        <translation>Vybrat nový zápisník</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="74"/>
         <source>What&apos;s a notebook?</source>
-        <translation/>
+        <translation>Co je zápisník?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="75"/>
         <source>How do I create notes?</source>
-        <translation/>
+        <translation>Jak se vytváří poznámky?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="76"/>
         <source>A notebook is a collection of notes. Use the default notebook we have created for you, or make a new one.</source>
-        <translation/>
+        <translation>Zápisník je sbírka poznámek. Použijte výchozí zápisník, který jsme pro vás vytvořili, nebo udělejte nový.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="77"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation/>
+        <translation>Dotkněte se tlačítka &quot;Vytvořit první poznámku&quot;.Také můžete ťuknout do ikony v pravém horním rohu obrazovky, a pak vybrat &quot;Nová poznámka&quot;.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="93"/>
@@ -270,7 +270,7 @@
         <location filename="../../NotebooksView.qml" line="389"/>
         <location filename="../../NotebooksView.qml" line="489"/>
         <source>A NoteBook &apos;%1&apos; already exists.</source>
-        <translation/>
+        <translation>Zápisník &apos;%1&apos; již existuje.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="413"/>
@@ -322,32 +322,32 @@ smazat &quot;%1&quot;?</translation>
     <message>
         <location filename="../../NotesView.qml" line="60"/>
         <source>This notebook is empty</source>
-        <translation/>
+        <translation>Tento zápisník je prázdný</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="61"/>
         <source>Create the first note</source>
-        <translation/>
+        <translation>Vytvořit první poznámku</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="62"/>
         <source>How do I create notes?</source>
-        <translation/>
+        <translation>Jak se vytvářejí poznámky?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="63"/>
         <source>Share your notes by email</source>
-        <translation/>
+        <translation>Sdílejte své poznámky pomocí pošty</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="64"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation/>
+        <translation>Dotkněte se tlačítka &quot;Vytvořit první poznámku&quot;.Také můžete ťuknout do ikony v pravém horním rohu obrazovky, a pak vybrat &quot;Nová poznámka&quot;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="65"/>
         <source>To send a note by email, tap and hold the note you want to send, then select &apos;Email&apos;.</source>
-        <translation/>
+        <translation>Pro poslání poznámky elektronickou poštou, ťukněte na poznámku, kterou chcete odeslat, a držte ji, potom zvolte &quot;E-mail&quot;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="82"/>

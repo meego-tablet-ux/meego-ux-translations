@@ -132,7 +132,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="70"/>
         <source>Update:</source>
-        <translation/>
+        <translation>Atualizar:</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="120"/>
@@ -229,7 +229,7 @@
         <location filename="../../AddRecipient.qml" line="46"/>
         <source>Select &quot;%1&quot; recipient</source>
         <extracomment>The contact (e-mail recipient) picker title.</extracomment>
-        <translation/>
+        <translation>Selecione o destinatário &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -238,7 +238,7 @@
         <location filename="../../ComposerView.qml" line="185"/>
         <source>Attach a file</source>
         <extracomment>Attach a file (e.g. music, video, photo) to the document being composed.</extracomment>
-        <translation/>
+        <translation>Anexar um ficheiro</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="234"/>
@@ -427,19 +427,19 @@
         <location filename="../../EmailHeader.qml" line="116"/>
         <source>To</source>
         <extracomment>The &quot;to&quot; recipient label.</extracomment>
-        <translation/>
+        <translation>Para</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="141"/>
         <source>Cc</source>
         <extracomment>The Cc (carbon copy) label.</extracomment>
-        <translation/>
+        <translation>Cc</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="165"/>
         <source>Bcc</source>
         <extracomment>The Bcc (blind carbon copy) label.</extracomment>
-        <translation/>
+        <translation>Bcc</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="198"/>
@@ -449,17 +449,17 @@
     <message>
         <location filename="../../EmailHeader.qml" line="233"/>
         <source>Low Priority</source>
-        <translation/>
+        <translation>Prioridade baixa</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="234"/>
         <source>Normal Priority</source>
-        <translation/>
+        <translation>Prioridade normal</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="235"/>
         <source>High Priority</source>
-        <translation/>
+        <translation>Prioridade alta</translation>
     </message>
 </context>
 <context>
@@ -475,7 +475,7 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="147"/>
         <source>(%1)</source>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -508,7 +508,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="62"/>
         <source>On %1 %2 wrote:</source>
-        <translation/>
+        <translation>Em %1, %2 escreveu:</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="96"/>
@@ -543,7 +543,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="173"/>
         <source>There are no messages in this folder.</source>
-        <translation/>
+        <translation>Não existem mensagens nesta pasta</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="212"/>
@@ -592,7 +592,7 @@
         <location filename="../../FolderListViewToolbar.qml" line="136"/>
         <source>(%1)</source>
         <extracomment>Arg1 is the number of selected messages</extracomment>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -736,7 +736,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="45"/>
         <source>Warning</source>
-        <translation/>
+        <translation>Aviso</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="50"/>
@@ -769,7 +769,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="37"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="38"/>
@@ -789,7 +789,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="65"/>
         <source>On %1 %2 wrote:</source>
-        <translation/>
+        <translation>Em %1, %2 escreveu:</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="188"/>
@@ -942,7 +942,7 @@
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Go to folder:</source>
-        <translation/>
+        <translation>Ir para a pasta:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="57"/>
@@ -969,7 +969,7 @@
     <message>
         <location filename="../../main.qml" line="159"/>
         <source>On %1 %2 wrote:</source>
-        <translation/>
+        <translation>Em %1, %2 escreveu:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="337"/>
@@ -1012,12 +1012,12 @@
     <message>
         <location filename="../../settings/settings.js" line="15"/>
         <source>Update every hour</source>
-        <translation/>
+        <translation>Atualizar a cada hora</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="17"/>
         <source>Update every %1 minutes</source>
-        <translation/>
+        <translation>Atualizar a cada %1 minutos</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="23"/>

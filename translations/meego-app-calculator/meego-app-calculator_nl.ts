@@ -4,17 +4,17 @@
     <message>
         <location filename="../../calculator.js" line="57"/>
         <source>Infinity</source>
-        <translation/>
+        <translation>Oneindig</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="59"/>
         <source>-Infinity</source>
-        <translation/>
+        <translation>-Oneindig</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="61"/>
         <source>Error</source>
-        <translation/>
+        <translation>Fout</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="174"/>

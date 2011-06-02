@@ -51,7 +51,7 @@
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="178"/>
         <source>My Tablet content</source>
-        <translation/>
+        <translation>Oma tabletti -sisältö</translation>
     </message>
 </context>
 </TS>

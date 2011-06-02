@@ -6,19 +6,19 @@
         <location filename="../../src/components/common/CCPContextArea.qml" line="230"/>
         <location filename="../../src/components/common/CCPContextArea.qml" line="233"/>
         <source>Copy</source>
-        <translation/>
+        <translation>نسخ</translation>
     </message>
     <message>
         <location filename="../../src/components/common/CCPContextArea.qml" line="227"/>
         <location filename="../../src/components/common/CCPContextArea.qml" line="233"/>
         <source>Paste</source>
-        <translation/>
+        <translation>لصق</translation>
     </message>
     <message>
         <location filename="../../src/components/common/CCPContextArea.qml" line="230"/>
         <location filename="../../src/components/common/CCPContextArea.qml" line="233"/>
         <source>Cut</source>
-        <translation/>
+        <translation>قص</translation>
     </message>
 </context>
 <context>
@@ -26,194 +26,194 @@
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="202"/>
         <source>Sun</source>
-        <translation/>
+        <translation>الاحد</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="203"/>
         <source>Mon</source>
-        <translation/>
+        <translation>اثنين</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="204"/>
         <source>Tue</source>
-        <translation/>
+        <translation>ثلاثاء</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="205"/>
         <source>Wed</source>
-        <translation/>
+        <translation>اربعاء</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="206"/>
         <source>Thu</source>
-        <translation/>
+        <translation>خميس</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="207"/>
         <source>Fri</source>
-        <translation/>
+        <translation>جمعة</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="208"/>
         <source>Sat</source>
-        <translation/>
+        <translation>سبت</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="210"/>
         <source>Jan</source>
-        <translation/>
+        <translation>يناير</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="211"/>
         <source>Feb</source>
-        <translation/>
+        <translation>فبراير</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="212"/>
         <source>Mar</source>
-        <translation/>
+        <translation>مارس</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="213"/>
         <source>Apr</source>
-        <translation/>
+        <translation>أبريل</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="214"/>
         <location filename="../../src/components/datetime/DatePicker.qml" line="227"/>
         <source>May</source>
-        <translation/>
+        <translation>مايو</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="215"/>
         <source>Jun</source>
-        <translation/>
+        <translation>يونيو</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="216"/>
         <source>Jul</source>
-        <translation/>
+        <translation>يوليو</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="217"/>
         <source>Aug</source>
-        <translation/>
+        <translation>أغسطس</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="218"/>
         <source>Sep</source>
-        <translation/>
+        <translation>سبتمبر</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="219"/>
         <source>Oct</source>
-        <translation/>
+        <translation>أكتوبر</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="220"/>
         <source>Nov</source>
-        <translation/>
+        <translation>نوفمبر</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="221"/>
         <source>Dec</source>
-        <translation/>
+        <translation>ديسمبر</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="223"/>
         <source>January</source>
-        <translation/>
+        <translation>كانون الثاني / يناير</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="224"/>
         <source>February</source>
-        <translation/>
+        <translation>شباط / فبراير</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="225"/>
         <source>March</source>
-        <translation/>
+        <translation>آذار / مارس</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="226"/>
         <source>April</source>
-        <translation/>
+        <translation>نيسان / أبريل</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="228"/>
         <source>June</source>
-        <translation/>
+        <translation>حزيران / يونيو</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="229"/>
         <source>July</source>
-        <translation/>
+        <translation>تموز / يوليو</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="230"/>
         <source>August</source>
-        <translation/>
+        <translation>آب / أغسطس</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="231"/>
         <source>September</source>
-        <translation/>
+        <translation>أيلول / سبتمبر</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="232"/>
         <source>October</source>
-        <translation/>
+        <translation>تشرين الأول / أكتوبر</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="233"/>
         <source>November</source>
-        <translation/>
+        <translation>تشرين الثاني / نوفمبر</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="234"/>
         <source>December</source>
-        <translation/>
+        <translation>كانون الأول / ديسمبر</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="533"/>
         <source>day-month-year</source>
-        <translation/>
+        <translation>اليوم الشهر السنة</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="551"/>
         <source>dateUnitOne</source>
-        <translation/>
+        <translation>وحدة  تاريخ واحدة</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="574"/>
         <source>dateUnitTwo</source>
-        <translation/>
+        <translation>وحدة  تاريخ ثانية</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="597"/>
         <source>dateUnitThree</source>
-        <translation/>
+        <translation>وحدة  تاريخ ثالثة</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="620"/>
         <source>dateUnitFour</source>
-        <translation/>
+        <translation>وحدة  تاريخ رابعة</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="781"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="871"/>
         <source>firstDayInWeek</source>
         <extracomment>handles with which day the calendar grid starts. Type monday, tuesday, wednesday, thursday, friday, saturday or sunday, without capital letters</extracomment>
-        <translation/>
+        <translation>ل يوم في الاسبوع</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="1000"/>
         <source>Today</source>
-        <translation/>
+        <translation>اليوم</translation>
     </message>
 </context>
 <context>
@@ -221,98 +221,98 @@
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="30"/>
         <source>Just Now</source>
-        <translation/>
+        <translation>الآن فقط</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="32"/>
         <source>1 min ago</source>
-        <translation/>
+        <translation>1 دقيقة مضت</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="34"/>
         <source>%1 mins ago</source>
         <comment>1 is number of minutes</comment>
-        <translation/>
+        <translation>%1 دقيقة مضت</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="37"/>
         <source>Half an hour ago</source>
-        <translation/>
+        <translation>منذ نصف ساعة</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="39"/>
         <source>An hour ago</source>
-        <translation/>
+        <translation>منذ ساعة</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="41"/>
         <source>A couple of hours ago</source>
-        <translation/>
+        <translation>قبل بضع ساعات</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="43"/>
         <source>%1 hours ago</source>
         <comment>1 is number of hours</comment>
-        <translation/>
+        <translation>%1 ساعات مضت</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="48"/>
         <source>Yesterday</source>
-        <translation/>
+        <translation>أمس</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="50"/>
         <source>%1/%2/%3 - %4</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is day name</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="56"/>
         <source>%1/%2/%3 - Last week</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - في الأسبوع الماضي</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="61"/>
         <source>%1/%2/%3 - A couple of weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - بضعة أسابيع</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="66"/>
         <source>%1/%2/%3 - %4 weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is number of weeks</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4 اسابيع مضت</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="72"/>
         <source>%1/%2/%3 - Last month</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - في الشهر الماضي</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="77"/>
         <source>%1/%2/%3 - A couple of months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - بضعة أشهر</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="86"/>
         <source>%1/%2/%3 - %4 months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4 اشهر مضت</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="92"/>
         <source>%1/%2/%3 - Last year</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - في العام الماضي</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="97"/>
         <source>%1/%2/%3 - %4 years ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation/>
+        <translation>%1/%2/%3 - %4 سنوات مضت</translation>
     </message>
 </context>
 <context>
@@ -320,17 +320,17 @@
     <message>
         <location filename="../../src/components/common/ModalDialog.qml" line="146"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="../../src/components/common/ModalDialog.qml" line="147"/>
         <source>OK</source>
-        <translation/>
+        <translation>موافق</translation>
     </message>
     <message>
         <location filename="../../src/components/common/ModalDialog.qml" line="301"/>
         <source>left-to-right</source>
-        <translation/>
+        <translation>من اليسار إلى اليمين</translation>
     </message>
 </context>
 <context>
@@ -338,12 +338,12 @@
     <message>
         <location filename="../../src/components/media/MucMediaGridView.qml" line="327"/>
         <source>%1 Minute</source>
-        <translation/>
+        <translation>%1 دقيقة</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MucMediaGridView.qml" line="327"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 دقائق</translation>
     </message>
 </context>
 <context>
@@ -351,42 +351,42 @@
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="156"/>
         <source>Back...</source>
-        <translation/>
+        <translation>مرة أخرى...</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="206"/>
         <source>Pick a Song</source>
-        <translation/>
+        <translation>اختر الأغنية</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="206"/>
         <source>Pick a Playlist/Album</source>
-        <translation/>
+        <translation>اختر قائمة التشغيل / الألبوم</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="207"/>
         <source>Pick a Playlist</source>
-        <translation/>
+        <translation>اختر التشغيل</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="207"/>
         <source>Pick an Album</source>
-        <translation/>
+        <translation>اختر لألبوم</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="361"/>
         <source>Back</source>
-        <translation/>
+        <translation>العودة</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="381"/>
         <source>OK</source>
-        <translation/>
+        <translation>موافق</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="399"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
 </context>
 <context>
@@ -394,12 +394,12 @@
     <message>
         <location filename="../../src/components/media/PhotoPicker.qml" line="118"/>
         <source>Pick an album</source>
-        <translation/>
+        <translation>اختر ألبوما</translation>
     </message>
     <message>
         <location filename="../../src/components/media/PhotoPicker.qml" line="118"/>
         <source>Pick a photo</source>
-        <translation/>
+        <translation>اختر الصور</translation>
     </message>
 </context>
 <context>
@@ -408,7 +408,7 @@
         <location filename="../../src/components/common/ProgressBar.qml" line="102"/>
         <location filename="../../src/components/common/ProgressBar.qml" line="120"/>
         <source>%1%</source>
-        <translation/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -416,17 +416,17 @@
     <message>
         <location filename="../../src/components/common/ScrollableMusicList.qml" line="82"/>
         <source>unknown artist</source>
-        <translation/>
+        <translation>الفنان غير معروف</translation>
     </message>
     <message>
         <location filename="../../src/components/common/ScrollableMusicList.qml" line="83"/>
         <source>unknown album</source>
-        <translation/>
+        <translation>الألبوم غير معروف</translation>
     </message>
     <message>
         <location filename="../../src/components/common/ScrollableMusicList.qml" line="186"/>
         <source>%1:%2</source>
-        <translation/>
+        <translation>%1:%2</translation>
     </message>
 </context>
 <context>
@@ -434,7 +434,7 @@
     <message>
         <location filename="../../src/components/indicators/StatusBar.qml" line="111"/>
         <source>%1: %2</source>
-        <translation/>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -442,22 +442,22 @@
     <message>
         <location filename="../../src/components/datetime/TimePicker.qml" line="78"/>
         <source>Pick a time</source>
-        <translation/>
+        <translation>اختر وقتا</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/TimePicker.qml" line="138"/>
         <source>%1:%2 %3</source>
-        <translation/>
+        <translation>%1:%2 %3</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/TimePicker.qml" line="227"/>
         <source>AM</source>
-        <translation/>
+        <translation>صباحا</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/TimePicker.qml" line="228"/>
         <source>PM</source>
-        <translation/>
+        <translation>م</translation>
     </message>
 </context>
 <context>
@@ -465,12 +465,12 @@
     <message>
         <location filename="../../src/components/common/ToggleButton.qml" line="151"/>
         <source>On</source>
-        <translation/>
+        <translation>شغل</translation>
     </message>
     <message>
         <location filename="../../src/components/common/ToggleButton.qml" line="178"/>
         <source>Off</source>
-        <translation/>
+        <translation>اغلق</translation>
     </message>
 </context>
 <context>
@@ -478,7 +478,7 @@
     <message>
         <location filename="../../src/components/media/VideoPicker.qml" line="176"/>
         <source>Pick a video</source>
-        <translation/>
+        <translation>اختر فيديو</translation>
     </message>
 </context>
 </TS>

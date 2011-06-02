@@ -9,7 +9,7 @@
     <message>
         <location filename="../../panelsrc/friends/FriendsItem.qml" line="207"/>
         <source>Decline</source>
-        <translation>Torju</translation>
+        <translation>En hyväksy</translation>
     </message>
 </context>
 <context>
@@ -22,17 +22,17 @@
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="35"/>
         <source>Friends settings</source>
-        <translation>Ystävät paneelin asetukset</translation>
+        <translation>Ystävät-paneelin asetukset</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="36"/>
         <source>Friends panel content</source>
-        <translation/>
+        <translation>Ystävät-paneelin sisältö</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="134"/>
         <source>You have no web accounts enabled - tap here to configure your web accounts.</source>
-        <translation>Sinulla ei ole web-tilejä käytössä - kosketa tähän määrittääksesi tilisi.</translation>
+        <translation>Sinulla ei ole web-tilejä käytössä - määritä tilisi koskettamalla tätä.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="143"/>

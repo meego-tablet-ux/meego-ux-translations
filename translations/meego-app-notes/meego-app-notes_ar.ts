@@ -12,7 +12,7 @@
         <location filename="../../src/DataHandler.cpp" line="494"/>
         <location filename="../../src/DataHandler.cpp" line="498"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -28,7 +28,7 @@
     <message>
         <location filename="../../FontSelector.qml" line="125"/>
         <source>Pick a font</source>
-        <translation/>
+        <translation>اختر الخط</translation>
     </message>
     <message>
         <location filename="../../FontSelector.qml" line="148"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../../InformationDialog.qml" line="82"/>
         <source>OK</source>
-        <translation/>
+        <translation>موافق</translation>
     </message>
 </context>
 <context>
@@ -110,7 +110,7 @@
     <message>
         <location filename="../../NoteDetail.qml" line="97"/>
         <source>Start typing a new note.</source>
-        <translation/>
+        <translation>بدء كتابة ملاحظة جديدة.</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="120"/>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../NoteDetail.qml" line="125"/>
         <source>Do you want to Delete this note?</source>
-        <translation/>
+        <translation>هل تريد حذف هذه الملاحظة؟</translation>
     </message>
 </context>
 <context>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../../NotebookSelector.qml" line="107"/>
         <source>Pick a notebook</source>
-        <translation/>
+        <translation>اختر دفتر ملاحظات</translation>
     </message>
 </context>
 <context>
@@ -157,32 +157,32 @@
     <message>
         <location filename="../../NotebooksView.qml" line="72"/>
         <source>Use the default notebook, or make a new one</source>
-        <translation/>
+        <translation>استخدام دفتر الملاحظات الافتراضي ، أو انشئ واحد جديد</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="73"/>
         <source>Create a new notebook</source>
-        <translation/>
+        <translation>إنشاء دفتر ملاحظات جديد</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="74"/>
         <source>What&apos;s a notebook?</source>
-        <translation/>
+        <translation>ما هو دفتر الملاحظات؟</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="75"/>
         <source>How do I create notes?</source>
-        <translation/>
+        <translation>كيف يمكنني إنشاء ملاحظات؟</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="76"/>
         <source>A notebook is a collection of notes. Use the default notebook we have created for you, or make a new one.</source>
-        <translation/>
+        <translation>دفتر الملاحظات هو مجموعة من الملاحظات. استخدم الافتراضي أو انشئ  واحد جديداً</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="77"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation/>
+        <translation>اضغط على &apos;إنشاء المذكرة الأولى&apos; . يمكنك أيضا الاستفادة من الرمز في الزاوية اليمنى العليا من الشاشة ، ثم حدد &apos;ملاحظة جديدة&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="93"/>
@@ -198,23 +198,23 @@
     <message>
         <location filename="../../NotebooksView.qml" line="113"/>
         <source>View by:</source>
-        <translation/>
+        <translation>عرض حسب :</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="119"/>
         <source>All</source>
-        <translation/>
+        <translation>الجميع</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="119"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>أ-ي</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="147"/>
         <location filename="../../NotebooksView.qml" line="183"/>
         <source>%1 Note</source>
-        <translation/>
+        <translation>%1 ملاحظة</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="149"/>
@@ -249,7 +249,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="310"/>
         <source>Rename</source>
-        <translation/>
+        <translation>إعادة تسمية</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="369"/>
@@ -270,17 +270,17 @@
         <location filename="../../NotebooksView.qml" line="389"/>
         <location filename="../../NotebooksView.qml" line="489"/>
         <source>A NoteBook &apos;%1&apos; already exists.</source>
-        <translation/>
+        <translation>دفتر الملاحظات &apos;%1&apos; منشئ بالفعل.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="413"/>
         <source>Are you sure you want to delete these %1 notebooks?</source>
-        <translation/>
+        <translation>هل تريد بالتأكيد حذف  %1 دفتر الملاحظات?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="414"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
-        <translation/>
+        <translation>هل تريد بالتأكيد حذف &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="445"/>
@@ -291,7 +291,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="446"/>
         <source>Notebooks deleted</source>
-        <translation/>
+        <translation>دفتر الملاحظات حذف</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="446"/>
@@ -301,18 +301,18 @@
     <message>
         <location filename="../../NotebooksView.qml" line="449"/>
         <source>&quot;%1&quot; notebooks have been deleted</source>
-        <translation/>
+        <translation>&quot;%1&quot; تم حذف دفتر الملاحظات</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="451"/>
         <location filename="../../NotebooksView.qml" line="453"/>
         <source>&quot;%1&quot; has been deleted</source>
-        <translation/>
+        <translation>&quot;%1&quot; تم حذفه</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="477"/>
         <source>Rename NoteBook</source>
-        <translation/>
+        <translation>إعادة تسمية دفتر الملاحظات</translation>
     </message>
 </context>
 <context>
@@ -320,32 +320,32 @@
     <message>
         <location filename="../../NotesView.qml" line="60"/>
         <source>This notebook is empty</source>
-        <translation/>
+        <translation>دفتر الملاحظات فارغ</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="61"/>
         <source>Create the first note</source>
-        <translation/>
+        <translation>إنشاء أول ملاحظة</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="62"/>
         <source>How do I create notes?</source>
-        <translation/>
+        <translation>كيف يمكنني إنشاء ملاحظات؟</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="63"/>
         <source>Share your notes by email</source>
-        <translation/>
+        <translation>شارك ملاحظاتك بالبريد الإلكتروني</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="64"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation/>
+        <translation>اضغط على &apos;إنشاء المذكرة الأولى&apos; . يمكنك أيضا الاستفادة من الرمز في الزاوية اليمنى العليا من الشاشة ، ثم حدد &apos;ملاحظة جديدة.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="65"/>
         <source>To send a note by email, tap and hold the note you want to send, then select &apos;Email&apos;.</source>
-        <translation/>
+        <translation>لإرسال مذكرة بالبريد الإلكتروني ، اضغط باستمرار على الملاحظة التي تريد إرسالها ، ثم اختر &apos;إرسال&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="82"/>
@@ -356,22 +356,22 @@
     <message>
         <location filename="../../NotesView.qml" line="84"/>
         <source>Select Multiple</source>
-        <translation/>
+        <translation>اختيار متعدد</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="102"/>
         <source>View by:</source>
-        <translation/>
+        <translation>عرض حسب :</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="116"/>
         <source>All</source>
-        <translation/>
+        <translation>جميع</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="116"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>أ-ي</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="153"/>
@@ -401,7 +401,7 @@
         <location filename="../../NotesView.qml" line="458"/>
         <location filename="../../NotesView.qml" line="482"/>
         <source>Email</source>
-        <translation/>
+        <translation>البريد الإلكتروني</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="459"/>
@@ -411,7 +411,7 @@
     <message>
         <location filename="../../NotesView.qml" line="461"/>
         <source>Rename</source>
-        <translation/>
+        <translation>إعادة تسمية</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="493"/>
@@ -428,12 +428,12 @@
     <message>
         <location filename="../../NotesView.qml" line="544"/>
         <source>%1 notes have successfully been moved to &quot;%2&quot;</source>
-        <translation/>
+        <translation>%1 تم نقل الملاحظات إلى &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="548"/>
         <source>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</source>
-        <translation/>
+        <translation>&quot;%1&quot; تم النقل إلى &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="580"/>
@@ -453,17 +453,17 @@
     <message>
         <location filename="../../NotesView.qml" line="600"/>
         <source>A Note &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
-        <translation/>
+        <translation>الملاحظة &lt;b&gt;&apos;%1&apos;&lt;/b&gt; مدخلة بالفعل.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="627"/>
         <source>Are you sure you want to delete these %1 notes?</source>
-        <translation/>
+        <translation>هل أنت متأكد أنك تريد حذف هذه  %1 الملاحظة?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="628"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
-        <translation/>
+        <translation>هل تريد بالتأكيد حذف &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="656"/>
@@ -475,7 +475,7 @@
     <message>
         <location filename="../../NotesView.qml" line="657"/>
         <source>Notes deleted</source>
-        <translation/>
+        <translation>حذفت الملاحظة</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="657"/>
@@ -486,17 +486,17 @@
         <location filename="../../NotesView.qml" line="662"/>
         <location filename="../../NotesView.qml" line="664"/>
         <source>%1 has been deleted</source>
-        <translation/>
+        <translation>%1 تم حذفها</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="681"/>
         <source>Rename Note</source>
-        <translation/>
+        <translation>إعادة تسمية الملاحظة</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="691"/>
         <source>%1 (Renamed Note)</source>
-        <translation/>
+        <translation>%1 (الملاحظات المتغيرة)</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="718"/>
@@ -522,7 +522,7 @@
     <message>
         <location filename="../../src/DataHandler.cpp" line="25"/>
         <source>Everyday Notes (default)</source>
-        <translation/>
+        <translation>الملاحظات اليومية (الافتراضي)</translation>
     </message>
 </context>
 <context>
@@ -559,7 +559,7 @@
         <location filename="../../TwoButtonsModalDialog.qml" line="152"/>
         <location filename="../../TwoButtonsModalDialog.qml" line="174"/>
         <source>%1/%2</source>
-        <translation/>
+        <translation>%1/%2</translation>
     </message>
 </context>
 <context>
@@ -569,7 +569,7 @@
         <location filename="../../main.qml" line="51"/>
         <location filename="../../main.qml" line="67"/>
         <source>Notes</source>
-        <translation>تلاحظ</translation>
+        <translation>ملاحظة</translation>
     </message>
 </context>
 </TS>

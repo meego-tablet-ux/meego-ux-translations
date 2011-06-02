@@ -182,7 +182,7 @@
         <location filename="../../localehelper.cpp" line="83"/>
         <source>1</source>
         <extracomment>localize this first day of the week (1 = Sunday, 2 = Monday, ...)</extracomment>
-        <translation/>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="109"/>
@@ -200,19 +200,19 @@
         <location filename="../../localehelper.cpp" line="121"/>
         <source>dddd, MMMM d</source>
         <extracomment>dddd = full day of week, MMMM = full month, d = day of month (e.g. Monday, January 31)</extracomment>
-        <translation/>
+        <translation>pppp, KKKK p</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="125"/>
         <source>ddd d</source>
         <extracomment>ddd = day of week, d = day of month (e.g. Mon 31)</extracomment>
-        <translation/>
+        <translation>ppp p</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="129"/>
         <source>MMMM yyyy</source>
         <extracomment>MMMM = full month, yyyy = full year (e.g. January 2011)</extracomment>
-        <translation/>
+        <translation>KKKK vvvv</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="133"/>
@@ -224,7 +224,7 @@
         <location filename="../../localehelper.cpp" line="137"/>
         <source>d</source>
         <extracomment>d = day of month (e.g. 31, no leading zero)</extracomment>
-        <translation/>
+        <translation>p</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="141"/>
@@ -242,19 +242,19 @@
         <location filename="../../localehelper.cpp" line="149"/>
         <source>MMMM</source>
         <extracomment>MMMM = full month (e.g. January)</extracomment>
-        <translation/>
+        <translation>KKKK</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="153"/>
         <source>MMM</source>
         <extracomment>MMM = short month (e.g. Jan)</extracomment>
-        <translation/>
+        <translation>KKK</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="157"/>
         <source>yyyy</source>
         <extracomment>yyyy (e.g. 2011)</extracomment>
-        <translation/>
+        <translation>vvvv</translation>
     </message>
 </context>
 <context>

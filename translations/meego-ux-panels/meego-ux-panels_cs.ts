@@ -4,7 +4,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelClearButton.qml" line="21"/>
         <source>Clear history</source>
-        <translation/>
+        <translation>Smazat historii</translation>
     </message>
 </context>
 <context>

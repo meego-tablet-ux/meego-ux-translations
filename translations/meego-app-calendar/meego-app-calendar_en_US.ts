@@ -57,22 +57,22 @@
     <message>
         <location filename="../../CalendarDayView.qml" line="16"/>
         <source>Day</source>
-        <translation/>
+        <translation>Day</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="24"/>
         <source>Create new event</source>
-        <translation/>
+        <translation>Create new event</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="24"/>
         <source>Go to today</source>
-        <translation/>
+        <translation>Go to today</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="24"/>
         <source>Go to date</source>
-        <translation/>
+        <translation>Go to date</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="339"/>
@@ -131,22 +131,22 @@
     <message>
         <location filename="../../CalendarMonthView.qml" line="16"/>
         <source>Month</source>
-        <translation/>
+        <translation>Month</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="25"/>
         <source>Create new event</source>
-        <translation/>
+        <translation>Create new event</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="25"/>
         <source>Go to today</source>
-        <translation/>
+        <translation>Go to today</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="25"/>
         <source>Go to date</source>
-        <translation/>
+        <translation>Go to date</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="527"/>
@@ -165,22 +165,22 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="16"/>
         <source>Week</source>
-        <translation/>
+        <translation>Week</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="24"/>
         <source>Create new event</source>
-        <translation/>
+        <translation>Create new event</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="24"/>
         <source>Go to today</source>
-        <translation/>
+        <translation>Go to today</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="24"/>
         <source>Go to date</source>
-        <translation/>
+        <translation>Go to date</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="58"/>
@@ -231,7 +231,7 @@
     <message>
         <location filename="../../EventDetailsView.qml" line="42"/>
         <source>All day</source>
-        <translation/>
+        <translation>All day</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="44"/>
@@ -248,7 +248,7 @@
     <message>
         <location filename="../../EventDetailsView.qml" line="128"/>
         <source>Repeats</source>
-        <translation/>
+        <translation>Repeats</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="194"/>

@@ -4,7 +4,7 @@
     <message>
         <location filename="../../MusicListView.qml" line="19"/>
         <source>unknown artist</source>
-        <translation>Poista pysyvästi tämä kappale?</translation>
+        <translation>tuntematon esittäjä</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="20"/>
@@ -19,27 +19,27 @@
     <message>
         <location filename="../../MusicListView.qml" line="51"/>
         <source>Playlist name</source>
-        <translation/>
+        <translation>Soittolistan nimi</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="53"/>
         <source>Artist name</source>
-        <translation/>
+        <translation>Esittäjän nimi</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="55"/>
         <source>Album name</source>
-        <translation/>
+        <translation>Albumin nimi</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="56"/>
         <source>Track name</source>
-        <translation/>
+        <translation>Kappaleen nimi</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="71"/>
         <source>Artist</source>
-        <translation>Toimenpiteet</translation>
+        <translation>Esittäjä</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="85"/>
@@ -75,12 +75,12 @@
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Play queue</source>
-        <translation/>
+        <translation>Soittojono</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
         <source>Favorites</source>
-        <translation>Missä kaikki musiikki on?</translation>
+        <translation>Suosikit</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="22"/>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>All tracks</source>
-        <translation/>
+        <translation>Kaikki kappaleet</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Open album</source>
-        <translation/>
+        <translation>Avaa albumi</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
@@ -186,7 +186,7 @@
     <message>
         <location filename="../../main.qml" line="50"/>
         <source>Remove from queue</source>
-        <translation/>
+        <translation>Poista jonosta</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="51"/>
@@ -206,7 +206,7 @@
     <message>
         <location filename="../../main.qml" line="54"/>
         <source>Clear playlist</source>
-        <translation/>
+        <translation>Tyhjennä soittolista</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="56"/>
@@ -216,12 +216,12 @@
     <message>
         <location filename="../../main.qml" line="57"/>
         <source>%1 album</source>
-        <translation/>
+        <translation>%1 albumi</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="58"/>
         <source>%1 tracks</source>
-        <translation/>
+        <translation>%1 kappaletta</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="60"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../../main.qml" line="64"/>
         <source>By date</source>
-        <translation/>
+        <translation>Päivämäärän mukaan</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="66"/>
@@ -266,7 +266,7 @@
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>Select multiple songs</source>
-        <translation/>
+        <translation>Valitse useita kappaleita</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
@@ -276,7 +276,7 @@
     <message>
         <location filename="../../main.qml" line="75"/>
         <source>Buy, download or copy your music onto your tablet, then you can enjoy listening to it from here.</source>
-        <translation/>
+        <translation>Osta, lataa tai kopioi musiikkia tablettiisi, niin voit kuunnella sitä täältä.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="639"/>
@@ -296,12 +296,12 @@
     <message>
         <location filename="../../main.qml" line="674"/>
         <source>Permanently delete this song?</source>
-        <translation>Poista pysyvästi tämä kappale?</translation>
+        <translation>Poistetaanko kappale pysyvästi?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="674"/>
         <source>Permanently delete these %1 songs?</source>
-        <translation>Poista pysyvästi nämä %1 kappaletta?</translation>
+        <translation>Poistetaanko pysyvästi nämä %1 kappaletta?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="687"/>
@@ -312,7 +312,7 @@
         <location filename="../../main.qml" line="735"/>
         <location filename="../../main.qml" line="778"/>
         <source>Invalid characters: %1</source>
-        <translation/>
+        <translation>Virheellisiä merkkejä: %1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1785"/>

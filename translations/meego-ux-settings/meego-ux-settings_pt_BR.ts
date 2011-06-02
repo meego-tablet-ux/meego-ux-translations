@@ -53,7 +53,7 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="245"/>
         <source>Properties</source>
-        <translation/>
+        <translation>Propriedades</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="250"/>
@@ -68,12 +68,12 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="266"/>
         <source>Icon: %1</source>
-        <translation/>
+        <translation>Ícone: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="274"/>
         <source>UUIDs: %1</source>
-        <translation/>
+        <translation>UUIDs: %1</translation>
     </message>
 </context>
 <context>
@@ -367,22 +367,22 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="7"/>
         <source>General</source>
-        <translation/>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="33"/>
         <source>Time and Date</source>
-        <translation/>
+        <translation>Data e Hora</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="49"/>
         <source>Sound</source>
-        <translation/>
+        <translation>Som</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="55"/>
         <source>%1%</source>
-        <translation/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>

@@ -99,7 +99,7 @@
     <message>
         <location filename="../../AccountOffline.qml" line="67"/>
         <source>Account is connecting</source>
-        <translation/>
+        <translation>A conta está conectando</translation>
     </message>
 </context>
 <context>
@@ -141,7 +141,7 @@
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="94"/>
         <source>Are you sure to delete this account?</source>
-        <translation/>
+        <translation>Tem certeza que quer apagar esta conta?</translation>
     </message>
 </context>
 <context>
@@ -584,7 +584,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="257"/>
         <source>%1 joined the chat</source>
-        <translation/>
+        <translation>%1 entrou no bate-papo</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="272"/>
@@ -604,7 +604,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="281"/>
         <source>%1 left the chat</source>
-        <translation/>
+        <translation>%1 abandonou o bate-papo</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="289"/>
@@ -787,7 +787,7 @@
     <message>
         <location filename="../../LoadingAccounts.qml" line="28"/>
         <source>Loading accounts</source>
-        <translation/>
+        <translation>Carregando contas</translation>
     </message>
 </context>
 <context>
@@ -842,32 +842,32 @@
     <message>
         <location filename="../../MessageDelegate.qml" line="109"/>
         <source>(%1)</source>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="125"/>
         <source>Upload canceled:</source>
-        <translation/>
+        <translation>Envio cancelado:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="127"/>
         <source>Sent:</source>
-        <translation/>
+        <translation>Enviada:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="129"/>
         <source>Uploading:</source>
-        <translation/>
+        <translation>Enviando:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="133"/>
         <source>%1 has sent you:</source>
-        <translation/>
+        <translation>%1 enviou para você:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="135"/>
         <source>%1 is sending you:</source>
-        <translation/>
+        <translation>%1 está enviando para você:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="147"/>
@@ -1010,32 +1010,32 @@
     <message>
         <location filename="../../VideoWindow.qml" line="166"/>
         <source>Call with %1</source>
-        <translation/>
+        <translation>Chamada com %1</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Minimize me</source>
-        <translation/>
+        <translation>Minimize-me</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Maximize me</source>
-        <translation/>
+        <translation>Maximize-me</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Disable camera</source>
-        <translation/>
+        <translation>Desativar câmera</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Enable camera</source>
-        <translation/>
+        <translation>Habilitar câmera</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="421"/>
         <source>Swap camera</source>
-        <translation/>
+        <translation>Mudar câmera</translation>
     </message>
 </context>
 <context>
@@ -1083,7 +1083,7 @@
     <message>
         <location filename="../../main.qml" line="609"/>
         <source>Select contact</source>
-        <translation/>
+        <translation>Selecionar contato</translation>
     </message>
 </context>
 <context>

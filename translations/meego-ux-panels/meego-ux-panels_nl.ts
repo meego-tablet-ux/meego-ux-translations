@@ -4,7 +4,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelClearButton.qml" line="21"/>
         <source>Clear history</source>
-        <translation/>
+        <translation>Geschiedenis wissen</translation>
     </message>
 </context>
 <context>
@@ -12,12 +12,12 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="43"/>
         <source>Panels</source>
-        <translation/>
+        <translation>Panelen</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="46"/>
         <source>Manage panels</source>
-        <translation/>
+        <translation>Panels beheren</translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="17"/>
         <source>To show items on the front of the panel select ON, to hide select OFF</source>
-        <translation/>
+        <translation>Om onderdelen op de voorkant van de panels te tonen, kies AAN, om ze te verbergen kies UIT</translation>
     </message>
 </context>
 <context>
@@ -34,32 +34,32 @@
         <location filename="../../panellib/Panels/WifiDialog.qml" line="93"/>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="103"/>
         <source>No connection currently</source>
-        <translation/>
+        <translation>Geen verbinding op dit moment</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="96"/>
         <source>Wired</source>
-        <translation/>
+        <translation>Bekabeld</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="101"/>
         <source>Connected to %1</source>
-        <translation/>
+        <translation>Verbonden met %1</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="106"/>
         <source>Connected by %1</source>
-        <translation/>
+        <translation>Verbonden via %1</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="142"/>
         <source>Wi-Fi</source>
-        <translation/>
+        <translation>WIFI</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="194"/>
         <source>Wi-Fi settings</source>
-        <translation/>
+        <translation>WiFi-instellingen</translation>
     </message>
 </context>
 </TS>

@@ -92,7 +92,7 @@
     <message>
         <location filename="../../main.qml" line="184"/>
         <source>Permanently delete these %1 videos?</source>
-        <translation/>
+        <translation>Deze %1 video&apos;s permanent verwijderen?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="199"/>
@@ -102,12 +102,12 @@
     <message>
         <location filename="../../main.qml" line="413"/>
         <source>No videos have been added. Do you want to start watching videos?</source>
-        <translation/>
+        <translation>Geen video&apos;s toegevoegd. Wil je gaan kijken naar video&apos;s?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="421"/>
         <source>Start recording or upload your favorite shows.</source>
-        <translation/>
+        <translation>Start met opnemen of upload je favoriete shows.</translation>
     </message>
 </context>
 </TS>

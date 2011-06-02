@@ -19,7 +19,7 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="110"/>
         <source>Email address</source>
-        <translation>Email adres</translation>
+        <translation>E-mail adres</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="116"/>
@@ -229,7 +229,7 @@
         <location filename="../../AddRecipient.qml" line="46"/>
         <source>Select &quot;%1&quot; recipient</source>
         <extracomment>The contact (e-mail recipient) picker title.</extracomment>
-        <translation/>
+        <translation>Selecteer &quot;%1&quot; ontvanger(s)</translation>
     </message>
 </context>
 <context>
@@ -238,7 +238,7 @@
         <location filename="../../ComposerView.qml" line="185"/>
         <source>Attach a file</source>
         <extracomment>Attach a file (e.g. music, video, photo) to the document being composed.</extracomment>
-        <translation/>
+        <translation>Voeg een bestand toe</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="234"/>
@@ -548,12 +548,12 @@
     <message>
         <location filename="../../FolderListView.qml" line="212"/>
         <source>Getting more messages</source>
-        <translation/>
+        <translation>Verkrijgen van meerdere berichten</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="214"/>
         <source>Get more messages</source>
-        <translation/>
+        <translation>Verkrijg meer berichten</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="432"/>
@@ -1053,12 +1053,12 @@
     <message>
         <location filename="../../settings/settings.js" line="72"/>
         <source>Plain</source>
-        <translation/>
+        <translation>Plain</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="73"/>
         <source>Cram MD5</source>
-        <translation/>
+        <translation>Cram MD5</translation>
     </message>
 </context>
 </TS>

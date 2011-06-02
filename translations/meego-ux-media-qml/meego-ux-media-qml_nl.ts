@@ -4,37 +4,37 @@
     <message>
         <location filename="../../Media/MediaGridView.qml" line="170"/>
         <source>Favorites</source>
-        <translation/>
+        <translation>Favorieten</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="171"/>
         <source>Recently viewed</source>
-        <translation/>
+        <translation>Recent bekeken</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="172"/>
         <source>Newest</source>
-        <translation/>
+        <translation>Nieuwste</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="173"/>
         <source>Unwatched</source>
-        <translation/>
+        <translation>Onbekeken</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="174"/>
         <source>Search Results</source>
-        <translation/>
+        <translation>Zoekresultaten</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="407"/>
         <source>%1 Minute</source>
-        <translation/>
+        <translation>%1 minuut</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="407"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 minuten</translation>
     </message>
 </context>
 </TS>

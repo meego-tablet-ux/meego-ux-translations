@@ -12,7 +12,7 @@
     <message>
         <location filename="../../Components/ApplicationPage.qml" line="204"/>
         <source>Search</source>
-        <translation/>
+        <translation>Zoek</translation>
     </message>
 </context>
 <context>
@@ -20,17 +20,17 @@
     <message>
         <location filename="../../Components/ClipboardContextMenu.qml" line="12"/>
         <source>Copy</source>
-        <translation/>
+        <translation>Kopieeren</translation>
     </message>
     <message>
         <location filename="../../Components/ClipboardContextMenu.qml" line="12"/>
         <source>Cut</source>
-        <translation/>
+        <translation>Knippen</translation>
     </message>
     <message>
         <location filename="../../Components/ClipboardContextMenu.qml" line="12"/>
         <source>Paste</source>
-        <translation/>
+        <translation>Plakken</translation>
     </message>
 </context>
 <context>
@@ -38,37 +38,37 @@
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="38"/>
         <source>Pick a contact:</source>
-        <translation/>
+        <translation>Kies een contact:</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="122"/>
         <source>Loading...</source>
-        <translation/>
+        <translation>Laden...</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="251"/>
         <source>Idle</source>
-        <translation/>
+        <translation>Idle</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="253"/>
         <source>Available</source>
-        <translation/>
+        <translation>Beschikbaar</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="255"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Bezig</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="335"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../Components/ContactsPicker.qml" line="358"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Annuleer</translation>
     </message>
 </context>
 <context>
@@ -176,85 +176,85 @@
         <location filename="../../localehelper.cpp" line="71"/>
         <source>mdy</source>
         <extracomment>default order for numeric date (m = month, d = date, y = year) this string should contain these exact three characters in some order</extracomment>
-        <translation/>
+        <translation>mdy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="83"/>
         <source>1</source>
         <extracomment>localize this first day of the week (1 = Sunday, 2 = Monday, ...)</extracomment>
-        <translation/>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="109"/>
         <source>MMMM d, yyyy</source>
         <extracomment>MMMM = full month, d = day of month, yyyy = full year (e.g. January 31, 2011)</extracomment>
-        <translation/>
+        <translation>MMMM d, yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="113"/>
         <source>MMM d yyyy</source>
         <extracomment>MMM = short month, d = day of month, yyyy = full year (e.g. Jan 31 2011)</extracomment>
-        <translation/>
+        <translation>MMM d yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="121"/>
         <source>dddd, MMMM d</source>
         <extracomment>dddd = full day of week, MMMM = full month, d = day of month (e.g. Monday, January 31)</extracomment>
-        <translation/>
+        <translation>dddd, MMMM d</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="125"/>
         <source>ddd d</source>
         <extracomment>ddd = day of week, d = day of month (e.g. Mon 31)</extracomment>
-        <translation/>
+        <translation>ddd d</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="129"/>
         <source>MMMM yyyy</source>
         <extracomment>MMMM = full month, yyyy = full year (e.g. January 2011)</extracomment>
-        <translation/>
+        <translation>MMMM yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="133"/>
         <source>MMM yyyy</source>
         <extracomment>MMM = short month, yyyy = full year (e.g. Jan 2011)</extracomment>
-        <translation/>
+        <translation>MMM yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="137"/>
         <source>d</source>
         <extracomment>d = day of month (e.g. 31, no leading zero)</extracomment>
-        <translation/>
+        <translation>d</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="141"/>
         <source>dddd</source>
         <extracomment>dddd = day of week (e.g. Monday)</extracomment>
-        <translation/>
+        <translation>dddd</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="145"/>
         <source>ddd</source>
         <extracomment>ddd = day of week (e.g. Mon)</extracomment>
-        <translation/>
+        <translation>ddd</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="149"/>
         <source>MMMM</source>
         <extracomment>MMMM = full month (e.g. January)</extracomment>
-        <translation/>
+        <translation>MMMM</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="153"/>
         <source>MMM</source>
         <extracomment>MMM = short month (e.g. Jan)</extracomment>
-        <translation/>
+        <translation>MMM</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="157"/>
         <source>yyyy</source>
         <extracomment>yyyy (e.g. 2011)</extracomment>
-        <translation/>
+        <translation>yyyy</translation>
     </message>
 </context>
 <context>
@@ -276,23 +276,23 @@
         <location filename="../../Components/ShareObj.qml" line="77"/>
         <location filename="../../Components/ShareObj.qml" line="97"/>
         <source>Email</source>
-        <translation/>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="241"/>
         <source>An error occurred while sharing: %1</source>
-        <translation/>
+        <translation>Er is een fout opgetreden tijdens het delen: %1</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="246"/>
         <location filename="../../Components/ShareObj.qml" line="277"/>
         <source>Ok</source>
-        <translation/>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../../Components/ShareObj.qml" line="272"/>
         <source>Upload progress: %1%%</source>
-        <translation/>
+        <translation>Upload vooruitgang: %1%%</translation>
     </message>
 </context>
 <context>
@@ -300,7 +300,7 @@
     <message>
         <location filename="../../Components/StatusBar.qml" line="106"/>
         <source>%1 : %2</source>
-        <translation/>
+        <translation>%1 : %2</translation>
     </message>
 </context>
 <context>
@@ -321,12 +321,12 @@
     <message>
         <location filename="../../Components/ToggleSwitch.qml" line="39"/>
         <source>ON</source>
-        <translation/>
+        <translation>AAN</translation>
     </message>
     <message>
         <location filename="../../Components/ToggleSwitch.qml" line="40"/>
         <source>OFF</source>
-        <translation/>
+        <translation>UIT</translation>
     </message>
 </context>
 </TS>

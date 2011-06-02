@@ -28,7 +28,7 @@
     <message>
         <location filename="../../FontSelector.qml" line="125"/>
         <source>Pick a font</source>
-        <translation/>
+        <translation>Escolha uma fonte</translation>
     </message>
     <message>
         <location filename="../../FontSelector.qml" line="148"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../../NotebookSelector.qml" line="107"/>
         <source>Pick a notebook</source>
-        <translation/>
+        <translation>Escolha um livro de notas</translation>
     </message>
 </context>
 <context>
@@ -157,32 +157,32 @@
     <message>
         <location filename="../../NotebooksView.qml" line="72"/>
         <source>Use the default notebook, or make a new one</source>
-        <translation/>
+        <translation>Use o livro de notas padrão, ou crie um novo</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="73"/>
         <source>Create a new notebook</source>
-        <translation/>
+        <translation>Criar um novo livro de notas</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="74"/>
         <source>What&apos;s a notebook?</source>
-        <translation/>
+        <translation>O que é um livro de notas?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="75"/>
         <source>How do I create notes?</source>
-        <translation/>
+        <translation>Como faço para criar notas?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="76"/>
         <source>A notebook is a collection of notes. Use the default notebook we have created for you, or make a new one.</source>
-        <translation/>
+        <translation>Um livro de notas é uma coleção de notas. Use o livro de notas padrão que nós criamos para você, ou crie um novo.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="77"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation/>
+        <translation>Toque no botão &apos;Criar a primeira nota&apos;. Você também pode tocar no ícone no canto superior direito da tela e selecionar &apos;Nova nota&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="93"/>
@@ -270,7 +270,7 @@
         <location filename="../../NotebooksView.qml" line="389"/>
         <location filename="../../NotebooksView.qml" line="489"/>
         <source>A NoteBook &apos;%1&apos; already exists.</source>
-        <translation/>
+        <translation>Um livro de notas &apos;%1&apos; já existe.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="413"/>
@@ -320,32 +320,32 @@
     <message>
         <location filename="../../NotesView.qml" line="60"/>
         <source>This notebook is empty</source>
-        <translation/>
+        <translation>Este livro de notas está vazio</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="61"/>
         <source>Create the first note</source>
-        <translation/>
+        <translation>Criar a primeira nota</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="62"/>
         <source>How do I create notes?</source>
-        <translation/>
+        <translation>Como faço para criar notas?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="63"/>
         <source>Share your notes by email</source>
-        <translation/>
+        <translation>Compartilhe suas notas por e-mail</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="64"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation/>
+        <translation>Toque no botão &apos;Criar a primeira nota&apos;. Você também pode tocar no ícone no canto superior direito da tela e selecionar &apos;Nova nota&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="65"/>
         <source>To send a note by email, tap and hold the note you want to send, then select &apos;Email&apos;.</source>
-        <translation/>
+        <translation>Para enviar uma nota por e-mail, clique e segure a nota que deseja enviar, em seguida, selecione &apos;Enviar&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="82"/>

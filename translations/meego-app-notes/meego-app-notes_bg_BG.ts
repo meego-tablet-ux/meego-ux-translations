@@ -12,7 +12,7 @@
         <location filename="../../src/DataHandler.cpp" line="494"/>
         <location filename="../../src/DataHandler.cpp" line="498"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -95,12 +95,12 @@
     <message>
         <location filename="../../NoteDetail.qml" line="32"/>
         <source>Save</source>
-        <translation/>
+        <translation>Запази</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="32"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="69"/>
@@ -115,7 +115,7 @@
     <message>
         <location filename="../../NoteDetail.qml" line="120"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="121"/>
@@ -208,7 +208,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="119"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>от А до Я</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="147"/>
@@ -239,7 +239,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="307"/>
         <source>Open</source>
-        <translation/>
+        <translation>Отворяне</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="308"/>
@@ -383,7 +383,7 @@
         <location filename="../../NotesView.qml" line="460"/>
         <location filename="../../NotesView.qml" line="624"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="433"/>
@@ -559,7 +559,7 @@
         <location filename="../../TwoButtonsModalDialog.qml" line="152"/>
         <location filename="../../TwoButtonsModalDialog.qml" line="174"/>
         <source>%1/%2</source>
-        <translation/>
+        <translation>%1/%2</translation>
     </message>
 </context>
 <context>
@@ -569,7 +569,7 @@
         <location filename="../../main.qml" line="51"/>
         <location filename="../../main.qml" line="67"/>
         <source>Notes</source>
-        <translation/>
+        <translation>Бележки</translation>
     </message>
 </context>
 </TS>

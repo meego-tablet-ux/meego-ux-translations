@@ -141,7 +141,7 @@
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="94"/>
         <source>Are you sure to delete this account?</source>
-        <translation/>
+        <translation>Haluatko varmasti poistaa tämän käyttäjän?</translation>
     </message>
 </context>
 <context>
@@ -149,7 +149,7 @@
     <message>
         <location filename="../../AddAFriend.qml" line="52"/>
         <source>Friend&apos;s username</source>
-        <translation/>
+        <translation>Ystävän käyttäjänimi</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="73"/>
@@ -224,7 +224,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="898"/>
         <source>Unable to create channel: %1 - %2</source>
-        <translation/>
+        <translation>Kanavan luominen epäonnistui: %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="913"/>
@@ -353,12 +353,12 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="239"/>
         <source>Your Status:</source>
-        <translation/>
+        <translation>Fiilisviestisi:</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="315"/>
         <source>Custom status message</source>
-        <translation>Oma tilaviesti</translation>
+        <translation>Oma fiilisviesti</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="340"/>
@@ -412,42 +412,42 @@
     <message>
         <location filename="../../ContactDelegate.qml" line="85"/>
         <source>Return to chat</source>
-        <translation/>
+        <translation>Palaa keskusteluun</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="86"/>
         <source>Open chat</source>
-        <translation/>
+        <translation>Avaa pikaviestikeskustelu</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="98"/>
         <source>Call</source>
-        <translation/>
+        <translation>Soita</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="110"/>
         <source>Video call</source>
-        <translation/>
+        <translation>Videopuhelu</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="122"/>
         <source>Unblock</source>
-        <translation/>
+        <translation>Poista esto</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="123"/>
         <source>Block</source>
-        <translation/>
+        <translation>Estä</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="139"/>
         <source>End chat</source>
-        <translation/>
+        <translation>Lopeta keskustelu</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="150"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>Poista kontakti</translation>
     </message>
 </context>
 <context>
@@ -473,17 +473,17 @@
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="129"/>
         <source>Available</source>
-        <translation/>
+        <translation>Tavoitettavissa</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="131"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Varattu</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="133"/>
         <source>Away</source>
-        <translation/>
+        <translation>Poissa</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="135"/>
@@ -493,12 +493,12 @@
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="137"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="139"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>Huomaamaton</translation>
     </message>
 </context>
 <context>
@@ -551,7 +551,7 @@
     <message>
         <location filename="../../FileTransferDelegate.qml" line="201"/>
         <source>There was a problem downloading</source>
-        <translation/>
+        <translation>Ongelma latauksessa</translation>
     </message>
     <message>
         <location filename="../../FileTransferDelegate.qml" line="203"/>
@@ -584,7 +584,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="257"/>
         <source>%1 joined the chat</source>
-        <translation/>
+        <translation>%1 liittyi mukaan keskusteluun</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="272"/>
@@ -604,7 +604,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="281"/>
         <source>%1 left the chat</source>
-        <translation/>
+        <translation>%1 poistui keskustelusta</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="289"/>
@@ -654,17 +654,17 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="485"/>
         <source>%1 KB</source>
-        <translation>%1 KB</translation>
+        <translation>%1 kt</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="489"/>
         <source>%1 MB</source>
-        <translation>%1 MB</translation>
+        <translation>%1 mt</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="493"/>
         <source>%1 GB</source>
-        <translation>%1 GB</translation>
+        <translation>%1 gt</translation>
     </message>
 </context>
 <context>
@@ -698,7 +698,7 @@
     <message>
         <location filename="../../settings/ImSettings.qml" line="17"/>
         <source>Instant Messaging Settings</source>
-        <translation/>
+        <translation>Pikaviestiasetukset</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="98"/>
@@ -787,7 +787,7 @@
     <message>
         <location filename="../../LoadingAccounts.qml" line="28"/>
         <source>Loading accounts</source>
-        <translation/>
+        <translation>Ladataan tilejä</translation>
     </message>
 </context>
 <context>
@@ -811,12 +811,12 @@
     <message>
         <location filename="../../MessageContactDelegate.qml" line="50"/>
         <source>Private chat</source>
-        <translation/>
+        <translation>Yksityinen keskustelu</translation>
     </message>
     <message>
         <location filename="../../MessageContactDelegate.qml" line="54"/>
         <source>Add to contacts</source>
-        <translation/>
+        <translation>Lisää yhteystietoihin</translation>
     </message>
 </context>
 <context>
@@ -842,12 +842,12 @@
     <message>
         <location filename="../../MessageDelegate.qml" line="109"/>
         <source>(%1)</source>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="125"/>
         <source>Upload canceled:</source>
-        <translation/>
+        <translation>Lataus peruutettu:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="127"/>
@@ -857,17 +857,17 @@
     <message>
         <location filename="../../MessageDelegate.qml" line="129"/>
         <source>Uploading:</source>
-        <translation/>
+        <translation>Tiliä yhdistetään</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="133"/>
         <source>%1 has sent you:</source>
-        <translation/>
+        <translation>%1 lähetti sinulle:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="135"/>
         <source>%1 is sending you:</source>
-        <translation/>
+        <translation>%1 lähettää sinulle:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="147"/>
@@ -914,7 +914,7 @@
     <message>
         <location filename="../../NoFriends.qml" line="27"/>
         <source>You haven&apos;t added any friends yet</source>
-        <translation/>
+        <translation>Et ole vielä lisännyt yhtään ystävää</translation>
     </message>
 </context>
 <context>
@@ -930,7 +930,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="130"/>
         <source>%1 is sending you the file %2</source>
-        <translation/>
+        <translation>%1 lähettää sinulle tiedostoa %2</translation>
     </message>
 </context>
 <context>
@@ -1015,27 +1015,27 @@
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Minimize me</source>
-        <translation/>
+        <translation>Pienennä minut</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Maximize me</source>
-        <translation/>
+        <translation>Laajenna minut</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Disable camera</source>
-        <translation/>
+        <translation>Kytke kamera pois päältä</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Enable camera</source>
-        <translation/>
+        <translation>Ota kamera käyttöön</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="421"/>
         <source>Swap camera</source>
-        <translation/>
+        <translation>Vaihda kamera</translation>
     </message>
 </context>
 <context>
@@ -1053,17 +1053,17 @@
     <message>
         <location filename="../../main.qml" line="458"/>
         <source>Available</source>
-        <translation/>
+        <translation>Tavoitettavissa</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="460"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Varattu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="462"/>
         <source>Away</source>
-        <translation/>
+        <translation>Poissa</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="464"/>
@@ -1073,17 +1073,17 @@
     <message>
         <location filename="../../main.qml" line="466"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="468"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>Huomaamaton</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="609"/>
         <source>Select contact</source>
-        <translation/>
+        <translation>Valitse kontakti</translation>
     </message>
 </context>
 <context>
@@ -1101,7 +1101,7 @@
     <message>
         <location filename="../../utils.js" line="23"/>
         <source>Incoming</source>
-        <translation/>
+        <translation>Saapuva</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="26"/>
@@ -1111,7 +1111,7 @@
     <message>
         <location filename="../../utils.js" line="29"/>
         <source>Ringing</source>
-        <translation/>
+        <translation>Soitetaan</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="36"/>

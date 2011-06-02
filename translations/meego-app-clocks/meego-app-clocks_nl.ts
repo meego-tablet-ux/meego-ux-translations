@@ -17,37 +17,37 @@
     <message>
         <location filename="../../NewAlarmMenu.qml" line="24"/>
         <source>Mo</source>
-        <translation/>
+        <translation>Ma</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="25"/>
         <source>Tu</source>
-        <translation/>
+        <translation>Di</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="26"/>
         <source>We</source>
-        <translation/>
+        <translation>Wo</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="27"/>
         <source>Th</source>
-        <translation/>
+        <translation>Do</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="28"/>
         <source>Fr</source>
-        <translation/>
+        <translation>Vr</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="29"/>
         <source>Sa</source>
-        <translation/>
+        <translation>Za</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="30"/>
         <source>Su</source>
-        <translation/>
+        <translation>Zo</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="32"/>
@@ -117,7 +117,7 @@
     <message>
         <location filename="../../NewClockMenu.qml" line="113"/>
         <source>(GMT +%1)</source>
-        <translation/>
+        <translation>(GMT +%1)</translation>
     </message>
     <message>
         <location filename="../../NewClockMenu.qml" line="154"/>

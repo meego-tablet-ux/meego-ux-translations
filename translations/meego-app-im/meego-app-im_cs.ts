@@ -101,7 +101,7 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     <message>
         <location filename="../../AccountOffline.qml" line="67"/>
         <source>Account is connecting</source>
-        <translation/>
+        <translation>Účet se připojuje</translation>
     </message>
 </context>
 <context>
@@ -143,7 +143,7 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="94"/>
         <source>Are you sure to delete this account?</source>
-        <translation/>
+        <translation>Jste si jistý, že chcete tento účet smazat?</translation>
     </message>
 </context>
 <context>
@@ -586,7 +586,7 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="257"/>
         <source>%1 joined the chat</source>
-        <translation/>
+        <translation>%1 se připojil k rozhovoru</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="272"/>
@@ -606,7 +606,7 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="281"/>
         <source>%1 left the chat</source>
-        <translation/>
+        <translation>%1 opustil rozhovor</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="289"/>
@@ -789,7 +789,7 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     <message>
         <location filename="../../LoadingAccounts.qml" line="28"/>
         <source>Loading accounts</source>
-        <translation/>
+        <translation>Nahrávají se účty</translation>
     </message>
 </context>
 <context>
@@ -844,32 +844,32 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     <message>
         <location filename="../../MessageDelegate.qml" line="109"/>
         <source>(%1)</source>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="125"/>
         <source>Upload canceled:</source>
-        <translation/>
+        <translation>Nahrávání zrušeno:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="127"/>
         <source>Sent:</source>
-        <translation/>
+        <translation>Posláno:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="129"/>
         <source>Uploading:</source>
-        <translation/>
+        <translation>Nahrává se:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="133"/>
         <source>%1 has sent you:</source>
-        <translation/>
+        <translation>%1 vám poslal:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="135"/>
         <source>%1 is sending you:</source>
-        <translation/>
+        <translation>%1 vám posílá:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="147"/>
@@ -1012,32 +1012,32 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     <message>
         <location filename="../../VideoWindow.qml" line="166"/>
         <source>Call with %1</source>
-        <translation/>
+        <translation>Hovor s %1</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Minimize me</source>
-        <translation/>
+        <translation>Zmenšit mě</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Maximize me</source>
-        <translation/>
+        <translation>Zvětšit mě</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Disable camera</source>
-        <translation/>
+        <translation>Vypnout kameru</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Enable camera</source>
-        <translation/>
+        <translation>Zapnout kameru</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="421"/>
         <source>Swap camera</source>
-        <translation/>
+        <translation>Vyměnit kameru</translation>
     </message>
 </context>
 <context>
@@ -1085,7 +1085,7 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     <message>
         <location filename="../../main.qml" line="609"/>
         <source>Select contact</source>
-        <translation/>
+        <translation>Vybrat spojení</translation>
     </message>
 </context>
 <context>

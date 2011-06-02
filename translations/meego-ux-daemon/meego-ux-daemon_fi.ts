@@ -4,12 +4,12 @@
     <message>
         <location filename="../../alarm.qml" line="32"/>
         <source>Alarm</source>
-        <translation/>
+        <translation>Hälytys</translation>
     </message>
     <message>
         <location filename="../../alarm.qml" line="33"/>
         <source>Snooze</source>
-        <translation/>
+        <translation>Torkku</translation>
     </message>
 </context>
 <context>

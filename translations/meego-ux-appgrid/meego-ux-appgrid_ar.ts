@@ -4,32 +4,32 @@
     <message>
         <location filename="../../MainContent.qml" line="175"/>
         <source>Delete &quot;%1&quot;</source>
-        <translation/>
+        <translation>حذف &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../MainContent.qml" line="190"/>
         <source>Deleting &quot;%1&quot; will also delete all of its data</source>
-        <translation/>
+        <translation>حذف &quot;%1&quot; سيحذف أيضاً كل البيانات</translation>
     </message>
     <message>
         <location filename="../../MainContent.qml" line="190"/>
         <source>&quot;%1&quot; can not be deleted</source>
-        <translation/>
+        <translation>&quot;%1&quot; لا يمكن حذف</translation>
     </message>
     <message>
         <location filename="../../MainContent.qml" line="204"/>
         <source>Delete</source>
-        <translation/>
+        <translation>حذف</translation>
     </message>
     <message>
         <location filename="../../MainContent.qml" line="216"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="../../MainContent.qml" line="661"/>
         <source>Personalize</source>
-        <translation/>
+        <translation>تخصيص</translation>
     </message>
 </context>
 </TS>

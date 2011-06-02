@@ -26,12 +26,12 @@
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="128"/>
         <source>Web panel content</source>
-        <translation/>
+        <translation>Web-paneelin sisältö</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="157"/>
         <source>What&apos;s going on today? Open the browser to start using the web.</source>
-        <translation>Mitä tänään tapahtuu? Avaa selain aloittaaksesi netin käytön.</translation>
+        <translation>Mitä tänään tapahtuu? Aloita webin käyttö avaamalla selain.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="166"/>

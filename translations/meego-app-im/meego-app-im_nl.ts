@@ -29,7 +29,7 @@
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="223"/>
         <source>Name / ID</source>
-        <translation/>
+        <translation>Naam / ID</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="231"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="243"/>
         <source>Password</source>
-        <translation/>
+        <translation>Wachtwoord</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="260"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="../../AccountDelegate.qml" line="183"/>
         <source>Log out</source>
-        <translation/>
+        <translation>Log uit</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="185"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="../../AccountDelegate.qml" line="187"/>
         <source>Settings</source>
-        <translation/>
+        <translation>Instellingen</translation>
     </message>
 </context>
 <context>
@@ -125,18 +125,18 @@
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="39"/>
         <source>Update</source>
-        <translation/>
+        <translation>Update</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="55"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Annuleer</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="80"/>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="96"/>
         <source>Delete account</source>
-        <translation/>
+        <translation>Verwijder account</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="94"/>
@@ -149,22 +149,22 @@
     <message>
         <location filename="../../AddAFriend.qml" line="52"/>
         <source>Friend&apos;s username</source>
-        <translation/>
+        <translation>Vriend gebruikersnaam</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="73"/>
         <source>Send</source>
-        <translation/>
+        <translation>Zend</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="91"/>
         <source>Sending request</source>
-        <translation/>
+        <translation>Aanvraag verzenden</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="100"/>
         <source>Request sent</source>
-        <translation/>
+        <translation>Aanvraag verzonden</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="118"/>
@@ -323,37 +323,37 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="153"/>
         <source>Update status</source>
-        <translation/>
+        <translation>Update status</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="208"/>
         <source>Available</source>
-        <translation/>
+        <translation>Beschikbaar</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="213"/>
         <source>Away</source>
-        <translation/>
+        <translation>Weg</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="218"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Bezig</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="223"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>Onzichtbaar</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="228"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="239"/>
         <source>Your Status:</source>
-        <translation/>
+        <translation>Jouw Status:</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="315"/>
@@ -364,7 +364,7 @@
         <location filename="../../ContactContentMenu.qml" line="340"/>
         <location filename="../../ContactContentMenu.qml" line="468"/>
         <source>Update</source>
-        <translation/>
+        <translation>Update</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="355"/>
@@ -374,12 +374,12 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="449"/>
         <source>Display name</source>
-        <translation/>
+        <translation>Toon naam</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="488"/>
         <source>Add a friend</source>
-        <translation/>
+        <translation>Vriend toevoegen</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="560"/>
@@ -389,12 +389,12 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="573"/>
         <source>Log in</source>
-        <translation/>
+        <translation>Log in</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="573"/>
         <source>Log out</source>
-        <translation/>
+        <translation>Log uit</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="623"/>
@@ -412,42 +412,42 @@
     <message>
         <location filename="../../ContactDelegate.qml" line="85"/>
         <source>Return to chat</source>
-        <translation/>
+        <translation>Terug naar chat</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="86"/>
         <source>Open chat</source>
-        <translation/>
+        <translation>Open chat</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="98"/>
         <source>Call</source>
-        <translation/>
+        <translation>Oproep</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="110"/>
         <source>Video call</source>
-        <translation/>
+        <translation>Video-oproep</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="122"/>
         <source>Unblock</source>
-        <translation/>
+        <translation>Deblokkeren</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="123"/>
         <source>Block</source>
-        <translation/>
+        <translation>Blokkeren</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="139"/>
         <source>End chat</source>
-        <translation/>
+        <translation>Eind chat</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="150"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>Verwijder contact</translation>
     </message>
 </context>
 <context>
@@ -473,32 +473,32 @@
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="129"/>
         <source>Available</source>
-        <translation/>
+        <translation>Beschikbaar</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="131"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Bezig</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="133"/>
         <source>Away</source>
-        <translation/>
+        <translation>Weg</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="135"/>
         <source>Extended away</source>
-        <translation/>
+        <translation>Langdurig weg</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="137"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="139"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>Onzichtbaar</translation>
     </message>
 </context>
 <context>
@@ -779,7 +779,7 @@
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="103"/>
         <source>Port:</source>
-        <translation/>
+        <translation>Poort:</translation>
     </message>
 </context>
 <context>
@@ -834,7 +834,7 @@
     <message>
         <location filename="../../MessageContentMenu.qml" line="91"/>
         <source>End chat</source>
-        <translation/>
+        <translation>Beindig chat</translation>
     </message>
 </context>
 <context>
@@ -873,7 +873,7 @@
         <location filename="../../MessageDelegate.qml" line="147"/>
         <location filename="../../MessageDelegate.qml" line="151"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="174"/>
@@ -901,12 +901,12 @@
     <message>
         <location filename="../../MessageScreenContent.qml" line="494"/>
         <source>Group conversation</source>
-        <translation/>
+        <translation>Groep gesprek</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="498"/>
         <source>Chat with %1</source>
-        <translation/>
+        <translation>Chat met %1</translation>
     </message>
 </context>
 <context>
@@ -974,27 +974,27 @@
     <message>
         <location filename="../../SendFileView.qml" line="51"/>
         <source>Send:</source>
-        <translation/>
+        <translation>Zend:</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="62"/>
         <source>Photo</source>
-        <translation/>
+        <translation>Foto</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="74"/>
         <source>Video</source>
-        <translation/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="86"/>
         <source>Music</source>
-        <translation/>
+        <translation>Muziek</translation>
     </message>
     <message>
         <location filename="../../SendFileView.qml" line="98"/>
         <source>Contact Details</source>
-        <translation/>
+        <translation>Contact Details</translation>
     </message>
 </context>
 <context>
@@ -1002,7 +1002,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="222"/>
         <source>%1 - %2</source>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -1025,12 +1025,12 @@
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Disable camera</source>
-        <translation/>
+        <translation>Schakel camera uit</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Enable camera</source>
-        <translation/>
+        <translation>Activeer camera</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="421"/>
@@ -1048,7 +1048,7 @@
     <message>
         <location filename="../../main.qml" line="451"/>
         <source>Account switcher</source>
-        <translation/>
+        <translation>Account switcher</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="458"/>
@@ -1083,7 +1083,7 @@
     <message>
         <location filename="../../main.qml" line="609"/>
         <source>Select contact</source>
-        <translation/>
+        <translation>Selecteer contact</translation>
     </message>
 </context>
 <context>
@@ -1091,7 +1091,7 @@
     <message>
         <location filename="../../utils.js" line="17"/>
         <source>Error</source>
-        <translation/>
+        <translation>Fout</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="19"/>
@@ -1101,7 +1101,7 @@
     <message>
         <location filename="../../utils.js" line="23"/>
         <source>Incoming</source>
-        <translation/>
+        <translation>Inkomend</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="26"/>
@@ -1111,22 +1111,22 @@
     <message>
         <location filename="../../utils.js" line="29"/>
         <source>Ringing</source>
-        <translation/>
+        <translation>Bellen</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="36"/>
         <source>On Hold</source>
-        <translation/>
+        <translation>In de wacht</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="39"/>
         <source>Hanging up</source>
-        <translation/>
+        <translation>Ophangen</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="42"/>
         <source>Unknown</source>
-        <translation/>
+        <translation>Onbekend</translation>
     </message>
 </context>
 </TS>

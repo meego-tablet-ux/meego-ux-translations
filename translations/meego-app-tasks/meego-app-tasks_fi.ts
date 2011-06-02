@@ -14,7 +14,7 @@
     <message>
         <location filename="../../BottomBar.qml" line="23"/>
         <source>Move to (%1)</source>
-        <translation/>
+        <translation>Siirrä kohteeseen (%1)</translation>
     </message>
     <message>
         <location filename="../../BottomBar.qml" line="24"/>
@@ -41,7 +41,7 @@
     <message>
         <location filename="../../CreateNewTaskRow.qml" line="17"/>
         <source>Tap to add task</source>
-        <translation>Kosketa lisätäksesi tehtävän</translation>
+        <translation>Lisää tehtävä koskettamalla</translation>
     </message>
     <message>
         <location filename="../../CreateNewTaskRow.qml" line="28"/>
@@ -139,12 +139,12 @@
     <message>
         <location filename="../../TasksDetailMenu.qml" line="139"/>
         <source>Date</source>
-        <translation/>
+        <translation>Päivämäärä</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="140"/>
         <source>Someday</source>
-        <translation/>
+        <translation>Jonain päivänä</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="147"/>
@@ -237,7 +237,7 @@
     <message>
         <location filename="../../main.qml" line="27"/>
         <source>Next week</source>
-        <translation/>
+        <translation>Seuraava viikko</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
@@ -339,17 +339,17 @@
     <message>
         <location filename="../../main.qml" line="566"/>
         <source>Use the default task list, or make a new one</source>
-        <translation/>
+        <translation>Käytä oletustehtävälistaa tai luo kokonaan uusi</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="567"/>
         <source>Create a new task list</source>
-        <translation/>
+        <translation>Luo uusi tehtävälista</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="572"/>
         <source>What&apos;s a task list?</source>
-        <translation/>
+        <translation>Mikä tehtävälista on?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="573"/>
@@ -407,7 +407,7 @@
         <location filename="../../main.qml" line="749"/>
         <location filename="../../main.qml" line="759"/>
         <source>Select a task list</source>
-        <translation/>
+        <translation>Valitse tehtävälista</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="797"/>

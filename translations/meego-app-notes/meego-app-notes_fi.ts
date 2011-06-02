@@ -28,7 +28,7 @@
     <message>
         <location filename="../../FontSelector.qml" line="125"/>
         <source>Pick a font</source>
-        <translation/>
+        <translation>Valitse fontti</translation>
     </message>
     <message>
         <location filename="../../FontSelector.qml" line="148"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../../FontSizeSelector.qml" line="48"/>
         <source>Pick font size</source>
-        <translation/>
+        <translation>Valitse fonttikoko</translation>
     </message>
     <message>
         <location filename="../../FontSizeSelector.qml" line="144"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../../NotebookSelector.qml" line="107"/>
         <source>Pick a notebook</source>
-        <translation/>
+        <translation>Valitse muistikirja</translation>
     </message>
 </context>
 <context>
@@ -157,22 +157,22 @@
     <message>
         <location filename="../../NotebooksView.qml" line="72"/>
         <source>Use the default notebook, or make a new one</source>
-        <translation/>
+        <translation>Käytä oletusmuistikirjaa tai luo kokonaan uusi</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="73"/>
         <source>Create a new notebook</source>
-        <translation/>
+        <translation>Luo uusi muistikirja</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="74"/>
         <source>What&apos;s a notebook?</source>
-        <translation/>
+        <translation>Mikä muistikirja on?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="75"/>
         <source>How do I create notes?</source>
-        <translation/>
+        <translation>Miten luon muistiinpanoja?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="76"/>
@@ -182,7 +182,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="77"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation/>
+        <translation>Napsauta Luo ensimmäinen muistiinpano -painiketta. Voit myös napsauttaa kuvaketta sivun oikeassa yläkulmassa ja sitten valitse &quot;Uusi muistiinpano&quot;.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="93"/>
@@ -203,12 +203,12 @@
     <message>
         <location filename="../../NotebooksView.qml" line="119"/>
         <source>All</source>
-        <translation/>
+        <translation>Kaikki</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="119"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>A-Ö</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="147"/>
@@ -249,7 +249,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="310"/>
         <source>Rename</source>
-        <translation/>
+        <translation>Nimeä uudelleen</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="369"/>
@@ -270,7 +270,7 @@
         <location filename="../../NotebooksView.qml" line="389"/>
         <location filename="../../NotebooksView.qml" line="489"/>
         <source>A NoteBook &apos;%1&apos; already exists.</source>
-        <translation/>
+        <translation>Muistikirja &quot;%1&quot; on jo olemassa.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="413"/>
@@ -312,7 +312,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="477"/>
         <source>Rename NoteBook</source>
-        <translation/>
+        <translation>Nimeä Muistikirja uudelleen</translation>
     </message>
 </context>
 <context>
@@ -320,12 +320,12 @@
     <message>
         <location filename="../../NotesView.qml" line="60"/>
         <source>This notebook is empty</source>
-        <translation/>
+        <translation>Muistikirja on tyhjä</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="61"/>
         <source>Create the first note</source>
-        <translation/>
+        <translation>Luo ensimmäinen muistiinpano</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="62"/>
@@ -335,7 +335,7 @@
     <message>
         <location filename="../../NotesView.qml" line="63"/>
         <source>Share your notes by email</source>
-        <translation/>
+        <translation>Jaa muistiinpanosi sähköpostilla</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="64"/>
@@ -366,12 +366,12 @@
     <message>
         <location filename="../../NotesView.qml" line="116"/>
         <source>All</source>
-        <translation/>
+        <translation>Kaikki</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="116"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>A-Ö</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="153"/>
@@ -453,7 +453,7 @@
     <message>
         <location filename="../../NotesView.qml" line="600"/>
         <source>A Note &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
-        <translation/>
+        <translation>Muistiinpano &lt;b&gt;&quot;%1&quot;&lt;/b&gt; on jo olemassa.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="627"/>

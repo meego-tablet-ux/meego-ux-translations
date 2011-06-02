@@ -26,7 +26,7 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="100"/>
         <source>Photos panel content</source>
-        <translation/>
+        <translation>Kuvat-paneelin sisältö</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="128"/>
@@ -68,12 +68,12 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="274"/>
         <source>%1 photos</source>
-        <translation/>
+        <translation>%1 kuvaa</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="284"/>
         <source>Created %1</source>
-        <translation/>
+        <translation>Luotu %1</translation>
     </message>
 </context>
 </TS>

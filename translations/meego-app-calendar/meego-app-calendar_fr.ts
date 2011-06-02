@@ -57,12 +57,12 @@
     <message>
         <location filename="../../CalendarDayView.qml" line="16"/>
         <source>Day</source>
-        <translation/>
+        <translation>Jour</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="24"/>
         <source>Create new event</source>
-        <translation/>
+        <translation>Créer un nouvel événement</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="24"/>
@@ -193,7 +193,7 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="310"/>
         <source>All Day</source>
-        <translation/>
+        <translation>Toute la journée</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="353"/>
@@ -385,38 +385,38 @@
     <message>
         <location filename="../../NewEventView.qml" line="935"/>
         <source>Every day</source>
-        <translation/>
+        <translation>Tous les jours</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="935"/>
         <source>Every week</source>
-        <translation/>
+        <translation>Toutes les semaines</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="935"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>Toutes les 2 semaines</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="935"/>
         <source>Every month</source>
-        <translation/>
+        <translation>Tous les mois</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="935"/>
         <source>Every year</source>
-        <translation/>
+        <translation>Tous les ans</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="935"/>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Autre...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="991"/>
         <source>Repeats forever</source>
-        <translation/>
+        <translation>Se répète indéfiniment</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="991"/>
@@ -442,42 +442,42 @@
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>10 minutes avant...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>15 minutes avant</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>30 minutes avant</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>1 heure avant</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>2 heures avant</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>1 jour avant</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>2 jours avant</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>1 semaine avant</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1175"/>
@@ -510,7 +510,7 @@
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="98"/>
         <source>Repeats forever</source>
-        <translation/>
+        <translation>Répéter indéfiniment</translation>
     </message>
     <message>
         <location filename="../../lib/repeatlistmodel.cpp" line="99"/>
@@ -693,7 +693,7 @@
     <message>
         <location filename="../../main.qml" line="88"/>
         <source>Delete event?</source>
-        <translation/>
+        <translation>Supprimer l&apos;événement ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="92"/>

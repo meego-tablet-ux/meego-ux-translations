@@ -19,22 +19,22 @@
     <message>
         <location filename="../../MusicListView.qml" line="51"/>
         <source>Playlist name</source>
-        <translation/>
+        <translation>Nome da lista de reprodução</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="53"/>
         <source>Artist name</source>
-        <translation/>
+        <translation>Nome do artista</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="55"/>
         <source>Album name</source>
-        <translation/>
+        <translation>Nome do álbum</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="56"/>
         <source>Track name</source>
-        <translation/>
+        <translation>Nome da faixa</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="71"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Play queue</source>
-        <translation/>
+        <translation>Fila de reprodução</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>All tracks</source>
-        <translation/>
+        <translation>Todas as músicas</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Open album</source>
-        <translation/>
+        <translation>Abrir álbum</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
@@ -186,7 +186,7 @@
     <message>
         <location filename="../../main.qml" line="50"/>
         <source>Remove from queue</source>
-        <translation/>
+        <translation>Remover da fila de reprodução</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="51"/>
@@ -206,22 +206,22 @@
     <message>
         <location filename="../../main.qml" line="54"/>
         <source>Clear playlist</source>
-        <translation/>
+        <translation>Apagar lista de reprodução</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="56"/>
         <source>%1 items</source>
-        <translation/>
+        <translation>%1 itens</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="57"/>
         <source>%1 album</source>
-        <translation/>
+        <translation>%1 álbum</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="58"/>
         <source>%1 tracks</source>
-        <translation/>
+        <translation>%1 músicas</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="60"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../../main.qml" line="64"/>
         <source>By date</source>
-        <translation/>
+        <translation>Por data</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="66"/>
@@ -266,17 +266,17 @@
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>Select multiple songs</source>
-        <translation/>
+        <translation>Escolher diversas músicas</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
         <source>Where is all the music?</source>
-        <translation/>
+        <translation>Onde é que estão as músicas?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="75"/>
         <source>Buy, download or copy your music onto your tablet, then you can enjoy listening to it from here.</source>
-        <translation/>
+        <translation>Compre, transfira, copie e oiça as músicas no seu tablet </translation>
     </message>
     <message>
         <location filename="../../main.qml" line="639"/>
@@ -312,7 +312,7 @@
         <location filename="../../main.qml" line="735"/>
         <location filename="../../main.qml" line="778"/>
         <source>Invalid characters: %1</source>
-        <translation/>
+        <translation>Caracteres inválidos: %1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1785"/>

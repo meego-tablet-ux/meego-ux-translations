@@ -68,12 +68,12 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="274"/>
         <source>%1 photos</source>
-        <translation/>
+        <translation>%1 fotografie</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="284"/>
         <source>Created %1</source>
-        <translation/>
+        <translation>Vytvořeno %1</translation>
     </message>
 </context>
 </TS>

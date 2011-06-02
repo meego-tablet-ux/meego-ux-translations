@@ -264,13 +264,13 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="50"/>
         <source>%1/%2/%3 - %4</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is day name</comment>
-        <translation>%2/%1/%3 - %4</translation>
+        <translation>%1/%2/%3 - %4</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="56"/>
         <source>%1/%2/%3 - Last week</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%2/%1/%3 - Last week</translation>
+        <translation>%1/%2/%3 - Last week</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="61"/>

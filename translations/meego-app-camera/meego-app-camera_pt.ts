@@ -22,17 +22,17 @@
     <message>
         <location filename="../plugin/viewfinder.cpp" line="358"/>
         <source>Auto</source>
-        <translation/>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="../plugin/viewfinder.cpp" line="360"/>
         <source>Off</source>
-        <translation/>
+        <translation>Desligada</translation>
     </message>
     <message>
         <location filename="../plugin/viewfinder.cpp" line="361"/>
         <source>On</source>
-        <translation/>
+        <translation>Ligada</translation>
     </message>
 </context>
 </TS>

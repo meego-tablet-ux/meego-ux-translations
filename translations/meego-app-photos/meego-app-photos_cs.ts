@@ -75,7 +75,7 @@
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Newest</source>
-        <translation/>
+        <translation>Nejnovější</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>Recently viewed</source>
-        <translation/>
+        <translation>Nedávno prohlížené</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -225,57 +225,57 @@
     <message>
         <location filename="../../main.qml" line="61"/>
         <source>You have no photos</source>
-        <translation/>
+        <translation>Nemáte žádné fotografie</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="62"/>
         <source>You haven&apos;t added any photos recently</source>
-        <translation/>
+        <translation>V poslední době jste nepřidal žádné fotografie</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="63"/>
         <source>You don&apos;t have any favorite photos</source>
-        <translation/>
+        <translation>Nemáte žádné oblíbené fotografie</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="64"/>
         <source>You haven&apos;t viewed any photos recently</source>
-        <translation/>
+        <translation>V poslední době jste si neprohlížel žádné fotografie</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="65"/>
         <source>You have no albums</source>
-        <translation/>
+        <translation>Nemáte žádná alba</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="66"/>
         <source>You haven&apos;t added any albums recently</source>
-        <translation/>
+        <translation>V poslední době jste nepřidal žádná alba</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="67"/>
         <source>You haven&apos;t viewed any albums recently</source>
-        <translation/>
+        <translation>V poslední době jste si neprohlížel žádná alba</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="68"/>
         <source>You don&apos;t have any photos in this album</source>
-        <translation/>
+        <translation>V tomto albu nemáte žádné fotografie</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="70"/>
         <source>Take a photo</source>
-        <translation/>
+        <translation>Udělat fotografii</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="71"/>
         <source>View all photos</source>
-        <translation/>
+        <translation>Zobrazit všechny fotografie</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>Create an album</source>
-        <translation/>
+        <translation>Vytvořit album</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
@@ -291,7 +291,7 @@
         <location filename="../../main.qml" line="250"/>
         <location filename="../../main.qml" line="538"/>
         <source>Show only:</source>
-        <translation/>
+        <translation>Ukázat pouze:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="591"/>

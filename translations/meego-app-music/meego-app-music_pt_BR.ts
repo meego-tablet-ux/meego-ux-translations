@@ -276,7 +276,7 @@
     <message>
         <location filename="../../main.qml" line="75"/>
         <source>Buy, download or copy your music onto your tablet, then you can enjoy listening to it from here.</source>
-        <translation/>
+        <translation>Compe, baixe ou copie suas músicas no seu tablet, então você poderá aproveitar ouvindo-as a aqui.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="639"/>

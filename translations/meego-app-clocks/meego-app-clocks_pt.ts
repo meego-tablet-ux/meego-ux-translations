@@ -17,37 +17,37 @@
     <message>
         <location filename="../../NewAlarmMenu.qml" line="24"/>
         <source>Mo</source>
-        <translation/>
+        <translation>seg</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="25"/>
         <source>Tu</source>
-        <translation/>
+        <translation>terç</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="26"/>
         <source>We</source>
-        <translation/>
+        <translation>qua</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="27"/>
         <source>Th</source>
-        <translation/>
+        <translation>qui</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="28"/>
         <source>Fr</source>
-        <translation/>
+        <translation>sex</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="29"/>
         <source>Sa</source>
-        <translation/>
+        <translation>sáb</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="30"/>
         <source>Su</source>
-        <translation/>
+        <translation>dom</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="32"/>

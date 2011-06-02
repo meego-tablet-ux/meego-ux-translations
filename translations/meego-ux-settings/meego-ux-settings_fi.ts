@@ -53,7 +53,7 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="245"/>
         <source>Properties</source>
-        <translation/>
+        <translation>Ominaisuudet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="250"/>
@@ -68,7 +68,7 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="266"/>
         <source>Icon: %1</source>
-        <translation/>
+        <translation>Kuvake: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="274"/>
@@ -140,7 +140,7 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="16"/>
         <source>Browser</source>
-        <translation/>
+        <translation>Selain</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="105"/>
@@ -184,7 +184,7 @@
         <location filename="../../Wifi/CellularSettings.qml" line="92"/>
         <location filename="../../Wifi/CellularSettings.qml" line="114"/>
         <source>APN</source>
-        <translation/>
+        <translation>APN</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="125"/>
@@ -269,23 +269,23 @@
         <location filename="../../Wifi/ConnectionsSettings.qml" line="26"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>WPA</source>
-        <translation/>
+        <translation>WPA</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="27"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>WPA2</source>
-        <translation/>
+        <translation>WPA2</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="28"/>
         <source>WEP</source>
-        <translation/>
+        <translation>WEP</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="63"/>
         <source>Airplane Mode</source>
-        <translation>Lentokone tila</translation>
+        <translation>Lentokonetila</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="96"/>
@@ -301,27 +301,27 @@
         <location filename="../../Wifi/ConnectionsSettings.qml" line="204"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="218"/>
         <source>Add Network</source>
-        <translation/>
+        <translation>Lisää verkko</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="232"/>
         <source>Network Name:</source>
-        <translation/>
+        <translation>Verkon nimi:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="248"/>
         <source>Security Type:</source>
-        <translation/>
+        <translation>Suojaus:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>none</source>
-        <translation/>
+        <translation>ei mikään</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>wep</source>
-        <translation/>
+        <translation>wep</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="270"/>
@@ -367,22 +367,22 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="7"/>
         <source>General</source>
-        <translation/>
+        <translation>Yleinen</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="33"/>
         <source>Time and Date</source>
-        <translation/>
+        <translation>Aika ja päiväys</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="49"/>
         <source>Sound</source>
-        <translation/>
+        <translation>Ääni</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="55"/>
         <source>%1%</source>
-        <translation/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -410,12 +410,12 @@
         <location filename="../../Browser/HomePageGroup.qml" line="53"/>
         <location filename="../../Browser/HomePageGroup.qml" line="62"/>
         <source>New tab page</source>
-        <translation/>
+        <translation>Uusi välilehti</translation>
     </message>
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="50"/>
         <source>Use the new tab page as home page</source>
-        <translation/>
+        <translation>Käytä Uusi välilehti -sivua kotisivuna</translation>
     </message>
     <message>
         <location filename="../../Browser/HomePageGroup.qml" line="70"/>
@@ -438,22 +438,22 @@
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="66"/>
         <source>Virtual Keyboard:</source>
-        <translation/>
+        <translation>Virtuaalinen näppäimistö:</translation>
     </message>
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="94"/>
         <source>Date format:</source>
-        <translation/>
+        <translation>Päivämäärän muoto:</translation>
     </message>
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="122"/>
         <source>Time format:</source>
-        <translation/>
+        <translation>Ajan muoto:</translation>
     </message>
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="172"/>
         <source>Number Format:</source>
-        <translation/>
+        <translation>Numeroiden muoto:</translation>
     </message>
 </context>
 <context>
@@ -500,13 +500,13 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="237"/>
         <source>completed</source>
         <extracomment>Status message: successfully completed sync job. (PLACEHOLDER)</extracomment>
-        <translation/>
+        <translation>suoritettu</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="244"/>
         <source>finished</source>
         <extracomment>Sync finished with potential(?) error.</extracomment>
-        <translation/>
+        <translation>valmis</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="249"/>
@@ -572,13 +572,13 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="343"/>
         <source>Last sync %1</source>
         <extracomment>Arg 1 is a &quot;fuzzy time&quot;, e.g. &quot;2 min ago&quot;.</extracomment>
-        <translation/>
+        <translation>Viimeisin synkronointi %1</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="349"/>
         <source>Last sync failed: %1</source>
         <extracomment>Arg 1 is a brief sync error description, e.g. &quot;connection failed&quot;.</extracomment>
-        <translation/>
+        <translation>Viimeisin synkronointi epäonnisui: %1</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="403"/>
@@ -608,13 +608,13 @@
         <location filename="../../Sync/FrameworkClient.cpp" line="528"/>
         <source>Sync started</source>
         <extracomment>Status message: sync job started</extracomment>
-        <translation/>
+        <translation>Synkronointi aloitettu</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="534"/>
         <source>Syncing now...</source>
         <extracomment>Status message: Sync in-progress</extracomment>
-        <translation/>
+        <translation>Synkronoidaan...</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="546"/>
@@ -623,25 +623,25 @@
         <extracomment>Status message: Sync job completed
 ----------
 Status message: successfully completed sync job.</extracomment>
-        <translation/>
+        <translation>Synkronointi valmis</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="552"/>
         <source>Sync aborted</source>
         <extracomment>Sync explicitly stopped.</extracomment>
-        <translation/>
+        <translation>Synkronointi keskeytetty</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="559"/>
         <source>Unknown sync status</source>
         <extracomment>Status message: Displayed when an unknown/unhandled error occurs.</extracomment>
-        <translation/>
+        <translation>Synkronoinnin tila tuntematon</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="585"/>
         <source>Sync failed: %1</source>
         <extracomment>Sync result message. The argument provides the error details.</extracomment>
-        <translation/>
+        <translation>Synkroointi epäonnistui: %1</translation>
     </message>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="589"/>
@@ -688,7 +688,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="45"/>
         <source>By default, phone and messaging notifications will be shown on the lockscreen.</source>
-        <translation>Oletuksena, puhelu- ja viestihuomautukset näytetään lukitusnäytössä.</translation>
+        <translation>Oletuksena puhelu- ja viestihuomautukset näytetään lukitusnäytössä.</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="64"/>
@@ -933,7 +933,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Sync/SyncDetails.qml" line="142"/>
         <source>Sync now</source>
         <extracomment>Text displayed in &quot;sync now&quot; button.</extracomment>
-        <translation/>
+        <translation>Synkronoi nyt</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="165"/>
@@ -951,7 +951,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Sync/SyncDetails.qml" line="221"/>
         <source>Forget this</source>
         <extracomment>Text displayed in &quot;forget this&quot; button (used to remove current sync account).</extracomment>
-        <translation/>
+        <translation>Unohda tämä</translation>
     </message>
 </context>
 <context>
@@ -969,7 +969,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Sync/SyncListDelegate.qml" line="89"/>
         <source>%1 %2</source>
         <extracomment>Arg 1 is the sync service name (e.g. &quot;Yahoo!&quot;) and arg 2 is the storage name (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;.</extracomment>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -996,7 +996,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Sync/SyncLoginDialog.qml" line="42"/>
         <source>(ex: foo@example.com)</source>
         <extracomment>Username example text. Note: do not translate &quot;example.com&quot;!</extracomment>
-        <translation/>
+        <translation>(esim. erkki@esimerkki.fi)</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="45"/>
@@ -1017,7 +1017,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Sync/SyncMain.qml" line="17"/>
         <source>Sync Settings</source>
         <extracomment>The title of the Sync UI displayed to the user.</extracomment>
-        <translation/>
+        <translation>Synkronointi-asetukset</translation>
     </message>
 </context>
 <context>
@@ -1033,7 +1033,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="35"/>
         <source>What time it is</source>
-        <translation/>
+        <translation>Paljonko kello on</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="107"/>
@@ -1131,7 +1131,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="129"/>
         <source>Failed to Connect</source>
-        <translation/>
+        <translation>Yhteyden muodotaminen epäonnistui</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="132"/>
@@ -1222,7 +1222,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="415"/>
         <source>Setup</source>
-        <translation/>
+        <translation>Asennus</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="426"/>

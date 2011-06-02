@@ -75,7 +75,7 @@
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Newest</source>
-        <translation/>
+        <translation>Recentes</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>Recently viewed</source>
-        <translation/>
+        <translation>Vistas recentemente</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -225,57 +225,57 @@
     <message>
         <location filename="../../main.qml" line="61"/>
         <source>You have no photos</source>
-        <translation/>
+        <translation>Não possui fotos</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="62"/>
         <source>You haven&apos;t added any photos recently</source>
-        <translation/>
+        <translation>Recentemente, não foram adicionadas fotos</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="63"/>
         <source>You don&apos;t have any favorite photos</source>
-        <translation/>
+        <translation>Você não tem fotos favoritas</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="64"/>
         <source>You haven&apos;t viewed any photos recently</source>
-        <translation/>
+        <translation>Recentemente, você não viu quaisquer fotos</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="65"/>
         <source>You have no albums</source>
-        <translation/>
+        <translation>Você não tem álbuns</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="66"/>
         <source>You haven&apos;t added any albums recently</source>
-        <translation/>
+        <translation>Recentemente, não foram adicionados álbuns</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="67"/>
         <source>You haven&apos;t viewed any albums recently</source>
-        <translation/>
+        <translation>Recentemente, você não viu quaisquer álbuns</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="68"/>
         <source>You don&apos;t have any photos in this album</source>
-        <translation/>
+        <translation>Você não tem fotos neste álbum</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="70"/>
         <source>Take a photo</source>
-        <translation/>
+        <translation>Tirar foto</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="71"/>
         <source>View all photos</source>
-        <translation/>
+        <translation>Ver todas as fotos</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>Create an album</source>
-        <translation/>
+        <translation>Criar um álbum</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
@@ -291,7 +291,7 @@
         <location filename="../../main.qml" line="250"/>
         <location filename="../../main.qml" line="538"/>
         <source>Show only:</source>
-        <translation/>
+        <translation>Mostrar:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="591"/>

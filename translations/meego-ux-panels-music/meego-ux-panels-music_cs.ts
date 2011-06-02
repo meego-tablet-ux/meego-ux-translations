@@ -80,17 +80,17 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="285"/>
         <source>Play queue</source>
-        <translation>Přehrát řadu</translation>
+        <translation>Řada skladeb k přehrání</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="338"/>
         <source>Your play queue is empty</source>
-        <translation/>
+        <translation>Vaše řada skladeb k přehrání je prázdná</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="355"/>
         <source>Add music to the play queue</source>
-        <translation/>
+        <translation>Přidat hudbu do řady skladeb k přehrání</translation>
     </message>
 </context>
 </TS>
