@@ -43,6 +43,7 @@ LOCALES = ar \
 	  lo \
 	  lt \
 	  ml \
+	  ms \
 	  nb \
 	  nl \
 	  pa \
