@@ -1,0 +1,31 @@
+OVERVIEW
+========
+
+This repository contains the source/translated TS files for MeeGo UX
+language packs.
+
+
+CONTRIBUTING TRANSLATIONS
+=========================
+
+The toplevel translations/ directory in this repository is a revolving
+snapshot of the MeeGo UX project on Transifex.
+
+This means that *all* translation activity happens on Transifex and
+that Transifex is the upstream source of translations for MeeGo UX
+apps.
+
+To contribute new translations, join a translation team for the MeeGo
+project at https://meego.transifex.net/projects/p/meego/teams/, and
+then navigate to the desired MeeGo UX release to begin translation
+work (see https://meego.transifex.net/projects/p/meego-ux/).
+
+
+RELEASE PROCESS
+===============
+
+To make a new release, run
+
+  $ make dist
+
+in the top-level source directory.
