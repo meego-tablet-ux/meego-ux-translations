@@ -9,12 +9,12 @@
     <message>
         <location filename="../../Media/MediaGridView.qml" line="171"/>
         <source>Recently viewed</source>
-        <translation/>
+        <translation>Vistos de recién</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="172"/>
         <source>Newest</source>
-        <translation/>
+        <translation>Lo más nuevo</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="173"/>

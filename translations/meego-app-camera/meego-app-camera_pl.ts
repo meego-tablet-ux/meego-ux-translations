@@ -9,7 +9,7 @@
     <message>
         <location filename="../NoSpaceDialog.qml" line="15"/>
         <source>Open Photos</source>
-        <translation/>
+        <translation>Otwórz zdjęcia</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="18"/>
@@ -22,17 +22,17 @@
     <message>
         <location filename="../plugin/viewfinder.cpp" line="358"/>
         <source>Auto</source>
-        <translation/>
+        <translation>Automatycznie</translation>
     </message>
     <message>
         <location filename="../plugin/viewfinder.cpp" line="360"/>
         <source>Off</source>
-        <translation/>
+        <translation>Wył.</translation>
     </message>
     <message>
         <location filename="../plugin/viewfinder.cpp" line="361"/>
         <source>On</source>
-        <translation/>
+        <translation>Wł.</translation>
     </message>
 </context>
 </TS>

@@ -9,7 +9,7 @@
     <message>
         <location filename="../../AlbumsView.qml" line="30"/>
         <source>Play slideshow</source>
-        <translation>Воспроизвести слайдшоу</translation>
+        <translation>Воспроизвести слайд-шоу</translation>
     </message>
     <message>
         <location filename="../../AlbumsView.qml" line="31"/>
@@ -32,7 +32,7 @@
     <message>
         <location filename="../../PhotosView.qml" line="38"/>
         <source>Play slideshow</source>
-        <translation>Воспроизвести слайдшоу</translation>
+        <translation>Воспроизвести слайд-шоу</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="39"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Newest</source>
-        <translation/>
+        <translation>Новые</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>Recently viewed</source>
-        <translation/>
+        <translation>Недавно просмотренные</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -120,7 +120,7 @@
     <message>
         <location filename="../../main.qml" line="38"/>
         <source>Play slideshow</source>
-        <translation>Воспроизвести слайдшоу</translation>
+        <translation>Воспроизвести слайд-шоу</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
@@ -205,77 +205,77 @@
     <message>
         <location filename="../../main.qml" line="55"/>
         <source>View by:</source>
-        <translation/>
+        <translation>Просмотрено:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="57"/>
         <source>Are you sure you want to delete this photo?</source>
-        <translation>Вы действительно хотите удалить эту фотографию?</translation>
+        <translation>Действительно удалить эту фотографию?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="58"/>
         <source>Are you sure you want to delete the %1 selected photos?</source>
-        <translation>Вы действительно хотите удалить %1 выбранных фотографий?</translation>
+        <translation>Действительно удалить %1 выбранных фотографий?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="59"/>
         <source>Are you sure you want to delete this album?</source>
-        <translation>Вы действительно хотите удалить этот альбом?</translation>
+        <translation>Действительно удалить этот альбом?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="61"/>
         <source>You have no photos</source>
-        <translation/>
+        <translation>Нет фотографий</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="62"/>
         <source>You haven&apos;t added any photos recently</source>
-        <translation/>
+        <translation>Вы не добавляли фотографии</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="63"/>
         <source>You don&apos;t have any favorite photos</source>
-        <translation/>
+        <translation>У вас нет изобранных фотографий</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="64"/>
         <source>You haven&apos;t viewed any photos recently</source>
-        <translation/>
+        <translation>Вы не просматривали фотографии</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="65"/>
         <source>You have no albums</source>
-        <translation/>
+        <translation>У вас нет альбомов</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="66"/>
         <source>You haven&apos;t added any albums recently</source>
-        <translation/>
+        <translation>Вы не добавляли альбомы</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="67"/>
         <source>You haven&apos;t viewed any albums recently</source>
-        <translation/>
+        <translation>Вы не просматривали альбомы</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="68"/>
         <source>You don&apos;t have any photos in this album</source>
-        <translation/>
+        <translation>В этом альбоме нет фотографий</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="70"/>
         <source>Take a photo</source>
-        <translation/>
+        <translation>Сделать фотоснимок</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="71"/>
         <source>View all photos</source>
-        <translation/>
+        <translation>Показать все фотографии</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>Create an album</source>
-        <translation/>
+        <translation>Создать альбом</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
@@ -291,7 +291,7 @@
         <location filename="../../main.qml" line="250"/>
         <location filename="../../main.qml" line="538"/>
         <source>Show only:</source>
-        <translation/>
+        <translation>Показать только:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="591"/>
@@ -301,7 +301,7 @@
     <message>
         <location filename="../../main.qml" line="603"/>
         <source>Album name</source>
-        <translation/>
+        <translation>Название альбома</translation>
     </message>
 </context>
 </TS>

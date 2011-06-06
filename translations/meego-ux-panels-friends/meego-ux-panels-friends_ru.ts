@@ -22,17 +22,17 @@
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="35"/>
         <source>Friends settings</source>
-        <translation>Друзья: настройки</translation>
+        <translation>Друзья: параметры</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="36"/>
         <source>Friends panel content</source>
-        <translation/>
+        <translation>Содержимое панели друзей</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="134"/>
         <source>You have no web accounts enabled - tap here to configure your web accounts.</source>
-        <translation>У вас нет активных учетных веб-записей</translation>
+        <translation>У вас нет активных учётных веб-записей</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="143"/>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="371"/>
         <source>Go to settings</source>
-        <translation>Перейти к настройкам</translation>
+        <translation>Перейти к параметрам</translation>
     </message>
 </context>
 </TS>

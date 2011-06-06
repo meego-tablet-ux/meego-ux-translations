@@ -16,17 +16,17 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="82"/>
         <source>Photos</source>
-        <translation>Фотографии</translation>
+        <translation>Фото</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="99"/>
         <source>Photos settings</source>
-        <translation>Настройки фото</translation>
+        <translation>Фото: параметры</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="100"/>
         <source>Photos panel content</source>
-        <translation/>
+        <translation>Содержимое панели фото</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="128"/>
@@ -68,12 +68,12 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="274"/>
         <source>%1 photos</source>
-        <translation/>
+        <translation>Фото: %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="284"/>
         <source>Created %1</source>
-        <translation/>
+        <translation>Создано %1</translation>
     </message>
 </context>
 </TS>

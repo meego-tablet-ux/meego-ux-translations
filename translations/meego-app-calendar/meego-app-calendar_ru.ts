@@ -57,22 +57,22 @@
     <message>
         <location filename="../../CalendarDayView.qml" line="16"/>
         <source>Day</source>
-        <translation/>
+        <translation>День</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="24"/>
         <source>Create new event</source>
-        <translation/>
+        <translation>Создать новое событие</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="24"/>
         <source>Go to today</source>
-        <translation/>
+        <translation>Сегодня</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="24"/>
         <source>Go to date</source>
-        <translation/>
+        <translation>Перейти к дате</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="339"/>
@@ -123,7 +123,7 @@
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="124"/>
         <source>%1 more events</source>
-        <translation/>
+        <translation>Ещё событий: %1</translation>
     </message>
 </context>
 <context>
@@ -131,22 +131,22 @@
     <message>
         <location filename="../../CalendarMonthView.qml" line="16"/>
         <source>Month</source>
-        <translation/>
+        <translation>Месяц</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="25"/>
         <source>Create new event</source>
-        <translation/>
+        <translation>Создать мероприятие</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="25"/>
         <source>Go to today</source>
-        <translation/>
+        <translation>Сегодня</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="25"/>
         <source>Go to date</source>
-        <translation/>
+        <translation>Перейти к дате</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="527"/>
@@ -165,22 +165,22 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="16"/>
         <source>Week</source>
-        <translation/>
+        <translation>Неделя</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="24"/>
         <source>Create new event</source>
-        <translation/>
+        <translation>Создать новое мероприятие</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="24"/>
         <source>Go to today</source>
-        <translation/>
+        <translation>Сегодня</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="24"/>
         <source>Go to date</source>
-        <translation/>
+        <translation>Перейти к дате</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="58"/>
@@ -193,7 +193,7 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="310"/>
         <source>All Day</source>
-        <translation/>
+        <translation>Весь день</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="353"/>
@@ -231,24 +231,24 @@
     <message>
         <location filename="../../EventDetailsView.qml" line="42"/>
         <source>All day</source>
-        <translation/>
+        <translation>Все дни</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="44"/>
         <source>%1, %2 - %3</source>
         <comment>Event StartDate, StartTime - EndTime </comment>
-        <translation/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="128"/>
         <source>%1 %2</source>
         <comment>Repeats frequency</comment>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="128"/>
         <source>Repeats</source>
-        <translation/>
+        <translation>Повторы</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="194"/>
@@ -300,13 +300,13 @@
         <location filename="../../MultipleEventsPopup.qml" line="128"/>
         <source>%1 - %2</source>
         <comment>StartTime - EndTime</comment>
-        <translation/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="157"/>
         <source>%1, %2</source>
         <comment>Event StartDate, Start and End Time String</comment>
-        <translation/>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="186"/>
@@ -385,48 +385,48 @@
     <message>
         <location filename="../../NewEventView.qml" line="935"/>
         <source>Every day</source>
-        <translation/>
+        <translation>Каждый день</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="935"/>
         <source>Every week</source>
-        <translation/>
+        <translation>Каждую неделю</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="935"/>
         <source>Every 2 weeks</source>
-        <translation/>
+        <translation>Каждые 2 недели</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="935"/>
         <source>Every month</source>
-        <translation/>
+        <translation>Каждый месяц</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="935"/>
         <source>Every year</source>
-        <translation/>
+        <translation>Каждый год</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="935"/>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>Other...</source>
-        <translation/>
+        <translation>Другое...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="991"/>
         <source>Repeats forever</source>
-        <translation/>
+        <translation>Повторять всегда</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="991"/>
         <source>Ends after number of times...</source>
-        <translation/>
+        <translation>Завершить после количества раз...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="991"/>
         <source>Ends after date...</source>
-        <translation/>
+        <translation>Завершить после даты...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1100"/>
@@ -442,42 +442,42 @@
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>10 minutes before</source>
-        <translation/>
+        <translation>За 10 минут</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>15 minutes before</source>
-        <translation/>
+        <translation>За 15 минут</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>30 minutes before</source>
-        <translation/>
+        <translation>За 30 минут</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>1 hour before</source>
-        <translation/>
+        <translation>За 1 час</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>2 hours before</source>
-        <translation/>
+        <translation>За 2 часа</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>1 day before</source>
-        <translation/>
+        <translation>За 1 день</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>2 days before</source>
-        <translation/>
+        <translation>За 2 дня</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1130"/>
         <source>1 week before</source>
-        <translation/>
+        <translation>За 1 неделю</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1175"/>
@@ -693,7 +693,7 @@
     <message>
         <location filename="../../main.qml" line="88"/>
         <source>Delete event?</source>
-        <translation/>
+        <translation>Удалить мероприятие?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="92"/>

@@ -4,7 +4,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelClearButton.qml" line="21"/>
         <source>Clear history</source>
-        <translation/>
+        <translation>Очистить историю</translation>
     </message>
 </context>
 <context>
@@ -12,7 +12,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="43"/>
         <source>Panels</source>
-        <translation/>
+        <translation>Панели</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="46"/>

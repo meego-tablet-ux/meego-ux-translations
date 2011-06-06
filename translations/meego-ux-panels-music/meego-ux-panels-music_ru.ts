@@ -5,13 +5,13 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="52"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="226"/>
         <source>Recently played</source>
-        <translation>Недавно воспроизведено</translation>
+        <translation>Недавно воспроизводилось</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="53"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="388"/>
         <source>Playlists</source>
-        <translation>Плейлисты</translation>
+        <translation>Списки воспроизведений</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="83"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="101"/>
         <source>Music settings</source>
-        <translation>Музыка: настройки</translation>
+        <translation>Параметры музыки</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="102"/>
         <source>Music panel content</source>
-        <translation/>
+        <translation>Содержимое панели музыки</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="158"/>
@@ -85,12 +85,12 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="338"/>
         <source>Your play queue is empty</source>
-        <translation/>
+        <translation>Очередь воспроизведения пуста</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="355"/>
         <source>Add music to the play queue</source>
-        <translation/>
+        <translation>Добавить музыку в очередь воспроизведения</translation>
     </message>
 </context>
 </TS>

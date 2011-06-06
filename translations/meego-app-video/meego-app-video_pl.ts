@@ -4,27 +4,27 @@
     <message>
         <location filename="../../main.qml" line="21"/>
         <source>Videos</source>
-        <translation/>
+        <translation>Filmy</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="22"/>
         <source>All</source>
-        <translation>Wszystko</translation>
+        <translation>Wszystkie</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="23"/>
         <source>Recently added</source>
-        <translation/>
+        <translation>Ostatnio dodane</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="24"/>
         <source>Recently viewed</source>
-        <translation/>
+        <translation>Ostatnio oglądane</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="25"/>
         <source>Unwatched</source>
-        <translation>Nie oglądane</translation>
+        <translation>Nieoglądane</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="26"/>
@@ -40,7 +40,7 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
@@ -55,49 +55,49 @@
     <message>
         <location filename="../../main.qml" line="38"/>
         <source>Unfavorite</source>
-        <translation>Nie ulubione</translation>
+        <translation>Usuń z ulubionych</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Share</source>
-        <translation/>
+        <translation>Udostępnij</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
         <source>Select multiple videos</source>
-        <translation/>
+        <translation>Wybierz wiele filmów</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="98"/>
         <location filename="../../main.qml" line="346"/>
         <source>All (%1 videos)</source>
-        <translation/>
+        <translation>Wszystkie (%1 filmów)</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="166"/>
         <source>Video name</source>
-        <translation/>
+        <translation>Nazwa filmu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="172"/>
         <location filename="../../main.qml" line="663"/>
         <source>If you delete this, it will be removed from your device</source>
-        <translation/>
+        <translation>Jeśli je usuniesz, zostanie na trwałe usunięte z urządzenia</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="184"/>
         <source>Permanently delete this video?</source>
-        <translation>Usunąć trwale ten film?</translation>
+        <translation>Trwale usunąć ten film?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="184"/>
         <source>Permanently delete these %1 videos?</source>
-        <translation/>
+        <translation>Trwale usunąć %1 filmów?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="199"/>
         <source>If you delete these, they will be removed from your device</source>
-        <translation/>
+        <translation>Jeśli je usuniesz, zostaną na trwałe usunięte z urządzenia</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="413"/>

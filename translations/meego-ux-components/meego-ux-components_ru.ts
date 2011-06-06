@@ -6,19 +6,19 @@
         <location filename="../../src/components/common/CCPContextArea.qml" line="230"/>
         <location filename="../../src/components/common/CCPContextArea.qml" line="233"/>
         <source>Copy</source>
-        <translation/>
+        <translation>Копировать</translation>
     </message>
     <message>
         <location filename="../../src/components/common/CCPContextArea.qml" line="227"/>
         <location filename="../../src/components/common/CCPContextArea.qml" line="233"/>
         <source>Paste</source>
-        <translation/>
+        <translation>Вставить</translation>
     </message>
     <message>
         <location filename="../../src/components/common/CCPContextArea.qml" line="230"/>
         <location filename="../../src/components/common/CCPContextArea.qml" line="233"/>
         <source>Cut</source>
-        <translation/>
+        <translation>Вырезать</translation>
     </message>
 </context>
 <context>
@@ -26,37 +26,37 @@
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="202"/>
         <source>Sun</source>
-        <translation/>
+        <translation>Вс</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="203"/>
         <source>Mon</source>
-        <translation/>
+        <translation>Пн</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="204"/>
         <source>Tue</source>
-        <translation/>
+        <translation>Вт</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="205"/>
         <source>Wed</source>
-        <translation/>
+        <translation>Ср</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="206"/>
         <source>Thu</source>
-        <translation/>
+        <translation>Чт</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="207"/>
         <source>Fri</source>
-        <translation/>
+        <translation>Пт</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="208"/>
         <source>Sat</source>
-        <translation/>
+        <translation>Сб</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="210"/>
@@ -202,18 +202,18 @@
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="781"/>
         <source>%1 %2</source>
-        <translation/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="871"/>
         <source>firstDayInWeek</source>
         <extracomment>handles with which day the calendar grid starts. Type monday, tuesday, wednesday, thursday, friday, saturday or sunday, without capital letters</extracomment>
-        <translation/>
+        <translation>monday</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="1000"/>
         <source>Today</source>
-        <translation/>
+        <translation>Сегодня</translation>
     </message>
 </context>
 <context>
@@ -320,12 +320,12 @@
     <message>
         <location filename="../../src/components/common/ModalDialog.qml" line="146"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Отменить</translation>
     </message>
     <message>
         <location filename="../../src/components/common/ModalDialog.qml" line="147"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../src/components/common/ModalDialog.qml" line="301"/>
@@ -338,12 +338,12 @@
     <message>
         <location filename="../../src/components/media/MucMediaGridView.qml" line="327"/>
         <source>%1 Minute</source>
-        <translation/>
+        <translation>%1 мин.</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MucMediaGridView.qml" line="327"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 мин.</translation>
     </message>
 </context>
 <context>
@@ -376,17 +376,17 @@
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="361"/>
         <source>Back</source>
-        <translation/>
+        <translation>Назад</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="381"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="399"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Отменить</translation>
     </message>
 </context>
 <context>
@@ -408,7 +408,7 @@
         <location filename="../../src/components/common/ProgressBar.qml" line="102"/>
         <location filename="../../src/components/common/ProgressBar.qml" line="120"/>
         <source>%1%</source>
-        <translation/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -426,7 +426,7 @@
     <message>
         <location filename="../../src/components/common/ScrollableMusicList.qml" line="186"/>
         <source>%1:%2</source>
-        <translation/>
+        <translation>%1:%2</translation>
     </message>
 </context>
 <context>
@@ -434,7 +434,7 @@
     <message>
         <location filename="../../src/components/indicators/StatusBar.qml" line="111"/>
         <source>%1: %2</source>
-        <translation/>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -447,7 +447,7 @@
     <message>
         <location filename="../../src/components/datetime/TimePicker.qml" line="138"/>
         <source>%1:%2 %3</source>
-        <translation/>
+        <translation>%1:%2 %3</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/TimePicker.qml" line="227"/>

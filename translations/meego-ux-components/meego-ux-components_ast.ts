@@ -213,7 +213,7 @@
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="1000"/>
         <source>Today</source>
-        <translation/>
+        <translation>Güei</translation>
     </message>
 </context>
 <context>

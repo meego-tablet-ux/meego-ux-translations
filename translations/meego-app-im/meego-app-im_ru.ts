@@ -4,22 +4,22 @@
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="122"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>Подключено несколько учётных записей</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="123"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>Действительно подключить эту уч. запись? При подключении все другие (%1) уч. записи будут отключены.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="195"/>
         <source>There is already an account configured using this login. Please check your username.</source>
-        <translation/>
+        <translation>Уже есть учётная запись с таким именем. Проверьте имя пользователя.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="196"/>
         <source>Sorry, there was a problem logging in. Please check your username and password.</source>
-        <translation/>
+        <translation>Во время подключения возникла ошибка. Проверьте имя пользователя и пароль.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="212"/>
@@ -44,7 +44,7 @@
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="260"/>
         <source>Advanced settings</source>
-        <translation>Расширенные настройки</translation>
+        <translation>Дополнительные параметры</translation>
     </message>
 </context>
 <context>
@@ -65,12 +65,12 @@
     <message>
         <location filename="../../AccountDelegate.qml" line="120"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>Подключено несколько учётных записей</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="121"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>Действительно подключить эту уч. запись? При подключении все другие (%1) уч. записи будут отключены.</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="183"/>
@@ -94,12 +94,12 @@
         <location filename="../../AccountOffline.qml" line="27"/>
         <location filename="../../AccountOffline.qml" line="64"/>
         <source>Account is offline</source>
-        <translation>Учетная запись находится в режиме офлайн</translation>
+        <translation>Учётная запись находится в автономном режиме</translation>
     </message>
     <message>
         <location filename="../../AccountOffline.qml" line="67"/>
         <source>Account is connecting</source>
-        <translation/>
+        <translation>Учётная запись подключена</translation>
     </message>
 </context>
 <context>
@@ -107,17 +107,17 @@
     <message>
         <location filename="../../AccountScreenContent.qml" line="15"/>
         <source>Account list</source>
-        <translation>Список учетных записей</translation>
+        <translation>Список учётных записей</translation>
     </message>
     <message>
         <location filename="../../AccountScreenContent.qml" line="67"/>
         <source>Choose an account</source>
-        <translation>Выбрать учетную запись</translation>
+        <translation>Выбрать учётную запись</translation>
     </message>
     <message>
         <location filename="../../AccountScreenContent.qml" line="97"/>
         <source>Add an account</source>
-        <translation>Добавить учетную запись</translation>
+        <translation>Добавить учётную запись</translation>
     </message>
 </context>
 <context>
@@ -136,12 +136,12 @@
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="80"/>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="96"/>
         <source>Delete account</source>
-        <translation>Удалить учетную запись</translation>
+        <translation>Удалить учётную запись</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="94"/>
         <source>Are you sure to delete this account?</source>
-        <translation/>
+        <translation>Действительно удалить эту учётную запись?</translation>
     </message>
 </context>
 <context>
@@ -149,7 +149,7 @@
     <message>
         <location filename="../../AddAFriend.qml" line="52"/>
         <source>Friend&apos;s username</source>
-        <translation/>
+        <translation>Имя пользователя друга</translation>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="73"/>
@@ -169,7 +169,7 @@
     <message>
         <location filename="../../AddAFriend.qml" line="118"/>
         <source>Your device is not connected to a network. Please connect and try again.</source>
-        <translation>Ваше устройство не подключено к сети. Подключитесь и попробуйте еще раз.</translation>
+        <translation>Ваше устройство не подключено к сети. Подключитесь и попробуйте ещё раз.</translation>
     </message>
 </context>
 <context>
@@ -183,7 +183,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="176"/>
         <source>Account not found. Please enter a valid account name.</source>
-        <translation>Учетная запись не найдена. Укажите правильное название учетной записи.</translation>
+        <translation>Учётная запись не найдена. Укажите правильное имя учётной записи</translation>
     </message>
 </context>
 <context>
@@ -191,7 +191,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="116"/>
         <source>Unable to create media call for contact %1</source>
-        <translation>Невозможно создать медиавызов для контакта %1</translation>
+        <translation>Не удалось создать медиа-вызов для контакта %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="165"/>
@@ -353,12 +353,12 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="239"/>
         <source>Your Status:</source>
-        <translation/>
+        <translation>Ваш статус:</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="315"/>
         <source>Custom status message</source>
-        <translation/>
+        <translation>Другое сообщение о состоянии</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="340"/>
@@ -369,12 +369,12 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="355"/>
         <source>Change display name</source>
-        <translation/>
+        <translation>Изменить отображаемое имя</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="449"/>
         <source>Display name</source>
-        <translation/>
+        <translation>Отображаемое имя</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="488"/>
@@ -384,7 +384,7 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="560"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>Очистить журнал беседы</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="573"/>
@@ -399,12 +399,12 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="623"/>
         <source>Multiple accounts connected</source>
-        <translation/>
+        <translation>Подключено несколько учётных записей</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="624"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation>Действительно подключить эту уч. запись? При подключении все другие (%1) уч. записи будут отключены.</translation>
     </message>
 </context>
 <context>
@@ -412,42 +412,42 @@
     <message>
         <location filename="../../ContactDelegate.qml" line="85"/>
         <source>Return to chat</source>
-        <translation/>
+        <translation>Вернуться к чату</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="86"/>
         <source>Open chat</source>
-        <translation/>
+        <translation>Открыть чат</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="98"/>
         <source>Call</source>
-        <translation/>
+        <translation>Вызов</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="110"/>
         <source>Video call</source>
-        <translation/>
+        <translation>Видеовызов</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="122"/>
         <source>Unblock</source>
-        <translation/>
+        <translation>Разблокировать</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="123"/>
         <source>Block</source>
-        <translation/>
+        <translation>Заблокировать</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="139"/>
         <source>End chat</source>
-        <translation/>
+        <translation>Закончить беседу</translation>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="150"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation>Удалить контакт</translation>
     </message>
 </context>
 <context>
@@ -473,32 +473,32 @@
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="129"/>
         <source>Available</source>
-        <translation/>
+        <translation>Доступен</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="131"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Занят</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="133"/>
         <source>Away</source>
-        <translation/>
+        <translation>Ушёл</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="135"/>
         <source>Extended away</source>
-        <translation/>
+        <translation>Расширенный статус об отсутствии</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="137"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Не в сти</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="139"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>Невидимый</translation>
     </message>
 </context>
 <context>
@@ -506,7 +506,7 @@
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="45"/>
         <source>Friend request from</source>
-        <translation/>
+        <translation>Запрос на дружбу</translation>
     </message>
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="73"/>
@@ -524,7 +524,7 @@
     <message>
         <location filename="../../ContactsScreenContent.qml" line="165"/>
         <source>Add a friend</source>
-        <translation/>
+        <translation>Добавить друга</translation>
     </message>
 </context>
 <context>
@@ -584,7 +584,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="257"/>
         <source>%1 joined the chat</source>
-        <translation/>
+        <translation>%1 присоединился к чату</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="272"/>
@@ -604,12 +604,12 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="281"/>
         <source>%1 left the chat</source>
-        <translation/>
+        <translation>%1 покинул чат</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="289"/>
         <source>%1 has paused typing</source>
-        <translation>%1 в данный момент не печатает</translation>
+        <translation>%1 приостановил печать</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="297"/>
@@ -672,7 +672,7 @@
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="334"/>
         <source>Add as friend?</source>
-        <translation>Добавить в качестве друга?</translation>
+        <translation>Добавить как друга?</translation>
     </message>
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="474"/>
@@ -703,32 +703,32 @@
     <message>
         <location filename="../../settings/ImSettings.qml" line="98"/>
         <source>Accounts</source>
-        <translation>Учетные записи</translation>
+        <translation>Учётные записи</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="127"/>
         <source>Add another account</source>
-        <translation>Добавить еще одну учетную запись</translation>
+        <translation>Добавить еще одну учётную запись</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="144"/>
         <source>General Settings</source>
-        <translation>Общие настройки</translation>
+        <translation>Общие параметры</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="166"/>
         <source>Show offline contacts</source>
-        <translation>Показать контакты вне сети</translation>
+        <translation>Показывать контакты не в сети</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="204"/>
         <source>Notification on new message</source>
-        <translation>Оповещение о новом сообщении</translation>
+        <translation>Уведомление о новом сообщении</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="241"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>Очистить журнал беседы</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="265"/>
@@ -741,7 +741,7 @@
     <message>
         <location filename="../../IncomingCall.qml" line="16"/>
         <source>Incoming Call</source>
-        <translation>Входящий звонок</translation>
+        <translation>Входящий вызов</translation>
     </message>
     <message>
         <location filename="../../IncomingCall.qml" line="18"/>
@@ -787,7 +787,7 @@
     <message>
         <location filename="../../LoadingAccounts.qml" line="28"/>
         <source>Loading accounts</source>
-        <translation/>
+        <translation>Загрузка учётных записей</translation>
     </message>
 </context>
 <context>
@@ -795,7 +795,7 @@
     <message>
         <location filename="../../LoadingConversationHistory.qml" line="29"/>
         <source>Loading conversation history</source>
-        <translation/>
+        <translation>Загрузка журнала беседы</translation>
     </message>
 </context>
 <context>
@@ -811,12 +811,12 @@
     <message>
         <location filename="../../MessageContactDelegate.qml" line="50"/>
         <source>Private chat</source>
-        <translation/>
+        <translation>Личная беседа</translation>
     </message>
     <message>
         <location filename="../../MessageContactDelegate.qml" line="54"/>
         <source>Add to contacts</source>
-        <translation/>
+        <translation>Добавить в контакты</translation>
     </message>
 </context>
 <context>
@@ -829,7 +829,7 @@
     <message>
         <location filename="../../MessageContentMenu.qml" line="72"/>
         <source>Clear chat history</source>
-        <translation/>
+        <translation>Очистить журнал беседы</translation>
     </message>
     <message>
         <location filename="../../MessageContentMenu.qml" line="91"/>
@@ -842,32 +842,32 @@
     <message>
         <location filename="../../MessageDelegate.qml" line="109"/>
         <source>(%1)</source>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="125"/>
         <source>Upload canceled:</source>
-        <translation/>
+        <translation>Загрузка отменена:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="127"/>
         <source>Sent:</source>
-        <translation/>
+        <translation>Отправлено:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="129"/>
         <source>Uploading:</source>
-        <translation/>
+        <translation>Загрузка:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="133"/>
         <source>%1 has sent you:</source>
-        <translation/>
+        <translation>%1 отправил:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="135"/>
         <source>%1 is sending you:</source>
-        <translation/>
+        <translation>%1 отправляет:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="147"/>
@@ -878,17 +878,17 @@
     <message>
         <location filename="../../MessageDelegate.qml" line="174"/>
         <source>%1 tried to call - %2</source>
-        <translation/>
+        <translation>%1 пытался дозвониться - %2</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="176"/>
         <source>%1 rejected call - %2</source>
-        <translation/>
+        <translation>%1 отклонил вызов - %2</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="178"/>
         <source>%1 called - duration %2 - %3</source>
-        <translation/>
+        <translation>%1 звонил - продолжительность %2 - %3</translation>
     </message>
 </context>
 <context>
@@ -914,7 +914,7 @@
     <message>
         <location filename="../../NoFriends.qml" line="27"/>
         <source>You haven&apos;t added any friends yet</source>
-        <translation/>
+        <translation>Вы не добавили ни одного друга</translation>
     </message>
 </context>
 <context>
@@ -956,17 +956,17 @@
     <message>
         <location filename="../../SearchHeader.qml" line="48"/>
         <source>%1 matches found</source>
-        <translation/>
+        <translation>Найдено совпадений: %1</translation>
     </message>
     <message>
         <location filename="../../SearchHeader.qml" line="73"/>
         <source>Older</source>
-        <translation/>
+        <translation>Старее</translation>
     </message>
     <message>
         <location filename="../../SearchHeader.qml" line="86"/>
         <source>Newer</source>
-        <translation/>
+        <translation>Новее</translation>
     </message>
 </context>
 <context>
@@ -994,7 +994,7 @@
     <message>
         <location filename="../../SendFileView.qml" line="98"/>
         <source>Contact Details</source>
-        <translation>Контактные данные</translation>
+        <translation>Информация о контакте</translation>
     </message>
 </context>
 <context>
@@ -1010,32 +1010,32 @@
     <message>
         <location filename="../../VideoWindow.qml" line="166"/>
         <source>Call with %1</source>
-        <translation/>
+        <translation>Разговор с %1</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Minimize me</source>
-        <translation/>
+        <translation>Минимальный размер</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Maximize me</source>
-        <translation/>
+        <translation>Максимальный размер</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Disable camera</source>
-        <translation/>
+        <translation>Выключить камеру</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Enable camera</source>
-        <translation/>
+        <translation>Включить камеру</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="421"/>
         <source>Swap camera</source>
-        <translation/>
+        <translation>Поменять камеру</translation>
     </message>
 </context>
 <context>
@@ -1048,42 +1048,42 @@
     <message>
         <location filename="../../main.qml" line="451"/>
         <source>Account switcher</source>
-        <translation>Переключатель учетных записей</translation>
+        <translation>Переключатель учётных записей</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="458"/>
         <source>Available</source>
-        <translation/>
+        <translation>Доступен</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="460"/>
         <source>Busy</source>
-        <translation/>
+        <translation>Занят</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="462"/>
         <source>Away</source>
-        <translation/>
+        <translation>Ушёл</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="464"/>
         <source>Extended away</source>
-        <translation/>
+        <translation>Расширенный статус об отсутствии</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="466"/>
         <source>Offline</source>
-        <translation/>
+        <translation>Не в сети</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="468"/>
         <source>Invisible</source>
-        <translation/>
+        <translation>Невидимый</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="609"/>
         <source>Select contact</source>
-        <translation/>
+        <translation>Выбрать контакт</translation>
     </message>
 </context>
 <context>

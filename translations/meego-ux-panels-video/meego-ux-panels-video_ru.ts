@@ -9,17 +9,17 @@
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="61"/>
         <source>Video settings</source>
-        <translation>Настройки видео</translation>
+        <translation>Параметры видео</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="62"/>
         <source>Video panel content</source>
-        <translation/>
+        <translation>Содержимое панели видео</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="90"/>
         <source>Watch your videos.</source>
-        <translation>Просмотр своих видеофайлов.</translation>
+        <translation>Просмотр видеофайлов.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="99"/>

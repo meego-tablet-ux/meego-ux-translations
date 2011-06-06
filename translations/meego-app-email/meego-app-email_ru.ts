@@ -9,7 +9,7 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="100"/>
         <source>Account description</source>
-        <translation>Описание учетной записи</translation>
+        <translation>Описание учётной записи</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="105"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="124"/>
         <source>Receiving settings</source>
-        <translation>Параметры приема</translation>
+        <translation>Параметры получения</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="125"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="214"/>
         <source>Delete Account</source>
-        <translation>Удалить учетную запись</translation>
+        <translation>Удалить учётную запись</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="225"/>
@@ -96,12 +96,12 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="227"/>
         <source>Delete account</source>
-        <translation>Удалить учетную запись</translation>
+        <translation>Удалить учётную запись</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="228"/>
         <source>Are you sure you want to delete this account?</source>
-        <translation>Вы уверены, что хотите удалить эту учетную запись?</translation>
+        <translation>Вы уверены, что хотите удалить эту учётную запись?</translation>
     </message>
 </context>
 <context>
@@ -117,22 +117,22 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="29"/>
         <source>Accounts</source>
-        <translation>Учетные записи</translation>
+        <translation>Учётные записи</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="46"/>
         <source>Set up new account</source>
-        <translation>Настроить новую учетную запись</translation>
+        <translation>Настроить новую учётную запись</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="59"/>
         <source>General Settings</source>
-        <translation>Общие настройки</translation>
+        <translation>Общие параметры</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="70"/>
         <source>Update:</source>
-        <translation/>
+        <translation>Обновлять:</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="120"/>
@@ -192,7 +192,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="205"/>
         <source>Your changes have been saved.</source>
-        <translation>Ваши изменения сохранены.</translation>
+        <translation>Изменения сохранены.</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="221"/>
@@ -229,7 +229,7 @@
         <location filename="../../AddRecipient.qml" line="46"/>
         <source>Select &quot;%1&quot; recipient</source>
         <extracomment>The contact (e-mail recipient) picker title.</extracomment>
-        <translation/>
+        <translation>Выбрать получателя &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -238,7 +238,7 @@
         <location filename="../../ComposerView.qml" line="185"/>
         <source>Attach a file</source>
         <extracomment>Attach a file (e.g. music, video, photo) to the document being composed.</extracomment>
-        <translation/>
+        <translation>Прикрепить файл</translation>
     </message>
     <message>
         <location filename="../../ComposerView.qml" line="234"/>
@@ -266,12 +266,12 @@
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="29"/>
         <source>Account set up successfully!</source>
-        <translation>Учетная запись успешно настроена!</translation>
+        <translation>Учётная запись успешно настроена!</translation>
     </message>
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="31"/>
         <source>Accounts</source>
-        <translation>Учетные записи</translation>
+        <translation>Учётные записи</translation>
     </message>
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="49"/>
@@ -281,7 +281,7 @@
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="61"/>
         <source>Set up another account?</source>
-        <translation>Настроить еще одну учетную запись?</translation>
+        <translation>Настроить ещё одну учётную запись?</translation>
     </message>
 </context>
 <context>
@@ -289,12 +289,12 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="43"/>
         <source>Account details</source>
-        <translation>Данные учетной записи</translation>
+        <translation>Данные учётной записи</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="46"/>
         <source>Account: %1</source>
-        <translation>Учетная запись: %1</translation>
+        <translation>Учётная запись: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="49"/>
@@ -309,7 +309,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="59"/>
         <source>Receiving:</source>
-        <translation>Прием:</translation>
+        <translation>Получение:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="62"/>
@@ -388,7 +388,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="117"/>
         <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
-        <translation>К сожалению, мы не можем настроить вашу учетную запись автоматически. Укажите данные учетной записи:</translation>
+        <translation>К сожалению, мы не можем настроить вашу учётную запись автоматически. Укажите данные учётной записи:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="139"/>
@@ -398,12 +398,12 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="165"/>
         <source>Manual Edit</source>
-        <translation>Редактирование вручную</translation>
+        <translation>Изменить вручуню</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="168"/>
         <source>Please fill in account details:</source>
-        <translation>Укажите данные учетной записи:</translation>
+        <translation>Укажите данные учётной записи:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="178"/>
@@ -427,19 +427,19 @@
         <location filename="../../EmailHeader.qml" line="116"/>
         <source>To</source>
         <extracomment>The &quot;to&quot; recipient label.</extracomment>
-        <translation/>
+        <translation>Кому</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="141"/>
         <source>Cc</source>
         <extracomment>The Cc (carbon copy) label.</extracomment>
-        <translation/>
+        <translation>Копия</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="165"/>
         <source>Bcc</source>
         <extracomment>The Bcc (blind carbon copy) label.</extracomment>
-        <translation/>
+        <translation>Скрытая копия</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="198"/>
@@ -449,17 +449,17 @@
     <message>
         <location filename="../../EmailHeader.qml" line="233"/>
         <source>Low Priority</source>
-        <translation/>
+        <translation>Низкий приоритет</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="234"/>
         <source>Normal Priority</source>
-        <translation/>
+        <translation>Обычный приоритет</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="235"/>
         <source>High Priority</source>
-        <translation/>
+        <translation>Высокий приоритет</translation>
     </message>
 </context>
 <context>
@@ -475,7 +475,7 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="147"/>
         <source>(%1)</source>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -508,7 +508,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="62"/>
         <source>On %1 %2 wrote:</source>
-        <translation/>
+        <translation>%1 %2 написал: </translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="96"/>
@@ -543,7 +543,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="173"/>
         <source>There are no messages in this folder.</source>
-        <translation/>
+        <translation>В этой папке нет сообщений</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="212"/>
@@ -592,7 +592,7 @@
         <location filename="../../FolderListViewToolbar.qml" line="136"/>
         <source>(%1)</source>
         <extracomment>Arg1 is the number of selected messages</extracomment>
-        <translation/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -600,13 +600,13 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="44"/>
         <source>Receiving settings</source>
-        <translation>Параметры приема</translation>
+        <translation>Параметры получения</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="45"/>
         <location filename="../../settings/ManualScreen.qml" line="92"/>
         <source>You may need to contact your email provider for these settings.</source>
-        <translation>Возможно, вам нужно связаться с поставщиком услуг эл. почты, чтобы получить эти настройки.</translation>
+        <translation>Возможно, вам нужно связаться с поставщиком услуг эл. почты, чтобы получить эти параметры.</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="49"/>
@@ -736,7 +736,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="45"/>
         <source>Warning</source>
-        <translation/>
+        <translation>Внимание</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="50"/>
@@ -769,7 +769,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="37"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="38"/>
@@ -789,7 +789,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="65"/>
         <source>On %1 %2 wrote:</source>
-        <translation/>
+        <translation>%1 %2 написал: </translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="188"/>
@@ -807,7 +807,7 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="35"/>
         <source>Account description:</source>
-        <translation>Описание учетной записи:</translation>
+        <translation>Описание учётной записи:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="43"/>
@@ -859,7 +859,7 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="120"/>
         <source>Please fill in account details:</source>
-        <translation>Укажите данные учетной записи:</translation>
+        <translation>Укажите данные учётной записи:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="132"/>
@@ -909,7 +909,7 @@
     <message>
         <location filename="../../settings/WelcomeScreen.qml" line="32"/>
         <source>Set up your accounts</source>
-        <translation>Настроить учетные записи</translation>
+        <translation>Настроить учётные записи</translation>
     </message>
 </context>
 <context>
@@ -942,7 +942,7 @@
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Go to folder:</source>
-        <translation/>
+        <translation>Перейти к папке:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="57"/>
@@ -964,12 +964,12 @@
         <location filename="../../main.qml" line="136"/>
         <location filename="../../main.qml" line="448"/>
         <source>Account switcher</source>
-        <translation>Переключатель учетных записей</translation>
+        <translation>Переключатель учётных записей</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="159"/>
         <source>On %1 %2 wrote:</source>
-        <translation/>
+        <translation>%1 %2 написал: </translation>
     </message>
     <message>
         <location filename="../../main.qml" line="337"/>
@@ -984,12 +984,12 @@
     <message>
         <location filename="../../main.qml" line="443"/>
         <source>Account list</source>
-        <translation>Список учетных записей</translation>
+        <translation>Список учётных записей</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="472"/>
         <source>Composer</source>
-        <translation>Composer</translation>
+        <translation>Автор</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="518"/>
@@ -1007,17 +1007,17 @@
     <message>
         <location filename="../../settings/settings.js" line="13"/>
         <source>Manual update only</source>
-        <translation>Обновление только вручную</translation>
+        <translation>Обновлять только вручную</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="15"/>
         <source>Update every hour</source>
-        <translation/>
+        <translation>Обновлять каждый час</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="17"/>
         <source>Update every %1 minutes</source>
-        <translation/>
+        <translation>Обновлять раз в %1 мин</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="23"/>
@@ -1048,7 +1048,7 @@
     <message>
         <location filename="../../settings/settings.js" line="71"/>
         <source>Login</source>
-        <translation>Вход на сайт</translation>
+        <translation>Вход</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="72"/>

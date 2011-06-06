@@ -63,7 +63,7 @@
         <location filename="../../qml/CreateCollection.qml" line="148"/>
         <location filename="../../qml/CreateCollection.qml" line="235"/>
         <source>Collection creation: General error</source>
-        <translation/>
+        <translation>Создании коллекции: ошибка</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="155"/>
@@ -96,7 +96,7 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="32"/>
         <source>No album</source>
-        <translation/>
+        <translation>Нет альбомов</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="220"/>
@@ -196,17 +196,17 @@
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>Только вы (личное)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="87"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>Ваши друзья</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="119"/>
         <source>Your family</source>
-        <translation/>
+        <translation>Ваша семья</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="153"/>
@@ -234,17 +234,17 @@
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>Только вы (личное)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="87"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>Ваши друзья</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="119"/>
         <source>Your family</source>
-        <translation/>
+        <translation>Ваша семья</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="153"/>
@@ -272,17 +272,17 @@
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>Только вы (личное)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="87"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>Ваши друзья</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="119"/>
         <source>Your family</source>
-        <translation/>
+        <translation>Ваша семья</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="153"/>
@@ -310,17 +310,17 @@
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation/>
+        <translation>Только вы (личное)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="87"/>
         <source>Your friends</source>
-        <translation/>
+        <translation>Ваши друзья</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="119"/>
         <source>Your family</source>
-        <translation/>
+        <translation>Ваша семья</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="153"/>

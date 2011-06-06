@@ -5,7 +5,7 @@
         <location filename="../../panelsrc/web/webpanel.qml" line="50"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="181"/>
         <source>Recently visited</source>
-        <translation>Недавно посещенные</translation>
+        <translation>Недавно посещённые</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="51"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="127"/>
         <source>Web settings</source>
-        <translation>Веб-настройки </translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="128"/>
         <source>Web panel content</source>
-        <translation/>
+        <translation>Содержимое веб-панели</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="157"/>

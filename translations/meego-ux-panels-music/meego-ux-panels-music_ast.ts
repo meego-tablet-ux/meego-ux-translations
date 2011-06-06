@@ -85,12 +85,12 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="338"/>
         <source>Your play queue is empty</source>
-        <translation/>
+        <translation>La cola de reproducción ta balera</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="355"/>
         <source>Add music to the play queue</source>
-        <translation/>
+        <translation>Amiesta música a la cola de reproducción</translation>
     </message>
 </context>
 </TS>

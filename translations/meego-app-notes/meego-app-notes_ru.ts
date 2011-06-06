@@ -28,7 +28,7 @@
     <message>
         <location filename="../../FontSelector.qml" line="125"/>
         <source>Pick a font</source>
-        <translation/>
+        <translation>Выбрать шрифт</translation>
     </message>
     <message>
         <location filename="../../FontSelector.qml" line="148"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../../InformationDialog.qml" line="82"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../NoteDetail.qml" line="125"/>
         <source>Do you want to Delete this note?</source>
-        <translation/>
+        <translation>Хотите удалить эту заметку?</translation>
     </message>
 </context>
 <context>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../../NotebookSelector.qml" line="107"/>
         <source>Pick a notebook</source>
-        <translation/>
+        <translation>Выбрать записную книжку</translation>
     </message>
 </context>
 <context>
@@ -157,32 +157,32 @@
     <message>
         <location filename="../../NotebooksView.qml" line="72"/>
         <source>Use the default notebook, or make a new one</source>
-        <translation/>
+        <translation>Использовать книжку по умолчанию или создать новую</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="73"/>
         <source>Create a new notebook</source>
-        <translation/>
+        <translation>Создать новую записную книжку</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="74"/>
         <source>What&apos;s a notebook?</source>
-        <translation/>
+        <translation>Что такое записная книжка?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="75"/>
         <source>How do I create notes?</source>
-        <translation/>
+        <translation>Как создать записную книжку?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="76"/>
         <source>A notebook is a collection of notes. Use the default notebook we have created for you, or make a new one.</source>
-        <translation/>
+        <translation>Записная книжка — это набор заметок. Используйте созданную нами записную книжку или создайте новую.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="77"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation/>
+        <translation>Нажмите «Создать первую заметку». </translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="93"/>
@@ -198,17 +198,17 @@
     <message>
         <location filename="../../NotebooksView.qml" line="113"/>
         <source>View by:</source>
-        <translation/>
+        <translation>Вид:</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="119"/>
         <source>All</source>
-        <translation/>
+        <translation>Все</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="119"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>А-Я</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="147"/>
@@ -249,7 +249,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="310"/>
         <source>Rename</source>
-        <translation/>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="369"/>
@@ -270,17 +270,17 @@
         <location filename="../../NotebooksView.qml" line="389"/>
         <location filename="../../NotebooksView.qml" line="489"/>
         <source>A NoteBook &apos;%1&apos; already exists.</source>
-        <translation/>
+        <translation>Записная книжка «%1» уже существует.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="413"/>
         <source>Are you sure you want to delete these %1 notebooks?</source>
-        <translation/>
+        <translation>Действительно удалить эти %1 записных книжек?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="414"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
-        <translation/>
+        <translation>Действительно удалить «%1»?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="445"/>
@@ -301,18 +301,18 @@
     <message>
         <location filename="../../NotebooksView.qml" line="449"/>
         <source>&quot;%1&quot; notebooks have been deleted</source>
-        <translation/>
+        <translation>«%1» записных книжек удалено</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="451"/>
         <location filename="../../NotebooksView.qml" line="453"/>
         <source>&quot;%1&quot; has been deleted</source>
-        <translation/>
+        <translation>«%1» удалено</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="477"/>
         <source>Rename NoteBook</source>
-        <translation/>
+        <translation>Переименовать записную книжку</translation>
     </message>
 </context>
 <context>
@@ -320,38 +320,38 @@
     <message>
         <location filename="../../NotesView.qml" line="60"/>
         <source>This notebook is empty</source>
-        <translation/>
+        <translation>Эта записная книжка пуста.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="61"/>
         <source>Create the first note</source>
-        <translation/>
+        <translation>Создать первую заметку</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="62"/>
         <source>How do I create notes?</source>
-        <translation/>
+        <translation>Как создавать заметки?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="63"/>
         <source>Share your notes by email</source>
-        <translation/>
+        <translation>Доступ к заметками через эл. почту</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="64"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation/>
+        <translation>Нажмите «Создать первую заметку». Также можно нажать на значок в правом углу экрана, затем выбрать «Создать заметку».</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="65"/>
         <source>To send a note by email, tap and hold the note you want to send, then select &apos;Email&apos;.</source>
-        <translation/>
+        <translation>Чтобы отправить заметку по эл. почте, нажмите и подержите заметку, затем выберите «Эл. почта».</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="82"/>
         <location filename="../../NotesView.qml" line="84"/>
         <source>New Note</source>
-        <translation>Новая заметка</translation>
+        <translation>Создать заметку</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="84"/>
@@ -361,17 +361,17 @@
     <message>
         <location filename="../../NotesView.qml" line="102"/>
         <source>View by:</source>
-        <translation/>
+        <translation>Вид:</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="116"/>
         <source>All</source>
-        <translation/>
+        <translation>Все</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="116"/>
         <source>A-Z</source>
-        <translation/>
+        <translation>А-Я</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="153"/>
@@ -401,7 +401,7 @@
         <location filename="../../NotesView.qml" line="458"/>
         <location filename="../../NotesView.qml" line="482"/>
         <source>Email</source>
-        <translation/>
+        <translation>Эл. почта</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="459"/>
@@ -428,12 +428,12 @@
     <message>
         <location filename="../../NotesView.qml" line="544"/>
         <source>%1 notes have successfully been moved to &quot;%2&quot;</source>
-        <translation/>
+        <translation>%1 записных книжек перемещено в «%2»</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="548"/>
         <source>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</source>
-        <translation/>
+        <translation>«%1» успешно перемещено в «%2»</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="580"/>
@@ -453,17 +453,17 @@
     <message>
         <location filename="../../NotesView.qml" line="600"/>
         <source>A Note &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
-        <translation/>
+        <translation>Заметка &lt;b&gt;&apos;%1&apos;&lt;/b&gt; уже существует.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="627"/>
         <source>Are you sure you want to delete these %1 notes?</source>
-        <translation/>
+        <translation>Действительно удалить эти «%1» заметок?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="628"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
-        <translation/>
+        <translation>Действительно удалить «%1»?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="656"/>
@@ -559,7 +559,7 @@
         <location filename="../../TwoButtonsModalDialog.qml" line="152"/>
         <location filename="../../TwoButtonsModalDialog.qml" line="174"/>
         <source>%1/%2</source>
-        <translation/>
+        <translation>%1/%2</translation>
     </message>
 </context>
 <context>

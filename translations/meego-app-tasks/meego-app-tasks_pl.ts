@@ -14,17 +14,17 @@
     <message>
         <location filename="../../BottomBar.qml" line="23"/>
         <source>Move to (%1)</source>
-        <translation/>
+        <translation>Przenieś do (%1)</translation>
     </message>
     <message>
         <location filename="../../BottomBar.qml" line="24"/>
         <source>Delete (%1)</source>
-        <translation/>
+        <translation>Usuń (%1)</translation>
     </message>
     <message>
         <location filename="../../BottomBar.qml" line="25"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -41,7 +41,7 @@
     <message>
         <location filename="../../CreateNewTaskRow.qml" line="17"/>
         <source>Tap to add task</source>
-        <translation/>
+        <translation>Dotknij by dodać zadanie</translation>
     </message>
     <message>
         <location filename="../../CreateNewTaskRow.qml" line="28"/>
@@ -55,27 +55,27 @@
     <message>
         <location filename="../../TaskListPicker.qml" line="102"/>
         <source>Create a new list</source>
-        <translation/>
+        <translation>Stwórz nową listę</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="128"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="129"/>
         <source>Cancel</source>
-        <translation/>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="130"/>
         <source>Please name the new list</source>
-        <translation/>
+        <translation>Podaj nazwę nowej listy</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="135"/>
         <source>List name</source>
-        <translation/>
+        <translation>Nazwa listy</translation>
     </message>
 </context>
 <context>
@@ -88,27 +88,27 @@
     <message>
         <location filename="../../TaskListView.qml" line="250"/>
         <source>%1 tasks</source>
-        <translation/>
+        <translation>%1 zadań</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="537"/>
         <source>No</source>
-        <translation/>
+        <translation>Nie</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="538"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Tak</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="543"/>
         <source>Are you sure you want to delete these %1 tasks?</source>
-        <translation/>
+        <translation>Na pewno usunąć %1 zadań?</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="546"/>
         <source>Are you sure you want to delete this task?</source>
-        <translation/>
+        <translation>Na pewno usunąć to zadanie?</translation>
     </message>
 </context>
 <context>
@@ -116,7 +116,7 @@
     <message>
         <location filename="../../model/tasksdatabase.cpp" line="80"/>
         <source>Default List</source>
-        <translation/>
+        <translation>Domyślna lista</translation>
     </message>
 </context>
 <context>
@@ -124,62 +124,62 @@
     <message>
         <location filename="../../TasksDetailMenu.qml" line="50"/>
         <source>Insert task name</source>
-        <translation/>
+        <translation>Wprowadź nazwę zadania</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="61"/>
         <source>List:</source>
-        <translation/>
+        <translation>Lista:</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="126"/>
         <source>Due date:</source>
-        <translation/>
+        <translation>Termin wykonania:</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="139"/>
         <source>Date</source>
-        <translation/>
+        <translation>Data</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="140"/>
         <source>Someday</source>
-        <translation/>
+        <translation>Kiedyś</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="147"/>
         <source>Set due date</source>
-        <translation/>
+        <translation>Ustaw termin wykonania</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="167"/>
         <source>Notes</source>
-        <translation/>
+        <translation>Notatki</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="175"/>
         <source>Add a note here</source>
-        <translation/>
+        <translation>Dodaj notatkę</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="182"/>
         <source>Delete task</source>
-        <translation/>
+        <translation>Usuń zadanie</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="203"/>
         <source>Edit</source>
-        <translation/>
+        <translation>Edytuj</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="215"/>
         <source>Save</source>
-        <translation/>
+        <translation>Zapisz</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="227"/>
         <source>Close</source>
-        <translation/>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -192,17 +192,17 @@
     <message>
         <location filename="../../main.qml" line="18"/>
         <source>All due tasks</source>
-        <translation/>
+        <translation>Wszystkie bieżące zadania</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="19"/>
         <source>Order: asc</source>
-        <translation/>
+        <translation>Sortowanie: rosnąco</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Order: desc</source>
-        <translation/>
+        <translation>Sortowanie: malejąco</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
@@ -222,7 +222,7 @@
     <message>
         <location filename="../../main.qml" line="24"/>
         <source>Default list</source>
-        <translation/>
+        <translation>Domyślna lista</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="25"/>
@@ -237,27 +237,27 @@
     <message>
         <location filename="../../main.qml" line="27"/>
         <source>Next week</source>
-        <translation/>
+        <translation>W przyszłym tygodniu</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
         <source>Set due date...</source>
-        <translation/>
+        <translation>Ustaw termin...</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Add new list...</source>
-        <translation/>
+        <translation>Dodaj nową listę...</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>Select multiple lists...</source>
-        <translation/>
+        <translation>Wybierz wiele list...</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>
         <source>OK</source>
-        <translation/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -267,168 +267,168 @@
     <message>
         <location filename="../../main.qml" line="33"/>
         <source>New list</source>
-        <translation/>
+        <translation>Nowa lista</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
         <source>Rename list</source>
-        <translation/>
+        <translation>Zmień nazwę listy</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
         <source>Select multiple tasks...</source>
-        <translation/>
+        <translation>Wybierz wiele zadań...</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
         <source>Delete completed tasks</source>
-        <translation/>
+        <translation>Usuń wykonane zadania</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Delete list</source>
-        <translation/>
+        <translation>Usuń listę</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
         <source>Add task</source>
-        <translation/>
+        <translation>Dodaj zadanie</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>View detail</source>
-        <translation/>
+        <translation>Pokaż szczegóły</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="40"/>
         <source>Edit task</source>
-        <translation/>
+        <translation>Edytuj zadanie</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
         <source>Show in list</source>
-        <translation/>
+        <translation>Pokaż w liście</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="42"/>
         <source>Delete task</source>
-        <translation/>
+        <translation>Usuń zadanie</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="43"/>
         <source>Do you want to delete this list and all of its tasks?</source>
-        <translation/>
+        <translation>Na pewno usunąć tę listę i wszystkie należące do niej zadania?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="44"/>
         <source>Delete</source>
-        <translation/>
+        <translation>Usuń</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="45"/>
         <source>Are you sure you want to delete this task?</source>
-        <translation/>
+        <translation>Na pewno usunąć to zadanie?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="259"/>
         <location filename="../../main.qml" line="299"/>
         <location filename="../../main.qml" line="1029"/>
         <source>List name</source>
-        <translation/>
+        <translation>Nazwa listy</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="566"/>
         <source>Use the default task list, or make a new one</source>
-        <translation/>
+        <translation>Użyj domyślnej listy lub stwórz nową</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="567"/>
         <source>Create a new task list</source>
-        <translation/>
+        <translation>Stwórz nową listę zadań</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="572"/>
         <source>What&apos;s a task list?</source>
-        <translation/>
+        <translation>Co to jest lista zadań?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="573"/>
         <source>A task list is a collection of tasks. Use the default task list we have created for you, or make a new one.</source>
-        <translation/>
+        <translation>Lista zadań to zbiór zadań. Użyj domyślnej, która została wcześniej utworzona lub stwórz nową.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="578"/>
         <location filename="../../main.qml" line="757"/>
         <source>How do I create tasks?</source>
-        <translation/>
+        <translation>Jak tworzyć zadania?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="579"/>
         <location filename="../../main.qml" line="758"/>
         <source>To create a task, start by selecting a task list. Then tap on the new task line.</source>
-        <translation/>
+        <translation>Aby stworzyć zadanie, wybierz najpierw listę zadań. Potem dotknij linię nowego zadania.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="584"/>
         <source>How do I check completed tasks?</source>
-        <translation/>
+        <translation>Jak oznaczyć wykonane zadania?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="585"/>
         <source>To mark a task as completed, tap the check box.</source>
-        <translation/>
+        <translation>Aby oznaczyć zadanie jako wykonane, dotknij przycisk wyboru.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="725"/>
         <source>You have no due tasks</source>
-        <translation/>
+        <translation>Nie znaleziono bieżących zadań</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="729"/>
         <source>You have no overdue tasks</source>
-        <translation/>
+        <translation>Nie znaleziono zadań z przekroczonym terminem wykonania</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="733"/>
         <source>You have no upcoming tasks</source>
-        <translation/>
+        <translation>Nie znaleziono zadań z nadchodzącym terminem wykonania</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="737"/>
         <source>You have no someday tasks</source>
-        <translation/>
+        <translation>Nie znaleziono zadań do wykonania w dowolnym czasie</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="747"/>
         <source>To create a task, start by selecting a task list.</source>
-        <translation/>
+        <translation>Aby stworzyć zadanie, wybierz listę zadań</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="749"/>
         <location filename="../../main.qml" line="759"/>
         <source>Select a task list</source>
-        <translation/>
+        <translation>Wybierz listę zadań</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="797"/>
         <location filename="../../main.qml" line="1091"/>
         <source>Don&apos;t ask to confirm deleting tasks.</source>
-        <translation/>
+        <translation>Wyłącz pytanie o potwierdzenie usunięcia zadań.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1010"/>
         <source>Are you sure you want to delete the completed tasks?</source>
-        <translation/>
+        <translation>Na pewno usunąć wykonane zadania?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1011"/>
         <source>Yes</source>
-        <translation/>
+        <translation>Tak</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1012"/>
         <source>No</source>
-        <translation/>
+        <translation>Nie</translation>
     </message>
 </context>
 </TS>

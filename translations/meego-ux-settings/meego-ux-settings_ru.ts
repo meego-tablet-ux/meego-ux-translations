@@ -17,13 +17,13 @@
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="88"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="94"/>
         <source>Disconnect Input Device</source>
-        <translation/>
+        <translation>Отключить устройство ввода</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="88"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="98"/>
         <source>Connect Input Device</source>
-        <translation/>
+        <translation>Подключить устройство ввода</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="118"/>
@@ -53,27 +53,27 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="245"/>
         <source>Properties</source>
-        <translation/>
+        <translation>Свойства</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="250"/>
         <source>Paired: %1</source>
-        <translation/>
+        <translation>Сопряжено: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="258"/>
         <source>Hardware Address: %1</source>
-        <translation/>
+        <translation>Адрес устройства: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="266"/>
         <source>Icon: %1</source>
-        <translation/>
+        <translation>Значок: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="274"/>
         <source>UUIDs: %1</source>
-        <translation/>
+        <translation>UUID: %1</translation>
     </message>
 </context>
 <context>
@@ -140,7 +140,7 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="16"/>
         <source>Browser</source>
-        <translation/>
+        <translation>Браузер</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="105"/>
@@ -269,23 +269,23 @@
         <location filename="../../Wifi/ConnectionsSettings.qml" line="26"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>WPA</source>
-        <translation/>
+        <translation>WPA</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="27"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>WPA2</source>
-        <translation/>
+        <translation>WPA2</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="28"/>
         <source>WEP</source>
-        <translation/>
+        <translation>WEP</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="63"/>
         <source>Airplane Mode</source>
-        <translation>Режим &quot;В самолете&quot;</translation>
+        <translation>Режим авиаперелёта</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="96"/>
@@ -301,32 +301,32 @@
         <location filename="../../Wifi/ConnectionsSettings.qml" line="204"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="218"/>
         <source>Add Network</source>
-        <translation/>
+        <translation>Добавить сеть</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="232"/>
         <source>Network Name:</source>
-        <translation/>
+        <translation>Название сети:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="248"/>
         <source>Security Type:</source>
-        <translation/>
+        <translation>Тип безопасности:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>none</source>
-        <translation/>
+        <translation>нет</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="255"/>
         <source>wep</source>
-        <translation/>
+        <translation>wep</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="270"/>
         <source>Security Passphrase:</source>
-        <translation/>
+        <translation>Контрольная фраза:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="296"/>
@@ -367,22 +367,22 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="7"/>
         <source>General</source>
-        <translation/>
+        <translation>Общие</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="33"/>
         <source>Time and Date</source>
-        <translation/>
+        <translation>Время и дата</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="49"/>
         <source>Sound</source>
-        <translation/>
+        <translation>Звук</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="55"/>
         <source>%1%</source>
-        <translation/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -438,22 +438,22 @@
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="66"/>
         <source>Virtual Keyboard:</source>
-        <translation/>
+        <translation>Виртуальная клавиатура:</translation>
     </message>
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="94"/>
         <source>Date format:</source>
-        <translation/>
+        <translation>Формат даты:</translation>
     </message>
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="122"/>
         <source>Time format:</source>
-        <translation/>
+        <translation>Формат времени:</translation>
     </message>
     <message>
         <location filename="../../Language/LanguageSettings.qml" line="172"/>
         <source>Number Format:</source>
-        <translation/>
+        <translation>Формат чисел:</translation>
     </message>
 </context>
 <context>
@@ -461,7 +461,7 @@
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="45"/>
         <source>Google Account</source>
-        <translation>Учетная запись Google</translation>
+        <translation>Учётная запись Google</translation>
     </message>
     <message>
         <location filename="../../Browser/LoginDialog.qml" line="69"/>
@@ -646,7 +646,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="589"/>
         <source>%1 %2 sync failed</source>
-        <translation/>
+        <translation>Сбой синхронизации %1 %2</translation>
     </message>
 </context>
 <context>
@@ -683,17 +683,17 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="16"/>
         <source>Notifications</source>
-        <translation/>
+        <translation>Уведомления</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="45"/>
         <source>By default, phone and messaging notifications will be shown on the lockscreen.</source>
-        <translation/>
+        <translation>По умолчанию уведомления телефона и сообщения будут показаны при блокированном экране.</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="64"/>
         <source>You may select up to 4 additional notifications to receive on the lockscreen</source>
-        <translation/>
+        <translation>Вы можете выбрать до 4 дополнительных уведомлений для получения при блокированном экране</translation>
     </message>
 </context>
 <context>
@@ -871,7 +871,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="79"/>
         <source>Filter list</source>
-        <translation/>
+        <translation>Фильтровать список</translation>
     </message>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="124"/>
@@ -1152,7 +1152,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="177"/>
         <source>Do you want to remove %1 ?  This action will forget any passwords and you will no longer be automatically connected to %2</source>
-        <translation/>
+        <translation>Удалить %1?  Это действие приведёт к очистке всех сохранённых паролей, и вы больше не сможете автоматически подключаться к %2</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="189"/>

@@ -17,37 +17,37 @@
     <message>
         <location filename="../../NewAlarmMenu.qml" line="24"/>
         <source>Mo</source>
-        <translation/>
+        <translation>Пн</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="25"/>
         <source>Tu</source>
-        <translation/>
+        <translation>Вт</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="26"/>
         <source>We</source>
-        <translation/>
+        <translation>Ср</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="27"/>
         <source>Th</source>
-        <translation/>
+        <translation>Чт</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="28"/>
         <source>Fr</source>
-        <translation/>
+        <translation>Пт</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="29"/>
         <source>Sa</source>
-        <translation/>
+        <translation>Сб</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="30"/>
         <source>Su</source>
-        <translation/>
+        <translation>Вс</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="32"/>
@@ -78,13 +78,13 @@
         <location filename="../../NewAlarmMenu.qml" line="389"/>
         <location filename="../../NewAlarmMenu.qml" line="437"/>
         <source>1 Minute</source>
-        <translation>1 минута</translation>
+        <translation>1 мин</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="389"/>
         <location filename="../../NewAlarmMenu.qml" line="437"/>
         <source>%1 Minutes</source>
-        <translation>%1 минут</translation>
+        <translation>%1 мин</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="509"/>

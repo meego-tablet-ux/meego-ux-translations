@@ -9,7 +9,7 @@
 - description: Title of the dialog to create application shortcuts for current page.
 - condition: not pp_ifdef('use_titlecase') or os != 'linux2'
 </extracomment>
-        <translation/>
+        <translation>Создать комбинацию клавиш для приложения</translation>
     </message>
     <message>
         <location filename="id" line="-1157106606"/>
@@ -18,7 +18,7 @@
         <extracomment>IDS_BOOMARK_BUBBLE_PAGE_BOOKMARKED
 - description: Title of the bubble after bookmarking something
 </extracomment>
-        <translation/>
+        <translation>Закладка добавлена!</translation>
     </message>
     <message>
         <location filename="id" line="1267962439"/>
@@ -28,7 +28,7 @@
 - description: In Title Case: title of the dialog to create application shortcuts for current page.
 - condition: pp_ifdef('use_titlecase') and os == 'linux2'
 </extracomment>
-        <translation/>
+        <translation>Создать комбинацию клавиш для приложения</translation>
     </message>
     <message>
         <location filename="id" line="2005581839"/>
@@ -37,7 +37,7 @@
         <extracomment>IDS_BOOMARK_BUBBLE_FOLDER_TEXT
 - description: Text preceding the folder selector
 </extracomment>
-        <translation/>
+        <translation>Добавить закладку:</translation>
     </message>
     <message>
         <location filename="id" line="1935848576"/>
@@ -46,7 +46,7 @@
         <extracomment>IDS_BOOKMARK_MANAGER_TITLE
 - description: Title of the bookmark manager window.
 </extracomment>
-        <translation/>
+        <translation>Закладки</translation>
     </message>
     <message>
         <location filename="id" line="282316645"/>
@@ -59,7 +59,7 @@ IDS_BOOKMARK_MANAGER
 - description: In Title Case: The label of the menu item that shows the bookmark manager
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation/>
+        <translation>&amp;Закладки</translation>
     </message>
     <message>
         <location filename="id" line="1522912963"/>
@@ -77,7 +77,7 @@ IDS_BOOKMARK_MANAGER
         <extracomment>IDS_PASSWORD_MANAGER_SAVE_PASSWORD_PROMPT
 - description: Info bar message to save a password
 </extracomment>
-        <translation/>
+        <translation>Хотите, чтобы браузер MeeGo сохранил ваш пароль?</translation>
     </message>
     <message>
         <location filename="id" line="311677227"/>
@@ -86,7 +86,7 @@ IDS_BOOKMARK_MANAGER
         <extracomment>IDS_ABOUT_VERSION_COPYRIGHT
 - description: Copyright information on the about pages
 </extracomment>
-        <translation/>
+        <translation>Авторские права © 2010-2011 MeeGo. Все права защищены.</translation>
     </message>
     <message>
         <location filename="id" line="-1572705952"/>
@@ -135,7 +135,7 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="201"/>
         <source>Delete bookmark</source>
-        <translation/>
+        <translation>Удалить закладку</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="202"/>

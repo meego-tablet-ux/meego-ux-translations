@@ -17,37 +17,37 @@
     <message>
         <location filename="../../NewAlarmMenu.qml" line="24"/>
         <source>Mo</source>
-        <translation/>
+        <translation>Pn</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="25"/>
         <source>Tu</source>
-        <translation/>
+        <translation>Wt</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="26"/>
         <source>We</source>
-        <translation/>
+        <translation>Śr</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="27"/>
         <source>Th</source>
-        <translation/>
+        <translation>Cz</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="28"/>
         <source>Fr</source>
-        <translation/>
+        <translation>Pt</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="29"/>
         <source>Sa</source>
-        <translation/>
+        <translation>So</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="30"/>
         <source>Su</source>
-        <translation/>
+        <translation>Ni</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="32"/>
@@ -78,23 +78,23 @@
         <location filename="../../NewAlarmMenu.qml" line="389"/>
         <location filename="../../NewAlarmMenu.qml" line="437"/>
         <source>1 Minute</source>
-        <translation/>
+        <translation>1 minuta</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="389"/>
         <location filename="../../NewAlarmMenu.qml" line="437"/>
         <source>%1 Minutes</source>
-        <translation/>
+        <translation>%1 minut</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="509"/>
         <source>Type</source>
-        <translation/>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="664"/>
         <source>Sound</source>
-        <translation/>
+        <translation>Dźwięk</translation>
     </message>
     <message>
         <location filename="../../NewAlarmMenu.qml" line="883"/>
@@ -112,12 +112,12 @@
     <message>
         <location filename="../../NewClockMenu.qml" line="113"/>
         <source>(GMT %1)</source>
-        <translation/>
+        <translation>(GMT %1)</translation>
     </message>
     <message>
         <location filename="../../NewClockMenu.qml" line="113"/>
         <source>(GMT +%1)</source>
-        <translation/>
+        <translation>(GMT +%1)</translation>
     </message>
     <message>
         <location filename="../../NewClockMenu.qml" line="154"/>

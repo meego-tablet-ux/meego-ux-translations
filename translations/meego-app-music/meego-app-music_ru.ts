@@ -19,22 +19,22 @@
     <message>
         <location filename="../../MusicListView.qml" line="51"/>
         <source>Playlist name</source>
-        <translation/>
+        <translation>Название списка воспроизведения</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="53"/>
         <source>Artist name</source>
-        <translation/>
+        <translation>Имя исполнителя</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="55"/>
         <source>Album name</source>
-        <translation/>
+        <translation>Название альбома</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="56"/>
         <source>Track name</source>
-        <translation/>
+        <translation>Название дорожки</translation>
     </message>
     <message>
         <location filename="../../MusicListView.qml" line="71"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Play queue</source>
-        <translation/>
+        <translation>Воспроизвести очередь</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>All tracks</source>
-        <translation/>
+        <translation>Все дорожки</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Open album</source>
-        <translation/>
+        <translation>Открыть альбом</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
@@ -186,7 +186,7 @@
     <message>
         <location filename="../../main.qml" line="50"/>
         <source>Remove from queue</source>
-        <translation/>
+        <translation>Удалить из очереди</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="51"/>
@@ -196,7 +196,7 @@
     <message>
         <location filename="../../main.qml" line="52"/>
         <source>Save as playlist</source>
-        <translation>Сохранить как плейлист</translation>
+        <translation>Сохранить как список воспроизведения</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="53"/>
@@ -206,22 +206,22 @@
     <message>
         <location filename="../../main.qml" line="54"/>
         <source>Clear playlist</source>
-        <translation/>
+        <translation>Очистить список воспроизведения</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="56"/>
         <source>%1 items</source>
-        <translation/>
+        <translation>Объектов: %1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="57"/>
         <source>%1 album</source>
-        <translation/>
+        <translation>Альбомов: %1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="58"/>
         <source>%1 tracks</source>
-        <translation/>
+        <translation>Дорожек: %1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="60"/>
@@ -241,17 +241,17 @@
     <message>
         <location filename="../../main.qml" line="64"/>
         <source>By date</source>
-        <translation/>
+        <translation>По дате</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="66"/>
         <source>Create new playlist</source>
-        <translation>Создать новый плейлист</translation>
+        <translation>Создать новый список воспроизведения</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="67"/>
         <source>Rename playlist</source>
-        <translation>Переименовать плейлист</translation>
+        <translation>Переименовать список воспроизведения</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="70"/>
@@ -261,12 +261,12 @@
     <message>
         <location filename="../../main.qml" line="71"/>
         <source>Type playlist name here.</source>
-        <translation>Введите имя плейлиста здесь.</translation>
+        <translation>Введите имя списка воспроизведения.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>Select multiple songs</source>
-        <translation/>
+        <translation>Выбрать несколько композиций</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
@@ -276,7 +276,7 @@
     <message>
         <location filename="../../main.qml" line="75"/>
         <source>Buy, download or copy your music onto your tablet, then you can enjoy listening to it from here.</source>
-        <translation/>
+        <translation>Покупайте, скачивайте или копируйте музыку на свой планшет, чтобы затем насладиться прослушиванием.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="639"/>
@@ -286,7 +286,7 @@
     <message>
         <location filename="../../main.qml" line="647"/>
         <source>Track name</source>
-        <translation>Название трека</translation>
+        <translation>Название дорожки</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="661"/>
@@ -296,12 +296,12 @@
     <message>
         <location filename="../../main.qml" line="674"/>
         <source>Permanently delete this song?</source>
-        <translation>Удалить песню навсегда?</translation>
+        <translation>Удалить композицию навсегда?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="674"/>
         <source>Permanently delete these %1 songs?</source>
-        <translation>Удалить эти песни (%1) навсегда?</translation>
+        <translation>Удалить эти композиции (%1) навсегда?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="687"/>
@@ -312,13 +312,13 @@
         <location filename="../../main.qml" line="735"/>
         <location filename="../../main.qml" line="778"/>
         <source>Invalid characters: %1</source>
-        <translation/>
+        <translation>Недопустимые символы: %1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1785"/>
         <location filename="../../main.qml" line="2084"/>
         <source>%1 songs</source>
-        <translation>Песен: %1</translation>
+        <translation>Композиций: %1</translation>
     </message>
 </context>
 </TS>

@@ -30,13 +30,13 @@
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="117"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="158"/>
         <source>Top applications</source>
-        <translation>Приложения-лидеры</translation>
+        <translation>Популярные приложения</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="118"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="166"/>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="124"/>
@@ -46,12 +46,12 @@
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="177"/>
         <source>My Tablet settings</source>
-        <translation>Настройки моего планшетного ПК</translation>
+        <translation>Параметры планшета</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="178"/>
         <source>My Tablet content</source>
-        <translation/>
+        <translation>Содержимое панели планшета</translation>
     </message>
 </context>
 </TS>
