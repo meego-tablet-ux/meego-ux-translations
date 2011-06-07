@@ -2,112 +2,75 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="21"/>
+        <location filename="../../main.qml" line="20"/>
         <source>Videos</source>
         <translation>Videolar</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="22"/>
+        <location filename="../../main.qml" line="21"/>
         <source>All</source>
         <translation>Tümü</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="23"/>
+        <location filename="../../main.qml" line="22"/>
         <source>Recently added</source>
         <translation>Son eklenen</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="24"/>
+        <location filename="../../main.qml" line="23"/>
         <source>Recently viewed</source>
         <translation>Son görüntülenen</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="25"/>
+        <location filename="../../main.qml" line="24"/>
         <source>Unwatched</source>
         <translation>Izlenmemiş</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="26"/>
+        <location filename="../../main.qml" line="25"/>
         <source>Favorites</source>
         <translation>Favoriler</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="29"/>
-        <location filename="../../main.qml" line="40"/>
+        <location filename="../../main.qml" line="28"/>
+        <location filename="../../main.qml" line="39"/>
         <source>Delete</source>
         <translation>Sil</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="30"/>
+        <location filename="../../main.qml" line="29"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="36"/>
+        <location filename="../../main.qml" line="35"/>
         <source>Play</source>
         <translation>Oynat</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="37"/>
+        <location filename="../../main.qml" line="36"/>
         <source>Favorite</source>
         <translation>Favori</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="38"/>
+        <location filename="../../main.qml" line="37"/>
         <source>Unfavorite</source>
         <translation>Favori değil</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="39"/>
+        <location filename="../../main.qml" line="38"/>
         <source>Share</source>
         <translation>Paylaş</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="41"/>
+        <location filename="../../main.qml" line="40"/>
         <source>Select multiple videos</source>
         <translation>Birden çok video seç</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="98"/>
-        <location filename="../../main.qml" line="346"/>
+        <location filename="../../main.qml" line="79"/>
         <source>All (%1 videos)</source>
         <translation>Tüm (%1 videolar)</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="166"/>
-        <source>Video name</source>
-        <translation>Video ismi</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="172"/>
-        <location filename="../../main.qml" line="663"/>
-        <source>If you delete this, it will be removed from your device</source>
-        <translation>Eğer bunu silerseniz, cihazınızdan da kaldırılmış olacak</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="184"/>
-        <source>Permanently delete this video?</source>
-        <translation>Bu video kalıcı olarak silinsin mi?</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="184"/>
-        <source>Permanently delete these %1 videos?</source>
-        <translation>Bu %1 videolar kalıcı olarak silinsin mi?</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="199"/>
-        <source>If you delete these, they will be removed from your device</source>
-        <translation>Eğer bunları silerseniz, cihazınızdan da kaldırılmış olacak</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="413"/>
-        <source>No videos have been added. Do you want to start watching videos?</source>
-        <translation>Hiç video eklenmemiş. Video izlemeye başlamak ister misiniz?</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="421"/>
-        <source>Start recording or upload your favorite shows.</source>
-        <translation>Favori şovlarınızı yükleyin veya kendiniz bir tane kaydedin.</translation>
     </message>
 </context>
 </TS>

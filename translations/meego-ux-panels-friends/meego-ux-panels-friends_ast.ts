@@ -2,12 +2,12 @@
 <context>
     <name>FriendsItem</name>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="198"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="201"/>
         <source>Accept</source>
         <translation>Aceutar</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="207"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="211"/>
         <source>Decline</source>
         <translation>Refugar</translation>
     </message>
@@ -30,30 +30,30 @@
         <translation>Conteníu del panel de collacios</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="134"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="129"/>
         <source>You have no web accounts enabled - tap here to configure your web accounts.</source>
         <translation>Nun tienes denguna cuenta web habilitada, calca equí pa configurar les cuentes web.</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="143"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="139"/>
         <source>Tap here!</source>
         <translation>Calca equí!</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="204"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="245"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="200"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="241"/>
         <source>View</source>
         <translation>Ver</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="207"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="243"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="245"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="203"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="239"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="241"/>
         <source>Hide</source>
         <translation>Anubrir</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="371"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="368"/>
         <source>Go to settings</source>
         <translation>Dir a axustes</translation>
     </message>

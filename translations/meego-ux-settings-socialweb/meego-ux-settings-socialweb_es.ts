@@ -4,7 +4,7 @@
     <message>
         <location filename="../../qml/constants.js" line="3"/>
         <source>Web accounts</source>
-        <translation/>
+        <translation>Cuentas web</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
@@ -50,7 +50,7 @@
     <message>
         <location filename="../../qml/constants.js" line="18"/>
         <source>More details</source>
-        <translation/>
+        <translation>Mas detalles</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
@@ -70,7 +70,12 @@
     <message>
         <location filename="../../qml/constants.js" line="23"/>
         <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
-        <translation/>
+        <translation>Ha cerrado la sesión exitosamente. El contenido de este servicio ya no aparecerá en este dispositivo.</translation>
+    </message>
+    <message>
+        <location filename="../../qml/constants.js" line="24"/>
+        <source>This service supports sharing only</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>

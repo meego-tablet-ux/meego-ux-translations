@@ -4,12 +4,25 @@
     <message>
         <location filename="../../alarm.qml" line="32"/>
         <source>Alarm</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../alarm.qml" line="33"/>
         <source>Snooze</source>
-        <translation/>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>hardnotification</name>
+    <message>
+        <location filename="../../hardnotification.qml" line="21"/>
+        <source>Decline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../hardnotification.qml" line="22"/>
+        <source>Accept</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17,12 +30,12 @@
     <message>
         <location filename="../../statusindicatormenu.qml" line="182"/>
         <source>Notifications</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../statusindicatormenu.qml" line="189"/>
         <source>Clear</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -30,12 +43,12 @@
     <message>
         <location filename="../../taskswitcher.qml" line="20"/>
         <source>Close</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../taskswitcher.qml" line="21"/>
         <source>Open</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>

@@ -197,12 +197,12 @@
     <message>
         <location filename="../../main.qml" line="19"/>
         <source>Order: asc</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Order: desc</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
@@ -339,75 +339,75 @@
     <message>
         <location filename="../../main.qml" line="566"/>
         <source>Use the default task list, or make a new one</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="567"/>
         <source>Create a new task list</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="572"/>
         <source>What&apos;s a task list?</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="573"/>
         <source>A task list is a collection of tasks. Use the default task list we have created for you, or make a new one.</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="578"/>
         <location filename="../../main.qml" line="757"/>
         <source>How do I create tasks?</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="579"/>
         <location filename="../../main.qml" line="758"/>
         <source>To create a task, start by selecting a task list. Then tap on the new task line.</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="584"/>
         <source>How do I check completed tasks?</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="585"/>
         <source>To mark a task as completed, tap the check box.</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="725"/>
         <source>You have no due tasks</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="729"/>
         <source>You have no overdue tasks</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="733"/>
         <source>You have no upcoming tasks</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="737"/>
         <source>You have no someday tasks</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="747"/>
         <source>To create a task, start by selecting a task list.</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="749"/>
         <location filename="../../main.qml" line="759"/>
         <source>Select a task list</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="797"/>

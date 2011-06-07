@@ -33,7 +33,7 @@
         <location filename="../../CategoryView.qml" line="76"/>
         <location filename="../../CategoryView.qml" line="84"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47,7 +47,7 @@
         <location filename="../../CreateNewTaskRow.qml" line="28"/>
         <source>* </source>
         <extracomment>used to indicate the currently selected duedate for the new task</extracomment>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -83,7 +83,7 @@
     <message>
         <location filename="../../TaskListView.qml" line="42"/>
         <source>%1 (%2)</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="250"/>

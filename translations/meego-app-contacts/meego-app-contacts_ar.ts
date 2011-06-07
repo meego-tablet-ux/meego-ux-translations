@@ -85,10 +85,13 @@
         <translation>(...)</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="101"/>
-        <location filename="../../ContactCardPortrait.qml" line="103"/>
-        <source>%1  %2</source>
-        <translation>%1  %2</translation>
+        <location filename="../../ContactCardPortrait.qml" line="102"/>
+        <location filename="../../ContactCardPortrait.qml" line="105"/>
+        <source>%1 %2</source>
+        <extracomment>%1 is last name, %2 is first name
+----------
+%1 is first name, %2 is last name</extracomment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -539,14 +542,6 @@
         <location filename="../../ImEditWidget.qml" line="34"/>
         <source>No buddies for this account</source>
         <translation>لا يوجد متراسلون في هذا الحساب</translation>
-    </message>
-</context>
-<context>
-    <name>IndexModel</name>
-    <message>
-        <location filename="../../IndexModel.qml" line="8"/>
-        <source>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z #</source>
-        <translation>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z #</translation>
     </message>
 </context>
 <context>

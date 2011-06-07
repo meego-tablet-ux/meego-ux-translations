@@ -2,116 +2,75 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="21"/>
+        <location filename="../../main.qml" line="20"/>
         <source>Videos</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="22"/>
+        <location filename="../../main.qml" line="21"/>
         <source>All</source>
         <translation>Tutti</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="23"/>
+        <location filename="../../main.qml" line="22"/>
         <source>Recently added</source>
         <translation>Aggiunti di recente</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="24"/>
+        <location filename="../../main.qml" line="23"/>
         <source>Recently viewed</source>
         <translation>Visualizzati di recente</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="25"/>
+        <location filename="../../main.qml" line="24"/>
         <source>Unwatched</source>
         <translation>Non guardato</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="26"/>
+        <location filename="../../main.qml" line="25"/>
         <source>Favorites</source>
         <translation>Preferiti</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="29"/>
-        <location filename="../../main.qml" line="40"/>
+        <location filename="../../main.qml" line="28"/>
+        <location filename="../../main.qml" line="39"/>
         <source>Delete</source>
         <translation>Elimina</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="30"/>
+        <location filename="../../main.qml" line="29"/>
         <source>Cancel</source>
         <translation>Annulla</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="36"/>
+        <location filename="../../main.qml" line="35"/>
         <source>Play</source>
         <translation>Riproduci</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="37"/>
+        <location filename="../../main.qml" line="36"/>
         <source>Favorite</source>
         <translation>Preferito</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="38"/>
+        <location filename="../../main.qml" line="37"/>
         <source>Unfavorite</source>
         <translation>Non preferito</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="39"/>
+        <location filename="../../main.qml" line="38"/>
         <source>Share</source>
         <translation>Condividi</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="41"/>
+        <location filename="../../main.qml" line="40"/>
         <source>Select multiple videos</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="98"/>
-        <location filename="../../main.qml" line="346"/>
+        <location filename="../../main.qml" line="79"/>
         <source>All (%1 videos)</source>
         <translation>Tutti (%1 video)</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="166"/>
-        <source>Video name</source>
-        <translation>Nome video</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="172"/>
-        <location filename="../../main.qml" line="663"/>
-        <source>If you delete this, it will be removed from your device</source>
-        <translation>Se si elimina il brano, verrà rimosso anche dal dispositivo.</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="184"/>
-        <source>Permanently delete this video?</source>
-        <translation>Eliminare definitivamente il video?
-
-
-
-</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="184"/>
-        <source>Permanently delete these %1 videos?</source>
-        <translation>Eliminare permanentemente i %1 video selezionati?</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="199"/>
-        <source>If you delete these, they will be removed from your device</source>
-        <translation>Se si eliminano questi brani, verranno rimossi anche dal dispositivo.</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="413"/>
-        <source>No videos have been added. Do you want to start watching videos?</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="421"/>
-        <source>Start recording or upload your favorite shows.</source>
-        <translation/>
     </message>
 </context>
 </TS>

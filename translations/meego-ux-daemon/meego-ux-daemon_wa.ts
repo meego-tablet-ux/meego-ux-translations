@@ -4,12 +4,25 @@
     <message>
         <location filename="../../alarm.qml" line="32"/>
         <source>Alarm</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../alarm.qml" line="33"/>
         <source>Snooze</source>
-        <translation/>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>hardnotification</name>
+    <message>
+        <location filename="../../hardnotification.qml" line="21"/>
+        <source>Decline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../hardnotification.qml" line="22"/>
+        <source>Accept</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

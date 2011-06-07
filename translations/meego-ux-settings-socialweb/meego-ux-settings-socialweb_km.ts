@@ -72,5 +72,10 @@
         <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
         <translation>អ្នក​បាន​ភ្ជាប់​ចេញ​រួច​ហើយ។  ទិន្នន័យ​ដែល​មាន​មក​ពី​សេវាកម្ម​នេះ នឹង​ត្រូវ​លុប​ចោល។</translation>
     </message>
+    <message>
+        <location filename="../../qml/constants.js" line="24"/>
+        <source>This service supports sharing only</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>

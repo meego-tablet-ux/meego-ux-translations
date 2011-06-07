@@ -2,47 +2,47 @@
 <context>
     <name>AccountContent</name>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="122"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="147"/>
         <source>Multiple accounts connected</source>
         <translation>បាន​ត​ភ្ជាប់​គណនី​ជា​ច្រើន</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="123"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="148"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
         <translation>តើ​អ្នក​ពិត​ជា​ចង់​ភ្ជាប់​ទោ​កាន់​គណនី​នេះមែន​ទេ? ការ​ធ្វើ​បែប​នេះ រាល់គណនី %1 ផ្សេងទៀត​នឹង​ត្រូវ​កាត់​ផ្ដាច់។</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="195"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="219"/>
         <source>There is already an account configured using this login. Please check your username.</source>
         <translation>មាន​គណនី​ដែល​បាន​កំណត់​ឲ្យ​ប្រើ​ការ​ភ្ជាប់​ចូល​នេះ។ សូម​ពិនិត្យ ឈ្មោះ​សមាជិក របស់​អ្នក។</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="196"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="220"/>
         <source>Sorry, there was a problem logging in. Please check your username and password.</source>
         <translation>សូម​ទោស, បាន​មាន​បញ្ហា​នៅ​ពេល​ភ្ជាប់​ចូល។ សូម​ពិនិត្យ​ឡើង​វិញ​នូវ ឈ្មោះ​សមាជិក និង ពាក្យ​សម្ងាត់ របស់​អ្នក។</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="212"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="235"/>
         <source>Username:</source>
         <translation>ឈ្មោះ​សមាជិក:</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="223"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="246"/>
         <source>Name / ID</source>
         <translation>ឈ្មោះ / ID</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="231"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="254"/>
         <source>Password:</source>
         <translation>លេខសម្ងាត់:</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="243"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="266"/>
         <source>Password</source>
         <translation>លេខសម្ងាត់</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="260"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="283"/>
         <source>Advanced settings</source>
         <translation>ការកំណត់ជាន់ខ្ពស់</translation>
     </message>
@@ -73,33 +73,19 @@
         <translation>តើ​អ្នក​ពិត​ជា​ចង់​ភ្ជាប់​ទោ​កាន់​គណនី​នេះមែន​ទេ? ការ​ធ្វើ​បែប​នេះ រាល់គណនី %1 ផ្សេងទៀត​នឹង​ត្រូវ​កាត់​ផ្ដាច់។</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="183"/>
+        <location filename="../../AccountDelegate.qml" line="184"/>
         <source>Log out</source>
         <translation>ភ្ជាប់​ចេញ</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="185"/>
+        <location filename="../../AccountDelegate.qml" line="186"/>
         <source>Log in to %1</source>
         <translation>ភ្ជាប់​ចូល​ទៅ​កាន់ %1</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="187"/>
+        <location filename="../../AccountDelegate.qml" line="188"/>
         <source>Settings</source>
         <translation>ការ​កំណត់</translation>
-    </message>
-</context>
-<context>
-    <name>AccountOffline</name>
-    <message>
-        <location filename="../../AccountOffline.qml" line="27"/>
-        <location filename="../../AccountOffline.qml" line="64"/>
-        <source>Account is offline</source>
-        <translation>គណនី​នៅ​ក្រៅ​បណ្ដាញ</translation>
-    </message>
-    <message>
-        <location filename="../../AccountOffline.qml" line="67"/>
-        <source>Account is connecting</source>
-        <translation/>
     </message>
 </context>
 <context>
@@ -110,12 +96,17 @@
         <translation>បញ្ជី​គណនី</translation>
     </message>
     <message>
-        <location filename="../../AccountScreenContent.qml" line="67"/>
+        <location filename="../../AccountScreenContent.qml" line="60"/>
+        <source>Loading accounts...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../AccountScreenContent.qml" line="72"/>
         <source>Choose an account</source>
         <translation>រើស​គណនី</translation>
     </message>
     <message>
-        <location filename="../../AccountScreenContent.qml" line="97"/>
+        <location filename="../../AccountScreenContent.qml" line="102"/>
         <source>Add an account</source>
         <translation>បន្ថែម​គណនី</translation>
     </message>
@@ -134,14 +125,14 @@
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="80"/>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="96"/>
+        <location filename="../../plugin/IM/AccountSetupBar.qml" line="100"/>
         <source>Delete account</source>
         <translation>លុប​គណនី</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="94"/>
+        <location filename="../../plugin/IM/AccountSetupBar.qml" line="98"/>
         <source>Are you sure to delete this account?</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -308,12 +299,12 @@
 <context>
     <name>ConfirmationDialog</name>
     <message>
-        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="15"/>
+        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="18"/>
         <source>Yes</source>
         <translation>ព្រម</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="18"/>
+        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="21"/>
         <source>No</source>
         <translation>ទេ</translation>
     </message>
@@ -321,88 +312,88 @@
 <context>
     <name>ContactContentMenu</name>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="153"/>
+        <location filename="../../ContactContentMenu.qml" line="154"/>
         <source>Update status</source>
         <translation>ធ្វើ​បច្ចុប្បន្នកម្ម​ស្ថានភាព</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="208"/>
+        <location filename="../../ContactContentMenu.qml" line="209"/>
         <source>Available</source>
         <translation>នៅ​លើ​បណ្ដាញ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="213"/>
+        <location filename="../../ContactContentMenu.qml" line="214"/>
         <source>Away</source>
         <translation>បាន​ទៅ​ឆ្ងាយ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="218"/>
+        <location filename="../../ContactContentMenu.qml" line="219"/>
         <source>Busy</source>
         <translation>រវល់</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="223"/>
+        <location filename="../../ContactContentMenu.qml" line="224"/>
         <source>Invisible</source>
         <translation>មើល​មិន​ឃើញ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="228"/>
+        <location filename="../../ContactContentMenu.qml" line="229"/>
         <source>Offline</source>
         <translation>ក្រៅ​បណ្ដាញ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="239"/>
+        <location filename="../../ContactContentMenu.qml" line="240"/>
         <source>Your Status:</source>
         <translation>ស្ថានភាព​របស់​អ្នក៖</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="315"/>
+        <location filename="../../ContactContentMenu.qml" line="318"/>
         <source>Custom status message</source>
         <translation>សារ​ស្ថានភាព​ផ្ទាល់​ខ្លួន</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="340"/>
-        <location filename="../../ContactContentMenu.qml" line="468"/>
+        <location filename="../../ContactContentMenu.qml" line="343"/>
+        <location filename="../../ContactContentMenu.qml" line="471"/>
         <source>Update</source>
         <translation>ធ្វើ​បច្ចុប្បន្នកម្ម</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="355"/>
+        <location filename="../../ContactContentMenu.qml" line="358"/>
         <source>Change display name</source>
         <translation>ប្ដូរ​ឈ្មោះ​បង្ហាញ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="449"/>
+        <location filename="../../ContactContentMenu.qml" line="452"/>
         <source>Display name</source>
         <translation>ឈ្មោះ​បង្ហាញ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="488"/>
+        <location filename="../../ContactContentMenu.qml" line="491"/>
         <source>Add a friend</source>
         <translation>បន្ថែម​មិត្ត</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="560"/>
+        <location filename="../../ContactContentMenu.qml" line="563"/>
         <source>Clear chat history</source>
         <translation>សម្អាត​ប្រវត្តិ​ជជែក</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="573"/>
+        <location filename="../../ContactContentMenu.qml" line="576"/>
         <source>Log in</source>
         <translation>ភ្ជាប់​ចូល</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="573"/>
+        <location filename="../../ContactContentMenu.qml" line="576"/>
         <source>Log out</source>
         <translation>ភ្ជាប់​ចេញ</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="623"/>
+        <location filename="../../ContactContentMenu.qml" line="636"/>
         <source>Multiple accounts connected</source>
         <translation>បាន​ត​ភ្ជាប់​គណនី​ជា​ច្រើន</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="624"/>
+        <location filename="../../ContactContentMenu.qml" line="637"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
         <translation>តើ​អ្នក​ពិត​ជា​ចង់​ភ្ជាប់​ទោ​កាន់​គណនី​នេះមែន​ទេ? ការ​ធ្វើ​បែប​នេះ រាល់គណនី %1 ផ្សេងទៀត​នឹង​ត្រូវ​កាត់​ផ្ដាច់។</translation>
     </message>
@@ -445,7 +436,7 @@
         <translation>បញ្ចប់​ការ​ជជែក</translation>
     </message>
     <message>
-        <location filename="../../ContactDelegate.qml" line="150"/>
+        <location filename="../../ContactDelegate.qml" line="151"/>
         <source>Delete contact</source>
         <translation>លុប​ឈ្មោះ​ទាក់​ទង</translation>
     </message>
@@ -522,9 +513,29 @@
 <context>
     <name>ContactsScreenContent</name>
     <message>
-        <location filename="../../ContactsScreenContent.qml" line="165"/>
+        <location filename="../../ContactsScreenContent.qml" line="175"/>
         <source>Add a friend</source>
         <translation>បន្ថែម​ជា​មិត្ត</translation>
+    </message>
+    <message>
+        <location filename="../../ContactsScreenContent.qml" line="204"/>
+        <source>Loading contacts...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ContactsScreenContent.qml" line="209"/>
+        <source>You haven&apos;t added any friends yet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ContactsScreenContent.qml" line="233"/>
+        <source>Account is offline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ContactsScreenContent.qml" line="235"/>
+        <source>Account is connecting...</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -549,32 +560,32 @@
         <translation>បើក</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="201"/>
+        <location filename="../../FileTransferDelegate.qml" line="202"/>
         <source>There was a problem downloading</source>
         <translation>ការ​ទាញ​យក​មាន​បញ្ហា</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="203"/>
+        <location filename="../../FileTransferDelegate.qml" line="204"/>
         <source>There was a problem uploading</source>
         <translation>ការ​ផ្ទុក​ឡើង​មាន​បញ្ហា</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="206"/>
+        <location filename="../../FileTransferDelegate.qml" line="207"/>
         <source>Canceled</source>
         <translation>បាន​បោះ​បង់</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="230"/>
+        <location filename="../../FileTransferDelegate.qml" line="231"/>
         <source>Save</source>
         <translation>រក្សា​ទុក</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="244"/>
+        <location filename="../../FileTransferDelegate.qml" line="245"/>
         <source>Decline</source>
         <translation>បដិសេធ</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="268"/>
+        <location filename="../../FileTransferDelegate.qml" line="269"/>
         <source>Cancel</source>
         <translation>បោះ​បង់</translation>
     </message>
@@ -584,7 +595,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="257"/>
         <source>%1 joined the chat</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="272"/>
@@ -604,7 +615,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="281"/>
         <source>%1 left the chat</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="289"/>
@@ -670,17 +681,17 @@
 <context>
     <name>IMFeedModel</name>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="334"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="341"/>
         <source>Add as friend?</source>
         <translation>បន្ថែម​ជា​មិត្ត?</translation>
     </message>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="474"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="481"/>
         <source>Incoming call from %1</source>
         <translation>ការ​ហៅ​ដែល​នឹង​ចូល​ពី %1</translation>
     </message>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="477"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="484"/>
         <source>Incoming file transfer from %1</source>
         <translation>ការ​ផ្ទេរ​ឯកសារ​ដែល​នឹង​ចូល​ពី %1</translation>
     </message>
@@ -696,42 +707,42 @@
 <context>
     <name>ImSettings</name>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="17"/>
+        <location filename="../../settings/ImSettings.qml" line="16"/>
         <source>Instant Messaging Settings</source>
         <translation>ការ​កំណត់ ការ​ផ្ញើ​សារ​រហ័ស</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="98"/>
+        <location filename="../../settings/ImSettings.qml" line="105"/>
         <source>Accounts</source>
         <translation>គណនី</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="127"/>
+        <location filename="../../settings/ImSettings.qml" line="134"/>
         <source>Add another account</source>
         <translation>បន្ថែម​គណនី​ទៀត</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="144"/>
+        <location filename="../../settings/ImSettings.qml" line="151"/>
         <source>General Settings</source>
         <translation>ការ​កំណត់​ទូទៅ</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="166"/>
+        <location filename="../../settings/ImSettings.qml" line="173"/>
         <source>Show offline contacts</source>
         <translation>បង្ហាញ​ឈ្មោះ​ទាក់​ទង​នៅ​ក្រៅ​បណ្ដាញ</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="204"/>
+        <location filename="../../settings/ImSettings.qml" line="211"/>
         <source>Notification on new message</source>
         <translation>ការ​ផ្ដល់​ដំណឹង​ពេល​មាន​សារ​ថ្មី</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="241"/>
+        <location filename="../../settings/ImSettings.qml" line="248"/>
         <source>Clear chat history</source>
         <translation>សម្អាត​ប្រវត្តិ​ជជែក</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="265"/>
+        <location filename="../../settings/ImSettings.qml" line="272"/>
         <source>Blocked contacts</source>
         <translation>ឈ្មោះ​ទាក់​ទងដែល​បាន​រារាំង</translation>
     </message>
@@ -783,25 +794,9 @@
     </message>
 </context>
 <context>
-    <name>LoadingAccounts</name>
-    <message>
-        <location filename="../../LoadingAccounts.qml" line="28"/>
-        <source>Loading accounts</source>
-        <translation/>
-    </message>
-</context>
-<context>
-    <name>LoadingConversationHistory</name>
-    <message>
-        <location filename="../../LoadingConversationHistory.qml" line="29"/>
-        <source>Loading conversation history</source>
-        <translation>កំពុង​ផ្ទុក​ប្រវត្តិ​ជជែក</translation>
-    </message>
-</context>
-<context>
     <name>Message indicating the contact has been added</name>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="530"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="541"/>
         <source>has been added as contact</source>
         <translation>បាន​បន្ថែមជា​ឈ្មោះ​ទាក់​ទង</translation>
     </message>
@@ -842,32 +837,32 @@
     <message>
         <location filename="../../MessageDelegate.qml" line="109"/>
         <source>(%1)</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="125"/>
         <source>Upload canceled:</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="127"/>
         <source>Sent:</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="129"/>
         <source>Uploading:</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="133"/>
         <source>%1 has sent you:</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="135"/>
         <source>%1 is sending you:</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="147"/>
@@ -894,27 +889,29 @@
 <context>
     <name>MessageScreenContent</name>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="309"/>
+        <location filename="../../MessageScreenContent.qml" line="173"/>
+        <source>Opening chat...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../MessageScreenContent.qml" line="184"/>
+        <source>Loading conversation history...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../MessageScreenContent.qml" line="332"/>
         <source>Send</source>
         <translation>ផ្ញើ</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="494"/>
+        <location filename="../../MessageScreenContent.qml" line="522"/>
         <source>Group conversation</source>
         <translation>ការ​ជជែក​ជា​ក្រុម</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="498"/>
+        <location filename="../../MessageScreenContent.qml" line="526"/>
         <source>Chat with %1</source>
         <translation>ជជែក​ជាមួយ %1</translation>
-    </message>
-</context>
-<context>
-    <name>NoFriends</name>
-    <message>
-        <location filename="../../NoFriends.qml" line="27"/>
-        <source>You haven&apos;t added any friends yet</source>
-        <translation>អ្នក​មិន​ទាន់​បានបន្ថែម​មិត្ត​ណា​ម្នាក់​ទេ។</translation>
     </message>
 </context>
 <context>
@@ -972,27 +969,27 @@
 <context>
     <name>SendFileView</name>
     <message>
-        <location filename="../../SendFileView.qml" line="51"/>
+        <location filename="../../SendFileView.qml" line="59"/>
         <source>Send:</source>
         <translation>ផ្ញើ:</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="62"/>
+        <location filename="../../SendFileView.qml" line="70"/>
         <source>Photo</source>
         <translation>រូប​ថត</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="74"/>
+        <location filename="../../SendFileView.qml" line="83"/>
         <source>Video</source>
         <translation>វីដេអូ</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="86"/>
+        <location filename="../../SendFileView.qml" line="96"/>
         <source>Music</source>
         <translation>តន្ត្រី</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="98"/>
+        <location filename="../../SendFileView.qml" line="109"/>
         <source>Contact Details</source>
         <translation>ព័ត៌មាន​ឈ្មោះ​ទាក់​ទង</translation>
     </message>
@@ -1000,7 +997,7 @@
 <context>
     <name>TelepathyManager</name>
     <message>
-        <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="222"/>
+        <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="258"/>
         <source>%1 - %2</source>
         <translation>%1 - %2</translation>
     </message>
@@ -1010,38 +1007,38 @@
     <message>
         <location filename="../../VideoWindow.qml" line="166"/>
         <source>Call with %1</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Minimize me</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Maximize me</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Disable camera</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Enable camera</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="421"/>
         <source>Swap camera</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="19"/>
+        <location filename="../../main.qml" line="17"/>
         <source>Chat</source>
         <translation>ជជែក</translation>
     </message>
@@ -1079,11 +1076,6 @@
         <location filename="../../main.qml" line="468"/>
         <source>Invisible</source>
         <translation>មើល​មិន​ឃើញ</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="609"/>
-        <source>Select contact</source>
-        <translation/>
     </message>
 </context>
 <context>

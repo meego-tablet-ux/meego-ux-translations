@@ -2,32 +2,7 @@
 <context>
     <name>MainContent</name>
     <message>
-        <location filename="../../MainContent.qml" line="175"/>
-        <source>Delete &quot;%1&quot;</source>
-        <translation>Poista &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <location filename="../../MainContent.qml" line="190"/>
-        <source>Deleting &quot;%1&quot; will also delete all of its data</source>
-        <translation>Kohteen &quot;%1&quot; poistaminen poistaa myös kaikki sen tiedot</translation>
-    </message>
-    <message>
-        <location filename="../../MainContent.qml" line="190"/>
-        <source>&quot;%1&quot; can not be deleted</source>
-        <translation>Ei voida poistaa &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <location filename="../../MainContent.qml" line="204"/>
-        <source>Delete</source>
-        <translation>Poista</translation>
-    </message>
-    <message>
-        <location filename="../../MainContent.qml" line="216"/>
-        <source>Cancel</source>
-        <translation>Peruuta</translation>
-    </message>
-    <message>
-        <location filename="../../MainContent.qml" line="661"/>
+        <location filename="../../MainContent.qml" line="506"/>
         <source>Personalize</source>
         <translation>Perosonalisoi</translation>
     </message>

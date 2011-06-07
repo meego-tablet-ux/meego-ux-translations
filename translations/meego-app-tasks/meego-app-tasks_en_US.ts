@@ -197,12 +197,12 @@
     <message>
         <location filename="../../main.qml" line="19"/>
         <source>Order: asc</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Order: desc</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>

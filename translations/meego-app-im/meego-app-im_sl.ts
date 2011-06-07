@@ -2,47 +2,47 @@
 <context>
     <name>AccountContent</name>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="122"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="147"/>
         <source>Multiple accounts connected</source>
         <translation>Povezanih je več računov</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="123"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="148"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="195"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="219"/>
         <source>There is already an account configured using this login. Please check your username.</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="196"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="220"/>
         <source>Sorry, there was a problem logging in. Please check your username and password.</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="212"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="235"/>
         <source>Username:</source>
         <translation>Uporabniško ime:</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="223"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="246"/>
         <source>Name / ID</source>
         <translation>Ime/identifikacija</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="231"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="254"/>
         <source>Password:</source>
         <translation>Geslo:</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="243"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="266"/>
         <source>Password</source>
         <translation>Geslo</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="260"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="283"/>
         <source>Advanced settings</source>
         <translation>Napredne nastavitve</translation>
     </message>
@@ -70,36 +70,22 @@
     <message>
         <location filename="../../AccountDelegate.qml" line="121"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="183"/>
+        <location filename="../../AccountDelegate.qml" line="184"/>
         <source>Log out</source>
         <translation>Odjavi</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="185"/>
+        <location filename="../../AccountDelegate.qml" line="186"/>
         <source>Log in to %1</source>
         <translation>Prijavi se pri %1</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="187"/>
+        <location filename="../../AccountDelegate.qml" line="188"/>
         <source>Settings</source>
         <translation>Nastavitve</translation>
-    </message>
-</context>
-<context>
-    <name>AccountOffline</name>
-    <message>
-        <location filename="../../AccountOffline.qml" line="27"/>
-        <location filename="../../AccountOffline.qml" line="64"/>
-        <source>Account is offline</source>
-        <translation>Račun ni na zvezi</translation>
-    </message>
-    <message>
-        <location filename="../../AccountOffline.qml" line="67"/>
-        <source>Account is connecting</source>
-        <translation/>
     </message>
 </context>
 <context>
@@ -110,12 +96,17 @@
         <translation>Seznam računov</translation>
     </message>
     <message>
-        <location filename="../../AccountScreenContent.qml" line="67"/>
+        <location filename="../../AccountScreenContent.qml" line="60"/>
+        <source>Loading accounts...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../AccountScreenContent.qml" line="72"/>
         <source>Choose an account</source>
         <translation>Izberite račun</translation>
     </message>
     <message>
-        <location filename="../../AccountScreenContent.qml" line="97"/>
+        <location filename="../../AccountScreenContent.qml" line="102"/>
         <source>Add an account</source>
         <translation>Dodaj račun</translation>
     </message>
@@ -134,14 +125,14 @@
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="80"/>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="96"/>
+        <location filename="../../plugin/IM/AccountSetupBar.qml" line="100"/>
         <source>Delete account</source>
         <translation>Izbriši račun</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="94"/>
+        <location filename="../../plugin/IM/AccountSetupBar.qml" line="98"/>
         <source>Are you sure to delete this account?</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -149,7 +140,7 @@
     <message>
         <location filename="../../AddAFriend.qml" line="52"/>
         <source>Friend&apos;s username</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../AddAFriend.qml" line="73"/>
@@ -308,12 +299,12 @@
 <context>
     <name>ConfirmationDialog</name>
     <message>
-        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="15"/>
+        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="18"/>
         <source>Yes</source>
         <translation>Da</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="18"/>
+        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="21"/>
         <source>No</source>
         <translation>Ne</translation>
     </message>
@@ -321,90 +312,90 @@
 <context>
     <name>ContactContentMenu</name>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="153"/>
+        <location filename="../../ContactContentMenu.qml" line="154"/>
         <source>Update status</source>
         <translation>Posodobi stanje</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="208"/>
+        <location filename="../../ContactContentMenu.qml" line="209"/>
         <source>Available</source>
         <translation>Na voljo</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="213"/>
+        <location filename="../../ContactContentMenu.qml" line="214"/>
         <source>Away</source>
         <translation>Odsoten</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="218"/>
+        <location filename="../../ContactContentMenu.qml" line="219"/>
         <source>Busy</source>
         <translation>Zaposlen</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="223"/>
+        <location filename="../../ContactContentMenu.qml" line="224"/>
         <source>Invisible</source>
         <translation>Neviden</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="228"/>
+        <location filename="../../ContactContentMenu.qml" line="229"/>
         <source>Offline</source>
         <translation>Brez zveze</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="239"/>
+        <location filename="../../ContactContentMenu.qml" line="240"/>
         <source>Your Status:</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="315"/>
+        <location filename="../../ContactContentMenu.qml" line="318"/>
         <source>Custom status message</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="340"/>
-        <location filename="../../ContactContentMenu.qml" line="468"/>
+        <location filename="../../ContactContentMenu.qml" line="343"/>
+        <location filename="../../ContactContentMenu.qml" line="471"/>
         <source>Update</source>
         <translation>Posodobi</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="355"/>
+        <location filename="../../ContactContentMenu.qml" line="358"/>
         <source>Change display name</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="449"/>
+        <location filename="../../ContactContentMenu.qml" line="452"/>
         <source>Display name</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="488"/>
+        <location filename="../../ContactContentMenu.qml" line="491"/>
         <source>Add a friend</source>
         <translation>Dodaj prijatelja</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="560"/>
+        <location filename="../../ContactContentMenu.qml" line="563"/>
         <source>Clear chat history</source>
         <translation>Počisti zgodovino klepeta</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="573"/>
+        <location filename="../../ContactContentMenu.qml" line="576"/>
         <source>Log in</source>
         <translation>Prijavi</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="573"/>
+        <location filename="../../ContactContentMenu.qml" line="576"/>
         <source>Log out</source>
         <translation>Odjavi</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="623"/>
+        <location filename="../../ContactContentMenu.qml" line="636"/>
         <source>Multiple accounts connected</source>
         <translation>Povezanih je več računov</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="624"/>
+        <location filename="../../ContactContentMenu.qml" line="637"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -412,42 +403,42 @@
     <message>
         <location filename="../../ContactDelegate.qml" line="85"/>
         <source>Return to chat</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="86"/>
         <source>Open chat</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="98"/>
         <source>Call</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="110"/>
         <source>Video call</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="122"/>
         <source>Unblock</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="123"/>
         <source>Block</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../ContactDelegate.qml" line="139"/>
         <source>End chat</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../ContactDelegate.qml" line="150"/>
+        <location filename="../../ContactDelegate.qml" line="151"/>
         <source>Delete contact</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -473,32 +464,32 @@
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="129"/>
         <source>Available</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="131"/>
         <source>Busy</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="133"/>
         <source>Away</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="135"/>
         <source>Extended away</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="137"/>
         <source>Offline</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="139"/>
         <source>Invisible</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -506,7 +497,7 @@
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="45"/>
         <source>Friend request from</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../ContactRequestDelegate.qml" line="73"/>
@@ -522,9 +513,29 @@
 <context>
     <name>ContactsScreenContent</name>
     <message>
-        <location filename="../../ContactsScreenContent.qml" line="165"/>
+        <location filename="../../ContactsScreenContent.qml" line="175"/>
         <source>Add a friend</source>
-        <translation/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ContactsScreenContent.qml" line="204"/>
+        <source>Loading contacts...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ContactsScreenContent.qml" line="209"/>
+        <source>You haven&apos;t added any friends yet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ContactsScreenContent.qml" line="233"/>
+        <source>Account is offline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ContactsScreenContent.qml" line="235"/>
+        <source>Account is connecting...</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -549,32 +560,32 @@
         <translation>Odpri</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="201"/>
+        <location filename="../../FileTransferDelegate.qml" line="202"/>
         <source>There was a problem downloading</source>
         <translation>Pri prejemanju je prišlo do težave</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="203"/>
+        <location filename="../../FileTransferDelegate.qml" line="204"/>
         <source>There was a problem uploading</source>
         <translation>Pri pošiljanju je prišlo do težave</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="206"/>
+        <location filename="../../FileTransferDelegate.qml" line="207"/>
         <source>Canceled</source>
         <translation>Preklicano</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="230"/>
+        <location filename="../../FileTransferDelegate.qml" line="231"/>
         <source>Save</source>
         <translation>Shrani</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="244"/>
+        <location filename="../../FileTransferDelegate.qml" line="245"/>
         <source>Decline</source>
         <translation>Zavrni</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="268"/>
+        <location filename="../../FileTransferDelegate.qml" line="269"/>
         <source>Cancel</source>
         <translation>Prekliči</translation>
     </message>
@@ -584,7 +595,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="257"/>
         <source>%1 joined the chat</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="272"/>
@@ -604,7 +615,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="281"/>
         <source>%1 left the chat</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="289"/>
@@ -670,17 +681,17 @@
 <context>
     <name>IMFeedModel</name>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="334"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="341"/>
         <source>Add as friend?</source>
         <translation>Dodam kot prijatelja?</translation>
     </message>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="474"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="481"/>
         <source>Incoming call from %1</source>
         <translation>Od %1 je bil prejet klic</translation>
     </message>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="477"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="484"/>
         <source>Incoming file transfer from %1</source>
         <translation>Od %1 je bil prejet prenos datoteke</translation>
     </message>
@@ -696,42 +707,42 @@
 <context>
     <name>ImSettings</name>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="17"/>
+        <location filename="../../settings/ImSettings.qml" line="16"/>
         <source>Instant Messaging Settings</source>
         <translation>Nastavitve takojšnjega sporočanja</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="98"/>
+        <location filename="../../settings/ImSettings.qml" line="105"/>
         <source>Accounts</source>
         <translation>Računi</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="127"/>
+        <location filename="../../settings/ImSettings.qml" line="134"/>
         <source>Add another account</source>
         <translation>Dodaj drug račun</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="144"/>
+        <location filename="../../settings/ImSettings.qml" line="151"/>
         <source>General Settings</source>
         <translation>Splošne nastavitve</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="166"/>
+        <location filename="../../settings/ImSettings.qml" line="173"/>
         <source>Show offline contacts</source>
         <translation>Prikaži uporabnike brez povezave</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="204"/>
+        <location filename="../../settings/ImSettings.qml" line="211"/>
         <source>Notification on new message</source>
         <translation>Obvestilo o novem sporočilu</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="241"/>
+        <location filename="../../settings/ImSettings.qml" line="248"/>
         <source>Clear chat history</source>
         <translation>Počisti zgodovino klepeta</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="265"/>
+        <location filename="../../settings/ImSettings.qml" line="272"/>
         <source>Blocked contacts</source>
         <translation>Blokirani stiki</translation>
     </message>
@@ -783,25 +794,9 @@
     </message>
 </context>
 <context>
-    <name>LoadingAccounts</name>
-    <message>
-        <location filename="../../LoadingAccounts.qml" line="28"/>
-        <source>Loading accounts</source>
-        <translation/>
-    </message>
-</context>
-<context>
-    <name>LoadingConversationHistory</name>
-    <message>
-        <location filename="../../LoadingConversationHistory.qml" line="29"/>
-        <source>Loading conversation history</source>
-        <translation>Nalaganje zgodovine pogovora</translation>
-    </message>
-</context>
-<context>
     <name>Message indicating the contact has been added</name>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="530"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="541"/>
         <source>has been added as contact</source>
         <translation>je bil dodan kot stik</translation>
     </message>
@@ -811,12 +806,12 @@
     <message>
         <location filename="../../MessageContactDelegate.qml" line="50"/>
         <source>Private chat</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageContactDelegate.qml" line="54"/>
         <source>Add to contacts</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -842,32 +837,32 @@
     <message>
         <location filename="../../MessageDelegate.qml" line="109"/>
         <source>(%1)</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="125"/>
         <source>Upload canceled:</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="127"/>
         <source>Sent:</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="129"/>
         <source>Uploading:</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="133"/>
         <source>%1 has sent you:</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="135"/>
         <source>%1 is sending you:</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="147"/>
@@ -878,43 +873,45 @@
     <message>
         <location filename="../../MessageDelegate.qml" line="174"/>
         <source>%1 tried to call - %2</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="176"/>
         <source>%1 rejected call - %2</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="178"/>
         <source>%1 called - duration %2 - %3</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>MessageScreenContent</name>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="309"/>
+        <location filename="../../MessageScreenContent.qml" line="173"/>
+        <source>Opening chat...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../MessageScreenContent.qml" line="184"/>
+        <source>Loading conversation history...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../MessageScreenContent.qml" line="332"/>
         <source>Send</source>
         <translation>Pošlji</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="494"/>
+        <location filename="../../MessageScreenContent.qml" line="522"/>
         <source>Group conversation</source>
         <translation>Skupinski pogovor</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="498"/>
+        <location filename="../../MessageScreenContent.qml" line="526"/>
         <source>Chat with %1</source>
         <translation>Klepet z %1</translation>
-    </message>
-</context>
-<context>
-    <name>NoFriends</name>
-    <message>
-        <location filename="../../NoFriends.qml" line="27"/>
-        <source>You haven&apos;t added any friends yet</source>
-        <translation/>
     </message>
 </context>
 <context>
@@ -972,27 +969,27 @@
 <context>
     <name>SendFileView</name>
     <message>
-        <location filename="../../SendFileView.qml" line="51"/>
+        <location filename="../../SendFileView.qml" line="59"/>
         <source>Send:</source>
         <translation>Pošlji</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="62"/>
+        <location filename="../../SendFileView.qml" line="70"/>
         <source>Photo</source>
         <translation>Fotografija</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="74"/>
+        <location filename="../../SendFileView.qml" line="83"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="86"/>
+        <location filename="../../SendFileView.qml" line="96"/>
         <source>Music</source>
         <translation>Glasba</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="98"/>
+        <location filename="../../SendFileView.qml" line="109"/>
         <source>Contact Details</source>
         <translation>Podrobnosti stika</translation>
     </message>
@@ -1000,7 +997,7 @@
 <context>
     <name>TelepathyManager</name>
     <message>
-        <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="222"/>
+        <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="258"/>
         <source>%1 - %2</source>
         <translation>%1 – %2</translation>
     </message>
@@ -1010,38 +1007,38 @@
     <message>
         <location filename="../../VideoWindow.qml" line="166"/>
         <source>Call with %1</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Minimize me</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Maximize me</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Disable camera</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Enable camera</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="421"/>
         <source>Swap camera</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="19"/>
+        <location filename="../../main.qml" line="17"/>
         <source>Chat</source>
         <translation>Klepet</translation>
     </message>
@@ -1053,37 +1050,32 @@
     <message>
         <location filename="../../main.qml" line="458"/>
         <source>Available</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="460"/>
         <source>Busy</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="462"/>
         <source>Away</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="464"/>
         <source>Extended away</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="466"/>
         <source>Offline</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="468"/>
         <source>Invisible</source>
-        <translation/>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="609"/>
-        <source>Select contact</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

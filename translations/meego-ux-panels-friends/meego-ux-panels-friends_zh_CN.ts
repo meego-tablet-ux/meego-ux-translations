@@ -2,12 +2,12 @@
 <context>
     <name>FriendsItem</name>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="198"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="201"/>
         <source>Accept</source>
         <translation>接受</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="207"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="211"/>
         <source>Decline</source>
         <translation>拒绝</translation>
     </message>
@@ -27,33 +27,33 @@
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="36"/>
         <source>Friends panel content</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="134"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="129"/>
         <source>You have no web accounts enabled - tap here to configure your web accounts.</source>
         <translation>您尚未启用 Web 帐户；单击此处以配置您的 Web 帐户。</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="143"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="139"/>
         <source>Tap here!</source>
         <translation>单击此处！</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="204"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="245"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="200"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="241"/>
         <source>View</source>
         <translation>查看</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="207"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="243"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="245"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="203"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="239"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="241"/>
         <source>Hide</source>
         <translation>隐藏</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="371"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="368"/>
         <source>Go to settings</source>
         <translation>转到“设置”</translation>
     </message>

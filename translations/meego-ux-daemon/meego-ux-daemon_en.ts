@@ -13,6 +13,19 @@
     </message>
 </context>
 <context>
+    <name>hardnotification</name>
+    <message>
+        <location filename="../../hardnotification.qml" line="21"/>
+        <source>Decline</source>
+        <translation>Decline</translation>
+    </message>
+    <message>
+        <location filename="../../hardnotification.qml" line="22"/>
+        <source>Accept</source>
+        <translation>Accept</translation>
+    </message>
+</context>
+<context>
     <name>statusindicatormenu</name>
     <message>
         <location filename="../../statusindicatormenu.qml" line="182"/>

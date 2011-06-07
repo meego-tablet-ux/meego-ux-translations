@@ -2,32 +2,7 @@
 <context>
     <name>MainContent</name>
     <message>
-        <location filename="../../MainContent.qml" line="175"/>
-        <source>Delete &quot;%1&quot;</source>
-        <translation>Usuń &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <location filename="../../MainContent.qml" line="190"/>
-        <source>Deleting &quot;%1&quot; will also delete all of its data</source>
-        <translation>Usunięcie &quot;%1&quot; spowoduje również usunięcie wszystkich jego danych</translation>
-    </message>
-    <message>
-        <location filename="../../MainContent.qml" line="190"/>
-        <source>&quot;%1&quot; can not be deleted</source>
-        <translation>&quot;%1&quot; nie może zostać usunięty</translation>
-    </message>
-    <message>
-        <location filename="../../MainContent.qml" line="204"/>
-        <source>Delete</source>
-        <translation>Usuń</translation>
-    </message>
-    <message>
-        <location filename="../../MainContent.qml" line="216"/>
-        <source>Cancel</source>
-        <translation>Anuluj</translation>
-    </message>
-    <message>
-        <location filename="../../MainContent.qml" line="661"/>
+        <location filename="../../MainContent.qml" line="506"/>
         <source>Personalize</source>
         <translation>Spersonalizuj</translation>
     </message>

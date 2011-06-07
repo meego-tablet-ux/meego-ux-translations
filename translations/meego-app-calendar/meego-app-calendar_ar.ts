@@ -1,92 +1,39 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="ar" version="2.0">
 <context>
-    <name>AlarmListModel</name>
-    <message>
-        <location filename="../../lib/alarmlistmodel.cpp" line="26"/>
-        <source>No reminder</source>
-        <translation>بدون تذكير</translation>
-    </message>
-    <message>
-        <location filename="../../lib/alarmlistmodel.cpp" line="27"/>
-        <source>10 minutes before</source>
-        <translation>قبل 10 دقائق</translation>
-    </message>
-    <message>
-        <location filename="../../lib/alarmlistmodel.cpp" line="28"/>
-        <source>15 minutes before</source>
-        <translation>قبل 15 دقيقية</translation>
-    </message>
-    <message>
-        <location filename="../../lib/alarmlistmodel.cpp" line="29"/>
-        <source>30 minutes before</source>
-        <translation>قبل 30 دقيقية</translation>
-    </message>
-    <message>
-        <location filename="../../lib/alarmlistmodel.cpp" line="30"/>
-        <source>1 hour before</source>
-        <translation>1 قبل ساعة</translation>
-    </message>
-    <message>
-        <location filename="../../lib/alarmlistmodel.cpp" line="31"/>
-        <source>2 hours before</source>
-        <translation>2 قبل ساعتان</translation>
-    </message>
-    <message>
-        <location filename="../../lib/alarmlistmodel.cpp" line="32"/>
-        <source>1 day before</source>
-        <translation>1 قبل يوم</translation>
-    </message>
-    <message>
-        <location filename="../../lib/alarmlistmodel.cpp" line="33"/>
-        <source>2 days before</source>
-        <translation>2 قبل يومين</translation>
-    </message>
-    <message>
-        <location filename="../../lib/alarmlistmodel.cpp" line="34"/>
-        <source>1 week before</source>
-        <translation>1 قبل أسبوع</translation>
-    </message>
-    <message>
-        <location filename="../../lib/alarmlistmodel.cpp" line="35"/>
-        <source>Other...</source>
-        <translation>أخرى...</translation>
-    </message>
-</context>
-<context>
     <name>CalendarDayView</name>
     <message>
-        <location filename="../../CalendarDayView.qml" line="16"/>
+        <location filename="../../CalendarDayView.qml" line="17"/>
         <source>Day</source>
         <translation>اليوم</translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="24"/>
+        <location filename="../../CalendarDayView.qml" line="25"/>
         <source>Create new event</source>
         <translation>إنشاء حدث جديد</translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="24"/>
+        <location filename="../../CalendarDayView.qml" line="25"/>
         <source>Go to today</source>
         <translation>الذهاب إلى اليوم</translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="24"/>
+        <location filename="../../CalendarDayView.qml" line="25"/>
         <source>Go to date</source>
         <translation>الذهاب إلى تاريخ</translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="339"/>
+        <location filename="../../CalendarDayView.qml" line="342"/>
         <source>All day</source>
         <translation>كل يوم</translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="415"/>
+        <location filename="../../CalendarDayView.qml" line="418"/>
         <source>%1 more events exist</source>
         <comment>Events count</comment>
         <translation>%1 وجود أكثر من الأحداث</translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="568"/>
+        <location filename="../../CalendarDayView.qml" line="573"/>
         <source>%1 - %2</source>
         <comment>StartTime - EndTime</comment>
         <translation>%1 - %2</translation>
@@ -129,32 +76,32 @@
 <context>
     <name>CalendarMonthView</name>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="16"/>
+        <location filename="../../CalendarMonthView.qml" line="17"/>
         <source>Month</source>
         <translation>الشهر</translation>
     </message>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="25"/>
+        <location filename="../../CalendarMonthView.qml" line="26"/>
         <source>Create new event</source>
         <translation>إنشاء حدث جديد</translation>
     </message>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="25"/>
+        <location filename="../../CalendarMonthView.qml" line="26"/>
         <source>Go to today</source>
         <translation>الذهاب إلى اليوم</translation>
     </message>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="25"/>
+        <location filename="../../CalendarMonthView.qml" line="26"/>
         <source>Go to date</source>
         <translation>الذهاب إلى تاريخ</translation>
     </message>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="527"/>
+        <location filename="../../CalendarMonthView.qml" line="548"/>
         <source>All day</source>
         <translation>كل اليوم</translation>
     </message>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="527"/>
+        <location filename="../../CalendarMonthView.qml" line="548"/>
         <source>%1 - %2</source>
         <comment>StartTime - EndTime</comment>
         <translation>%1 - %2</translation>
@@ -163,46 +110,46 @@
 <context>
     <name>CalendarWeekView</name>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="16"/>
+        <location filename="../../CalendarWeekView.qml" line="17"/>
         <source>Week</source>
         <translation>أسبوع</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="24"/>
+        <location filename="../../CalendarWeekView.qml" line="25"/>
         <source>Create new event</source>
         <translation>إنشاء حدث جديد</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="24"/>
+        <location filename="../../CalendarWeekView.qml" line="25"/>
         <source>Go to today</source>
         <translation>الذهاب إلى اليوم</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="24"/>
+        <location filename="../../CalendarWeekView.qml" line="25"/>
         <source>Go to date</source>
         <translation>الذهاب إلى تاريخ</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="58"/>
         <location filename="../../CalendarWeekView.qml" line="78"/>
-        <location filename="../../CalendarWeekView.qml" line="124"/>
+        <location filename="../../CalendarWeekView.qml" line="125"/>
         <source>%1 - %2</source>
         <comment>Week's StartDate - Week's EndDate</comment>
         <translation>%1 - %2</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="310"/>
+        <location filename="../../CalendarWeekView.qml" line="311"/>
         <source>All Day</source>
         <translation>كل اليوم</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="353"/>
+        <location filename="../../CalendarWeekView.qml" line="354"/>
         <source>%1 more events exist</source>
         <comment>Events count</comment>
         <translation>%1 وجود أكثر من حدث</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="518"/>
+        <location filename="../../CalendarWeekView.qml" line="519"/>
         <source>%1 - %2</source>
         <comment>StartTime - EndTime</comment>
         <translation>%1 - %2</translation>
@@ -211,17 +158,17 @@
 <context>
     <name>EventActionsPopup</name>
     <message>
-        <location filename="../../EventActionsPopup.qml" line="47"/>
+        <location filename="../../EventActionsPopup.qml" line="48"/>
         <source>Event details</source>
         <translation>تفاصيل الحدث</translation>
     </message>
     <message>
-        <location filename="../../EventActionsPopup.qml" line="47"/>
+        <location filename="../../EventActionsPopup.qml" line="48"/>
         <source>Edit event</source>
         <translation>تحرير الحدث</translation>
     </message>
     <message>
-        <location filename="../../EventActionsPopup.qml" line="47"/>
+        <location filename="../../EventActionsPopup.qml" line="48"/>
         <source>Delete event</source>
         <translation>حذف الحدث</translation>
     </message>
@@ -229,51 +176,47 @@
 <context>
     <name>EventDetailsView</name>
     <message>
-        <location filename="../../EventDetailsView.qml" line="42"/>
+        <location filename="../../EventDetailsView.qml" line="43"/>
         <source>All day</source>
         <translation>كل يوم</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="44"/>
+        <location filename="../../EventDetailsView.qml" line="45"/>
         <source>%1, %2 - %3</source>
         <comment>Event StartDate, StartTime - EndTime </comment>
         <translation>%1, %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="128"/>
+        <location filename="../../EventDetailsView.qml" line="103"/>
+        <source>%1 (GMT %2)</source>
+        <comment>1:event time and 2:GMT offset</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../EventDetailsView.qml" line="112"/>
         <source>%1 %2</source>
         <comment>Repeats frequency</comment>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="128"/>
+        <location filename="../../EventDetailsView.qml" line="112"/>
         <source>Repeats</source>
         <translation>يكرر</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="194"/>
+        <location filename="../../EventDetailsView.qml" line="171"/>
         <source>Reminder: </source>
         <translation>تذكير :</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="240"/>
+        <location filename="../../EventDetailsView.qml" line="212"/>
         <source>Show in calendar view</source>
         <translation>اظهر في عرض التقويم</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="292"/>
-        <source>Back</source>
-        <translation>العودة</translation>
-    </message>
-    <message>
-        <location filename="../../EventDetailsView.qml" line="304"/>
+        <location filename="../../EventDetailsView.qml" line="249"/>
         <source>Edit</source>
         <translation>تحرير</translation>
-    </message>
-    <message>
-        <location filename="../../EventDetailsView.qml" line="317"/>
-        <source>Close</source>
-        <translation>إغلاق</translation>
     </message>
 </context>
 <context>
@@ -287,29 +230,24 @@
 <context>
     <name>MultipleEventsPopup</name>
     <message>
-        <location filename="../../MultipleEventsPopup.qml" line="61"/>
-        <source>Selected events</source>
-        <translation>أحداث مختارة</translation>
-    </message>
-    <message>
-        <location filename="../../MultipleEventsPopup.qml" line="128"/>
+        <location filename="../../MultipleEventsPopup.qml" line="103"/>
         <source>All day</source>
         <translation>كل اليوم</translation>
     </message>
     <message>
-        <location filename="../../MultipleEventsPopup.qml" line="128"/>
+        <location filename="../../MultipleEventsPopup.qml" line="103"/>
         <source>%1 - %2</source>
         <comment>StartTime - EndTime</comment>
         <translation>%1 - %2</translation>
     </message>
     <message>
-        <location filename="../../MultipleEventsPopup.qml" line="157"/>
+        <location filename="../../MultipleEventsPopup.qml" line="132"/>
         <source>%1, %2</source>
         <comment>Event StartDate, Start and End Time String</comment>
         <translation>%1, %2</translation>
     </message>
     <message>
-        <location filename="../../MultipleEventsPopup.qml" line="186"/>
+        <location filename="../../MultipleEventsPopup.qml" line="160"/>
         <source>Close</source>
         <translation>إغلاق</translation>
     </message>
@@ -317,248 +255,200 @@
 <context>
     <name>NewEventView</name>
     <message>
-        <location filename="../../NewEventView.qml" line="135"/>
+        <location filename="../../NewEventView.qml" line="123"/>
         <source>Error</source>
         <translation>خطأ</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="139"/>
+        <location filename="../../NewEventView.qml" line="127"/>
         <source>OK</source>
         <translation>موافق</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="148"/>
+        <location filename="../../NewEventView.qml" line="136"/>
         <source>Please check the date and time entered</source>
         <translation>يرجى التحقق من تاريخ والعناصر المدخلة</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="222"/>
+        <location filename="../../NewEventView.qml" line="210"/>
         <source>New event</source>
         <translation>حدث جديد</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="471"/>
+        <location filename="../../NewEventView.qml" line="463"/>
         <source>Event title</source>
         <translation>عنوان الحدث</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="541"/>
+        <location filename="../../NewEventView.qml" line="533"/>
         <source>Date &amp; time</source>
         <translation>التاريخ والوقت</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="592"/>
+        <location filename="../../NewEventView.qml" line="583"/>
         <source>All-day</source>
         <translation>طوال اليوم</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="645"/>
+        <location filename="../../NewEventView.qml" line="636"/>
         <source>Start time</source>
         <translation>وقت البدء</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="715"/>
+        <location filename="../../NewEventView.qml" line="706"/>
         <source>End time</source>
         <translation>وقت الانتهاء</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="798"/>
+        <location filename="../../NewEventView.qml" line="789"/>
         <source>More...</source>
         <translation>المزيد...</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="867"/>
+        <location filename="../../NewEventView.qml" line="858"/>
         <source>Time zone</source>
         <translation>منطقة زمنية</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="906"/>
+        <location filename="../../NewEventView.qml" line="890"/>
         <source>Repeat</source>
         <translation>كرر</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="932"/>
-        <location filename="../../NewEventView.qml" line="935"/>
+        <location filename="../../NewEventView.qml" line="915"/>
+        <location filename="../../NewEventView.qml" line="918"/>
         <source>Never</source>
         <translation>أبدا</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="935"/>
+        <location filename="../../NewEventView.qml" line="918"/>
         <source>Every day</source>
         <translation>كل يوم</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="935"/>
+        <location filename="../../NewEventView.qml" line="918"/>
         <source>Every week</source>
         <translation>كل أسبوع</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="935"/>
+        <location filename="../../NewEventView.qml" line="918"/>
         <source>Every 2 weeks</source>
         <translation>كل أسبوعين 2</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="935"/>
+        <location filename="../../NewEventView.qml" line="918"/>
         <source>Every month</source>
         <translation>كل شهر</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="935"/>
+        <location filename="../../NewEventView.qml" line="918"/>
         <source>Every year</source>
         <translation>كل عام</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="935"/>
-        <location filename="../../NewEventView.qml" line="1130"/>
+        <location filename="../../NewEventView.qml" line="918"/>
+        <location filename="../../NewEventView.qml" line="1110"/>
         <source>Other...</source>
         <translation>أخرى...</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="991"/>
+        <location filename="../../NewEventView.qml" line="973"/>
         <source>Repeats forever</source>
         <translation>يكرر إلى الأبد</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="991"/>
+        <location filename="../../NewEventView.qml" line="973"/>
         <source>Ends after number of times...</source>
         <translation>تنتهي بعد عدد من المرات...</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="991"/>
+        <location filename="../../NewEventView.qml" line="973"/>
         <source>Ends after date...</source>
         <translation>تنتهي بعد تاريخ...</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1100"/>
+        <location filename="../../NewEventView.qml" line="1081"/>
         <source>Reminders</source>
         <translation>تذكير</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1126"/>
-        <location filename="../../NewEventView.qml" line="1130"/>
+        <location filename="../../NewEventView.qml" line="1106"/>
+        <location filename="../../NewEventView.qml" line="1110"/>
         <source>No reminder</source>
         <translation>بدون تذكير</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1130"/>
+        <location filename="../../NewEventView.qml" line="1110"/>
         <source>10 minutes before</source>
         <translation>10 دقائق قبل</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1130"/>
+        <location filename="../../NewEventView.qml" line="1110"/>
         <source>15 minutes before</source>
         <translation>قبل 15 دقيقة</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1130"/>
+        <location filename="../../NewEventView.qml" line="1110"/>
         <source>30 minutes before</source>
         <translation>قبل 30 دقيقة</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1130"/>
+        <location filename="../../NewEventView.qml" line="1110"/>
         <source>1 hour before</source>
         <translation>1 قبل ساعة</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1130"/>
+        <location filename="../../NewEventView.qml" line="1110"/>
         <source>2 hours before</source>
         <translation>2 قبل ساعات</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1130"/>
+        <location filename="../../NewEventView.qml" line="1110"/>
         <source>1 day before</source>
         <translation>1 قبل يوم</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1130"/>
+        <location filename="../../NewEventView.qml" line="1110"/>
         <source>2 days before</source>
         <translation>2 قبل يومين</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1130"/>
+        <location filename="../../NewEventView.qml" line="1110"/>
         <source>1 week before</source>
         <translation>1 قبل أسبوع</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1175"/>
+        <location filename="../../NewEventView.qml" line="1154"/>
         <source>Location</source>
         <translation>الموقع</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1226"/>
+        <location filename="../../NewEventView.qml" line="1203"/>
         <source>Notes</source>
         <translation>ملاحظة</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1280"/>
+        <location filename="../../NewEventView.qml" line="1256"/>
         <source>Delete event</source>
         <translation>حذف الحدث</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1376"/>
+        <location filename="../../NewEventView.qml" line="1352"/>
         <source>Save</source>
         <translation>حفظ</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1396"/>
+        <location filename="../../NewEventView.qml" line="1372"/>
         <source>Cancel</source>
         <translation>إلغاء</translation>
     </message>
 </context>
 <context>
-    <name>RepeatEndListModel</name>
+    <name>TimeZoneListDelegate</name>
     <message>
-        <location filename="../../lib/repeatlistmodel.cpp" line="98"/>
-        <source>Repeats forever</source>
-        <translation>يكرر إلى الأبد</translation>
-    </message>
-    <message>
-        <location filename="../../lib/repeatlistmodel.cpp" line="99"/>
-        <source>Ends after number of times...</source>
-        <translation>تنتهي بعد عدد من مرات...</translation>
-    </message>
-    <message>
-        <location filename="../../lib/repeatlistmodel.cpp" line="100"/>
-        <source>Ends after date...</source>
-        <translation>تنتهي بعد تاريخ...</translation>
-    </message>
-</context>
-<context>
-    <name>RepeatListModel</name>
-    <message>
-        <location filename="../../lib/repeatlistmodel.cpp" line="27"/>
-        <source>Never</source>
-        <translation>أبدا</translation>
-    </message>
-    <message>
-        <location filename="../../lib/repeatlistmodel.cpp" line="28"/>
-        <source>Every day</source>
-        <translation>كل يوم</translation>
-    </message>
-    <message>
-        <location filename="../../lib/repeatlistmodel.cpp" line="29"/>
-        <source>Every week</source>
-        <translation>كل أسبوع</translation>
-    </message>
-    <message>
-        <location filename="../../lib/repeatlistmodel.cpp" line="30"/>
-        <source>Every 2 weeks</source>
-        <translation>كل أسبوعين 2</translation>
-    </message>
-    <message>
-        <location filename="../../lib/repeatlistmodel.cpp" line="31"/>
-        <source>Every month</source>
-        <translation>كل شهر</translation>
-    </message>
-    <message>
-        <location filename="../../lib/repeatlistmodel.cpp" line="32"/>
-        <source>Every year</source>
-        <translation>كل عام</translation>
-    </message>
-    <message>
-        <location filename="../../lib/repeatlistmodel.cpp" line="33"/>
-        <source>Other...</source>
-        <translation>أخرى...</translation>
+        <location filename="../../TimeZoneListDelegate.qml" line="46"/>
+        <source>%1 (GMT %2%3)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -648,24 +538,6 @@
         <location filename="../../lib/utilmethods.cpp" line="298"/>
         <source>Every year</source>
         <translation>كل عام</translation>
-    </message>
-</context>
-<context>
-    <name>ViewCalendarModel</name>
-    <message>
-        <location filename="../../lib/viewcalendarmodel.cpp" line="29"/>
-        <source>Day</source>
-        <translation>يوم</translation>
-    </message>
-    <message>
-        <location filename="../../lib/viewcalendarmodel.cpp" line="30"/>
-        <source>Week</source>
-        <translation>أسبوع</translation>
-    </message>
-    <message>
-        <location filename="../../lib/viewcalendarmodel.cpp" line="31"/>
-        <source>Month</source>
-        <translation>شهر</translation>
     </message>
 </context>
 <context>

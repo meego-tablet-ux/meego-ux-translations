@@ -2,49 +2,49 @@
 <context>
     <name>AccountContent</name>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="122"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="147"/>
         <source>Multiple accounts connected</source>
         <translation>Připojeno více účtů</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="123"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="148"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
         <translation>Opravdu chcete připojit tento účet? Tím, že to uděláte, budou všechny ostatní %1 účty odpojeny.</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="195"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="219"/>
         <source>There is already an account configured using this login. Please check your username.</source>
         <translation>Již existuje účet, který používá toto přihlášení.
 Ověřte, prosím, své uživatelské jméno.</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="196"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="220"/>
         <source>Sorry, there was a problem logging in. Please check your username and password.</source>
         <translation>Promiňte, ale při přihlašování se objevily nějaké potíže.
 Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="212"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="235"/>
         <source>Username:</source>
         <translation>Uživatelské jméno:</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="223"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="246"/>
         <source>Name / ID</source>
         <translation>Jméno / ID</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="231"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="254"/>
         <source>Password:</source>
         <translation>Heslo:</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="243"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="266"/>
         <source>Password</source>
         <translation>Heslo</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="260"/>
+        <location filename="../../plugin/IM/AccountContent.qml" line="283"/>
         <source>Advanced settings</source>
         <translation>Pokročilá nastavení</translation>
     </message>
@@ -75,33 +75,19 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
         <translation>Opravdu chcete připojit tento účet? Tím, že to uděláte, budou všechny ostatní %1 účty odpojeny.</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="183"/>
+        <location filename="../../AccountDelegate.qml" line="184"/>
         <source>Log out</source>
         <translation>Odhlásit se</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="185"/>
+        <location filename="../../AccountDelegate.qml" line="186"/>
         <source>Log in to %1</source>
         <translation>Přihlásit se k %1</translation>
     </message>
     <message>
-        <location filename="../../AccountDelegate.qml" line="187"/>
+        <location filename="../../AccountDelegate.qml" line="188"/>
         <source>Settings</source>
         <translation>Nastavení</translation>
-    </message>
-</context>
-<context>
-    <name>AccountOffline</name>
-    <message>
-        <location filename="../../AccountOffline.qml" line="27"/>
-        <location filename="../../AccountOffline.qml" line="64"/>
-        <source>Account is offline</source>
-        <translation>Účet není připojen</translation>
-    </message>
-    <message>
-        <location filename="../../AccountOffline.qml" line="67"/>
-        <source>Account is connecting</source>
-        <translation>Účet se připojuje</translation>
     </message>
 </context>
 <context>
@@ -112,12 +98,17 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
         <translation>Seznam účtů</translation>
     </message>
     <message>
-        <location filename="../../AccountScreenContent.qml" line="67"/>
+        <location filename="../../AccountScreenContent.qml" line="60"/>
+        <source>Loading accounts...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../AccountScreenContent.qml" line="72"/>
         <source>Choose an account</source>
         <translation>Vybrat účet</translation>
     </message>
     <message>
-        <location filename="../../AccountScreenContent.qml" line="97"/>
+        <location filename="../../AccountScreenContent.qml" line="102"/>
         <source>Add an account</source>
         <translation>Přidat účet</translation>
     </message>
@@ -136,12 +127,12 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="80"/>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="96"/>
+        <location filename="../../plugin/IM/AccountSetupBar.qml" line="100"/>
         <source>Delete account</source>
         <translation>Smazat účet</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="94"/>
+        <location filename="../../plugin/IM/AccountSetupBar.qml" line="98"/>
         <source>Are you sure to delete this account?</source>
         <translation>Jste si jistý, že chcete tento účet smazat?</translation>
     </message>
@@ -310,12 +301,12 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
 <context>
     <name>ConfirmationDialog</name>
     <message>
-        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="15"/>
+        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="18"/>
         <source>Yes</source>
         <translation>Ano</translation>
     </message>
     <message>
-        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="18"/>
+        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="21"/>
         <source>No</source>
         <translation>Ne</translation>
     </message>
@@ -323,88 +314,88 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
 <context>
     <name>ContactContentMenu</name>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="153"/>
+        <location filename="../../ContactContentMenu.qml" line="154"/>
         <source>Update status</source>
         <translation>Obnovit stav</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="208"/>
+        <location filename="../../ContactContentMenu.qml" line="209"/>
         <source>Available</source>
         <translation>Dostupný</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="213"/>
+        <location filename="../../ContactContentMenu.qml" line="214"/>
         <source>Away</source>
         <translation>Pryč</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="218"/>
+        <location filename="../../ContactContentMenu.qml" line="219"/>
         <source>Busy</source>
         <translation>Zaneprázdněný</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="223"/>
+        <location filename="../../ContactContentMenu.qml" line="224"/>
         <source>Invisible</source>
         <translation>Neviditelný</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="228"/>
+        <location filename="../../ContactContentMenu.qml" line="229"/>
         <source>Offline</source>
         <translation>Nepřipojený</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="239"/>
+        <location filename="../../ContactContentMenu.qml" line="240"/>
         <source>Your Status:</source>
         <translation>Váš stav:</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="315"/>
+        <location filename="../../ContactContentMenu.qml" line="318"/>
         <source>Custom status message</source>
         <translation>Zpráva o vlastním stavu</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="340"/>
-        <location filename="../../ContactContentMenu.qml" line="468"/>
+        <location filename="../../ContactContentMenu.qml" line="343"/>
+        <location filename="../../ContactContentMenu.qml" line="471"/>
         <source>Update</source>
         <translation>Aktualizovat</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="355"/>
+        <location filename="../../ContactContentMenu.qml" line="358"/>
         <source>Change display name</source>
         <translation>Změnit zobrazení jména</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="449"/>
+        <location filename="../../ContactContentMenu.qml" line="452"/>
         <source>Display name</source>
         <translation>Zobrazit jméno</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="488"/>
+        <location filename="../../ContactContentMenu.qml" line="491"/>
         <source>Add a friend</source>
         <translation>Přidat přítele</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="560"/>
+        <location filename="../../ContactContentMenu.qml" line="563"/>
         <source>Clear chat history</source>
         <translation>Smazat historii rozhovoru</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="573"/>
+        <location filename="../../ContactContentMenu.qml" line="576"/>
         <source>Log in</source>
         <translation>Přihlásit se</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="573"/>
+        <location filename="../../ContactContentMenu.qml" line="576"/>
         <source>Log out</source>
         <translation>Odhlásit se</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="623"/>
+        <location filename="../../ContactContentMenu.qml" line="636"/>
         <source>Multiple accounts connected</source>
         <translation>Připojeno více účtů</translation>
     </message>
     <message>
-        <location filename="../../ContactContentMenu.qml" line="624"/>
+        <location filename="../../ContactContentMenu.qml" line="637"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
         <translation>Opravdu chcete připojit tento účet? Tím, že to uděláte, budou všechny ostatní %1 účty odpojeny.</translation>
     </message>
@@ -447,7 +438,7 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
         <translation>Ukončit rozhovor</translation>
     </message>
     <message>
-        <location filename="../../ContactDelegate.qml" line="150"/>
+        <location filename="../../ContactDelegate.qml" line="151"/>
         <source>Delete contact</source>
         <translation>Smazat spojení</translation>
     </message>
@@ -524,9 +515,29 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
 <context>
     <name>ContactsScreenContent</name>
     <message>
-        <location filename="../../ContactsScreenContent.qml" line="165"/>
+        <location filename="../../ContactsScreenContent.qml" line="175"/>
         <source>Add a friend</source>
         <translation>Přidat přítele</translation>
+    </message>
+    <message>
+        <location filename="../../ContactsScreenContent.qml" line="204"/>
+        <source>Loading contacts...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ContactsScreenContent.qml" line="209"/>
+        <source>You haven&apos;t added any friends yet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ContactsScreenContent.qml" line="233"/>
+        <source>Account is offline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ContactsScreenContent.qml" line="235"/>
+        <source>Account is connecting...</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -551,32 +562,32 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
         <translation>Otevřít</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="201"/>
+        <location filename="../../FileTransferDelegate.qml" line="202"/>
         <source>There was a problem downloading</source>
         <translation>Při stahování se vyskytly potíže</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="203"/>
+        <location filename="../../FileTransferDelegate.qml" line="204"/>
         <source>There was a problem uploading</source>
         <translation>Při nahrávání se vyskytly potíže</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="206"/>
+        <location filename="../../FileTransferDelegate.qml" line="207"/>
         <source>Canceled</source>
         <translation>Zrušeno</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="230"/>
+        <location filename="../../FileTransferDelegate.qml" line="231"/>
         <source>Save</source>
         <translation>Uložit</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="244"/>
+        <location filename="../../FileTransferDelegate.qml" line="245"/>
         <source>Decline</source>
         <translation>Odmítnout</translation>
     </message>
     <message>
-        <location filename="../../FileTransferDelegate.qml" line="268"/>
+        <location filename="../../FileTransferDelegate.qml" line="269"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
@@ -672,17 +683,17 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
 <context>
     <name>IMFeedModel</name>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="334"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="341"/>
         <source>Add as friend?</source>
         <translation>Přidat jako přítele?</translation>
     </message>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="474"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="481"/>
         <source>Incoming call from %1</source>
         <translation>Příchozí hovor od %1</translation>
     </message>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="477"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="484"/>
         <source>Incoming file transfer from %1</source>
         <translation>Příchozí přenos souboru od %1</translation>
     </message>
@@ -698,42 +709,42 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
 <context>
     <name>ImSettings</name>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="17"/>
+        <location filename="../../settings/ImSettings.qml" line="16"/>
         <source>Instant Messaging Settings</source>
         <translation>Nastavení okamžité výměny zpráv</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="98"/>
+        <location filename="../../settings/ImSettings.qml" line="105"/>
         <source>Accounts</source>
         <translation>Účty</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="127"/>
+        <location filename="../../settings/ImSettings.qml" line="134"/>
         <source>Add another account</source>
         <translation>Přidat další účet</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="144"/>
+        <location filename="../../settings/ImSettings.qml" line="151"/>
         <source>General Settings</source>
         <translation>Obecná nastavení</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="166"/>
+        <location filename="../../settings/ImSettings.qml" line="173"/>
         <source>Show offline contacts</source>
         <translation>Ukázat nepřipojená spojení</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="204"/>
+        <location filename="../../settings/ImSettings.qml" line="211"/>
         <source>Notification on new message</source>
         <translation>Oznámení při nové zprávě</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="241"/>
+        <location filename="../../settings/ImSettings.qml" line="248"/>
         <source>Clear chat history</source>
         <translation>Smazat historii rozhovoru</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="265"/>
+        <location filename="../../settings/ImSettings.qml" line="272"/>
         <source>Blocked contacts</source>
         <translation>Zablokovaná spojení</translation>
     </message>
@@ -785,25 +796,9 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     </message>
 </context>
 <context>
-    <name>LoadingAccounts</name>
-    <message>
-        <location filename="../../LoadingAccounts.qml" line="28"/>
-        <source>Loading accounts</source>
-        <translation>Nahrávají se účty</translation>
-    </message>
-</context>
-<context>
-    <name>LoadingConversationHistory</name>
-    <message>
-        <location filename="../../LoadingConversationHistory.qml" line="29"/>
-        <source>Loading conversation history</source>
-        <translation>Nahrává se historie rozhovoru</translation>
-    </message>
-</context>
-<context>
     <name>Message indicating the contact has been added</name>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="530"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="541"/>
         <source>has been added as contact</source>
         <translation>byl přidán jako spojení</translation>
     </message>
@@ -896,27 +891,29 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
 <context>
     <name>MessageScreenContent</name>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="309"/>
+        <location filename="../../MessageScreenContent.qml" line="173"/>
+        <source>Opening chat...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../MessageScreenContent.qml" line="184"/>
+        <source>Loading conversation history...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../MessageScreenContent.qml" line="332"/>
         <source>Send</source>
         <translation>Poslat</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="494"/>
+        <location filename="../../MessageScreenContent.qml" line="522"/>
         <source>Group conversation</source>
         <translation>Skupinový hovor</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="498"/>
+        <location filename="../../MessageScreenContent.qml" line="526"/>
         <source>Chat with %1</source>
         <translation>Rozhovor s %1</translation>
-    </message>
-</context>
-<context>
-    <name>NoFriends</name>
-    <message>
-        <location filename="../../NoFriends.qml" line="27"/>
-        <source>You haven&apos;t added any friends yet</source>
-        <translation>Ještě jste nepřidal žádného přítele</translation>
     </message>
 </context>
 <context>
@@ -974,27 +971,27 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
 <context>
     <name>SendFileView</name>
     <message>
-        <location filename="../../SendFileView.qml" line="51"/>
+        <location filename="../../SendFileView.qml" line="59"/>
         <source>Send:</source>
         <translation>Poslat:</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="62"/>
+        <location filename="../../SendFileView.qml" line="70"/>
         <source>Photo</source>
         <translation>Fotografie</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="74"/>
+        <location filename="../../SendFileView.qml" line="83"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="86"/>
+        <location filename="../../SendFileView.qml" line="96"/>
         <source>Music</source>
         <translation>Hudba</translation>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="98"/>
+        <location filename="../../SendFileView.qml" line="109"/>
         <source>Contact Details</source>
         <translation>Podrobnosti spojení</translation>
     </message>
@@ -1002,7 +999,7 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
 <context>
     <name>TelepathyManager</name>
     <message>
-        <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="222"/>
+        <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="258"/>
         <source>%1 - %2</source>
         <translation>%1 - %2</translation>
     </message>
@@ -1043,7 +1040,7 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="19"/>
+        <location filename="../../main.qml" line="17"/>
         <source>Chat</source>
         <translation>Rozhovor</translation>
     </message>
@@ -1081,11 +1078,6 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
         <location filename="../../main.qml" line="468"/>
         <source>Invisible</source>
         <translation>Neviditelný</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="609"/>
-        <source>Select contact</source>
-        <translation>Vybrat spojení</translation>
     </message>
 </context>
 <context>

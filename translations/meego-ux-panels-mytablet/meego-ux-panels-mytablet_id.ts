@@ -2,54 +2,65 @@
 <context>
     <name>MyTabletPanel</name>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="57"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="51"/>
         <source>Wi-Fi</source>
         <translation>Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="63"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="57"/>
         <source>Sound</source>
         <translation>Suara</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="69"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="63"/>
         <source>All settings</source>
         <translation>Semua pengaturan</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="85"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="79"/>
         <source>View all applications</source>
         <translation>Tilik semua aplikasi</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="95"/>
-        <source>Visit the Intel AppUp(sm) center</source>
-        <translation>Kunjungi pusat AppUp(sm) Intel</translation>
-    </message>
-    <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="117"/>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="158"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="112"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="170"/>
         <source>Top applications</source>
         <translation>Aplikasi top</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="118"/>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="166"/>
-        <source>Settings</source>
-        <translation>Pengaturan</translation>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="121"/>
+        <source>Visit the Intel AppUp(sm) center</source>
+        <translation>Kunjungi pusat AppUp(sm) Intel</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="124"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="123"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="178"/>
+        <source>Featured applications</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="126"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="186"/>
+        <source>Updated applications</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="136"/>
         <source>My Tablet</source>
         <translation>Tabletku</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="177"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="194"/>
+        <source>Settings</source>
+        <translation>Pengaturan</translation>
+    </message>
+    <message>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="204"/>
         <source>My Tablet settings</source>
         <translation>Pengaturan Tabletku</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="178"/>
+        <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="205"/>
         <source>My Tablet content</source>
         <translation>Isi Tabletku</translation>
     </message>

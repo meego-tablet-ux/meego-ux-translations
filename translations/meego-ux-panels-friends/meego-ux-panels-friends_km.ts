@@ -2,12 +2,12 @@
 <context>
     <name>FriendsItem</name>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="198"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="201"/>
         <source>Accept</source>
         <translation>យល់​ព្រម</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="207"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="211"/>
         <source>Decline</source>
         <translation>បដិសេធ</translation>
     </message>
@@ -30,30 +30,30 @@
         <translation>មាតិកា​បន្ទះ​មិត្ត​ភក្តិ</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="134"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="129"/>
         <source>You have no web accounts enabled - tap here to configure your web accounts.</source>
         <translation>អ្នក​មិន​មាន​គណនី​វែប​ទេ - ប៉ះ​ទី​នេះ ដើម្បី​កំណត់​គណនី​វែប​របស់​អ្នក។</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="143"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="139"/>
         <source>Tap here!</source>
         <translation>ប៉ះ​ទីនេះ!</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="204"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="245"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="200"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="241"/>
         <source>View</source>
         <translation>មើល</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="207"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="243"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="245"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="203"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="239"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="241"/>
         <source>Hide</source>
         <translation>លាក់​បាំង</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="371"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="368"/>
         <source>Go to settings</source>
         <translation>ទៅ​កាន់​ការ​កំណត់</translation>
     </message>

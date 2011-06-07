@@ -270,53 +270,168 @@
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
-        <source>Where is all the music?</source>
-        <translation>أين  الموسيقى؟</translation>
+        <source>You have no music on this tablet</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="75"/>
-        <source>Buy, download or copy your music onto your tablet, then you can enjoy listening to it from here.</source>
-        <translation>شراء ، تنزيل أو نسخ الموسيقى الخاصة بك على القرص الخاص ، يمكنك التمتع الاستماع إليها من هنا.</translation>
+        <source>Download or copy your music onto the tablet. Connect the tablet to your computer with a USB cable, via WiFi or bluetooth.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="639"/>
+        <location filename="../../main.qml" line="76"/>
+        <source>Your play queue is empty</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="77"/>
+        <source>Add music to the play queue</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="78"/>
+        <source>What&apos;s the play queue?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="79"/>
+        <source>A place to queue up the music you want to hear. You can queue albums, playlists or individual tracks. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="80"/>
+        <source>How do I queue music?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="81"/>
+        <source>To queue music, tap the &apos;Add music to the play queue&apos; button. You can also tap and hold a song, album or playlist, then select &apos;Add to play queue&apos;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="82"/>
+        <source>How do I get music?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="83"/>
+        <source>Download or copy your music onto the tablet. Connect the tablet to your computer with a USB cable, via Wi-Fi or bluetooth.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="84"/>
+        <source>Add tracks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="85"/>
+        <source>Add playlists</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="86"/>
+        <source>Add albums</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="87"/>
+        <source>You have no playlists</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="88"/>
+        <source>Create a playlist</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="89"/>
+        <source>What&apos;s a playlist?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="90"/>
+        <source>A compilation of music created by you. Create playlists to suit your mood, your activities and to share with friends.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="91"/>
+        <source>How do I add music to a playlist?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="92"/>
+        <source>To add music to a playlist, tap and hold the track you want to add. Then select &apos;Add to playlist&apos;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="95"/>
+        <source>You don&apos;t have any favourite music tracks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="96"/>
+        <source>View all music tracks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="97"/>
+        <source>What are favourites?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="98"/>
+        <source>The place to keep the music tracks you like most.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="99"/>
+        <source>How do I create favourites?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="100"/>
+        <source>To add music to your favourites, tap and hold a music track you love. Then select &apos;Favourite&apos;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="651"/>
         <source>Artist name</source>
         <translation>اسم الفنان</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="647"/>
+        <location filename="../../main.qml" line="659"/>
         <source>Track name</source>
         <translation>اسم المسار</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="661"/>
+        <location filename="../../main.qml" line="673"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>إذا قمت بحذف هذا ، سوف يتم إزالته من جهازك</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="674"/>
+        <location filename="../../main.qml" line="686"/>
         <source>Permanently delete this song?</source>
         <translation>حذف هذه الأغنية؟</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="674"/>
+        <location filename="../../main.qml" line="686"/>
         <source>Permanently delete these %1 songs?</source>
         <translation>حذف هذه %1 الأغاني؟</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="687"/>
+        <location filename="../../main.qml" line="699"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>إذا قمت بحذف هذه ، سيتم إزالتها من جهازك</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="735"/>
-        <location filename="../../main.qml" line="778"/>
+        <location filename="../../main.qml" line="746"/>
+        <location filename="../../main.qml" line="789"/>
         <source>Invalid characters: %1</source>
         <translation>أحرف غير صحيحة: %1</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="1785"/>
-        <location filename="../../main.qml" line="2084"/>
+        <location filename="../../main.qml" line="1853"/>
+        <location filename="../../main.qml" line="2152"/>
         <source>%1 songs</source>
         <translation>%1 الأغاني</translation>
     </message>

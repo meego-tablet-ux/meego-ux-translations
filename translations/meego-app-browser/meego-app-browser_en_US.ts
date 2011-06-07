@@ -133,35 +133,53 @@ IDS_SXS_SHORTCUT_NAME
 </context><context>
     <name>BookmarkList</name>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="201"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="180"/>
         <source>Delete bookmark</source>
         <translation>Delete bookmark</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="202"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="181"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="236"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="205"/>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="224"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="184"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="226"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="207"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="186"/>
         <source>Are you sure you want to delete this bookmark?</source>
         <translation>Are you sure you want to delete this bookmark?</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="222"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="202"/>
         <source>Edit bookmark</source>
         <translation>Edit bookmark</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="223"/>
-        <source>Save</source>
-        <translation>Save</translation>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="213"/>
+        <source>Done</source>
+        <translation type="unfinished"/>
+    </message>
+</context><context>
+    <name>BookmarkListEditDialog</name>
+    <message>
+        <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="134"/>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="135"/>
+        <source>OK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="274"/>
+        <source>left-to-right</source>
+        <translation type="unfinished"/>
     </message>
 </context><context>
     <name>DownloadShelf</name>

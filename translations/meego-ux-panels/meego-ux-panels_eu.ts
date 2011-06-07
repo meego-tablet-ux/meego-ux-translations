@@ -2,9 +2,9 @@
 <context>
     <name>BackPanelClearButton</name>
     <message>
-        <location filename="../../panellib/Panels/BackPanelClearButton.qml" line="21"/>
+        <location filename="../../panellib/Panels/BackPanelClearButton.qml" line="22"/>
         <source>Clear history</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12,7 +12,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="43"/>
         <source>Panels</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="46"/>
@@ -31,35 +31,50 @@
 <context>
     <name>WifiDialog</name>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="93"/>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="103"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="95"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="105"/>
         <source>No connection currently</source>
         <translation>Ez dago konexiorik</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="96"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="98"/>
         <source>Wired</source>
         <translation>Kableduna</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="101"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="103"/>
         <source>Connected to %1</source>
         <translation>%1-ra konektatuta</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="106"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="108"/>
         <source>Connected by %1</source>
         <translation>%1-ren bidez konektauta</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="142"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="144"/>
         <source>Wi-Fi</source>
         <translation>Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="194"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="197"/>
         <source>Wi-Fi settings</source>
         <translation>Wi-Fi-aren ezarpenak</translation>
+    </message>
+    <message>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
+        <source>Airplane Mode is ON</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
+        <source>To connect WiFi turn off Airplane Mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
+        <source>Turn off Airplane Mode</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>

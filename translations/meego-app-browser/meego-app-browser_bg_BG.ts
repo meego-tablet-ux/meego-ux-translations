@@ -9,7 +9,7 @@
 - description: Title of the dialog to create application shortcuts for current page.
 - condition: not pp_ifdef('use_titlecase') or os != 'linux2'
 </extracomment>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="id" line="-1157106606"/>
@@ -28,7 +28,7 @@
 - description: In Title Case: title of the dialog to create application shortcuts for current page.
 - condition: pp_ifdef('use_titlecase') and os == 'linux2'
 </extracomment>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="id" line="2005581839"/>
@@ -37,7 +37,7 @@
         <extracomment>IDS_BOOMARK_BUBBLE_FOLDER_TEXT
 - description: Text preceding the folder selector
 </extracomment>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="id" line="1935848576"/>
@@ -133,35 +133,53 @@ IDS_SXS_SHORTCUT_NAME
 </context><context>
     <name>BookmarkList</name>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="201"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="180"/>
         <source>Delete bookmark</source>
         <translation>Изтриване на показалец</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="202"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="181"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="236"/>
         <source>Delete</source>
         <translation>Изтриване</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="205"/>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="224"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="184"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="226"/>
         <source>Cancel</source>
         <translation>Отказ</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="207"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="186"/>
         <source>Are you sure you want to delete this bookmark?</source>
         <translation>Наистина ли искате да изтриете тази отметка?</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="222"/>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="202"/>
         <source>Edit bookmark</source>
         <translation>Редактиране на отметката</translation>
     </message>
     <message>
-        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="223"/>
-        <source>Save</source>
-        <translation>Запази</translation>
+        <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="213"/>
+        <source>Done</source>
+        <translation type="unfinished"/>
+    </message>
+</context><context>
+    <name>BookmarkListEditDialog</name>
+    <message>
+        <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="134"/>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="135"/>
+        <source>OK</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="274"/>
+        <source>left-to-right</source>
+        <translation type="unfinished"/>
     </message>
 </context><context>
     <name>DownloadShelf</name>

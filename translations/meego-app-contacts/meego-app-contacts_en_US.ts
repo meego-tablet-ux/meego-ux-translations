@@ -85,10 +85,13 @@
         <translation>(...)</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="101"/>
-        <location filename="../../ContactCardPortrait.qml" line="103"/>
-        <source>%1  %2</source>
-        <translation>%1  %2</translation>
+        <location filename="../../ContactCardPortrait.qml" line="102"/>
+        <location filename="../../ContactCardPortrait.qml" line="105"/>
+        <source>%1 %2</source>
+        <extracomment>%1 is last name, %2 is first name
+----------
+%1 is first name, %2 is last name</extracomment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -542,14 +545,6 @@
     </message>
 </context>
 <context>
-    <name>IndexModel</name>
-    <message>
-        <location filename="../../IndexModel.qml" line="8"/>
-        <source>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z #</source>
-        <translation/>
-    </message>
-</context>
-<context>
     <name>NewContactViewPortrait</name>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="29"/>
@@ -669,7 +664,7 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="56"/>
         <source>Add address</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -795,7 +790,7 @@
     <message>
         <location filename="../../main.qml" line="34"/>
         <source>UnFavorite</source>
-        <translation/>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
