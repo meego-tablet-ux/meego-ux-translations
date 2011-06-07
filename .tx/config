@@ -130,6 +130,7 @@ source_lang = en
 [meego-media.ux-media-1-2]
 file_filter = translations/meego-ux-media/meego-ux-media_<lang>.ts
 host = http://www.transifex.net
+source_file = translations/meego-ux-media/meego-ux-media_en.ts
 source_lang = en
 
 [meego-media.ux-media-qml-1-2]
