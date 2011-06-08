@@ -68,240 +68,240 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="37"/>
+        <location filename="../../main.qml" line="29"/>
         <source>All</source>
         <translation>모두</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="38"/>
+        <location filename="../../main.qml" line="30"/>
         <source>Newest</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="39"/>
+        <location filename="../../main.qml" line="31"/>
         <source>Favorites</source>
         <translation>즐겨찾기</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="40"/>
+        <location filename="../../main.qml" line="32"/>
         <source>Recently viewed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="41"/>
+        <location filename="../../main.qml" line="33"/>
         <source>Share</source>
         <translation>공유</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="42"/>
-        <location filename="../../main.qml" line="43"/>
+        <location filename="../../main.qml" line="34"/>
+        <location filename="../../main.qml" line="35"/>
         <source>Photos</source>
         <translation>사진</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="44"/>
+        <location filename="../../main.qml" line="36"/>
         <source>Albums</source>
         <translation>앨범</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="45"/>
+        <location filename="../../main.qml" line="37"/>
         <source>Timeline</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="46"/>
+        <location filename="../../main.qml" line="38"/>
         <source>New album</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="47"/>
+        <location filename="../../main.qml" line="39"/>
         <source>Open</source>
         <translation>열기</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="48"/>
+        <location filename="../../main.qml" line="40"/>
         <source>Play slideshow</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="49"/>
+        <location filename="../../main.qml" line="41"/>
         <source>Full screen</source>
         <translation>전체 화면</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="50"/>
+        <location filename="../../main.qml" line="42"/>
         <source>Leave full screen</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="51"/>
+        <location filename="../../main.qml" line="43"/>
         <source>Favorite</source>
         <translation>호감</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="52"/>
+        <location filename="../../main.qml" line="44"/>
         <source>Unfavorite</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="53"/>
+        <location filename="../../main.qml" line="45"/>
         <source>Add to album</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="54"/>
+        <location filename="../../main.qml" line="46"/>
         <source>Remove from album</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="55"/>
+        <location filename="../../main.qml" line="47"/>
         <source>Delete?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="56"/>
+        <location filename="../../main.qml" line="48"/>
         <source>Delete</source>
         <translation>삭제</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="57"/>
+        <location filename="../../main.qml" line="49"/>
         <source>Delete album</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="58"/>
+        <location filename="../../main.qml" line="50"/>
         <source>Delete photo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="59"/>
+        <location filename="../../main.qml" line="51"/>
         <source>Rename photo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="60"/>
+        <location filename="../../main.qml" line="52"/>
         <source>1 photo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="61"/>
+        <location filename="../../main.qml" line="53"/>
         <source>%1 photos</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="62"/>
+        <location filename="../../main.qml" line="54"/>
         <source>Create new album</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="63"/>
+        <location filename="../../main.qml" line="55"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="64"/>
+        <location filename="../../main.qml" line="56"/>
         <source>Set as background</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="66"/>
+        <location filename="../../main.qml" line="58"/>
         <source>Are you sure you want to delete this photo?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="67"/>
+        <location filename="../../main.qml" line="59"/>
         <source>Are you sure you want to delete the %1 selected photos?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="68"/>
+        <location filename="../../main.qml" line="60"/>
         <source>Are you sure you want to delete this album?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="70"/>
+        <location filename="../../main.qml" line="62"/>
         <source>You have no photos</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="71"/>
+        <location filename="../../main.qml" line="63"/>
         <source>You haven&apos;t added any photos recently</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="72"/>
+        <location filename="../../main.qml" line="64"/>
         <source>You don&apos;t have any favorite photos</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="73"/>
+        <location filename="../../main.qml" line="65"/>
         <source>You haven&apos;t viewed any photos recently</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="74"/>
+        <location filename="../../main.qml" line="66"/>
         <source>You have no albums</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="75"/>
+        <location filename="../../main.qml" line="67"/>
         <source>You haven&apos;t added any albums recently</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="76"/>
+        <location filename="../../main.qml" line="68"/>
         <source>You haven&apos;t viewed any albums recently</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="77"/>
+        <location filename="../../main.qml" line="69"/>
         <source>You don&apos;t have any photos in this album</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="79"/>
+        <location filename="../../main.qml" line="71"/>
         <source>Take a photo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="80"/>
+        <location filename="../../main.qml" line="72"/>
         <source>View all photos</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="81"/>
+        <location filename="../../main.qml" line="73"/>
         <source>Create an album</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="90"/>
+        <location filename="../../main.qml" line="82"/>
         <source>Album title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="98"/>
+        <location filename="../../main.qml" line="90"/>
         <source>Photo title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="302"/>
-        <location filename="../../main.qml" line="593"/>
-        <location filename="../../main.qml" line="753"/>
+        <location filename="../../main.qml" line="306"/>
+        <location filename="../../main.qml" line="592"/>
+        <location filename="../../main.qml" line="752"/>
         <source>Show only:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="656"/>
+        <location filename="../../main.qml" line="655"/>
         <source>Create</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="668"/>
+        <location filename="../../main.qml" line="667"/>
         <source>Album name</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="1181"/>
+        <location filename="../../main.qml" line="1171"/>
         <source>Type in a new name</source>
         <translation type="unfinished"/>
     </message>

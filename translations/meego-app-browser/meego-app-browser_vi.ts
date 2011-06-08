@@ -9,7 +9,7 @@
 - description: Title of the dialog to create application shortcuts for current page.
 - condition: not pp_ifdef('use_titlecase') or os != 'linux2'
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Tạo đường dẫn đến các ứng dụng</translation>
     </message>
     <message>
         <location filename="id" line="-1157106606"/>
@@ -18,7 +18,7 @@
         <extracomment>IDS_BOOMARK_BUBBLE_PAGE_BOOKMARKED
 - description: Title of the bubble after bookmarking something
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Thêm đánh dấu trang!</translation>
     </message>
     <message>
         <location filename="id" line="1267962439"/>
@@ -28,7 +28,7 @@
 - description: In Title Case: title of the dialog to create application shortcuts for current page.
 - condition: pp_ifdef('use_titlecase') and os == 'linux2'
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Tạo đường dẫn đến ứng dụng</translation>
     </message>
     <message>
         <location filename="id" line="2005581839"/>
@@ -37,7 +37,7 @@
         <extracomment>IDS_BOOMARK_BUBBLE_FOLDER_TEXT
 - description: Text preceding the folder selector
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Thêm đánh dấu trang đến:</translation>
     </message>
     <message>
         <location filename="id" line="1935848576"/>
@@ -46,7 +46,7 @@
         <extracomment>IDS_BOOKMARK_MANAGER_TITLE
 - description: Title of the bookmark manager window.
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Đánh dấu trang</translation>
     </message>
     <message>
         <location filename="id" line="282316645"/>
@@ -59,7 +59,7 @@ IDS_BOOKMARK_MANAGER
 - description: In Title Case: The label of the menu item that shows the bookmark manager
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>&amp;Đánh dấu trang</translation>
     </message>
     <message>
         <location filename="id" line="1522912963"/>
@@ -68,7 +68,7 @@ IDS_BOOKMARK_MANAGER
         <extracomment>IDS_ABOUT_VERSION_COMPANY_NAME
 - description: Company name on the about pages
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>MeeGo</translation>
     </message>
     <message>
         <location filename="id" line="496379237"/>
@@ -77,7 +77,7 @@ IDS_BOOKMARK_MANAGER
         <extracomment>IDS_PASSWORD_MANAGER_SAVE_PASSWORD_PROMPT
 - description: Info bar message to save a password
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Bạn có muốn trình duyệt Meego lưu mật khẩu hộ bạn?</translation>
     </message>
     <message>
         <location filename="id" line="311677227"/>
@@ -86,7 +86,7 @@ IDS_BOOKMARK_MANAGER
         <extracomment>IDS_ABOUT_VERSION_COPYRIGHT
 - description: Copyright information on the about pages
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Bản quyền thuộc về © 2010-2011 MeeGo. Trân trọng thông báo.</translation>
     </message>
     <message>
         <location filename="id" line="-1572705952"/>
@@ -95,7 +95,7 @@ IDS_BOOKMARK_MANAGER
         <extracomment>IDS_DEFAULT_BROWSER_INFOBAR_SHORT_TEXT
 - description: More compact text to show in the default browser query infobar.
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Trình duyệt MeeGo không phải là trình duyệt mặc định.</translation>
     </message>
     <message>
         <location filename="id" line="-209926424"/>
@@ -104,7 +104,7 @@ IDS_BOOKMARK_MANAGER
         <extracomment>IDS_SESSION_CRASHED_VIEW_MESSAGE
 - description: Message shown when the last session didn't exit cleanly.
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Trình duyệt MeeGo không được tắt đúng cách. Để mở lại các trang đã duyệt, chọn Restore.</translation>
     </message>
     <message>
         <location filename="id" line="1550207900"/>
@@ -115,7 +115,7 @@ IDS_BOOKMARK_MANAGER
 IDS_SXS_SHORTCUT_NAME
 - description: The Chrome short cut name for SxS channel
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Trình duyệt MeeGo</translation>
     </message>
 </context>
 <context>
@@ -123,58 +123,58 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="74"/>
         <source>Photos</source>
-        <translation type="unfinished"/>
+        <translation>Ảnh</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="84"/>
         <source>Movies</source>
-        <translation type="unfinished"/>
+        <translation>Phim</translation>
     </message>
 </context><context>
     <name>BookmarkList</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="180"/>
         <source>Delete bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Xóa đánh dấu trang</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="181"/>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="236"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Xóa</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="184"/>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="226"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Hủy</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="186"/>
         <source>Are you sure you want to delete this bookmark?</source>
-        <translation type="unfinished"/>
+        <translation>Bạn có chắc chắn muốn xóa đánh dấu trang này không?</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="202"/>
         <source>Edit bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Sửa đánh dấu trang</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="213"/>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Xong</translation>
     </message>
 </context><context>
     <name>BookmarkListEditDialog</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="134"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Hủy</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="135"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="274"/>
@@ -186,6 +186,6 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/DownloadShelf.qml" line="220"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Xóa</translation>
     </message>
 </context></TS>

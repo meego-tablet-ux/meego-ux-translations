@@ -4,12 +4,12 @@
     <message>
         <location filename="../../alarm.qml" line="32"/>
         <source>Alarm</source>
-        <translation type="unfinished"/>
+        <translation>鬧鈴</translation>
     </message>
     <message>
         <location filename="../../alarm.qml" line="33"/>
         <source>Snooze</source>
-        <translation type="unfinished"/>
+        <translation>貪睡</translation>
     </message>
 </context>
 <context>
@@ -17,12 +17,12 @@
     <message>
         <location filename="../../hardnotification.qml" line="21"/>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>拒絕</translation>
     </message>
     <message>
         <location filename="../../hardnotification.qml" line="22"/>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>接受</translation>
     </message>
 </context>
 <context>

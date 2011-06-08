@@ -72,7 +72,7 @@
     <message>
         <location filename="../../AlarmTile.qml" line="151"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Save</translation>
     </message>
     <message>
         <location filename="../../AlarmTile.qml" line="171"/>

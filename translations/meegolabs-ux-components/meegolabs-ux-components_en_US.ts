@@ -140,7 +140,7 @@
         <location filename="../../localehelper.cpp" line="129"/>
         <source>MMMM d</source>
         <extracomment>MMMM = full month, d = day of month (e.g. January 31)</extracomment>
-        <translation type="unfinished"/>
+        <translation>MMMM d</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="133"/>
@@ -196,12 +196,12 @@
     <message>
         <location filename="../../relativetimestamp.cpp" line="40"/>
         <source>Just Now</source>
-        <translation type="unfinished"/>
+        <translation>Just Now</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="42"/>
         <source>1 min ago</source>
-        <translation type="unfinished"/>
+        <translation>1 min ago</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="44"/>
@@ -212,17 +212,17 @@
     <message>
         <location filename="../../relativetimestamp.cpp" line="47"/>
         <source>Half an hour ago</source>
-        <translation type="unfinished"/>
+        <translation>Half an hour ago</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="49"/>
         <source>An hour ago</source>
-        <translation type="unfinished"/>
+        <translation>An hour ago</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="51"/>
         <source>A couple of hours ago</source>
-        <translation type="unfinished"/>
+        <translation>A couple of hours ago</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="53"/>
@@ -239,55 +239,55 @@
         <location filename="../../relativetimestamp.cpp" line="60"/>
         <source>%1/%2/%3 - %4</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is day name</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - %4</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="66"/>
         <source>%1/%2/%3 - Last week</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - Last week</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="71"/>
         <source>%1/%2/%3 - A couple of weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - A couple of weeks ago</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="76"/>
         <source>%1/%2/%3 - %4 weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is number of weeks</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - %4 weeks ago</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="82"/>
         <source>%1/%2/%3 - Last month</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - Last month</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="87"/>
         <source>%1/%2/%3 - A couple of months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - A couple of months ago</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="96"/>
         <source>%1/%2/%3 - %4 months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - %4 months ago</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="102"/>
         <source>%1/%2/%3 - Last year</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - Last year</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="107"/>
         <source>%1/%2/%3 - %4 years ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - %4 years ago</translation>
     </message>
 </context>
 </TS>

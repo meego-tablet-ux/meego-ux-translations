@@ -4,22 +4,22 @@
     <message>
         <location filename="../../CalendarDayView.qml" line="17"/>
         <source>Day</source>
-        <translation type="unfinished"/>
+        <translation>Día</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="25"/>
         <source>Create new event</source>
-        <translation type="unfinished"/>
+        <translation>Crear nuevo evento</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="25"/>
         <source>Go to today</source>
-        <translation type="unfinished"/>
+        <translation>Ir a hoy</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="25"/>
         <source>Go to date</source>
-        <translation type="unfinished"/>
+        <translation>Ir a fecha</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="342"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="124"/>
         <source>%1 more events</source>
-        <translation type="unfinished"/>
+        <translation>%1 eventos</translation>
     </message>
 </context>
 <context>
@@ -78,22 +78,22 @@
     <message>
         <location filename="../../CalendarMonthView.qml" line="17"/>
         <source>Month</source>
-        <translation type="unfinished"/>
+        <translation>Me</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="26"/>
         <source>Create new event</source>
-        <translation type="unfinished"/>
+        <translation>Crear nuevo evento</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="26"/>
         <source>Go to today</source>
-        <translation type="unfinished"/>
+        <translation>Ir a hoy</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="26"/>
         <source>Go to date</source>
-        <translation type="unfinished"/>
+        <translation>Ir a fecha</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="548"/>
@@ -112,22 +112,22 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="17"/>
         <source>Week</source>
-        <translation type="unfinished"/>
+        <translation>Semana</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="25"/>
         <source>Create new event</source>
-        <translation type="unfinished"/>
+        <translation>Crear nuevo evento</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="25"/>
         <source>Go to today</source>
-        <translation type="unfinished"/>
+        <translation>Ir a hoy</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="25"/>
         <source>Go to date</source>
-        <translation type="unfinished"/>
+        <translation>Ir a fecha</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="58"/>
@@ -140,7 +140,7 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="311"/>
         <source>All Day</source>
-        <translation type="unfinished"/>
+        <translation>Todo el día</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="354"/>
@@ -178,30 +178,30 @@
     <message>
         <location filename="../../EventDetailsView.qml" line="43"/>
         <source>All day</source>
-        <translation type="unfinished"/>
+        <translation>Todo el día</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="45"/>
         <source>%1, %2 - %3</source>
         <comment>Event StartDate, StartTime - EndTime </comment>
-        <translation type="unfinished"/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="103"/>
         <source>%1 (GMT %2)</source>
         <comment>1:event time and 2:GMT offset</comment>
-        <translation type="unfinished"/>
+        <translation>%1 (GMT %2)</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="112"/>
         <source>%1 %2</source>
         <comment>Repeats frequency</comment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="112"/>
         <source>Repeats</source>
-        <translation type="unfinished"/>
+        <translation>Repetir</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="171"/>
@@ -238,13 +238,13 @@
         <location filename="../../MultipleEventsPopup.qml" line="103"/>
         <source>%1 - %2</source>
         <comment>StartTime - EndTime</comment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="132"/>
         <source>%1, %2</source>
         <comment>Event StartDate, Start and End Time String</comment>
-        <translation type="unfinished"/>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="160"/>
@@ -323,48 +323,48 @@
     <message>
         <location filename="../../NewEventView.qml" line="918"/>
         <source>Every day</source>
-        <translation type="unfinished"/>
+        <translation>Cada día</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="918"/>
         <source>Every week</source>
-        <translation type="unfinished"/>
+        <translation>Cada semana</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="918"/>
         <source>Every 2 weeks</source>
-        <translation type="unfinished"/>
+        <translation>Cada 2 semanas</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="918"/>
         <source>Every month</source>
-        <translation type="unfinished"/>
+        <translation>Cada mes</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="918"/>
         <source>Every year</source>
-        <translation type="unfinished"/>
+        <translation>Cada año</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="918"/>
         <location filename="../../NewEventView.qml" line="1110"/>
         <source>Other...</source>
-        <translation type="unfinished"/>
+        <translation>Otro...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="973"/>
         <source>Repeats forever</source>
-        <translation type="unfinished"/>
+        <translation>Repetir siempre</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="973"/>
         <source>Ends after number of times...</source>
-        <translation type="unfinished"/>
+        <translation>Terminar después de un número de veces...</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="973"/>
         <source>Ends after date...</source>
-        <translation type="unfinished"/>
+        <translation>Terminar después de una fecha</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1081"/>
@@ -380,42 +380,42 @@
     <message>
         <location filename="../../NewEventView.qml" line="1110"/>
         <source>10 minutes before</source>
-        <translation type="unfinished"/>
+        <translation>10 minutos antes</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1110"/>
         <source>15 minutes before</source>
-        <translation type="unfinished"/>
+        <translation>15 minutos antes</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1110"/>
         <source>30 minutes before</source>
-        <translation type="unfinished"/>
+        <translation>30 minutos antes</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1110"/>
         <source>1 hour before</source>
-        <translation type="unfinished"/>
+        <translation>1 hora antes</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1110"/>
         <source>2 hours before</source>
-        <translation type="unfinished"/>
+        <translation>2 horas antes</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1110"/>
         <source>1 day before</source>
-        <translation type="unfinished"/>
+        <translation>1 día antes</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1110"/>
         <source>2 days before</source>
-        <translation type="unfinished"/>
+        <translation>2 días antes</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1110"/>
         <source>1 week before</source>
-        <translation type="unfinished"/>
+        <translation>1 semana antes</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1154"/>
@@ -448,7 +448,7 @@
     <message>
         <location filename="../../TimeZoneListDelegate.qml" line="46"/>
         <source>%1 (GMT %2%3)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (GMT %2%3)</translation>
     </message>
 </context>
 <context>
@@ -565,7 +565,7 @@
     <message>
         <location filename="../../main.qml" line="88"/>
         <source>Delete event?</source>
-        <translation type="unfinished"/>
+        <translation>¿Eliminar evento?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="92"/>

@@ -11,7 +11,7 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="59"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="300"/>
         <source>Coming up in play queue</source>
-        <translation type="unfinished"/>
+        <translation>Música seguinte na fila de reprodução</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="60"/>
@@ -91,7 +91,7 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="371"/>
         <source>Add music to the play queue</source>
-        <translation>Adicionar músicas à lista de reprodução</translation>
+        <translation>Adicionar músicas à fila de reprodução</translation>
     </message>
 </context>
 </TS>

@@ -68,17 +68,17 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="276"/>
         <source>%1 photo</source>
-        <translation type="unfinished"/>
+        <translation>%1 張相片</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="276"/>
         <source>%1 photos</source>
-        <translation type="unfinished"/>
+        <translation>%1 張相片</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="286"/>
         <source>Created %1</source>
-        <translation type="unfinished"/>
+        <translation>已建立 %1</translation>
     </message>
 </context>
 </TS>

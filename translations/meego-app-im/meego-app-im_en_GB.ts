@@ -192,14 +192,14 @@
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="199"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="939"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="941"/>
         <source>Call could not be accepted</source>
         <translation>Call could not be accepted</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="373"/>
-        <source>Could not set hold = %</source>
-        <translation>Could not set hold = %</translation>
+        <source>Unable to set hold</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="473"/>
@@ -213,38 +213,44 @@
         <translation>Unable to create call channel for contact %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="898"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="899"/>
         <source>Unable to create channel: %1 - %2</source>
+        <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Unable to create channel: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="913"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="914"/>
         <source>Unable to create channel</source>
         <translation>Unable to create channel</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="927"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="929"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
+        <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>Unable to create call channel for contact %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="983"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="986"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
+        <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>Invalidated call channel for contact %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1255"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1259"/>
         <source>Error ending call: %1 - %2</source>
+        <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Error ending call: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1269"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1274"/>
         <source>Call could not be accepted %1 - %2</source>
+        <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Call could not be accepted %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1284"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1290"/>
         <source>Hold request could not be done %1 - %2</source>
+        <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Hold request could not be done %1 - %2</translation>
     </message>
 </context>
@@ -261,38 +267,42 @@
         <translation>Unable to create text channel for contact %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="137"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="138"/>
         <source>Unable to create channel: %1 - %2</source>
+        <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Unable to create channel: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="152"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="153"/>
         <source>Unable to create channel</source>
         <translation>Unable to create channel</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="165"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="166"/>
         <source>Channel not available</source>
         <translation>Channel not available</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="190"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="192"/>
         <source>Unable to create text channel for contact %1 - %2 - %3</source>
+        <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>Unable to create text channel for contact %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="208"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="210"/>
         <source>Unable to create text channel</source>
         <translation>Unable to create text channel</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="263"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="266"/>
         <source>Invalidated text channel  %1 - %2 - %3</source>
+        <extracomment>%1 room id - %2 error name - %3 error message</extracomment>
         <translation>Invalidated text channel  %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="268"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="272"/>
         <source>Invalidated text channel for contact %1 - %2 - %3</source>
+        <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>Invalidated text channel for contact %1 - %2 - %3</translation>
     </message>
 </context>
@@ -513,27 +523,27 @@
 <context>
     <name>ContactsScreenContent</name>
     <message>
-        <location filename="../../ContactsScreenContent.qml" line="175"/>
+        <location filename="../../ContactsScreenContent.qml" line="176"/>
         <source>Add a friend</source>
         <translation>Add a friend</translation>
     </message>
     <message>
-        <location filename="../../ContactsScreenContent.qml" line="204"/>
+        <location filename="../../ContactsScreenContent.qml" line="205"/>
         <source>Loading contacts...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../ContactsScreenContent.qml" line="209"/>
+        <location filename="../../ContactsScreenContent.qml" line="210"/>
         <source>You haven&apos;t added any friends yet</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../ContactsScreenContent.qml" line="233"/>
+        <location filename="../../ContactsScreenContent.qml" line="234"/>
         <source>Account is offline</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../ContactsScreenContent.qml" line="235"/>
+        <location filename="../../ContactsScreenContent.qml" line="236"/>
         <source>Account is connecting...</source>
         <translation type="unfinished"/>
     </message>
@@ -547,8 +557,9 @@
         <translation>Channel not available</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="152"/>
+        <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="153"/>
         <source>Invalidated file transfer channel for contact %1 - %2 - %3</source>
+        <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>Invalidated file transfer channel for contact %1 - %2 - %3</translation>
     </message>
 </context>
@@ -748,24 +759,6 @@
     </message>
 </context>
 <context>
-    <name>IncomingCall</name>
-    <message>
-        <location filename="../../IncomingCall.qml" line="16"/>
-        <source>Incoming Call</source>
-        <translation>Incoming Call</translation>
-    </message>
-    <message>
-        <location filename="../../IncomingCall.qml" line="18"/>
-        <source>Accept</source>
-        <translation>Accept</translation>
-    </message>
-    <message>
-        <location filename="../../IncomingCall.qml" line="21"/>
-        <source>Decline</source>
-        <translation>Decline</translation>
-    </message>
-</context>
-<context>
     <name>JabberAccountContent</name>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="51"/>
@@ -865,24 +858,30 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../MessageDelegate.qml" line="147"/>
-        <location filename="../../MessageDelegate.qml" line="151"/>
+        <location filename="../../MessageDelegate.qml" line="148"/>
+        <location filename="../../MessageDelegate.qml" line="153"/>
         <source>%1 - %2</source>
+        <extracomment>%1 is event decsribing what happened - %2 is date and time
+----------
+%1 is event of what happened - %2 is date and time</extracomment>
         <translation>%1 - %2</translation>
     </message>
     <message>
-        <location filename="../../MessageDelegate.qml" line="174"/>
+        <location filename="../../MessageDelegate.qml" line="177"/>
         <source>%1 tried to call - %2</source>
+        <extracomment>%1 contact id who called - %2 date time of the call</extracomment>
         <translation>%1 tried to call - %2</translation>
     </message>
     <message>
-        <location filename="../../MessageDelegate.qml" line="176"/>
+        <location filename="../../MessageDelegate.qml" line="180"/>
         <source>%1 rejected call - %2</source>
+        <extracomment>%1 contact id who rejected the call - %2 date time of the call</extracomment>
         <translation>%1 rejected call - %2</translation>
     </message>
     <message>
-        <location filename="../../MessageDelegate.qml" line="178"/>
+        <location filename="../../MessageDelegate.qml" line="183"/>
         <source>%1 called - duration %2 - %3</source>
+        <extracomment>%1 contact id who called - %2 duration of the call - %3 date time of the call</extracomment>
         <translation>%1 called - duration %2 - %3</translation>
     </message>
 </context>
@@ -904,12 +903,12 @@
         <translation>Send</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="522"/>
+        <location filename="../../MessageScreenContent.qml" line="518"/>
         <source>Group conversation</source>
         <translation>Group conversation</translation>
     </message>
     <message>
-        <location filename="../../MessageScreenContent.qml" line="526"/>
+        <location filename="../../MessageScreenContent.qml" line="522"/>
         <source>Chat with %1</source>
         <translation>Chat with %1</translation>
     </message>
@@ -928,6 +927,11 @@
         <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="130"/>
         <source>%1 is sending you the file %2</source>
         <translation>%1 is sending you the file %2</translation>
+    </message>
+    <message>
+        <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="143"/>
+        <source>%1 is calling you</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -999,38 +1003,39 @@
     <message>
         <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="258"/>
         <source>%1 - %2</source>
+        <extracomment>%1 is the display name for contact - %2 is the service name</extracomment>
         <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
     <name>VideoWindow</name>
     <message>
-        <location filename="../../VideoWindow.qml" line="166"/>
+        <location filename="../../VideoWindow.qml" line="165"/>
         <source>Call with %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../VideoWindow.qml" line="419"/>
+        <location filename="../../VideoWindow.qml" line="418"/>
         <source>Minimize me</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../VideoWindow.qml" line="419"/>
+        <location filename="../../VideoWindow.qml" line="418"/>
         <source>Maximize me</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../VideoWindow.qml" line="420"/>
+        <location filename="../../VideoWindow.qml" line="419"/>
         <source>Disable camera</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../VideoWindow.qml" line="420"/>
+        <location filename="../../VideoWindow.qml" line="419"/>
         <source>Enable camera</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../VideoWindow.qml" line="421"/>
+        <location filename="../../VideoWindow.qml" line="420"/>
         <source>Swap camera</source>
         <translation type="unfinished"/>
     </message>
@@ -1043,37 +1048,37 @@
         <translation>Chat</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="451"/>
+        <location filename="../../main.qml" line="459"/>
         <source>Account switcher</source>
         <translation>Account switcher</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="458"/>
+        <location filename="../../main.qml" line="466"/>
         <source>Available</source>
         <translation>Available</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="460"/>
+        <location filename="../../main.qml" line="468"/>
         <source>Busy</source>
         <translation>Busy</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="462"/>
+        <location filename="../../main.qml" line="470"/>
         <source>Away</source>
         <translation>Away</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="464"/>
+        <location filename="../../main.qml" line="472"/>
         <source>Extended away</source>
         <translation>Extended away</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="466"/>
+        <location filename="../../main.qml" line="474"/>
         <source>Offline</source>
         <translation>Offline</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="468"/>
+        <location filename="../../main.qml" line="476"/>
         <source>Invisible</source>
         <translation>Invisible</translation>
     </message>

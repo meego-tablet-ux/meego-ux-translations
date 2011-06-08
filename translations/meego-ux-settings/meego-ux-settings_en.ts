@@ -1,77 +1,95 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="en" version="2.0">
 <context>
+    <name>BacklightSettings</name>
+    <message>
+        <location filename="../../General/BacklightSettings.qml" line="35"/>
+        <source>Set brightness automatically</source>
+        <translation>Set brightness automatically</translation>
+    </message>
+    <message>
+        <location filename="../../General/BacklightSettings.qml" line="58"/>
+        <source>Brightness</source>
+        <translation>Brightness</translation>
+    </message>
+    <message>
+        <location filename="../../General/BacklightSettings.qml" line="62"/>
+        <source>%1%</source>
+        <translation>%1%</translation>
+    </message>
+</context>
+<context>
     <name>BluetoothDeviceExpandingBox</name>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="68"/>
-        <source>Disconnect Audio</source>
-        <translation>Disconnect Audio</translation>
+        <source>Disconnect audio</source>
+        <translation>Disconnect audio</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="72"/>
-        <source>Connect Audio</source>
-        <translation>Connect Audio</translation>
+        <source>Connect audio</source>
+        <translation>Connect audio</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="92"/>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="98"/>
-        <source>Disconnect Input Device</source>
-        <translation>Disconnect Input Device</translation>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="103"/>
+        <source>Disconnect input device</source>
+        <translation>Disconnect input device</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="92"/>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="102"/>
-        <source>Connect Input Device</source>
-        <translation>Connect Input Device</translation>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="107"/>
+        <source>Connect input device</source>
+        <translation>Connect input device</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="122"/>
-        <source>Disconnect Internet</source>
-        <translation>Disconnect Internet</translation>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="128"/>
+        <source>Disconnect internet</source>
+        <translation>Disconnect internet</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="122"/>
-        <source>Connect Internet</source>
-        <translation>Connect Internet</translation>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="128"/>
+        <source>Connect internet</source>
+        <translation>Connect internet</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="177"/>
-        <source>Connect Actions</source>
-        <translation>Connect Actions</translation>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="183"/>
+        <source>Connect actions</source>
+        <translation>Connect actions</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="228"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="234"/>
         <source>Manage</source>
         <translation>Manage</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="235"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="241"/>
         <source>Remove</source>
         <translation>Remove</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="249"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="255"/>
         <source>Properties</source>
         <translation>Properties</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="254"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="260"/>
         <source>Paired: %1</source>
         <translation>Paired: %1</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="262"/>
-        <source>Hardware Address: %1</source>
-        <translation>Hardware Address: %1</translation>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="268"/>
+        <source>Hardware address: %1</source>
+        <translation>Hardware address: %1</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="270"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="276"/>
         <source>Icon: %1</source>
         <translation>Icon: %1</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="278"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="284"/>
         <source>UUIDs: %1</source>
         <translation>UUIDs: %1</translation>
     </message>
@@ -90,24 +108,24 @@
         <translation>No bluetooth adapter present</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="99"/>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="98"/>
         <source>Discoverable</source>
         <translation>Discoverable</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="110"/>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="109"/>
         <source>Discoverable for %1 seconds</source>
         <translation>Discoverable for %1 seconds</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="156"/>
-        <source>Paired Devices</source>
-        <translation>Paired Devices</translation>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="155"/>
+        <source>Paired devices</source>
+        <translation>Paired devices</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="169"/>
-        <source>Add Device</source>
-        <translation>Add Device</translation>
+        <source>Add device</source>
+        <translation>Add device</translation>
     </message>
 </context>
 <context>
@@ -257,8 +275,8 @@
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="30"/>
-        <source>Manual APN Entry</source>
-        <translation>Manual APN Entry</translation>
+        <source>Manual APN entry</source>
+        <translation>Manual APN entry</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="60"/>
@@ -366,34 +384,34 @@
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="65"/>
-        <source>Airplane Mode</source>
-        <translation>Airplane Mode</translation>
+        <source>Airplane mode</source>
+        <translation>Airplane mode</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="98"/>
-        <source>Network Connections</source>
-        <translation>Network Connections</translation>
+        <source>Network connections</source>
+        <translation>Network connections</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="197"/>
-        <source>Available Networks</source>
-        <translation>Available Networks</translation>
+        <source>Available networks</source>
+        <translation>Available networks</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="206"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="220"/>
-        <source>Add Network</source>
-        <translation>Add Network</translation>
+        <source>Add network</source>
+        <translation>Add network</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="234"/>
-        <source>Network Name:</source>
-        <translation>Network Name:</translation>
+        <source>Network name:</source>
+        <translation>Network name:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="250"/>
-        <source>Security Type:</source>
-        <translation>Security Type:</translation>
+        <source>Security type:</source>
+        <translation>Security type:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
@@ -407,8 +425,8 @@
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="272"/>
-        <source>Security Passphrase:</source>
-        <translation>Security Passphrase:</translation>
+        <source>Security passphrase:</source>
+        <translation>Security passphrase:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="298"/>
@@ -425,8 +443,8 @@
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="33"/>
-        <source>Time and Date</source>
-        <translation>Time and Date</translation>
+        <source>Time and date</source>
+        <translation>Time and date</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="49"/>
@@ -434,9 +452,19 @@
         <translation>Sound</translation>
     </message>
     <message>
-        <location filename="../../General/GeneralSettings.qml" line="55"/>
+        <location filename="../../General/GeneralSettings.qml" line="56"/>
         <source>%1%</source>
         <translation>%1%</translation>
+    </message>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="76"/>
+        <source>Backlight control</source>
+        <translation>Backlight control</translation>
+    </message>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="94"/>
+        <source>Screen saver</source>
+        <translation>Screen saver</translation>
     </message>
 </context>
 <context>
@@ -628,6 +656,14 @@ Status message: successfully completed sync job.</extracomment>
     </message>
 </context>
 <context>
+    <name>NearbyDeviceExpandingBox</name>
+    <message>
+        <location filename="../../Bluetooth/NearbyDeviceExpandingBox.qml" line="55"/>
+        <source>(%1)</source>
+        <translation>(%1)</translation>
+    </message>
+</context>
+<context>
     <name>NearbyDevices</name>
     <message>
         <location filename="../../Bluetooth/NearbyDevices.qml" line="17"/>
@@ -654,19 +690,16 @@ Status message: successfully completed sync job.</extracomment>
     </message>
 </context>
 <context>
-    <name>PanelSettings</name>
-    <message>
-        <location filename="../../Panels/PanelSettings.qml" line="18"/>
-        <source>Panels</source>
-        <translation>Panels</translation>
-    </message>
-</context>
-<context>
     <name>Personalize</name>
     <message>
-        <location filename="../../Personalize/Personalize.qml" line="16"/>
+        <location filename="../../Personalize/Personalize.qml" line="17"/>
         <source>Personalize</source>
         <translation>Personalize</translation>
+    </message>
+    <message>
+        <location filename="../../Personalize/Personalize.qml" line="80"/>
+        <source>Panels</source>
+        <translation>Panels</translation>
     </message>
 </context>
 <context>
@@ -711,6 +744,24 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="36"/>
         <source>Accept</source>
         <translation>Accept</translation>
+    </message>
+</context>
+<context>
+    <name>ScreensaverSettings</name>
+    <message>
+        <location filename="../../General/ScreensaverSettings.qml" line="35"/>
+        <source>Screen Saver Enabled</source>
+        <translation>Screen Saver Enabled</translation>
+    </message>
+    <message>
+        <location filename="../../General/ScreensaverSettings.qml" line="67"/>
+        <source>Screen Saver Timeout</source>
+        <translation>Screen Saver Timeout</translation>
+    </message>
+    <message>
+        <location filename="../../General/ScreensaverSettings.qml" line="71"/>
+        <source>%1 Minutes</source>
+        <translation>%1 Minutes</translation>
     </message>
 </context>
 <context>
@@ -838,66 +889,56 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>TimeDateSettings</name>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="35"/>
+        <location filename="../../General/TimeDateSettings.qml" line="39"/>
         <source>What time it is</source>
         <translation>What time it is</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="107"/>
+        <location filename="../../General/TimeDateSettings.qml" line="112"/>
         <source>24 hour clock</source>
         <translation>24 hour clock</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="136"/>
+        <location filename="../../General/TimeDateSettings.qml" line="141"/>
         <source>Set date and time automatically</source>
         <translation>Set date and time automatically</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="164"/>
+        <location filename="../../General/TimeDateSettings.qml" line="172"/>
         <source>Where you are</source>
         <translation>Where you are</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="183"/>
-        <location filename="../../General/TimeDateSettings.qml" line="214"/>
+        <location filename="../../General/TimeDateSettings.qml" line="191"/>
+        <location filename="../../General/TimeDateSettings.qml" line="225"/>
         <source>Current Time Zone is %1</source>
         <translation>Current Time Zone is %1</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="200"/>
+        <location filename="../../General/TimeDateSettings.qml" line="208"/>
         <source>Find me and keep my location updated</source>
         <translation>Find me and keep my location updated</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="236"/>
+        <location filename="../../General/TimeDateSettings.qml" line="247"/>
         <source>Manual Time Zone Selection</source>
         <translation>Manual Time Zone Selection</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="255"/>
+        <location filename="../../General/TimeDateSettings.qml" line="266"/>
         <source>Set Time Zone</source>
         <translation>Set Time Zone</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="270"/>
+        <location filename="../../General/TimeDateSettings.qml" line="279"/>
         <source>Current Time Zone is </source>
         <translation>Current Time Zone is </translation>
-    </message>
-    <message>
-        <location filename="../../General/TimeDateSettings.qml" line="276"/>
-        <source>Unable to set time zone manually</source>
-        <translation>Unable to set time zone manually</translation>
     </message>
 </context>
 <context>
     <name>WallpaperTools</name>
     <message>
         <location filename="../../Personalize/WallpaperTools.qml" line="30"/>
-        <source>Pick a color</source>
-        <translation>Pick a color</translation>
-    </message>
-    <message>
-        <location filename="../../Personalize/WallpaperTools.qml" line="42"/>
         <source>Pick a photo</source>
         <translation>Pick a photo</translation>
     </message>
@@ -978,8 +1019,8 @@ Status message: successfully completed sync job.</extracomment>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="238"/>
-        <source>Remove Connection</source>
-        <translation>Remove Connection</translation>
+        <source>Remove connection</source>
+        <translation>Remove connection</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="249"/>
@@ -993,8 +1034,8 @@ Status message: successfully completed sync job.</extracomment>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="300"/>
-        <source>Subnet Mask:</source>
-        <translation>Subnet Mask:</translation>
+        <source>Subnet mask:</source>
+        <translation>Subnet mask:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="318"/>
@@ -1008,8 +1049,8 @@ Status message: successfully completed sync job.</extracomment>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="353"/>
-        <source>Hardware Address:</source>
-        <translation>Hardware Address:</translation>
+        <source>Hardware address:</source>
+        <translation>Hardware address:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="372"/>
@@ -1048,8 +1089,8 @@ Status message: successfully completed sync job.</extracomment>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="489"/>
-        <source>Show Password</source>
-        <translation>Show Password</translation>
+        <source>Show password</source>
+        <translation>Show password</translation>
     </message>
 </context>
 <context>
@@ -1060,7 +1101,7 @@ Status message: successfully completed sync job.</extracomment>
         <translation>All Settings</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="106"/>
+        <location filename="../../main.qml" line="107"/>
         <source>Settings</source>
         <translation>Settings</translation>
     </message>

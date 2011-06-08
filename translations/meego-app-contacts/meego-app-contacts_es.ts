@@ -82,7 +82,7 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="73"/>
         <source>(...)</source>
-        <translation type="unfinished"/>
+        <translation>(...)</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="102"/>
@@ -91,7 +91,7 @@
         <extracomment>%1 is last name, %2 is first name
 ----------
 %1 is first name, %2 is last name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -99,12 +99,12 @@
     <message>
         <location filename="../../ContactsExpandableDetails.qml" line="31"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Añadir</translation>
     </message>
     <message>
         <location filename="../../ContactsExpandableDetails.qml" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -354,7 +354,7 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="38"/>
         <source>Pronounciation</source>
-        <translation type="unfinished"/>
+        <translation>Pronunciación</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="39"/>
@@ -394,52 +394,52 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="50"/>
         <source>Phone numbers</source>
-        <translation type="unfinished"/>
+        <translation>Números de teléfono</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="51"/>
         <source>Add number</source>
-        <translation type="unfinished"/>
+        <translation>Añadir número</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="52"/>
         <source>Instant messaging</source>
-        <translation type="unfinished"/>
+        <translation>Mesajería Instantánea</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="53"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>Añadir cuenta</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="54"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>Correo electrónico</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="55"/>
         <source>Add email address</source>
-        <translation type="unfinished"/>
+        <translation>Añadir correos electrónicos</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="56"/>
         <source>Web</source>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="57"/>
         <source>Add web page</source>
-        <translation type="unfinished"/>
+        <translation>Añadir página web</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="58"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Dirección</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="59"/>
         <source>Add address</source>
-        <translation type="unfinished"/>
+        <translation>Añadir dirección</translation>
     </message>
 </context>
 <context>
@@ -511,7 +511,7 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="28"/>
         <source>Yahoo!</source>
-        <translation type="unfinished"/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="29"/>
@@ -531,7 +531,7 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="32"/>
         <source>Account Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipo de cuenta</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="33"/>
@@ -574,7 +574,7 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="34"/>
         <source>Pronounciation</source>
-        <translation type="unfinished"/>
+        <translation>Pronunciación</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="35"/>
@@ -619,52 +619,52 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="47"/>
         <source>Phone numbers</source>
-        <translation type="unfinished"/>
+        <translation>Números de teléfono</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="48"/>
         <source>Add number</source>
-        <translation type="unfinished"/>
+        <translation>Añadir número</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="49"/>
         <source>Instant messaging</source>
-        <translation type="unfinished"/>
+        <translation>Mensajería instantánea</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="50"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>Añadir cuenta</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="51"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>Correo electrónico</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="52"/>
         <source>Add email address</source>
-        <translation type="unfinished"/>
+        <translation>Añadir correos electrónicos</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="53"/>
         <source>Web</source>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="54"/>
         <source>Add web page</source>
-        <translation type="unfinished"/>
+        <translation>Añadir página web</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="55"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Dirección</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="56"/>
         <source>Add address</source>
-        <translation type="unfinished"/>
+        <translation>Añadir dirección</translation>
     </message>
 </context>
 <context>
@@ -790,7 +790,7 @@
     <message>
         <location filename="../../main.qml" line="34"/>
         <source>UnFavorite</source>
-        <translation type="unfinished"/>
+        <translation>Desmarcar favorito</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>

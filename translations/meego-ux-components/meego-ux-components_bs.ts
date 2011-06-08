@@ -2,106 +2,100 @@
 <context>
     <name>FuzzyDateTime</name>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="30"/>
-        <source>Just now</source>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="31"/>
+        <source>Just Now</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="32"/>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="33"/>
         <source>1 min ago</source>
         <translation>prije 1 minutu</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="34"/>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="35"/>
         <source>%1 mins ago</source>
         <comment>1 is number of minutes</comment>
         <translation>prije %1 minuta</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="37"/>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="38"/>
         <source>Half an hour ago</source>
         <translation>prije pola sata</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="39"/>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="40"/>
         <source>An hour ago</source>
         <translation>prije sat</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="41"/>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="42"/>
         <source>A couple of hours ago</source>
         <translation>prije par sati</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="43"/>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="44"/>
         <source>%1 hours ago</source>
         <comment>1 is number of hours</comment>
         <translation>prije %1 sati</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="47"/>
-        <source>M/d/yy</source>
-        <comment>QDateTime format string: M is numeric month, d is num. day, yy is year; e.g. 1/31/11</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="50"/>
-        <source>%1 - %2</source>
-        <comment>%1 is formatted date, %2 is fuzzy date description, e.g. 1/31/11 - Last week</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="53"/>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="49"/>
         <source>Yesterday</source>
-        <comment>Fuzzy date description</comment>
         <translation>Jučer</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="57"/>
-        <source>Last week</source>
-        <comment>Fuzzy date description</comment>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="52"/>
+        <source>%1/%2/%3 - %4</source>
+        <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year, 4 is day name; e.g. 5/31/11 - Tuesday</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="59"/>
-        <source>A couple of weeks ago</source>
-        <comment>Fuzzy date description</comment>
+        <source>%1/%2/%3 - Last week</source>
+        <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year; Last week is a fuzzy description</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="62"/>
-        <source>%1 weeks ago</source>
-        <comment>Fuzzy date description - %1 is a number</comment>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="65"/>
+        <source>%1/%2/%3 - A couple of weeks ago</source>
+        <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year; A couple of weeks ago is a fuzzy description</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="64"/>
-        <source>Last month</source>
-        <comment>Fuzzy date description</comment>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="71"/>
+        <source>%1/%2/%3 - %4 weeks ago</source>
+        <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year, 4 is number of weeks; weeks ago is a fuzzy description</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="66"/>
-        <source>A couple of months ago</source>
-        <comment>Fuzzy date description</comment>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="78"/>
+        <source>%1/%2/%3 - Last month</source>
+        <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year; Last month is a fuzzy description</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="72"/>
-        <source>%1 months ago</source>
-        <comment>Fuzzy date description - %1 is a number</comment>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="84"/>
+        <source>%1/%2/%3 - A couple of months ago</source>
+        <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year; A couple of months ago is a fuzzy description</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="74"/>
-        <source>Last year</source>
-        <comment>Fuzzy date description</comment>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="94"/>
+        <source>%1/%2/%3 - %4 months ago</source>
+        <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year, 4 is number of months; month ago is a fuzzy description</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="77"/>
-        <source>%1 years ago</source>
-        <comment>Fuzzy date description - %1 is a number</comment>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="101"/>
+        <source>%1/%2/%3 - Last year</source>
+        <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year; Last year is a fuzzy description</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="107"/>
+        <source>%1/%2/%3 - %4 years ago</source>
+        <comment>1 is month, 2 is day, 3 is year</comment>
+        <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year, 4 is number of years; years ago is a fuzzy description</extracomment>
         <translation type="unfinished"/>
     </message>
 </context>

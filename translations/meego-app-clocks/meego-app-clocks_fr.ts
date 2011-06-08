@@ -77,7 +77,7 @@
     <message>
         <location filename="../../AlarmTile.qml" line="171"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="../../AlarmTile.qml" line="181"/>

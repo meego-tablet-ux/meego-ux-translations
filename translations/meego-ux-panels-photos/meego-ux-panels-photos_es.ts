@@ -26,7 +26,7 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="102"/>
         <source>Photos panel content</source>
-        <translation type="unfinished"/>
+        <translation>Contenido del panel de fotos</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="130"/>
@@ -68,17 +68,17 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="276"/>
         <source>%1 photo</source>
-        <translation type="unfinished"/>
+        <translation>%1 foto</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="276"/>
         <source>%1 photos</source>
-        <translation type="unfinished"/>
+        <translation>%1 fotos</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="286"/>
         <source>Created %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 creado</translation>
     </message>
 </context>
 </TS>

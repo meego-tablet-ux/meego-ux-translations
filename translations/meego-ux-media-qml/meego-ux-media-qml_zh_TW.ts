@@ -4,12 +4,12 @@
     <message>
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="321"/>
         <source>%1 Minute</source>
-        <translation type="unfinished"/>
+        <translation>%1 分鐘</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="321"/>
         <source>%1 Minutes</source>
-        <translation type="unfinished"/>
+        <translation>%1 分鐘</translation>
     </message>
 </context>
 <context>
@@ -17,12 +17,12 @@
     <message>
         <location filename="../../Media/MediaGridPhotoAlbumDelegate.qml" line="277"/>
         <source>1 Photo</source>
-        <translation type="unfinished"/>
+        <translation>1 張相片</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridPhotoAlbumDelegate.qml" line="277"/>
         <source>%1 Photos</source>
-        <translation type="unfinished"/>
+        <translation>%1 張相片</translation>
     </message>
 </context>
 <context>
@@ -30,12 +30,12 @@
     <message>
         <location filename="../../Media/MediaGridVideoDelegate.qml" line="303"/>
         <source>%1 Minute</source>
-        <translation type="unfinished"/>
+        <translation>%1 分鐘</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridVideoDelegate.qml" line="303"/>
         <source>%1 Minutes</source>
-        <translation type="unfinished"/>
+        <translation>%1 分鐘</translation>
     </message>
 </context>
 <context>
@@ -48,12 +48,12 @@
     <message>
         <location filename="../../Media/MediaGridView.qml" line="177"/>
         <source>Recently viewed</source>
-        <translation type="unfinished"/>
+        <translation>最近觀賞</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="178"/>
         <source>Newest</source>
-        <translation type="unfinished"/>
+        <translation>最新</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="179"/>

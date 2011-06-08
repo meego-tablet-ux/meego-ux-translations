@@ -475,7 +475,7 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="17"/>
         <source>Create new folder</source>
-        <translation type="unfinished"/>
+        <translation>Stwórz nowy folter</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="152"/>
@@ -485,18 +485,18 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="219"/>
         <source>Create</source>
-        <translation type="unfinished"/>
+        <translation>Stwórz</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="220"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="228"/>
         <source>Untitled Folder</source>
         <extracomment>Default custom e-mail folder name.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Nienazwany folder</translation>
     </message>
 </context>
 <context>
@@ -529,7 +529,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="113"/>
         <source>Drafts</source>
-        <translation type="unfinished"/>
+        <translation>Szkice</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="118"/>
@@ -613,7 +613,7 @@
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="129"/>
         <source>Choose folder:</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz folder:</translation>
     </message>
 </context>
 <context>
@@ -723,7 +723,7 @@
         <location filename="../../MessageAction.qml" line="41"/>
         <source>(%1)</source>
         <extracomment>Arg 1 is the number of selected messages</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>

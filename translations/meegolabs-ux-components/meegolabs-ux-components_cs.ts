@@ -140,7 +140,7 @@
         <location filename="../../localehelper.cpp" line="129"/>
         <source>MMMM d</source>
         <extracomment>MMMM = full month, d = day of month (e.g. January 31)</extracomment>
-        <translation type="unfinished"/>
+        <translation>MMMM d</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="133"/>
@@ -196,98 +196,98 @@
     <message>
         <location filename="../../relativetimestamp.cpp" line="40"/>
         <source>Just Now</source>
-        <translation type="unfinished"/>
+        <translation>Právě teď</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="42"/>
         <source>1 min ago</source>
-        <translation type="unfinished"/>
+        <translation>Před jednou minutou</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="44"/>
         <source>%1 mins ago</source>
         <comment>1 is number of minutes</comment>
-        <translation type="unfinished"/>
+        <translation>Před %1 minutami</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="47"/>
         <source>Half an hour ago</source>
-        <translation type="unfinished"/>
+        <translation>Před půl hodinou</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="49"/>
         <source>An hour ago</source>
-        <translation type="unfinished"/>
+        <translation>Před jednou hodinou</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="51"/>
         <source>A couple of hours ago</source>
-        <translation type="unfinished"/>
+        <translation>Před několika hodinami</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="53"/>
         <source>%1 hours ago</source>
         <comment>1 is number of hours</comment>
-        <translation type="unfinished"/>
+        <translation>Před %1 hodinami</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="58"/>
         <source>Yesterday</source>
-        <translation type="unfinished"/>
+        <translation>Včera</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="60"/>
         <source>%1/%2/%3 - %4</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is day name</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - %4</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="66"/>
         <source>%1/%2/%3 - Last week</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - minulý týden</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="71"/>
         <source>%1/%2/%3 - A couple of weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - před několika týdny</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="76"/>
         <source>%1/%2/%3 - %4 weeks ago</source>
         <comment>1 is month, 2 is day, 3 is year, 4 is number of weeks</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - před %4 týdny</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="82"/>
         <source>%1/%2/%3 - Last month</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - minulý měsíc</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="87"/>
         <source>%1/%2/%3 - A couple of months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - před několika měsíci</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="96"/>
         <source>%1/%2/%3 - %4 months ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - před %4 měsíci</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="102"/>
         <source>%1/%2/%3 - Last year</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - minulý rok</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="107"/>
         <source>%1/%2/%3 - %4 years ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - před %4 roky</translation>
     </message>
 </context>
 </TS>

@@ -11,7 +11,7 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="59"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="300"/>
         <source>Coming up in play queue</source>
-        <translation type="unfinished"/>
+        <translation>Vychází v řadě skladeb k přehrání</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="60"/>

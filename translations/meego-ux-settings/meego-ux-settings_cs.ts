@@ -1,77 +1,95 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="cs" version="2.0">
 <context>
+    <name>BacklightSettings</name>
+    <message>
+        <location filename="../../General/BacklightSettings.qml" line="35"/>
+        <source>Set brightness automatically</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../General/BacklightSettings.qml" line="58"/>
+        <source>Brightness</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../General/BacklightSettings.qml" line="62"/>
+        <source>%1%</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>BluetoothDeviceExpandingBox</name>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="68"/>
-        <source>Disconnect Audio</source>
-        <translation>Odpojit zvuk</translation>
+        <source>Disconnect audio</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="72"/>
-        <source>Connect Audio</source>
-        <translation>Připojit zvuk</translation>
+        <source>Connect audio</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="92"/>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="98"/>
-        <source>Disconnect Input Device</source>
-        <translation>Odpojené vstupní zařízení</translation>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="103"/>
+        <source>Disconnect input device</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="92"/>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="102"/>
-        <source>Connect Input Device</source>
-        <translation>Připojené vstupní zařízení</translation>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="107"/>
+        <source>Connect input device</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="122"/>
-        <source>Disconnect Internet</source>
-        <translation>Odpojit internet</translation>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="128"/>
+        <source>Disconnect internet</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="122"/>
-        <source>Connect Internet</source>
-        <translation>Připojit internet</translation>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="128"/>
+        <source>Connect internet</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="177"/>
-        <source>Connect Actions</source>
-        <translation>Spojit činnosti</translation>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="183"/>
+        <source>Connect actions</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="228"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="234"/>
         <source>Manage</source>
         <translation>Řídit</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="235"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="241"/>
         <source>Remove</source>
         <translation>Odstranit</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="249"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="255"/>
         <source>Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="254"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="260"/>
         <source>Paired: %1</source>
         <translation>Párové: %1</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="262"/>
-        <source>Hardware Address: %1</source>
-        <translation>Hardwarová adresa: %1</translation>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="268"/>
+        <source>Hardware address: %1</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="270"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="276"/>
         <source>Icon: %1</source>
         <translation>Ikona: %1</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="278"/>
+        <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="284"/>
         <source>UUIDs: %1</source>
         <translation>UUIDs: %1</translation>
     </message>
@@ -90,24 +108,24 @@
         <translation>Není přítomen žádný adaptér pro bluetooth</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="99"/>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="98"/>
         <source>Discoverable</source>
         <translation>Zjistitelný</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="110"/>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="109"/>
         <source>Discoverable for %1 seconds</source>
         <translation>Zjistitelný za %1 sekund</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="156"/>
-        <source>Paired Devices</source>
-        <translation>Spárovaná zařízení</translation>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="155"/>
+        <source>Paired devices</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="169"/>
-        <source>Add Device</source>
-        <translation>Přidat zařízení</translation>
+        <source>Add device</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -120,132 +138,132 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="34"/>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Jste si jistý?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="39"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Ne</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="40"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ano</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="87"/>
         <source>On start up</source>
-        <translation type="unfinished"/>
+        <translation>Při spuštění</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="99"/>
         <source>Open New Tab age</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít stránku s novou kartou</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="99"/>
         <source>Reopen last visited pages</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít naposledy navštívené stránky znovu</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="116"/>
         <source>Default search engine</source>
-        <translation type="unfinished"/>
+        <translation>Výchozí vyhledávací stroj</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="151"/>
         <source>Show bookmarks bar</source>
-        <translation type="unfinished"/>
+        <translation>Ukázat panel záložek</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="175"/>
         <source>Offer to save passwords</source>
-        <translation type="unfinished"/>
+        <translation>Nabídnout uložení hesel</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="198"/>
         <source>Allow JavaScript</source>
-        <translation type="unfinished"/>
+        <translation>Povolit JavaScript</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="221"/>
         <source>Allow Images</source>
-        <translation type="unfinished"/>
+        <translation>Povolit obrázky</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="245"/>
         <source>Allow Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Povolit sušenky (cookies)</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="269"/>
         <source>Block popups</source>
-        <translation type="unfinished"/>
+        <translation>Blokovat vyskakovací okna</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="292"/>
         <source>Use HTTP proxy</source>
-        <translation type="unfinished"/>
+        <translation>Použít HTTP proxy</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="316"/>
         <source>HTTP Proxy details</source>
-        <translation type="unfinished"/>
+        <translation>Podrobnosti HTTP proxy</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="383"/>
         <source>Clear Browsing History</source>
-        <translation type="unfinished"/>
+        <translation>Smazat historii procházení</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="386"/>
         <source>Are you sure about clearing the browsing history?</source>
-        <translation type="unfinished"/>
+        <translation>Jste si jistý, že chcete smazat historii procházení?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="395"/>
         <source>Clear Download History</source>
-        <translation type="unfinished"/>
+        <translation>Smazat historii stahování</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="398"/>
         <source>Are you sure about clearing the download history?</source>
-        <translation type="unfinished"/>
+        <translation>Jste si jistý, že chcete smazat historii stahování?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="407"/>
         <source>Clear Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Smazat sušenky (cookies)</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="410"/>
         <source>Are you sure about clearing your cookies?</source>
-        <translation type="unfinished"/>
+        <translation>Jste si jistý, že chcete smazat své sušenky?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="419"/>
         <source>Clear Saved Passwords</source>
-        <translation type="unfinished"/>
+        <translation>Smazat uložená hesla</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="422"/>
         <source>Are you sure about clearing your saved passwords?</source>
-        <translation type="unfinished"/>
+        <translation>Jste si jistý, že chcete smazat svá uložená hesla?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="431"/>
         <source>Restore default settings</source>
-        <translation type="unfinished"/>
+        <translation>Obnovit výchozí nastavení</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="434"/>
         <source>All browser settings will be reset to factory setting</source>
-        <translation type="unfinished"/>
+        <translation>Všechna nastavení budou nastavena znovu na tovární nastavení</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="457"/>
         <source>Go to Browser</source>
-        <translation type="unfinished"/>
+        <translation>Jít na prohlížeč</translation>
     </message>
 </context>
 <context>
@@ -257,8 +275,8 @@
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="30"/>
-        <source>Manual APN Entry</source>
-        <translation>Ruční záznam APN</translation>
+        <source>Manual APN entry</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="60"/>
@@ -366,34 +384,34 @@
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="65"/>
-        <source>Airplane Mode</source>
-        <translation>Letadlový režim</translation>
+        <source>Airplane mode</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="98"/>
-        <source>Network Connections</source>
-        <translation>Síťová spojení</translation>
+        <source>Network connections</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="197"/>
-        <source>Available Networks</source>
-        <translation>Dostupné sítě</translation>
+        <source>Available networks</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="206"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="220"/>
-        <source>Add Network</source>
-        <translation>Přidat síť</translation>
+        <source>Add network</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="234"/>
-        <source>Network Name:</source>
-        <translation>Název sítě:</translation>
+        <source>Network name:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="250"/>
-        <source>Security Type:</source>
-        <translation>Druh bezpečnosti:</translation>
+        <source>Security type:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
@@ -407,8 +425,8 @@
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="272"/>
-        <source>Security Passphrase:</source>
-        <translation>Bezpečnostní heslo:</translation>
+        <source>Security passphrase:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="298"/>
@@ -425,8 +443,8 @@
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="33"/>
-        <source>Time and Date</source>
-        <translation>Čas a datum</translation>
+        <source>Time and date</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="49"/>
@@ -434,9 +452,19 @@
         <translation>Zvuk</translation>
     </message>
     <message>
-        <location filename="../../General/GeneralSettings.qml" line="55"/>
+        <location filename="../../General/GeneralSettings.qml" line="56"/>
         <source>%1%</source>
         <translation>%1%</translation>
+    </message>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="76"/>
+        <source>Backlight control</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../General/GeneralSettings.qml" line="94"/>
+        <source>Screen saver</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -628,6 +656,14 @@ Status message: successfully completed sync job.</extracomment>
     </message>
 </context>
 <context>
+    <name>NearbyDeviceExpandingBox</name>
+    <message>
+        <location filename="../../Bluetooth/NearbyDeviceExpandingBox.qml" line="55"/>
+        <source>(%1)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>NearbyDevices</name>
     <message>
         <location filename="../../Bluetooth/NearbyDevices.qml" line="17"/>
@@ -654,19 +690,16 @@ Status message: successfully completed sync job.</extracomment>
     </message>
 </context>
 <context>
-    <name>PanelSettings</name>
-    <message>
-        <location filename="../../Panels/PanelSettings.qml" line="18"/>
-        <source>Panels</source>
-        <translation>Panely</translation>
-    </message>
-</context>
-<context>
     <name>Personalize</name>
     <message>
-        <location filename="../../Personalize/Personalize.qml" line="16"/>
+        <location filename="../../Personalize/Personalize.qml" line="17"/>
         <source>Personalize</source>
         <translation>Osobní</translation>
+    </message>
+    <message>
+        <location filename="../../Personalize/Personalize.qml" line="80"/>
+        <source>Panels</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -711,6 +744,24 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="36"/>
         <source>Accept</source>
         <translation>Přijmout</translation>
+    </message>
+</context>
+<context>
+    <name>ScreensaverSettings</name>
+    <message>
+        <location filename="../../General/ScreensaverSettings.qml" line="35"/>
+        <source>Screen Saver Enabled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../General/ScreensaverSettings.qml" line="67"/>
+        <source>Screen Saver Timeout</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../General/ScreensaverSettings.qml" line="71"/>
+        <source>%1 Minutes</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -838,66 +889,56 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>TimeDateSettings</name>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="35"/>
+        <location filename="../../General/TimeDateSettings.qml" line="39"/>
         <source>What time it is</source>
         <translation>Kolik je hodin</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="107"/>
+        <location filename="../../General/TimeDateSettings.qml" line="112"/>
         <source>24 hour clock</source>
         <translation>Hodiny s 24 hodinami</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="136"/>
+        <location filename="../../General/TimeDateSettings.qml" line="141"/>
         <source>Set date and time automatically</source>
         <translation>Nastavit datum a čas automaticky</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="164"/>
+        <location filename="../../General/TimeDateSettings.qml" line="172"/>
         <source>Where you are</source>
         <translation>Kde jsi</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="183"/>
-        <location filename="../../General/TimeDateSettings.qml" line="214"/>
+        <location filename="../../General/TimeDateSettings.qml" line="191"/>
+        <location filename="../../General/TimeDateSettings.qml" line="225"/>
         <source>Current Time Zone is %1</source>
-        <translation type="unfinished"/>
+        <translation>Nynější časové pásme je %1</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="200"/>
+        <location filename="../../General/TimeDateSettings.qml" line="208"/>
         <source>Find me and keep my location updated</source>
         <translation>Najdi mě a udržuj moji polohu aktuální</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="236"/>
+        <location filename="../../General/TimeDateSettings.qml" line="247"/>
         <source>Manual Time Zone Selection</source>
-        <translation type="unfinished"/>
+        <translation>Ruční výběr časového pásma</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="255"/>
+        <location filename="../../General/TimeDateSettings.qml" line="266"/>
         <source>Set Time Zone</source>
         <translation>Nastavit časové pásmo</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="270"/>
+        <location filename="../../General/TimeDateSettings.qml" line="279"/>
         <source>Current Time Zone is </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../General/TimeDateSettings.qml" line="276"/>
-        <source>Unable to set time zone manually</source>
-        <translation type="unfinished"/>
+        <translation>Nynější časové pásmo je </translation>
     </message>
 </context>
 <context>
     <name>WallpaperTools</name>
     <message>
         <location filename="../../Personalize/WallpaperTools.qml" line="30"/>
-        <source>Pick a color</source>
-        <translation>Vybrat si barvu</translation>
-    </message>
-    <message>
-        <location filename="../../Personalize/WallpaperTools.qml" line="42"/>
         <source>Pick a photo</source>
         <translation>Vybrat si fotografii</translation>
     </message>
@@ -979,8 +1020,8 @@ Tento krok povede k zapomenutí všech hesel a vy už dál nebudete automaticky 
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="238"/>
-        <source>Remove Connection</source>
-        <translation>Odstranit spojení</translation>
+        <source>Remove connection</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="249"/>
@@ -994,8 +1035,8 @@ Tento krok povede k zapomenutí všech hesel a vy už dál nebudete automaticky 
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="300"/>
-        <source>Subnet Mask:</source>
-        <translation>Maska podsítě:</translation>
+        <source>Subnet mask:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="318"/>
@@ -1009,18 +1050,18 @@ Tento krok povede k zapomenutí všech hesel a vy už dál nebudete automaticky 
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="353"/>
-        <source>Hardware Address:</source>
-        <translation>Adresa technického vybavení počítače:</translation>
+        <source>Hardware address:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="372"/>
         <source>Security: </source>
-        <translation type="unfinished"/>
+        <translation>Bezpečnost: </translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="383"/>
         <source>Strength: </source>
-        <translation type="unfinished"/>
+        <translation>Síla: </translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="393"/>
@@ -1049,8 +1090,8 @@ Tento krok povede k zapomenutí všech hesel a vy už dál nebudete automaticky 
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="489"/>
-        <source>Show Password</source>
-        <translation>Ukázat heslo</translation>
+        <source>Show password</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1061,7 +1102,7 @@ Tento krok povede k zapomenutí všech hesel a vy už dál nebudete automaticky 
         <translation>Všechna nastavení</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="106"/>
+        <location filename="../../main.qml" line="107"/>
         <source>Settings</source>
         <translation>Nastavení</translation>
     </message>

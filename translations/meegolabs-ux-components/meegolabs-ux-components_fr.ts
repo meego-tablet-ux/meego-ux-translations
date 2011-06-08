@@ -116,13 +116,13 @@
         <location filename="../../localehelper.cpp" line="109"/>
         <source>MMMM d, yyyy</source>
         <extracomment>MMMM = full month, d = day of month, yyyy = full year (e.g. January 31, 2011)</extracomment>
-        <translation type="unfinished"/>
+        <translation>d MMMM yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="113"/>
         <source>MMM d yyyy</source>
         <extracomment>MMM = short month, d = day of month, yyyy = full year (e.g. Jan 31 2011)</extracomment>
-        <translation type="unfinished"/>
+        <translation>d MMM yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="121"/>
@@ -140,7 +140,7 @@
         <location filename="../../localehelper.cpp" line="129"/>
         <source>MMMM d</source>
         <extracomment>MMMM = full month, d = day of month (e.g. January 31)</extracomment>
-        <translation type="unfinished"/>
+        <translation>d MMMM</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="133"/>
@@ -152,7 +152,7 @@
         <location filename="../../localehelper.cpp" line="137"/>
         <source>MMM yyyy</source>
         <extracomment>MMM = short month, yyyy = full year (e.g. Jan 2011)</extracomment>
-        <translation type="unfinished"/>
+        <translation>MMM yyyy</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="141"/>
@@ -164,13 +164,13 @@
         <location filename="../../localehelper.cpp" line="145"/>
         <source>dddd</source>
         <extracomment>dddd = day of week (e.g. Monday)</extracomment>
-        <translation type="unfinished"/>
+        <translation>dddd</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="149"/>
         <source>ddd</source>
         <extracomment>ddd = day of week (e.g. Mon)</extracomment>
-        <translation type="unfinished"/>
+        <translation>ddd</translation>
     </message>
     <message>
         <location filename="../../localehelper.cpp" line="153"/>
@@ -188,7 +188,7 @@
         <location filename="../../localehelper.cpp" line="161"/>
         <source>yyyy</source>
         <extracomment>yyyy (e.g. 2011)</extracomment>
-        <translation>aaaa</translation>
+        <translation>yyyy</translation>
     </message>
 </context>
 <context>

@@ -47,7 +47,7 @@
         <location filename="../../CreateNewTaskRow.qml" line="28"/>
         <source>* </source>
         <extracomment>used to indicate the currently selected duedate for the new task</extracomment>
-        <translation type="unfinished"/>
+        <translation>* </translation>
     </message>
 </context>
 <context>

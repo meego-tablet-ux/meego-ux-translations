@@ -4,12 +4,12 @@
     <message>
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="321"/>
         <source>%1 Minute</source>
-        <translation type="unfinished"/>
+        <translation>%1 Minuto</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="321"/>
         <source>%1 Minutes</source>
-        <translation type="unfinished"/>
+        <translation>%1 Minutos</translation>
     </message>
 </context>
 <context>
@@ -17,12 +17,12 @@
     <message>
         <location filename="../../Media/MediaGridPhotoAlbumDelegate.qml" line="277"/>
         <source>1 Photo</source>
-        <translation type="unfinished"/>
+        <translation>1 Fotografía</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridPhotoAlbumDelegate.qml" line="277"/>
         <source>%1 Photos</source>
-        <translation type="unfinished"/>
+        <translation>%1 Fotografías</translation>
     </message>
 </context>
 <context>
@@ -30,12 +30,12 @@
     <message>
         <location filename="../../Media/MediaGridVideoDelegate.qml" line="303"/>
         <source>%1 Minute</source>
-        <translation type="unfinished"/>
+        <translation>%1 Minuto</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridVideoDelegate.qml" line="303"/>
         <source>%1 Minutes</source>
-        <translation type="unfinished"/>
+        <translation>%1 Minutos</translation>
     </message>
 </context>
 <context>
@@ -43,27 +43,27 @@
     <message>
         <location filename="../../Media/MediaGridView.qml" line="176"/>
         <source>Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Favoritos</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="177"/>
         <source>Recently viewed</source>
-        <translation type="unfinished"/>
+        <translation>Recientemente visto</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="178"/>
         <source>Newest</source>
-        <translation type="unfinished"/>
+        <translation>Recientes</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="179"/>
         <source>Unwatched</source>
-        <translation type="unfinished"/>
+        <translation>Sin vigilancia</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="180"/>
         <source>Search Results</source>
-        <translation type="unfinished"/>
+        <translation>Resultados de búsqueda</translation>
     </message>
 </context>
 </TS>

@@ -190,7 +190,7 @@
         <location filename="../../EventDetailsView.qml" line="103"/>
         <source>%1 (GMT %2)</source>
         <comment>1:event time and 2:GMT offset</comment>
-        <translation type="unfinished"/>
+        <translation>%1 (Greenwichský střední čas %2)</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="112"/>
@@ -449,7 +449,7 @@ Zrušit</translation>
     <message>
         <location filename="../../TimeZoneListDelegate.qml" line="46"/>
         <source>%1 (GMT %2%3)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (Greenwichský střední čas %2%3)</translation>
     </message>
 </context>
 <context>

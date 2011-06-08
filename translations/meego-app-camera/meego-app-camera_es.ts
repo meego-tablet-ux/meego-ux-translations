@@ -22,7 +22,7 @@
     <message>
         <location filename="../plugin/viewfinder.cpp" line="806"/>
         <source>%1:%2:%3</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2:%3</translation>
     </message>
 </context>
 <context>
@@ -30,17 +30,17 @@
     <message>
         <location filename="../plugin/viewfinder.cpp" line="455"/>
         <source>Auto</source>
-        <translation type="unfinished"/>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="../plugin/viewfinder.cpp" line="457"/>
         <source>Off</source>
-        <translation type="unfinished"/>
+        <translation>Apagado</translation>
     </message>
     <message>
         <location filename="../plugin/viewfinder.cpp" line="458"/>
         <source>On</source>
-        <translation type="unfinished"/>
+        <translation>Encendido</translation>
     </message>
 </context>
 </TS>

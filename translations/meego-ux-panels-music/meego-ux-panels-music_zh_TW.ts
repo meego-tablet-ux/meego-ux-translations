@@ -11,7 +11,7 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="59"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="300"/>
         <source>Coming up in play queue</source>
-        <translation type="unfinished"/>
+        <translation>播放佇列中接下來的音樂</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="60"/>
@@ -86,12 +86,12 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="353"/>
         <source>Your play queue is empty</source>
-        <translation type="unfinished"/>
+        <translation>您的播放佇列是空的</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="371"/>
         <source>Add music to the play queue</source>
-        <translation type="unfinished"/>
+        <translation>加入音樂至播放佇列</translation>
     </message>
 </context>
 </TS>

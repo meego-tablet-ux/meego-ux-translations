@@ -25,7 +25,7 @@
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="112"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="170"/>
         <source>Top applications</source>
-        <translation>Hlavní programy</translation>
+        <translation>Nejpoužívanější programy</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="121"/>
@@ -36,13 +36,13 @@
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="123"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="178"/>
         <source>Featured applications</source>
-        <translation type="unfinished"/>
+        <translation>Hlavní programy</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="126"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="186"/>
         <source>Updated applications</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizované programy</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="136"/>

@@ -9,7 +9,7 @@
 - description: Title of the dialog to create application shortcuts for current page.
 - condition: not pp_ifdef('use_titlecase') or os != 'linux2'
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>建立應用程式捷徑</translation>
     </message>
     <message>
         <location filename="id" line="-1157106606"/>
@@ -18,7 +18,7 @@
         <extracomment>IDS_BOOMARK_BUBBLE_PAGE_BOOKMARKED
 - description: Title of the bubble after bookmarking something
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>書籤已加入！</translation>
     </message>
     <message>
         <location filename="id" line="1267962439"/>
@@ -28,7 +28,7 @@
 - description: In Title Case: title of the dialog to create application shortcuts for current page.
 - condition: pp_ifdef('use_titlecase') and os == 'linux2'
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>建立應用程式捷徑</translation>
     </message>
     <message>
         <location filename="id" line="2005581839"/>
@@ -37,7 +37,7 @@
         <extracomment>IDS_BOOMARK_BUBBLE_FOLDER_TEXT
 - description: Text preceding the folder selector
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>加入書籤至：</translation>
     </message>
     <message>
         <location filename="id" line="1935848576"/>
@@ -46,7 +46,7 @@
         <extracomment>IDS_BOOKMARK_MANAGER_TITLE
 - description: Title of the bookmark manager window.
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>書籤</translation>
     </message>
     <message>
         <location filename="id" line="282316645"/>
@@ -59,7 +59,7 @@ IDS_BOOKMARK_MANAGER
 - description: In Title Case: The label of the menu item that shows the bookmark manager
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>書籤(&amp;B)</translation>
     </message>
     <message>
         <location filename="id" line="1522912963"/>
@@ -162,24 +162,24 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="213"/>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>完成</translation>
     </message>
 </context><context>
     <name>BookmarkListEditDialog</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="134"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="135"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>確定</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="274"/>
         <source>left-to-right</source>
-        <translation type="unfinished"/>
+        <translation>左至右</translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>

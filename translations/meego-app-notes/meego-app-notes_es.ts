@@ -28,7 +28,7 @@
     <message>
         <location filename="../../FontSelector.qml" line="125"/>
         <source>Pick a font</source>
-        <translation type="unfinished"/>
+        <translation>Seleccione una fuente</translation>
     </message>
     <message>
         <location filename="../../FontSelector.qml" line="148"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../../InformationDialog.qml" line="82"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../NoteDetail.qml" line="125"/>
         <source>Do you want to Delete this note?</source>
-        <translation type="unfinished"/>
+        <translation>¿Quiere eliminar esta Nota?</translation>
     </message>
 </context>
 <context>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../../NotebookSelector.qml" line="107"/>
         <source>Pick a notebook</source>
-        <translation type="unfinished"/>
+        <translation>Seleccione un cuaderno</translation>
     </message>
 </context>
 <context>
@@ -157,32 +157,32 @@
     <message>
         <location filename="../../NotebooksView.qml" line="72"/>
         <source>Use the default notebook, or make a new one</source>
-        <translation type="unfinished"/>
+        <translation>Utilizar el cuaderno por defecto o crear uno nuevo</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="73"/>
         <source>Create a new notebook</source>
-        <translation type="unfinished"/>
+        <translation>Crear un nuevo cuaderno</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="74"/>
         <source>What&apos;s a notebook?</source>
-        <translation type="unfinished"/>
+        <translation>¿Qué es un cuaderno?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="75"/>
         <source>How do I create notes?</source>
-        <translation type="unfinished"/>
+        <translation>¿Cómo creo notas?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="76"/>
         <source>A notebook is a collection of notes. Use the default notebook we have created for you, or make a new one.</source>
-        <translation type="unfinished"/>
+        <translation>Un cuaderno es una colección de notas. Utilice el cuaderno por defecto que hemos creado para usted o cree uno nuevo.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="77"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Presione el botón &apos;Crear la primera nota&apos;. También puede presionar el icono en la esquina derecha superior de la pantalla y seleccionar &apos;Nueva nota&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="93"/>
@@ -198,17 +198,17 @@
     <message>
         <location filename="../../NotebooksView.qml" line="113"/>
         <source>View by:</source>
-        <translation type="unfinished"/>
+        <translation>Visto por:</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="119"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Todos</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="119"/>
         <source>A-Z</source>
-        <translation type="unfinished"/>
+        <translation>A-Z</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="147"/>
@@ -249,7 +249,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="310"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Renombrar</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="369"/>
@@ -270,17 +270,17 @@
         <location filename="../../NotebooksView.qml" line="389"/>
         <location filename="../../NotebooksView.qml" line="489"/>
         <source>A NoteBook &apos;%1&apos; already exists.</source>
-        <translation type="unfinished"/>
+        <translation>Un cuaderno &apos;%1&apos; ya existe.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="413"/>
         <source>Are you sure you want to delete these %1 notebooks?</source>
-        <translation type="unfinished"/>
+        <translation>¿Está seguro de querer eliminar estos %1 cuadernos?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="414"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>¿Está seguro de querer eliminar &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="445"/>
@@ -301,18 +301,18 @@
     <message>
         <location filename="../../NotebooksView.qml" line="449"/>
         <source>&quot;%1&quot; notebooks have been deleted</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; cuadernos han sido borrados</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="451"/>
         <location filename="../../NotebooksView.qml" line="453"/>
         <source>&quot;%1&quot; has been deleted</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; han sido borrados</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="477"/>
         <source>Rename NoteBook</source>
-        <translation type="unfinished"/>
+        <translation>Renombrar Cuaderno</translation>
     </message>
 </context>
 <context>
@@ -320,32 +320,32 @@
     <message>
         <location filename="../../NotesView.qml" line="60"/>
         <source>This notebook is empty</source>
-        <translation type="unfinished"/>
+        <translation>Este cuaderno está vacío</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="61"/>
         <source>Create the first note</source>
-        <translation type="unfinished"/>
+        <translation>Crear la primera nota</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="62"/>
         <source>How do I create notes?</source>
-        <translation type="unfinished"/>
+        <translation>¿Cómo creo notas?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="63"/>
         <source>Share your notes by email</source>
-        <translation type="unfinished"/>
+        <translation>Compartir sus notas por email</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="64"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Presione el botón &apos;Crear la primera nota&apos;. También puede presionar el icono en la esquina derecha superior de la pantalla y seleccionar &apos;Nueva nota&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="65"/>
         <source>To send a note by email, tap and hold the note you want to send, then select &apos;Email&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Para enviar una nota por email, presione y mantenga presionada la nota que quiere enviar, luego seleccione &apos;Email&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="82"/>
@@ -361,17 +361,17 @@
     <message>
         <location filename="../../NotesView.qml" line="102"/>
         <source>View by:</source>
-        <translation type="unfinished"/>
+        <translation>Visto por:</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="116"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Todo</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="116"/>
         <source>A-Z</source>
-        <translation type="unfinished"/>
+        <translation>A-Z</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="153"/>
@@ -401,7 +401,7 @@
         <location filename="../../NotesView.qml" line="458"/>
         <location filename="../../NotesView.qml" line="482"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>Email</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="459"/>
@@ -428,12 +428,12 @@
     <message>
         <location filename="../../NotesView.qml" line="544"/>
         <source>%1 notes have successfully been moved to &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>%1 notas han sido satisfactoriamente movidas a &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="548"/>
         <source>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; ha sido movido satisfactoriamente a &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="580"/>
@@ -453,17 +453,17 @@
     <message>
         <location filename="../../NotesView.qml" line="600"/>
         <source>A Note &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
-        <translation type="unfinished"/>
+        <translation>Una nota &lt;b&gt;&apos;%1&apos;&lt;/b&gt; ya existe.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="627"/>
         <source>Are you sure you want to delete these %1 notes?</source>
-        <translation type="unfinished"/>
+        <translation>¿Está seguro de querer eliminar estas %1 notas?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="628"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>¿Está seguro de querer eliminar &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="656"/>
@@ -559,7 +559,7 @@
         <location filename="../../TwoButtonsModalDialog.qml" line="152"/>
         <location filename="../../TwoButtonsModalDialog.qml" line="174"/>
         <source>%1/%2</source>
-        <translation type="unfinished"/>
+        <translation>%1/%2</translation>
     </message>
 </context>
 <context>
