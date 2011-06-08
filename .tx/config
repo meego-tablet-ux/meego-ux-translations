@@ -79,6 +79,7 @@ source_lang = en
 [meego-sharing.ux-sharing-qml-ui-1-2]
 file_filter = translations/meego-ux-sharing-qml-ui/meego-ux-sharing-qml-ui_<lang>.ts
 host = http://www.transifex.net
+source_file = translations/meego-ux-sharing-qml-ui/meego-ux-sharing-qml-ui_en.ts
 source_lang = en
 
 [meego-sharing-email.ux-sharing-email-1-2]
