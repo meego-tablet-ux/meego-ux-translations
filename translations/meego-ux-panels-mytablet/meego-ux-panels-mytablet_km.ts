@@ -36,13 +36,13 @@
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="123"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="178"/>
         <source>Featured applications</source>
-        <translation type="unfinished"/>
+        <translation>កម្មវិធី​ល្បីៗ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="126"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="186"/>
         <source>Updated applications</source>
-        <translation type="unfinished"/>
+        <translation>កម្មវិធី​ដែល​ទើប​អាប់​ដេត</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="136"/>

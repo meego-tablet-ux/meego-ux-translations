@@ -17,7 +17,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="46"/>
         <source>Manage panels</source>
-        <translation>Gestão de paineis</translation>
+        <translation>Gestão de painéis</translation>
     </message>
 </context>
 <context>
@@ -64,17 +64,17 @@
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
         <source>Airplane Mode is ON</source>
-        <translation type="unfinished"/>
+        <translation>O modo de avião está ativo</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
         <source>To connect WiFi turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>Para ligar a uma WiFI, desligue o modo de avião</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
         <source>Turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>Desligar o modo de avião</translation>
     </message>
 </context>
 </TS>

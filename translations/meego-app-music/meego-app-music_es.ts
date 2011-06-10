@@ -351,7 +351,7 @@
     <message>
         <location filename="../../main.qml" line="90"/>
         <source>A compilation of music created by you. Create playlists to suit your mood, your activities and to share with friends.</source>
-        <translation type="unfinished"/>
+        <translation>Una recopilación de música creada por usted. Crea listas de reproducción para adaptarse a tu estado de ánimo, tus actividades y para compartir con amigos.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="91"/>

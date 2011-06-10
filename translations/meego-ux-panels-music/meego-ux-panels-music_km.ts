@@ -11,7 +11,7 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="59"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="300"/>
         <source>Coming up in play queue</source>
-        <translation type="unfinished"/>
+        <translation>អ្វី​ដែល​នឹង​មក​ដល់​នៅ​ក្នុង​បញ្ជី​លេង​ជា​ជួរ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="60"/>
@@ -86,12 +86,12 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="353"/>
         <source>Your play queue is empty</source>
-        <translation type="unfinished"/>
+        <translation>មិន​មាន​អ្វី​នៅ​ក្នុង​បញ្ជី​លេង​ជាជួរ​របស់​អ្នក</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="371"/>
         <source>Add music to the play queue</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​ចម្រៀង​ទៅ​ក្នុង​ការ​លេង​ជាជួរ</translation>
     </message>
 </context>
 </TS>

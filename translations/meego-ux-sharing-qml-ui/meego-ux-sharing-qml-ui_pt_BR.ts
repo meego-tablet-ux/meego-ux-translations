@@ -4,12 +4,12 @@
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareButton.qml" line="45"/>
         <source>Share All</source>
-        <translation type="unfinished"/>
+        <translation>Compartilhar tudo</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareButton.qml" line="45"/>
         <source>Share</source>
-        <translation type="unfinished"/>
+        <translation>Compartilhar</translation>
     </message>
 </context>
 <context>
@@ -19,22 +19,22 @@
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="142"/>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="474"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="353"/>
         <source>An error occurred when logging in to %1</source>
-        <translation type="unfinished"/>
+        <translation>Ocorreu um erro ao efetuar login em %1</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="361"/>
         <source>Go to settings</source>
-        <translation type="unfinished"/>
+        <translation>Ir para definições</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="396"/>
         <source>Share by:</source>
-        <translation type="unfinished"/>
+        <translation>Compartilhe por:</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="466"/>
@@ -42,22 +42,22 @@
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="611"/>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="642"/>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="506"/>
         <source>Select service:</source>
-        <translation type="unfinished"/>
+        <translation>Selecionar serviço:</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="606"/>
         <source>An error occurred while sharing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Ocorreu um erro ao compartilhar: %1</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="637"/>
         <source>Upload progress: %1%%</source>
-        <translation type="unfinished"/>
+        <translation>Progresso do upload: %1%%</translation>
     </message>
 </context>
 </TS>

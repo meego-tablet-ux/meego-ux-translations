@@ -12,7 +12,7 @@
         <location filename="../../src/DataHandler.cpp" line="494"/>
         <location filename="../../src/DataHandler.cpp" line="498"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -64,7 +64,7 @@
     <message>
         <location filename="../../InformationDialog.qml" line="82"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../NoteDetail.qml" line="125"/>
         <source>Do you want to Delete this note?</source>
-        <translation type="unfinished"/>
+        <translation>Pretende apagar esta nota?</translation>
     </message>
 </context>
 <context>
@@ -198,17 +198,17 @@
     <message>
         <location filename="../../NotebooksView.qml" line="113"/>
         <source>View by:</source>
-        <translation type="unfinished"/>
+        <translation>Ver por:</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="119"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Todas</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="119"/>
         <source>A-Z</source>
-        <translation type="unfinished"/>
+        <translation>A-Z</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="147"/>
@@ -249,7 +249,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="310"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Mudar nome</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="369"/>
@@ -275,12 +275,12 @@
     <message>
         <location filename="../../NotebooksView.qml" line="413"/>
         <source>Are you sure you want to delete these %1 notebooks?</source>
-        <translation type="unfinished"/>
+        <translation>Pretende apagar estes %1 livros de notas?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="414"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Pretende apagar %1?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="445"/>
@@ -301,18 +301,18 @@
     <message>
         <location filename="../../NotebooksView.qml" line="449"/>
         <source>&quot;%1&quot; notebooks have been deleted</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; livros de notas foram apagados</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="451"/>
         <location filename="../../NotebooksView.qml" line="453"/>
         <source>&quot;%1&quot; has been deleted</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; foi apagada</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="477"/>
         <source>Rename NoteBook</source>
-        <translation type="unfinished"/>
+        <translation>Mudar nome do livro de notas</translation>
     </message>
 </context>
 <context>
@@ -361,17 +361,17 @@
     <message>
         <location filename="../../NotesView.qml" line="102"/>
         <source>View by:</source>
-        <translation type="unfinished"/>
+        <translation>Ver por:</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="116"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Todas</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="116"/>
         <source>A-Z</source>
-        <translation type="unfinished"/>
+        <translation>A-Z</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="153"/>
@@ -401,7 +401,7 @@
         <location filename="../../NotesView.qml" line="458"/>
         <location filename="../../NotesView.qml" line="482"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>Email</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="459"/>
@@ -411,7 +411,7 @@
     <message>
         <location filename="../../NotesView.qml" line="461"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Mudar de nome</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="493"/>
@@ -428,12 +428,12 @@
     <message>
         <location filename="../../NotesView.qml" line="544"/>
         <source>%1 notes have successfully been moved to &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>%1 notas foram movidas para &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="548"/>
         <source>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; foi movida para &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="580"/>
@@ -458,12 +458,12 @@
     <message>
         <location filename="../../NotesView.qml" line="627"/>
         <source>Are you sure you want to delete these %1 notes?</source>
-        <translation type="unfinished"/>
+        <translation>Pretende apagar estas %1 notas?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="628"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Pretende apagar %1?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="656"/>
@@ -491,12 +491,12 @@
     <message>
         <location filename="../../NotesView.qml" line="681"/>
         <source>Rename Note</source>
-        <translation type="unfinished"/>
+        <translation>Mudar nome da nota</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="691"/>
         <source>%1 (Renamed Note)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (Nome mudado)</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="718"/>
@@ -559,7 +559,7 @@
         <location filename="../../TwoButtonsModalDialog.qml" line="152"/>
         <location filename="../../TwoButtonsModalDialog.qml" line="174"/>
         <source>%1/%2</source>
-        <translation type="unfinished"/>
+        <translation>%1/%2</translation>
     </message>
 </context>
 <context>

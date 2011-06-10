@@ -75,7 +75,7 @@
     <message>
         <location filename="../../qml/constants.js" line="24"/>
         <source>This service supports sharing only</source>
-        <translation type="unfinished"/>
+        <translation>សេវាកម្ម​នេះ​ទ្រង់​ទ្រង់​តែ​ការ​ចែក​រំលែក​ប៉ុណ្ណោះ</translation>
     </message>
 </context>
 </TS>

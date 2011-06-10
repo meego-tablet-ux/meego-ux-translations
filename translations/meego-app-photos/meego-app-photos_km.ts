@@ -75,7 +75,7 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>Newest</source>
-        <translation type="unfinished"/>
+        <translation>ថ្មី​បំផុត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Recently viewed</source>
-        <translation type="unfinished"/>
+        <translation>ទើប​តែ​បាន​មើល</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="33"/>
@@ -106,7 +106,7 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Timeline</source>
-        <translation type="unfinished"/>
+        <translation>រយៈកាល</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
@@ -221,57 +221,57 @@
     <message>
         <location filename="../../main.qml" line="62"/>
         <source>You have no photos</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​មិន​មាន​រូប​ថត​ទេ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="63"/>
         <source>You haven&apos;t added any photos recently</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​មិន​បាន​បន្ថែម​រូប​ភាព​ណា​មួយ​ទេ នៅ​ពេល​ថ្មីៗ​នេះ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="64"/>
         <source>You don&apos;t have any favorite photos</source>
-        <translation type="unfinished"/>
+        <translation>អ្នកមិន​មាន​រូប​ថត​ដែល​ពេញ​ចិត្ត​ទេ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="65"/>
         <source>You haven&apos;t viewed any photos recently</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​មិន​បាន​មើល​រូប​ថត​ណា​មួយ​ទេ នៅ​ពេល​ថ្មីៗ​នេះ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="66"/>
         <source>You have no albums</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​មិន​មាន​កម្រង​រូប​ថត​ទេ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="67"/>
         <source>You haven&apos;t added any albums recently</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​មិន​បាន​បន្ថែម​កម្រង​រូប​ថត​ណា​មួយទេ នៅ​ពេល​ថ្មីៗ​នេះ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="68"/>
         <source>You haven&apos;t viewed any albums recently</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​មិន​បាន​មើល​កម្រង​រូប​ថត​ណា​មួយ​ទេ នៅ​ពេល​ថ្មីៗ​នេះ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="69"/>
         <source>You don&apos;t have any photos in this album</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​មិន​មាន​រូប​ថត​ណា​មួយ​ទេ នៅក្នុង​កម្រង​នេះ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="71"/>
         <source>Take a photo</source>
-        <translation type="unfinished"/>
+        <translation>ថត​រូប</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>View all photos</source>
-        <translation type="unfinished"/>
+        <translation>មើល​រូប​ថត​ទាំង​អស់</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="73"/>
         <source>Create an album</source>
-        <translation type="unfinished"/>
+        <translation>បង្កើត​កម្រ​ងរូប​ថត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="82"/>
@@ -288,7 +288,7 @@
         <location filename="../../main.qml" line="592"/>
         <location filename="../../main.qml" line="752"/>
         <source>Show only:</source>
-        <translation type="unfinished"/>
+        <translation>បង្ហាញ​តែ:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="655"/>
@@ -303,7 +303,7 @@
     <message>
         <location filename="../../main.qml" line="1171"/>
         <source>Type in a new name</source>
-        <translation type="unfinished"/>
+        <translation>បញ្ចូល​ឈ្មោះ​ថ្មី</translation>
     </message>
 </context>
 </TS>

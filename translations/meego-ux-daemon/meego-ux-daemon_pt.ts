@@ -17,12 +17,12 @@
     <message>
         <location filename="../../hardnotification.qml" line="21"/>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Recusar</translation>
     </message>
     <message>
         <location filename="../../hardnotification.qml" line="22"/>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Aceitar</translation>
     </message>
 </context>
 <context>
@@ -35,7 +35,7 @@
     <message>
         <location filename="../../statusindicatormenu.qml" line="189"/>
         <source>Clear</source>
-        <translation>Limpar</translation>
+        <translation>Apagar</translation>
     </message>
 </context>
 <context>

@@ -201,7 +201,7 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="373"/>
         <source>Unable to set hold</source>
-        <translation type="unfinished"/>
+        <translation>Nelze nastavit držení</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="473"/>
@@ -933,7 +933,7 @@ Prověřte, prosím, své uživatelské jméno a heslo.</translation>
     <message>
         <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="143"/>
         <source>%1 is calling you</source>
-        <translation type="unfinished"/>
+        <translation>%1 vám volá</translation>
     </message>
 </context>
 <context>

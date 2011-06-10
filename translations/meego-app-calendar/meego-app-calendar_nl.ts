@@ -65,7 +65,7 @@
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="87"/>
         <source>All day: </source>
-        <translation>Gehele dag:</translation>
+        <translation>Hele dag:</translation>
     </message>
     <message>
         <location filename="../../lib/calendarmonthmodel.cpp" line="124"/>
@@ -190,7 +190,7 @@
         <location filename="../../EventDetailsView.qml" line="103"/>
         <source>%1 (GMT %2)</source>
         <comment>1:event time and 2:GMT offset</comment>
-        <translation type="unfinished"/>
+        <translation>%1 (CET %2)</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="112"/>
@@ -211,7 +211,7 @@
     <message>
         <location filename="../../EventDetailsView.qml" line="212"/>
         <source>Show in calendar view</source>
-        <translation>Weergeef in kalender</translation>
+        <translation>Weergeven in kalender</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="249"/>
@@ -267,7 +267,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="136"/>
         <source>Please check the date and time entered</source>
-        <translation>Check de ingevoerde datum en tijd.</translation>
+        <translation>Controleer ingevoerde datum en tijd.</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="210"/>
@@ -282,7 +282,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="533"/>
         <source>Date &amp; time</source>
-        <translation>Datum &amp; Tijd</translation>
+        <translation>Datum &amp; tijd</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="583"/>
@@ -292,12 +292,12 @@
     <message>
         <location filename="../../NewEventView.qml" line="636"/>
         <source>Start time</source>
-        <translation>Start tijd</translation>
+        <translation>Starttijd</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="706"/>
         <source>End time</source>
-        <translation>Eind tijd</translation>
+        <translation>Eindtijd</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="789"/>
@@ -307,7 +307,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="858"/>
         <source>Time zone</source>
-        <translation>Tijd zone</translation>
+        <translation>Tijdzone</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="890"/>
@@ -448,7 +448,7 @@
     <message>
         <location filename="../../TimeZoneListDelegate.qml" line="46"/>
         <source>%1 (GMT %2%3)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (GMT %2%3)</translation>
     </message>
 </context>
 <context>
@@ -565,7 +565,7 @@
     <message>
         <location filename="../../main.qml" line="88"/>
         <source>Delete event?</source>
-        <translation>Verwijder gebeurtenis?</translation>
+        <translation>Verwijderen gebeurtenis?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="92"/>
@@ -580,7 +580,7 @@
     <message>
         <location filename="../../main.qml" line="103"/>
         <source>Are you sure you want to delete this event?</source>
-        <translation>Weet je zeker dat je deze gebeurtenis wil verwijderen?</translation>
+        <translation>Weet je zeker dat je deze gebeurtenis wilt verwijderen?</translation>
     </message>
 </context>
 </TS>

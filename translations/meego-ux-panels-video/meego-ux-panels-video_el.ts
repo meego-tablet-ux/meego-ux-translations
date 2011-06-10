@@ -19,7 +19,7 @@
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="93"/>
         <source>Watch your videos.</source>
-        <translation>Δες τα Βίντεό σου</translation>
+        <translation>Δες τα Βίντεό σου.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="103"/>
@@ -30,19 +30,19 @@
         <location filename="../../panelsrc/video/videopanel.qml" line="136"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="140"/>
         <source>Play</source>
-        <translation>Αναπραγωγή</translation>
+        <translation>Αναπαραγωγή</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="136"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="148"/>
         <source>Share</source>
-        <translation>Μοίρασε</translation>
+        <translation>Διαμοιρασμός</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="136"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="144"/>
         <source>Hide</source>
-        <translation>Κρύψε</translation>
+        <translation>Απόκρυψη</translation>
     </message>
 </context>
 </TS>

@@ -4,7 +4,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelClearButton.qml" line="22"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>សម្អាត​ប្រវត្តិ</translation>
     </message>
 </context>
 <context>
@@ -64,17 +64,17 @@
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
         <source>Airplane Mode is ON</source>
-        <translation type="unfinished"/>
+        <translation>របៀប​នៅ​លើ​យន្តហោះ បាន​បើក</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
         <source>To connect WiFi turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>ដើម្បី​ភ្ជាប់ WiFi សូម​មេត្តា​បិទ​របៀប នៅលើ​យន្តហោះ</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
         <source>Turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>បិទ​របៀប នៅ​លើ​យន្តហោះ</translation>
     </message>
 </context>
 </TS>

@@ -91,7 +91,7 @@
         <extracomment>%1 is last name, %2 is first name
 ----------
 %1 is first name, %2 is last name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -99,12 +99,12 @@
     <message>
         <location filename="../../ContactsExpandableDetails.qml" line="31"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម</translation>
     </message>
     <message>
         <location filename="../../ContactsExpandableDetails.qml" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>បោះ​បង់</translation>
     </message>
 </context>
 <context>
@@ -354,7 +354,7 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="38"/>
         <source>Pronounciation</source>
-        <translation type="unfinished"/>
+        <translation>ការ​បញ្ចេញ​សម្លេង</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="39"/>
@@ -394,52 +394,52 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="50"/>
         <source>Phone numbers</source>
-        <translation type="unfinished"/>
+        <translation>លេខ​ទូរស័ព្ទ</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="51"/>
         <source>Add number</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​លេខ</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="52"/>
         <source>Instant messaging</source>
-        <translation type="unfinished"/>
+        <translation>ការ​ផ្ញើ​សារ​រហ័ស</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="53"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​គណនី</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="54"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>អ៊ីមែល</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="55"/>
         <source>Add email address</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​អាសយដ្ឋាន​អ៊ីមែល</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="56"/>
         <source>Web</source>
-        <translation type="unfinished"/>
+        <translation>វិប</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="57"/>
         <source>Add web page</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​ទំព័រវិប</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="58"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>អាសយដ្ឋាន</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="59"/>
         <source>Add address</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​អាសយដ្ឋាន</translation>
     </message>
 </context>
 <context>
@@ -511,7 +511,7 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="28"/>
         <source>Yahoo!</source>
-        <translation type="unfinished"/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="29"/>
@@ -574,7 +574,7 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="34"/>
         <source>Pronounciation</source>
-        <translation type="unfinished"/>
+        <translation>ការ​បញ្ចេញ​សម្លេង</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="35"/>
@@ -619,52 +619,52 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="47"/>
         <source>Phone numbers</source>
-        <translation type="unfinished"/>
+        <translation>លេខ​ទូរស័ព្ទ</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="48"/>
         <source>Add number</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​លេខ</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="49"/>
         <source>Instant messaging</source>
-        <translation type="unfinished"/>
+        <translation>ការ​ផ្ញើ​សារ​រហ័ស</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="50"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​គណនី</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="51"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>អ៊ីមែល</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="52"/>
         <source>Add email address</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​អាសយដ្ឋាន​អ៊ីមែល</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="53"/>
         <source>Web</source>
-        <translation type="unfinished"/>
+        <translation>វិប</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="54"/>
         <source>Add web page</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​ទំព័រ​វិប</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="55"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>អាសយដ្ឋាន</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="56"/>
         <source>Add address</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​អាសយដ្ឋាន</translation>
     </message>
 </context>
 <context>
@@ -790,7 +790,7 @@
     <message>
         <location filename="../../main.qml" line="34"/>
         <source>UnFavorite</source>
-        <translation type="unfinished"/>
+        <translation>ដែល​មិន​ពេញ​ចិត្ត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>

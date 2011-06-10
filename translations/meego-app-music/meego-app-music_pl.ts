@@ -271,127 +271,127 @@
     <message>
         <location filename="../../main.qml" line="74"/>
         <source>You have no music on this tablet</source>
-        <translation type="unfinished"/>
+        <translation>W urządzeniu nie znaleziono muzyki</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="75"/>
         <source>Download or copy your music onto the tablet. Connect the tablet to your computer with a USB cable, via WiFi or bluetooth.</source>
-        <translation type="unfinished"/>
+        <translation>Pobierz lub skopiuj muzykę na urządzenie. Podłącz urządzenie do komputera przez kabel USB, sieć WiFi lub Bluetooth.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="76"/>
         <source>Your play queue is empty</source>
-        <translation type="unfinished"/>
+        <translation>Kolejka odtwarzania jest pusta</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="77"/>
         <source>Add music to the play queue</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj muzykę do kolejki odtwarzania</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="78"/>
         <source>What&apos;s the play queue?</source>
-        <translation type="unfinished"/>
+        <translation>Co to jest kolejka odtwarzania?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="79"/>
         <source>A place to queue up the music you want to hear. You can queue albums, playlists or individual tracks. </source>
-        <translation type="unfinished"/>
+        <translation>Do kolejki można dodać albumy, listy odtwarzania lub poszczególne utwory, które mają zostać odtworzone. </translation>
     </message>
     <message>
         <location filename="../../main.qml" line="80"/>
         <source>How do I queue music?</source>
-        <translation type="unfinished"/>
+        <translation>Jak dodać muzykę do kolejki odtwarzania?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="81"/>
         <source>To queue music, tap the &apos;Add music to the play queue&apos; button. You can also tap and hold a song, album or playlist, then select &apos;Add to play queue&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Aby dodać muzykę do kolejki, należy użyć przycisku &quot;Dodaj muzykę do kolejki odtwarzania&quot;. Można także przytrzymać utwór, album lub listę odtwarzania i wybrać &quot;Dodaj do kolejki odtwarzania&quot;. </translation>
     </message>
     <message>
         <location filename="../../main.qml" line="82"/>
         <source>How do I get music?</source>
-        <translation type="unfinished"/>
+        <translation>Skąd wziąć muzykę?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="83"/>
         <source>Download or copy your music onto the tablet. Connect the tablet to your computer with a USB cable, via Wi-Fi or bluetooth.</source>
-        <translation type="unfinished"/>
+        <translation>Pobierz lub skopiuj muzykę na urządzenie. Podłącz urządzenie do komputera przez kabel USB, sieć WiFi lub Bluetooth.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="84"/>
         <source>Add tracks</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj utwory</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="85"/>
         <source>Add playlists</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj listy odtwarzania</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="86"/>
         <source>Add albums</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj albumy</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="87"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>Nie znaleziono list odtwarzania</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="88"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>Stwórz listę odtwarzania</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="89"/>
         <source>What&apos;s a playlist?</source>
-        <translation type="unfinished"/>
+        <translation>Czym jest lista odtwarzania?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="90"/>
         <source>A compilation of music created by you. Create playlists to suit your mood, your activities and to share with friends.</source>
-        <translation type="unfinished"/>
+        <translation>Zbiór muzyki stworzony przez użytkownika. Stwórz listy pasujące do nastroju, czynności i by dzielić się nimi z przyjaciółmi.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="91"/>
         <source>How do I add music to a playlist?</source>
-        <translation type="unfinished"/>
+        <translation>Jak dodać muzykę do listy odtwarzania?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="92"/>
         <source>To add music to a playlist, tap and hold the track you want to add. Then select &apos;Add to playlist&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>By dodać muzykę do listy odtwarzania, należy przytrzymać dany utwór i wybrać &quot;Dodaj do listy odtwarzania&quot;.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="95"/>
         <source>You don&apos;t have any favourite music tracks</source>
-        <translation type="unfinished"/>
+        <translation>Nie znaleziono ulubionych utworów</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="96"/>
         <source>View all music tracks</source>
-        <translation type="unfinished"/>
+        <translation>Przeglądaj wszystkie utwory</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="97"/>
         <source>What are favourites?</source>
-        <translation type="unfinished"/>
+        <translation>Czym są ulubione?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="98"/>
         <source>The place to keep the music tracks you like most.</source>
-        <translation type="unfinished"/>
+        <translation>Można tu dodać utwory, które lubisz najbardziej.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="99"/>
         <source>How do I create favourites?</source>
-        <translation type="unfinished"/>
+        <translation>Jak stworzyć ulubione?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="100"/>
         <source>To add music to your favourites, tap and hold a music track you love. Then select &apos;Favourite&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>By dodać muzykę do ulubionych, przytrzymaj ścieżkę i wybierz &quot;Dodaj do ulubionych&quot;.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="651"/>

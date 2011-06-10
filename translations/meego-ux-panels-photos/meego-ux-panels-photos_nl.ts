@@ -44,13 +44,13 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="192"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="195"/>
         <source>Open</source>
-        <translation>Open</translation>
+        <translation>Openen</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="161"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="170"/>
         <source>Share</source>
-        <translation>Deel</translation>
+        <translation>Delen</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="161"/>
@@ -68,7 +68,7 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="276"/>
         <source>%1 photo</source>
-        <translation type="unfinished"/>
+        <translation>%1 foto</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="276"/>

@@ -9,17 +9,17 @@
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="148"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation type="unfinished"/>
+        <translation>Wilt je echt met account verbinden? Door dit te doen worden alle andere accounts %1 verbroken.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="219"/>
         <source>There is already an account configured using this login. Please check your username.</source>
-        <translation type="unfinished"/>
+        <translation>Er is al een account geconfigureerd voor deze login. Controleer je gebruikersnaaoleerm.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="220"/>
         <source>Sorry, there was a problem logging in. Please check your username and password.</source>
-        <translation type="unfinished"/>
+        <translation>Sorry, er was een probleem bij het inloggen. Controleer je gebruikersnaam en wachtwoord.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountContent.qml" line="235"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="../../AccountDelegate.qml" line="121"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation type="unfinished"/>
+        <translation>Wilt je echt met account verbinden? Door dit te doen worden alle andere accounts %1 verbroken.</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="184"/>
@@ -80,7 +80,7 @@
     <message>
         <location filename="../../AccountDelegate.qml" line="186"/>
         <source>Log in to %1</source>
-        <translation type="unfinished"/>
+        <translation>Log in op %1</translation>
     </message>
     <message>
         <location filename="../../AccountDelegate.qml" line="188"/>
@@ -98,7 +98,7 @@
     <message>
         <location filename="../../AccountScreenContent.qml" line="60"/>
         <source>Loading accounts...</source>
-        <translation type="unfinished"/>
+        <translation>Accounts laden...</translation>
     </message>
     <message>
         <location filename="../../AccountScreenContent.qml" line="72"/>
@@ -116,12 +116,12 @@
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="39"/>
         <source>Update</source>
-        <translation>Update</translation>
+        <translation>Bijwerken</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="55"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="80"/>
@@ -169,7 +169,7 @@
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="115"/>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="163"/>
         <source>An error occurred while trying to complete your request. Please try again.</source>
-        <translation type="unfinished"/>
+        <translation>Er is een fout opgetreden bij de poging je aanvraag te voltooien. Probeer het opnieuw.</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="176"/>
@@ -182,13 +182,13 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="116"/>
         <source>Unable to create media call for contact %1</source>
-        <translation type="unfinished"/>
+        <translation>Niet gelukt om contact te leggen met contact %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="165"/>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="174"/>
         <source>Error ending call</source>
-        <translation>Fout tijdens eindigen van het gesprek</translation>
+        <translation>Fout tijdens beëindigen van het gesprek</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="199"/>
@@ -199,7 +199,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="373"/>
         <source>Unable to set hold</source>
-        <translation type="unfinished"/>
+        <translation>Niet gelukt vast te houden</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="473"/>
@@ -210,13 +210,13 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="571"/>
         <source>Unable to create call channel for contact %1</source>
-        <translation type="unfinished"/>
+        <translation>Niet gelukt om het kanaal voor contact %1 te openen</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="899"/>
         <source>Unable to create channel: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Niet gelukt om het kanaal te openen: %1 -%2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="914"/>
@@ -227,19 +227,19 @@
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="929"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Niet gelukt om kanaal voor contacten %1 te openen -%2 -%3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="986"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ongeldige oproepkanaal voor contacten %1 -%2 -%3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1259"/>
         <source>Error ending call: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Fout bij beëeindigen oproep: %1 -%2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1274"/>
@@ -251,7 +251,7 @@
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1290"/>
         <source>Hold request could not be done %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Verzoek aanhouden niet gelukt %1 -%2</translation>
     </message>
 </context>
 <context>
@@ -259,7 +259,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="54"/>
         <source>Unable to create text channel room %1</source>
-        <translation type="unfinished"/>
+        <translation>Niet gelukt om tekstkanaal kamer %1 te maken</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="116"/>
@@ -303,7 +303,7 @@
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="272"/>
         <source>Invalidated text channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ongeldig tekstkanaal voor contact %1 -%2 -%3</translation>
     </message>
 </context>
 <context>
@@ -324,7 +324,7 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="154"/>
         <source>Update status</source>
-        <translation>Update status</translation>
+        <translation>Bijwerken status</translation>
     </message>
     <message>
         <location filename="../../ContactContentMenu.qml" line="209"/>
@@ -405,7 +405,7 @@
     <message>
         <location filename="../../ContactContentMenu.qml" line="637"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation type="unfinished"/>
+        <translation>Wilt je echt met account verbinden? Door dit te doen worden alle andere accounts %1 verbroken.</translation>
     </message>
 </context>
 <context>
@@ -530,22 +530,22 @@
     <message>
         <location filename="../../ContactsScreenContent.qml" line="205"/>
         <source>Loading contacts...</source>
-        <translation type="unfinished"/>
+        <translation>Contacten laden...</translation>
     </message>
     <message>
         <location filename="../../ContactsScreenContent.qml" line="210"/>
         <source>You haven&apos;t added any friends yet</source>
-        <translation type="unfinished"/>
+        <translation>Je hebt nog geen vrienden toegevoegd</translation>
     </message>
     <message>
         <location filename="../../ContactsScreenContent.qml" line="234"/>
         <source>Account is offline</source>
-        <translation type="unfinished"/>
+        <translation>Account is offline</translation>
     </message>
     <message>
         <location filename="../../ContactsScreenContent.qml" line="236"/>
         <source>Account is connecting...</source>
-        <translation type="unfinished"/>
+        <translation>Account is bezig met verbinden ...</translation>
     </message>
 </context>
 <context>
@@ -560,7 +560,7 @@
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="153"/>
         <source>Invalidated file transfer channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ongeldig file transfer kanaal voor contact %1 -%2 -%3</translation>
     </message>
 </context>
 <context>
@@ -812,7 +812,7 @@
     <message>
         <location filename="../../MessageContentMenu.qml" line="55"/>
         <source>Add contacts to chat</source>
-        <translation type="unfinished"/>
+        <translation>Contacten toevoegen om te chatten</translation>
     </message>
     <message>
         <location filename="../../MessageContentMenu.qml" line="72"/>
@@ -890,12 +890,12 @@
     <message>
         <location filename="../../MessageScreenContent.qml" line="173"/>
         <source>Opening chat...</source>
-        <translation type="unfinished"/>
+        <translation>Openen chat ...</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="184"/>
         <source>Loading conversation history...</source>
-        <translation type="unfinished"/>
+        <translation>Laden gespreksgeschiedenis ...</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="332"/>
@@ -931,7 +931,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="143"/>
         <source>%1 is calling you</source>
-        <translation type="unfinished"/>
+        <translation>%1 probeert je te bellen</translation>
     </message>
 </context>
 <context>

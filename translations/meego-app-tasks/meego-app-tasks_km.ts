@@ -197,12 +197,12 @@
     <message>
         <location filename="../../main.qml" line="19"/>
         <source>Order: asc</source>
-        <translation type="unfinished"/>
+        <translation>តម្រៀប: លំដាប់​ឡើង</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Order: desc</source>
-        <translation type="unfinished"/>
+        <translation>តម្រៀប: លំដាប់​ចុះ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
@@ -339,75 +339,75 @@
     <message>
         <location filename="../../main.qml" line="566"/>
         <source>Use the default task list, or make a new one</source>
-        <translation type="unfinished"/>
+        <translation>ប្រើ​បញ្ជី​ភារកិច្ច​លំនាំ​ដើម ឬ បង្កើត​ថ្មី</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="567"/>
         <source>Create a new task list</source>
-        <translation type="unfinished"/>
+        <translation>បង្កើត​បញ្ជី​ភារកិច្ច​ថ្មី</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="572"/>
         <source>What&apos;s a task list?</source>
-        <translation type="unfinished"/>
+        <translation>តើ​បញ្ជី​ភារកិច្ច​គឹ​ជា​អ្វី?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="573"/>
         <source>A task list is a collection of tasks. Use the default task list we have created for you, or make a new one.</source>
-        <translation type="unfinished"/>
+        <translation>បញ្ជី​ភារកិច្ច គឺ​ជា​បណ្ដុំ​នៃ​ភារកិច្ច​នានា។ ប្រើ​បញ្ជី​ភារកិច្ច​ដែល​មាន​ស្រាប់ ឬ ក៏​បង្កើត​ថ្មី​មួយ។</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="578"/>
         <location filename="../../main.qml" line="757"/>
         <source>How do I create tasks?</source>
-        <translation type="unfinished"/>
+        <translation>តើ​ខ្ញុំ​អាច​បង្កើត​ភារកិច្ច​ដោយ​របៀប​ណា?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="579"/>
         <location filename="../../main.qml" line="758"/>
         <source>To create a task, start by selecting a task list. Then tap on the new task line.</source>
-        <translation type="unfinished"/>
+        <translation>ដើម្បី​បង្កើត​ភារកិច្ច ដោយ​គ្រាន់​តែ​ចុច​លើ​បញ្ជី​ភារកិច្ច។ ហើយ​ចុច​លើ​បន្ទាត់ ភារកិច្ច​ថ្មី។</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="584"/>
         <source>How do I check completed tasks?</source>
-        <translation type="unfinished"/>
+        <translation>តើ​ខ្ញុំ​អាច​ពិនិត្យ​មើល ភារកិច្ច​ដែល​ចប់​សព្វ​គ្រប់​បាន​ដោយ​របៀប​ណា?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="585"/>
         <source>To mark a task as completed, tap the check box.</source>
-        <translation type="unfinished"/>
+        <translation>ដើម្បី​សម្គាល់​ថា​ភារកិច្ច​ចប់​រួច​រាល់​ហើយ សូម​ចុច​លើ​ប្រអប់​ធីក។</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="725"/>
         <source>You have no due tasks</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​ពុំ​មាន​ភារកិច្ច​ដែល​ដល់​ពេល​ទេ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="729"/>
         <source>You have no overdue tasks</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​ពុំ​មាន​ភារកិច្ច​ដែល​ហួស​ពេល​ទេ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="733"/>
         <source>You have no upcoming tasks</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​ពុំ​មាន​ភារកិច្ច​ដែល​នឹង​មក​ដល់​ទេ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="737"/>
         <source>You have no someday tasks</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​ពុំ​មាន​ភារកិច្ច​នៅ​ថ្ងៃ​ណា​មួយ​ទេ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="747"/>
         <source>To create a task, start by selecting a task list.</source>
-        <translation type="unfinished"/>
+        <translation>ដើម្បី​បង្កើត​ភារកិច្ច ដោយ​គ្រា់​តែ​ចុច​លើ​បញ្ជី​ភារកិច្ច។</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="749"/>
         <location filename="../../main.qml" line="759"/>
         <source>Select a task list</source>
-        <translation type="unfinished"/>
+        <translation>រើស​បញ្ជី​ភារកិច្ច</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="797"/>

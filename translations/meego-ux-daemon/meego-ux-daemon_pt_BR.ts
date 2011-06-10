@@ -17,12 +17,12 @@
     <message>
         <location filename="../../hardnotification.qml" line="21"/>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Regeitar</translation>
     </message>
     <message>
         <location filename="../../hardnotification.qml" line="22"/>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Aceitar</translation>
     </message>
 </context>
 <context>

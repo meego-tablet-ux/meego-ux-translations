@@ -199,7 +199,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="373"/>
         <source>Unable to set hold</source>
-        <translation type="unfinished"/>
+        <translation>No se puede poner modo espera</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="473"/>
@@ -870,19 +870,19 @@
         <location filename="../../MessageDelegate.qml" line="177"/>
         <source>%1 tried to call - %2</source>
         <extracomment>%1 contact id who called - %2 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 intentó llamar - %2</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="180"/>
         <source>%1 rejected call - %2</source>
         <extracomment>%1 contact id who rejected the call - %2 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 llamada rechazada - %2</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="183"/>
         <source>%1 called - duration %2 - %3</source>
         <extracomment>%1 contact id who called - %2 duration of the call - %3 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 llamada - duración %2 - %3</translation>
     </message>
 </context>
 <context>
@@ -1017,12 +1017,12 @@
     <message>
         <location filename="../../VideoWindow.qml" line="418"/>
         <source>Minimize me</source>
-        <translation type="unfinished"/>
+        <translation>Minimizar</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="418"/>
         <source>Maximize me</source>
-        <translation type="unfinished"/>
+        <translation>Maximizar</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>

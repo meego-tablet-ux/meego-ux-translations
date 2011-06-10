@@ -4,17 +4,17 @@
     <message>
         <location filename="../../General/BacklightSettings.qml" line="35"/>
         <source>Set brightness automatically</source>
-        <translation type="unfinished"/>
+        <translation>Nastavit jas automaticky</translation>
     </message>
     <message>
         <location filename="../../General/BacklightSettings.qml" line="58"/>
         <source>Brightness</source>
-        <translation type="unfinished"/>
+        <translation>Jas</translation>
     </message>
     <message>
         <location filename="../../General/BacklightSettings.qml" line="62"/>
         <source>%1%</source>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -23,40 +23,40 @@
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="68"/>
         <source>Disconnect audio</source>
-        <translation type="unfinished"/>
+        <translation>Odpojit zvuk</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="72"/>
         <source>Connect audio</source>
-        <translation type="unfinished"/>
+        <translation>Připojit zvuk</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="92"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="103"/>
         <source>Disconnect input device</source>
-        <translation type="unfinished"/>
+        <translation>Odpojit vstupní zařízení</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="92"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="107"/>
         <source>Connect input device</source>
-        <translation type="unfinished"/>
+        <translation>Připojit vstupní zařízení</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="128"/>
         <source>Disconnect internet</source>
-        <translation type="unfinished"/>
+        <translation>Odpojit internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="128"/>
         <source>Connect internet</source>
-        <translation type="unfinished"/>
+        <translation>Připojit internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="183"/>
         <source>Connect actions</source>
-        <translation type="unfinished"/>
+        <translation>Spojit činnosti</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="234"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="268"/>
         <source>Hardware address: %1</source>
-        <translation type="unfinished"/>
+        <translation>Hardwarová adresa: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="276"/>
@@ -120,12 +120,12 @@
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="155"/>
         <source>Paired devices</source>
-        <translation type="unfinished"/>
+        <translation>Spárovaná zařízení</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="169"/>
         <source>Add device</source>
-        <translation type="unfinished"/>
+        <translation>Přidat zařízení</translation>
     </message>
 </context>
 <context>
@@ -276,7 +276,7 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="30"/>
         <source>Manual APN entry</source>
-        <translation type="unfinished"/>
+        <translation>Ruční záznam APN</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="60"/>
@@ -385,33 +385,33 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="65"/>
         <source>Airplane mode</source>
-        <translation type="unfinished"/>
+        <translation>Letadlový režim</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="98"/>
         <source>Network connections</source>
-        <translation type="unfinished"/>
+        <translation>Síťová spojení</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="197"/>
         <source>Available networks</source>
-        <translation type="unfinished"/>
+        <translation>Dostupné sítě</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="206"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="220"/>
         <source>Add network</source>
-        <translation type="unfinished"/>
+        <translation>Přidat síť</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="234"/>
         <source>Network name:</source>
-        <translation type="unfinished"/>
+        <translation>Název sítě:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="250"/>
         <source>Security type:</source>
-        <translation type="unfinished"/>
+        <translation>Druh bezpečnosti:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
@@ -426,7 +426,7 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="272"/>
         <source>Security passphrase:</source>
-        <translation type="unfinished"/>
+        <translation>Bezpečnostní heslo:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="298"/>
@@ -444,7 +444,7 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="33"/>
         <source>Time and date</source>
-        <translation type="unfinished"/>
+        <translation>Čas a datum</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="49"/>
@@ -459,12 +459,12 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="76"/>
         <source>Backlight control</source>
-        <translation type="unfinished"/>
+        <translation>Ovládání osvětlení zezadu</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="94"/>
         <source>Screen saver</source>
-        <translation type="unfinished"/>
+        <translation>Šetřič obrazovky</translation>
     </message>
 </context>
 <context>
@@ -660,7 +660,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Bluetooth/NearbyDeviceExpandingBox.qml" line="55"/>
         <source>(%1)</source>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -699,7 +699,7 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="80"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>Panely</translation>
     </message>
 </context>
 <context>
@@ -751,17 +751,17 @@ Status message: successfully completed sync job.</extracomment>
     <message>
         <location filename="../../General/ScreensaverSettings.qml" line="35"/>
         <source>Screen Saver Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Šetřič obrazovky povolen</translation>
     </message>
     <message>
         <location filename="../../General/ScreensaverSettings.qml" line="67"/>
         <source>Screen Saver Timeout</source>
-        <translation type="unfinished"/>
+        <translation>Překročení časového omezení šetřiče obrazovky</translation>
     </message>
     <message>
         <location filename="../../General/ScreensaverSettings.qml" line="71"/>
         <source>%1 Minutes</source>
-        <translation type="unfinished"/>
+        <translation>%1 minut</translation>
     </message>
 </context>
 <context>
@@ -1021,7 +1021,7 @@ Tento krok povede k zapomenutí všech hesel a vy už dál nebudete automaticky 
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="238"/>
         <source>Remove connection</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit spojení</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="249"/>
@@ -1036,7 +1036,7 @@ Tento krok povede k zapomenutí všech hesel a vy už dál nebudete automaticky 
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="300"/>
         <source>Subnet mask:</source>
-        <translation type="unfinished"/>
+        <translation>Maska podsítě:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="318"/>
@@ -1051,7 +1051,7 @@ Tento krok povede k zapomenutí všech hesel a vy už dál nebudete automaticky 
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="353"/>
         <source>Hardware address:</source>
-        <translation type="unfinished"/>
+        <translation>Hardwarová adresa:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="372"/>
@@ -1091,7 +1091,7 @@ Tento krok povede k zapomenutí všech hesel a vy už dál nebudete automaticky 
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="489"/>
         <source>Show password</source>
-        <translation type="unfinished"/>
+        <translation>Ukázat heslo</translation>
     </message>
 </context>
 <context>

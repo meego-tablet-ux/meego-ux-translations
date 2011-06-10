@@ -86,12 +86,12 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="353"/>
         <source>Your play queue is empty</source>
-        <translation type="unfinished"/>
+        <translation>Η ουρά αναπαραγωγής σας είναι άδεια</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="371"/>
         <source>Add music to the play queue</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη μουσικής στην ουρά αναπαραγωγής</translation>
     </message>
 </context>
 </TS>

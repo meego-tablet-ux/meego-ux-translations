@@ -30,24 +30,24 @@
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="121"/>
         <source>Visit the Intel AppUp(sm) center</source>
-        <translation>Visite a o centro Intel AppUp(sm)</translation>
+        <translation>Visite o centro Intel AppUp(sm)</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="123"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="178"/>
         <source>Featured applications</source>
-        <translation type="unfinished"/>
+        <translation>Aplicações especiais</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="126"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="186"/>
         <source>Updated applications</source>
-        <translation type="unfinished"/>
+        <translation>Aplicações atualizadas</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="136"/>
         <source>My Tablet</source>
-        <translation>O meu Tablet</translation>
+        <translation>My Tablet</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="194"/>
@@ -57,7 +57,7 @@
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="204"/>
         <source>My Tablet settings</source>
-        <translation>Definições do meu Tablet</translation>
+        <translation>Definições do My Tablet</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="205"/>

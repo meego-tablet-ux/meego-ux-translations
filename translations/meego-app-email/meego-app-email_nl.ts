@@ -19,14 +19,14 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="105"/>
         <source>Email address</source>
-        <translation>E-mail adres</translation>
+        <translation>E-mailadres</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="111"/>
         <location filename="../../settings/AccountExpandobox.qml" line="154"/>
         <location filename="../../settings/AccountExpandobox.qml" line="197"/>
         <source>Password</source>
-        <translation>wachtwoord</translation>
+        <translation>Wachtwoord</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="119"/>
@@ -48,7 +48,7 @@
         <location filename="../../settings/AccountExpandobox.qml" line="130"/>
         <location filename="../../settings/AccountExpandobox.qml" line="167"/>
         <source>Server address</source>
-        <translation>Server  adres</translation>
+        <translation>Server adres</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="136"/>
@@ -91,7 +91,7 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="221"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="222"/>
@@ -147,17 +147,17 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="162"/>
         <source>Notifications</source>
-        <translation>Notificaties</translation>
+        <translation>Meldingen</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="180"/>
         <source>New email notifications</source>
-        <translation>Nieuwe email notificaties</translation>
+        <translation>Nieuwe e-mail meldingen</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="185"/>
         <source>Ask before deleting email</source>
-        <translation>Vraag voor het verwijderen van e-mail</translation>
+        <translation>Vragen voor het verwijderen van e-mail</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="198"/>
@@ -368,7 +368,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="106"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation>Je hebt wijzigingen aangebracht in je instellingen, ben je zeker dat je wilt annuleren?</translation>
+        <translation>Je hebt wijzigingen aangebracht in je instellingen, weet je zeker dat je wilt annuleren?</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="111"/>
@@ -403,12 +403,12 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="166"/>
         <source>Please fill in account details:</source>
-        <translation>Vul  a.u.b. je account details in:</translation>
+        <translation>Vul je account details in:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="175"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -444,7 +444,7 @@
     <message>
         <location filename="../../EmailHeader.qml" line="198"/>
         <source>Enter subject here</source>
-        <translation>Voer hier uw onderwerp in</translation>
+        <translation>Voer hier het onderwerp in</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="233"/>
@@ -467,7 +467,7 @@
     <message>
         <location filename="../../settings/EmailSettings.qml" line="18"/>
         <source>Email Settings</source>
-        <translation>Email Instellingen</translation>
+        <translation>E-mailinstellingen</translation>
     </message>
 </context>
 <context>
@@ -475,7 +475,7 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="17"/>
         <source>Create new folder</source>
-        <translation type="unfinished"/>
+        <translation>Nieuwe map aanmaken</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="152"/>
@@ -485,18 +485,18 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="219"/>
         <source>Create</source>
-        <translation type="unfinished"/>
+        <translation>Creëren</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="220"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="228"/>
         <source>Untitled Folder</source>
         <extracomment>Default custom e-mail folder name.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Naamloze map</translation>
     </message>
 </context>
 <context>
@@ -529,7 +529,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="113"/>
         <source>Drafts</source>
-        <translation type="unfinished"/>
+        <translation>Concepten</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="118"/>
@@ -539,17 +539,17 @@
     <message>
         <location filename="../../FolderListView.qml" line="119"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="120"/>
         <source>Delete Email</source>
-        <translation>Verwijder E-mail</translation>
+        <translation>E-mail verwijderen</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="122"/>
         <source>Are you sure you want to delete this email?</source>
-        <translation>Ben je zeker dat je deze e-mail wilt verwijderen?</translation>
+        <translation>Weet je zeker dat je deze e-mail wilt verwijderen?</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="161"/>
@@ -570,12 +570,12 @@
     <message>
         <location filename="../../FolderListView.qml" line="247"/>
         <source>Getting more messages</source>
-        <translation>Verkrijgen van meerdere berichten</translation>
+        <translation>Meer berichten ophalen</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="249"/>
         <source>Get more messages</source>
-        <translation>Verkrijg meer berichten</translation>
+        <translation>Meer berichten ophalen</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="474"/>
@@ -595,17 +595,17 @@
     <message>
         <location filename="../../FolderListView.qml" line="474"/>
         <source>Delete</source>
-        <translation>Verwijder</translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="475"/>
         <source>Mark as unread</source>
-        <translation>Markeer als ongelezen</translation>
+        <translation>Markeren als ongelezen</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="475"/>
         <source>Mark as read</source>
-        <translation>Markeer als gelezen</translation>
+        <translation>Markeren als gelezen</translation>
     </message>
 </context>
 <context>
@@ -613,7 +613,7 @@
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="129"/>
         <source>Choose folder:</source>
-        <translation type="unfinished"/>
+        <translation>Kies een map:</translation>
     </message>
 </context>
 <context>
@@ -692,7 +692,7 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="147"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation>Je hebt wijzigingen aangebracht in je instellingen, ben je zeker dat je wilt annuleren?</translation>
+        <translation>Je hebt wijzigingen aangebracht in je instellingen, weet je zeker dat je wilt annuleren?</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="166"/>
@@ -723,7 +723,7 @@
         <location filename="../../MessageAction.qml" line="41"/>
         <source>(%1)</source>
         <extracomment>Arg 1 is the number of selected messages</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -791,7 +791,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="417"/>
         <source>Downloading...</source>
-        <translation>Downloading...</translation>
+        <translation>Downloaden...</translation>
     </message>
 </context>
 <context>
@@ -814,7 +814,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="46"/>
         <source>Are you sure you want to delete this email?</source>
-        <translation>Weet u zeker dat u deze e-mail wil verwijderen?</translation>
+        <translation>Weet je zeker dat je deze e-mail wilt verwijderen?</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="65"/>
@@ -873,7 +873,7 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="70"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation>Je hebt wijzigingen aangebracht in je instellingen, ben je zeker dat je wilt annuleren?</translation>
+        <translation>Je hebt wijzigingen aangebracht in je instellingen, weet je zeker dat je wilt annuleren?</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="90"/>
@@ -890,12 +890,12 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="120"/>
         <source>Please fill in account details:</source>
-        <translation>Vul a.u.b. account details in:</translation>
+        <translation>Vul account details in:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="132"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -927,7 +927,7 @@
     <message>
         <location filename="../../settings/WelcomeButtons.qml" line="70"/>
         <source>Other</source>
-        <translation>Other</translation>
+        <translation>Andere</translation>
     </message>
 </context>
 <context>
@@ -935,7 +935,7 @@
     <message>
         <location filename="../../settings/WelcomeScreen.qml" line="32"/>
         <source>Welcome to your email.</source>
-        <translation>Welkom op uw e-mail</translation>
+        <translation>Welkom bij je e-mail</translation>
     </message>
     <message>
         <location filename="../../settings/WelcomeScreen.qml" line="38"/>
@@ -958,7 +958,7 @@
     <message>
         <location filename="../../main.qml" line="17"/>
         <source>Date Sent</source>
-        <translation>Datum verzonden</translation>
+        <translation>Verzenddatum</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="30"/>
@@ -995,7 +995,7 @@
         <location filename="../../main.qml" line="142"/>
         <location filename="../../main.qml" line="454"/>
         <source>Account switcher</source>
-        <translation>Account switcher</translation>
+        <translation>Account wisselaar</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="165"/>
@@ -1084,7 +1084,7 @@
     <message>
         <location filename="../../settings/settings.js" line="72"/>
         <source>Plain</source>
-        <translation>Plain</translation>
+        <translation>Kaal</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="73"/>

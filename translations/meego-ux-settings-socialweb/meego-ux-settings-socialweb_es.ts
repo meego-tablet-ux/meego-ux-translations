@@ -70,12 +70,12 @@
     <message>
         <location filename="../../qml/constants.js" line="23"/>
         <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
-        <translation>Ha cerrado la sesión exitosamente. El contenido de este servicio ya no aparecerá en este dispositivo.</translation>
+        <translation>Ha cerrado la sesión exitosamente.  El contenido de este servicio ya no aparecerá en este dispositivo.</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="24"/>
         <source>This service supports sharing only</source>
-        <translation type="unfinished"/>
+        <translation>Este servicio sólo soporta compartimento</translation>
     </message>
 </context>
 </TS>

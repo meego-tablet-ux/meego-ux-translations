@@ -4,7 +4,7 @@
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="31"/>
         <source>Just Now</source>
-        <translation type="unfinished"/>
+        <translation>Justo ahora</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="33"/>
@@ -47,56 +47,56 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="52"/>
         <source>%1/%2/%3 - %4</source>
         <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year, 4 is day name; e.g. 5/31/11 - Tuesday</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2 /%3 - %4</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="59"/>
         <source>%1/%2/%3 - Last week</source>
         <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year; Last week is a fuzzy description</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - La semana pasada</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="65"/>
         <source>%1/%2/%3 - A couple of weeks ago</source>
         <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year; A couple of weeks ago is a fuzzy description</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - Hace un par de semanas</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="71"/>
         <source>%1/%2/%3 - %4 weeks ago</source>
         <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year, 4 is number of weeks; weeks ago is a fuzzy description</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - %4 semanas atras</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="78"/>
         <source>%1/%2/%3 - Last month</source>
         <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year; Last month is a fuzzy description</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - El mes pasado</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="84"/>
         <source>%1/%2/%3 - A couple of months ago</source>
         <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year; A couple of months ago is a fuzzy description</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3  - Hace un par de meses</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="94"/>
         <source>%1/%2/%3 - %4 months ago</source>
         <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year, 4 is number of months; month ago is a fuzzy description</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - %4 meses atras</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="101"/>
         <source>%1/%2/%3 - Last year</source>
         <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year; Last year is a fuzzy description</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - El año pasado</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="107"/>
         <source>%1/%2/%3 - %4 years ago</source>
         <comment>1 is month, 2 is day, 3 is year</comment>
         <extracomment>reorder according to the date format of a language: 1 is numeric month, 2 is numeric day, 3 is numeric year, 4 is number of years; years ago is a fuzzy description</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2/%3 - %4 años atras</translation>
     </message>
 </context>
 </TS>

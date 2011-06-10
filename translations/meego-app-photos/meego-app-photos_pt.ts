@@ -303,7 +303,7 @@
     <message>
         <location filename="../../main.qml" line="1171"/>
         <source>Type in a new name</source>
-        <translation type="unfinished"/>
+        <translation>Indique o novo nome</translation>
     </message>
 </context>
 </TS>

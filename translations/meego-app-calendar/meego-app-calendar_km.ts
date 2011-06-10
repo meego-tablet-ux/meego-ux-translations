@@ -4,22 +4,22 @@
     <message>
         <location filename="../../CalendarDayView.qml" line="17"/>
         <source>Day</source>
-        <translation type="unfinished"/>
+        <translation>ថ្ងៃ</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="25"/>
         <source>Create new event</source>
-        <translation type="unfinished"/>
+        <translation>បង្កើត​ព្រឹត្តិការណ៍​ថ្មី</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="25"/>
         <source>Go to today</source>
-        <translation type="unfinished"/>
+        <translation>ទៅ​កាន់​ថ្ងៃ​នេះ</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="25"/>
         <source>Go to date</source>
-        <translation type="unfinished"/>
+        <translation>ទៅ​កាន់​កាល​បរិច្ឆេទ</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="342"/>
@@ -78,22 +78,22 @@
     <message>
         <location filename="../../CalendarMonthView.qml" line="17"/>
         <source>Month</source>
-        <translation type="unfinished"/>
+        <translation>ខែ</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="26"/>
         <source>Create new event</source>
-        <translation type="unfinished"/>
+        <translation>បង្កើត​ព្រឹត្តិការណ៍​ថ្មី</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="26"/>
         <source>Go to today</source>
-        <translation type="unfinished"/>
+        <translation>ទៅ​កាន់​ថ្ងៃ​នេះ</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="26"/>
         <source>Go to date</source>
-        <translation type="unfinished"/>
+        <translation>ទៅ​កាន់​កាល​បរិច្ឆេទ</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="548"/>
@@ -112,22 +112,22 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="17"/>
         <source>Week</source>
-        <translation type="unfinished"/>
+        <translation>សប្ដាហ៍</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="25"/>
         <source>Create new event</source>
-        <translation type="unfinished"/>
+        <translation>បង្កើត​ព្រឹត្តិការណ៍​ថ្មី</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="25"/>
         <source>Go to today</source>
-        <translation type="unfinished"/>
+        <translation>ទៅ​កាន់​ថ្ងៃ​នេះ</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="25"/>
         <source>Go to date</source>
-        <translation type="unfinished"/>
+        <translation>ទៅ​កាន់​កាល​បរិច្ឆេទ</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="58"/>
@@ -178,30 +178,30 @@
     <message>
         <location filename="../../EventDetailsView.qml" line="43"/>
         <source>All day</source>
-        <translation type="unfinished"/>
+        <translation>គ្រប់​ថ្ងៃ</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="45"/>
         <source>%1, %2 - %3</source>
         <comment>Event StartDate, StartTime - EndTime </comment>
-        <translation type="unfinished"/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="103"/>
         <source>%1 (GMT %2)</source>
         <comment>1:event time and 2:GMT offset</comment>
-        <translation type="unfinished"/>
+        <translation>%1 (GMT %2)</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="112"/>
         <source>%1 %2</source>
         <comment>Repeats frequency</comment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="112"/>
         <source>Repeats</source>
-        <translation type="unfinished"/>
+        <translation>ធ្វើ​ឡើង​វិញ</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="171"/>
@@ -448,7 +448,7 @@
     <message>
         <location filename="../../TimeZoneListDelegate.qml" line="46"/>
         <source>%1 (GMT %2%3)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (GMT %2%3)</translation>
     </message>
 </context>
 <context>

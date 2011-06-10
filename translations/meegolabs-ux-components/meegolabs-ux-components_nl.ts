@@ -1,292 +1,307 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="nl" version="2.0">
 <context>
-    <name>FuzzyDateTime</name>
+    <name>ContactsPicker</name>
     <message>
-        <location filename="../../fuzzydatetime.cpp" line="31"/>
-        <source>Just Now</source>
-        <translation>Zonet</translation>
+        <location filename="../../Components/ContactsPicker.qml" line="37"/>
+        <source>Pick a contact:</source>
+        <translation>Kies een contactpersoon:</translation>
     </message>
     <message>
-        <location filename="../../fuzzydatetime.cpp" line="33"/>
-        <source>1 min ago</source>
-        <translation>1 minuut geleden</translation>
+        <location filename="../../Components/ContactsPicker.qml" line="76"/>
+        <source>You have no contacts with an email address</source>
+        <translation>Je hebt geen contacten met een e-mailadres</translation>
     </message>
     <message>
-        <location filename="../../fuzzydatetime.cpp" line="35"/>
-        <source>%1 mins ago</source>
-        <comment>1 is number of minutes</comment>
-        <translation>%1 minuten geleden</translation>
+        <location filename="../../Components/ContactsPicker.qml" line="79"/>
+        <source>You have no contacts with a phone number</source>
+        <translation>Je hebt geen contacten met een telefoonnummer</translation>
     </message>
     <message>
-        <location filename="../../fuzzydatetime.cpp" line="38"/>
-        <source>Half an hour ago</source>
-        <translation>30 minuten geleden</translation>
+        <location filename="../../Components/ContactsPicker.qml" line="82"/>
+        <source>You have no contacts with an instant messaging account</source>
+        <translation>Je hebt geen contacten met een instant messaging account</translation>
     </message>
     <message>
-        <location filename="../../fuzzydatetime.cpp" line="40"/>
-        <source>An hour ago</source>
-        <translation>1 uur geleden</translation>
+        <location filename="../../Components/ContactsPicker.qml" line="85"/>
+        <source>You have no contacts</source>
+        <translation>Je hebt geen contactenpersonen</translation>
     </message>
     <message>
-        <location filename="../../fuzzydatetime.cpp" line="42"/>
-        <source>A couple of hours ago</source>
-        <translation>Enkele uren geleden</translation>
+        <location filename="../../Components/ContactsPicker.qml" line="278"/>
+        <source>Idle</source>
+        <translation>Niet bezig</translation>
     </message>
     <message>
-        <location filename="../../fuzzydatetime.cpp" line="44"/>
-        <source>%1 hours ago</source>
-        <comment>1 is number of hours</comment>
-        <translation>%1 uur geleden</translation>
+        <location filename="../../Components/ContactsPicker.qml" line="280"/>
+        <source>Available</source>
+        <translation>Beschikbaar</translation>
     </message>
     <message>
-        <location filename="../../fuzzydatetime.cpp" line="49"/>
-        <source>Yesterday</source>
-        <translation>Gisteren</translation>
+        <location filename="../../Components/ContactsPicker.qml" line="282"/>
+        <source>Busy</source>
+        <translation>Bezig</translation>
     </message>
+</context>
+<context>
+    <name>DocumentPicker</name>
     <message>
-        <location filename="../../fuzzydatetime.cpp" line="51"/>
-        <source>%1/%2/%3 - %4</source>
-        <comment>1 is month, 2 is day, 3 is year, 4 is day name</comment>
-        <translation>%2-%1-%3 - %4</translation>
-    </message>
-    <message>
-        <location filename="../../fuzzydatetime.cpp" line="57"/>
-        <source>%1/%2/%3 - Last week</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%2-%1-%3 - Vorige week</translation>
-    </message>
-    <message>
-        <location filename="../../fuzzydatetime.cpp" line="62"/>
-        <source>%1/%2/%3 - A couple of weeks ago</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%2-%1-%3 - Enkele weken geleden</translation>
-    </message>
-    <message>
-        <location filename="../../fuzzydatetime.cpp" line="67"/>
-        <source>%1/%2/%3 - %4 weeks ago</source>
-        <comment>1 is month, 2 is day, 3 is year, 4 is number of weeks</comment>
-        <translation>%2-%1-%3 - %4 weken geleden</translation>
-    </message>
-    <message>
-        <location filename="../../fuzzydatetime.cpp" line="73"/>
-        <source>%1/%2/%3 - Last month</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%2-%1-%3 - Vorige maand</translation>
-    </message>
-    <message>
-        <location filename="../../fuzzydatetime.cpp" line="78"/>
-        <source>%1/%2/%3 - A couple of months ago</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%2-%1-%3 - Enkele maanden geleden</translation>
-    </message>
-    <message>
-        <location filename="../../fuzzydatetime.cpp" line="87"/>
-        <source>%1/%2/%3 - %4 months ago</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%2-%1-%3 - %4 maanden geleden</translation>
-    </message>
-    <message>
-        <location filename="../../fuzzydatetime.cpp" line="93"/>
-        <source>%1/%2/%3 - Last year</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%2-%1-%3 - Vorig jaar</translation>
-    </message>
-    <message>
-        <location filename="../../fuzzydatetime.cpp" line="98"/>
-        <source>%1/%2/%3 - %4 years ago</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
-        <translation>%2-%1-%3 - %4 jaar geleden</translation>
+        <location filename="../../Components/DocumentPicker.qml" line="146"/>
+        <source>Pick a document</source>
+        <translation>Kies een document</translation>
     </message>
 </context>
 <context>
     <name>LocaleHelper</name>
     <message>
-        <location filename="../../localehelper.cpp" line="71"/>
+        <location filename="../../localehelper.cpp" line="23"/>
+        <source>0</source>
+        <comment>timeformat</comment>
+        <extracomment>translator: set to 1 for default 24-hour time format (0 for 12-hour)</extracomment>
+        <translation>0</translation>
+    </message>
+    <message>
+        <location filename="../../localehelper.cpp" line="50"/>
+        <source>AM</source>
+        <extracomment>string to represent AM time when 12-hour time format is displayed</extracomment>
+        <translation>VM</translation>
+    </message>
+    <message>
+        <location filename="../../localehelper.cpp" line="53"/>
+        <source>PM</source>
+        <extracomment>string to represent PM time when 12-hour time format is displayed</extracomment>
+        <translation>NM</translation>
+    </message>
+    <message>
+        <location filename="../../localehelper.cpp" line="65"/>
+        <source>%1:%2 %3</source>
+        <extracomment>AM time format string (translator: update order / format) %1 = hours (no leading zero), %2 = minutes (leading zero if needed), %3 = AM/PM string</extracomment>
+        <translation>%1:%2  %3</translation>
+    </message>
+    <message>
+        <location filename="../../localehelper.cpp" line="70"/>
+        <source>%1:%2</source>
+        <extracomment>24-hour time format string (translator: update order / format) %1 = hours (no leading zero), %2 = minutes (leading zero if needed)</extracomment>
+        <translation>%1:%2</translation>
+    </message>
+    <message>
+        <location filename="../../localehelper.cpp" line="114"/>
         <source>mdy</source>
-        <extracomment>default order for numeric date (m = month, d = date, y = year) this string should contain these exact three characters in some order</extracomment>
+        <comment>dateorder</comment>
+        <extracomment>translator: this order will determine order of date picker widgets default order for numeric date (m = month, d = date, y = year) the string should contain these exact three characters in some order</extracomment>
         <translation>mdy</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="83"/>
+        <location filename="../../localehelper.cpp" line="127"/>
         <source>1</source>
-        <extracomment>localize this first day of the week (1 = Sunday, 2 = Monday, ...)</extracomment>
+        <comment>firstday</comment>
+        <extracomment>translator: identify the first day of the week in target culture 1 = Sunday, 2 = Monday, etc.</extracomment>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="109"/>
+        <location filename="../../localehelper.cpp" line="150"/>
+        <source>dddd, MMMM d, yyyy</source>
+        <extracomment>QDateTime format string (translator: update order / format) - See http://doc.qt.nokia.com/4.7/qdatetime.html#toString dddd = full day of week, MMMM = full month, d = day of month, yyyy = year (e.g. Monday, January 31, 2011)</extracomment>
+        <translation>dddd, d MMMM, jjjj</translation>
+    </message>
+    <message>
+        <location filename="../../localehelper.cpp" line="155"/>
         <source>MMMM d, yyyy</source>
-        <extracomment>MMMM = full month, d = day of month, yyyy = full year (e.g. January 31, 2011)</extracomment>
+        <extracomment>QDateTime format string (translator: update order / format) MMMM = full month, d = day of month, yyyy = full year (e.g. January 31, 2011)</extracomment>
         <translation>MMMM d, yyyy</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="113"/>
+        <location filename="../../localehelper.cpp" line="160"/>
         <source>MMM d yyyy</source>
-        <extracomment>MMM = short month, d = day of month, yyyy = full year (e.g. Jan 31 2011)</extracomment>
+        <extracomment>QDateTime format string (translator: update order / format) MMM = short month, d = day of month, yyyy = full year (e.g. Jan 31 2011)</extracomment>
         <translation>MMM d yyyy</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="121"/>
+        <location filename="../../localehelper.cpp" line="165"/>
+        <source>M/d/yyyy</source>
+        <extracomment>QDateTime format string (translator: update order / format) M = numeric month, d = day of month, yyyy = full year (e.g. 1/31/2011)</extracomment>
+        <translation>M / d / jjjj</translation>
+    </message>
+    <message>
+        <location filename="../../localehelper.cpp" line="170"/>
+        <source>M/d/yy</source>
+        <extracomment>QDateTime format string (translator: update order / format) M = numeric month, d = day of month, yy = year (e.g. 1/31/11)</extracomment>
+        <translation>M / d / jj</translation>
+    </message>
+    <message>
+        <location filename="../../localehelper.cpp" line="175"/>
         <source>dddd, MMMM d</source>
-        <extracomment>dddd = full day of week, MMMM = full month, d = day of month (e.g. Monday, January 31)</extracomment>
+        <extracomment>QDateTime format string (translator: update order / format) dddd = full day of week, MMMM = full month, d = day of month (e.g. Monday, January 31)</extracomment>
         <translation>dddd, MMMM d</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="125"/>
+        <location filename="../../localehelper.cpp" line="180"/>
         <source>ddd d</source>
-        <extracomment>ddd = day of week, d = day of month (e.g. Mon 31)</extracomment>
+        <extracomment>QDateTime format string (translator: update order / format) ddd = short day of week, d = day of month (e.g. Mon 31)</extracomment>
         <translation>ddd d</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="129"/>
+        <location filename="../../localehelper.cpp" line="185"/>
         <source>MMMM d</source>
-        <extracomment>MMMM = full month, d = day of month (e.g. January 31)</extracomment>
-        <translation type="unfinished"/>
+        <extracomment>QDateTime format string (translator: update order / format) MMMM = full month, d = day of month (e.g. January 31)</extracomment>
+        <translation>MMMM d</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="133"/>
+        <location filename="../../localehelper.cpp" line="190"/>
         <source>MMMM yyyy</source>
-        <extracomment>MMMM = full month, yyyy = full year (e.g. January 2011)</extracomment>
+        <extracomment>QDateTime format string (translator: update order / format) MMMM = full month, yyyy = full year (e.g. January 2011)</extracomment>
         <translation>MMMM yyyy</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="137"/>
+        <location filename="../../localehelper.cpp" line="195"/>
         <source>MMM yyyy</source>
-        <extracomment>MMM = short month, yyyy = full year (e.g. Jan 2011)</extracomment>
+        <extracomment>QDateTime format string (translator: update order / format) MMM = short month, yyyy = full year (e.g. Jan 2011)</extracomment>
         <translation>MMM yyyy</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="141"/>
+        <location filename="../../localehelper.cpp" line="200"/>
         <source>d</source>
-        <extracomment>d = day of month (e.g. 31, no leading zero)</extracomment>
+        <extracomment>QDateTime format string (translator: you probably won't change this) d = day of month (e.g. 31, no leading zero)</extracomment>
         <translation>d</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="145"/>
+        <location filename="../../localehelper.cpp" line="205"/>
         <source>dddd</source>
-        <extracomment>dddd = day of week (e.g. Monday)</extracomment>
+        <extracomment>QDateTime format string (translator: you probably won't change this) dddd = full day of week (e.g. Monday)</extracomment>
         <translation>dddd</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="149"/>
+        <location filename="../../localehelper.cpp" line="210"/>
         <source>ddd</source>
-        <extracomment>ddd = day of week (e.g. Mon)</extracomment>
+        <extracomment>QDateTime format string (translator: you probably won't change this) ddd = short day of week (e.g. Mon)</extracomment>
         <translation>ddd</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="153"/>
+        <location filename="../../localehelper.cpp" line="215"/>
         <source>MMMM</source>
-        <extracomment>MMMM = full month (e.g. January)</extracomment>
+        <extracomment>QDateTime format string (translator: you probably won't change this) MMMM = full month (e.g. January)</extracomment>
         <translation>MMMM</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="157"/>
+        <location filename="../../localehelper.cpp" line="220"/>
         <source>MMM</source>
-        <extracomment>MMM = short month (e.g. Jan)</extracomment>
+        <extracomment>QDateTime format string (translator: you probably won't change this) MMM = short month (e.g. Jan)</extracomment>
         <translation>MMM</translation>
     </message>
     <message>
-        <location filename="../../localehelper.cpp" line="161"/>
+        <location filename="../../localehelper.cpp" line="225"/>
         <source>yyyy</source>
-        <extracomment>yyyy (e.g. 2011)</extracomment>
+        <extracomment>QDateTime format string (translator: you probably won't change this) yyyy (e.g. 2011)</extracomment>
         <translation>yyyy</translation>
     </message>
 </context>
 <context>
     <name>RelativeTimeStamp</name>
     <message>
-        <location filename="../../relativetimestamp.cpp" line="40"/>
-        <source>Just Now</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../relativetimestamp.cpp" line="42"/>
-        <source>1 min ago</source>
+        <location filename="../../relativetimestamp.cpp" line="41"/>
+        <source>Just now</source>
+        <extracomment>Fuzzy date description</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="44"/>
-        <source>%1 mins ago</source>
-        <comment>1 is number of minutes</comment>
-        <translation type="unfinished"/>
+        <source>1 min ago</source>
+        <extracomment>Fuzzy date description</extracomment>
+        <translation>1 min geleden</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="47"/>
-        <source>Half an hour ago</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../relativetimestamp.cpp" line="49"/>
-        <source>An hour ago</source>
-        <translation type="unfinished"/>
+        <source>%1 mins ago</source>
+        <extracomment>Fuzzy date description - %1 is a number</extracomment>
+        <translation>%1 minuten geleden</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="51"/>
+        <source>Half an hour ago</source>
+        <extracomment>Fuzzy date description</extracomment>
+        <translation>Een half uur geleden</translation>
+    </message>
+    <message>
+        <location filename="../../relativetimestamp.cpp" line="54"/>
+        <source>An hour ago</source>
+        <extracomment>Fuzzy date description</extracomment>
+        <translation>Een uur geleden</translation>
+    </message>
+    <message>
+        <location filename="../../relativetimestamp.cpp" line="57"/>
         <source>A couple of hours ago</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../relativetimestamp.cpp" line="53"/>
-        <source>%1 hours ago</source>
-        <comment>1 is number of hours</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../relativetimestamp.cpp" line="58"/>
-        <source>Yesterday</source>
-        <translation type="unfinished"/>
+        <extracomment>Fuzzy date description</extracomment>
+        <translation>Een paar uur geleden</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="60"/>
-        <source>%1/%2/%3 - %4</source>
-        <comment>1 is month, 2 is day, 3 is year, 4 is day name</comment>
-        <translation type="unfinished"/>
+        <source>%1 hours ago</source>
+        <extracomment>Fuzzy date description - %1 is a number</extracomment>
+        <translation>%1 uur geleden</translation>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="66"/>
-        <source>%1/%2/%3 - Last week</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
+        <source>M/d/yy</source>
+        <extracomment>QDateTime format string: M is numeric month, d is num. day, yy is year; e.g. 1/31/11 translator: reorder / reformat, but make sure to use these ASCII M, d, and yy format codes</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../relativetimestamp.cpp" line="71"/>
-        <source>%1/%2/%3 - A couple of weeks ago</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
+        <location filename="../../relativetimestamp.cpp" line="70"/>
+        <source>%1 - %2</source>
+        <extracomment>%1 is formatted date, %2 is fuzzy date description, e.g. 1/31/11 - Last week</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../relativetimestamp.cpp" line="76"/>
-        <source>%1/%2/%3 - %4 weeks ago</source>
-        <comment>1 is month, 2 is day, 3 is year, 4 is number of weeks</comment>
+        <location filename="../../relativetimestamp.cpp" line="74"/>
+        <source>Yesterday</source>
+        <extracomment>Fuzzy date description</extracomment>
+        <translation>Gisteren</translation>
+    </message>
+    <message>
+        <location filename="../../relativetimestamp.cpp" line="79"/>
+        <source>Last week</source>
+        <extracomment>Fuzzy date description</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="82"/>
-        <source>%1/%2/%3 - Last month</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
+        <source>A couple of weeks ago</source>
+        <extracomment>Fuzzy date description</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../relativetimestamp.cpp" line="87"/>
-        <source>%1/%2/%3 - A couple of months ago</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
+        <location filename="../../relativetimestamp.cpp" line="86"/>
+        <source>%1 weeks ago</source>
+        <extracomment>Fuzzy date description - %1 is a number</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../relativetimestamp.cpp" line="96"/>
-        <source>%1/%2/%3 - %4 months ago</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
+        <location filename="../../relativetimestamp.cpp" line="89"/>
+        <source>Last month</source>
+        <extracomment>Fuzzy date description</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../relativetimestamp.cpp" line="92"/>
+        <source>A couple of months ago</source>
+        <extracomment>Fuzzy date description</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../relativetimestamp.cpp" line="99"/>
+        <source>%1 months ago</source>
+        <extracomment>Fuzzy date description - %1 is a number</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../relativetimestamp.cpp" line="102"/>
-        <source>%1/%2/%3 - Last year</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
+        <source>Last year</source>
+        <extracomment>Fuzzy date description</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../relativetimestamp.cpp" line="107"/>
-        <source>%1/%2/%3 - %4 years ago</source>
-        <comment>1 is month, 2 is day, 3 is year</comment>
+        <location filename="../../relativetimestamp.cpp" line="106"/>
+        <source>%1 years ago</source>
+        <extracomment>Fuzzy date description - %1 is a number</extracomment>
         <translation type="unfinished"/>
     </message>
 </context>

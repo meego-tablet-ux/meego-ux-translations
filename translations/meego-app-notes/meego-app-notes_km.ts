@@ -28,7 +28,7 @@
     <message>
         <location filename="../../FontSelector.qml" line="125"/>
         <source>Pick a font</source>
-        <translation type="unfinished"/>
+        <translation>រើស​ពុម្ព​អក្សរ</translation>
     </message>
     <message>
         <location filename="../../FontSelector.qml" line="148"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../../NotebookSelector.qml" line="107"/>
         <source>Pick a notebook</source>
-        <translation type="unfinished"/>
+        <translation>រើស​សៀវភៅ​កំណត់​ហេតុ</translation>
     </message>
 </context>
 <context>
@@ -157,32 +157,32 @@
     <message>
         <location filename="../../NotebooksView.qml" line="72"/>
         <source>Use the default notebook, or make a new one</source>
-        <translation type="unfinished"/>
+        <translation>ប្រើ​សៀវភៅ​កំណត់​ហេតុ​លំនាំ​ដើម ឬ បង្កើត​ថ្មី</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="73"/>
         <source>Create a new notebook</source>
-        <translation type="unfinished"/>
+        <translation>បង្កើត​សៀវភៅ​កំណត់​ហេតុ​ថ្មី</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="74"/>
         <source>What&apos;s a notebook?</source>
-        <translation type="unfinished"/>
+        <translation>តើ​អ្វី​ទៅ​គឺ​ជា សៀវភៅកំណត់​ហេតុ?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="75"/>
         <source>How do I create notes?</source>
-        <translation type="unfinished"/>
+        <translation>តើ​ខ្ញុំ​អាច​បង្កើត​កំណត់​ហេតុ​បានដោយ​របៀប​ណា?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="76"/>
         <source>A notebook is a collection of notes. Use the default notebook we have created for you, or make a new one.</source>
-        <translation type="unfinished"/>
+        <translation>សៀវភៅ​កំណត់​ហេតុ គឺ​ជា​សៀវភៅ​ប្រមូល​ផ្ដុំ​នូវ​កំណត់​ហេតុ​នានា។ អ្នក​អាច​ប្រើ​សៀវភៅ​កំណត់​ហេតុ​លំនាំ​ដើម​ដែល​មាន​ស្រាប់ ឬ ក៏​បង្កើត​ថ្មី​មួយ។</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="77"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>ចុច​លើ​ប៊ូតុង &apos;បង្កើត​កំណត់​ហេតុដំបូង&apos;។ អ្នក​ក៏​អាច​ចុច​លើ​រូប​តំណាង​ស្ថិត​នៅ​ផ្នែក​លើ​ខាង​ស្ដាំនៃ​អេក្រង់ ហើយ​រើស​យក &apos;កំណត់​ហេតុ​ថ្មី&apos;។</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="93"/>
@@ -270,7 +270,7 @@
         <location filename="../../NotebooksView.qml" line="389"/>
         <location filename="../../NotebooksView.qml" line="489"/>
         <source>A NoteBook &apos;%1&apos; already exists.</source>
-        <translation type="unfinished"/>
+        <translation>សៀវភៅ​កំណត់​ហេតុ &apos;%1&apos; មាន​រួច​ហើយ។</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="413"/>
@@ -320,32 +320,32 @@
     <message>
         <location filename="../../NotesView.qml" line="60"/>
         <source>This notebook is empty</source>
-        <translation type="unfinished"/>
+        <translation>មិន​មាន​អ្វី​នៅ​ក្នុង​សៀវភៅ​កំណត់​ហេតុ​នេះ​ទេ</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="61"/>
         <source>Create the first note</source>
-        <translation type="unfinished"/>
+        <translation>បង្កើត​កំណត់​ហេតុ​ដំបូង</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="62"/>
         <source>How do I create notes?</source>
-        <translation type="unfinished"/>
+        <translation>តើ​ខ្ញុំ​អាច​បង្កើត​កំណត់​ហេតុ​បាន​ដោយ​របៀប​ណា?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="63"/>
         <source>Share your notes by email</source>
-        <translation type="unfinished"/>
+        <translation>ចែក​រំលែក​កំណត់​ហេតុ​របស់​អ្នក​តាម​អ៊ីមែល</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="64"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>ចុច​លើ​ប៊ូតុង &apos;បង្កើត​កំណត់​ហេតុដំបូង&apos;។ អ្នក​ក៏​អាច​ចុច​លើ​រូប​តំណាង​ស្ថិត​នៅ​ផ្នែក​លើ​ខាង​ស្ដាំនៃ​អេក្រង់ ហើយ​រើស​យក &apos;កំណត់​ហេតុ​ថ្មី&apos;។</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="65"/>
         <source>To send a note by email, tap and hold the note you want to send, then select &apos;Email&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>ដើម្បី​ផ្ញើ​កំណត់​ហេតុ​តាម​រយៈ​អ៊ីមែល សូម​ចុច​លើ​កំណត់​ហេតុ​ណា​មួយ​ឲ្យ​ជាប់ ហើយ​រើស​យក &apos;អ៊ីមែល&apos;។</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="82"/>

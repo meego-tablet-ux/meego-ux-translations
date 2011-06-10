@@ -9,7 +9,7 @@
     <message>
         <location filename="../../AlbumsView.qml" line="30"/>
         <source>Play slideshow</source>
-        <translation>Speel diavoorstelling</translation>
+        <translation>Diavoorstelling afspelen</translation>
     </message>
     <message>
         <location filename="../../AlbumsView.qml" line="31"/>
@@ -32,7 +32,7 @@
     <message>
         <location filename="../../PhotosView.qml" line="35"/>
         <source>Play slideshow</source>
-        <translation>Speel diavoorstelling</translation>
+        <translation>Diavoorstelling afspelen</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="36"/>
@@ -47,7 +47,7 @@
     <message>
         <location filename="../../PhotosView.qml" line="38"/>
         <source>Unfavorite</source>
-        <translation>Unfavorite</translation>
+        <translation>Niet langer favoriet</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="39"/>
@@ -106,7 +106,7 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Timeline</source>
-        <translation type="unfinished"/>
+        <translation>Tijdlijn</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
@@ -141,7 +141,7 @@
     <message>
         <location filename="../../main.qml" line="44"/>
         <source>Unfavorite</source>
-        <translation>Unfavorite</translation>
+        <translation>Niet langer favoriet</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="45"/>
@@ -151,7 +151,7 @@
     <message>
         <location filename="../../main.qml" line="46"/>
         <source>Remove from album</source>
-        <translation>Verwijder van album</translation>
+        <translation>Verwijder uit album</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="47"/>
@@ -196,7 +196,7 @@
     <message>
         <location filename="../../main.qml" line="55"/>
         <source>Cancel</source>
-        <translation>Annuleer</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="56"/>
@@ -206,17 +206,17 @@
     <message>
         <location filename="../../main.qml" line="58"/>
         <source>Are you sure you want to delete this photo?</source>
-        <translation>Weet je zeker dat je deze foto wil verwijderen?</translation>
+        <translation>Weet je zeker dat je deze foto wilt verwijderen?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="59"/>
         <source>Are you sure you want to delete the %1 selected photos?</source>
-        <translation>Weet je zeker dat je deze %1 geselecteerde foto&apos;s wil verwijderen?</translation>
+        <translation>Weet je zeker dat je deze %1 geselecteerde foto&apos;s wilt verwijderen?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="60"/>
         <source>Are you sure you want to delete this album?</source>
-        <translation>Weet je zeker dat je dit album wil verwijderen?</translation>
+        <translation>Weet je zeker dat je dit album wilt verwijderen?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="62"/>
@@ -266,7 +266,7 @@
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>View all photos</source>
-        <translation>Weergeef alle foto&apos;s</translation>
+        <translation>Alle foto&apos;s weergeven</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="73"/>
@@ -288,7 +288,7 @@
         <location filename="../../main.qml" line="592"/>
         <location filename="../../main.qml" line="752"/>
         <source>Show only:</source>
-        <translation>Weergeef alleen:</translation>
+        <translation>Alleen weergeven:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="655"/>
@@ -303,7 +303,7 @@
     <message>
         <location filename="../../main.qml" line="1171"/>
         <source>Type in a new name</source>
-        <translation type="unfinished"/>
+        <translation>Typ een nieuwe naam</translation>
     </message>
 </context>
 </TS>

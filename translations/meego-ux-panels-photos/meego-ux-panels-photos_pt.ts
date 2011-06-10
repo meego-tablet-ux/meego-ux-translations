@@ -68,7 +68,7 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="276"/>
         <source>%1 photo</source>
-        <translation type="unfinished"/>
+        <translation>%1 foto</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="276"/>

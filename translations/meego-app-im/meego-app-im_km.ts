@@ -98,7 +98,7 @@
     <message>
         <location filename="../../AccountScreenContent.qml" line="60"/>
         <source>Loading accounts...</source>
-        <translation type="unfinished"/>
+        <translation>កំពុង​ផ្ទុក​គណនី...</translation>
     </message>
     <message>
         <location filename="../../AccountScreenContent.qml" line="72"/>
@@ -132,7 +132,7 @@
     <message>
         <location filename="../../plugin/IM/AccountSetupBar.qml" line="98"/>
         <source>Are you sure to delete this account?</source>
-        <translation type="unfinished"/>
+        <translation>តើ​អ្នក​ពិត​ជា​ចង់​លុប​គណនី​នេះ​មែន​ទេ?</translation>
     </message>
 </context>
 <context>
@@ -199,7 +199,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="373"/>
         <source>Unable to set hold</source>
-        <translation type="unfinished"/>
+        <translation>មិន​អាច​ផ្អាក​បាន</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="473"/>
@@ -530,22 +530,22 @@
     <message>
         <location filename="../../ContactsScreenContent.qml" line="205"/>
         <source>Loading contacts...</source>
-        <translation type="unfinished"/>
+        <translation>កំពុង​ផ្ទុក​បញ្ជី​ឈ្មោះ​ទាក់​ទង...</translation>
     </message>
     <message>
         <location filename="../../ContactsScreenContent.qml" line="210"/>
         <source>You haven&apos;t added any friends yet</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​មិន​ទាន់​បាន​បន្ថែម​មិត្ត​ណា​ម្នាក់​ឡើយ</translation>
     </message>
     <message>
         <location filename="../../ContactsScreenContent.qml" line="234"/>
         <source>Account is offline</source>
-        <translation type="unfinished"/>
+        <translation>គណនី​នៅ​ក្រៅ​បណ្ដាញ</translation>
     </message>
     <message>
         <location filename="../../ContactsScreenContent.qml" line="236"/>
         <source>Account is connecting...</source>
-        <translation type="unfinished"/>
+        <translation>គណនី​កំពុង​ធ្វើ​ការ​ត​ភ្ជាប់...</translation>
     </message>
 </context>
 <context>
@@ -606,7 +606,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="257"/>
         <source>%1 joined the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 បាន​ចូលរួម​ជជែក</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="272"/>
@@ -626,7 +626,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="281"/>
         <source>%1 left the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 បាន​ចាក​ចេញ​ពី​ការ​ជជែក</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="289"/>
@@ -830,32 +830,32 @@
     <message>
         <location filename="../../MessageDelegate.qml" line="109"/>
         <source>(%1)</source>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="125"/>
         <source>Upload canceled:</source>
-        <translation type="unfinished"/>
+        <translation>បាន​បោះ​បង់​ការ​ផ្ទុក​ឡើង:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="127"/>
         <source>Sent:</source>
-        <translation type="unfinished"/>
+        <translation>បាន​ផ្ញើ:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="129"/>
         <source>Uploading:</source>
-        <translation type="unfinished"/>
+        <translation>កំពុង​ផ្ទុក​ឡើង</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="133"/>
         <source>%1 has sent you:</source>
-        <translation type="unfinished"/>
+        <translation>%1 បាន​ផ្ញើ​មក​អ្នក:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="135"/>
         <source>%1 is sending you:</source>
-        <translation type="unfinished"/>
+        <translation>%1 កំពុង​ផ្ញើ​មកអ្នក:</translation>
     </message>
     <message>
         <location filename="../../MessageDelegate.qml" line="148"/>
@@ -890,12 +890,12 @@
     <message>
         <location filename="../../MessageScreenContent.qml" line="173"/>
         <source>Opening chat...</source>
-        <translation type="unfinished"/>
+        <translation>កំពុង​បើក​ការ​ជជែក...</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="184"/>
         <source>Loading conversation history...</source>
-        <translation type="unfinished"/>
+        <translation>កំពុង​ផ្ទុក​ប្រវត្តិ​នៃ​ការ​សន្ទនា</translation>
     </message>
     <message>
         <location filename="../../MessageScreenContent.qml" line="332"/>
@@ -931,7 +931,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="143"/>
         <source>%1 is calling you</source>
-        <translation type="unfinished"/>
+        <translation>%1 កំពុង​ទូរស័ព្ទ​មក​អ្នក</translation>
     </message>
 </context>
 <context>
@@ -1012,32 +1012,32 @@
     <message>
         <location filename="../../VideoWindow.qml" line="165"/>
         <source>Call with %1</source>
-        <translation type="unfinished"/>
+        <translation>ទូរស័ព្ទ​ជាមួយ %1</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="418"/>
         <source>Minimize me</source>
-        <translation type="unfinished"/>
+        <translation>បង្រួម​ឲ្យ​តូច</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="418"/>
         <source>Maximize me</source>
-        <translation type="unfinished"/>
+        <translation>ពង្រីក​ឲ្យ​ធំ</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Disable camera</source>
-        <translation type="unfinished"/>
+        <translation>លែង​អនុញ្ញាត​​ម៉ាស៊ីន​ថត</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="419"/>
         <source>Enable camera</source>
-        <translation type="unfinished"/>
+        <translation>អនុញ្ញាត​ម៉ាស៊ីន​ថត</translation>
     </message>
     <message>
         <location filename="../../VideoWindow.qml" line="420"/>
         <source>Swap camera</source>
-        <translation type="unfinished"/>
+        <translation>ប្ដូរ​ម៉ាស៊ីន​ថត</translation>
     </message>
 </context>
 <context>

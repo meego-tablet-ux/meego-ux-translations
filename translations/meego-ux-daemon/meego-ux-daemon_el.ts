@@ -4,12 +4,12 @@
     <message>
         <location filename="../../alarm.qml" line="32"/>
         <source>Alarm</source>
-        <translation type="unfinished"/>
+        <translation>Ξυπνητήρι</translation>
     </message>
     <message>
         <location filename="../../alarm.qml" line="33"/>
         <source>Snooze</source>
-        <translation type="unfinished"/>
+        <translation>Παράταση</translation>
     </message>
 </context>
 <context>
@@ -17,12 +17,12 @@
     <message>
         <location filename="../../hardnotification.qml" line="21"/>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Απόρριψη</translation>
     </message>
     <message>
         <location filename="../../hardnotification.qml" line="22"/>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Αποδοχή</translation>
     </message>
 </context>
 <context>

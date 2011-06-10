@@ -91,7 +91,7 @@
         <extracomment>%1 is last name, %2 is first name
 ----------
 %1 is first name, %2 is last name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
