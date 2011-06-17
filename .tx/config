@@ -193,3 +193,7 @@ host = http://www.transifex.net
 source_file = translations/meego-app-browser/meego-app-browser_en.ts
 source_lang = en
 
+[meego-alarms.ux-alarms-1-2]
+file_filter = translations/meego-ux-alarms/meego-ux-alarms_<lang>.ts
+host = http://www.transifex.net
+source_lang = en
