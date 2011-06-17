@@ -31,6 +31,7 @@ LOCALES = ar \
 	  fi \
 	  fr \
 	  gl \
+	  gu \
 	  he \
 	  hi \
 	  hi_IN \
