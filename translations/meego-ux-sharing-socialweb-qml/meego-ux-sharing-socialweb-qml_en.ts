@@ -397,6 +397,32 @@
     </message>
 </context>
 <context>
+    <name>vimeo_video_multi</name>
+    <message>
+        <location filename="../../qml/vimeo_video_multi.qml" line="20"/>
+        <source>Video name</source>
+        <translation>Video name</translation>
+    </message>
+    <message>
+        <location filename="../../qml/vimeo_video_multi.qml" line="23"/>
+        <source>Video description</source>
+        <translation>Video description</translation>
+    </message>
+</context>
+<context>
+    <name>vimeo_video_single</name>
+    <message>
+        <location filename="../../qml/vimeo_video_single.qml" line="20"/>
+        <source>Video name</source>
+        <translation>Video name</translation>
+    </message>
+    <message>
+        <location filename="../../qml/vimeo_video_single.qml" line="23"/>
+        <source>Video description</source>
+        <translation>Video description</translation>
+    </message>
+</context>
+<context>
     <name>youtube_video_multi</name>
     <message>
         <location filename="../../qml/youtube_video_multi.qml" line="17"/>

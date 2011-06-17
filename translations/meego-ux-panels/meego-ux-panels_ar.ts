@@ -1,13 +1,5 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="ar" version="2.0">
 <context>
-    <name>BackPanelClearButton</name>
-    <message>
-        <location filename="../../panellib/Panels/BackPanelClearButton.qml" line="22"/>
-        <source>Clear history</source>
-        <translation>امسح التاريخ</translation>
-    </message>
-</context>
-<context>
     <name>BackPanelGeneric</name>
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="43"/>
@@ -64,17 +56,17 @@
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
         <source>Airplane Mode is ON</source>
-        <translation type="unfinished"/>
+        <translation>وضع في الطائرة</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
         <source>To connect WiFi turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>للتوصيل بالواي فاي أوقف وضع  الطائرة</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
         <source>Turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>إيقاف وضع الطائرة</translation>
     </message>
 </context>
 </TS>

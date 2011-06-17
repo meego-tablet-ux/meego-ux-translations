@@ -2,59 +2,84 @@
 <context>
     <name>webpanel</name>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="46"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="178"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="48"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="181"/>
         <source>Recently visited</source>
         <translation>ដែល​ទើប​ចូល​មើល</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="47"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="232"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="49"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="279"/>
         <source>Bookmarks</source>
         <translation>កំណត់​ចំណាំ</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="107"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="109"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
         <source>Web</source>
-        <translation>វែប</translation>
+        <comment>PanelTitle</comment>
+        <extracomment>%1 is &quot;Web&quot; panel title
+----------
+%1 is &quot;Web&quot; panel title</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="123"/>
-        <source>Web settings</source>
-        <translation>ការ​កំណត់​វែប</translation>
+        <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
+        <source>%1 settings</source>
+        <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="124"/>
-        <source>Web panel content</source>
-        <translation>មាតិកា​បន្ទះ​វែប</translation>
+        <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
+        <source>%1 panel content</source>
+        <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="153"/>
-        <source>What&apos;s going on today? Open the browser to start using the web.</source>
-        <translation>តើ​មាន​រឿង​អ្វី​កើត​ឡើង​នៅ​ថ្ងៃ​នេះ? បើក​កម្មវិធី​រុក​រក ដើម្បី​ចាប់​ផ្ដើម​ការ​ប្រើ​ប្រាស់​អ៊ីនធើណិត។</translation>
+        <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="152"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="205"/>
+        <source>Visit a website</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="163"/>
-        <source>Open Browser!</source>
-        <translation>បើក​កម្មវិធី​រុករក!</translation>
+        <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
+        <source>Clear history</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="187"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="190"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="243"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="245"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="146"/>
+        <source>The latest websites you visit and your bookmarks will appear here.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/web/webpanel.qml" line="201"/>
+        <source>No recently visited websites.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/web/webpanel.qml" line="219"/>
+        <source>You have cleared the Web history</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/web/webpanel.qml" line="233"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="236"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="290"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="292"/>
         <source>View</source>
         <translation>មើល</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="187"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="194"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="233"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="240"/>
         <source>Hide</source>
         <translation>លាក់</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="243"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="249"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="290"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="296"/>
         <source>Delete</source>
         <translation>លុប</translation>
     </message>

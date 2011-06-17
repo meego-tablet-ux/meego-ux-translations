@@ -2,38 +2,38 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="20"/>
+        <location filename="../../main.qml" line="21"/>
         <source>Videos</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="21"/>
+        <location filename="../../main.qml" line="22"/>
         <source>All</source>
         <translation>Sve</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="22"/>
+        <location filename="../../main.qml" line="23"/>
         <source>Recently added</source>
         <translation>Nedavno dodano</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="23"/>
+        <location filename="../../main.qml" line="24"/>
         <source>Recently viewed</source>
         <translation>Nedavno pregledano</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="24"/>
+        <location filename="../../main.qml" line="25"/>
         <source>Unwatched</source>
         <translation>Nepregledano</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="25"/>
+        <location filename="../../main.qml" line="26"/>
         <source>Favorites</source>
         <translation>Zabilješke</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
-        <location filename="../../main.qml" line="39"/>
+        <location filename="../../main.qml" line="36"/>
         <source>Delete</source>
         <translation>Obriši</translation>
     </message>
@@ -43,34 +43,35 @@
         <translation>Otkaži</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="35"/>
+        <location filename="../../main.qml" line="30"/>
         <source>Play</source>
         <translation>Reprodukcija</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="36"/>
+        <location filename="../../main.qml" line="32"/>
         <source>Favorite</source>
-        <translation>Sviđa mi se</translation>
+        <comment>Verb</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="37"/>
+        <location filename="../../main.qml" line="34"/>
         <source>Unfavorite</source>
         <translation>Ne sviđa mi se</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="38"/>
+        <location filename="../../main.qml" line="35"/>
         <source>Share</source>
         <translation>Razmjena</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="40"/>
+        <location filename="../../main.qml" line="37"/>
         <source>Select multiple videos</source>
         <translation>Odaberi više video datoteka</translation>
     </message>
-    <message>
-        <location filename="../../main.qml" line="79"/>
-        <source>All (%1 videos)</source>
-        <translation>Sve (%1 videa)</translation>
+    <message numerus="yes">
+        <location filename="../../main.qml" line="91"/>
+        <source>All (%n video(s))</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
 </context>
 </TS>

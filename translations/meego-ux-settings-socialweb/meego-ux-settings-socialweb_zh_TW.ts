@@ -73,8 +73,9 @@
         <translation>您已經成功登出。此服務的內容不會再出現於此裝置上</translation>
     </message>
     <message>
-        <location filename="../../qml/constants.js" line="24"/>
+        <location filename="../../qml/constants.js" line="25"/>
         <source>This service supports sharing only</source>
+        <extracomment>Denotes a social networking service that only plugs in to the sharing framework for media sharing, and doesn't provide content on the Friends panel</extracomment>
         <translation>這個服務僅支援分享</translation>
     </message>
 </context>

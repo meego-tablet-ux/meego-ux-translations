@@ -12,7 +12,7 @@
         <translation>Avaa valokuvat</translation>
     </message>
     <message>
-        <location filename="../NoSpaceDialog.qml" line="24"/>
+        <location filename="../NoSpaceDialog.qml" line="22"/>
         <source>There is no storage space left on the device. To take more photos or video, you may want to delete some existing content.</source>
         <translation>Laitteen tallennustila on täynnä. Poista olemassa olevaa sisältöä ottaaksesi lisää kuvia tai videoleikkeitä.</translation>
     </message>
@@ -20,27 +20,9 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../plugin/viewfinder.cpp" line="806"/>
+        <location filename="../plugin/viewfinder.cpp" line="883"/>
         <source>%1:%2:%3</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>ViewFinder</name>
-    <message>
-        <location filename="../plugin/viewfinder.cpp" line="455"/>
-        <source>Auto</source>
-        <translation>Automaattinen</translation>
-    </message>
-    <message>
-        <location filename="../plugin/viewfinder.cpp" line="457"/>
-        <source>Off</source>
-        <translation>Pois päältä</translation>
-    </message>
-    <message>
-        <location filename="../plugin/viewfinder.cpp" line="458"/>
-        <source>On</source>
-        <translation>Päällä</translation>
+        <translation>%1:%2:%3</translation>
     </message>
 </context>
 </TS>

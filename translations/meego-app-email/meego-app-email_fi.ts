@@ -2,114 +2,115 @@
 <context>
     <name>AccountExpandobox</name>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="66"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="70"/>
         <source>%1 - %2</source>
         <translation>%1 - %2</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="95"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="99"/>
         <source>Account description</source>
         <translation>Tilin kuvaus</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="100"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="104"/>
         <source>Your name</source>
         <translation>Nimesi</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="105"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="109"/>
         <source>Email address</source>
         <translation>Sähköpostiosoite</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="111"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="154"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="197"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="115"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="158"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="201"/>
         <source>Password</source>
         <translation>Salasana</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="119"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="123"/>
         <source>Receiving settings</source>
         <translation>Vastaanottoasetukset</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="120"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="163"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="124"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="167"/>
         <source>You may need to contact your email provider for these settings.</source>
         <translation>Saatat joutua olemaan yhteydessä sähköpostisi palveluntarjoajaan näiden asetusten osalta.</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="124"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="128"/>
         <source>Server type</source>
         <translation>Palvelimen tyyppi</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="130"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="167"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="134"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="171"/>
         <source>Server address</source>
         <translation>Palvelimen osoite</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="136"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="173"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="140"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="177"/>
         <source>Port</source>
         <translation>Portti</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="142"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="185"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="146"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="189"/>
         <source>Security</source>
         <translation>Turvallisuus</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="148"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="191"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="152"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="195"/>
         <source>Username</source>
         <translation>Käyttäjänimi</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="162"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="166"/>
         <source>Sending settings</source>
         <translation>Lähetetään asetukset</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="179"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="183"/>
         <source>Authentication</source>
         <translation>Tunnistautuminen</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="209"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="212"/>
         <source>Delete Account</source>
         <translation>Poista tili</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="220"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="223"/>
         <source>Yes</source>
         <translation>Kyllä</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="221"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="224"/>
         <source>Cancel</source>
         <translation>Peruuta</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="222"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="225"/>
         <source>Delete account</source>
         <translation>Poista tili</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="223"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="226"/>
         <source>Are you sure you want to delete this account?</source>
         <translation>Haluatko varmasti poistaa tämän tilin?</translation>
     </message>
 </context>
 <context>
     <name>AccountPage</name>
-    <message>
-        <location filename="../../AccountPage.qml" line="114"/>
-        <source>%1 - %2</source>
-        <translation>%1 - %2</translation>
+    <message numerus="yes">
+        <location filename="../../AccountPage.qml" line="59"/>
+        <source>%n unread message(s)</source>
+        <extracomment>Label that displays the number of unread e-mail messages. Note plural handling.</extracomment>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
 </context>
 <context>
@@ -132,7 +133,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="74"/>
         <source>Update:</source>
-        <translation type="unfinished"/>
+        <translation>Päivitys:</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="124"/>
@@ -140,67 +141,68 @@
         <translation>Allekirjoitus</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="133"/>
-        <source>&quot;%1&quot;</source>
-        <translation>&quot;%1&quot;</translation>
+        <location filename="../../settings/AccountSettings.qml" line="134"/>
+        <location filename="../../settings/AccountSettings.qml" line="149"/>
+        <source>Enter your signature.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="162"/>
+        <location filename="../../settings/AccountSettings.qml" line="165"/>
         <source>Notifications</source>
         <translation>Ilmoitukset</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="180"/>
+        <location filename="../../settings/AccountSettings.qml" line="183"/>
         <source>New email notifications</source>
         <translation>Uuden sähköpostin ilmoitukset</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="185"/>
+        <location filename="../../settings/AccountSettings.qml" line="188"/>
         <source>Ask before deleting email</source>
         <translation>Kysy ennen sähköpostin poistoa</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="198"/>
+        <location filename="../../settings/AccountSettings.qml" line="201"/>
         <source>Yes</source>
         <translation>Kyllä</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="199"/>
+        <location filename="../../settings/AccountSettings.qml" line="202"/>
         <source>No</source>
         <translation>Ei</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="200"/>
+        <location filename="../../settings/AccountSettings.qml" line="203"/>
         <source>Discard changes</source>
         <translation>Hylkää muutokset</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="201"/>
-        <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation>Olet tehnyt muutoksia asetuksiin. Oletko varma, että haluat hylätä muutokset?</translation>
+        <location filename="../../settings/AccountSettings.qml" line="204"/>
+        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="206"/>
+        <location filename="../../settings/AccountSettings.qml" line="209"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="208"/>
+        <location filename="../../settings/AccountSettings.qml" line="211"/>
         <source>Changes saved</source>
         <translation>Muutokset tallennettu</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="209"/>
+        <location filename="../../settings/AccountSettings.qml" line="212"/>
         <source>Your changes have been saved.</source>
         <translation>Tekemäsi muutokset on tallennettu.</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="224"/>
+        <location filename="../../settings/AccountSettings.qml" line="227"/>
         <source>Save changes</source>
         <translation>Tallenna muutokset</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="241"/>
+        <location filename="../../settings/AccountSettings.qml" line="244"/>
         <source>Cancel</source>
         <translation>Peruuta</translation>
     </message>
@@ -208,17 +210,17 @@
 <context>
     <name>AddAttachmentView</name>
     <message>
-        <location filename="../../AddAttachmentView.qml" line="55"/>
+        <location filename="../../AddAttachmentView.qml" line="67"/>
         <source>Photos</source>
         <translation>Valokuvat</translation>
     </message>
     <message>
-        <location filename="../../AddAttachmentView.qml" line="61"/>
+        <location filename="../../AddAttachmentView.qml" line="73"/>
         <source>Movies</source>
         <translation>Elokuvat</translation>
     </message>
     <message>
-        <location filename="../../AddAttachmentView.qml" line="67"/>
+        <location filename="../../AddAttachmentView.qml" line="79"/>
         <source>Music</source>
         <translation>Musiikki</translation>
     </message>
@@ -229,34 +231,34 @@
         <location filename="../../AddRecipient.qml" line="46"/>
         <source>Select &quot;%1&quot; recipient</source>
         <extracomment>The contact (e-mail recipient) picker title.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Valitse &quot;%1&quot; vastaanottaja</translation>
     </message>
 </context>
 <context>
     <name>ComposerView</name>
     <message>
-        <location filename="../../ComposerView.qml" line="196"/>
+        <location filename="../../ComposerView.qml" line="198"/>
         <source>Attach a file</source>
         <extracomment>Attach a file (e.g. music, video, photo) to the document being composed.</extracomment>
         <translation>Liitä tiedosto</translation>
     </message>
     <message>
-        <location filename="../../ComposerView.qml" line="245"/>
+        <location filename="../../ComposerView.qml" line="247"/>
         <source>Yes</source>
         <translation>Kyllä</translation>
     </message>
     <message>
-        <location filename="../../ComposerView.qml" line="246"/>
+        <location filename="../../ComposerView.qml" line="248"/>
         <source>Cancel</source>
         <translation>Peruuta</translation>
     </message>
     <message>
-        <location filename="../../ComposerView.qml" line="247"/>
+        <location filename="../../ComposerView.qml" line="249"/>
         <source>Discard Email</source>
         <translation>Hylkää sähköpostiviesti</translation>
     </message>
     <message>
-        <location filename="../../ComposerView.qml" line="248"/>
+        <location filename="../../ComposerView.qml" line="250"/>
         <source>Are you sure you want to discard this unsent email?</source>
         <translation>Oletko varma että haluat hylätä tämän lähettämättömän sähköpostiviestin?
 </translation>
@@ -265,22 +267,22 @@
 <context>
     <name>ConfirmScreen</name>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="30"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="34"/>
         <source>Account set up successfully!</source>
         <translation>Tili otettu käyttöön onnistuneesti!</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="32"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="36"/>
         <source>Accounts</source>
         <translation>Tilit</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="50"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="53"/>
         <source>Done</source>
         <translation>Valmis</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="62"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="65"/>
         <source>Set up another account?</source>
         <translation>Lisää muu tili?</translation>
     </message>
@@ -310,7 +312,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="59"/>
         <source>Receiving:</source>
-        <translation type="unfinished"/>
+        <translation>Vastaanotto:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="62"/>
@@ -344,7 +346,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="81"/>
         <source>Sending:</source>
-        <translation type="unfinished"/>
+        <translation>Lähetys:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="90"/>
@@ -368,8 +370,8 @@
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="106"/>
-        <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation>Olet tehnyt muutoksia asetuksiin. Oletko varma, että haluat hylätä muutokset?</translation>
+        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="111"/>
@@ -399,7 +401,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="163"/>
         <source>Manual Edit</source>
-        <translation type="unfinished"/>
+        <translation>Muokkaa itse</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="166"/>
@@ -415,50 +417,55 @@
 <context>
     <name>EmailHeader</name>
     <message>
-        <location filename="../../EmailHeader.qml" line="69"/>
+        <location filename="../../EmailHeader.qml" line="39"/>
+        <source>Delete</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../EmailHeader.qml" line="84"/>
         <source>From:</source>
         <translation>Lähettäjä:</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="101"/>
+        <location filename="../../EmailHeader.qml" line="116"/>
         <source>Cc/Bcc</source>
         <translation>Kopio/piilokopio</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="116"/>
+        <location filename="../../EmailHeader.qml" line="131"/>
         <source>To</source>
         <extracomment>The &quot;to&quot; recipient label.</extracomment>
         <translation>Henkilölle</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="141"/>
+        <location filename="../../EmailHeader.qml" line="156"/>
         <source>Cc</source>
         <extracomment>The Cc (carbon copy) label.</extracomment>
         <translation>Kopio</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="165"/>
+        <location filename="../../EmailHeader.qml" line="180"/>
         <source>Bcc</source>
         <extracomment>The Bcc (blind carbon copy) label.</extracomment>
         <translation>Piilokopio</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="198"/>
+        <location filename="../../EmailHeader.qml" line="213"/>
         <source>Enter subject here</source>
         <translation>Kirjoita aihe tähän</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="233"/>
+        <location filename="../../EmailHeader.qml" line="248"/>
         <source>Low Priority</source>
-        <translation type="unfinished"/>
+        <translation>Matala</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="234"/>
+        <location filename="../../EmailHeader.qml" line="249"/>
         <source>Normal Priority</source>
         <translation>Normaali</translation>
     </message>
     <message>
-        <location filename="../../EmailHeader.qml" line="235"/>
+        <location filename="../../EmailHeader.qml" line="250"/>
         <source>High Priority</source>
         <translation>Kiirellinen</translation>
     </message>
@@ -474,29 +481,50 @@
 <context>
     <name>FolderListMenu</name>
     <message>
-        <location filename="../../FolderListMenu.qml" line="17"/>
+        <location filename="../../FolderListMenu.qml" line="103"/>
         <source>Create new folder</source>
-        <translation type="unfinished"/>
+        <translation>Luo uusi kansio</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="152"/>
-        <source>(%1)</source>
-        <translation>(%1)</translation>
-    </message>
-    <message>
-        <location filename="../../FolderListMenu.qml" line="219"/>
-        <source>Create</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../FolderListMenu.qml" line="220"/>
-        <source>Cancel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../FolderListMenu.qml" line="228"/>
+        <location filename="../../FolderListMenu.qml" line="137"/>
         <source>Untitled Folder</source>
-        <extracomment>Default custom e-mail folder name.</extracomment>
+        <translation>Nimeämätön kansio</translation>
+    </message>
+    <message>
+        <location filename="../../FolderListMenu.qml" line="141"/>
+        <source>Create</source>
+        <translation>Luo</translation>
+    </message>
+    <message>
+        <location filename="../../FolderListMenu.qml" line="142"/>
+        <location filename="../../FolderListMenu.qml" line="195"/>
+        <location filename="../../FolderListMenu.qml" line="252"/>
+        <source>Cancel</source>
+        <translation>Peruuta</translation>
+    </message>
+    <message>
+        <location filename="../../FolderListMenu.qml" line="173"/>
+        <source>Rename folder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../FolderListMenu.qml" line="194"/>
+        <source>Rename</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../FolderListMenu.qml" line="230"/>
+        <source>Delete folder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../FolderListMenu.qml" line="251"/>
+        <source>Yes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../FolderListMenu.qml" line="255"/>
+        <source>Are you sure you want to delete the folder &quot;%1&quot; and all emails inside ?</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -509,102 +537,92 @@
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="20"/>
-        <source>Rename folder</source>
-        <translation>Nimeä kansio uudelleen</translation>
-    </message>
-    <message>
-        <location filename="../../FolderListView.qml" line="21"/>
-        <source>Delete folder</source>
-        <translation>Poista kansio</translation>
-    </message>
-    <message>
-        <location filename="../../FolderListView.qml" line="22"/>
         <source>Attachments</source>
         <translation>Liitteet</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="64"/>
+        <location filename="../../FolderListView.qml" line="62"/>
         <source>On %1 %2 wrote:</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2 kirjoitti:</translation>
+    </message>
+    <message>
+        <location filename="../../FolderListView.qml" line="108"/>
+        <source>Drafts</source>
+        <translation>Luonnokset</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="113"/>
-        <source>Drafts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../FolderListView.qml" line="118"/>
         <source>Yes</source>
         <translation>Kyllä</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="119"/>
+        <location filename="../../FolderListView.qml" line="114"/>
         <source>Cancel</source>
         <translation>Peruuta</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="120"/>
+        <location filename="../../FolderListView.qml" line="115"/>
         <source>Delete Email</source>
         <translation>Poista sähköposti</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="122"/>
+        <location filename="../../FolderListView.qml" line="117"/>
         <source>Are you sure you want to delete this email?</source>
         <translation>Haluatko varmasti poistaa tämän sähköpostin?</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="161"/>
-        <location filename="../../FolderListView.qml" line="168"/>
+        <location filename="../../FolderListView.qml" line="157"/>
+        <location filename="../../FolderListView.qml" line="163"/>
         <source>-------- Forwarded Message --------</source>
         <translation>-------- Välitetty viesti --------</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="171"/>
+        <location filename="../../FolderListView.qml" line="166"/>
         <source>[Fwd: %1]</source>
         <translation>[Väl: %1]</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="209"/>
+        <location filename="../../FolderListView.qml" line="205"/>
         <source>There are no messages in this folder.</source>
         <translation>Tässä kansiossa ei ole viestejä.</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="247"/>
+        <location filename="../../FolderListView.qml" line="243"/>
         <source>Getting more messages</source>
         <translation>Haetaan lisää viestejä</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="249"/>
+        <location filename="../../FolderListView.qml" line="245"/>
         <source>Get more messages</source>
         <translation>Hae lisää viestejä</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="474"/>
+        <location filename="../../FolderListView.qml" line="470"/>
         <source>Reply</source>
         <translation>Vastaa</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="474"/>
+        <location filename="../../FolderListView.qml" line="470"/>
         <source>Reply to all</source>
         <translation>Vastaa kaikille</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="474"/>
+        <location filename="../../FolderListView.qml" line="470"/>
         <source>Forward</source>
         <translation>Välitä</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="474"/>
+        <location filename="../../FolderListView.qml" line="470"/>
         <source>Delete</source>
         <translation>Poista</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="475"/>
+        <location filename="../../FolderListView.qml" line="471"/>
         <source>Mark as unread</source>
         <translation>Merkitse lukemattomaksi</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="475"/>
+        <location filename="../../FolderListView.qml" line="471"/>
         <source>Mark as read</source>
         <translation>Merkitse luetuksi</translation>
     </message>
@@ -614,6 +632,26 @@
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="129"/>
         <source>Choose folder:</source>
+        <translation>Valitse kansio:</translation>
+    </message>
+    <message>
+        <location filename="../../FolderListViewToolbar.qml" line="211"/>
+        <source>Yes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../FolderListViewToolbar.qml" line="212"/>
+        <source>No</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../FolderListViewToolbar.qml" line="213"/>
+        <source>Confirm Email Delete</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../FolderListViewToolbar.qml" line="214"/>
+        <source>Are you sure you want to delete these mails?</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -692,8 +730,8 @@
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="147"/>
-        <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation>Olet tehnyt muutoksia asetuksiin. Oletko varma, että haluat hylätä muutokset?</translation>
+        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="166"/>
@@ -724,7 +762,7 @@
         <location filename="../../MessageAction.qml" line="41"/>
         <source>(%1)</source>
         <extracomment>Arg 1 is the number of selected messages</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -755,44 +793,61 @@
         <translation>Kuva</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="29"/>
+        <location filename="../../ReadingView.qml" line="31"/>
         <source>Attachment saved.</source>
         <translation>Liite tallennettu.</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="44"/>
+        <location filename="../../ReadingView.qml" line="32"/>
+        <source>Downloading Attachment...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ReadingView.qml" line="33"/>
+        <source>Downloading Content...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ReadingView.qml" line="38"/>
+        <source>Saving %1</source>
+        <extracomment>Message displayed when downloading an attachment. Arg 1 is the name of the attachment.</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ReadingView.qml" line="41"/>
+        <source>%1 saved</source>
+        <extracomment>Attachment has been saved message, where arg 1 is the name of the attachment.</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ReadingView.qml" line="56"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="45"/>
+        <location filename="../../ReadingView.qml" line="57"/>
         <source>Warning</source>
         <translation>Varoitus</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="50"/>
+        <location filename="../../ReadingView.qml" line="62"/>
         <source>File format is not supported.</source>
         <translation>Tiedoston tyyppi ei ole tuettu</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="118"/>
+        <location filename="../../ReadingView.qml" line="139"/>
         <source>From:</source>
         <translation>Lähettäjä:</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="152"/>
+        <location filename="../../ReadingView.qml" line="173"/>
         <source>To:</source>
         <translation>Vastaanottaja:</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="185"/>
+        <location filename="../../ReadingView.qml" line="206"/>
         <source>Subject:</source>
         <translation>Aihe:</translation>
-    </message>
-    <message>
-        <location filename="../../ReadingView.qml" line="417"/>
-        <source>Downloading...</source>
-        <translation>Ladataan...</translation>
     </message>
 </context>
 <context>
@@ -820,16 +875,16 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="65"/>
         <source>On %1 %2 wrote:</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2 kirjoitti:</translation>
     </message>
     <message>
-        <location filename="../../ReadingViewToolbar.qml" line="208"/>
-        <location filename="../../ReadingViewToolbar.qml" line="215"/>
+        <location filename="../../ReadingViewToolbar.qml" line="202"/>
+        <location filename="../../ReadingViewToolbar.qml" line="207"/>
         <source>-------- Forwarded Message --------</source>
         <translation>-------- Välitetty viesti --------</translation>
     </message>
     <message>
-        <location filename="../../ReadingViewToolbar.qml" line="219"/>
+        <location filename="../../ReadingViewToolbar.qml" line="211"/>
         <source>[Fwd: %1]</source>
         <translation>[Väl: %1]</translation>
     </message>
@@ -837,64 +892,69 @@
 <context>
     <name>RegisterScreen</name>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="35"/>
+        <location filename="../../settings/RegisterScreen.qml" line="36"/>
         <source>Account description:</source>
         <translation>Tilin kuvaus:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="43"/>
+        <location filename="../../settings/RegisterScreen.qml" line="44"/>
         <source>Your name:</source>
         <translation>Nimesi</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="49"/>
+        <location filename="../../settings/RegisterScreen.qml" line="50"/>
         <source>Email address:</source>
         <translation>Sähköpostiosoite:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="56"/>
+        <location filename="../../settings/RegisterScreen.qml" line="57"/>
         <source>Password:</source>
         <translation>Salasana:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="67"/>
+        <location filename="../../settings/RegisterScreen.qml" line="68"/>
         <source>Yes</source>
         <translation>Kyllä</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="68"/>
+        <location filename="../../settings/RegisterScreen.qml" line="69"/>
         <source>No</source>
         <translation>Ei</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="69"/>
+        <location filename="../../settings/RegisterScreen.qml" line="70"/>
         <source>Discard changes</source>
         <translation>Hylkää muutokset</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="70"/>
-        <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation>Olet tehnyt muutoksia asetuksiin. Oletko varma, että haluat hylätä muutokset?</translation>
+        <location filename="../../settings/RegisterScreen.qml" line="71"/>
+        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="90"/>
+        <location filename="../../settings/RegisterScreen.qml" line="95"/>
         <source>Next</source>
         <translation>Seuraava</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="94"/>
-        <location filename="../../settings/RegisterScreen.qml" line="100"/>
-        <location filename="../../settings/RegisterScreen.qml" line="106"/>
+        <location filename="../../settings/RegisterScreen.qml" line="99"/>
+        <location filename="../../settings/RegisterScreen.qml" line="105"/>
+        <location filename="../../settings/RegisterScreen.qml" line="111"/>
         <source>This field is required</source>
         <translation>Tämä kenttä vaaditaan</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="120"/>
+        <location filename="../../settings/RegisterScreen.qml" line="122"/>
+        <source>Same account is already registered</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../settings/RegisterScreen.qml" line="138"/>
         <source>Please fill in account details:</source>
         <translation>Ole hyvä ja täytä tilin tiedot:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="132"/>
+        <location filename="../../settings/RegisterScreen.qml" line="149"/>
         <source>Cancel</source>
         <translation>Peruuta</translation>
     </message>
@@ -941,7 +1001,7 @@
     <message>
         <location filename="../../settings/WelcomeScreen.qml" line="38"/>
         <source>Set up your accounts</source>
-        <translation type="unfinished"/>
+        <translation>Ota sähköpostitilisi käyttöön</translation>
     </message>
 </context>
 <context>
@@ -962,74 +1022,91 @@
         <translation>Lähetyspäivämäärä</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="30"/>
+        <location filename="../../main.qml" line="31"/>
         <source>Subject:</source>
         <translation>Aihe:</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="31"/>
+        <location filename="../../main.qml" line="32"/>
         <source>Sort messages by:</source>
         <translation>Viestien lajittelu:</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="32"/>
+        <location filename="../../main.qml" line="33"/>
         <source>Go to folder:</source>
         <translation>Siirry kansioon:</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="63"/>
+        <location filename="../../main.qml" line="64"/>
         <source>Email</source>
         <translation>Sähköposti</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="80"/>
+        <location filename="../../main.qml" line="81"/>
+        <location filename="../../main.qml" line="105"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="81"/>
+        <location filename="../../main.qml" line="82"/>
+        <location filename="../../main.qml" line="106"/>
         <source>Error</source>
         <translation>Virhe</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="135"/>
-        <location filename="../../main.qml" line="142"/>
-        <location filename="../../main.qml" line="454"/>
+        <location filename="../../main.qml" line="104"/>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="132"/>
+        <source>password</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="137"/>
+        <source>key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="185"/>
+        <location filename="../../main.qml" line="192"/>
+        <location filename="../../main.qml" line="505"/>
         <source>Account switcher</source>
-        <translation type="unfinished"/>
+        <translation>Tilin vaihtaja</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="165"/>
+        <location filename="../../main.qml" line="215"/>
         <source>On %1 %2 wrote:</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2 kirjoitti:</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="343"/>
+        <location filename="../../main.qml" line="393"/>
         <source>-------- Forwarded Message --------</source>
         <translation>-------- Välitetty viesti --------</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="344"/>
+        <location filename="../../main.qml" line="394"/>
         <source>[Fwd: %1]</source>
         <translation>[Väl: %1]</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="449"/>
+        <location filename="../../main.qml" line="500"/>
         <source>Account list</source>
         <translation>Käyttäjäluettelo</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="503"/>
+        <location filename="../../main.qml" line="554"/>
         <source>Composer</source>
         <translation>Muokkain</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="549"/>
+        <location filename="../../main.qml" line="600"/>
         <source>Mark as unread</source>
         <translation>Merkitse lukemattomaksi</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="549"/>
+        <location filename="../../main.qml" line="600"/>
         <source>Mark as read</source>
         <translation>Merkitse luetuksi</translation>
     </message>

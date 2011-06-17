@@ -2,59 +2,84 @@
 <context>
     <name>webpanel</name>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="46"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="178"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="48"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="181"/>
         <source>Recently visited</source>
         <translation>Recently visited</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="47"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="232"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="49"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="279"/>
         <source>Bookmarks</source>
         <translation>Bookmarks</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="107"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="109"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
         <source>Web</source>
+        <comment>PanelTitle</comment>
+        <extracomment>%1 is &quot;Web&quot; panel title
+----------
+%1 is &quot;Web&quot; panel title</extracomment>
         <translation>Web</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="123"/>
-        <source>Web settings</source>
-        <translation>Web settings</translation>
+        <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
+        <source>%1 settings</source>
+        <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
+        <translation>%1 settings</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="124"/>
-        <source>Web panel content</source>
-        <translation>Web panel content</translation>
+        <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
+        <source>%1 panel content</source>
+        <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
+        <translation>%1 panel content</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="153"/>
-        <source>What&apos;s going on today? Open the browser to start using the web.</source>
-        <translation>What&apos;s going on today? Open the browser to start using the web.</translation>
+        <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="152"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="205"/>
+        <source>Visit a website</source>
+        <translation>Visit a website</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="163"/>
-        <source>Open Browser!</source>
-        <translation>Open Browser!</translation>
+        <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
+        <source>Clear history</source>
+        <translation>Clear history</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="187"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="190"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="243"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="245"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="146"/>
+        <source>The latest websites you visit and your bookmarks will appear here.</source>
+        <translation>The latest websites you visit and your bookmarks will appear here.</translation>
+    </message>
+    <message>
+        <location filename="../../panelsrc/web/webpanel.qml" line="201"/>
+        <source>No recently visited websites.</source>
+        <translation>No recently visited websites.</translation>
+    </message>
+    <message>
+        <location filename="../../panelsrc/web/webpanel.qml" line="219"/>
+        <source>You have cleared the Web history</source>
+        <translation>You have cleared the Web history</translation>
+    </message>
+    <message>
+        <location filename="../../panelsrc/web/webpanel.qml" line="233"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="236"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="290"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="292"/>
         <source>View</source>
         <translation>View</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="187"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="194"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="233"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="240"/>
         <source>Hide</source>
         <translation>Hide</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="243"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="249"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="290"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="296"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>

@@ -43,6 +43,15 @@
     </message>
 </context>
 <context>
+    <name>ContactCardLandscape</name>
+    <message>
+        <location filename="../../ContactCardLandscape.qml" line="85"/>
+        <location filename="../../ContactCardLandscape.qml" line="87"/>
+        <source>%1 %2</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ContactCardPortrait</name>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="24"/>
@@ -50,47 +59,56 @@
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="67"/>
+        <location filename="../../ContactCardPortrait.qml" line="68"/>
         <source>Unfavorite</source>
+        <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
         <translation>至厌</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="68"/>
+        <location filename="../../ContactCardPortrait.qml" line="71"/>
         <source>Favorite</source>
-        <translation>至爱</translation>
+        <comment>Verb</comment>
+        <extracomment>Add favorite flag / add contact to favorites list</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="69"/>
+        <location filename="../../ContactCardPortrait.qml" line="73"/>
         <source>Idle</source>
         <translation>空闲</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="70"/>
+        <location filename="../../ContactCardPortrait.qml" line="74"/>
         <source>Busy</source>
         <translation>忙碌</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="71"/>
+        <location filename="../../ContactCardPortrait.qml" line="75"/>
         <source>Online</source>
         <translation>在线</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="72"/>
+        <location filename="../../ContactCardPortrait.qml" line="76"/>
         <source>Offline</source>
         <translation>离线</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="73"/>
+        <location filename="../../ContactCardPortrait.qml" line="79"/>
         <source>(...)</source>
+        <extracomment>Truncate string - used when a string is too long for the display area</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="102"/>
-        <location filename="../../ContactCardPortrait.qml" line="105"/>
+        <location filename="../../ContactCardPortrait.qml" line="108"/>
         <source>%1 %2</source>
-        <extracomment>%1 is last name, %2 is first name
-----------
-%1 is first name, %2 is last name</extracomment>
+        <comment>LastFirstName</comment>
+        <extracomment>%1 is last name, %2 is first name</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ContactCardPortrait.qml" line="111"/>
+        <source>%1 %2</source>
+        <comment>FirstLastName</comment>
+        <extracomment>%1 is first name, %2 is last name</extracomment>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -120,28 +138,31 @@
         <translation>排序顺序：</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="18"/>
+        <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Display Order:</source>
+        <extracomment>How contacts will be displayed to the user - last first or first last</extracomment>
         <translation>显示顺序：</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="19"/>
+        <location filename="../../ContactsSettings.qml" line="21"/>
         <source>Sort by first name</source>
         <translation>按名字排序</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="20"/>
+        <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Sort by last name</source>
         <translation>按姓氏排序</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="21"/>
+        <location filename="../../ContactsSettings.qml" line="25"/>
         <source>Display by first name</source>
+        <extracomment>Display contacts with the first name first - FirstName LastName</extracomment>
         <translation>按名字显示</translation>
     </message>
     <message>
-        <location filename="../../ContactsSettings.qml" line="22"/>
+        <location filename="../../ContactsSettings.qml" line="28"/>
         <source>Display by last name</source>
+        <extracomment>Display contacts with the last name first - LastName FirstName</extracomment>
         <translation>按姓氏显示</translation>
     </message>
 </context>
@@ -188,134 +209,150 @@
         <translation>手机</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="38"/>
+        <location filename="../../DetailViewPortrait.qml" line="40"/>
         <source>Bookmark</source>
-        <translation>书签</translation>
+        <comment>Noun</comment>
+        <extracomment>Denotes whether the web page for this contact is just a bookmark</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="39"/>
-        <location filename="../../DetailViewPortrait.qml" line="65"/>
+        <location filename="../../DetailViewPortrait.qml" line="43"/>
         <source>Favorite</source>
-        <translation>至爱</translation>
+        <comment>Noun</comment>
+        <extracomment>Denotes whether the web page for this contact is a favorite bookmark</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="41"/>
+        <location filename="../../DetailViewPortrait.qml" line="45"/>
         <source>First name</source>
         <translation>名字</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="42"/>
+        <location filename="../../DetailViewPortrait.qml" line="46"/>
         <source>Last name</source>
         <translation>姓氏</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="43"/>
+        <location filename="../../DetailViewPortrait.qml" line="47"/>
         <source>Company</source>
         <translation>公司</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="44"/>
+        <location filename="../../DetailViewPortrait.qml" line="48"/>
         <source>Enter note</source>
         <translation>输入笔记</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="45"/>
+        <location filename="../../DetailViewPortrait.qml" line="49"/>
         <source>Enter birthday</source>
         <translation>输入生日</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="46"/>
+        <location filename="../../DetailViewPortrait.qml" line="52"/>
         <source>Site</source>
+        <extracomment>Default website - the user should enter a URL in this field</extracomment>
         <translation>网址</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="48"/>
+        <location filename="../../DetailViewPortrait.qml" line="54"/>
         <source>Phone numbers</source>
         <translation>电话号码</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="49"/>
+        <location filename="../../DetailViewPortrait.qml" line="57"/>
         <source>Instant messaging</source>
+        <extracomment>Instant Messaging Accounts for this contact</extracomment>
         <translation>即时信息</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="50"/>
+        <location filename="../../DetailViewPortrait.qml" line="58"/>
         <source>Email</source>
         <translation>电邮</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="51"/>
+        <location filename="../../DetailViewPortrait.qml" line="61"/>
         <source>Web</source>
+        <extracomment>The header for the section that shows the web sites for this contact</extracomment>
         <translation>Web</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="52"/>
+        <location filename="../../DetailViewPortrait.qml" line="62"/>
         <source>Address</source>
         <translation>地址</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="53"/>
+        <location filename="../../DetailViewPortrait.qml" line="63"/>
         <source>Birthday</source>
         <translation>生日</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="54"/>
+        <location filename="../../DetailViewPortrait.qml" line="64"/>
         <source>Date</source>
         <translation>日期</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="55"/>
+        <location filename="../../DetailViewPortrait.qml" line="65"/>
         <source>Note</source>
         <translation>注释</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="57"/>
+        <location filename="../../DetailViewPortrait.qml" line="67"/>
         <source>AIM</source>
         <translation>AIM</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="58"/>
+        <location filename="../../DetailViewPortrait.qml" line="68"/>
         <source>MSN</source>
         <translation>MSN</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="59"/>
+        <location filename="../../DetailViewPortrait.qml" line="69"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="60"/>
+        <location filename="../../DetailViewPortrait.qml" line="70"/>
         <source>Yahoo!</source>
         <translation>Yahoo!</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="61"/>
+        <location filename="../../DetailViewPortrait.qml" line="71"/>
         <source>Facebook</source>
         <translation>Facebook</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="62"/>
+        <location filename="../../DetailViewPortrait.qml" line="72"/>
         <source>Google Talk</source>
         <translation>Google Talk</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="63"/>
+        <location filename="../../DetailViewPortrait.qml" line="73"/>
         <source>IM</source>
         <translation>即时信息（IM）</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="66"/>
+        <location filename="../../DetailViewPortrait.qml" line="76"/>
+        <source>Favorite</source>
+        <comment>Verb</comment>
+        <extracomment>Add favorite flag / add contact to favorites list</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../DetailViewPortrait.qml" line="79"/>
         <source>Unfavorite</source>
+        <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
         <translation>至厌</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="83"/>
+        <location filename="../../DetailViewPortrait.qml" line="97"/>
         <source>View</source>
+        <extracomment>Load the details for the selected contact</extracomment>
         <translation>查看</translation>
     </message>
     <message>
-        <location filename="../../DetailViewPortrait.qml" line="84"/>
+        <location filename="../../DetailViewPortrait.qml" line="100"/>
         <source>...</source>
+        <extracomment>Truncate string - used when a string is too long for the display area</extracomment>
         <translation>...</translation>
     </message>
 </context>
@@ -382,62 +419,67 @@
         <translation>注释</translation>
     </message>
     <message>
-        <location filename="../../EditViewPortrait.qml" line="46"/>
+        <location filename="../../EditViewPortrait.qml" line="49"/>
         <source>Favorite</source>
-        <translation>至爱</translation>
-    </message>
-    <message>
-        <location filename="../../EditViewPortrait.qml" line="48"/>
-        <source>Unfavorite</source>
-        <translation>至厌</translation>
-    </message>
-    <message>
-        <location filename="../../EditViewPortrait.qml" line="50"/>
-        <source>Phone numbers</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../EditViewPortrait.qml" line="51"/>
-        <source>Add number</source>
+        <comment>Verb</comment>
+        <extracomment>Add favorite flag / add contact to favorites list</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="52"/>
-        <source>Instant messaging</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../EditViewPortrait.qml" line="53"/>
-        <source>Add account</source>
-        <translation type="unfinished"/>
+        <source>Unfavorite</source>
+        <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
+        <translation>至厌</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="54"/>
-        <source>Email</source>
+        <source>Phone numbers</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="55"/>
-        <source>Add email address</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../EditViewPortrait.qml" line="56"/>
-        <source>Web</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../EditViewPortrait.qml" line="57"/>
-        <source>Add web page</source>
+        <source>Add number</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="58"/>
-        <source>Address</source>
+        <source>Instant messaging</source>
+        <extracomment>Instant Messaging Accounts for this contact</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="59"/>
+        <source>Add account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="60"/>
+        <source>Email</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="61"/>
+        <source>Add email address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="64"/>
+        <source>Web</source>
+        <extracomment>The header for the section that shows the web sites for this contact</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="65"/>
+        <source>Add web page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="66"/>
+        <source>Address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../EditViewPortrait.qml" line="67"/>
         <source>Add address</source>
         <translation type="unfinished"/>
     </message>
@@ -479,67 +521,78 @@
     </message>
 </context>
 <context>
+    <name>GroupedViewLandscape</name>
+    <message>
+        <location filename="../../GroupedViewLandscape.qml" line="58"/>
+        <source>#</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>HeaderPortrait</name>
     <message>
-        <location filename="../../HeaderPortrait.qml" line="13"/>
+        <location filename="../../HeaderPortrait.qml" line="14"/>
         <source>#</source>
+        <extracomment>If a contact isn't sorted under one of the values in a locale's alphabet, it is sorted under '#'</extracomment>
         <translation>#</translation>
     </message>
 </context>
 <context>
     <name>ImEditWidget</name>
     <message>
-        <location filename="../../ImEditWidget.qml" line="24"/>
+        <location filename="../../ImEditWidget.qml" line="25"/>
         <source>Instant messaging</source>
+        <extracomment>Instant Messaging Accounts for this contact</extracomment>
         <translation>即时信息</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="25"/>
+        <location filename="../../ImEditWidget.qml" line="26"/>
         <source>AIM</source>
         <translation>AIM</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="26"/>
+        <location filename="../../ImEditWidget.qml" line="27"/>
         <source>MSN</source>
         <translation>MSN</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="27"/>
+        <location filename="../../ImEditWidget.qml" line="28"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="28"/>
+        <location filename="../../ImEditWidget.qml" line="29"/>
         <source>Yahoo!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="29"/>
+        <location filename="../../ImEditWidget.qml" line="30"/>
         <source>Facebook</source>
         <translation>Facebook</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="30"/>
+        <location filename="../../ImEditWidget.qml" line="33"/>
         <source>gTalk</source>
+        <extracomment>Name of the Google Talk messaging service - this might differ by locale</extracomment>
         <translation>gTalk</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="31"/>
+        <location filename="../../ImEditWidget.qml" line="34"/>
         <source>Account Name / ID</source>
         <translation>帐户名称 / ID</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="32"/>
+        <location filename="../../ImEditWidget.qml" line="35"/>
         <source>Account Type</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="33"/>
+        <location filename="../../ImEditWidget.qml" line="36"/>
         <source>No IM accounts are configured</source>
         <translation>未配置 IM 帐户</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="34"/>
+        <location filename="../../ImEditWidget.qml" line="37"/>
         <source>No buddies for this account</source>
         <translation>此帐户无伙伴</translation>
     </message>
@@ -607,62 +660,65 @@
         <translation>注释</translation>
     </message>
     <message>
-        <location filename="../../NewContactViewPortrait.qml" line="44"/>
+        <location filename="../../NewContactViewPortrait.qml" line="46"/>
         <source>Unfavorite</source>
+        <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
         <translation>至厌</translation>
     </message>
     <message>
-        <location filename="../../NewContactViewPortrait.qml" line="45"/>
-        <source>Favorite</source>
-        <translation>至爱</translation>
-    </message>
-    <message>
-        <location filename="../../NewContactViewPortrait.qml" line="47"/>
-        <source>Phone numbers</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../NewContactViewPortrait.qml" line="48"/>
-        <source>Add number</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../NewContactViewPortrait.qml" line="49"/>
-        <source>Instant messaging</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../NewContactViewPortrait.qml" line="50"/>
-        <source>Add account</source>
+        <source>Favorite</source>
+        <comment>Verb</comment>
+        <extracomment>Add favorite flag / add contact to favorites list</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="51"/>
-        <source>Email</source>
+        <source>Phone numbers</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="52"/>
-        <source>Add email address</source>
+        <source>Add number</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="53"/>
-        <source>Web</source>
+        <source>Instant messaging</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="54"/>
-        <source>Add web page</source>
+        <source>Add account</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="55"/>
-        <source>Address</source>
+        <source>Email</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="56"/>
+        <source>Add email address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="57"/>
+        <source>Web</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="58"/>
+        <source>Add web page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="59"/>
+        <source>Address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../NewContactViewPortrait.qml" line="60"/>
         <source>Add address</source>
         <translation type="unfinished"/>
     </message>
@@ -730,25 +786,27 @@
     <message>
         <location filename="../../WebPageEditWidget.qml" line="23"/>
         <source>Bookmark</source>
-        <translation>书签</translation>
+        <comment>Noun</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="24"/>
         <source>Favorite</source>
-        <translation>至爱</translation>
+        <comment>Noun</comment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
         <location filename="../../main.qml" line="16"/>
-        <location filename="../../main.qml" line="42"/>
+        <location filename="../../main.qml" line="50"/>
         <source>Contacts</source>
         <translation>联系人</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="25"/>
-        <location filename="../../main.qml" line="44"/>
+        <location filename="../../main.qml" line="52"/>
         <source>New contact</source>
         <translation>新建联系人</translation>
     </message>
@@ -768,72 +826,78 @@
         <translation>谁在线</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="30"/>
+        <location filename="../../main.qml" line="31"/>
         <source>View</source>
+        <extracomment>Load the details for the selected contact</extracomment>
         <translation>查看</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="31"/>
+        <location filename="../../main.qml" line="32"/>
         <source>Share</source>
         <translation>分享</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="32"/>
+        <location filename="../../main.qml" line="33"/>
         <source>Email</source>
         <translation>电邮</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="33"/>
+        <location filename="../../main.qml" line="36"/>
         <source>Favorite</source>
-        <translation>至爱</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="34"/>
-        <source>UnFavorite</source>
+        <comment>Verb</comment>
+        <extracomment>Add favorite flag / add contact to favorites list</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="35"/>
+        <location filename="../../main.qml" line="39"/>
+        <source>Unfavorite</source>
+        <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../main.qml" line="41"/>
         <source>Edit</source>
         <translation>修改</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="36"/>
+        <location filename="../../main.qml" line="42"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="37"/>
+        <location filename="../../main.qml" line="43"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="38"/>
+        <location filename="../../main.qml" line="44"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="39"/>
+        <location filename="../../main.qml" line="47"/>
         <source>Delete Confirmation</source>
+        <extracomment>Confirmation of deletion - ensure the user wants to delete the contact</extracomment>
         <translation>删除确认</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="43"/>
+        <location filename="../../main.qml" line="51"/>
         <source>Contact details</source>
         <translation>联系人详情</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="45"/>
+        <location filename="../../main.qml" line="53"/>
         <source>Edit contacts</source>
         <translation>编辑联系人</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="47"/>
+        <location filename="../../main.qml" line="56"/>
         <source>this contact</source>
+        <extracomment>If we are unable to get the contact name, use 'this contact' instead</extracomment>
         <translation>此联系人</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="48"/>
+        <location filename="../../main.qml" line="57"/>
         <source>Are you sure you want to remove %1 from your contacts?</source>
         <translation>您确定要从联系人中删除 %1？</translation>
     </message>

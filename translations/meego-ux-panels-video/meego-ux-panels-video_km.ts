@@ -2,45 +2,70 @@
 <context>
     <name>videopanel</name>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="59"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="60"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="66"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="68"/>
         <source>Video</source>
-        <translation>វីដេអូ</translation>
+        <comment>PanelTitle</comment>
+        <extracomment>%1 is &quot;Video&quot; panel title
+----------
+%1 is &quot;Video&quot; panel title</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="64"/>
-        <source>Video settings</source>
-        <translation>ការ​កំណត់​វីដេអូ</translation>
+        <location filename="../../panelsrc/video/videopanel.qml" line="66"/>
+        <source>%1 settings</source>
+        <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="65"/>
-        <source>Video panel content</source>
-        <translation>មាតិកា​បន្ទះ​វីដេអូ</translation>
+        <location filename="../../panelsrc/video/videopanel.qml" line="68"/>
+        <source>%1 panel content</source>
+        <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="93"/>
-        <source>Watch your videos.</source>
-        <translation>មើល​វីដេអូ​របស់​អ្នក។</translation>
-    </message>
-    <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="103"/>
-        <source>Open Videos!</source>
-        <translation>បើក​វីដេអូ!</translation>
-    </message>
-    <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="136"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="71"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="102"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="140"/>
+        <source>Watch a video</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/video/videopanel.qml" line="71"/>
+        <source>Clear history</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/video/videopanel.qml" line="96"/>
+        <source>The latest videos you watch will appear here.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/video/videopanel.qml" line="135"/>
+        <source>No recently watched videos.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/video/videopanel.qml" line="156"/>
+        <source>You have cleared the Video history</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/video/videopanel.qml" line="169"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="173"/>
         <source>Play</source>
         <translation>លេង</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="136"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="148"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="169"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="181"/>
         <source>Share</source>
         <translation>ចែក​រំលែក</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="136"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="144"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="169"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="177"/>
         <source>Hide</source>
         <translation>លាក់​បាំង</translation>
     </message>

@@ -73,8 +73,9 @@
         <translation>អ្នក​បាន​ភ្ជាប់​ចេញ​រួច​ហើយ។  ទិន្នន័យ​ដែល​មាន​មក​ពី​សេវាកម្ម​នេះ នឹង​ត្រូវ​លុប​ចោល។</translation>
     </message>
     <message>
-        <location filename="../../qml/constants.js" line="24"/>
+        <location filename="../../qml/constants.js" line="25"/>
         <source>This service supports sharing only</source>
+        <extracomment>Denotes a social networking service that only plugs in to the sharing framework for media sharing, and doesn't provide content on the Friends panel</extracomment>
         <translation>សេវាកម្ម​នេះ​ទ្រង់​ទ្រង់​តែ​ការ​ចែក​រំលែក​ប៉ុណ្ណោះ</translation>
     </message>
 </context>

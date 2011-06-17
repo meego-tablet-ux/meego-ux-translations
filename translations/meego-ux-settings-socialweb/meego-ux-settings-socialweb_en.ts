@@ -73,8 +73,9 @@
         <translation>You have successfully signed out.  Content from this service will no longer appear on this device</translation>
     </message>
     <message>
-        <location filename="../../qml/constants.js" line="24"/>
+        <location filename="../../qml/constants.js" line="25"/>
         <source>This service supports sharing only</source>
+        <extracomment>Denotes a social networking service that only plugs in to the sharing framework for media sharing, and doesn't provide content on the Friends panel</extracomment>
         <translation>This service supports sharing only</translation>
     </message>
 </context>

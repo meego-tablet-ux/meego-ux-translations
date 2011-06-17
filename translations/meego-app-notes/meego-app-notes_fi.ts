@@ -177,12 +177,12 @@
     <message>
         <location filename="../../NotebooksView.qml" line="76"/>
         <source>A notebook is a collection of notes. Use the default notebook we have created for you, or make a new one.</source>
-        <translation type="unfinished"/>
+        <translation>Muistikirja on kokoelma muistiinpanoja. Valitse tekemämme oletusmuistikirja tai luo uusi.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="77"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation>Napsauta Luo ensimmäinen muistiinpano -painiketta. Voit myös napsauttaa kuvaketta sivun oikeassa yläkulmassa ja sitten valitse &quot;Uusi muistiinpano&quot;.</translation>
+        <translation>Kosketa &apos;Luo ensimmäinen muistiinpano&apos; -painiketta. Voit myös koskettaa kuvaketta sivun oikeassa yläkulmassa ja valita &quot;Uusi muistiinpano&quot;.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="93"/>
@@ -198,7 +198,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="113"/>
         <source>View by:</source>
-        <translation type="unfinished"/>
+        <translation>Katsonut:</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="119"/>
@@ -330,7 +330,7 @@
     <message>
         <location filename="../../NotesView.qml" line="62"/>
         <source>How do I create notes?</source>
-        <translation type="unfinished"/>
+        <translation>Kuinka teen muistiinpanoja?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="63"/>
@@ -340,12 +340,12 @@
     <message>
         <location filename="../../NotesView.qml" line="64"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Kosketa &apos;Luo ensimmäinen muistiinpano&apos; -painiketta. Voit myös koskettaa kuvaketta sivun oikeassa yläkulmassa ja valita &quot;Uusi muistiinpano&quot;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="65"/>
         <source>To send a note by email, tap and hold the note you want to send, then select &apos;Email&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Lähettääksesi muistiinpanon sähköpostitse, kosketa ja pidä muistiinpano valittuna ja valitse sitten &apos;Sähköposti&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="82"/>
@@ -361,7 +361,7 @@
     <message>
         <location filename="../../NotesView.qml" line="102"/>
         <source>View by:</source>
-        <translation type="unfinished"/>
+        <translation>Katsonut:</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="116"/>

@@ -2,38 +2,38 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="20"/>
+        <location filename="../../main.qml" line="21"/>
         <source>Videos</source>
         <translation>Відео</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="21"/>
+        <location filename="../../main.qml" line="22"/>
         <source>All</source>
         <translation>Всі</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="22"/>
+        <location filename="../../main.qml" line="23"/>
         <source>Recently added</source>
         <translation>Нещодавно додані</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="23"/>
+        <location filename="../../main.qml" line="24"/>
         <source>Recently viewed</source>
         <translation>Нещодавно переглянуті</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="24"/>
+        <location filename="../../main.qml" line="25"/>
         <source>Unwatched</source>
         <translation>Непереглянуті</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="25"/>
+        <location filename="../../main.qml" line="26"/>
         <source>Favorites</source>
         <translation>Улюблені</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
-        <location filename="../../main.qml" line="39"/>
+        <location filename="../../main.qml" line="36"/>
         <source>Delete</source>
         <translation>Вилучити</translation>
     </message>
@@ -43,34 +43,35 @@
         <translation>Скасувати</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="35"/>
+        <location filename="../../main.qml" line="30"/>
         <source>Play</source>
         <translation>Пуск</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="36"/>
+        <location filename="../../main.qml" line="32"/>
         <source>Favorite</source>
-        <translation>Додати до улюблених</translation>
+        <comment>Verb</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="37"/>
+        <location filename="../../main.qml" line="34"/>
         <source>Unfavorite</source>
         <translation>Вилучити з улюблених</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="38"/>
+        <location filename="../../main.qml" line="35"/>
         <source>Share</source>
         <translation>Оприлюднити</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="40"/>
+        <location filename="../../main.qml" line="37"/>
         <source>Select multiple videos</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <location filename="../../main.qml" line="79"/>
-        <source>All (%1 videos)</source>
-        <translation>Всі (%1 відео)</translation>
+    <message numerus="yes">
+        <location filename="../../main.qml" line="91"/>
+        <source>All (%n video(s))</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
 </context>
 </TS>

@@ -47,7 +47,7 @@
         <location filename="../../CreateNewTaskRow.qml" line="28"/>
         <source>* </source>
         <extracomment>used to indicate the currently selected duedate for the new task</extracomment>
-        <translation type="unfinished"/>
+        <translation>* </translation>
     </message>
 </context>
 <context>
@@ -55,27 +55,27 @@
     <message>
         <location filename="../../TaskListPicker.qml" line="102"/>
         <source>Create a new list</source>
-        <translation type="unfinished"/>
+        <translation>Criar uma nova lista</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="128"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="129"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="130"/>
         <source>Please name the new list</source>
-        <translation type="unfinished"/>
+        <translation>Indique o nome da nova lista</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="135"/>
         <source>List name</source>
-        <translation type="unfinished"/>
+        <translation>Nome da lista</translation>
     </message>
 </context>
 <context>
@@ -93,22 +93,22 @@
     <message>
         <location filename="../../TaskListView.qml" line="537"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Não</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="538"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Sim</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="543"/>
         <source>Are you sure you want to delete these %1 tasks?</source>
-        <translation type="unfinished"/>
+        <translation>Tem a certeza que quer apagar %1 tarefas?</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="546"/>
         <source>Are you sure you want to delete this task?</source>
-        <translation type="unfinished"/>
+        <translation>Tem a certeza que quer apagar esta tarefa?</translation>
     </message>
 </context>
 <context>
@@ -116,7 +116,7 @@
     <message>
         <location filename="../../model/tasksdatabase.cpp" line="80"/>
         <source>Default List</source>
-        <translation type="unfinished"/>
+        <translation>Lista omissa</translation>
     </message>
 </context>
 <context>
@@ -124,62 +124,62 @@
     <message>
         <location filename="../../TasksDetailMenu.qml" line="50"/>
         <source>Insert task name</source>
-        <translation type="unfinished"/>
+        <translation>Indique o nome da tarefa</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="61"/>
         <source>List:</source>
-        <translation type="unfinished"/>
+        <translation>Lista:</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="126"/>
         <source>Due date:</source>
-        <translation type="unfinished"/>
+        <translation>Data de fim:</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="139"/>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Data</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="140"/>
         <source>Someday</source>
-        <translation type="unfinished"/>
+        <translation>Qualquer dia</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="147"/>
         <source>Set due date</source>
-        <translation type="unfinished"/>
+        <translation>Definir data final</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="167"/>
         <source>Notes</source>
-        <translation type="unfinished"/>
+        <translation>Notas</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="175"/>
         <source>Add a note here</source>
-        <translation type="unfinished"/>
+        <translation>Adicione uma nota</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="182"/>
         <source>Delete task</source>
-        <translation type="unfinished"/>
+        <translation>Apagar tarefa</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="203"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="215"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Gravar</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="227"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -197,12 +197,12 @@
     <message>
         <location filename="../../main.qml" line="19"/>
         <source>Order: asc</source>
-        <translation type="unfinished"/>
+        <translation>Ordem: asc</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Order: desc</source>
-        <translation type="unfinished"/>
+        <translation>Ordem: desc</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
@@ -317,7 +317,7 @@
     <message>
         <location filename="../../main.qml" line="43"/>
         <source>Do you want to delete this list and all of its tasks?</source>
-        <translation type="unfinished"/>
+        <translation>Pretende apagar esta lista e as suas tarefas?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="44"/>
@@ -334,80 +334,80 @@
         <location filename="../../main.qml" line="299"/>
         <location filename="../../main.qml" line="1029"/>
         <source>List name</source>
-        <translation type="unfinished"/>
+        <translation>Nome da lista</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="566"/>
         <source>Use the default task list, or make a new one</source>
-        <translation type="unfinished"/>
+        <translation>Utiliza a lista omissa ou crie uma nova</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="567"/>
         <source>Create a new task list</source>
-        <translation type="unfinished"/>
+        <translation>Criar uma nova lista de tarefas</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="572"/>
         <source>What&apos;s a task list?</source>
-        <translation type="unfinished"/>
+        <translation>O que é uma lista de tarefas?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="573"/>
         <source>A task list is a collection of tasks. Use the default task list we have created for you, or make a new one.</source>
-        <translation type="unfinished"/>
+        <translation>Uma lista de tarefas é um conjunto de tarefas. Utilize a lista que nós criámos ou crie uma nova.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="578"/>
         <location filename="../../main.qml" line="757"/>
         <source>How do I create tasks?</source>
-        <translation type="unfinished"/>
+        <translation>Como é que crio tarefas?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="579"/>
         <location filename="../../main.qml" line="758"/>
         <source>To create a task, start by selecting a task list. Then tap on the new task line.</source>
-        <translation type="unfinished"/>
+        <translation>Para criar uma tarefa, selecione uma lista. De seguida, clique na nopva linha de tarefa.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="584"/>
         <source>How do I check completed tasks?</source>
-        <translation type="unfinished"/>
+        <translation>Como é que vejo as tarefas concluídas?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="585"/>
         <source>To mark a task as completed, tap the check box.</source>
-        <translation type="unfinished"/>
+        <translation>Para marcar uma tarefa como concluída, clique na caixa de verificação.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="725"/>
         <source>You have no due tasks</source>
-        <translation type="unfinished"/>
+        <translation>Não possui tarefas a vencer.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="729"/>
         <source>You have no overdue tasks</source>
-        <translation type="unfinished"/>
+        <translation>Não possui tarefas ultrapassadas</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="733"/>
         <source>You have no upcoming tasks</source>
-        <translation type="unfinished"/>
+        <translation>Não possui tarefas nos próximos tempos</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="737"/>
         <source>You have no someday tasks</source>
-        <translation type="unfinished"/>
+        <translation>Não possui tarefas a realizar em qualquer dia</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="747"/>
         <source>To create a task, start by selecting a task list.</source>
-        <translation type="unfinished"/>
+        <translation>Para criar uma tarefa, selecione uma lista.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="749"/>
         <location filename="../../main.qml" line="759"/>
         <source>Select a task list</source>
-        <translation type="unfinished"/>
+        <translation>Selecione uma lista</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="797"/>
@@ -418,17 +418,17 @@
     <message>
         <location filename="../../main.qml" line="1010"/>
         <source>Are you sure you want to delete the completed tasks?</source>
-        <translation type="unfinished"/>
+        <translation>Tem a certeza que quer apagar as terefas concluídas?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1011"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Sim</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1012"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Não</translation>
     </message>
 </context>
 </TS>

@@ -12,47 +12,42 @@
         <translation>nieznany album</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="21"/>
-        <source>%1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../MusicListView.qml" line="51"/>
+        <location filename="../../MusicListView.qml" line="54"/>
         <source>Playlist name</source>
         <translation>Nazwa listy odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="53"/>
+        <location filename="../../MusicListView.qml" line="56"/>
         <source>Artist name</source>
         <translation>Nazwa wykonawcy</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="55"/>
+        <location filename="../../MusicListView.qml" line="58"/>
         <source>Album name</source>
         <translation>Nazwa album</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="56"/>
+        <location filename="../../MusicListView.qml" line="59"/>
         <source>Track name</source>
         <translation>Nazwa utworu</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="71"/>
-        <source>Artist</source>
-        <translation>Wykonawca</translation>
-    </message>
-    <message>
-        <location filename="../../MusicListView.qml" line="85"/>
+        <location filename="../../MusicListView.qml" line="74"/>
         <source>Time</source>
         <translation>Czas</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="99"/>
+        <location filename="../../MusicListView.qml" line="88"/>
         <source>Album</source>
         <translation>Album</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="112"/>
+        <location filename="../../MusicListView.qml" line="102"/>
+        <source>Artist</source>
+        <translation>Wykonawca</translation>
+    </message>
+    <message>
+        <location filename="../../MusicListView.qml" line="115"/>
         <source>Number of tracks</source>
         <translation>Liczba utworów</translation>
     </message>
@@ -67,6 +62,11 @@
     <message>
         <location filename="../../MusicToolBar.qml" line="63"/>
         <source>%1, %2</source>
+        <translation>%1 - %2</translation>
+    </message>
+    <message>
+        <location filename="../../MusicToolBar.qml" line="63"/>
+        <source>%1</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -133,240 +133,230 @@
         <translation>Otwórz album</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="38"/>
+        <location filename="../../main.qml" line="39"/>
+        <location filename="../../main.qml" line="101"/>
         <source>Favorite</source>
-        <translation>Dodaj do ulubionych</translation>
+        <comment>Verb</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="39"/>
+        <location filename="../../main.qml" line="41"/>
         <source>Unfavorite</source>
         <translation>Usuń z ulubionych</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="40"/>
+        <location filename="../../main.qml" line="42"/>
+        <location filename="../../main.qml" line="80"/>
         <source>Add to play queue</source>
         <translation>Dodaj do kolejki odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="41"/>
+        <location filename="../../main.qml" line="43"/>
+        <location filename="../../main.qml" line="92"/>
         <source>Add to playlist</source>
         <translation>Dodaj do listy odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="42"/>
+        <location filename="../../main.qml" line="44"/>
         <source>Remove from playlist</source>
         <translation>Usuń z listy odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="44"/>
+        <location filename="../../main.qml" line="46"/>
         <source>Rename</source>
         <translation>Zmień nazwę</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="46"/>
+        <location filename="../../main.qml" line="48"/>
         <source>New</source>
         <translation>Nowy</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="47"/>
+        <location filename="../../main.qml" line="49"/>
         <source>Edit</source>
         <translation>Edytuj</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="48"/>
+        <location filename="../../main.qml" line="50"/>
         <source>Share</source>
         <translation>Udostępnij</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="49"/>
-        <location filename="../../main.qml" line="69"/>
+        <location filename="../../main.qml" line="51"/>
+        <location filename="../../main.qml" line="67"/>
         <source>Delete</source>
         <translation>Usuń</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="50"/>
+        <location filename="../../main.qml" line="52"/>
         <source>Remove from queue</source>
         <translation>Usuń z kolejki odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="51"/>
+        <location filename="../../main.qml" line="53"/>
         <source>Create</source>
         <translation>Stwórz</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="52"/>
+        <location filename="../../main.qml" line="54"/>
         <source>Save as playlist</source>
         <translation>Zapisz jako listę odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="53"/>
+        <location filename="../../main.qml" line="55"/>
         <source>Clear play queue</source>
         <translation>Wyczyść kolejkę odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="54"/>
+        <location filename="../../main.qml" line="56"/>
         <source>Clear playlist</source>
         <translation>Wyczyść listę odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="56"/>
-        <source>%1 items</source>
-        <translation>%1 elementów</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="57"/>
-        <source>%1 album</source>
-        <translation>%1 album</translation>
-    </message>
-    <message>
         <location filename="../../main.qml" line="58"/>
-        <source>%1 tracks</source>
-        <translation>%1 utworów</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="60"/>
         <source>Grid</source>
         <translation>Siatka</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="61"/>
+        <location filename="../../main.qml" line="59"/>
         <source>List</source>
         <translation>Lista</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="63"/>
+        <location filename="../../main.qml" line="61"/>
         <source>Alphabetically</source>
         <translation>Alfabetycznie</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="64"/>
+        <location filename="../../main.qml" line="62"/>
         <source>By date</source>
         <translation>Według daty</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="66"/>
+        <location filename="../../main.qml" line="64"/>
         <source>Create new playlist</source>
         <translation>Utwórz nową listę odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="67"/>
+        <location filename="../../main.qml" line="65"/>
         <source>Rename playlist</source>
         <translation>Zmień nazwę listy odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="70"/>
+        <location filename="../../main.qml" line="68"/>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="71"/>
+        <location filename="../../main.qml" line="69"/>
         <source>Type playlist name here.</source>
         <translation>Podaj nazwę listy odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="72"/>
+        <location filename="../../main.qml" line="70"/>
         <source>Select multiple songs</source>
         <translation>Wybierz wiele utworów</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="74"/>
+        <location filename="../../main.qml" line="72"/>
         <source>You have no music on this tablet</source>
         <translation>W urządzeniu nie znaleziono muzyki</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="75"/>
+        <location filename="../../main.qml" line="73"/>
         <source>Download or copy your music onto the tablet. Connect the tablet to your computer with a USB cable, via WiFi or bluetooth.</source>
         <translation>Pobierz lub skopiuj muzykę na urządzenie. Podłącz urządzenie do komputera przez kabel USB, sieć WiFi lub Bluetooth.</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="76"/>
+        <location filename="../../main.qml" line="74"/>
         <source>Your play queue is empty</source>
         <translation>Kolejka odtwarzania jest pusta</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="77"/>
+        <location filename="../../main.qml" line="75"/>
+        <location filename="../../main.qml" line="80"/>
         <source>Add music to the play queue</source>
         <translation>Dodaj muzykę do kolejki odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="78"/>
+        <location filename="../../main.qml" line="76"/>
         <source>What&apos;s the play queue?</source>
         <translation>Co to jest kolejka odtwarzania?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="79"/>
+        <location filename="../../main.qml" line="77"/>
         <source>A place to queue up the music you want to hear. You can queue albums, playlists or individual tracks. </source>
         <translation>Do kolejki można dodać albumy, listy odtwarzania lub poszczególne utwory, które mają zostać odtworzone. </translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="80"/>
+        <location filename="../../main.qml" line="78"/>
         <source>How do I queue music?</source>
         <translation>Jak dodać muzykę do kolejki odtwarzania?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="81"/>
-        <source>To queue music, tap the &apos;Add music to the play queue&apos; button. You can also tap and hold a song, album or playlist, then select &apos;Add to play queue&apos;.</source>
-        <translation>Aby dodać muzykę do kolejki, należy użyć przycisku &quot;Dodaj muzykę do kolejki odtwarzania&quot;. Można także przytrzymać utwór, album lub listę odtwarzania i wybrać &quot;Dodaj do kolejki odtwarzania&quot;. </translation>
+        <location filename="../../main.qml" line="80"/>
+        <source>To queue music, tap the &apos;%1&apos; button. You can also tap and hold a song, album or playlist, then select &apos;%2&apos;.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="82"/>
+        <location filename="../../main.qml" line="81"/>
         <source>How do I get music?</source>
         <translation>Skąd wziąć muzykę?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="83"/>
+        <location filename="../../main.qml" line="82"/>
         <source>Download or copy your music onto the tablet. Connect the tablet to your computer with a USB cable, via Wi-Fi or bluetooth.</source>
         <translation>Pobierz lub skopiuj muzykę na urządzenie. Podłącz urządzenie do komputera przez kabel USB, sieć WiFi lub Bluetooth.</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="84"/>
+        <location filename="../../main.qml" line="83"/>
         <source>Add tracks</source>
         <translation>Dodaj utwory</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="85"/>
+        <location filename="../../main.qml" line="84"/>
         <source>Add playlists</source>
         <translation>Dodaj listy odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="86"/>
+        <location filename="../../main.qml" line="85"/>
         <source>Add albums</source>
         <translation>Dodaj albumy</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="87"/>
+        <location filename="../../main.qml" line="86"/>
         <source>You have no playlists</source>
         <translation>Nie znaleziono list odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="88"/>
+        <location filename="../../main.qml" line="87"/>
         <source>Create a playlist</source>
         <translation>Stwórz listę odtwarzania</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="89"/>
+        <location filename="../../main.qml" line="88"/>
         <source>What&apos;s a playlist?</source>
         <translation>Czym jest lista odtwarzania?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="90"/>
+        <location filename="../../main.qml" line="89"/>
         <source>A compilation of music created by you. Create playlists to suit your mood, your activities and to share with friends.</source>
         <translation>Zbiór muzyki stworzony przez użytkownika. Stwórz listy pasujące do nastroju, czynności i by dzielić się nimi z przyjaciółmi.</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="91"/>
+        <location filename="../../main.qml" line="90"/>
         <source>How do I add music to a playlist?</source>
         <translation>Jak dodać muzykę do listy odtwarzania?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="92"/>
-        <source>To add music to a playlist, tap and hold the track you want to add. Then select &apos;Add to playlist&apos;.</source>
-        <translation>By dodać muzykę do listy odtwarzania, należy przytrzymać dany utwór i wybrać &quot;Dodaj do listy odtwarzania&quot;.</translation>
+        <source>To add music to a playlist, tap and hold the track you want to add. Then select &apos;%1&apos;.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="95"/>
-        <source>You don&apos;t have any favourite music tracks</source>
-        <translation>Nie znaleziono ulubionych utworów</translation>
+        <source>You don&apos;t have any favorite music tracks</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="96"/>
@@ -375,8 +365,8 @@
     </message>
     <message>
         <location filename="../../main.qml" line="97"/>
-        <source>What are favourites?</source>
-        <translation>Czym są ulubione?</translation>
+        <source>What are favorites?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../main.qml" line="98"/>
@@ -385,55 +375,50 @@
     </message>
     <message>
         <location filename="../../main.qml" line="99"/>
-        <source>How do I create favourites?</source>
-        <translation>Jak stworzyć ulubione?</translation>
+        <source>How do I create favorites?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="100"/>
-        <source>To add music to your favourites, tap and hold a music track you love. Then select &apos;Favourite&apos;.</source>
-        <translation>By dodać muzykę do ulubionych, przytrzymaj ścieżkę i wybierz &quot;Dodaj do ulubionych&quot;.</translation>
+        <location filename="../../main.qml" line="101"/>
+        <source>To add music to your favorites, tap and hold a music track you love. Then select &apos;%1&apos;.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="651"/>
+        <location filename="../../main.qml" line="695"/>
         <source>Artist name</source>
         <translation>Nazwa wykonawcy</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="659"/>
+        <location filename="../../main.qml" line="703"/>
         <source>Track name</source>
         <translation>Nazwa utworu</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="673"/>
+        <location filename="../../main.qml" line="717"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>Jeśli go usuniesz, zostanie na trwałe usunięty z urządzenia</translation>
     </message>
-    <message>
-        <location filename="../../main.qml" line="686"/>
-        <source>Permanently delete this song?</source>
-        <translation>Trwale usunąć ten utwór?</translation>
+    <message numerus="yes">
+        <location filename="../../main.qml" line="731"/>
+        <source>Permanently delete these %n song(s)?</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="686"/>
-        <source>Permanently delete these %1 songs?</source>
-        <translation>Trwale usunąć %1 utworów?</translation>
-    </message>
-    <message>
-        <location filename="../../main.qml" line="699"/>
+        <location filename="../../main.qml" line="744"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>Jeśli je usuniesz, zostaną na trwałe usunięte z urządzenia</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="746"/>
-        <location filename="../../main.qml" line="789"/>
+        <location filename="../../main.qml" line="791"/>
+        <location filename="../../main.qml" line="834"/>
         <source>Invalid characters: %1</source>
         <translation>Nieprawidłowe znaki: %1</translation>
     </message>
-    <message>
-        <location filename="../../main.qml" line="1853"/>
-        <location filename="../../main.qml" line="2152"/>
-        <source>%1 songs</source>
-        <translation>%1 utworów</translation>
+    <message numerus="yes">
+        <location filename="../../main.qml" line="1989"/>
+        <location filename="../../main.qml" line="2312"/>
+        <source>%n song(s)</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
 </context>
 </TS>

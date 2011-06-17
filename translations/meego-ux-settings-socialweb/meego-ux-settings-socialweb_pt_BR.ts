@@ -73,8 +73,9 @@
         <translation>Você saiu com sucesso. O conteúdo deste serviço não será mais exibido neste dispositivo</translation>
     </message>
     <message>
-        <location filename="../../qml/constants.js" line="24"/>
+        <location filename="../../qml/constants.js" line="25"/>
         <source>This service supports sharing only</source>
+        <extracomment>Denotes a social networking service that only plugs in to the sharing framework for media sharing, and doesn't provide content on the Friends panel</extracomment>
         <translation>Este serviço suporta apenas compartilhamento</translation>
     </message>
 </context>

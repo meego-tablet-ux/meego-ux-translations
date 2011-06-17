@@ -2,12 +2,12 @@
 <context>
     <name>PhotoDatabase</name>
     <message>
-        <location filename="../../lib/photodatabase.cpp" line="142"/>
+        <location filename="../../lib/photodatabase.cpp" line="191"/>
         <source>Today</source>
         <translation>Vandaag</translation>
     </message>
     <message>
-        <location filename="../../lib/photodatabase.cpp" line="144"/>
+        <location filename="../../lib/photodatabase.cpp" line="193"/>
         <source>Yesterday</source>
         <translation>Gisteren</translation>
     </message>

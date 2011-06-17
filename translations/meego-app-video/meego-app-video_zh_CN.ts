@@ -2,38 +2,38 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="20"/>
+        <location filename="../../main.qml" line="21"/>
         <source>Videos</source>
         <translation>视频</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="21"/>
+        <location filename="../../main.qml" line="22"/>
         <source>All</source>
         <translation>全部</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="22"/>
+        <location filename="../../main.qml" line="23"/>
         <source>Recently added</source>
         <translation>最近新添的</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="23"/>
+        <location filename="../../main.qml" line="24"/>
         <source>Recently viewed</source>
         <translation>最近浏览</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="24"/>
+        <location filename="../../main.qml" line="25"/>
         <source>Unwatched</source>
         <translation>未观看的</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="25"/>
+        <location filename="../../main.qml" line="26"/>
         <source>Favorites</source>
         <translation>至爱</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
-        <location filename="../../main.qml" line="39"/>
+        <location filename="../../main.qml" line="36"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
@@ -43,34 +43,35 @@
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="35"/>
+        <location filename="../../main.qml" line="30"/>
         <source>Play</source>
         <translation>播放</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="36"/>
+        <location filename="../../main.qml" line="32"/>
         <source>Favorite</source>
-        <translation>至爱</translation>
+        <comment>Verb</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="37"/>
+        <location filename="../../main.qml" line="34"/>
         <source>Unfavorite</source>
         <translation>至厌</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="38"/>
+        <location filename="../../main.qml" line="35"/>
         <source>Share</source>
         <translation>分享</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="40"/>
+        <location filename="../../main.qml" line="37"/>
         <source>Select multiple videos</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <location filename="../../main.qml" line="79"/>
-        <source>All (%1 videos)</source>
-        <translation>全部（%1 个视频）</translation>
+    <message numerus="yes">
+        <location filename="../../main.qml" line="91"/>
+        <source>All (%n video(s))</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
 </context>
 </TS>

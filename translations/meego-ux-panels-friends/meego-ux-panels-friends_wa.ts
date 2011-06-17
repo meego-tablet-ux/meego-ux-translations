@@ -15,45 +15,88 @@
 <context>
     <name>friendspanel</name>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="29"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="30"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="37"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="39"/>
         <source>Friends</source>
-        <translation>Soçons</translation>
+        <comment>PanelTitle</comment>
+        <extracomment>%1 is &quot;Friends&quot; panel title
+----------
+%1 is &quot;Friends&quot; panel title</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="35"/>
-        <source>Friends settings</source>
-        <translation>Tchuzes des soçons</translation>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="37"/>
+        <source>%1 settings</source>
+        <extracomment>%1 is &quot;Friends&quot; panel title</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="36"/>
-        <source>Friends panel content</source>
-        <translation>Ådvins do scriftôr des soçons</translation>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="39"/>
+        <source>%1 panel content</source>
+        <extracomment>%1 is &quot;Friends&quot; panel title</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="129"/>
-        <source>You have no web accounts enabled - tap here to configure your web accounts.</source>
-        <translation>Vos n&apos; avoz pont d&apos; conte waibe èn alaedje - tapez cial pos apontyî vosse conte waibe.</translation>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="127"/>
+        <source>Emails, instant messages and social network updates will appear here.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="139"/>
-        <source>Tap here!</source>
-        <translation>Tapez cial !</translation>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="162"/>
+        <source>No recent updates from friends.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="200"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="241"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="172"/>
+        <source>You have turned off all your accounts.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="177"/>
+        <source>Turn accounts on</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="229"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="279"/>
         <source>View</source>
         <translation>Vey</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="203"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="239"/>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="241"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="232"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="277"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="279"/>
         <source>Hide</source>
         <translation>Catchî</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="368"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="257"/>
+        <source>You have cleared the Friends history</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="315"/>
+        <source>Set up your email</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="319"/>
+        <source>Set up your instant messaging</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="323"/>
+        <source>Sign in to a social network</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="377"/>
+        <source>Clear history</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="440"/>
         <source>Go to settings</source>
         <translation>Potchî ås apontiaedjes</translation>
     </message>

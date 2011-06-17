@@ -1,31 +1,5 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="zh_TW" version="2.0">
 <context>
-    <name>alarm</name>
-    <message>
-        <location filename="../../alarm.qml" line="32"/>
-        <source>Alarm</source>
-        <translation>鬧鈴</translation>
-    </message>
-    <message>
-        <location filename="../../alarm.qml" line="33"/>
-        <source>Snooze</source>
-        <translation>貪睡</translation>
-    </message>
-</context>
-<context>
-    <name>hardnotification</name>
-    <message>
-        <location filename="../../hardnotification.qml" line="21"/>
-        <source>Decline</source>
-        <translation>拒絕</translation>
-    </message>
-    <message>
-        <location filename="../../hardnotification.qml" line="22"/>
-        <source>Accept</source>
-        <translation>接受</translation>
-    </message>
-</context>
-<context>
     <name>statusindicatormenu</name>
     <message>
         <location filename="../../statusindicatormenu.qml" line="182"/>

@@ -73,9 +73,10 @@
         <translation>لقد قمت بتسجيل الخروج بنجاح. محتوى هذه الخدمة لم يعد يظهر على هذا الجهاز</translation>
     </message>
     <message>
-        <location filename="../../qml/constants.js" line="24"/>
+        <location filename="../../qml/constants.js" line="25"/>
         <source>This service supports sharing only</source>
-        <translation type="unfinished"/>
+        <extracomment>Denotes a social networking service that only plugs in to the sharing framework for media sharing, and doesn't provide content on the Friends panel</extracomment>
+        <translation>هذه الخدمة تدعم المشاركة فقط</translation>
     </message>
 </context>
 </TS>

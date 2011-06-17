@@ -1,13 +1,5 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="nl" version="2.0">
 <context>
-    <name>BackPanelClearButton</name>
-    <message>
-        <location filename="../../panellib/Panels/BackPanelClearButton.qml" line="22"/>
-        <source>Clear history</source>
-        <translation>Geschiedenis wissen</translation>
-    </message>
-</context>
-<context>
     <name>BackPanelGeneric</name>
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="43"/>

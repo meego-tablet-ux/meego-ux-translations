@@ -73,8 +73,9 @@
         <translation>Ha cerrado la sesión exitosamente.  El contenido de este servicio ya no aparecerá en este dispositivo.</translation>
     </message>
     <message>
-        <location filename="../../qml/constants.js" line="24"/>
+        <location filename="../../qml/constants.js" line="25"/>
         <source>This service supports sharing only</source>
+        <extracomment>Denotes a social networking service that only plugs in to the sharing framework for media sharing, and doesn't provide content on the Friends panel</extracomment>
         <translation>Este servicio sólo soporta compartimento</translation>
     </message>
 </context>

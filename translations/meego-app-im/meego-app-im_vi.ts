@@ -1,169 +1,5 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="vi" version="2.0">
 <context>
-    <name>AccountContent</name>
-    <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="147"/>
-        <source>Multiple accounts connected</source>
-        <translation>Nhiều tài khoản kết nối</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="148"/>
-        <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation>Bạn có thực sự muốn kết nối tài khoản này? Bằng cách này tất cả các tài khoản  %1 sẽ bị ngắt kết nối.</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="219"/>
-        <source>There is already an account configured using this login. Please check your username.</source>
-        <translation>Đã có một tài khoản được cấu hình sử dụng đăng nhập. Hãy kiểm tra tên người dùng của bạn.</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="220"/>
-        <source>Sorry, there was a problem logging in. Please check your username and password.</source>
-        <translation>Xin lỗi, có vấn đề khi đăng nhập Hãy kiểm tra tên người dùng và mật khẩu của bạn.</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="235"/>
-        <source>Username:</source>
-        <translation>Tên đăng nhập:</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="246"/>
-        <source>Name / ID</source>
-        <translation>Tên / ID</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="254"/>
-        <source>Password:</source>
-        <translation>Mật khẩu:</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="266"/>
-        <source>Password</source>
-        <translation>Mật khẩu</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/AccountContent.qml" line="283"/>
-        <source>Advanced settings</source>
-        <translation>Cài đặt nâng cao</translation>
-    </message>
-</context>
-<context>
-    <name>AccountContentDialog</name>
-    <message>
-        <location filename="../../plugin/IM/AccountContentDialog.qml" line="110"/>
-        <source>Done</source>
-        <translation>Xong</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/AccountContentDialog.qml" line="129"/>
-        <source>Cancel</source>
-        <translation>Huỷ</translation>
-    </message>
-</context>
-<context>
-    <name>AccountDelegate</name>
-    <message>
-        <location filename="../../AccountDelegate.qml" line="120"/>
-        <source>Multiple accounts connected</source>
-        <translation>Nhiều tài khoản kết nối</translation>
-    </message>
-    <message>
-        <location filename="../../AccountDelegate.qml" line="121"/>
-        <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation>Bạn có thực sự muốn kết nối tài khoản này? Bằng cách này tất cả các tài khoản %1 sẽ bị ngắt kết nối.</translation>
-    </message>
-    <message>
-        <location filename="../../AccountDelegate.qml" line="184"/>
-        <source>Log out</source>
-        <translation>Đăng xuất</translation>
-    </message>
-    <message>
-        <location filename="../../AccountDelegate.qml" line="186"/>
-        <source>Log in to %1</source>
-        <translation>Đăng nhập vào %1</translation>
-    </message>
-    <message>
-        <location filename="../../AccountDelegate.qml" line="188"/>
-        <source>Settings</source>
-        <translation>Cài đặt</translation>
-    </message>
-</context>
-<context>
-    <name>AccountScreenContent</name>
-    <message>
-        <location filename="../../AccountScreenContent.qml" line="15"/>
-        <source>Account list</source>
-        <translation>Danh sách tài khoản</translation>
-    </message>
-    <message>
-        <location filename="../../AccountScreenContent.qml" line="60"/>
-        <source>Loading accounts...</source>
-        <translation>Đang tải các tài khoản ...</translation>
-    </message>
-    <message>
-        <location filename="../../AccountScreenContent.qml" line="72"/>
-        <source>Choose an account</source>
-        <translation>Chọn một tài khoản</translation>
-    </message>
-    <message>
-        <location filename="../../AccountScreenContent.qml" line="102"/>
-        <source>Add an account</source>
-        <translation>Thêm một tài khoản</translation>
-    </message>
-</context>
-<context>
-    <name>AccountSetupBar</name>
-    <message>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="39"/>
-        <source>Update</source>
-        <translation>Cập nhật</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="55"/>
-        <source>Cancel</source>
-        <translation>Huỷ</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="80"/>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="100"/>
-        <source>Delete account</source>
-        <translation>Xóa tài khoản</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/AccountSetupBar.qml" line="98"/>
-        <source>Are you sure to delete this account?</source>
-        <translation>Bạn chắc chắn muốn xóa tài khoản này?</translation>
-    </message>
-</context>
-<context>
-    <name>AddAFriend</name>
-    <message>
-        <location filename="../../AddAFriend.qml" line="52"/>
-        <source>Friend&apos;s username</source>
-        <translation>Tên người dùng của bạn bè</translation>
-    </message>
-    <message>
-        <location filename="../../AddAFriend.qml" line="73"/>
-        <source>Send</source>
-        <translation>Gửi</translation>
-    </message>
-    <message>
-        <location filename="../../AddAFriend.qml" line="91"/>
-        <source>Sending request</source>
-        <translation>Gửi yêu cầu</translation>
-    </message>
-    <message>
-        <location filename="../../AddAFriend.qml" line="100"/>
-        <source>Request sent</source>
-        <translation>Yêu cầu đã gửi</translation>
-    </message>
-    <message>
-        <location filename="../../AddAFriend.qml" line="118"/>
-        <source>Your device is not connected to a network. Please connect and try again.</source>
-        <translation>Điện thoại của bạn không được kết nối mạng. Xin vui lòng kết nối và thử lại.</translation>
-    </message>
-</context>
-<context>
     <name>AddContactHelper</name>
     <message>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="115"/>
@@ -180,78 +16,93 @@
 <context>
     <name>CallAgent</name>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="116"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="119"/>
         <source>Unable to create media call for contact %1</source>
         <translation>Không thể tạo cuộc gọi đến %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="165"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="174"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="172"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="181"/>
         <source>Error ending call</source>
         <translation>Lỗi kết thúc cuộc gọi</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="199"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="941"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="206"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1116"/>
         <source>Call could not be accepted</source>
         <translation>Gọi không được chấp nhận</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="373"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="490"/>
         <source>Unable to set hold</source>
         <translation>Không thể giữ cuộc gọi</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="473"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="636"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="590"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="811"/>
         <source>Channel not available</source>
         <translation>Kênh không có sẵn</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="571"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="745"/>
         <source>Unable to create call channel for contact %1</source>
         <translation>Không thể tạo kênh gọi cho %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="899"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1074"/>
         <source>Unable to create channel: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Không thể tạo kênh: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="914"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1089"/>
         <source>Unable to create channel</source>
         <translation>Không thể tạo kênh</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="929"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1104"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>Không thể tạo kênh gọi cho %1 -%2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="986"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1161"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>Vô hiệu kênh gọi cho %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1259"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1487"/>
         <source>Error ending call: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Lỗi kết thúc cuộc gọi: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1274"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1502"/>
         <source>Call could not be accepted %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Gọi không thể chấp nhận %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1290"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1518"/>
         <source>Hold request could not be done %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Tổ chức yêu cầu không thể được thực hiện %1 - %2</translation>
+    </message>
+    <message>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1686"/>
+        <source>Call resources were lost</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1695"/>
+        <source>Call resources not granted</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1704"/>
+        <source>Error acquiring call resources</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -307,248 +158,6 @@
     </message>
 </context>
 <context>
-    <name>ConfirmationDialog</name>
-    <message>
-        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="18"/>
-        <source>Yes</source>
-        <translation>Có</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/ConfirmationDialog.qml" line="21"/>
-        <source>No</source>
-        <translation>Không</translation>
-    </message>
-</context>
-<context>
-    <name>ContactContentMenu</name>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="154"/>
-        <source>Update status</source>
-        <translation>Cập nhật trạng thái</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="209"/>
-        <source>Available</source>
-        <translation>Rỗi</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="214"/>
-        <source>Away</source>
-        <translation>Ở xa</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="219"/>
-        <source>Busy</source>
-        <translation>Bận</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="224"/>
-        <source>Invisible</source>
-        <translation>Ẩn</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="229"/>
-        <source>Offline</source>
-        <translation>Không online</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="240"/>
-        <source>Your Status:</source>
-        <translation>Tình trạng của bạn:</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="318"/>
-        <source>Custom status message</source>
-        <translation>Tùy chỉnh thông báo trạng thái</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="343"/>
-        <location filename="../../ContactContentMenu.qml" line="471"/>
-        <source>Update</source>
-        <translation>Cập nhật</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="358"/>
-        <source>Change display name</source>
-        <translation>Thay đổi tên hiển thị</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="452"/>
-        <source>Display name</source>
-        <translation>Hiển thị tên</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="491"/>
-        <source>Add a friend</source>
-        <translation>Thêm  bạn</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="563"/>
-        <source>Clear chat history</source>
-        <translation>Xoá lịch sử trò chuyện</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="576"/>
-        <source>Log in</source>
-        <translation>Đăng nhập</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="576"/>
-        <source>Log out</source>
-        <translation>Đăng xuất</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="636"/>
-        <source>Multiple accounts connected</source>
-        <translation>Nhiều tài khoản kết nối</translation>
-    </message>
-    <message>
-        <location filename="../../ContactContentMenu.qml" line="637"/>
-        <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation>Bạn có thực sự muốn kết nối tài khoản này? Bằng cách này tất cả các tài khoản %1 sẽ bị ngắt kết nối.</translation>
-    </message>
-</context>
-<context>
-    <name>ContactDelegate</name>
-    <message>
-        <location filename="../../ContactDelegate.qml" line="85"/>
-        <source>Return to chat</source>
-        <translation>Quay trở lại để chat</translation>
-    </message>
-    <message>
-        <location filename="../../ContactDelegate.qml" line="86"/>
-        <source>Open chat</source>
-        <translation>Mở chat</translation>
-    </message>
-    <message>
-        <location filename="../../ContactDelegate.qml" line="98"/>
-        <source>Call</source>
-        <translation>Gọi</translation>
-    </message>
-    <message>
-        <location filename="../../ContactDelegate.qml" line="110"/>
-        <source>Video call</source>
-        <translation>Gọi có hình</translation>
-    </message>
-    <message>
-        <location filename="../../ContactDelegate.qml" line="122"/>
-        <source>Unblock</source>
-        <translation>Bỏ chặn</translation>
-    </message>
-    <message>
-        <location filename="../../ContactDelegate.qml" line="123"/>
-        <source>Block</source>
-        <translation>Chặn</translation>
-    </message>
-    <message>
-        <location filename="../../ContactDelegate.qml" line="139"/>
-        <source>End chat</source>
-        <translation>Kết thúc chat</translation>
-    </message>
-    <message>
-        <location filename="../../ContactDelegate.qml" line="151"/>
-        <source>Delete contact</source>
-        <translation>Xoá liên hệ</translation>
-    </message>
-</context>
-<context>
-    <name>ContactPickerContent</name>
-    <message>
-        <location filename="../../ContactPickerContent.qml" line="43"/>
-        <source>Add contacts to chat</source>
-        <translation>Thêm địa chỉ liên hệ để chat</translation>
-    </message>
-    <message>
-        <location filename="../../ContactPickerContent.qml" line="126"/>
-        <source>Add</source>
-        <translation>Thêm</translation>
-    </message>
-    <message>
-        <location filename="../../ContactPickerContent.qml" line="157"/>
-        <source>Cancel</source>
-        <translation>Huỷ</translation>
-    </message>
-</context>
-<context>
-    <name>ContactPickerDelegate</name>
-    <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="129"/>
-        <source>Available</source>
-        <translation>Rỗi</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="131"/>
-        <source>Busy</source>
-        <translation>Bận</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="133"/>
-        <source>Away</source>
-        <translation>Ở xa</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="135"/>
-        <source>Extended away</source>
-        <translation>Ở rất xa</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="137"/>
-        <source>Offline</source>
-        <translation>Không online</translation>
-    </message>
-    <message>
-        <location filename="../../plugin/IM/ContactPickerDelegate.qml" line="139"/>
-        <source>Invisible</source>
-        <translation>Ẩn</translation>
-    </message>
-</context>
-<context>
-    <name>ContactRequestDelegate</name>
-    <message>
-        <location filename="../../ContactRequestDelegate.qml" line="45"/>
-        <source>Friend request from</source>
-        <translation>Yêu cầu kết bạn từ</translation>
-    </message>
-    <message>
-        <location filename="../../ContactRequestDelegate.qml" line="73"/>
-        <source>Accept</source>
-        <translation>Chấp nhận</translation>
-    </message>
-    <message>
-        <location filename="../../ContactRequestDelegate.qml" line="90"/>
-        <source>Cancel</source>
-        <translation>Huỷ</translation>
-    </message>
-</context>
-<context>
-    <name>ContactsScreenContent</name>
-    <message>
-        <location filename="../../ContactsScreenContent.qml" line="176"/>
-        <source>Add a friend</source>
-        <translation>Thêm bạn</translation>
-    </message>
-    <message>
-        <location filename="../../ContactsScreenContent.qml" line="205"/>
-        <source>Loading contacts...</source>
-        <translation>Đang tải địa chỉ liên lạc ...</translation>
-    </message>
-    <message>
-        <location filename="../../ContactsScreenContent.qml" line="210"/>
-        <source>You haven&apos;t added any friends yet</source>
-        <translation>Bạn chưa có bạn bè nào</translation>
-    </message>
-    <message>
-        <location filename="../../ContactsScreenContent.qml" line="234"/>
-        <source>Account is offline</source>
-        <translation>Tài khoản không online</translation>
-    </message>
-    <message>
-        <location filename="../../ContactsScreenContent.qml" line="236"/>
-        <source>Account is connecting...</source>
-        <translation>Tài khoản đang kết nối ...</translation>
-    </message>
-</context>
-<context>
     <name>FileTransferAgent</name>
     <message>
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="54"/>
@@ -561,44 +170,6 @@
         <source>Invalidated file transfer channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>Kênh truyền tập tin vô hiệu cho %1 - %2 - %3</translation>
-    </message>
-</context>
-<context>
-    <name>FileTransferDelegate</name>
-    <message>
-        <location filename="../../FileTransferDelegate.qml" line="178"/>
-        <source>Open</source>
-        <translation>Mở</translation>
-    </message>
-    <message>
-        <location filename="../../FileTransferDelegate.qml" line="202"/>
-        <source>There was a problem downloading</source>
-        <translation>Có một vấn đề khi tải về</translation>
-    </message>
-    <message>
-        <location filename="../../FileTransferDelegate.qml" line="204"/>
-        <source>There was a problem uploading</source>
-        <translation>Có vấn đề khi tải lên</translation>
-    </message>
-    <message>
-        <location filename="../../FileTransferDelegate.qml" line="207"/>
-        <source>Canceled</source>
-        <translation>Bị hủy bỏ</translation>
-    </message>
-    <message>
-        <location filename="../../FileTransferDelegate.qml" line="231"/>
-        <source>Save</source>
-        <translation>Lưu</translation>
-    </message>
-    <message>
-        <location filename="../../FileTransferDelegate.qml" line="245"/>
-        <source>Decline</source>
-        <translation>Từ chối</translation>
-    </message>
-    <message>
-        <location filename="../../FileTransferDelegate.qml" line="269"/>
-        <source>Cancel</source>
-        <translation>Huỷ</translation>
     </message>
 </context>
 <context>
@@ -644,47 +215,47 @@
         <translation>%1 đang gọi cho bạn</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="384"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="385"/>
         <source>Setting up call to %1</source>
         <translation>Thiết lập cuộc gọi đến %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="387"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="388"/>
         <source>Calling %1</source>
         <translation>Gọi %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="390"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="391"/>
         <source>Call with %1 started</source>
         <translation>Cuộc gọi với %1 bắt đầu</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="393"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="394"/>
         <source>Call with %1 on hold</source>
         <translation>Đang giữ cuộc gọi với %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="453"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="454"/>
         <source>Error in call with %1</source>
         <translation>Lỗi trong cuộc gọi với %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="481"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="482"/>
         <source>%1 bytes</source>
         <translation>%1 byte</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="485"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="486"/>
         <source>%1 KB</source>
         <translation>%1 kB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="489"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="490"/>
         <source>%1 MB</source>
         <translation>%1 MB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="493"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="494"/>
         <source>%1 GB</source>
         <translation>%1 GB</translation>
     </message>
@@ -706,6 +277,14 @@
         <source>Incoming file transfer from %1</source>
         <translation>Tập tin chuyển đến từ %1</translation>
     </message>
+    <message>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="542"/>
+        <source>has been added as contact</source>
+        <extracomment>Message indicating the contact has been added
+----------
+Message indicating the contact has been added</extracomment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>IMGroupChatModelItem</name>
@@ -723,37 +302,42 @@
         <translation>Cài đặt tin nhắn tức thì</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="105"/>
+        <location filename="../../settings/ImSettings.qml" line="107"/>
         <source>Accounts</source>
         <translation>Tài khoản</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="134"/>
+        <location filename="../../settings/ImSettings.qml" line="136"/>
         <source>Add another account</source>
         <translation>Thêm một tài khoản khác</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="151"/>
+        <location filename="../../settings/ImSettings.qml" line="137"/>
+        <source>Add an account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../settings/ImSettings.qml" line="154"/>
         <source>General Settings</source>
         <translation>Thiết lập chung</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="173"/>
+        <location filename="../../settings/ImSettings.qml" line="176"/>
         <source>Show offline contacts</source>
         <translation>Hiện liên lạc không online</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="211"/>
+        <location filename="../../settings/ImSettings.qml" line="214"/>
         <source>Notification on new message</source>
         <translation>Thông báo tin nhắn mới</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="248"/>
+        <location filename="../../settings/ImSettings.qml" line="251"/>
         <source>Clear chat history</source>
         <translation>Xoá lịch sử trò chuyện</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="272"/>
+        <location filename="../../settings/ImSettings.qml" line="275"/>
         <source>Blocked contacts</source>
         <translation>Địa chỉ liên hệ bị chặn</translation>
     </message>
@@ -787,300 +371,694 @@
     </message>
 </context>
 <context>
-    <name>Message indicating the contact has been added</name>
-    <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="541"/>
-        <source>has been added as contact</source>
-        <translation>đã được thêm vào danh sách liên hệ</translation>
-    </message>
-</context>
-<context>
-    <name>MessageContactDelegate</name>
-    <message>
-        <location filename="../../MessageContactDelegate.qml" line="50"/>
-        <source>Private chat</source>
-        <translation>Chat riêng</translation>
-    </message>
-    <message>
-        <location filename="../../MessageContactDelegate.qml" line="54"/>
-        <source>Add to contacts</source>
-        <translation>Thêm vào địa chỉ liên hệ</translation>
-    </message>
-</context>
-<context>
-    <name>MessageContentMenu</name>
-    <message>
-        <location filename="../../MessageContentMenu.qml" line="55"/>
-        <source>Add contacts to chat</source>
-        <translation>Thêm địa chỉ liên hệ vào chat</translation>
-    </message>
-    <message>
-        <location filename="../../MessageContentMenu.qml" line="72"/>
-        <source>Clear chat history</source>
-        <translation>Xoá lịch sử trò chuyện</translation>
-    </message>
-    <message>
-        <location filename="../../MessageContentMenu.qml" line="91"/>
-        <source>End chat</source>
-        <translation>Kết thúc chat</translation>
-    </message>
-</context>
-<context>
-    <name>MessageDelegate</name>
-    <message>
-        <location filename="../../MessageDelegate.qml" line="109"/>
-        <source>(%1)</source>
-        <translation>(%1)</translation>
-    </message>
-    <message>
-        <location filename="../../MessageDelegate.qml" line="125"/>
-        <source>Upload canceled:</source>
-        <translation>Tải lên đã bị:</translation>
-    </message>
-    <message>
-        <location filename="../../MessageDelegate.qml" line="127"/>
-        <source>Sent:</source>
-        <translation>Gửi:</translation>
-    </message>
-    <message>
-        <location filename="../../MessageDelegate.qml" line="129"/>
-        <source>Uploading:</source>
-        <translation>Tải lên:</translation>
-    </message>
-    <message>
-        <location filename="../../MessageDelegate.qml" line="133"/>
-        <source>%1 has sent you:</source>
-        <translation>%1 đã gửi cho bạn:</translation>
-    </message>
-    <message>
-        <location filename="../../MessageDelegate.qml" line="135"/>
-        <source>%1 is sending you:</source>
-        <translation>%1 đang gửi cho bạn:</translation>
-    </message>
-    <message>
-        <location filename="../../MessageDelegate.qml" line="148"/>
-        <location filename="../../MessageDelegate.qml" line="153"/>
-        <source>%1 - %2</source>
-        <extracomment>%1 is event decsribing what happened - %2 is date and time
-----------
-%1 is event of what happened - %2 is date and time</extracomment>
-        <translation>%1 - %2</translation>
-    </message>
-    <message>
-        <location filename="../../MessageDelegate.qml" line="177"/>
-        <source>%1 tried to call - %2</source>
-        <extracomment>%1 contact id who called - %2 date time of the call</extracomment>
-        <translation>%1 đã cố gắng để gọi - %2</translation>
-    </message>
-    <message>
-        <location filename="../../MessageDelegate.qml" line="180"/>
-        <source>%1 rejected call - %2</source>
-        <extracomment>%1 contact id who rejected the call - %2 date time of the call</extracomment>
-        <translation>%1 từ chối cuộc gọi - %2</translation>
-    </message>
-    <message>
-        <location filename="../../MessageDelegate.qml" line="183"/>
-        <source>%1 called - duration %2 - %3</source>
-        <extracomment>%1 contact id who called - %2 duration of the call - %3 date time of the call</extracomment>
-        <translation>%1 được gọi - trong thời gian %2 - %3</translation>
-    </message>
-</context>
-<context>
-    <name>MessageScreenContent</name>
-    <message>
-        <location filename="../../MessageScreenContent.qml" line="173"/>
-        <source>Opening chat...</source>
-        <translation>Mở trò chuyện ...</translation>
-    </message>
-    <message>
-        <location filename="../../MessageScreenContent.qml" line="184"/>
-        <source>Loading conversation history...</source>
-        <translation>Tải lịch sử cuộc trò chuyện ...</translation>
-    </message>
-    <message>
-        <location filename="../../MessageScreenContent.qml" line="332"/>
-        <source>Send</source>
-        <translation>Gửi</translation>
-    </message>
-    <message>
-        <location filename="../../MessageScreenContent.qml" line="518"/>
-        <source>Group conversation</source>
-        <translation>Nhóm hội thoại</translation>
-    </message>
-    <message>
-        <location filename="../../MessageScreenContent.qml" line="522"/>
-        <source>Chat with %1</source>
-        <translation>Chat với %1</translation>
-    </message>
-</context>
-<context>
-    <name>NoNetworkHeader</name>
-    <message>
-        <location filename="../../NoNetworkHeader.qml" line="38"/>
-        <source>Your device is not connected to a network. To chat with your contacts, you need to connect to a network.</source>
-        <translation>Điện thoại của bạn không được kết nối mạng. Để chat với  bạn bè, bạn cần phải kết nối với mạng.</translation>
-    </message>
-</context>
-<context>
     <name>NotificationManager</name>
     <message>
-        <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="130"/>
+        <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="131"/>
         <source>%1 is sending you the file %2</source>
         <translation>%1 là gửi file %2</translation>
-    </message>
-    <message>
-        <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="143"/>
-        <source>%1 is calling you</source>
-        <translation>%1 đang gọi bạn</translation>
-    </message>
-</context>
-<context>
-    <name>PictureChangeMenu</name>
-    <message>
-        <location filename="../../PictureChangeMenu.qml" line="108"/>
-        <source>Change your picture:</source>
-        <translation>Thay đổi hình ảnh của bạn:</translation>
-    </message>
-    <message>
-        <location filename="../../PictureChangeMenu.qml" line="115"/>
-        <source>Take picture</source>
-        <translation>Chụp ảnh</translation>
-    </message>
-    <message>
-        <location filename="../../PictureChangeMenu.qml" line="122"/>
-        <source>Choose picture</source>
-        <translation>Chọn hình ảnh</translation>
     </message>
 </context>
 <context>
     <name>SearchHeader</name>
-    <message>
-        <location filename="../../SearchHeader.qml" line="48"/>
-        <source>%1 matches found</source>
-        <translation>%1 kết quả phù hợp</translation>
-    </message>
-    <message>
-        <location filename="../../SearchHeader.qml" line="73"/>
-        <source>Older</source>
-        <translation>Cũ hơn</translation>
-    </message>
-    <message>
-        <location filename="../../SearchHeader.qml" line="86"/>
-        <source>Newer</source>
-        <translation>Mới hơn</translation>
+    <message numerus="yes">
+        <location filename="../../SearchHeader.qml" line="50"/>
+        <source>%n matches found</source>
+        <extracomment>%n is the number of items matching the search criteria</extracomment>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
 </context>
 <context>
-    <name>SendFileView</name>
+    <name>StatusModel</name>
     <message>
-        <location filename="../../SendFileView.qml" line="59"/>
-        <source>Send:</source>
-        <translation>Gửi:</translation>
+        <location filename="../../StatusModel.qml" line="9"/>
+        <source>Available</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="70"/>
-        <source>Photo</source>
-        <translation>Ảnh</translation>
+        <location filename="../../StatusModel.qml" line="14"/>
+        <source>Away</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="83"/>
-        <source>Video</source>
-        <translation>Video</translation>
+        <location filename="../../StatusModel.qml" line="19"/>
+        <source>Busy</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="96"/>
-        <source>Music</source>
-        <translation>Âm nhạc</translation>
+        <location filename="../../StatusModel.qml" line="24"/>
+        <source>Invisible</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../SendFileView.qml" line="109"/>
-        <source>Contact Details</source>
-        <translation>Chi tiết liên lạc</translation>
+        <location filename="../../StatusModel.qml" line="29"/>
+        <source>Offline</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>TelepathyManager</name>
     <message>
-        <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="258"/>
+        <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="265"/>
         <source>%1 - %2</source>
         <extracomment>%1 is the display name for contact - %2 is the service name</extracomment>
         <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
-    <name>VideoWindow</name>
+    <name>constants</name>
     <message>
-        <location filename="../../VideoWindow.qml" line="165"/>
+        <location filename="../../constants.js" line="4"/>
+        <source>Multiple accounts connected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="5"/>
+        <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="6"/>
+        <location filename="../../constants.js" line="35"/>
+        <source>Log out</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="7"/>
+        <source>Log in to %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="8"/>
+        <source>Settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="11"/>
+        <source>Account list</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="12"/>
+        <source>Loading accounts...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="13"/>
+        <source>Choose an account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="14"/>
+        <source>Add an account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="15"/>
+        <source>Your account has been added</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="18"/>
+        <source>Friend&apos;s username</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="19"/>
+        <location filename="../../constants.js" line="104"/>
+        <source>Send</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="20"/>
+        <source>Sending request</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="21"/>
+        <source>Request sent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="22"/>
+        <source>Your device is not connected to a network. Please connect and try again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="25"/>
+        <source>Update status</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="26"/>
+        <source>Your Status:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="27"/>
+        <source>Custom status message</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="28"/>
+        <location filename="../../constants.js" line="31"/>
+        <source>Update</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="29"/>
+        <source>Change display name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="30"/>
+        <source>Display name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="32"/>
+        <location filename="../../constants.js" line="58"/>
+        <source>Add a friend</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="33"/>
+        <location filename="../../constants.js" line="79"/>
+        <source>Clear chat history</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="34"/>
+        <source>Log in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="38"/>
+        <source>Return to chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="39"/>
+        <source>Open chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="40"/>
+        <source>Call</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="41"/>
+        <source>Video call</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="42"/>
+        <source>Unblock</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="43"/>
+        <source>Block</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="44"/>
+        <location filename="../../constants.js" line="80"/>
+        <source>End chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="45"/>
+        <source>Delete contact</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="48"/>
+        <location filename="../../constants.js" line="78"/>
+        <source>Add contacts to chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="49"/>
+        <source>Add</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="50"/>
+        <location filename="../../constants.js" line="55"/>
+        <location filename="../../constants.js" line="71"/>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="53"/>
+        <source>Friend request from</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="54"/>
+        <source>Accept</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="59"/>
+        <source>Loading contacts...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="60"/>
+        <source>You haven&apos;t added any friends yet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="61"/>
+        <source>Account is offline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="62"/>
+        <source>Logging in...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="65"/>
+        <source>Open</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="66"/>
+        <source>There was a problem downloading</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="67"/>
+        <source>There was a problem uploading</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="68"/>
+        <source>Canceled</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="69"/>
+        <source>Save</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="70"/>
+        <source>Decline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="74"/>
+        <source>Private chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="75"/>
+        <source>Add to contacts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="84"/>
+        <source>(%1)</source>
+        <extracomment>%1 is the file size</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="85"/>
+        <source>Upload canceled:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="86"/>
+        <source>Sent:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="87"/>
+        <source>Uploading:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="89"/>
+        <source>%1 has sent you:</source>
+        <extracomment>%1 is the nickname of the contact sending you a file</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="91"/>
+        <source>%1 is sending you:</source>
+        <extracomment>%1 is the nickname of the contact sending you a file</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="93"/>
+        <source>%1 - %2</source>
+        <extracomment>%1 is event describing what happened - %2 is date and time</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="95"/>
+        <source>%1 tried to call - %2</source>
+        <extracomment>%1 contact id who called - %2 date time of the call</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="97"/>
+        <source>%1 rejected call - %2</source>
+        <extracomment>%1 contact id who rejected the call - %2 date time of the call</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="99"/>
+        <source>%1 called - duration %2 - %3</source>
+        <extracomment>%1 contact id who called - %2 duration of the call - %3 date time of the call</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="102"/>
+        <source>Opening chat...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="103"/>
+        <source>Loading conversation history...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="105"/>
+        <source>Group conversation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="107"/>
+        <source>Chat with %1</source>
+        <extracomment>%1 is the nickname of the contact you are chatting with</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="110"/>
+        <source>Sorry, we can&apos;t login because it is not connected to a network. Go to Wireless &amp; Network settings and connect to an available network</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="113"/>
+        <source>Change your picture:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="114"/>
+        <source>Take picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="115"/>
+        <source>Choose picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="118"/>
+        <source>Older</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="119"/>
+        <source>Newer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="122"/>
+        <source>Send:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="123"/>
+        <source>Photo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="124"/>
+        <source>Video</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="125"/>
+        <source>Music</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="126"/>
+        <source>Contact Details</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="130"/>
         <source>Call with %1</source>
-        <translation>Gọi với %1</translation>
+        <extracomment>%1 is the nickname of the contact you are in a call with</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../VideoWindow.qml" line="418"/>
+        <location filename="../../constants.js" line="131"/>
         <source>Minimize me</source>
-        <translation>Thu nhỏ tôi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../VideoWindow.qml" line="418"/>
+        <location filename="../../constants.js" line="132"/>
         <source>Maximize me</source>
-        <translation>Phóng to tôi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../VideoWindow.qml" line="419"/>
+        <location filename="../../constants.js" line="133"/>
         <source>Disable camera</source>
-        <translation>Vô hiệu hoá máy ảnh</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../VideoWindow.qml" line="419"/>
+        <location filename="../../constants.js" line="134"/>
         <source>Enable camera</source>
-        <translation>Kích hoạt máy ảnh</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../VideoWindow.qml" line="420"/>
+        <location filename="../../constants.js" line="135"/>
         <source>Swap camera</source>
-        <translation>Trao đổi máy ảnh</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="138"/>
+        <source>Chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="139"/>
+        <source>Account switcher</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="140"/>
+        <source>Available</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="141"/>
+        <source>Busy</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="142"/>
+        <source>Away</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="143"/>
+        <source>Extended away</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="144"/>
+        <source>Offline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="145"/>
+        <source>Invisible</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="149"/>
+        <source>Sorry, there was a problem logging in. Please retype your username and password.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="150"/>
+        <source>Sorry, there was a problem logging in to %1. Please go to Settings and retype your username and password.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="151"/>
+        <source>Sorry, there was a problem logging in. Please go to Settings and retype your username and password.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="152"/>
+        <source>Sorry, there was a problem logging in to %1. Please try again later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="153"/>
+        <source>Sorry, there was a problem logging in. Please try again later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="154"/>
+        <source>It looks like you have logged in to %1 from somewhere else, so we have logged you out from this tablet. Try logging in again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="155"/>
+        <source>It looks like you have logged in to this account from somewhere else, so we have logged you out from this tablet. Try logging in again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="156"/>
+        <source>Sorry, there was a problem logging in. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="157"/>
+        <source>Sorry, there was a problem logging in to %1. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="158"/>
+        <source>Sorry, there was a problem logging in. Selecting the &apos;Ignore SSL certificate errors&apos; option in the account Advanced settings should solve this problem.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="159"/>
+        <source>Sorry, there was a problem logging in to %1. Selecting the &apos;Ignore SSL certificate errors&apos; option in the account Advanced settings should solve this problem.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
-    <name>main</name>
+    <name>imconstants</name>
     <message>
-        <location filename="../../main.qml" line="17"/>
-        <source>Chat</source>
-        <translation>Chat</translation>
+        <location filename="../../plugin/IM/imconstants.js" line="4"/>
+        <source>Multiple accounts connected</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="459"/>
-        <source>Account switcher</source>
-        <translation>Chuyển tài khoản</translation>
+        <location filename="../../plugin/IM/imconstants.js" line="6"/>
+        <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
+        <extracomment>%1 is the name of the service whose accounts are going to be disconnected, for example: Jabber or Google Talk</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="466"/>
+        <location filename="../../plugin/IM/imconstants.js" line="7"/>
+        <source>There is already an account configured using this login. Please check your username.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="8"/>
+        <source>Sorry, there was a problem logging in. Please check your username and password.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="9"/>
+        <source>Username:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="10"/>
+        <source>Name / ID</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="11"/>
+        <source>Password:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="12"/>
+        <source>Password</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="13"/>
+        <source>Advanced settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="16"/>
+        <source>Done</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="17"/>
+        <location filename="../../plugin/IM/imconstants.js" line="24"/>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="20"/>
+        <source>Add account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="23"/>
+        <source>Update</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="25"/>
+        <location filename="../../plugin/IM/imconstants.js" line="26"/>
+        <source>Delete account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="27"/>
+        <source>Are you sure to delete this account?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="30"/>
+        <source>Yes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="31"/>
+        <source>No</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../plugin/IM/imconstants.js" line="34"/>
         <source>Available</source>
-        <translation>Rỗi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="468"/>
+        <location filename="../../plugin/IM/imconstants.js" line="35"/>
         <source>Busy</source>
-        <translation>Bận</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="470"/>
+        <location filename="../../plugin/IM/imconstants.js" line="36"/>
         <source>Away</source>
-        <translation>Ở xa</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="472"/>
+        <location filename="../../plugin/IM/imconstants.js" line="37"/>
         <source>Extended away</source>
-        <translation>Ở rất xa</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="474"/>
+        <location filename="../../plugin/IM/imconstants.js" line="38"/>
         <source>Offline</source>
-        <translation>Không online</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="476"/>
+        <location filename="../../plugin/IM/imconstants.js" line="39"/>
         <source>Invisible</source>
-        <translation>Ẩn</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

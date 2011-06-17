@@ -2,81 +2,106 @@
 <context>
     <name>photospanel</name>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="53"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="221"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="55"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="162"/>
         <source>Recently viewed</source>
         <translation>Nedavno pregledano</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="54"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="256"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="56"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="233"/>
         <source>Albums</source>
         <translation>Albumi</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="84"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="86"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="92"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="94"/>
         <source>Photos</source>
-        <translation>Fotografije</translation>
+        <comment>PanelTitle</comment>
+        <extracomment>%1 is &quot;Photos&quot; panel title
+----------
+%1 is &quot;Photos&quot; panel title</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="101"/>
-        <source>Photos settings</source>
-        <translation>Postavke fotografija</translation>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="92"/>
+        <source>%1 settings</source>
+        <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="102"/>
-        <source>Photos panel content</source>
-        <translation>Sadržaj ploče sa fotografijama</translation>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="94"/>
+        <source>%1 panel content</source>
+        <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="130"/>
-        <source>See your photos.</source>
-        <translation>Pregledajte fotografije.</translation>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="129"/>
+        <source>View some photos</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="140"/>
-        <source>Open Photos!</source>
-        <translation>Otvori fotografije!</translation>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
+        <source>Clear history</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="161"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="163"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="192"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="195"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="123"/>
+        <source>The latest photos you view and your photo albums will appear here.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="166"/>
+        <source>You have cleared the Photos history</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="206"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="318"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="321"/>
         <source>Open</source>
         <translation>Otvori</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="161"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="170"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="213"/>
         <source>Share</source>
         <translation>Razmijena</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="161"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="167"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="192"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="199"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="210"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="318"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="325"/>
         <source>Hide</source>
         <translation>Sakrij</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="161"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
         <source>Set as background</source>
         <translation>Postavi kao pozadinu</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="276"/>
-        <source>%1 photo</source>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="241"/>
+        <source>You have no photo albums</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="276"/>
-        <source>%1 photos</source>
-        <translation>%1 fotografija</translation>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="246"/>
+        <source>Create an album</source>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <location filename="../../panelsrc/photos/photospanel.qml" line="275"/>
+        <source>%n photo(s)</source>
+        <comment>albumphotocount</comment>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="286"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="285"/>
         <source>Created %1</source>
         <translation>Kreirano %1</translation>
     </message>

@@ -50,37 +50,37 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="59"/>
+        <location filename="../../main.qml" line="80"/>
         <source>Calculator</source>
         <translation>Kalkulagailua</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="91"/>
+        <location filename="../../main.qml" line="117"/>
         <source>C</source>
         <translation>C</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="92"/>
+        <location filename="../../main.qml" line="118"/>
         <source>AC</source>
         <translation>AC</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="99"/>
+        <location filename="../../main.qml" line="125"/>
         <source>mc</source>
         <translation>mc</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="100"/>
+        <location filename="../../main.qml" line="126"/>
         <source>m+</source>
         <translation>m+</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="101"/>
+        <location filename="../../main.qml" line="127"/>
         <source>m-</source>
         <translation>m-</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="102"/>
+        <location filename="../../main.qml" line="128"/>
         <source>mr</source>
         <translation>mr</translation>
     </message>

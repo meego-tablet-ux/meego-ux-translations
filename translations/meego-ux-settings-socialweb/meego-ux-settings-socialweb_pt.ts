@@ -73,8 +73,9 @@
         <translation>Terminou a sessão. Os conteúdos deste serviço já não vão aparecer no painel.</translation>
     </message>
     <message>
-        <location filename="../../qml/constants.js" line="24"/>
+        <location filename="../../qml/constants.js" line="25"/>
         <source>This service supports sharing only</source>
+        <extracomment>Denotes a social networking service that only plugs in to the sharing framework for media sharing, and doesn't provide content on the Friends panel</extracomment>
         <translation>Este serviço só tem suporte a partilha</translation>
     </message>
 </context>

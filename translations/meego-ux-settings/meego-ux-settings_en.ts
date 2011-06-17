@@ -109,13 +109,13 @@
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="98"/>
-        <source>Discoverable</source>
-        <translation>Discoverable</translation>
+        <source>Discoverable (%1)</source>
+        <translation>Discoverable (%1)</translation>
     </message>
-    <message>
+    <message numerus="yes">
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="109"/>
-        <source>Discoverable for %1 seconds</source>
-        <translation>Discoverable for %1 seconds</translation>
+        <source>Discoverable for %1 second(s)</source>
+        <translation><numerusform>Discoverable for %1 second(s)</numerusform><numerusform>Discoverable for %1 second(s)</numerusform></translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="155"/>
@@ -152,116 +152,101 @@
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="87"/>
-        <source>On start up</source>
-        <translation>On start up</translation>
-    </message>
-    <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="99"/>
-        <source>Open New Tab age</source>
-        <translation>Open New Tab age</translation>
-    </message>
-    <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="99"/>
-        <source>Reopen last visited pages</source>
-        <translation>Reopen last visited pages</translation>
-    </message>
-    <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="116"/>
         <source>Default search engine</source>
         <translation>Default search engine</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="151"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="123"/>
         <source>Show bookmarks bar</source>
         <translation>Show bookmarks bar</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="175"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="147"/>
         <source>Offer to save passwords</source>
         <translation>Offer to save passwords</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="198"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="170"/>
         <source>Allow JavaScript</source>
         <translation>Allow JavaScript</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="221"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="193"/>
         <source>Allow Images</source>
         <translation>Allow Images</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="245"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="217"/>
         <source>Allow Cookies</source>
         <translation>Allow Cookies</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="269"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="241"/>
         <source>Block popups</source>
         <translation>Block popups</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="292"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="264"/>
         <source>Use HTTP proxy</source>
         <translation>Use HTTP proxy</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="316"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="288"/>
         <source>HTTP Proxy details</source>
         <translation>HTTP Proxy details</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="383"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="355"/>
         <source>Clear Browsing History</source>
         <translation>Clear Browsing History</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="386"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="358"/>
         <source>Are you sure about clearing the browsing history?</source>
         <translation>Are you sure about clearing the browsing history?</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="395"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="367"/>
         <source>Clear Download History</source>
         <translation>Clear Download History</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="398"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="370"/>
         <source>Are you sure about clearing the download history?</source>
         <translation>Are you sure about clearing the download history?</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="407"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="379"/>
         <source>Clear Cookies</source>
         <translation>Clear Cookies</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="410"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="382"/>
         <source>Are you sure about clearing your cookies?</source>
         <translation>Are you sure about clearing your cookies?</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="419"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="391"/>
         <source>Clear Saved Passwords</source>
         <translation>Clear Saved Passwords</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="422"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="394"/>
         <source>Are you sure about clearing your saved passwords?</source>
         <translation>Are you sure about clearing your saved passwords?</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="431"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="403"/>
         <source>Restore default settings</source>
         <translation>Restore default settings</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="434"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="406"/>
         <source>All browser settings will be reset to factory setting</source>
         <translation>All browser settings will be reset to factory setting</translation>
     </message>
     <message>
-        <location filename="../../Browser/BrowserSettings.qml" line="457"/>
+        <location filename="../../Browser/BrowserSettings.qml" line="429"/>
         <source>Go to Browser</source>
         <translation>Go to Browser</translation>
     </message>
@@ -311,29 +296,6 @@
     </message>
 </context>
 <context>
-    <name>ConfirmDialog</name>
-    <message>
-        <location filename="../../Browser/ConfirmDialog.qml" line="58"/>
-        <source>Confirm Dialog</source>
-        <translation>Confirm Dialog</translation>
-    </message>
-    <message>
-        <location filename="../../Browser/ConfirmDialog.qml" line="72"/>
-        <source>Are you sure?</source>
-        <translation>Are you sure?</translation>
-    </message>
-    <message>
-        <location filename="../../Browser/ConfirmDialog.qml" line="93"/>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <location filename="../../Browser/ConfirmDialog.qml" line="104"/>
-        <source>Cancel</source>
-        <translation>Cancel</translation>
-    </message>
-</context>
-<context>
     <name>ConnectionsSettings</name>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="19"/>
@@ -341,95 +303,95 @@
         <translation>Connections</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="22"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="24"/>
         <source>Ethernet</source>
         <translation>Ethernet</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="23"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="25"/>
         <source>Wi-Fi</source>
         <translation>Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="24"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="26"/>
         <source>Bluetooth</source>
         <translation>Bluetooth</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="25"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="27"/>
         <source>3G</source>
         <translation>3G</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="26"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="28"/>
         <source>WiMAX</source>
         <translation>WiMAX</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="28"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="30"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="261"/>
         <source>WPA</source>
         <translation>WPA</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="29"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="31"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="261"/>
         <source>WPA2</source>
         <translation>WPA2</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="30"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="32"/>
         <source>WEP</source>
         <translation>WEP</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="65"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="69"/>
         <source>Airplane mode</source>
         <translation>Airplane mode</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="98"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="102"/>
         <source>Network connections</source>
         <translation>Network connections</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="197"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="201"/>
         <source>Available networks</source>
         <translation>Available networks</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="206"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="220"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="210"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="224"/>
         <source>Add network</source>
         <translation>Add network</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="234"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="238"/>
         <source>Network name:</source>
         <translation>Network name:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="250"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="254"/>
         <source>Security type:</source>
         <translation>Security type:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="261"/>
         <source>none</source>
         <translation>none</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="257"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="261"/>
         <source>wep</source>
         <translation>wep</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="272"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="276"/>
         <source>Security passphrase:</source>
         <translation>Security passphrase:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="298"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="302"/>
         <source>No networks available</source>
         <translation>No networks available</translation>
     </message>
@@ -437,32 +399,33 @@
 <context>
     <name>GeneralSettings</name>
     <message>
-        <location filename="../../General/GeneralSettings.qml" line="7"/>
+        <location filename="../../General/GeneralSettings.qml" line="9"/>
         <source>General</source>
         <translation>General</translation>
     </message>
     <message>
-        <location filename="../../General/GeneralSettings.qml" line="33"/>
+        <location filename="../../General/GeneralSettings.qml" line="36"/>
         <source>Time and date</source>
         <translation>Time and date</translation>
     </message>
     <message>
-        <location filename="../../General/GeneralSettings.qml" line="49"/>
+        <location filename="../../General/GeneralSettings.qml" line="52"/>
         <source>Sound</source>
         <translation>Sound</translation>
     </message>
     <message>
-        <location filename="../../General/GeneralSettings.qml" line="56"/>
+        <location filename="../../General/GeneralSettings.qml" line="59"/>
         <source>%1%</source>
+        <comment>%1 is volume level percentage</comment>
         <translation>%1%</translation>
     </message>
     <message>
-        <location filename="../../General/GeneralSettings.qml" line="76"/>
+        <location filename="../../General/GeneralSettings.qml" line="79"/>
         <source>Backlight control</source>
         <translation>Backlight control</translation>
     </message>
     <message>
-        <location filename="../../General/GeneralSettings.qml" line="94"/>
+        <location filename="../../General/GeneralSettings.qml" line="97"/>
         <source>Screen saver</source>
         <translation>Screen saver</translation>
     </message>
@@ -656,14 +619,6 @@ Status message: successfully completed sync job.</extracomment>
     </message>
 </context>
 <context>
-    <name>NearbyDeviceExpandingBox</name>
-    <message>
-        <location filename="../../Bluetooth/NearbyDeviceExpandingBox.qml" line="55"/>
-        <source>(%1)</source>
-        <translation>(%1)</translation>
-    </message>
-</context>
-<context>
     <name>NearbyDevices</name>
     <message>
         <location filename="../../Bluetooth/NearbyDevices.qml" line="17"/>
@@ -758,10 +713,10 @@ Status message: successfully completed sync job.</extracomment>
         <source>Screen Saver Timeout</source>
         <translation>Screen Saver Timeout</translation>
     </message>
-    <message>
+    <message numerus="yes">
         <location filename="../../General/ScreensaverSettings.qml" line="71"/>
-        <source>%1 Minutes</source>
-        <translation>%1 Minutes</translation>
+        <source>%1 Minute(s)</source>
+        <translation><numerusform>%1 Minute(s)</numerusform><numerusform>%1 Minute(s)</numerusform></translation>
     </message>
 </context>
 <context>
@@ -772,19 +727,38 @@ Status message: successfully completed sync job.</extracomment>
         <translation>Filter list</translation>
     </message>
     <message>
-        <location filename="../../General/SetTimezoneMenu.qml" line="124"/>
-        <source>GMT</source>
-        <translation>GMT</translation>
+        <location filename="../../General/SetTimezoneMenu.qml" line="125"/>
+        <source>(GMT %1%2)</source>
+        <translation>(GMT %1%2)</translation>
     </message>
     <message>
-        <location filename="../../General/SetTimezoneMenu.qml" line="162"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="126"/>
+        <source>(GMT +%1%2)</source>
+        <translation>(GMT +%1%2)</translation>
+    </message>
+    <message>
+        <location filename="../../General/SetTimezoneMenu.qml" line="164"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../General/SetTimezoneMenu.qml" line="177"/>
+        <location filename="../../General/SetTimezoneMenu.qml" line="179"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
+    </message>
+</context>
+<context>
+    <name>SettingsModel</name>
+    <message>
+        <location filename="../../Settings/SettingsModel.qml" line="78"/>
+        <source>Settings</source>
+        <translation>Settings</translation>
+    </message>
+    <message>
+        <location filename="../../Settings/SettingsModel.qml" line="79"/>
+        <location filename="../../Settings/SettingsModel.qml" line="80"/>
+        <source>Application</source>
+        <translation>Application</translation>
     </message>
 </context>
 <context>
@@ -889,48 +863,48 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>TimeDateSettings</name>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="39"/>
+        <location filename="../../General/TimeDateSettings.qml" line="40"/>
         <source>What time it is</source>
         <translation>What time it is</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="112"/>
+        <location filename="../../General/TimeDateSettings.qml" line="113"/>
         <source>24 hour clock</source>
         <translation>24 hour clock</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="141"/>
+        <location filename="../../General/TimeDateSettings.qml" line="142"/>
         <source>Set date and time automatically</source>
         <translation>Set date and time automatically</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="172"/>
+        <location filename="../../General/TimeDateSettings.qml" line="173"/>
         <source>Where you are</source>
         <translation>Where you are</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="191"/>
-        <location filename="../../General/TimeDateSettings.qml" line="225"/>
+        <location filename="../../General/TimeDateSettings.qml" line="192"/>
+        <location filename="../../General/TimeDateSettings.qml" line="226"/>
         <source>Current Time Zone is %1</source>
         <translation>Current Time Zone is %1</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="208"/>
+        <location filename="../../General/TimeDateSettings.qml" line="209"/>
         <source>Find me and keep my location updated</source>
         <translation>Find me and keep my location updated</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="247"/>
+        <location filename="../../General/TimeDateSettings.qml" line="248"/>
         <source>Manual Time Zone Selection</source>
         <translation>Manual Time Zone Selection</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="266"/>
+        <location filename="../../General/TimeDateSettings.qml" line="267"/>
         <source>Set Time Zone</source>
         <translation>Set Time Zone</translation>
     </message>
     <message>
-        <location filename="../../General/TimeDateSettings.qml" line="279"/>
+        <location filename="../../General/TimeDateSettings.qml" line="280"/>
         <source>Current Time Zone is </source>
         <translation>Current Time Zone is </translation>
     </message>
@@ -946,149 +920,149 @@ Status message: successfully completed sync job.</extracomment>
 <context>
     <name>WifiExpandingBox</name>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="45"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="48"/>
         <source>WPA</source>
         <translation>WPA</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="46"/>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="49"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="52"/>
         <source>WPA2</source>
         <translation>WPA2</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="47"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="50"/>
         <source>WEP</source>
         <translation>WEP</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="48"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="51"/>
         <source>RADIUS</source>
         <translation>RADIUS</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="52"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="55"/>
         <source>DHCP</source>
         <translation>DHCP</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="53"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="56"/>
         <source>Static</source>
         <translation>Static</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="129"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="137"/>
         <source>Failed to Connect</source>
         <translation>Failed to Connect</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="132"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="140"/>
         <source>Associating</source>
         <translation>Associating</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="136"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="144"/>
         <source>Configuring</source>
         <translation>Configuring</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="140"/>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="144"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="148"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="152"/>
         <source>Connected</source>
         <translation>Connected</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="177"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="185"/>
         <source>Do you want to remove %1 ?  This action will forget any passwords and you will no longer be automatically connected to %2</source>
         <translation>Do you want to remove %1 ?  This action will forget any passwords and you will no longer be automatically connected to %2</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="189"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="197"/>
         <source>Yes, Delete</source>
         <translation>Yes, Delete</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="201"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="209"/>
         <source>No, Save</source>
         <translation>No, Save</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="227"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="235"/>
         <source>Disconnect</source>
         <translation>Disconnect</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="238"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="246"/>
         <source>Remove connection</source>
         <translation>Remove connection</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="249"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="257"/>
         <source>Connect by:</source>
         <translation>Connect by:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="281"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="287"/>
         <source>IP Address:</source>
         <translation>IP Address:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="300"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="306"/>
         <source>Subnet mask:</source>
         <translation>Subnet mask:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="318"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="324"/>
         <source>Gateway</source>
         <translation>Gateway</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="335"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="341"/>
         <source>DNS:</source>
         <translation>DNS:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="353"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="359"/>
         <source>Hardware address:</source>
         <translation>Hardware address:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="372"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="378"/>
         <source>Security: </source>
         <translation>Security: </translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="383"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="389"/>
         <source>Strength: </source>
         <translation>Strength: </translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="393"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="399"/>
         <source>Apply</source>
         <translation>Apply</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="407"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="413"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="439"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="449"/>
         <source>Type password here</source>
         <translation>Type password here</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="450"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="460"/>
         <source>Setup</source>
         <translation>Setup</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="461"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="471"/>
         <source>Connect</source>
         <translation>Connect</translation>
     </message>
     <message>
-        <location filename="../../Wifi/WifiExpandingBox.qml" line="489"/>
+        <location filename="../../Wifi/WifiExpandingBox.qml" line="499"/>
         <source>Show password</source>
         <translation>Show password</translation>
     </message>
@@ -1101,7 +1075,7 @@ Status message: successfully completed sync job.</extracomment>
         <translation>All Settings</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="107"/>
+        <location filename="../../main.qml" line="124"/>
         <source>Settings</source>
         <translation>Settings</translation>
     </message>
