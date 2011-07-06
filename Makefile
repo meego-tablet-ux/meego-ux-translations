@@ -67,7 +67,8 @@ LOCALES = ar \
 	  zh_CN \
 	  zh_TW
 
-TSS = $(wildcard translations/*/*.ts)
+# The *_en.ts files are for tracking purposes only...
+TSS = $(filter-out %_en.ts, $(wildcard translations/*/*.ts))
 QMS = $(patsubst %.ts, %.qm, $(TSS))
 
 all: $(QMS)
