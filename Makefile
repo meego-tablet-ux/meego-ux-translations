@@ -30,6 +30,7 @@ LOCALES = ar \
 	  fa \
 	  fi \
 	  fr \
+	  gd \
 	  gl \
 	  gu \
 	  he \
@@ -50,6 +51,7 @@ LOCALES = ar \
 	  pa \
 	  pl \
 	  pt_BR \
+	  pt_PT \
 	  pt \
 	  ro \
 	  ru \
@@ -62,6 +64,7 @@ LOCALES = ar \
 	  tl \
 	  tr \
 	  uk \
+	  ur_PK \
 	  vi \
 	  wa \
 	  zh_CN \
