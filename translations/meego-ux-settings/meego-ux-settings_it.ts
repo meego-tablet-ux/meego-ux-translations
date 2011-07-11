@@ -836,7 +836,7 @@ Status message: successfully completed sync job.</extracomment>
         <location filename="../../Sync/SyncLoginDialog.qml" line="42"/>
         <source>(ex: foo@example.com)</source>
         <extracomment>Username example text. Note: do not translate &quot;example.com&quot;!</extracomment>
-        <translation>(es.: foo@esempio.com)</translation>
+        <translation>(es.: foo@example.com)</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="45"/>
