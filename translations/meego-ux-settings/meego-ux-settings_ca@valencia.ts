@@ -464,7 +464,7 @@
     </message>
 </context>
 <context>
-    <name>MeeGo::Sync::FrameworkClient</name>
+    <name>MeeGo::Sync::SyncEvoFrameworkClient</name>
     <message>
         <location filename="../../Sync/FrameworkClient.cpp" line="237"/>
         <source>completed</source>
@@ -795,7 +795,7 @@ Status message: successfully completed sync job.</extracomment>
     </message>
 </context>
 <context>
-    <name>SyncList</name>
+    <name>SyncListHeaderDelegate</name>
     <message>
         <location filename="../../Sync/SyncList.qml" line="40"/>
         <source>Sync %1</source>
