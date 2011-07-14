@@ -12,7 +12,7 @@ IDS_CONTENT_CONTEXT_PAUSE
 - description: In Title Case: The name of the Pause command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Pausa</translation>
     </message>
     <message>
         <location filename="id" line="-789544480"/>
@@ -22,7 +22,7 @@ IDS_CONTENT_CONTEXT_PAUSE
 - description: In Title Case: The name of the Copy Image command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiar imagem</translation>
     </message>
     <message>
         <location filename="id" line="-1308406892"/>
@@ -35,7 +35,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The show history menu in the app menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Histórico</translation>
     </message>
     <message>
         <location filename="id" line="1512005866"/>
@@ -45,7 +45,7 @@ IDS_SHOW_HISTORY
 - description: The text label of the Paste And Go menu item when the clipboard contains a URL
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Colar e continuar</translation>
     </message>
     <message>
         <location filename="id" line="-403816837"/>
@@ -55,7 +55,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The name of the Open Link in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Abrir link em nova guia</translation>
     </message>
     <message>
         <location filename="id" line="-2068475310"/>
@@ -84,7 +84,7 @@ IDS_UNDO
 - description: In Title Case: The text label of the Undo menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Desfazer</translation>
     </message>
     <message>
         <location filename="id" line="1239623762"/>
@@ -94,7 +94,7 @@ IDS_UNDO
 - description: The name of the Save Page As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Salvar como...</translation>
     </message>
     <message>
         <location filename="id" line="1878020578"/>
@@ -104,7 +104,7 @@ IDS_UNDO
 - description: In Title Case: The name of the Open Video in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Abrir vídeo em nova guia</translation>
     </message>
     <message>
         <location filename="id" line="-358886327"/>
@@ -114,7 +114,7 @@ IDS_UNDO
 - description: In Title Case: Default installation menu label
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Criar atalhos de aplicativos...</translation>
     </message>
     <message>
         <location filename="id" line="326232260"/>
@@ -124,7 +124,7 @@ IDS_UNDO
 - description: In Title Case: The text label for the Show As tab menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Mostrar como guia</translation>
     </message>
     <message>
         <location filename="id" line="-589504055"/>
@@ -134,7 +134,7 @@ IDS_UNDO
 - description: In Title Case: The toggle to show the bookmark bar
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Sempre mostrar barra de indicadores</translation>
     </message>
     <message>
         <location filename="id" line="-1157106606"/>
@@ -153,7 +153,7 @@ IDS_UNDO
 - description: In Title Case: The text label of the Paste And Go menu item when the clipboard contains a URL
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Colar e continuar</translation>
     </message>
     <message>
         <location filename="id" line="665032460"/>
@@ -163,7 +163,7 @@ IDS_UNDO
 - description: The name of the Open Video in New Tab command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Abrir vídeo em nova guia</translation>
     </message>
     <message>
         <location filename="id" line="-389495075"/>
@@ -176,7 +176,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The name of the Show Controls command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Mostrar controles</translation>
     </message>
     <message>
         <location filename="id" line="1257809351"/>
@@ -186,7 +186,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The text label of the Restore Tab menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Reabrir guia fechada</translation>
     </message>
     <message>
         <location filename="id" line="1614674072"/>
@@ -196,7 +196,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: The name of the Copy Image Location command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiar URL de imagem</translation>
     </message>
     <message>
         <location filename="id" line="1267962439"/>
@@ -216,7 +216,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The name of the Open Image in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Abrir imagem em nova guia</translation>
     </message>
     <message>
         <location filename="id" line="-712734278"/>
@@ -226,7 +226,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The text label for the menu item for clearing of browsing data
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Limpar navegação de dados...</translation>
     </message>
     <message>
         <location filename="id" line="1484417576"/>
@@ -236,7 +236,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The name of the Save Audio As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Salvar áudio como...</translation>
     </message>
     <message>
         <location filename="id" line="1036969168"/>
@@ -249,7 +249,7 @@ IDS_CONTENT_CONTEXT_BACK
 - description: In Title Case: The name of the Back command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Voltar</translation>
     </message>
     <message>
         <location filename="id" line="1768802578"/>
@@ -268,7 +268,7 @@ IDS_PASTE
 - description: In Title Case: The text label of the Paste menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Colar</translation>
     </message>
     <message>
         <location filename="id" line="1727060154"/>
@@ -278,7 +278,7 @@ IDS_PASTE
 - description: In Title Case: The text label of the Paste And Go menu item when the clipboard contains a string to search for
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Colar e pesquisar</translation>
     </message>
     <message>
         <location filename="id" line="2025038845"/>
@@ -288,7 +288,7 @@ IDS_PASTE
 - description: The name of the Copy Link Location command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiar endereço do link</translation>
     </message>
     <message>
         <location filename="id" line="1568823252"/>
@@ -298,7 +298,7 @@ IDS_PASTE
 - description: In Title Case: The name of the Copy Audio Location command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiar URL de áudio</translation>
     </message>
     <message>
         <location filename="id" line="1396562814"/>
@@ -307,7 +307,7 @@ IDS_PASTE
         <extracomment>IDS_CERT_INFO_DETAILS_TAB_LABEL
 - description: Title of the notebook page displaying the details about the certificate
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Detalhes</translation>
     </message>
     <message>
         <location filename="id" line="-1433735510"/>
@@ -317,7 +317,7 @@ IDS_PASTE
 - description: Default installation menu label
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Criar atalhos de aplicativos</translation>
     </message>
     <message>
         <location filename="id" line="-1461727428"/>
@@ -327,7 +327,7 @@ IDS_PASTE
 - description: The name of the Copy Email Address command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiar endereços de email</translation>
     </message>
     <message>
         <location filename="id" line="1405033328"/>
@@ -340,7 +340,7 @@ IDS_SHOW_DOWNLOADS
 - description: In Title Case: The show downloads menu in the app menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Downloads</translation>
     </message>
     <message>
         <location filename="id" line="1872191996"/>
@@ -350,7 +350,7 @@ IDS_SHOW_DOWNLOADS
 - description: The name of the Save Video As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Salvar vídeo como...</translation>
     </message>
     <message>
         <location filename="id" line="1639490968"/>
@@ -363,7 +363,7 @@ IDS_CONTENT_CONTEXT_UNMUTE
 - description: In Title Case: The name of the Unmute command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Com som</translation>
     </message>
     <message>
         <location filename="id" line="1110239393"/>
@@ -376,7 +376,7 @@ IDS_SELECT_ALL
 - description: In Title Case: The text label of the Select All menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Selecionar tudo</translation>
     </message>
     <message>
         <location filename="id" line="1266164808"/>
@@ -386,7 +386,7 @@ IDS_SELECT_ALL
 - description: The name of the Open Audio in New Tab command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Abrir áudio em nova tela</translation>
     </message>
     <message>
         <location filename="id" line="-945937503"/>
@@ -396,7 +396,7 @@ IDS_SELECT_ALL
 - description: The text label of the New Tab menu item
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Nova guia</translation>
     </message>
     <message>
         <location filename="id" line="-1436112706"/>
@@ -406,7 +406,7 @@ IDS_SELECT_ALL
 - description: The text label for the Show As tab menu item
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Mostrar como guia</translation>
     </message>
     <message>
         <location filename="id" line="1114135009"/>
@@ -416,7 +416,7 @@ IDS_SELECT_ALL
 - description: The text label for the menu item for clearing of browsing data
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Limpar dados de navegação...</translation>
     </message>
     <message>
         <location filename="id" line="-1787389771"/>
@@ -429,7 +429,7 @@ IDS_SELECT_ALL
 - description: The text label of the Select All menu item
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Selecionar tudo</translation>
     </message>
     <message>
         <location filename="id" line="-1173342603"/>
@@ -442,7 +442,7 @@ IDS_CONTENT_CONTEXT_RELOAD
 - description: In Title Case: The name of the Reload command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Recarregar</translation>
     </message>
     <message>
         <location filename="id" line="-886979183"/>
@@ -455,7 +455,7 @@ IDS_CONTENT_CONTEXT_MUTE
 - description: In Title Case: The name of the Mute command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Mudo</translation>
     </message>
     <message>
         <location filename="id" line="1719751989"/>
@@ -465,7 +465,7 @@ IDS_CONTENT_CONTEXT_MUTE
 - description: The name of the Copy Video Location command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiar URL do vídeo</translation>
     </message>
     <message>
         <location filename="id" line="729878716"/>
@@ -475,7 +475,7 @@ IDS_CONTENT_CONTEXT_MUTE
 - description: The text label of the Restore Window menu item
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Reabrir janela fechada</translation>
     </message>
     <message>
         <location filename="id" line="-2112738546"/>
@@ -485,7 +485,7 @@ IDS_CONTENT_CONTEXT_MUTE
 - description: The text label of the Paste And Go menu item when the clipboard contains a string to search for
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Colar e pesquisar</translation>
     </message>
     <message>
         <location filename="id" line="465630279"/>
@@ -498,7 +498,7 @@ IDS_CONTENT_CONTEXT_GOTOURL
 - description: In Title Case: The name of the Go to url for 'string' command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Ir para $ 1</translation>
     </message>
     <message>
         <location filename="id" line="-1749945221"/>
@@ -508,7 +508,7 @@ IDS_CONTENT_CONTEXT_GOTOURL
 - description: In Title Case: The name of the Save Video As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Salvar vídeo como ...</translation>
     </message>
     <message>
         <location filename="id" line="-1948468026"/>
@@ -521,7 +521,7 @@ IDS_OPTIONS
 - description: In Title Case: The text label of the Options menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Opções</translation>
     </message>
     <message>
         <location filename="id" line="1961842445"/>
@@ -534,7 +534,7 @@ IDS_CONTENT_CONTEXT_REDO
 - description: In Title Case: The name of the Redo command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Refazer</translation>
     </message>
     <message>
         <location filename="id" line="1451675377"/>
@@ -544,7 +544,7 @@ IDS_CONTENT_CONTEXT_REDO
 - description: The name of the Copy Image command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiar imagem</translation>
     </message>
     <message>
         <location filename="id" line="-1564307266"/>
@@ -554,7 +554,7 @@ IDS_CONTENT_CONTEXT_REDO
 - description: In Title Case: The name of the Open Audio in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Abir áudio em nova guia</translation>
     </message>
     <message>
         <location filename="id" line="615418986"/>
@@ -567,7 +567,7 @@ IDS_SHOW_EXTENSIONS
 - description: In Title Case: The show extensions menu in the app menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Extensões</translation>
     </message>
     <message>
         <location filename="id" line="-446482376"/>
@@ -580,7 +580,7 @@ IDS_CONTENT_CONTEXT_PLAY
 - description: In Title Case: The name of the Play command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Reproduzir</translation>
     </message>
     <message>
         <location filename="id" line="-57141608"/>
@@ -599,7 +599,7 @@ IDS_COPY
 - description: In Title Case: The text label of the Copy menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="id" line="2005581839"/>
@@ -618,7 +618,7 @@ IDS_COPY
 - description: In Title Case: The name of the input method submenu in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Métodos de entrada</translation>
     </message>
     <message>
         <location filename="id" line="-871358126"/>
@@ -628,7 +628,7 @@ IDS_COPY
 - description: In Title Case: The name of the Save Page As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Salvar como ...</translation>
     </message>
     <message>
         <location filename="id" line="-1272739465"/>
@@ -641,7 +641,7 @@ IDS_CONTENT_CONTEXT_LOOP
 - description: In Title Case: The name of the Loop command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Loop</translation>
     </message>
     <message>
         <location filename="id" line="177123007"/>
@@ -654,7 +654,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: In Title Case: The name of the Forward command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Encaminhar</translation>
     </message>
     <message>
         <location filename="id" line="2109296682"/>
@@ -664,7 +664,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: The name of the Save Audio As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Salvar o áudio como ...</translation>
     </message>
     <message>
         <location filename="id" line="1964631891"/>
@@ -674,7 +674,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: In Title Case: The text label of the New Tab menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Nova Guia</translation>
     </message>
     <message>
         <location filename="id" line="-1860462151"/>
@@ -684,7 +684,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: In Title Case: Switches into fullscreen mode
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Tela Cheia</translation>
     </message>
     <message>
         <location filename="id" line="14913760"/>
@@ -703,7 +703,7 @@ IDS_CUT
 - description: In Title Case: The text label of the Cut menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Recortar</translation>
     </message>
     <message>
         <location filename="id" line="-1162258557"/>
@@ -713,7 +713,7 @@ IDS_CUT
 - description: In Title Case: The name of the Copy Link Location command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiar endereço de link</translation>
     </message>
     <message>
         <location filename="id" line="296616502"/>
@@ -723,7 +723,7 @@ IDS_CUT
 - description: The toggle to show the bookmark bar
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Sempre mostrar barra de indicadores</translation>
     </message>
     <message>
         <location filename="id" line="-1740319065"/>
@@ -733,7 +733,7 @@ IDS_CUT
 - description: The name of the Save Link As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Salvar link como...</translation>
     </message>
     <message>
         <location filename="id" line="-93712540"/>
@@ -743,7 +743,7 @@ IDS_CUT
 - description: In Title Case: The text label of the Restore Window menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Reabrir janela fechada</translation>
     </message>
     <message>
         <location filename="id" line="495070288"/>
@@ -753,7 +753,7 @@ IDS_CUT
 - description: The text label of the Restore Tab menu item
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Reabrir guia fechada</translation>
     </message>
     <message>
         <location filename="id" line="1476274050"/>
@@ -763,7 +763,7 @@ IDS_CUT
 - description: The name of the Open Image in New Tab command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Abrir imagem em nova guia</translation>
     </message>
     <message>
         <location filename="id" line="560543992"/>
@@ -776,7 +776,7 @@ IDS_CONTENT_CONTEXT_SEARCHWEBFOR
 - description: In Title Case: The name of the Search the Web for 'string' command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Pesquisa $ 1 para &apos;$ 2&apos;</translation>
     </message>
     <message>
         <location filename="id" line="-74387916"/>
@@ -789,7 +789,7 @@ IDS_CONTENT_CONTEXT_DELETE
 - description: In Title Case: The name of the Delete command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Excluir</translation>
     </message>
     <message>
         <location filename="id" line="313004579"/>
@@ -798,7 +798,7 @@ IDS_CONTENT_CONTEXT_DELETE
         <extracomment>IDS_CERT_DETAILS_EXPORT_CERTIFICATE
 - description: The label of the button to export the selected certificate
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Exportar...</translation>
     </message>
     <message>
         <location filename="id" line="-600549859"/>
@@ -811,7 +811,7 @@ IDS_SETTINGS
 - description: In Title Case: The text label of the Settings menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Configurações</translation>
     </message>
     <message>
         <location filename="id" line="1512113349"/>
@@ -821,7 +821,7 @@ IDS_SETTINGS
 - description: The name of the Open Link in New Tab command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Abrir link em nova guia</translation>
     </message>
     <message>
         <location filename="id" line="-764947727"/>
@@ -831,7 +831,7 @@ IDS_SETTINGS
 - description: The name of the Save Image As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Salvar imagem como ...</translation>
     </message>
     <message>
         <location filename="id" line="813272563"/>
@@ -841,7 +841,7 @@ IDS_SETTINGS
 - description: In Title Case: The name of the Copy Video Location command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiar URL do vídeo</translation>
     </message>
     <message>
         <location filename="id" line="1296089836"/>
@@ -851,7 +851,7 @@ IDS_SETTINGS
 - description: Switches into fullscreen mode
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Tela Cheia</translation>
     </message>
     <message>
         <location filename="id" line="-1677640115"/>
@@ -861,7 +861,7 @@ IDS_SETTINGS
 - description: The name of the Copy Audio Location command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiar URL de áudio</translation>
     </message>
     <message>
         <location filename="id" line="1935848576"/>
@@ -886,7 +886,7 @@ IDS_BOOKMARK_MANAGER_TITLE
 - description: In Title Case: The name of the Save Image As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Salvar imagem como ...</translation>
     </message>
     <message>
         <location filename="id" line="76979542"/>
@@ -895,7 +895,7 @@ IDS_BOOKMARK_MANAGER_TITLE
         <extracomment>IDS_EDIT
 - description: Edit menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="id" line="-596815702"/>
@@ -905,7 +905,7 @@ IDS_BOOKMARK_MANAGER_TITLE
 - description: The name of the input method submenu in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Métodos de entrada</translation>
     </message>
     <message>
         <location filename="id" line="330040097"/>
@@ -915,7 +915,7 @@ IDS_BOOKMARK_MANAGER_TITLE
 - description: In Title Case: The name of the Copy Email Address command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Cópiar endereço de e-mail</translation>
     </message>
     <message>
         <location filename="id" line="-855044181"/>
@@ -928,7 +928,7 @@ IDS_FIND
 - description: In Title Case: The text label of the Find... menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Encontrar ...</translation>
     </message>
     <message>
         <location filename="id" line="1076097998"/>
@@ -938,7 +938,7 @@ IDS_FIND
 - description: In Title Case: The name of the Copy Image Location command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiar URL da Imagem</translation>
     </message>
     <message>
         <location filename="id" line="-1547820284"/>
@@ -948,7 +948,7 @@ IDS_FIND
 - description: In Title Case: The name of the Save Link As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Salvar link como ...</translation>
     </message>
     <message>
         <location filename="id" line="-1886623626"/>
@@ -957,7 +957,7 @@ IDS_FIND
         <extracomment>IDS_BOOMARK_EDITOR_NEW_FOLDER_MENU_ITEM
 - description: Text on the new folder context menu item.
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Nova pasta</translation>
     </message>
     <message>
         <location filename="id" line="525133666"/>
@@ -966,7 +966,7 @@ IDS_FIND
         <extracomment>IDS_CERT_INFO_GENERAL_TAB_LABEL
 - description: Title of the notebook page displaying the basic info about the certificate
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="id" line="1522912963"/>
@@ -1069,24 +1069,24 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Pronto</translation>
     </message>
 </context><context>
     <name>BookmarkListEditDialog</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="134"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="135"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="274"/>
         <source>left-to-right</source>
-        <translation type="unfinished"/>
+        <translation>esquerda-para-direita</translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>

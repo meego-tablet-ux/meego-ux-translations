@@ -22,46 +22,46 @@
         <extracomment>%1 is &quot;Web&quot; panel title
 ----------
 %1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 asetukset</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 paneelin sisältö</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="152"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="205"/>
         <source>Visit a website</source>
-        <translation type="unfinished"/>
+        <translation>Vieraile web-sivulla</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Tyhjennä historia</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="146"/>
         <source>The latest websites you visit and your bookmarks will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Sivustot joilla olet vieraillut äskettäin ilmestyvät tähän.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="201"/>
         <source>No recently visited websites.</source>
-        <translation type="unfinished"/>
+        <translation>Ei vierailuja web-sivuilla.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="219"/>
         <source>You have cleared the Web history</source>
-        <translation type="unfinished"/>
+        <translation>Olet tyhjentänyt selailuhistorian</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="233"/>

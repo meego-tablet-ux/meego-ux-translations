@@ -22,46 +22,46 @@
         <extracomment>%1 is &quot;Web&quot; panel title
 ----------
 %1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 paramètres</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Le panneau contient %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="152"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="205"/>
         <source>Visit a website</source>
-        <translation type="unfinished"/>
+        <translation>Visiter un site web</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Effacer l&apos;historique</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="146"/>
         <source>The latest websites you visit and your bookmarks will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Le dernier sites que vous visitez et vos signets apparaissent ici.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="201"/>
         <source>No recently visited websites.</source>
-        <translation type="unfinished"/>
+        <translation>Pas de sites récent.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="219"/>
         <source>You have cleared the Web history</source>
-        <translation type="unfinished"/>
+        <translation>Vous avez effacé l&apos;historique Web</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="233"/>

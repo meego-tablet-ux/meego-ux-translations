@@ -28,35 +28,35 @@
         <extracomment>%1 is &quot;Music&quot; panel title
 ----------
 %1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Muzyka</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="100"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ustawienia panelu %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="102"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Zawartość panelu %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="170"/>
         <source>Play some music</source>
-        <translation type="unfinished"/>
+        <translation>Odtwarzaj muzykę</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść historię</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="164"/>
         <source>The latest music you play and your playlists will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Pojawią się tu ostatnio odtwarzane utwory oraz listy odtwarzania.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="213"/>
@@ -110,12 +110,12 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="446"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>Nie znaleziono list odtwarzania</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="451"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>Stwórz listę odtwarzania</translation>
     </message>
 </context>
 </TS>

@@ -52,7 +52,7 @@
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="647"/>
         <source>Network problem</source>
         <extracomment>%1 is service name</extracomment>
-        <translation type="unfinished"/>
+        <translation>Πρόβλημα δικτύου</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="647"/>
@@ -98,17 +98,17 @@
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="722"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="726"/>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Επιστροφή</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="726"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Απόκρυψη</translation>
     </message>
 </context>
 </TS>

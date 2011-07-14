@@ -10,46 +10,46 @@
         <extracomment>%1 is &quot;Video&quot; panel title
 ----------
 %1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="66"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 asetukset</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="68"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 paneelin sisältö</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="71"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="102"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="140"/>
         <source>Watch a video</source>
-        <translation type="unfinished"/>
+        <translation>Katso video</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="71"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Tyhjennä historia</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="96"/>
         <source>The latest videos you watch will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Äskettäin katsotut videot ilmestyvät tähän.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="135"/>
         <source>No recently watched videos.</source>
-        <translation type="unfinished"/>
+        <translation>Ei äskettäin katsottuja videoita.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="156"/>
         <source>You have cleared the Video history</source>
-        <translation type="unfinished"/>
+        <translation>Olet tyhjentänyt videohistorian</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="169"/>

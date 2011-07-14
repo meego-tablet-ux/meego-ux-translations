@@ -12,7 +12,7 @@ IDS_CONTENT_CONTEXT_PAUSE
 - description: In Title Case: The name of the Pause command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Pauză</translation>
     </message>
     <message>
         <location filename="id" line="-789544480"/>
@@ -22,7 +22,7 @@ IDS_CONTENT_CONTEXT_PAUSE
 - description: In Title Case: The name of the Copy Image command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiază imaginea</translation>
     </message>
     <message>
         <location filename="id" line="-1308406892"/>
@@ -35,7 +35,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The show history menu in the app menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Istoric</translation>
     </message>
     <message>
         <location filename="id" line="1512005866"/>
@@ -45,7 +45,7 @@ IDS_SHOW_HISTORY
 - description: The text label of the Paste And Go menu item when the clipboard contains a URL
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Lipește si accesează</translation>
     </message>
     <message>
         <location filename="id" line="-403816837"/>
@@ -55,7 +55,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The name of the Open Link in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Deschide link-ul intr-un </translation>
     </message>
     <message>
         <location filename="id" line="-2068475310"/>
@@ -65,7 +65,7 @@ IDS_SHOW_HISTORY
 - description: Title of the dialog to create application shortcuts for current page.
 - condition: not pp_ifdef('use_titlecase') or os != 'linux2'
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Crează scurtături pentru aplicații</translation>
     </message>
     <message>
         <location filename="id" line="687278842"/>
@@ -84,7 +84,7 @@ IDS_UNDO
 - description: In Title Case: The text label of the Undo menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Refă</translation>
     </message>
     <message>
         <location filename="id" line="1239623762"/>
@@ -143,7 +143,7 @@ IDS_UNDO
         <extracomment>IDS_BOOMARK_BUBBLE_PAGE_BOOKMARKED
 - description: Title of the bubble after bookmarking something
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Semn de carte adăugat!</translation>
     </message>
     <message>
         <location filename="id" line="-381577555"/>
@@ -206,7 +206,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: title of the dialog to create application shortcuts for current page.
 - condition: pp_ifdef('use_titlecase') and os == 'linux2'
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Crează scurtatură pentru aplicație</translation>
     </message>
     <message>
         <location filename="id" line="-1548300673"/>
@@ -268,7 +268,7 @@ IDS_PASTE
 - description: In Title Case: The text label of the Paste menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Lipește</translation>
     </message>
     <message>
         <location filename="id" line="1727060154"/>
@@ -429,7 +429,7 @@ IDS_SELECT_ALL
 - description: The text label of the Select All menu item
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Selectează tot</translation>
     </message>
     <message>
         <location filename="id" line="-1173342603"/>
@@ -599,7 +599,7 @@ IDS_COPY
 - description: In Title Case: The text label of the Copy menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copiază</translation>
     </message>
     <message>
         <location filename="id" line="2005581839"/>
@@ -608,7 +608,7 @@ IDS_COPY
         <extracomment>IDS_BOOMARK_BUBBLE_FOLDER_TEXT
 - description: Text preceding the folder selector
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Pune un semn de carte la:</translation>
     </message>
     <message>
         <location filename="id" line="-1519957649"/>
@@ -703,7 +703,7 @@ IDS_CUT
 - description: In Title Case: The text label of the Cut menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Taie</translation>
     </message>
     <message>
         <location filename="id" line="-1162258557"/>
@@ -789,7 +789,7 @@ IDS_CONTENT_CONTEXT_DELETE
 - description: In Title Case: The name of the Delete command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Șterge</translation>
     </message>
     <message>
         <location filename="id" line="313004579"/>
@@ -876,7 +876,7 @@ IDS_BOOKMARK_MANAGER
 IDS_BOOKMARK_MANAGER_TITLE
 - description: Title of the bookmark manager window.
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Semne de carte</translation>
     </message>
     <message>
         <location filename="id" line="121779"/>
@@ -975,7 +975,7 @@ IDS_FIND
         <extracomment>IDS_ABOUT_VERSION_COMPANY_NAME
 - description: Company name on the about pages
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>MeeGo</translation>
     </message>
     <message>
         <location filename="id" line="496379237"/>
@@ -984,7 +984,7 @@ IDS_FIND
         <extracomment>IDS_PASSWORD_MANAGER_SAVE_PASSWORD_PROMPT
 - description: Info bar message to save a password
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Doriți ca nagigatorul MeeGo să vă salveze parola?</translation>
     </message>
     <message>
         <location filename="id" line="311677227"/>
@@ -1002,7 +1002,8 @@ IDS_FIND
         <extracomment>IDS_DEFAULT_BROWSER_INFOBAR_SHORT_TEXT
 - description: More compact text to show in the default browser query infobar.
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>		
+Navigatorul MeeGo nu este navigatorul dumneavoastră implicit.</translation>
     </message>
     <message>
         <location filename="id" line="-209926424"/>
@@ -1011,7 +1012,7 @@ IDS_FIND
         <extracomment>IDS_SESSION_CRASHED_VIEW_MESSAGE
 - description: Message shown when the last session didn't exit cleanly.
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Navigatorul MeeGo nu a fost oprit corect. Pentru a redeschide paginile deschise, faceți click pe butonul Restaurează</translation>
     </message>
     <message>
         <location filename="id" line="1550207900"/>
@@ -1022,7 +1023,7 @@ IDS_FIND
 IDS_SXS_SHORTCUT_NAME
 - description: The Chrome short cut name for SxS channel
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Navigatorul MeeGo</translation>
     </message>
 </context>
 <context>
@@ -1030,69 +1031,69 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="74"/>
         <source>Photos</source>
-        <translation type="unfinished"/>
+        <translation>Fotografii</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="84"/>
         <source>Movies</source>
-        <translation type="unfinished"/>
+        <translation>Filme</translation>
     </message>
 </context><context>
     <name>BookmarkList</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="186"/>
         <source>Delete bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Șterge semul de carte</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="187"/>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="244"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Șterge</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="190"/>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="234"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="192"/>
         <source>Are you sure you want to delete this bookmark?</source>
-        <translation type="unfinished"/>
+        <translation>Sunteți sigur ca doriți să ștergeți acest semn de carte?</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="210"/>
         <source>Edit bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Editează semnul de carte</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Gata</translation>
     </message>
 </context><context>
     <name>BookmarkListEditDialog</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="134"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="135"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="274"/>
         <source>left-to-right</source>
-        <translation type="unfinished"/>
+        <translation>stânga-la-dreapta</translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>
     <message>
         <location filename="../chrome/browser/qt/common/DownloadShelf.qml" line="220"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Șterge</translation>
     </message>
 </context></TS>

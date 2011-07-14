@@ -12,7 +12,7 @@ IDS_CONTENT_CONTEXT_PAUSE
 - description: In Title Case: The name of the Pause command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>നിര്‍ത്തുക </translation>
     </message>
     <message>
         <location filename="id" line="-789544480"/>
@@ -22,7 +22,7 @@ IDS_CONTENT_CONTEXT_PAUSE
 - description: In Title Case: The name of the Copy Image command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>ചിത്രം അനുകരിക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="-1308406892"/>
@@ -35,7 +35,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The show history menu in the app menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>ചരിത്രം</translation>
     </message>
     <message>
         <location filename="id" line="1512005866"/>
@@ -45,7 +45,7 @@ IDS_SHOW_HISTORY
 - description: The text label of the Paste And Go menu item when the clipboard contains a URL
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>പേസ്റ്റ് ചെയ്തതിനു ശേഷം മുന്നോട്ടു പോകുക </translation>
     </message>
     <message>
         <location filename="id" line="-403816837"/>
@@ -55,7 +55,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The name of the Open Link in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>പുതിയ ടാബില്‍ തുറക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="-2068475310"/>
@@ -65,7 +65,7 @@ IDS_SHOW_HISTORY
 - description: Title of the dialog to create application shortcuts for current page.
 - condition: not pp_ifdef('use_titlecase') or os != 'linux2'
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>പ്രയോഗതിലെക്കുള്ള കുറുക്കുവഴി നിര്‍മിക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="687278842"/>
@@ -84,7 +84,7 @@ IDS_UNDO
 - description: In Title Case: The text label of the Undo menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>പിന്നോട്ട്</translation>
     </message>
     <message>
         <location filename="id" line="1239623762"/>
@@ -94,7 +94,7 @@ IDS_UNDO
 - description: The name of the Save Page As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>സൂക്ഷിക്കാന്‍ ...</translation>
     </message>
     <message>
         <location filename="id" line="1878020578"/>
@@ -104,7 +104,7 @@ IDS_UNDO
 - description: In Title Case: The name of the Open Video in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>പുതിയ ടാബില്‍ ചലച്ചിത്രം തുറക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="-358886327"/>
@@ -114,7 +114,7 @@ IDS_UNDO
 - description: In Title Case: Default installation menu label
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>പ്രയോഗതിലെക്കുള്ള കുറുക്കുവഴി നിര്‍മിക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="326232260"/>
@@ -124,7 +124,7 @@ IDS_UNDO
 - description: In Title Case: The text label for the Show As tab menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>ടാബായി കാണിക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="-589504055"/>
@@ -134,7 +134,7 @@ IDS_UNDO
 - description: In Title Case: The toggle to show the bookmark bar
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>താള്‍ അടയാളങ്ങള്‍ എപ്പോഴും കാണിക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="-1157106606"/>
@@ -143,7 +143,7 @@ IDS_UNDO
         <extracomment>IDS_BOOMARK_BUBBLE_PAGE_BOOKMARKED
 - description: Title of the bubble after bookmarking something
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>താള്‍ അടയാളം നിര്‍മിച്ചു</translation>
     </message>
     <message>
         <location filename="id" line="-381577555"/>
@@ -153,7 +153,7 @@ IDS_UNDO
 - description: In Title Case: The text label of the Paste And Go menu item when the clipboard contains a URL
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>പേസ്റ്റ് ചെയ്തതിനു ശേഷം മുന്നോട്ടു പോകുക </translation>
     </message>
     <message>
         <location filename="id" line="665032460"/>
@@ -163,7 +163,7 @@ IDS_UNDO
 - description: The name of the Open Video in New Tab command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>പുതിയ ടാബില്‍ ചലച്ചിത്രം തുറക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="-389495075"/>
@@ -176,7 +176,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The name of the Show Controls command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>യന്ത്രണങ്ങള്‍ കാണിക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="1257809351"/>
@@ -186,7 +186,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The text label of the Restore Tab menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>അടച്ച ടാബ് വീണ്ടും തുറക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="1614674072"/>
@@ -196,7 +196,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: The name of the Copy Image Location command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>ചിത്രത്തിന്റെ URL അനുകരിക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="1267962439"/>
@@ -206,7 +206,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: title of the dialog to create application shortcuts for current page.
 - condition: pp_ifdef('use_titlecase') and os == 'linux2'
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>പ്രയോഗതിലെക്കുള്ള കുറുക്കുവഴി നിര്‍മിക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="-1548300673"/>
@@ -216,7 +216,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The name of the Open Image in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>പുതിയ ടാബില്‍ ചിത്രം തുറക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="-712734278"/>
@@ -268,7 +268,7 @@ IDS_PASTE
 - description: In Title Case: The text label of the Paste menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>പേസ്റ്റ് ചെയ്യുക </translation>
     </message>
     <message>
         <location filename="id" line="1727060154"/>
@@ -429,7 +429,7 @@ IDS_SELECT_ALL
 - description: The text label of the Select All menu item
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>എല്ലാം തിരെഞെടുക്കുക </translation>
     </message>
     <message>
         <location filename="id" line="-1173342603"/>
@@ -599,7 +599,7 @@ IDS_COPY
 - description: In Title Case: The text label of the Copy menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>അനുകരിക്കുക</translation>
     </message>
     <message>
         <location filename="id" line="2005581839"/>
@@ -608,7 +608,7 @@ IDS_COPY
         <extracomment>IDS_BOOMARK_BUBBLE_FOLDER_TEXT
 - description: Text preceding the folder selector
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>താള്‍ അടയാളം:</translation>
     </message>
     <message>
         <location filename="id" line="-1519957649"/>
@@ -703,7 +703,7 @@ IDS_CUT
 - description: In Title Case: The text label of the Cut menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>കട്ട് ചെയ്യുക </translation>
     </message>
     <message>
         <location filename="id" line="-1162258557"/>
@@ -789,7 +789,7 @@ IDS_CONTENT_CONTEXT_DELETE
 - description: In Title Case: The name of the Delete command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>മായിക്കുക</translation>
     </message>
     <message>
         <location filename="id" line="313004579"/>
@@ -876,7 +876,7 @@ IDS_BOOKMARK_MANAGER
 IDS_BOOKMARK_MANAGER_TITLE
 - description: Title of the bookmark manager window.
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>താള്‍ അടയാളങ്ങള്‍</translation>
     </message>
     <message>
         <location filename="id" line="121779"/>
@@ -984,7 +984,7 @@ IDS_FIND
         <extracomment>IDS_PASSWORD_MANAGER_SAVE_PASSWORD_PROMPT
 - description: Info bar message to save a password
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>നിങ്ങള്‍ക്ക് മീഗോ ബ്രൌസര്‍ നിങ്ങളുടെ പാസ്സ്‌വേര്‍ഡ്‌ ഓര്‍ത്തിരിക്കാന്‍ അനുവദിക്കണോ </translation>
     </message>
     <message>
         <location filename="id" line="311677227"/>
@@ -993,7 +993,7 @@ IDS_FIND
         <extracomment>IDS_ABOUT_VERSION_COPYRIGHT
 - description: Copyright information on the about pages
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>പകര്‍പാവകാശം © 2010-2011 മീഗോ. എല്ലാ അധികൃതിയും സംരക്ഷിച്ചിരിക്കുന്നു.</translation>
     </message>
     <message>
         <location filename="id" line="-1572705952"/>
@@ -1022,7 +1022,7 @@ IDS_FIND
 IDS_SXS_SHORTCUT_NAME
 - description: The Chrome short cut name for SxS channel
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>മീഗോ ബ്രൌസര്‍</translation>
     </message>
 </context>
 <context>
@@ -1030,69 +1030,69 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="74"/>
         <source>Photos</source>
-        <translation type="unfinished"/>
+        <translation>ഛായാചിത്രം </translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="84"/>
         <source>Movies</source>
-        <translation type="unfinished"/>
+        <translation>ചലച്ചിത്രം</translation>
     </message>
 </context><context>
     <name>BookmarkList</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="186"/>
         <source>Delete bookmark</source>
-        <translation type="unfinished"/>
+        <translation>താള്‍ അടയാളം മായിക്കുക</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="187"/>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="244"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>മായിക്കുക</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="190"/>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="234"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>റദ്ദാക്കുക</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="192"/>
         <source>Are you sure you want to delete this bookmark?</source>
-        <translation type="unfinished"/>
+        <translation>നിങ്ങള്‍ക്ക് ഈ താള്‍ അടയാളം മയിക്കണം എന്ന് ഉറപ്പാണോ ?</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="210"/>
         <source>Edit bookmark</source>
-        <translation type="unfinished"/>
+        <translation>ഈ  താള്‍ അടയാളം തിട്ടപെടുത്തണോ</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>പൂര്‍ത്തിയായി </translation>
     </message>
 </context><context>
     <name>BookmarkListEditDialog</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="134"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>റദ്ദാക്കുക</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="135"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ശരി</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="274"/>
         <source>left-to-right</source>
-        <translation type="unfinished"/>
+        <translation>ഇടതു നിന്ന് വലത്തേക്ക് </translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>
     <message>
         <location filename="../chrome/browser/qt/common/DownloadShelf.qml" line="220"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>മായിക്കുക</translation>
     </message>
 </context></TS>

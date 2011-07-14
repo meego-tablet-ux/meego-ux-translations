@@ -53,12 +53,12 @@
         <extracomment>%1 is &quot;My Tablet&quot; panel title
 ----------
 %1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>ក្ដារ​របស់​ខ្ញុំ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="160"/>
         <source>The applications you use most will appear here. Discover the apps already in your tablet, or visit Intel AppUp to download more.</source>
-        <translation type="unfinished"/>
+        <translation>កម្មវិធី​ដែល​អ្នក​ឧស្សាហ៍​ប្រើ នឹង​ត្រូវ​បង្ហាញ​នៅ​ទីនេះ។ ស្រាវ​ជ្រាវ​កម្មវិធី​ដែល​មាន​ស្រាប់​ក្នុង ក្ដារ​របស់​អ្នក ឬ ទស្សនា Intel AppUp ដើម្បី​ទាញ​យក​បន្ថែម។</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="192"/>
@@ -69,13 +69,13 @@
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="202"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ការ​កំណត់</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="204"/>
         <source>%1 content</source>
         <extracomment>%1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 មាតិកា</translation>
     </message>
 </context>
 </TS>

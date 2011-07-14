@@ -12,42 +12,42 @@
         <translation>الألبوم غير معروف</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="54"/>
+        <location filename="../../MusicListView.qml" line="59"/>
         <source>Playlist name</source>
         <translation>اسم قائمة التشغيل</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="56"/>
+        <location filename="../../MusicListView.qml" line="61"/>
         <source>Artist name</source>
         <translation>اسم الفنان</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="58"/>
+        <location filename="../../MusicListView.qml" line="63"/>
         <source>Album name</source>
         <translation>اسم الألبوم</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="59"/>
+        <location filename="../../MusicListView.qml" line="64"/>
         <source>Track name</source>
         <translation>اسم المسار</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="74"/>
+        <location filename="../../MusicListView.qml" line="79"/>
         <source>Time</source>
         <translation>الوقت</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="88"/>
+        <location filename="../../MusicListView.qml" line="93"/>
         <source>Album</source>
         <translation>الألبوم</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="102"/>
+        <location filename="../../MusicListView.qml" line="107"/>
         <source>Artist</source>
         <translation>الفنان</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="115"/>
+        <location filename="../../MusicListView.qml" line="120"/>
         <source>Number of tracks</source>
         <translation>عدد المسارات</translation>
     </message>
@@ -55,19 +55,19 @@
 <context>
     <name>MusicToolBar</name>
     <message>
-        <location filename="../../MusicToolBar.qml" line="54"/>
+        <location filename="../../MusicToolBar.qml" line="56"/>
         <source>Now playing: </source>
         <translation>تعرض الآن :</translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1, %2</source>
         <translation>%1, %2</translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1</source>
-        <translation type="unfinished"/>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -137,7 +137,7 @@
         <location filename="../../main.qml" line="101"/>
         <source>Favorite</source>
         <comment>Verb</comment>
-        <translation type="unfinished"/>
+        <translation>مفضل</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -296,7 +296,7 @@
     <message>
         <location filename="../../main.qml" line="80"/>
         <source>To queue music, tap the &apos;%1&apos; button. You can also tap and hold a song, album or playlist, then select &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>قائمة إنتظار الموسيقى ، اضغط على &apos;%1&apos; زر. يمكنك أيضا الضغط باستمرار على الاغنية أو الألبوم ثم تختار &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="81"/>
@@ -351,12 +351,12 @@
     <message>
         <location filename="../../main.qml" line="92"/>
         <source>To add music to a playlist, tap and hold the track you want to add. Then select &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>إضافة إلى قائمة تشغيل الموسيقى ، اضغط مع الاستمرار على المسار الذي تريد إضافته. ثم حدد &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="95"/>
         <source>You don&apos;t have any favorite music tracks</source>
-        <translation type="unfinished"/>
+        <translation>ليس لديك أي مقاطع موسيقية مفضلة</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="96"/>
@@ -366,7 +366,7 @@
     <message>
         <location filename="../../main.qml" line="97"/>
         <source>What are favorites?</source>
-        <translation type="unfinished"/>
+        <translation>ما هي المفضلة؟</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="98"/>
@@ -376,49 +376,49 @@
     <message>
         <location filename="../../main.qml" line="99"/>
         <source>How do I create favorites?</source>
-        <translation type="unfinished"/>
+        <translation>كيف يمكنني إنشاء المفضلة؟</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="101"/>
         <source>To add music to your favorites, tap and hold a music track you love. Then select &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>لإضافة الموسيقى المفضلة لديك ، اضغط مع الاستمرار على مسار الموسيقى التي تحبها. ثم حدد &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="695"/>
+        <location filename="../../main.qml" line="722"/>
         <source>Artist name</source>
         <translation>اسم الفنان</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="703"/>
+        <location filename="../../main.qml" line="730"/>
         <source>Track name</source>
         <translation>اسم المسار</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="717"/>
+        <location filename="../../main.qml" line="744"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>إذا قمت بحذف هذا ، سوف يتم إزالته من جهازك</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="731"/>
+        <location filename="../../main.qml" line="758"/>
         <source>Permanently delete these %n song(s)?</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>حذف %n (الأغنية)  نهائياً</numerusform><numerusform>حذف %n (الأغنية)  نهائياً</numerusform><numerusform>حذف %n (الاغنيتان)  نهائياً</numerusform><numerusform>حذف %n (الأغاني)  نهائياً</numerusform><numerusform>حذف %n (الأغاني)  نهائياً</numerusform><numerusform>حذف %n (الأغاني)  نهائياً</numerusform></translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="744"/>
+        <location filename="../../main.qml" line="771"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>إذا قمت بحذف هذه ، سيتم إزالتها من جهازك</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="791"/>
-        <location filename="../../main.qml" line="834"/>
+        <location filename="../../main.qml" line="818"/>
+        <location filename="../../main.qml" line="861"/>
         <source>Invalid characters: %1</source>
         <translation>أحرف غير صحيحة: %1</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="1989"/>
-        <location filename="../../main.qml" line="2312"/>
+        <location filename="../../main.qml" line="2035"/>
+        <location filename="../../main.qml" line="2361"/>
         <source>%n song(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n (أغنية)</numerusform><numerusform>%n (أغنية)</numerusform><numerusform>%n (أغنيتان)</numerusform><numerusform>%n (أغاني)</numerusform><numerusform>%n (أغاني)</numerusform><numerusform>%n (أغاني)</numerusform></translation>
     </message>
 </context>
 </TS>

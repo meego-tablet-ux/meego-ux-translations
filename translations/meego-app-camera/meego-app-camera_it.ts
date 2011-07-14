@@ -14,15 +14,15 @@
     <message>
         <location filename="../NoSpaceDialog.qml" line="22"/>
         <source>There is no storage space left on the device. To take more photos or video, you may want to delete some existing content.</source>
-        <translation>Spazio di archiviazione sul dispositivo esaurito. Per effettuare altre foto o video, può essere opportuno eliminare alcuni dei contenuti esistenti.</translation>
+        <translation>Spazio di archiviazione sul dispositivo esaurito. Per effettuare altre foto o video, è opportuno eliminare alcuni dei contenuti esistenti.</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../plugin/viewfinder.cpp" line="883"/>
+        <location filename="../plugin/viewfinder.cpp" line="886"/>
         <source>%1:%2:%3</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2:%3</translation>
     </message>
 </context>
 </TS>

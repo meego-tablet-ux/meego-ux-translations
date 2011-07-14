@@ -56,17 +56,17 @@
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
         <source>Airplane Mode is ON</source>
-        <translation type="unfinished"/>
+        <translation>Uçuş Modu AÇIK</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
         <source>To connect WiFi turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>WiFi bağlantısı için Uçuş Modu kapatılmalı</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
         <source>Turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>Uçuş Modunu Kapat</translation>
     </message>
 </context>
 </TS>

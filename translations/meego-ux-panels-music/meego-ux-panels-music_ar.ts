@@ -28,35 +28,35 @@
         <extracomment>%1 is &quot;Music&quot; panel title
 ----------
 %1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>موسيقى</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="100"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 إعدادات</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="102"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 لوحة المحتوى</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="170"/>
         <source>Play some music</source>
-        <translation type="unfinished"/>
+        <translation>شغل بعض الموسيقى</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>مسح التاريخ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="164"/>
         <source>The latest music you play and your playlists will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>أحدث موسيقى عرضتها قائمة التشغيل الخاص بك ستظهر هنا.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="213"/>
@@ -110,12 +110,12 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="446"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>لا يوجد لديك قوائم التشغيل</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="451"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>إنشاء قائمة تشغيل</translation>
     </message>
 </context>
 </TS>

@@ -12,42 +12,42 @@
         <translation>álbum desconocíu</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="54"/>
+        <location filename="../../MusicListView.qml" line="59"/>
         <source>Playlist name</source>
         <translation>Nome de llista de reproducción</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="56"/>
+        <location filename="../../MusicListView.qml" line="61"/>
         <source>Artist name</source>
         <translation>Nome d&apos;artista</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="58"/>
+        <location filename="../../MusicListView.qml" line="63"/>
         <source>Album name</source>
         <translation>Nome d&apos;álbum</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="59"/>
+        <location filename="../../MusicListView.qml" line="64"/>
         <source>Track name</source>
         <translation>Nome de pista</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="74"/>
+        <location filename="../../MusicListView.qml" line="79"/>
         <source>Time</source>
         <translation>Hora</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="88"/>
+        <location filename="../../MusicListView.qml" line="93"/>
         <source>Album</source>
         <translation>Álbum</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="102"/>
+        <location filename="../../MusicListView.qml" line="107"/>
         <source>Artist</source>
         <translation>Artista</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="115"/>
+        <location filename="../../MusicListView.qml" line="120"/>
         <source>Number of tracks</source>
         <translation>Númberu de pistes</translation>
     </message>
@@ -55,17 +55,17 @@
 <context>
     <name>MusicToolBar</name>
     <message>
-        <location filename="../../MusicToolBar.qml" line="54"/>
+        <location filename="../../MusicToolBar.qml" line="56"/>
         <source>Now playing: </source>
         <translation>Agora suena: </translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1, %2</source>
         <translation>%1, %2</translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1</source>
         <translation type="unfinished"/>
     </message>
@@ -384,39 +384,39 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="695"/>
+        <location filename="../../main.qml" line="722"/>
         <source>Artist name</source>
         <translation>Nome del artista</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="703"/>
+        <location filename="../../main.qml" line="730"/>
         <source>Track name</source>
         <translation>Nome de la pista</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="717"/>
+        <location filename="../../main.qml" line="744"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>Si la quites, desaniciaráse del preséu</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="731"/>
+        <location filename="../../main.qml" line="758"/>
         <source>Permanently delete these %n song(s)?</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="744"/>
+        <location filename="../../main.qml" line="771"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>Si les quites, desaniciaránse del preséu</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="791"/>
-        <location filename="../../main.qml" line="834"/>
+        <location filename="../../main.qml" line="818"/>
+        <location filename="../../main.qml" line="861"/>
         <source>Invalid characters: %1</source>
         <translation>Caráuteres inválidos: %1</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="1989"/>
-        <location filename="../../main.qml" line="2312"/>
+        <location filename="../../main.qml" line="2035"/>
+        <location filename="../../main.qml" line="2361"/>
         <source>%n song(s)</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>

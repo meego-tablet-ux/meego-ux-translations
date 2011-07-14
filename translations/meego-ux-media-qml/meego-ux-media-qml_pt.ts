@@ -4,12 +4,12 @@
     <message>
         <location filename="../../Media/MediaGridDocumentDelegate.qml" line="210"/>
         <source>%1 Minute</source>
-        <translation type="unfinished"/>
+        <translation>%1 minuto</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridDocumentDelegate.qml" line="210"/>
         <source>%1 Minutes</source>
-        <translation type="unfinished"/>
+        <translation>%1 minutos</translation>
     </message>
 </context>
 <context>
@@ -17,7 +17,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="321"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n minuto</numerusform><numerusform>%n minutos</numerusform></translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridPhotoAlbumDelegate.qml" line="277"/>
         <source>%n Photo(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n foto</numerusform><numerusform>%n fotos</numerusform></translation>
     </message>
 </context>
 <context>
@@ -33,7 +33,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridVideoDelegate.qml" line="303"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n minuto</numerusform><numerusform>%n minutos</numerusform></translation>
     </message>
 </context>
 <context>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../../Media/MediaGridView.qml" line="178"/>
         <source>Recently viewed</source>
-        <translation>Vistos recentemente</translation>
+        <translation>Recentes</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="179"/>

@@ -29,7 +29,7 @@
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>Favorites</source>
-        <translation>Oblíbená</translation>
+        <translation>Oblíbené</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
@@ -51,7 +51,7 @@
         <location filename="../../main.qml" line="32"/>
         <source>Favorite</source>
         <comment>Verb</comment>
-        <translation type="unfinished"/>
+        <translation>Oblíbit</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
@@ -71,7 +71,7 @@
     <message numerus="yes">
         <location filename="../../main.qml" line="91"/>
         <source>All (%n video(s))</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Všechna (%n video)</numerusform><numerusform>Všechna (%n videa)</numerusform><numerusform>Všechna (%n videa)</numerusform></translation>
     </message>
 </context>
 </TS>

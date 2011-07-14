@@ -53,12 +53,12 @@
         <extracomment>%1 is &quot;My Tablet&quot; panel title
 ----------
 %1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>التابلت الخاص بي</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="160"/>
         <source>The applications you use most will appear here. Discover the apps already in your tablet, or visit Intel AppUp to download more.</source>
-        <translation type="unfinished"/>
+        <translation>سيتم استخدام معظم التطبيقات التي تظهر هنا. اكتشف التطبيقات المثبتة  بالفعل في التابلت ، أو قم  بزيارة تطبيقات إنتل لتحميل أكثر من ذلك.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="192"/>
@@ -69,13 +69,13 @@
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="202"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 إعدادات</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="204"/>
         <source>%1 content</source>
         <extracomment>%1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 محتوى</translation>
     </message>
 </context>
 </TS>

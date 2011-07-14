@@ -2,67 +2,67 @@
 <context>
     <name>AlarmSettings</name>
     <message>
-        <location filename="../../AlarmSettings.qml" line="64"/>
+        <location filename="../../AlarmSettings.qml" line="65"/>
         <source>Name:</source>
         <translation>Name:</translation>
     </message>
     <message>
-        <location filename="../../AlarmSettings.qml" line="72"/>
+        <location filename="../../AlarmSettings.qml" line="74"/>
         <source>Alarm time:</source>
         <translation>Alarm time:</translation>
     </message>
     <message>
-        <location filename="../../AlarmSettings.qml" line="132"/>
+        <location filename="../../AlarmSettings.qml" line="134"/>
         <source>Days:</source>
         <translation>Days:</translation>
     </message>
     <message>
-        <location filename="../../AlarmSettings.qml" line="163"/>
+        <location filename="../../AlarmSettings.qml" line="166"/>
         <source>Snooze duration:</source>
         <translation>Snooze duration:</translation>
     </message>
     <message>
-        <location filename="../../AlarmSettings.qml" line="167"/>
+        <location filename="../../AlarmSettings.qml" line="171"/>
         <source>Never</source>
         <translation>Never</translation>
     </message>
     <message>
-        <location filename="../../AlarmSettings.qml" line="168"/>
+        <location filename="../../AlarmSettings.qml" line="172"/>
         <source>Every 5 mins</source>
         <translation>Every 5 mins</translation>
     </message>
     <message>
-        <location filename="../../AlarmSettings.qml" line="169"/>
+        <location filename="../../AlarmSettings.qml" line="173"/>
         <source>Every 10 mins</source>
         <translation>Every 10 mins</translation>
     </message>
     <message>
-        <location filename="../../AlarmSettings.qml" line="170"/>
+        <location filename="../../AlarmSettings.qml" line="174"/>
         <source>Every 15 mins</source>
         <translation>Every 15 mins</translation>
     </message>
     <message>
-        <location filename="../../AlarmSettings.qml" line="184"/>
+        <location filename="../../AlarmSettings.qml" line="188"/>
         <source>Type:</source>
         <translation>Type:</translation>
     </message>
     <message>
-        <location filename="../../AlarmSettings.qml" line="188"/>
+        <location filename="../../AlarmSettings.qml" line="193"/>
         <source>Sound effect</source>
         <translation>Sound effect</translation>
     </message>
     <message>
-        <location filename="../../AlarmSettings.qml" line="188"/>
+        <location filename="../../AlarmSettings.qml" line="193"/>
         <source>Music track</source>
         <translation>Music track</translation>
     </message>
     <message>
-        <location filename="../../AlarmSettings.qml" line="195"/>
+        <location filename="../../AlarmSettings.qml" line="200"/>
         <source>Sound effect:</source>
         <translation>Sound effect:</translation>
     </message>
     <message>
-        <location filename="../../AlarmSettings.qml" line="218"/>
+        <location filename="../../AlarmSettings.qml" line="224"/>
         <source>Music track:</source>
         <translation>Music track:</translation>
     </message>
@@ -70,17 +70,17 @@
 <context>
     <name>AlarmTile</name>
     <message>
-        <location filename="../../AlarmTile.qml" line="164"/>
+        <location filename="../../AlarmTile.qml" line="157"/>
         <source>Save</source>
         <translation>Save</translation>
     </message>
     <message>
-        <location filename="../../AlarmTile.qml" line="184"/>
+        <location filename="../../AlarmTile.qml" line="177"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="../../AlarmTile.qml" line="194"/>
+        <location filename="../../AlarmTile.qml" line="187"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
@@ -88,43 +88,43 @@
 <context>
     <name>AlarmsPage</name>
     <message>
-        <location filename="../../AlarmsPage.qml" line="19"/>
+        <location filename="../../AlarmsPage.qml" line="21"/>
         <source>Alarms</source>
         <translation>Alarms</translation>
     </message>
     <message>
-        <location filename="../../AlarmsPage.qml" line="21"/>
+        <location filename="../../AlarmsPage.qml" line="23"/>
         <source>New alarm</source>
         <translation>New alarm</translation>
     </message>
     <message>
-        <location filename="../../AlarmsPage.qml" line="86"/>
+        <location filename="../../AlarmsPage.qml" line="155"/>
         <source>Add new alarm</source>
         <translation>Add new alarm</translation>
     </message>
     <message>
-        <location filename="../../AlarmsPage.qml" line="87"/>
+        <location filename="../../AlarmsPage.qml" line="156"/>
         <source>Save</source>
         <translation>Save</translation>
     </message>
     <message>
-        <location filename="../../AlarmsPage.qml" line="88"/>
-        <location filename="../../AlarmsPage.qml" line="123"/>
+        <location filename="../../AlarmsPage.qml" line="157"/>
+        <location filename="../../AlarmsPage.qml" line="192"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="../../AlarmsPage.qml" line="120"/>
+        <location filename="../../AlarmsPage.qml" line="189"/>
         <source>Delete alarm</source>
         <translation>Delete alarm</translation>
     </message>
     <message>
-        <location filename="../../AlarmsPage.qml" line="121"/>
+        <location filename="../../AlarmsPage.qml" line="190"/>
         <source>Are you sure you want to delete?</source>
         <translation>Are you sure you want to delete?</translation>
     </message>
     <message>
-        <location filename="../../AlarmsPage.qml" line="122"/>
+        <location filename="../../AlarmsPage.qml" line="191"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
@@ -132,22 +132,22 @@
 <context>
     <name>ClockTile</name>
     <message>
-        <location filename="../../ClockTile.qml" line="127"/>
+        <location filename="../../ClockTile.qml" line="124"/>
         <source>Choose location:</source>
         <translation>Choose location:</translation>
     </message>
     <message>
-        <location filename="../../ClockTile.qml" line="160"/>
+        <location filename="../../ClockTile.qml" line="158"/>
         <source>Save</source>
         <translation>Save</translation>
     </message>
     <message>
-        <location filename="../../ClockTile.qml" line="171"/>
+        <location filename="../../ClockTile.qml" line="169"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="../../ClockTile.qml" line="181"/>
+        <location filename="../../ClockTile.qml" line="179"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
@@ -165,49 +165,49 @@
         <translation>New clock</translation>
     </message>
     <message>
-        <location filename="../../ClocksPage.qml" line="82"/>
+        <location filename="../../ClocksPage.qml" line="111"/>
         <source>Add new clock</source>
         <translation>Add new clock</translation>
     </message>
     <message>
-        <location filename="../../ClocksPage.qml" line="83"/>
+        <location filename="../../ClocksPage.qml" line="112"/>
         <source>Save</source>
         <translation>Save</translation>
     </message>
     <message>
-        <location filename="../../ClocksPage.qml" line="84"/>
-        <location filename="../../ClocksPage.qml" line="133"/>
-        <location filename="../../ClocksPage.qml" line="147"/>
+        <location filename="../../ClocksPage.qml" line="113"/>
+        <location filename="../../ClocksPage.qml" line="161"/>
+        <location filename="../../ClocksPage.qml" line="175"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="../../ClocksPage.qml" line="93"/>
+        <location filename="../../ClocksPage.qml" line="122"/>
         <source>Choose location:</source>
         <translation>Choose location:</translation>
     </message>
     <message>
-        <location filename="../../ClocksPage.qml" line="130"/>
+        <location filename="../../ClocksPage.qml" line="158"/>
         <source>Delete clock</source>
         <translation>Delete clock</translation>
     </message>
     <message>
-        <location filename="../../ClocksPage.qml" line="131"/>
+        <location filename="../../ClocksPage.qml" line="159"/>
         <source>Are you sure you want to delete?</source>
         <translation>Are you sure you want to delete?</translation>
     </message>
     <message>
-        <location filename="../../ClocksPage.qml" line="132"/>
+        <location filename="../../ClocksPage.qml" line="160"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../../ClocksPage.qml" line="144"/>
+        <location filename="../../ClocksPage.qml" line="172"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../../ClocksPage.qml" line="145"/>
+        <location filename="../../ClocksPage.qml" line="173"/>
         <source>You&apos;ve already got a clock for %1.</source>
         <translation>You&apos;ve already got a clock for %1.</translation>
     </message>
@@ -215,7 +215,7 @@
 <context>
     <name>TimeDayText</name>
     <message>
-        <location filename="../../TimeDayText.qml" line="34"/>
+        <location filename="../../TimeDayText.qml" line="37"/>
         <source>%1 %2</source>
         <comment>TimeWeekday</comment>
         <extracomment>%1 is formatted time, %2 is weekday</extracomment>
@@ -295,11 +295,6 @@
         <translation>Sun</translation>
     </message>
     <message>
-        <location filename="../../functions.js" line="19"/>
-        <source>%1:%2</source>
-        <translation>%1:%2</translation>
-    </message>
-    <message>
         <location filename="../../functions.js" line="30"/>
         <source>Every Day</source>
         <translation>Every Day</translation>
@@ -318,89 +313,14 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="22"/>
+        <location filename="../../main.qml" line="23"/>
         <source>Clocks</source>
         <translation>Clocks</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="22"/>
+        <location filename="../../main.qml" line="23"/>
         <source>Alarms</source>
         <translation>Alarms</translation>
-    </message>
-</context>
-<context>
-    <name>main-old</name>
-    <message>
-        <location filename="../../main-old.qml" line="18"/>
-        <location filename="../../main-old.qml" line="28"/>
-        <location filename="../../main-old.qml" line="137"/>
-        <source>Clocks</source>
-        <translation>Clocks</translation>
-    </message>
-    <message>
-        <location filename="../../main-old.qml" line="18"/>
-        <location filename="../../main-old.qml" line="34"/>
-        <source>Alarms</source>
-        <translation>Alarms</translation>
-    </message>
-    <message>
-        <location filename="../../main-old.qml" line="59"/>
-        <source>yes</source>
-        <translation>yes</translation>
-    </message>
-    <message>
-        <location filename="../../main-old.qml" line="60"/>
-        <source>no</source>
-        <translation>no</translation>
-    </message>
-    <message>
-        <location filename="../../main-old.qml" line="61"/>
-        <source>Are you sure you want to delete?</source>
-        <translation>Are you sure you want to delete?</translation>
-    </message>
-    <message>
-        <location filename="../../main-old.qml" line="144"/>
-        <source>New alarm</source>
-        <translation>New alarm</translation>
-    </message>
-    <message>
-        <location filename="../../main-old.qml" line="144"/>
-        <source>New clock</source>
-        <translation>New clock</translation>
-    </message>
-    <message>
-        <location filename="../../main-old.qml" line="374"/>
-        <source>Alarm details</source>
-        <translation>Alarm details</translation>
-    </message>
-    <message>
-        <location filename="../../main-old.qml" line="374"/>
-        <source>Delete alarm</source>
-        <translation>Delete alarm</translation>
-    </message>
-    <message>
-        <location filename="../../main-old.qml" line="374"/>
-        <location filename="../../main-old.qml" line="392"/>
-        <source>Move to top</source>
-        <translation>Move to top</translation>
-    </message>
-    <message>
-        <location filename="../../main-old.qml" line="383"/>
-        <location filename="../../main-old.qml" line="392"/>
-        <source>Edit clock</source>
-        <translation>Edit clock</translation>
-    </message>
-    <message>
-        <location filename="../../main-old.qml" line="383"/>
-        <location filename="../../main-old.qml" line="392"/>
-        <source>Make local time</source>
-        <translation>Make local time</translation>
-    </message>
-    <message>
-        <location filename="../../main-old.qml" line="383"/>
-        <location filename="../../main-old.qml" line="392"/>
-        <source>Delete clock</source>
-        <translation>Delete clock</translation>
     </message>
 </context>
 <context>

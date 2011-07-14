@@ -4,7 +4,7 @@
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="68"/>
         <source>Choose an album to upload to</source>
-        <translation type="unfinished"/>
+        <translation>Valitse lähetettävä albumi palveluun</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="171"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="317"/>
         <source>Upload %1 to %2</source>
-        <translation type="unfinished"/>
+        <translation>Lähetä %1 palveluun %2</translation>
     </message>
 </context>
 <context>
@@ -63,7 +63,7 @@
         <location filename="../../qml/CreateCollection.qml" line="148"/>
         <location filename="../../qml/CreateCollection.qml" line="235"/>
         <source>Collection creation: General error</source>
-        <translation type="unfinished"/>
+        <translation>Kokoelman luonti: Yleinen virhe</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="155"/>
@@ -88,7 +88,7 @@
     <message>
         <location filename="../../qml/CreateCollection.qml" line="249"/>
         <source>Upload %1 to %2</source>
-        <translation type="unfinished"/>
+        <translation>Lähetä %1 palveluun %2</translation>
     </message>
 </context>
 <context>
@@ -96,7 +96,7 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="32"/>
         <source>No album</source>
-        <translation type="unfinished"/>
+        <translation>Ei albumia</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="220"/>
@@ -121,12 +121,12 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="257"/>
         <source>Upload %1 to %2</source>
-        <translation type="unfinished"/>
+        <translation>Lähetä %1 palveluun %2</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="275"/>
         <source>File %1 of %2</source>
-        <translation type="unfinished"/>
+        <translation>Tiedosto %1 / %2</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="295"/>
@@ -136,7 +136,7 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="300"/>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Lähetä</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="302"/>
@@ -196,17 +196,17 @@
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation type="unfinished"/>
+        <translation>Vain sinä (yksityinen)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="87"/>
         <source>Your friends</source>
-        <translation type="unfinished"/>
+        <translation>Ystävät</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="119"/>
         <source>Your family</source>
-        <translation type="unfinished"/>
+        <translation>Perhe</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="153"/>
@@ -234,17 +234,17 @@
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation type="unfinished"/>
+        <translation>Vain sinä (yksityinen)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="87"/>
         <source>Your friends</source>
-        <translation type="unfinished"/>
+        <translation>Ystävät</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="119"/>
         <source>Your family</source>
-        <translation type="unfinished"/>
+        <translation>Perhe</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="153"/>
@@ -272,17 +272,17 @@
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation type="unfinished"/>
+        <translation>Vain sinä (yksityinen)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="87"/>
         <source>Your friends</source>
-        <translation type="unfinished"/>
+        <translation>Ystävät</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="119"/>
         <source>Your family</source>
-        <translation type="unfinished"/>
+        <translation>Perhe</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="153"/>
@@ -310,17 +310,17 @@
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation type="unfinished"/>
+        <translation>Vain sinä (yksityinen)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="87"/>
         <source>Your friends</source>
-        <translation type="unfinished"/>
+        <translation>Ystävät</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="119"/>
         <source>Your family</source>
-        <translation type="unfinished"/>
+        <translation>Perhe</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="153"/>
@@ -401,12 +401,12 @@
     <message>
         <location filename="../../qml/vimeo_video_multi.qml" line="20"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>Videon nimi</translation>
     </message>
     <message>
         <location filename="../../qml/vimeo_video_multi.qml" line="23"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>Videon kuvaus</translation>
     </message>
 </context>
 <context>
@@ -414,12 +414,12 @@
     <message>
         <location filename="../../qml/vimeo_video_single.qml" line="20"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>Videon nimi</translation>
     </message>
     <message>
         <location filename="../../qml/vimeo_video_single.qml" line="23"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>Videon kuvaus</translation>
     </message>
 </context>
 <context>

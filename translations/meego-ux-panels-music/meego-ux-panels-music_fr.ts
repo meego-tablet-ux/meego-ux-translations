@@ -11,7 +11,7 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="57"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="309"/>
         <source>Coming up in play queue</source>
-        <translation type="unfinished"/>
+        <translation>À venir dans la playlist</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="58"/>
@@ -28,35 +28,35 @@
         <extracomment>%1 is &quot;Music&quot; panel title
 ----------
 %1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Musique</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="100"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 paramètres</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="102"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>le panneau contient %1 </translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="170"/>
         <source>Play some music</source>
-        <translation type="unfinished"/>
+        <translation>Écouter de la musique</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Effacer l&apos;historique</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="164"/>
         <source>The latest music you play and your playlists will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>La dernière musique que vous avez écouté et vos playlist apparaîssent ici.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="213"/>
@@ -100,22 +100,22 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="362"/>
         <source>Your play queue is empty</source>
-        <translation type="unfinished"/>
+        <translation>La file d&apos;attente est vide</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="380"/>
         <source>Add music to the play queue</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter de la musique à la playlist</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="446"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>Vous n&apos;avez pas de playlist</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="451"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>Créer une playlist</translation>
     </message>
 </context>
 </TS>

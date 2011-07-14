@@ -372,13 +372,13 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="582"/>
         <source>Are you sure you want to delete the %n selected photos?</source>
         <extracomment>This is a label for the photo deletion confirmation modal dialog when removing photos</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Tem certeza que quer excluir %n foto selecionada?</numerusform><numerusform>Tem certeza que quer excluir as %n fotos selecionadas?</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../main.qml" line="948"/>
         <source>%n photo(s)</source>
         <extracomment>This is a metadata label for indicating the number of photos in the album</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n foto(s)</numerusform><numerusform>%n foto(s)</numerusform></translation>
     </message>
 </context>
 </TS>

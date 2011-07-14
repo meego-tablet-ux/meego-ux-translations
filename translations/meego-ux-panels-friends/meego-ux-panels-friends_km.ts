@@ -2,12 +2,12 @@
 <context>
     <name>FriendsItem</name>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="201"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="208"/>
         <source>Accept</source>
         <translation>យល់​ព្រម</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="211"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="218"/>
         <source>Decline</source>
         <translation>បដិសេធ</translation>
     </message>
@@ -23,39 +23,39 @@
         <extracomment>%1 is &quot;Friends&quot; panel title
 ----------
 %1 is &quot;Friends&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>មិត្ត​ភក្តិ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="37"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Friends&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ការ​កំណត់</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="39"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Friends&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 មាតិកា​បន្ទះ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="127"/>
         <source>Emails, instant messages and social network updates will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>អ៊ីមែល, ការ​ផ្ញើ​សារ​ភ្លាមៗ, និង ការ​អាប់​ដេត​នៃ​បណ្ដាញ​សង្គម នឹង​ត្រូវ​បាន​បង្ហាញ​នៅ​ទីនេះ។</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="162"/>
         <source>No recent updates from friends.</source>
-        <translation type="unfinished"/>
+        <translation>មិន​មាន​ការ​អាប់ដេត​ថ្មីៗ ពី​មិត្ត​ភក្តិ​ទេ។</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="172"/>
         <source>You have turned off all your accounts.</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​បាន​បិទ​គណនី​របស់​អ្នក​ទាំង​អស់។</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="177"/>
         <source>Turn accounts on</source>
-        <translation type="unfinished"/>
+        <translation>បើក​គណនី</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="229"/>
@@ -73,27 +73,27 @@
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="257"/>
         <source>You have cleared the Friends history</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​បាន​សម្អាត​ប្រវត្តិ មិត្ត​ភក្តិ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="315"/>
         <source>Set up your email</source>
-        <translation type="unfinished"/>
+        <translation>រៀប​ចំ​អ៊ីមែល​របស់​អ្នក</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="319"/>
         <source>Set up your instant messaging</source>
-        <translation type="unfinished"/>
+        <translation>រៀប​ចំ​ការ​ផ្ញើ​សារ​ភ្លាមៗ​របស់​អ្នក</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="323"/>
         <source>Sign in to a social network</source>
-        <translation type="unfinished"/>
+        <translation>ភ្ជាប់​ចូល​បណ្ដាញ​សង្គម</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="377"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>សម្អាត​ប្រវត្តិ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="440"/>

@@ -22,40 +22,40 @@
         <extracomment>%1 is &quot;Photos&quot; panel title
 ----------
 %1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>រូបថត</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="92"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ការ​កំណត់</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="94"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 មាតិកា​បន្ទះ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="129"/>
         <source>View some photos</source>
-        <translation type="unfinished"/>
+        <translation>មើល​រូប​ថត​ខ្លះៗ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>សម្អាត​ប្រវត្តិ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="123"/>
         <source>The latest photos you view and your photo albums will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>រូប​ដែល​អ្នក​បាន​​មើល​ចុង​ក្រោយ និង អាល់បុម​រូប​របស់​អ្នក នឹង​ត្រូវ​បង្ហាញ​នៅ​ទី​នេះ។</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="166"/>
         <source>You have cleared the Photos history</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​បាន​សម្អាត​ប្រវត្តិ​រូប​ថត</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
@@ -87,18 +87,18 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="241"/>
         <source>You have no photo albums</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​មិន​មាន​អាល់បុម​រូប​ថត​ទេ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="246"/>
         <source>Create an album</source>
-        <translation type="unfinished"/>
+        <translation>បង្កើត​អាល់​បុម</translation>
     </message>
     <message numerus="yes">
         <location filename="../../panelsrc/photos/photospanel.qml" line="275"/>
         <source>%n photo(s)</source>
         <comment>albumphotocount</comment>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n រូប</numerusform></translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="285"/>

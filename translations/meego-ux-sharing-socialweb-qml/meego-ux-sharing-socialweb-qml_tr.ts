@@ -401,12 +401,12 @@
     <message>
         <location filename="../../qml/vimeo_video_multi.qml" line="20"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>Video adı</translation>
     </message>
     <message>
         <location filename="../../qml/vimeo_video_multi.qml" line="23"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>Video açıklaması</translation>
     </message>
 </context>
 <context>
@@ -414,12 +414,12 @@
     <message>
         <location filename="../../qml/vimeo_video_single.qml" line="20"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>Video adı</translation>
     </message>
     <message>
         <location filename="../../qml/vimeo_video_single.qml" line="23"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>Video açıklaması</translation>
     </message>
 </context>
 <context>

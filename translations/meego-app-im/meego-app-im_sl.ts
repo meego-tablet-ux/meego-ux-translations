@@ -158,6 +158,14 @@
     </message>
 </context>
 <context>
+    <name>ContactDelegate</name>
+    <message>
+        <location filename="../../ContactDelegate.qml" line="140"/>
+        <source>Report abuse</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FileTransferAgent</name>
     <message>
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="54"/>
@@ -175,87 +183,87 @@
 <context>
     <name>IMConversationModel</name>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="257"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="243"/>
         <source>%1 joined the chat</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="272"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="258"/>
         <source>%1 is typing</source>
         <translation>%1 tipka</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="274"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="260"/>
         <source>%1 and %2 are typing</source>
         <translation>%1 in %2 tipkata</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="276"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="262"/>
         <source>Lots of people are typing</source>
         <translation>Tipka veliko ljudi</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="281"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="267"/>
         <source>%1 left the chat</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="289"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="275"/>
         <source>%1 has paused typing</source>
         <translation>%1 je prekinil s tipkanjem</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="297"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="283"/>
         <source>%1 is now idle</source>
         <translation>%1 je sedaj nedejaven</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="381"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="367"/>
         <source>%1 is calling you</source>
         <translation>Kliče vas %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="385"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="371"/>
         <source>Setting up call to %1</source>
         <translation>Vzpostavljanje klica z %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="388"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="374"/>
         <source>Calling %1</source>
         <translation>Klicanje %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="391"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="377"/>
         <source>Call with %1 started</source>
         <translation>Klic z %1 se je pričel</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="394"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="380"/>
         <source>Call with %1 on hold</source>
         <translation>Klic z %1 je zadržan</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="454"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="440"/>
         <source>Error in call with %1</source>
         <translation>Napaka v klicu z %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="482"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="468"/>
         <source>%1 bytes</source>
         <translation>%1 B</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="486"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="472"/>
         <source>%1 KB</source>
         <translation>%1 KiB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="490"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="476"/>
         <source>%1 MB</source>
         <translation>%1 MiB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="494"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="480"/>
         <source>%1 GB</source>
         <translation>%1 GiB</translation>
     </message>
@@ -297,47 +305,47 @@ Message indicating the contact has been added</extracomment>
 <context>
     <name>ImSettings</name>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="16"/>
+        <location filename="../../settings/ImSettings.qml" line="18"/>
         <source>Instant Messaging Settings</source>
         <translation>Nastavitve takojšnjega sporočanja</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="107"/>
+        <location filename="../../settings/ImSettings.qml" line="120"/>
         <source>Accounts</source>
         <translation>Računi</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="136"/>
+        <location filename="../../settings/ImSettings.qml" line="149"/>
         <source>Add another account</source>
         <translation>Dodaj drug račun</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="137"/>
+        <location filename="../../settings/ImSettings.qml" line="150"/>
         <source>Add an account</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="154"/>
+        <location filename="../../settings/ImSettings.qml" line="167"/>
         <source>General Settings</source>
         <translation>Splošne nastavitve</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="176"/>
+        <location filename="../../settings/ImSettings.qml" line="189"/>
         <source>Show offline contacts</source>
         <translation>Prikaži uporabnike brez povezave</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="214"/>
+        <location filename="../../settings/ImSettings.qml" line="227"/>
         <source>Notification on new message</source>
         <translation>Obvestilo o novem sporočilu</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="251"/>
+        <location filename="../../settings/ImSettings.qml" line="264"/>
         <source>Clear chat history</source>
         <translation>Počisti zgodovino klepeta</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="275"/>
+        <location filename="../../settings/ImSettings.qml" line="288"/>
         <source>Blocked contacts</source>
         <translation>Blokirani stiki</translation>
     </message>

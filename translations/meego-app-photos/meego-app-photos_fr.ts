@@ -29,13 +29,13 @@
         <location filename="../../AlbumsView.qml" line="39"/>
         <source>Rename album</source>
         <extracomment>This is a title for the album rename modal dialog</extracomment>
-        <translation type="unfinished"/>
+        <translation>Renommez l&apos;album</translation>
     </message>
     <message>
         <location filename="../../AlbumsView.qml" line="41"/>
         <source>Rename</source>
         <extracomment>This is a rename album modal dialog accept button label</extracomment>
-        <translation type="unfinished"/>
+        <translation>Renommer</translation>
     </message>
 </context>
 <context>
@@ -63,7 +63,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>This is a context menu command for marking photos as favorite</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favoris</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="43"/>
@@ -96,7 +96,7 @@
         <location filename="../../main.qml" line="30"/>
         <source>Show only:</source>
         <extracomment>This is a filter menu title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Afficher seulement:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -108,7 +108,7 @@
         <location filename="../../main.qml" line="34"/>
         <source>Newest</source>
         <extracomment>This is a filter menu option for showing recently added items in the data model (photos/albums)</extracomment>
-        <translation type="unfinished"/>
+        <translation>Récent</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
@@ -120,7 +120,7 @@
         <location filename="../../main.qml" line="38"/>
         <source>Recently viewed</source>
         <extracomment>This is a filter menu option for showing items recently viewed in the data model (photos/albums)</extracomment>
-        <translation type="unfinished"/>
+        <translation>Récemment consulté</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="40"/>
@@ -147,7 +147,7 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="48"/>
         <source>Timeline</source>
         <extracomment>This is the title for the timeline view (Show by date)</extracomment>
-        <translation type="unfinished"/>
+        <translation>Chronologie</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="50"/>
@@ -256,7 +256,7 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="84"/>
         <source>Album name</source>
         <extracomment>This is a create album modal dialog default text</extracomment>
-        <translation type="unfinished"/>
+        <translation>Nom de l&apos;album</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="86"/>
@@ -268,7 +268,7 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="88"/>
         <source>Type in a new name</source>
         <extracomment>This is an action menu rename photo text entry area's default text</extracomment>
-        <translation type="unfinished"/>
+        <translation>Tapez un nouveau nom</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="91"/>
@@ -280,81 +280,83 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="94"/>
         <source>You have no photos</source>
         <extracomment>This is an information label telling the user that there are no photos</extracomment>
-        <translation type="unfinished"/>
+        <translation>Vous n&apos;avez pas de photos</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="96"/>
         <source>You haven&apos;t added any photos recently</source>
         <extracomment>This is an information label telling the user that there are no recently added photos</extracomment>
-        <translation type="unfinished"/>
+        <translation>Vous n&apos;avez pas ajouté de photos récemment</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="98"/>
         <source>You don&apos;t have any favorite photos</source>
         <extracomment>This is an information label telling the user that none of the photos are marked as favorite</extracomment>
-        <translation type="unfinished"/>
+        <translation>Vous n&apos;avez pas de photos préférées</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="100"/>
         <source>You haven&apos;t viewed any photos recently</source>
         <extracomment>This is an information label telling the user that none of the photos have been viewed for a while</extracomment>
-        <translation type="unfinished"/>
+        <translation>Vous n&apos;avez pas consulté de photos récemment</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="102"/>
         <source>You have no albums</source>
         <extracomment>This is an information label telling the user that there are no albums</extracomment>
-        <translation type="unfinished"/>
+        <translation>Vous n&apos;avez pas d&apos;albums</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="104"/>
         <source>You haven&apos;t added any albums recently</source>
         <extracomment>This is an information label telling the user that there are no recently added albums</extracomment>
-        <translation type="unfinished"/>
+        <translation>Vous n&apos;avez pas ajouté d&apos;albums récemment</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="106"/>
         <source>You haven&apos;t viewed any albums recently</source>
         <extracomment>This is an information label telling the user that none of the albums have been viewed recently</extracomment>
-        <translation type="unfinished"/>
+        <translation>Vous n&apos;avez pas regardé d&apos;album récemment</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="108"/>
         <source>You don&apos;t have any photos in this album</source>
         <extracomment>This is an information label telling the user that the current album is empty</extracomment>
-        <translation type="unfinished"/>
+        <translation>Vous n&apos;avez pas de photos dans cet album</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="111"/>
         <source>Take a photo</source>
         <extracomment>This is an action button label launching the camera application</extracomment>
-        <translation type="unfinished"/>
+        <translation>Prenez une photo</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="113"/>
         <source>View all photos</source>
         <extracomment>This is an action button label for going to the photos view with all filter used</extracomment>
-        <translation type="unfinished"/>
+        <translation>Voir toutes les photos</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="115"/>
         <source>Create an album</source>
         <extracomment>This is an action button label for creating a new album</extracomment>
-        <translation type="unfinished"/>
+        <translation>Créer un album</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="118"/>
         <source>This photo was taken on
 %1</source>
         <extracomment>This is a label text for the photo details dialog. The %1 is a fuzzy date/time string, e.g. &quot;1/31/11 - a few months ago&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>Cette photo a été prise le
+%1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="120"/>
         <source>This album was added on
 %1</source>
         <extracomment>This is a label text for the photo details dialog. The %1 is a fuzzy date/time string, e.g. &quot;1/31/11 - a few months ago&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>Cet album a été ajoutée le
+%1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="130"/>
@@ -372,13 +374,13 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="582"/>
         <source>Are you sure you want to delete the %n selected photos?</source>
         <extracomment>This is a label for the photo deletion confirmation modal dialog when removing photos</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Êtes-vous sûr de vouloir supprimer le %n photos sélectionnées ?</numerusform><numerusform>Êtes-vous sûr de vouloir supprimer le %n photos sélectionnées ?</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../main.qml" line="948"/>
         <source>%n photo(s)</source>
         <extracomment>This is a metadata label for indicating the number of photos in the album</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n photo (s)</numerusform><numerusform>%n photo (s)</numerusform></translation>
     </message>
 </context>
 </TS>

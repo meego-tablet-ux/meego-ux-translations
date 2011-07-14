@@ -35,7 +35,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="490"/>
         <source>Unable to set hold</source>
-        <translation type="unfinished"/>
+        <translation>Dji n&apos; sai mete come ritnou</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="590"/>
@@ -92,17 +92,17 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1686"/>
         <source>Call resources were lost</source>
-        <translation type="unfinished"/>
+        <translation>Les rsources do houcaedje ont stî pierdowes</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1695"/>
         <source>Call resources not granted</source>
-        <translation type="unfinished"/>
+        <translation>Les rsources do houcaedje n&apos; ont nén stî dnêyes</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1704"/>
         <source>Error acquiring call resources</source>
-        <translation type="unfinished"/>
+        <translation>Åk n&apos; a nén stî come dj&apos; obtineu les rsources do houcaedje</translation>
     </message>
 </context>
 <context>
@@ -158,6 +158,14 @@
     </message>
 </context>
 <context>
+    <name>ContactDelegate</name>
+    <message>
+        <location filename="../../ContactDelegate.qml" line="140"/>
+        <source>Report abuse</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FileTransferAgent</name>
     <message>
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="54"/>
@@ -175,87 +183,87 @@
 <context>
     <name>IMConversationModel</name>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="257"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="243"/>
         <source>%1 joined the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 a rdjondou l&apos; berdelaedje</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="272"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="258"/>
         <source>%1 is typing</source>
         <translation>%1 est ki tape</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="274"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="260"/>
         <source>%1 and %2 are typing</source>
         <translation>%1 eyet %2 sont ki tapèt</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="276"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="262"/>
         <source>Lots of people are typing</source>
         <translation>Bråmint des djins sont ki tapèt</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="281"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="267"/>
         <source>%1 left the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 a cwité l&apos; berdelaedje</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="289"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="275"/>
         <source>%1 has paused typing</source>
         <translation>%1 s&apos; a djoké d&apos; taper</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="297"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="283"/>
         <source>%1 is now idle</source>
         <translation>%1 est asteure wåleu</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="381"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="367"/>
         <source>%1 is calling you</source>
         <translation>%1 vos houke</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="385"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="371"/>
         <source>Setting up call to %1</source>
         <translation>Dj&apos; enonde li houcaedje a %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="388"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="374"/>
         <source>Calling %1</source>
         <translation>Houcaedje a %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="391"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="377"/>
         <source>Call with %1 started</source>
         <translation>Houcaedje a %1 enondé</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="394"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="380"/>
         <source>Call with %1 on hold</source>
         <translation>Houcaedje a %1 ritnou</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="454"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="440"/>
         <source>Error in call with %1</source>
         <translation>Åk n&apos; a nén stî come dji houkeu %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="482"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="468"/>
         <source>%1 bytes</source>
         <translation>%1 octets</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="486"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="472"/>
         <source>%1 KB</source>
         <translation>%1 Ko</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="490"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="476"/>
         <source>%1 MB</source>
         <translation>%1 Mo</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="494"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="480"/>
         <source>%1 GB</source>
         <translation>%1 Go</translation>
     </message>
@@ -283,7 +291,7 @@
         <extracomment>Message indicating the contact has been added
 ----------
 Message indicating the contact has been added</extracomment>
-        <translation type="unfinished"/>
+        <translation>a stî radjouté come contak</translation>
     </message>
 </context>
 <context>
@@ -297,47 +305,47 @@ Message indicating the contact has been added</extracomment>
 <context>
     <name>ImSettings</name>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="16"/>
+        <location filename="../../settings/ImSettings.qml" line="18"/>
         <source>Instant Messaging Settings</source>
         <translation>Tchuzes del messaedjreye sol moumint</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="107"/>
+        <location filename="../../settings/ImSettings.qml" line="120"/>
         <source>Accounts</source>
         <translation>Contes</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="136"/>
+        <location filename="../../settings/ImSettings.qml" line="149"/>
         <source>Add another account</source>
         <translation>Radjouter èn ôte conte</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="137"/>
+        <location filename="../../settings/ImSettings.qml" line="150"/>
         <source>Add an account</source>
-        <translation type="unfinished"/>
+        <translation>Radjouter on conte</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="154"/>
+        <location filename="../../settings/ImSettings.qml" line="167"/>
         <source>General Settings</source>
         <translation>Tchuzes po tot costé</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="176"/>
+        <location filename="../../settings/ImSettings.qml" line="189"/>
         <source>Show offline contacts</source>
         <translation>Mostrer les contaks disraloyîs</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="214"/>
+        <location filename="../../settings/ImSettings.qml" line="227"/>
         <source>Notification on new message</source>
         <translation>Notifiaedje des noveas messaedjes</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="251"/>
+        <location filename="../../settings/ImSettings.qml" line="264"/>
         <source>Clear chat history</source>
         <translation>Rinetyî l&apos; istwere des berdelaeds</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="275"/>
+        <location filename="../../settings/ImSettings.qml" line="288"/>
         <source>Blocked contacts</source>
         <translation>Contaks ehåyîs</translation>
     </message>
@@ -384,7 +392,7 @@ Message indicating the contact has been added</extracomment>
         <location filename="../../SearchHeader.qml" line="50"/>
         <source>%n matches found</source>
         <extracomment>%n is the number of items matching the search criteria</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n ki corespond di trové</numerusform><numerusform>%n ki corespondèt di trovés</numerusform></translation>
     </message>
 </context>
 <context>
@@ -392,27 +400,27 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../StatusModel.qml" line="9"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>K&apos; est la</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="14"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Evoye</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="19"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Ocupé</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="24"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Nén veyåve</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="29"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Disraloyî</translation>
     </message>
 </context>
 <context>
@@ -429,364 +437,364 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../constants.js" line="4"/>
         <source>Multiple accounts connected</source>
-        <translation type="unfinished"/>
+        <translation>Sacwants contes di raloyîs</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="5"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation type="unfinished"/>
+        <translation>Voloz vs vos raloyî a ç&apos; conte la po do bon ? Tot fjhant çoula, tos les ôtes %1 contes seront disraloyîs.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="6"/>
         <location filename="../../constants.js" line="35"/>
         <source>Log out</source>
-        <translation type="unfinished"/>
+        <translation>Si dislodjî</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="7"/>
         <source>Log in to %1</source>
-        <translation type="unfinished"/>
+        <translation>S&apos; elodjî dvins %1</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="8"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Apontiaedjes</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="11"/>
         <source>Account list</source>
-        <translation type="unfinished"/>
+        <translation>Djivêye des contes</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="12"/>
         <source>Loading accounts...</source>
-        <translation type="unfinished"/>
+        <translation>Dji tchedje les contes...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="13"/>
         <source>Choose an account</source>
-        <translation type="unfinished"/>
+        <translation>Tchoezixhoz on conte</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="14"/>
         <source>Add an account</source>
-        <translation type="unfinished"/>
+        <translation>Radjouter on conte</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="15"/>
         <source>Your account has been added</source>
-        <translation type="unfinished"/>
+        <translation>Vosse conte a stî radjouté</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="18"/>
         <source>Friend&apos;s username</source>
-        <translation type="unfinished"/>
+        <translation>No di l&apos; uzeu do soçon</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="19"/>
         <location filename="../../constants.js" line="104"/>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Evoyî</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="20"/>
         <source>Sending request</source>
-        <translation type="unfinished"/>
+        <translation>Dj&apos; evoye li dmande</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="21"/>
         <source>Request sent</source>
-        <translation type="unfinished"/>
+        <translation>Dimande evoyeye</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="22"/>
         <source>Your device is not connected to a network. Please connect and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Vost éndjin n&apos; est nén raloyî a ene rantoele. Raloyîz vs, s&apos; i vs plait eyet rsayî cor on côp.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="25"/>
         <source>Update status</source>
-        <translation type="unfinished"/>
+        <translation>Mete a djoû l&apos; estat</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="26"/>
         <source>Your Status:</source>
-        <translation type="unfinished"/>
+        <translation>Voste estat :</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="27"/>
         <source>Custom status message</source>
-        <translation type="unfinished"/>
+        <translation>Messaedje d&apos; estat a vosse môde</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="28"/>
         <location filename="../../constants.js" line="31"/>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Mete a djoû</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="29"/>
         <source>Change display name</source>
-        <translation type="unfinished"/>
+        <translation>Candjî l&apos; no d&apos; håyné</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="30"/>
         <source>Display name</source>
-        <translation type="unfinished"/>
+        <translation>No d&apos; håyné</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="32"/>
         <location filename="../../constants.js" line="58"/>
         <source>Add a friend</source>
-        <translation type="unfinished"/>
+        <translation>Radjouter on soçon</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="33"/>
         <location filename="../../constants.js" line="79"/>
         <source>Clear chat history</source>
-        <translation type="unfinished"/>
+        <translation>Disfacer l&apos; istwere des berdelaedjes</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="34"/>
         <source>Log in</source>
-        <translation type="unfinished"/>
+        <translation>S&apos; elodjî</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="38"/>
         <source>Return to chat</source>
-        <translation type="unfinished"/>
+        <translation>Raler å berdelaedje</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="39"/>
         <source>Open chat</source>
-        <translation type="unfinished"/>
+        <translation>Drovi berdelaedje</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="40"/>
         <source>Call</source>
-        <translation type="unfinished"/>
+        <translation>Houkî</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="41"/>
         <source>Video call</source>
-        <translation type="unfinished"/>
+        <translation>Houcaedje videyo</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="42"/>
         <source>Unblock</source>
-        <translation type="unfinished"/>
+        <translation>Disehåyî</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="43"/>
         <source>Block</source>
-        <translation type="unfinished"/>
+        <translation>Ehåyî</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="44"/>
         <location filename="../../constants.js" line="80"/>
         <source>End chat</source>
-        <translation type="unfinished"/>
+        <translation>Fini berdelaedje</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="45"/>
         <source>Delete contact</source>
-        <translation type="unfinished"/>
+        <translation>Disfacer contak</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="48"/>
         <location filename="../../constants.js" line="78"/>
         <source>Add contacts to chat</source>
-        <translation type="unfinished"/>
+        <translation>Radjouter des contaks ås berdelaedje</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="49"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Radjouter</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="50"/>
         <location filename="../../constants.js" line="55"/>
         <location filename="../../constants.js" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Rinoncî</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="53"/>
         <source>Friend request from</source>
-        <translation type="unfinished"/>
+        <translation>Dimande d&apos; esse soçon di</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="54"/>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Prinde</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="59"/>
         <source>Loading contacts...</source>
-        <translation type="unfinished"/>
+        <translation>Dji tchedje les contaks...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="60"/>
         <source>You haven&apos;t added any friends yet</source>
-        <translation type="unfinished"/>
+        <translation>Vos n&apos; avoz nén co radjouté d&apos; soçons</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="61"/>
         <source>Account is offline</source>
-        <translation type="unfinished"/>
+        <translation>Li conte est disraloyî</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="62"/>
         <source>Logging in...</source>
-        <translation type="unfinished"/>
+        <translation>Dji m&apos; elodje</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="65"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Drovi</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="66"/>
         <source>There was a problem downloading</source>
-        <translation type="unfinished"/>
+        <translation>Åk n&apos; a nén stî come dj&apos; aberweteu</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="67"/>
         <source>There was a problem uploading</source>
-        <translation type="unfinished"/>
+        <translation>Åk n&apos; a nén stî come dj&apos; eberweteu</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="68"/>
         <source>Canceled</source>
-        <translation type="unfinished"/>
+        <translation>Rinoncî</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Schaper</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="70"/>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Ribôrer</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="74"/>
         <source>Private chat</source>
-        <translation type="unfinished"/>
+        <translation>Berdelaedje privé</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="75"/>
         <source>Add to contacts</source>
-        <translation type="unfinished"/>
+        <translation>Radjouter ås contaks</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="84"/>
         <source>(%1)</source>
         <extracomment>%1 is the file size</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="85"/>
         <source>Upload canceled:</source>
-        <translation type="unfinished"/>
+        <translation>Eberwetaedje rinoncî :</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="86"/>
         <source>Sent:</source>
-        <translation type="unfinished"/>
+        <translation>Evoyî :</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="87"/>
         <source>Uploading:</source>
-        <translation type="unfinished"/>
+        <translation>A l&apos; eberwetaedje :</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="89"/>
         <source>%1 has sent you:</source>
         <extracomment>%1 is the nickname of the contact sending you a file</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 vos a evoyî :</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="91"/>
         <source>%1 is sending you:</source>
         <extracomment>%1 is the nickname of the contact sending you a file</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 vos evoye :</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="93"/>
         <source>%1 - %2</source>
         <extracomment>%1 is event describing what happened - %2 is date and time</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="95"/>
         <source>%1 tried to call - %2</source>
         <extracomment>%1 contact id who called - %2 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 a sayî d&apos; houkî - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="97"/>
         <source>%1 rejected call - %2</source>
         <extracomment>%1 contact id who rejected the call - %2 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 a rbôré l&apos; houcaedje - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="99"/>
         <source>%1 called - duration %2 - %3</source>
         <extracomment>%1 contact id who called - %2 duration of the call - %3 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 a houkî - durêye : %2 - %3</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="102"/>
         <source>Opening chat...</source>
-        <translation type="unfinished"/>
+        <translation>Dji drove li berdelaedje...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="103"/>
         <source>Loading conversation history...</source>
-        <translation type="unfinished"/>
+        <translation>Dji tchedje l&apos; istwere des berdelaedjes</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="105"/>
         <source>Group conversation</source>
-        <translation type="unfinished"/>
+        <translation>Berdelaedje e groupe</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="107"/>
         <source>Chat with %1</source>
         <extracomment>%1 is the nickname of the contact you are chatting with</extracomment>
-        <translation type="unfinished"/>
+        <translation>Berdeler avou %1</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="110"/>
         <source>Sorry, we can&apos;t login because it is not connected to a network. Go to Wireless &amp; Network settings and connect to an available network</source>
-        <translation type="unfinished"/>
+        <translation>Dji rgrete mins dji n&apos; mi sai elodjî paski ça n&apos; est nén raloyî a ene rantoele. Alez dins les apontiaedjes Sins fyis et rantoele eyet vs raloyî a ene rantoele k&apos; i gn a.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="113"/>
         <source>Change your picture:</source>
-        <translation type="unfinished"/>
+        <translation>Candjîz vosse foto :</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="114"/>
         <source>Take picture</source>
-        <translation type="unfinished"/>
+        <translation>Prinde ene foto</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="115"/>
         <source>Choose picture</source>
-        <translation type="unfinished"/>
+        <translation>Tchoezi foto</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="118"/>
         <source>Older</source>
-        <translation type="unfinished"/>
+        <translation>Pus vî</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="119"/>
         <source>Newer</source>
-        <translation type="unfinished"/>
+        <translation>Pus noû</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="122"/>
@@ -857,32 +865,32 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../constants.js" line="140"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>K&apos; est la</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="141"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Ocupé</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="142"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Evoye</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="143"/>
         <source>Extended away</source>
-        <translation type="unfinished"/>
+        <translation>Evoye dispoy lontins</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="144"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Disraloyî</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="145"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Nén veyåve</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="149"/>
@@ -1033,17 +1041,17 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="34"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>K&apos; est la</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="35"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Ocupé</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="36"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Evoye</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="37"/>
@@ -1053,12 +1061,12 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="38"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Disraloyî</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="39"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Nén veyåve</translation>
     </message>
 </context>
 <context>

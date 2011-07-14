@@ -5,7 +5,7 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="55"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="162"/>
         <source>Recently viewed</source>
-        <translation>最近檢視</translation>
+        <translation>近期檢視</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="56"/>
@@ -22,40 +22,40 @@
         <extracomment>%1 is &quot;Photos&quot; panel title
 ----------
 %1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>相片</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="92"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1設定</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="94"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1面板內容</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="129"/>
         <source>View some photos</source>
-        <translation type="unfinished"/>
+        <translation>檢視一些相片</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>清除歷史</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="123"/>
         <source>The latest photos you view and your photo albums will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>您最近檢視的相片以及您的相簿會出現在這裡</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="166"/>
         <source>You have cleared the Photos history</source>
-        <translation type="unfinished"/>
+        <translation>您已經清除「相片」歷史</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
@@ -87,18 +87,18 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="241"/>
         <source>You have no photo albums</source>
-        <translation type="unfinished"/>
+        <translation>您沒有相簿</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="246"/>
         <source>Create an album</source>
-        <translation type="unfinished"/>
+        <translation>建立相簿</translation>
     </message>
     <message numerus="yes">
         <location filename="../../panelsrc/photos/photospanel.qml" line="275"/>
         <source>%n photo(s)</source>
         <comment>albumphotocount</comment>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n 張相片</numerusform></translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="285"/>

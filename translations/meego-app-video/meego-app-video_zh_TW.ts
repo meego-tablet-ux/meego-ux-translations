@@ -14,12 +14,12 @@
     <message>
         <location filename="../../main.qml" line="23"/>
         <source>Recently added</source>
-        <translation>最近加入</translation>
+        <translation>近期加入</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="24"/>
         <source>Recently viewed</source>
-        <translation>最近檢視</translation>
+        <translation>近期檢視</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="25"/>
@@ -51,7 +51,7 @@
         <location filename="../../main.qml" line="32"/>
         <source>Favorite</source>
         <comment>Verb</comment>
-        <translation type="unfinished"/>
+        <translation>喜愛</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
@@ -66,12 +66,12 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Select multiple videos</source>
-        <translation>選取多個影片</translation>
+        <translation>選取多部影片</translation>
     </message>
     <message numerus="yes">
         <location filename="../../main.qml" line="91"/>
         <source>All (%n video(s))</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>全部 (%n 部影片)</numerusform></translation>
     </message>
 </context>
 </TS>

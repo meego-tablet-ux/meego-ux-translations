@@ -18,7 +18,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="119"/>
         <source>Unable to create media call for contact %1</source>
-        <translation>Mediapuhelua ei voi luoda (yhteystieto %1)</translation>
+        <translation>Mediapuhelua ei voi luoda yhteystietodolle %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="172"/>
@@ -35,7 +35,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="490"/>
         <source>Unable to set hold</source>
-        <translation type="unfinished"/>
+        <translation>Puhelua ei voitu asettaa pitoon</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="590"/>
@@ -63,13 +63,13 @@
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1104"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation>Yhteystiedolle %1 - %2 - %3 ei voitu luoda puhelukanavaa</translation>
+        <translation>Yhteystiedolle %1 ei voitu luoda puhelukanavaa %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1161"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Mitätöitiin puhekanava yhteystiedolle %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1487"/>
@@ -92,17 +92,17 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1686"/>
         <source>Call resources were lost</source>
-        <translation type="unfinished"/>
+        <translation>Puheluresurssi katosi</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1695"/>
         <source>Call resources not granted</source>
-        <translation type="unfinished"/>
+        <translation>Puheluresurssia ei myönnetty</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1704"/>
         <source>Error acquiring call resources</source>
-        <translation type="unfinished"/>
+        <translation>Virhe puheluresurssin hankinnassa</translation>
     </message>
 </context>
 <context>
@@ -131,13 +131,13 @@
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="166"/>
         <source>Channel not available</source>
-        <translation>Kanava ei ole käytössä</translation>
+        <translation>Kanava ei ole saatavilla</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="192"/>
         <source>Unable to create text channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation>Yhteystiedolle %1 - %2 - %3 ei voitu luoda tekstikanavaa</translation>
+        <translation>Yhteystiedolle %1 ei voitu luoda tekstikanavaa - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="210"/>
@@ -148,13 +148,21 @@
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="266"/>
         <source>Invalidated text channel  %1 - %2 - %3</source>
         <extracomment>%1 room id - %2 error name - %3 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Mitätöitiin tekstikanava  %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="272"/>
         <source>Invalidated text channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Mitätöitiin tekstikanava yhteystiedolle %1 - %2 - %3</translation>
+    </message>
+</context>
+<context>
+    <name>ContactDelegate</name>
+    <message>
+        <location filename="../../ContactDelegate.qml" line="140"/>
+        <source>Report abuse</source>
+        <translation>Ilmianna</translation>
     </message>
 </context>
 <context>
@@ -163,99 +171,99 @@
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="54"/>
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="94"/>
         <source>Channel not available</source>
-        <translation>Kanava ei ole käytössä</translation>
+        <translation>Kanava ei ole saatavilla</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="153"/>
         <source>Invalidated file transfer channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Mitätöitiin tiedostonsiirtokanava yhteystiedolle %1 - %2 - %3</translation>
     </message>
 </context>
 <context>
     <name>IMConversationModel</name>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="257"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="243"/>
         <source>%1 joined the chat</source>
         <translation>%1 liittyi mukaan keskusteluun</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="272"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="258"/>
         <source>%1 is typing</source>
         <translation>%1 kirjoittaa</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="274"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="260"/>
         <source>%1 and %2 are typing</source>
         <translation>%1 ja %2 kirjoittavat</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="276"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="262"/>
         <source>Lots of people are typing</source>
         <translation>Useat henkilöt kirjoittavat</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="281"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="267"/>
         <source>%1 left the chat</source>
         <translation>%1 poistui keskustelusta</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="289"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="275"/>
         <source>%1 has paused typing</source>
         <translation>%1 on keskeyttänyt kirjoituksen</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="297"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="283"/>
         <source>%1 is now idle</source>
         <translation>%1 on nyt joutilas</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="381"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="367"/>
         <source>%1 is calling you</source>
         <translation>%1 soittaa sinulle</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="385"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="371"/>
         <source>Setting up call to %1</source>
         <translation>Valmistellaan puhelua henkilölle %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="388"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="374"/>
         <source>Calling %1</source>
         <translation>Soitetaan henkilölle %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="391"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="377"/>
         <source>Call with %1 started</source>
         <translation>Puhelu henkilön %1 kanssa on aloitettu</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="394"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="380"/>
         <source>Call with %1 on hold</source>
         <translation>Puhelu henkilön %1 kanssa on pidossa</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="454"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="440"/>
         <source>Error in call with %1</source>
         <translation>Virhe puhelussa henkilön %1 kanssa</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="482"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="468"/>
         <source>%1 bytes</source>
         <translation>%1 tavua</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="486"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="472"/>
         <source>%1 KB</source>
         <translation>%1 kt</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="490"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="476"/>
         <source>%1 MB</source>
         <translation>%1 mt</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="494"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="480"/>
         <source>%1 GB</source>
         <translation>%1 gt</translation>
     </message>
@@ -265,7 +273,7 @@
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="341"/>
         <source>Add as friend?</source>
-        <translation>Lisää ystäväksi?</translation>
+        <translation>Lisää kaveriksi?</translation>
     </message>
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="481"/>
@@ -275,7 +283,7 @@
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="484"/>
         <source>Incoming file transfer from %1</source>
-        <translation>Tuleva tiedoston siirto henkilöltä %1</translation>
+        <translation>Tuleva tiedostonsiirto henkilöltä %1</translation>
     </message>
     <message>
         <location filename="../../panels-plugin/imfeedmodel.cpp" line="542"/>
@@ -283,7 +291,7 @@
         <extracomment>Message indicating the contact has been added
 ----------
 Message indicating the contact has been added</extracomment>
-        <translation type="unfinished"/>
+        <translation>on lisätty yhteystiedoksi</translation>
     </message>
 </context>
 <context>
@@ -297,47 +305,47 @@ Message indicating the contact has been added</extracomment>
 <context>
     <name>ImSettings</name>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="16"/>
+        <location filename="../../settings/ImSettings.qml" line="18"/>
         <source>Instant Messaging Settings</source>
         <translation>Pikaviestiasetukset</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="107"/>
+        <location filename="../../settings/ImSettings.qml" line="120"/>
         <source>Accounts</source>
         <translation>Tilit</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="136"/>
+        <location filename="../../settings/ImSettings.qml" line="149"/>
         <source>Add another account</source>
         <translation>Lisää toinen tili</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="137"/>
+        <location filename="../../settings/ImSettings.qml" line="150"/>
         <source>Add an account</source>
-        <translation type="unfinished"/>
+        <translation>Lisää käyttäjätili</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="154"/>
+        <location filename="../../settings/ImSettings.qml" line="167"/>
         <source>General Settings</source>
         <translation>Yleiset asetukset</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="176"/>
+        <location filename="../../settings/ImSettings.qml" line="189"/>
         <source>Show offline contacts</source>
         <translation>Näytä yhteystiedot jotka ovat offline-tilassa</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="214"/>
+        <location filename="../../settings/ImSettings.qml" line="227"/>
         <source>Notification on new message</source>
         <translation>Lähetä ilmoitus uudesta viestistä</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="251"/>
+        <location filename="../../settings/ImSettings.qml" line="264"/>
         <source>Clear chat history</source>
         <translation>Tyhjennä keskusteluhistoria</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="275"/>
+        <location filename="../../settings/ImSettings.qml" line="288"/>
         <source>Blocked contacts</source>
         <translation>Estetyt yhteystiedot</translation>
     </message>
@@ -384,7 +392,7 @@ Message indicating the contact has been added</extracomment>
         <location filename="../../SearchHeader.qml" line="50"/>
         <source>%n matches found</source>
         <extracomment>%n is the number of items matching the search criteria</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n vastaa hakua</numerusform><numerusform>%n vastaa hakua</numerusform></translation>
     </message>
 </context>
 <context>
@@ -392,27 +400,27 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../StatusModel.qml" line="9"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>Tavoitettavissa</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="14"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Poissa</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="19"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Varattu</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="24"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Huomaamaton</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="29"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Offline</translation>
     </message>
 </context>
 <context>
@@ -429,515 +437,515 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../constants.js" line="4"/>
         <source>Multiple accounts connected</source>
-        <translation type="unfinished"/>
+        <translation>Useita tilejä yhdistetty</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="5"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation type="unfinished"/>
+        <translation>Haluatko varmasti yhdistää tähän tiliin? Näin tekemällä %1 tilin yhteys katkaistaan.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="6"/>
         <location filename="../../constants.js" line="35"/>
         <source>Log out</source>
-        <translation type="unfinished"/>
+        <translation>Kirjaudu ulos</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="7"/>
         <source>Log in to %1</source>
-        <translation type="unfinished"/>
+        <translation>Kirjaudu sisään %1:iin</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="8"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Asetukset</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="11"/>
         <source>Account list</source>
-        <translation type="unfinished"/>
+        <translation>Tililuettelo</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="12"/>
         <source>Loading accounts...</source>
-        <translation type="unfinished"/>
+        <translation>Ladataan käyttäjätilejä...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="13"/>
         <source>Choose an account</source>
-        <translation type="unfinished"/>
+        <translation>Valitse käyttäjätili</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="14"/>
         <source>Add an account</source>
-        <translation type="unfinished"/>
+        <translation>Lisää käyttäjätili</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="15"/>
         <source>Your account has been added</source>
-        <translation type="unfinished"/>
+        <translation>Käyttäjätilisi on lisätty</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="18"/>
         <source>Friend&apos;s username</source>
-        <translation type="unfinished"/>
+        <translation>Kaverin käyttäjänimi</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="19"/>
         <location filename="../../constants.js" line="104"/>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Lähetä</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="20"/>
         <source>Sending request</source>
-        <translation type="unfinished"/>
+        <translation>Lähetetään pyyntöä</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="21"/>
         <source>Request sent</source>
-        <translation type="unfinished"/>
+        <translation>Pyyntö lähetetty</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="22"/>
         <source>Your device is not connected to a network. Please connect and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Laitteesi ei ole yhdistetty verkkoon. Ole hyvä ja yhdistä verkkoon ja yritä sitten uudelleen.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="25"/>
         <source>Update status</source>
-        <translation type="unfinished"/>
+        <translation>Päivitä tila</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="26"/>
         <source>Your Status:</source>
-        <translation type="unfinished"/>
+        <translation>Tilasi:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="27"/>
         <source>Custom status message</source>
-        <translation type="unfinished"/>
+        <translation>Oma tilaviesti</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="28"/>
         <location filename="../../constants.js" line="31"/>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Päivitä</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="29"/>
         <source>Change display name</source>
-        <translation type="unfinished"/>
+        <translation>Muuta näyttönimi</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="30"/>
         <source>Display name</source>
-        <translation type="unfinished"/>
+        <translation>Näyttönimi</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="32"/>
         <location filename="../../constants.js" line="58"/>
         <source>Add a friend</source>
-        <translation type="unfinished"/>
+        <translation>Lisää kaveri</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="33"/>
         <location filename="../../constants.js" line="79"/>
         <source>Clear chat history</source>
-        <translation type="unfinished"/>
+        <translation>Tyhjennä keskusteluhistoria</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="34"/>
         <source>Log in</source>
-        <translation type="unfinished"/>
+        <translation>Kirjaudu sisään</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="38"/>
         <source>Return to chat</source>
-        <translation type="unfinished"/>
+        <translation>Palaa keskusteluun</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="39"/>
         <source>Open chat</source>
-        <translation type="unfinished"/>
+        <translation>Avaa keskustelu</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="40"/>
         <source>Call</source>
-        <translation type="unfinished"/>
+        <translation>Soita</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="41"/>
         <source>Video call</source>
-        <translation type="unfinished"/>
+        <translation>Videopuhelu</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="42"/>
         <source>Unblock</source>
-        <translation type="unfinished"/>
+        <translation>Pura esto</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="43"/>
         <source>Block</source>
-        <translation type="unfinished"/>
+        <translation>Estä</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="44"/>
         <location filename="../../constants.js" line="80"/>
         <source>End chat</source>
-        <translation type="unfinished"/>
+        <translation>Lopeta keskustelu</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="45"/>
         <source>Delete contact</source>
-        <translation type="unfinished"/>
+        <translation>Poista yhteystieto</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="48"/>
         <location filename="../../constants.js" line="78"/>
         <source>Add contacts to chat</source>
-        <translation type="unfinished"/>
+        <translation>Lisää yhteystietoja keskusteluun</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="49"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Lisää</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="50"/>
         <location filename="../../constants.js" line="55"/>
         <location filename="../../constants.js" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="53"/>
         <source>Friend request from</source>
-        <translation type="unfinished"/>
+        <translation>Kaveripyyntö henkilöltä</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="54"/>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Hyväksy</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="59"/>
         <source>Loading contacts...</source>
-        <translation type="unfinished"/>
+        <translation>Ladataan yhteystietoja...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="60"/>
         <source>You haven&apos;t added any friends yet</source>
-        <translation type="unfinished"/>
+        <translation>Et ole vielä lisännyt yhtään kaveria</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="61"/>
         <source>Account is offline</source>
-        <translation type="unfinished"/>
+        <translation>Tili on poissa linjoilta</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="62"/>
         <source>Logging in...</source>
-        <translation type="unfinished"/>
+        <translation>Kirjaudutaan sisään...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="65"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Avaa</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="66"/>
         <source>There was a problem downloading</source>
-        <translation type="unfinished"/>
+        <translation>Latauksessa ilmeni ongelma</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="67"/>
         <source>There was a problem uploading</source>
-        <translation type="unfinished"/>
+        <translation>Lähetyksessä ilmeni ongelma</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="68"/>
         <source>Canceled</source>
-        <translation type="unfinished"/>
+        <translation>Peruutettu</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Tallenna</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="70"/>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Kieltäydy</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="74"/>
         <source>Private chat</source>
-        <translation type="unfinished"/>
+        <translation>Yksityinen keskustelu</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="75"/>
         <source>Add to contacts</source>
-        <translation type="unfinished"/>
+        <translation>Lisää yhteystietoihin</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="84"/>
         <source>(%1)</source>
         <extracomment>%1 is the file size</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="85"/>
         <source>Upload canceled:</source>
-        <translation type="unfinished"/>
+        <translation>Lähetys peruutettu:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="86"/>
         <source>Sent:</source>
-        <translation type="unfinished"/>
+        <translation>Lähetä:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="87"/>
         <source>Uploading:</source>
-        <translation type="unfinished"/>
+        <translation>Lähetetään:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="89"/>
         <source>%1 has sent you:</source>
         <extracomment>%1 is the nickname of the contact sending you a file</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 lähetti sinulle:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="91"/>
         <source>%1 is sending you:</source>
         <extracomment>%1 is the nickname of the contact sending you a file</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 lähettää sinulle:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="93"/>
         <source>%1 - %2</source>
         <extracomment>%1 is event describing what happened - %2 is date and time</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="95"/>
         <source>%1 tried to call - %2</source>
         <extracomment>%1 contact id who called - %2 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 yritti soittaa - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="97"/>
         <source>%1 rejected call - %2</source>
         <extracomment>%1 contact id who rejected the call - %2 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 hylkäsi puhelun - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="99"/>
         <source>%1 called - duration %2 - %3</source>
         <extracomment>%1 contact id who called - %2 duration of the call - %3 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 soitti - kesto %2 - %3</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="102"/>
         <source>Opening chat...</source>
-        <translation type="unfinished"/>
+        <translation>Avataan keskustelua...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="103"/>
         <source>Loading conversation history...</source>
-        <translation type="unfinished"/>
+        <translation>Ladataan keskusteluhistoriaa...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="105"/>
         <source>Group conversation</source>
-        <translation type="unfinished"/>
+        <translation>Ryhmäkeskustelu</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="107"/>
         <source>Chat with %1</source>
         <extracomment>%1 is the nickname of the contact you are chatting with</extracomment>
-        <translation type="unfinished"/>
+        <translation>Keskustele %1:n kanssa</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="110"/>
         <source>Sorry, we can&apos;t login because it is not connected to a network. Go to Wireless &amp; Network settings and connect to an available network</source>
-        <translation type="unfinished"/>
+        <translation>Olemme pahoillamme, emme voi kirjautua koska se ei ole yhdistetty verkkoon. Siirry verkkoasetuksiin ja yhdistä saatavilla olevaan verkkoon</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="113"/>
         <source>Change your picture:</source>
-        <translation type="unfinished"/>
+        <translation>Vaihda kuvaasi:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="114"/>
         <source>Take picture</source>
-        <translation type="unfinished"/>
+        <translation>Ota kuva</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="115"/>
         <source>Choose picture</source>
-        <translation type="unfinished"/>
+        <translation>Valitse kuva</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="118"/>
         <source>Older</source>
-        <translation type="unfinished"/>
+        <translation>Vanhemmat</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="119"/>
         <source>Newer</source>
-        <translation type="unfinished"/>
+        <translation>Uudemmat</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="122"/>
         <source>Send:</source>
-        <translation type="unfinished"/>
+        <translation>Lähetä:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="123"/>
         <source>Photo</source>
-        <translation type="unfinished"/>
+        <translation>Valokuva</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="124"/>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="125"/>
         <source>Music</source>
-        <translation type="unfinished"/>
+        <translation>Musiikki</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="126"/>
         <source>Contact Details</source>
-        <translation type="unfinished"/>
+        <translation>Yhteystiedon tiedot</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="130"/>
         <source>Call with %1</source>
         <extracomment>%1 is the nickname of the contact you are in a call with</extracomment>
-        <translation type="unfinished"/>
+        <translation>Puhelu käynnissä: %1</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="131"/>
         <source>Minimize me</source>
-        <translation type="unfinished"/>
+        <translation>Pienennä</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="132"/>
         <source>Maximize me</source>
-        <translation type="unfinished"/>
+        <translation>Laajenna</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="133"/>
         <source>Disable camera</source>
-        <translation type="unfinished"/>
+        <translation>Poista kamera käytöstä</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="134"/>
         <source>Enable camera</source>
-        <translation type="unfinished"/>
+        <translation>Ota kamera käyttöön</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="135"/>
         <source>Swap camera</source>
-        <translation type="unfinished"/>
+        <translation>Vaihda kameraa</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="138"/>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Keskustelu</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="139"/>
         <source>Account switcher</source>
-        <translation type="unfinished"/>
+        <translation>Käyttäjätilin vaihto</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="140"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>Tavoitettavissa</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="141"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Varattu</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="142"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Poissa</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="143"/>
         <source>Extended away</source>
-        <translation type="unfinished"/>
+        <translation>Pidennetty poissaolo</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="144"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Poissa linjoilta</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="145"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Huomaamaton</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="149"/>
         <source>Sorry, there was a problem logging in. Please retype your username and password.</source>
-        <translation type="unfinished"/>
+        <translation>Olemme pahoillamme, kirjautumisessa oli ongelma. Ole hyvä ja kirjoita käyttäjänimesi ja salasanasi uudelleen.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="150"/>
         <source>Sorry, there was a problem logging in to %1. Please go to Settings and retype your username and password.</source>
-        <translation type="unfinished"/>
+        <translation>Olemme pahoillamme, kirjautumisessa tilille %1 oli ongelma. Ole hyvä ja siirry asetuksiin ja kirjoita käyttäjänimesi ja salasanasi uudelleen.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="151"/>
         <source>Sorry, there was a problem logging in. Please go to Settings and retype your username and password.</source>
-        <translation type="unfinished"/>
+        <translation>Olemme pahoillamme, kirjautumisessa oli ongelma. Ole hyvä ja siirry asetuksiin ja kirjoita käyttäjänimesi ja salasanasi uudelleen.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="152"/>
         <source>Sorry, there was a problem logging in to %1. Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Olemme pahoillamme, kirjautumisessa tilille %1 oli ongelma. Yritä myöhemmin uudelleen.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="153"/>
         <source>Sorry, there was a problem logging in. Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Olemme pahoillamme, kirjautumisessa oli ongelma. Ole hyvä ja yritä myöhemmin uudelleen.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="154"/>
         <source>It looks like you have logged in to %1 from somewhere else, so we have logged you out from this tablet. Try logging in again</source>
-        <translation type="unfinished"/>
+        <translation>Näyttää siltä, että olet kirjautunut %1:iin muualta, joten olemme kirjannet sinut ulos tältä laitteelta. Yritä kirjautua uudelleen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="155"/>
         <source>It looks like you have logged in to this account from somewhere else, so we have logged you out from this tablet. Try logging in again</source>
-        <translation type="unfinished"/>
+        <translation>Näyttää siltä, että olet kirjautunut tälle tilille muualta, joten olemme kirjannet sinut ulos tältä laitteelta. Yritä kirjautua uudelleen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="156"/>
         <source>Sorry, there was a problem logging in. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <translation>Olemme pahoillamme, kirjautumisessa oli ongelma. Valinnan &apos;salaus vaadittu&apos; poistaminen asetuksista tulisi korjata tämä ongelma.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="157"/>
         <source>Sorry, there was a problem logging in to %1. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <translation>Olemme pahoillamme, %1 kirjautumisessa oli ongelma. Valinnan &apos;salaus vaadittu&apos; poistaminen asetuksista tulisi korjata tämä ongelma.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="158"/>
         <source>Sorry, there was a problem logging in. Selecting the &apos;Ignore SSL certificate errors&apos; option in the account Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <translation>Olemme pahoillamme, kirjautumisessa oli ongelma. Valinnan &apos;Ohita SSL sertifikaatti virheet&apos; poistaminen asetuksista tulisi korjata tämä ongelma.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="159"/>
         <source>Sorry, there was a problem logging in to %1. Selecting the &apos;Ignore SSL certificate errors&apos; option in the account Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <translation>Olemme pahoillamme, %1 kirjautumisessa oli ongelma. Valinnan &apos;Ohita SSL sertifikaatti virheet&apos; poistaminen asetuksista tulisi korjata tämä ongelma.</translation>
     </message>
 </context>
 <context>
@@ -945,120 +953,120 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="4"/>
         <source>Multiple accounts connected</source>
-        <translation type="unfinished"/>
+        <translation>Useita tilejä yhdistetty</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="6"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
         <extracomment>%1 is the name of the service whose accounts are going to be disconnected, for example: Jabber or Google Talk</extracomment>
-        <translation type="unfinished"/>
+        <translation>Haluatko varmasti yhdistää tähän tiliin? Näin tekemällä muiden %1 tilien yhteys katkaistaan.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="7"/>
         <source>There is already an account configured using this login. Please check your username.</source>
-        <translation type="unfinished"/>
+        <translation>Tällä käyttäjätunnuksella on jo luotu tili. Ole hyvä ja tarkista käyttäjänimi.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="8"/>
         <source>Sorry, there was a problem logging in. Please check your username and password.</source>
-        <translation type="unfinished"/>
+        <translation>Olemme pahoillamme, kirjautumisessa oli ongelma. Ole hyvä ja tarkista käyttäjänimesi ja salasanasi.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="9"/>
         <source>Username:</source>
-        <translation type="unfinished"/>
+        <translation>Käyttäjänimi:</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="10"/>
         <source>Name / ID</source>
-        <translation type="unfinished"/>
+        <translation>Nimi / ID</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="11"/>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Salasana:</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="12"/>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Salasana</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="13"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"/>
+        <translation>Lisäasetukset</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="16"/>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Valmis</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="17"/>
         <location filename="../../plugin/IM/imconstants.js" line="24"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="20"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>Lisää käyttäjätili</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="23"/>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Päivitä</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="25"/>
         <location filename="../../plugin/IM/imconstants.js" line="26"/>
         <source>Delete account</source>
-        <translation type="unfinished"/>
+        <translation>Poista tili</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="27"/>
         <source>Are you sure to delete this account?</source>
-        <translation type="unfinished"/>
+        <translation>Haluatko varmasti poistaa tämän käyttäjätilin?</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="30"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Kyllä</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="31"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Ei</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="34"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>Tavoitettavissa</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="35"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Varattu</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="36"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Poissa</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="37"/>
         <source>Extended away</source>
-        <translation type="unfinished"/>
+        <translation>Pidennetty poissaolo</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="38"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Poissa linjoilta</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="39"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Huomaamaton</translation>
     </message>
 </context>
 <context>
@@ -1086,7 +1094,7 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../utils.js" line="29"/>
         <source>Ringing</source>
-        <translation>Soitetaan</translation>
+        <translation>Soittaa</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="36"/>

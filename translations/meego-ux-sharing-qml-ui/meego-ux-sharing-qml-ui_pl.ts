@@ -52,13 +52,13 @@
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="647"/>
         <source>Network problem</source>
         <extracomment>%1 is service name</extracomment>
-        <translation type="unfinished"/>
+        <translation>Wystąpił problem z połączeniem</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="647"/>
         <source>%1 problem</source>
         <extracomment>%1 is service name</extracomment>
-        <translation type="unfinished"/>
+        <translation>Problem z %1</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="654"/>
@@ -70,45 +70,45 @@
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="664"/>
         <source>Sorry, there&apos;s a problem with the network. Please try again when you have an internet connection.</source>
         <extracomment>%1 is the service name.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Wystąpił problem z połączeniem sieciowym. Proszę spróbować ponownie po uzyskaniu połączenia z Intenetem.</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="664"/>
         <source>Sorry, there&apos;s a problem with %1 and we need you to log in again</source>
         <extracomment>%1 is the service name.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Wystąpił problem z usługą %1, wymagane jest ponowne logowanie</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="664"/>
         <source>Sorry, there&apos;s a problem with %1 and we can&apos;t upload your file.</source>
         <extracomment>%1 is the service name.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Wystąpił problem z usługą %1, przesłanie pliku nie było możliwe.</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="695"/>
         <source>Uploading to %1</source>
         <extracomment>%1 is the service name</extracomment>
-        <translation type="unfinished"/>
+        <translation>Wysyłanie do %1</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="702"/>
         <source>Upload complete</source>
-        <translation type="unfinished"/>
+        <translation>Wysyłanie zakończone</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="722"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="726"/>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Powrót</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="726"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Ukryj</translation>
     </message>
 </context>
 </TS>

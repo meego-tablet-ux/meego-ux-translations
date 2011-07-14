@@ -5,13 +5,13 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="55"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="162"/>
         <source>Recently viewed</source>
-        <translation type="unfinished"/>
+        <translation>Nyligt sete</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="56"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="233"/>
         <source>Albums</source>
-        <translation type="unfinished"/>
+        <translation>Albummer</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="86"/>
@@ -22,40 +22,40 @@
         <extracomment>%1 is &quot;Photos&quot; panel title
 ----------
 %1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Billeder</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="92"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Indstillinger for %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="94"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Panelindhold for %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="129"/>
         <source>View some photos</source>
-        <translation type="unfinished"/>
+        <translation>Se nogen billeder</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Ryd historik</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="123"/>
         <source>The latest photos you view and your photo albums will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>De senest sete billeder og dine billedalbummer vil vise sig her.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="166"/>
         <source>You have cleared the Photos history</source>
-        <translation type="unfinished"/>
+        <translation>Du har ryddet Billeder-historikken</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
@@ -63,13 +63,13 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="318"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="321"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Åbn</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="213"/>
         <source>Share</source>
-        <translation type="unfinished"/>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
@@ -77,33 +77,33 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="318"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="325"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Skjul</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
         <source>Set as background</source>
-        <translation type="unfinished"/>
+        <translation>Sæt som baggrund</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="241"/>
         <source>You have no photo albums</source>
-        <translation type="unfinished"/>
+        <translation>Du har ingen billedalbummer</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="246"/>
         <source>Create an album</source>
-        <translation type="unfinished"/>
+        <translation>Opret et album</translation>
     </message>
     <message numerus="yes">
         <location filename="../../panelsrc/photos/photospanel.qml" line="275"/>
         <source>%n photo(s)</source>
         <comment>albumphotocount</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n billede</numerusform><numerusform>%n billeder</numerusform></translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="285"/>
         <source>Created %1</source>
-        <translation type="unfinished"/>
+        <translation>Oprettet %1</translation>
     </message>
 </context>
 </TS>

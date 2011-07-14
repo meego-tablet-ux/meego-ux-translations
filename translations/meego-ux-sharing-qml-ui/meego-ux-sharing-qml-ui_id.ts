@@ -19,7 +19,7 @@
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="183"/>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="513"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>Surel</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="392"/>
@@ -41,18 +41,18 @@
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="615"/>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="667"/>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="545"/>
         <source>Select service:</source>
-        <translation type="unfinished"/>
+        <translation>Pilih layanan:</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="647"/>
         <source>Network problem</source>
         <extracomment>%1 is service name</extracomment>
-        <translation type="unfinished"/>
+        <translation>Masalah jaringan</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="647"/>
@@ -98,7 +98,7 @@
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="722"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="726"/>

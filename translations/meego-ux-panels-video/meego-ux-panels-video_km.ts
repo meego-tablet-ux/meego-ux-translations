@@ -10,46 +10,46 @@
         <extracomment>%1 is &quot;Video&quot; panel title
 ----------
 %1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>វីដេអូ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="66"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ការ​កំណត់</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="68"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 មាតិកា​បន្ទះ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="71"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="102"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="140"/>
         <source>Watch a video</source>
-        <translation type="unfinished"/>
+        <translation>មើល​វីដេអូ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="71"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>សម្អាត​ប្រវត្តិ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="96"/>
         <source>The latest videos you watch will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>វីដេអូ​ដែល​អ្នក​មើល​ចុង​ក្រោយ នឹង​ត្រូវ​បង្ហាញ​នៅ​ទីនេះ។</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="135"/>
         <source>No recently watched videos.</source>
-        <translation type="unfinished"/>
+        <translation>មិន​មាន​វីដេអូ​ដែល​ទើប​តែ​បាន​មើល​ទេ។</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="156"/>
         <source>You have cleared the Video history</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​បាន​សម្អាត​ប្រវត្តិ​វីដេអូ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="169"/>

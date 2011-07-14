@@ -51,7 +51,7 @@
         <location filename="../../main.qml" line="32"/>
         <source>Favorite</source>
         <comment>Verb</comment>
-        <translation type="unfinished"/>
+        <translation>Dodaj do ulubionych</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
@@ -71,7 +71,7 @@
     <message numerus="yes">
         <location filename="../../main.qml" line="91"/>
         <source>All (%n video(s))</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Wszystkie (jedno wideo)</numerusform><numerusform>Wszystkie (%n wideo)</numerusform><numerusform>Wszystkie (%n wideo)</numerusform></translation>
     </message>
 </context>
 </TS>

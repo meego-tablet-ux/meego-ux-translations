@@ -12,42 +12,42 @@
         <translation>未知的專輯</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="54"/>
+        <location filename="../../MusicListView.qml" line="59"/>
         <source>Playlist name</source>
         <translation>播放清單名稱</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="56"/>
+        <location filename="../../MusicListView.qml" line="61"/>
         <source>Artist name</source>
         <translation>演出者名稱</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="58"/>
+        <location filename="../../MusicListView.qml" line="63"/>
         <source>Album name</source>
         <translation>專輯名稱</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="59"/>
+        <location filename="../../MusicListView.qml" line="64"/>
         <source>Track name</source>
         <translation>歌曲名稱</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="74"/>
+        <location filename="../../MusicListView.qml" line="79"/>
         <source>Time</source>
         <translation>時間</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="88"/>
+        <location filename="../../MusicListView.qml" line="93"/>
         <source>Album</source>
         <translation>專輯</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="102"/>
+        <location filename="../../MusicListView.qml" line="107"/>
         <source>Artist</source>
         <translation>演出者</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="115"/>
+        <location filename="../../MusicListView.qml" line="120"/>
         <source>Number of tracks</source>
         <translation>歌曲數目</translation>
     </message>
@@ -55,19 +55,19 @@
 <context>
     <name>MusicToolBar</name>
     <message>
-        <location filename="../../MusicToolBar.qml" line="54"/>
+        <location filename="../../MusicToolBar.qml" line="56"/>
         <source>Now playing: </source>
         <translation>現正播放：</translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1, %2</source>
         <translation>%1，%2</translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1</source>
-        <translation type="unfinished"/>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -137,7 +137,7 @@
         <location filename="../../main.qml" line="101"/>
         <source>Favorite</source>
         <comment>Verb</comment>
-        <translation type="unfinished"/>
+        <translation>喜愛</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -260,165 +260,165 @@
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>You have no music on this tablet</source>
-        <translation type="unfinished"/>
+        <translation>您沒有音樂在這臺平板電腦上</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="73"/>
         <source>Download or copy your music onto the tablet. Connect the tablet to your computer with a USB cable, via WiFi or bluetooth.</source>
-        <translation type="unfinished"/>
+        <translation>下載或複製您的音樂到這臺平板電腦上。請透過 USB 纜線、WiFi 或藍牙將平板電腦連接至您的電腦。</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
         <source>Your play queue is empty</source>
-        <translation type="unfinished"/>
+        <translation>您的播放佇列是空的</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="75"/>
         <location filename="../../main.qml" line="80"/>
         <source>Add music to the play queue</source>
-        <translation type="unfinished"/>
+        <translation>將音樂加入至播放佇列</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="76"/>
         <source>What&apos;s the play queue?</source>
-        <translation type="unfinished"/>
+        <translation>什麼是播放佇列呢？</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="77"/>
         <source>A place to queue up the music you want to hear. You can queue albums, playlists or individual tracks. </source>
-        <translation type="unfinished"/>
+        <translation>它是個將您想聽的音樂排隊起來的地方。您可以佇列專輯、播放清單、單獨的曲目等。</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="78"/>
         <source>How do I queue music?</source>
-        <translation type="unfinished"/>
+        <translation>我要怎樣佇列音樂？</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="80"/>
         <source>To queue music, tap the &apos;%1&apos; button. You can also tap and hold a song, album or playlist, then select &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>若要佇列音樂，請輕觸「%1」按鈕。您也可以輕觸並按住某個歌曲、專輯、播放清單，接著選取「%2」。</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="81"/>
         <source>How do I get music?</source>
-        <translation type="unfinished"/>
+        <translation>我要怎麼取得音樂？</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="82"/>
         <source>Download or copy your music onto the tablet. Connect the tablet to your computer with a USB cable, via Wi-Fi or bluetooth.</source>
-        <translation type="unfinished"/>
+        <translation>下載或複製您的音樂至平板電腦上。透過 USB 纜線、Wi-Fi、藍牙將平板電腦連接至您的電腦。</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="83"/>
         <source>Add tracks</source>
-        <translation type="unfinished"/>
+        <translation>加入曲目</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="84"/>
         <source>Add playlists</source>
-        <translation type="unfinished"/>
+        <translation>加入播放曲目</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="85"/>
         <source>Add albums</source>
-        <translation type="unfinished"/>
+        <translation>加入專輯</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="86"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>您沒有播放清單</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="87"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>建立播放清單</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="88"/>
         <source>What&apos;s a playlist?</source>
-        <translation type="unfinished"/>
+        <translation>什麼是播放清單呢？</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="89"/>
         <source>A compilation of music created by you. Create playlists to suit your mood, your activities and to share with friends.</source>
-        <translation type="unfinished"/>
+        <translation>它是您建立的音樂集合。您可以建立符合您心情、活動的播放清單，並和朋友分享。</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="90"/>
         <source>How do I add music to a playlist?</source>
-        <translation type="unfinished"/>
+        <translation>我該怎麼將音樂加入播放清單？</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="92"/>
         <source>To add music to a playlist, tap and hold the track you want to add. Then select &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>若要將音樂加入播放清單，請輕觸並按住您想要加入的曲目。接著選取「%1」。</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="95"/>
         <source>You don&apos;t have any favorite music tracks</source>
-        <translation type="unfinished"/>
+        <translation>您沒有任何喜愛的音樂曲目</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="96"/>
         <source>View all music tracks</source>
-        <translation type="unfinished"/>
+        <translation>檢視所有樂曲</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="97"/>
         <source>What are favorites?</source>
-        <translation type="unfinished"/>
+        <translation>什麼是喜愛？</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="98"/>
         <source>The place to keep the music tracks you like most.</source>
-        <translation type="unfinished"/>
+        <translation>保存您最喜歡的樂曲的地方。</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="99"/>
         <source>How do I create favorites?</source>
-        <translation type="unfinished"/>
+        <translation>我要怎麼建立喜愛？</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="101"/>
         <source>To add music to your favorites, tap and hold a music track you love. Then select &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>若要將音樂加入您的喜愛，請輕觸並按住您喜愛的樂曲。接著選取「%1」。</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="695"/>
+        <location filename="../../main.qml" line="722"/>
         <source>Artist name</source>
         <translation>演出者名稱</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="703"/>
+        <location filename="../../main.qml" line="730"/>
         <source>Track name</source>
         <translation>歌曲名稱</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="717"/>
+        <location filename="../../main.qml" line="744"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>若您刪除此項，它將從您的裝置中移除</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="731"/>
+        <location filename="../../main.qml" line="758"/>
         <source>Permanently delete these %n song(s)?</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>永久刪除這 %n 首歌曲嗎？</numerusform></translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="744"/>
+        <location filename="../../main.qml" line="771"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>若您刪除這些項目，它將從您的裝置中移除</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="791"/>
-        <location filename="../../main.qml" line="834"/>
+        <location filename="../../main.qml" line="818"/>
+        <location filename="../../main.qml" line="861"/>
         <source>Invalid characters: %1</source>
         <translation>無效字元： %1</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="1989"/>
-        <location filename="../../main.qml" line="2312"/>
+        <location filename="../../main.qml" line="2035"/>
+        <location filename="../../main.qml" line="2361"/>
         <source>%n song(s)</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n 歌曲</numerusform></translation>
     </message>
 </context>
 </TS>

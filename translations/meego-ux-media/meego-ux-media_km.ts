@@ -4,12 +4,12 @@
     <message>
         <location filename="../../lib/photodatabase.cpp" line="191"/>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>ថ្ងៃ​នេះ</translation>
     </message>
     <message>
         <location filename="../../lib/photodatabase.cpp" line="193"/>
         <source>Yesterday</source>
-        <translation type="unfinished"/>
+        <translation>ម្សិល​មិញ</translation>
     </message>
 </context>
 </TS>

@@ -80,8 +80,8 @@
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="214"/>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="227"/>
         <source>May</source>
+        <comment>Short</comment>
         <translation>Maj</translation>
     </message>
     <message>
@@ -140,6 +140,12 @@
         <translation>Kwiecień</translation>
     </message>
     <message>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="227"/>
+        <source>May</source>
+        <comment>Full</comment>
+        <translation>Maj</translation>
+    </message>
+    <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="228"/>
         <source>June</source>
         <translation>Czerwiec</translation>
@@ -184,31 +190,31 @@
         <location filename="../../src/components/datetime/DatePicker.qml" line="547"/>
         <source>dateUnitOne</source>
         <extracomment>Optional! Won't be displayed if left untranslated or if set to more than one or two characters. Positioned left of the left spinner. Meant for displaying units, separators or whatever seems appropiate for a language specific display of the date given by the three spinners.</extracomment>
-        <translation type="unfinished"/>
+        <translation>dateUnitOne</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="568"/>
         <source>dateUnitTwo</source>
         <extracomment>Optional! Won't be displayed if left untranslated or if set to more than one or two characters. Positioned between left and middle spinner. Meant for displaying units, separators or whatever seems appropiate for a language specific display of the date given by the three spinners.</extracomment>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="589"/>
         <source>dateUnitThree</source>
         <extracomment>Optional! Won't be displayed if left untranslated or if set to more than one or two characters. Positioned between middle and right spinner. Meant for displaying units, separators or whatever seems appropiate for a language specific display of the date given by the three spinners.</extracomment>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="610"/>
         <source>dateUnitFour</source>
         <extracomment>Optional! Won't be displayed if left untranslated or if set to more than one or two characters. Positioned right of the right spinner. Meant for displaying units, separators or whatever seems appropiate for a language specific display of the date given by the three spinners.</extracomment>
-        <translation type="unfinished"/>
+        <translation>dateUnitFour</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="772"/>
         <source>%1 %2</source>
         <extracomment>1 is full month name, 2 is full numerical year. E.g. &quot;January 2011&quot;. Reorder as approriate to current language&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="861"/>
@@ -234,7 +240,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="34"/>
         <source>%n min(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>minutę temu</numerusform><numerusform>%n minuty temu</numerusform><numerusform>%n minut temu</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="37"/>
@@ -258,7 +264,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="46"/>
         <source>%n hour(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>godzinę temu</numerusform><numerusform>%n godziny temu</numerusform><numerusform>%n godzin temu</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="51"/>
@@ -293,7 +299,7 @@
     <message numerus="yes">
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="71"/>
         <source>%n week(s) ago</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>tydzień temu</numerusform><numerusform>%n tygodnie temu</numerusform><numerusform>%n tygodni temu</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="74"/>
@@ -311,7 +317,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="84"/>
         <source>%n month(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>miesiąc temu</numerusform><numerusform>%n miesiące temu</numerusform><numerusform>%n miesięcy temu</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="87"/>
@@ -323,7 +329,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="91"/>
         <source>%n year(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>rok temu</numerusform><numerusform>%n lata temu</numerusform><numerusform>%n lat temu</numerusform></translation>
     </message>
 </context>
 <context>
@@ -372,17 +378,17 @@
         <translation>Wybierz album</translation>
     </message>
     <message>
-        <location filename="../../src/components/media/MusicPicker.qml" line="362"/>
+        <location filename="../../src/components/media/MusicPicker.qml" line="360"/>
         <source>Back</source>
         <translation>Wstecz</translation>
     </message>
     <message>
-        <location filename="../../src/components/media/MusicPicker.qml" line="382"/>
+        <location filename="../../src/components/media/MusicPicker.qml" line="380"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../src/components/media/MusicPicker.qml" line="400"/>
+        <location filename="../../src/components/media/MusicPicker.qml" line="398"/>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
@@ -422,17 +428,20 @@
         <translation>nieznany album</translation>
     </message>
     <message>
-        <location filename="../../src/components/common/ScrollableMusicList.qml" line="188"/>
+        <location filename="../../src/components/common/ScrollableMusicList.qml" line="189"/>
         <source>%1:%2</source>
-        <translation type="unfinished"/>
+        <comment>MinsSecs</comment>
+        <translation>%1:%2</translation>
     </message>
 </context>
 <context>
     <name>StatusBar</name>
     <message>
-        <location filename="../../src/components/indicators/StatusBar.qml" line="178"/>
+        <location filename="../../src/components/indicators/StatusBar.qml" line="179"/>
         <source>%1: %2</source>
-        <translation type="unfinished"/>
+        <comment>SummaryBody</comment>
+        <extracomment>%1 is notification summary, %2 is notification body</extracomment>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -482,7 +491,7 @@
 <context>
     <name>Window</name>
     <message>
-        <location filename="../../src/components/common/Window.qml" line="327"/>
+        <location filename="../../src/components/common/Window.qml" line="334"/>
         <source>left-to-right</source>
         <extracomment>page switch direction. Don't translate to other languages, instead change the string to &quot;right-to-left&quot; for languages where right to left reading directions are desired</extracomment>
         <translation>lewa-do-prawej</translation>

@@ -4,45 +4,45 @@
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="52"/>
         <source>Wi-Fi</source>
-        <translation type="unfinished"/>
+        <translation>Wi-Fi</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="58"/>
         <source>Sound</source>
-        <translation type="unfinished"/>
+        <translation>Lyd</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="64"/>
         <source>All settings</source>
-        <translation type="unfinished"/>
+        <translation>Alle indstillinger</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="80"/>
         <source>View all applications</source>
-        <translation type="unfinished"/>
+        <translation>Vis alle programmer</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="113"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="167"/>
         <source>Top applications</source>
-        <translation type="unfinished"/>
+        <translation>Top programmer</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="122"/>
         <source>Visit the Intel AppUp(sm) center</source>
-        <translation type="unfinished"/>
+        <translation>Besøg Intel AppUp(sm)-center</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="124"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="178"/>
         <source>Featured applications</source>
-        <translation type="unfinished"/>
+        <translation>Fremhævede programmer</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="127"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="185"/>
         <source>Updated applications</source>
-        <translation type="unfinished"/>
+        <translation>Opdaterede programmer</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="136"/>
@@ -53,29 +53,29 @@
         <extracomment>%1 is &quot;My Tablet&quot; panel title
 ----------
 %1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Min tablet</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="160"/>
         <source>The applications you use most will appear here. Discover the apps already in your tablet, or visit Intel AppUp to download more.</source>
-        <translation type="unfinished"/>
+        <translation>De programmer du bruger mest vil blive vist her. Opdag de programmer som allerede findes i din tablet eller besøg Intel AppUp for at hente flere.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="192"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Indstillinger</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="202"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Indstillinger for %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="204"/>
         <source>%1 content</source>
         <extracomment>%1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Indhold for %1</translation>
     </message>
 </context>
 </TS>

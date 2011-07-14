@@ -17,7 +17,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="17"/>
         <source>To show items on the front of the panel select ON, to hide select OFF</source>
-        <translation>若要顯示面板前面的項目，請選「開啟」，若要隱藏請選「關閉」</translation>
+        <translation>若要顯示面板前面的項目，請選「開」，若要隱藏請選「關」</translation>
     </message>
 </context>
 <context>
@@ -56,17 +56,17 @@
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
         <source>Airplane Mode is ON</source>
-        <translation>飛</translation>
+        <translation>飛航模式為「開」</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
         <source>To connect WiFi turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>若要連接 WiFi 必須關閉飛航模式</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
         <source>Turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>關閉飛航模式</translation>
     </message>
 </context>
 </TS>

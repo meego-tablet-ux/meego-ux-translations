@@ -51,7 +51,7 @@
         <location filename="../../main.qml" line="32"/>
         <source>Favorite</source>
         <comment>Verb</comment>
-        <translation type="unfinished"/>
+        <translation>مفضل</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
@@ -71,7 +71,7 @@
     <message numerus="yes">
         <location filename="../../main.qml" line="91"/>
         <source>All (%n video(s))</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>كل (%n فديو())</numerusform><numerusform>كل (%n فديو())</numerusform><numerusform>كل (%n فديو())</numerusform><numerusform>كل (%n فديو(s))</numerusform><numerusform>كل (%n فديو())</numerusform><numerusform>كل (%n فديو())</numerusform></translation>
     </message>
 </context>
 </TS>

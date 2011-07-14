@@ -22,46 +22,46 @@
         <extracomment>%1 is &quot;Web&quot; panel title
 ----------
 %1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>វ៉ិប</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ការ​កំណត់</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 មាតិកា​បន្ទះ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="152"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="205"/>
         <source>Visit a website</source>
-        <translation type="unfinished"/>
+        <translation>ទស្សនា​វ៉ិបសៃថ៍</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>សម្អាត​ប្រវត្តិ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="146"/>
         <source>The latest websites you visit and your bookmarks will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>វ៉ិបសៃថ៍​ដែល​អ្នក​បាន​ចូល​មើល​ចុង​ក្រោយ និង ការ​កត់​ចំណាំ​របស់​អ្នក នឹង​ត្រូវ​បង្ហាញ​នៅ​ទីនេះ។</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="201"/>
         <source>No recently visited websites.</source>
-        <translation type="unfinished"/>
+        <translation>មិន​មាន​វ៉ិបសៃថ៍​ដែល​ទើប​តែ​បាន​ទស្សនា។</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="219"/>
         <source>You have cleared the Web history</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​បាន​សម្អាត​ប្រវត្តិ​វ៉ិប</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="233"/>

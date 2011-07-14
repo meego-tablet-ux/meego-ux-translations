@@ -53,12 +53,12 @@
         <extracomment>%1 is &quot;My Tablet&quot; panel title
 ----------
 %1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Oma tabletti</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="160"/>
         <source>The applications you use most will appear here. Discover the apps already in your tablet, or visit Intel AppUp to download more.</source>
-        <translation type="unfinished"/>
+        <translation>Sovellukset joita käytät eniten ilmestyvät tähän. Tutustu olemassa oleviin sovelluksiin tai vieraile Intel AppUpissa ladataksesi lisää.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="192"/>
@@ -69,13 +69,13 @@
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="202"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 asetukset</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="204"/>
         <source>%1 content</source>
         <extracomment>%1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 sisältö</translation>
     </message>
 </context>
 </TS>

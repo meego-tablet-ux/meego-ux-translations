@@ -115,12 +115,12 @@
 <context>
     <name>ContactsExpandableDetails</name>
     <message>
-        <location filename="../../ContactsExpandableDetails.qml" line="31"/>
+        <location filename="../../ContactsExpandableDetails.qml" line="30"/>
         <source>Add</source>
         <translation>Add</translation>
     </message>
     <message>
-        <location filename="../../ContactsExpandableDetails.qml" line="32"/>
+        <location filename="../../ContactsExpandableDetails.qml" line="31"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>

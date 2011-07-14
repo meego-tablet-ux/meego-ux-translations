@@ -17,7 +17,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="17"/>
         <source>To show items on the front of the panel select ON, to hide select OFF</source>
-        <translation>Para mostrar os itens na face do painel escolha ON, para ocultar, selecione OFF</translation>
+        <translation>Para mostrar os itens na frente do painel, escolha ON, para ocultar, selecione OFF</translation>
     </message>
 </context>
 <context>
@@ -26,7 +26,7 @@
         <location filename="../../panellib/Panels/WifiDialog.qml" line="95"/>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="105"/>
         <source>No connection currently</source>
-        <translation>Não existem ligações</translation>
+        <translation>Não há uma ligação atual</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="98"/>

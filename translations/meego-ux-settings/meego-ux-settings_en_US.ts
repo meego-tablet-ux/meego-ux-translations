@@ -15,7 +15,7 @@
         <location filename="../../General/BacklightSettings.qml" line="82"/>
         <source>%1%</source>
         <comment>slider value percentage</comment>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -111,12 +111,12 @@
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="94"/>
         <source>Discoverable</source>
-        <translation type="unfinished"/>
+        <translation>Discoverable</translation>
     </message>
     <message numerus="yes">
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="107"/>
         <source>Discoverable for %n, second(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Discoverable for %n second</numerusform><numerusform>Discoverable for %n seconds</numerusform></translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="174"/>
@@ -407,7 +407,7 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="31"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Language</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="42"/>
@@ -502,13 +502,13 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Sync/SyncEvoStatic.cpp" line="15"/>
         <source>Contacts</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Contacts&quot; or &quot;Google Contacts&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Contacts</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoStatic.cpp" line="19"/>
         <source>Calendar</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Calendar&quot; or</extracomment>
-        <translation type="unfinished"/>
+        <translation>Calendar</translation>
     </message>
 </context>
 <context>
@@ -529,32 +529,32 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="28"/>
         <source>App Update</source>
-        <translation type="unfinished"/>
+        <translation>App Update</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="32"/>
         <source>New IM</source>
-        <translation type="unfinished"/>
+        <translation>New IM</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="36"/>
         <source>Bluetooth Device Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Bluetooth Device Disconnected</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="40"/>
         <source>New Email</source>
-        <translation type="unfinished"/>
+        <translation>New Email</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="44"/>
         <source>Social Web Friend Request</source>
-        <translation type="unfinished"/>
+        <translation>Social Web Friend Request</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
         <source>Download Completed</source>
-        <translation type="unfinished"/>
+        <translation>Download Completed</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="72"/>
@@ -582,7 +582,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="124"/>
         <source>You can&apos;t turn off this panel</source>
-        <translation type="unfinished"/>
+        <translation>You can&apos;t turn off this panel</translation>
     </message>
 </context>
 <context>
@@ -645,7 +645,7 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../General/ScreensaverSettings.qml" line="80"/>
         <source>%n Minute(s)</source>
         <comment>time in minutes</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n Minute</numerusform><numerusform>%n Minutes</numerusform></translation>
     </message>
 </context>
 <context>
@@ -653,7 +653,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="10"/>
         <source>Set Time Zone</source>
-        <translation type="unfinished"/>
+        <translation>Set Time Zone</translation>
     </message>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="65"/>
@@ -673,7 +673,7 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Settings/SettingsModel.qml" line="102"/>
         <source>Application</source>
         <comment>should actually by 'Applications'</comment>
-        <translation type="unfinished"/>
+        <translation>Application</translation>
     </message>
 </context>
 <context>
@@ -800,7 +800,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="210"/>
         <source>Current time zone is %1</source>
-        <translation type="unfinished"/>
+        <translation>Current time zone is %1</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="232"/>
@@ -810,7 +810,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="272"/>
         <source>Manual time zone selection</source>
-        <translation type="unfinished"/>
+        <translation>Manual time zone selection</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="286"/>

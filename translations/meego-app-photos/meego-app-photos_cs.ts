@@ -29,13 +29,13 @@
         <location filename="../../AlbumsView.qml" line="39"/>
         <source>Rename album</source>
         <extracomment>This is a title for the album rename modal dialog</extracomment>
-        <translation type="unfinished"/>
+        <translation>Přejmenovat album</translation>
     </message>
     <message>
         <location filename="../../AlbumsView.qml" line="41"/>
         <source>Rename</source>
         <extracomment>This is a rename album modal dialog accept button label</extracomment>
-        <translation type="unfinished"/>
+        <translation>Přejmenovat</translation>
     </message>
 </context>
 <context>
@@ -63,7 +63,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>This is a context menu command for marking photos as favorite</extracomment>
-        <translation type="unfinished"/>
+        <translation>Oblíbené</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="43"/>
@@ -184,7 +184,7 @@ This is the title for the photos view</extracomment>
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>This is a context menu option for marking items (photos) as favorite</extracomment>
-        <translation type="unfinished"/>
+        <translation>Oblíbené</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="62"/>
@@ -347,14 +347,16 @@ This is the title for the photos view</extracomment>
         <source>This photo was taken on
 %1</source>
         <extracomment>This is a label text for the photo details dialog. The %1 is a fuzzy date/time string, e.g. &quot;1/31/11 - a few months ago&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>Tato fotografie byla udělána
+%1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="120"/>
         <source>This album was added on
 %1</source>
         <extracomment>This is a label text for the photo details dialog. The %1 is a fuzzy date/time string, e.g. &quot;1/31/11 - a few months ago&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>Toto album bylo přidáno
+%1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="130"/>
@@ -372,13 +374,13 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="582"/>
         <source>Are you sure you want to delete the %n selected photos?</source>
         <extracomment>This is a label for the photo deletion confirmation modal dialog when removing photos</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Jste si jistý, že chcete smazat %n vybranou fotografii?</numerusform><numerusform>Jste si jistý, že chcete smazat %n vybrané fotografie?</numerusform><numerusform>Jste si jistý, že chcete smazat %n vybraných fotografií?</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../main.qml" line="948"/>
         <source>%n photo(s)</source>
         <extracomment>This is a metadata label for indicating the number of photos in the album</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Jedna fotografie</numerusform><numerusform>%n fotografie</numerusform><numerusform>%n fotografie</numerusform></translation>
     </message>
 </context>
 </TS>

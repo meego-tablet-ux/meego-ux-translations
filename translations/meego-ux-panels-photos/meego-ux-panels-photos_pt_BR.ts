@@ -98,7 +98,7 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="275"/>
         <source>%n photo(s)</source>
         <comment>albumphotocount</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n foto</numerusform><numerusform>%n fotos</numerusform></translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="285"/>

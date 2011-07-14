@@ -51,7 +51,7 @@
         <location filename="../../main.qml" line="32"/>
         <source>Favorite</source>
         <comment>Verb</comment>
-        <translation type="unfinished"/>
+        <translation>Preferito</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="34"/>
@@ -66,12 +66,12 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Select multiple videos</source>
-        <translation type="unfinished"/>
+        <translation>Seleziona più video</translation>
     </message>
     <message numerus="yes">
         <location filename="../../main.qml" line="91"/>
         <source>All (%n video(s))</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Tutti (\%n video)</numerusform><numerusform>Tutti (\%n video)</numerusform></translation>
     </message>
 </context>
 </TS>

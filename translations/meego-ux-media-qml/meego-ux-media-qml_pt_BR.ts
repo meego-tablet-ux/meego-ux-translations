@@ -17,7 +17,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="321"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n minuto</numerusform><numerusform>%n minutos</numerusform></translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridPhotoAlbumDelegate.qml" line="277"/>
         <source>%n Photo(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n foto</numerusform><numerusform>%n fotos</numerusform></translation>
     </message>
 </context>
 <context>
@@ -33,7 +33,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridVideoDelegate.qml" line="303"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n minuto</numerusform><numerusform>%n minutos</numerusform></translation>
     </message>
 </context>
 <context>

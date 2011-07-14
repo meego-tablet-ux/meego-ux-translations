@@ -11,7 +11,7 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="57"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="309"/>
         <source>Coming up in play queue</source>
-        <translation type="unfinished"/>
+        <translation>Kuyrukta gelecek olan</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="58"/>
@@ -28,35 +28,35 @@
         <extracomment>%1 is &quot;Music&quot; panel title
 ----------
 %1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Müzi</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="100"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ayarlar</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="102"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 panel içeriğ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="170"/>
         <source>Play some music</source>
-        <translation type="unfinished"/>
+        <translation>Biraz müzik çal</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Geçmişi temizle</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="164"/>
         <source>The latest music you play and your playlists will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Oynatılan son müzik ve parça listeleriniz burada görüntülenecek.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="213"/>
@@ -69,7 +69,7 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="318"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="320"/>
         <source>Open</source>
-        <translation>Açık</translation>
+        <translation>Aç</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="261"/>
@@ -100,22 +100,22 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="362"/>
         <source>Your play queue is empty</source>
-        <translation type="unfinished"/>
+        <translation>Oynatma kuyruğunuz boş</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="380"/>
         <source>Add music to the play queue</source>
-        <translation type="unfinished"/>
+        <translation>Kuyruğa müzik ekle</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="446"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>Parça listeniz yok</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="451"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>Parça listesi oluştur</translation>
     </message>
 </context>
 </TS>

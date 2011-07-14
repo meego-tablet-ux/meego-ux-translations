@@ -158,6 +158,14 @@
     </message>
 </context>
 <context>
+    <name>ContactDelegate</name>
+    <message>
+        <location filename="../../ContactDelegate.qml" line="140"/>
+        <source>Report abuse</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FileTransferAgent</name>
     <message>
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="54"/>
@@ -175,87 +183,87 @@
 <context>
     <name>IMConversationModel</name>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="257"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="243"/>
         <source>%1 joined the chat</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="272"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="258"/>
         <source>%1 is typing</source>
         <translation>%1이(가) 메시지를 입력 중입니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="274"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="260"/>
         <source>%1 and %2 are typing</source>
         <translation>%1와(과) %2이(가) 메시지를 입력 중입니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="276"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="262"/>
         <source>Lots of people are typing</source>
         <translation>많은 사람들이 메시지를 입력 중입니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="281"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="267"/>
         <source>%1 left the chat</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="289"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="275"/>
         <source>%1 has paused typing</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="297"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="283"/>
         <source>%1 is now idle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="381"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="367"/>
         <source>%1 is calling you</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="385"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="371"/>
         <source>Setting up call to %1</source>
         <translation>%1에게의 전화를 설정 중입니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="388"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="374"/>
         <source>Calling %1</source>
         <translation>%1에게 전화를 걸고 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="391"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="377"/>
         <source>Call with %1 started</source>
         <translation>%1와(과)의 전화가 시작되었습니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="394"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="380"/>
         <source>Call with %1 on hold</source>
         <translation>%1와(과)의 전화가 대기 중입니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="454"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="440"/>
         <source>Error in call with %1</source>
         <translation>%1와(과)의 전화에 오류가 생겼습니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="482"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="468"/>
         <source>%1 bytes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="486"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="472"/>
         <source>%1 KB</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="490"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="476"/>
         <source>%1 MB</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="494"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="480"/>
         <source>%1 GB</source>
         <translation type="unfinished"/>
     </message>
@@ -297,47 +305,47 @@ Message indicating the contact has been added</extracomment>
 <context>
     <name>ImSettings</name>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="16"/>
+        <location filename="../../settings/ImSettings.qml" line="18"/>
         <source>Instant Messaging Settings</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="107"/>
+        <location filename="../../settings/ImSettings.qml" line="120"/>
         <source>Accounts</source>
         <translation>계정</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="136"/>
+        <location filename="../../settings/ImSettings.qml" line="149"/>
         <source>Add another account</source>
         <translation>다른 계정 추가</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="137"/>
+        <location filename="../../settings/ImSettings.qml" line="150"/>
         <source>Add an account</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="154"/>
+        <location filename="../../settings/ImSettings.qml" line="167"/>
         <source>General Settings</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="176"/>
+        <location filename="../../settings/ImSettings.qml" line="189"/>
         <source>Show offline contacts</source>
         <translation>오프라인 연락처 표시하기</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="214"/>
+        <location filename="../../settings/ImSettings.qml" line="227"/>
         <source>Notification on new message</source>
         <translation>새 메시지가 오면 알림</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="251"/>
+        <location filename="../../settings/ImSettings.qml" line="264"/>
         <source>Clear chat history</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="275"/>
+        <location filename="../../settings/ImSettings.qml" line="288"/>
         <source>Blocked contacts</source>
         <translation type="unfinished"/>
     </message>

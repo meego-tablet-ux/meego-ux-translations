@@ -12,42 +12,42 @@
         <translation>album tak dikenal</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="54"/>
+        <location filename="../../MusicListView.qml" line="59"/>
         <source>Playlist name</source>
         <translation>Nama daftar putar</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="56"/>
+        <location filename="../../MusicListView.qml" line="61"/>
         <source>Artist name</source>
         <translation>Nama artis</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="58"/>
+        <location filename="../../MusicListView.qml" line="63"/>
         <source>Album name</source>
         <translation>Nama album</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="59"/>
+        <location filename="../../MusicListView.qml" line="64"/>
         <source>Track name</source>
         <translation>Nama trek</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="74"/>
+        <location filename="../../MusicListView.qml" line="79"/>
         <source>Time</source>
         <translation>Waktu</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="88"/>
+        <location filename="../../MusicListView.qml" line="93"/>
         <source>Album</source>
         <translation>Album</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="102"/>
+        <location filename="../../MusicListView.qml" line="107"/>
         <source>Artist</source>
         <translation>Artis</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="115"/>
+        <location filename="../../MusicListView.qml" line="120"/>
         <source>Number of tracks</source>
         <translation>Cacah trek</translation>
     </message>
@@ -55,19 +55,19 @@
 <context>
     <name>MusicToolBar</name>
     <message>
-        <location filename="../../MusicToolBar.qml" line="54"/>
+        <location filename="../../MusicToolBar.qml" line="56"/>
         <source>Now playing: </source>
         <translation>Sedang dimainkan: </translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1, %2</source>
         <translation>%1, %2</translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1</source>
-        <translation type="unfinished"/>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -137,7 +137,7 @@
         <location filename="../../main.qml" line="101"/>
         <source>Favorite</source>
         <comment>Verb</comment>
-        <translation type="unfinished"/>
+        <translation>Favorit</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -311,17 +311,17 @@
     <message>
         <location filename="../../main.qml" line="83"/>
         <source>Add tracks</source>
-        <translation type="unfinished"/>
+        <translation>Tambah trek</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="84"/>
         <source>Add playlists</source>
-        <translation type="unfinished"/>
+        <translation>Tambah daftar putar</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="85"/>
         <source>Add albums</source>
-        <translation type="unfinished"/>
+        <translation>Tambah album</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="86"/>
@@ -384,41 +384,41 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="695"/>
+        <location filename="../../main.qml" line="722"/>
         <source>Artist name</source>
         <translation>Nama artis</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="703"/>
+        <location filename="../../main.qml" line="730"/>
         <source>Track name</source>
         <translation>Nama trek</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="717"/>
+        <location filename="../../main.qml" line="744"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>Bila Anda menghapusnya, ini akan dihapus dari perangkat Anda.</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="731"/>
+        <location filename="../../main.qml" line="758"/>
         <source>Permanently delete these %n song(s)?</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>Hapus %n lagu ini selamanya?</numerusform></translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="744"/>
+        <location filename="../../main.qml" line="771"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>Bila Anda menghapusnya, mereka akan dihapus dari perangkat Anda.</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="791"/>
-        <location filename="../../main.qml" line="834"/>
+        <location filename="../../main.qml" line="818"/>
+        <location filename="../../main.qml" line="861"/>
         <source>Invalid characters: %1</source>
         <translation>Karakter tak valid: %1</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="1989"/>
-        <location filename="../../main.qml" line="2312"/>
+        <location filename="../../main.qml" line="2035"/>
+        <location filename="../../main.qml" line="2361"/>
         <source>%n song(s)</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n lagu</numerusform></translation>
     </message>
 </context>
 </TS>

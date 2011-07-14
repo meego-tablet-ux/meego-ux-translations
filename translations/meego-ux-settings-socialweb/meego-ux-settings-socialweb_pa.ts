@@ -4,7 +4,7 @@
     <message>
         <location filename="../../qml/constants.js" line="3"/>
         <source>Web accounts</source>
-        <translation type="unfinished"/>
+        <translation>ਵੈੱਬ ਅਕਾਊਂਟ</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
@@ -50,7 +50,7 @@
     <message>
         <location filename="../../qml/constants.js" line="18"/>
         <source>More details</source>
-        <translation type="unfinished"/>
+        <translation>ਹੋਰ ਵੇਰਵਾ</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
@@ -70,13 +70,13 @@
     <message>
         <location filename="../../qml/constants.js" line="23"/>
         <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਸੀਂ ਠੀਕ ਤਰ੍ਹਾਂ ਸਾਇਨ ਆਉਟ ਕਰ ਗਏ ਹੋ।   ਇਸ ਸਰਵਿਸ ਤੋਂ ਸਮੱਗਰੀ ਨੂੰ ਇਹ ਜੰਤਰ ਉੱਤੇ ਨਹੀਂ ਵੇਖਾਇਆ ਜਾਵੇਗਾ।</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="25"/>
         <source>This service supports sharing only</source>
         <extracomment>Denotes a social networking service that only plugs in to the sharing framework for media sharing, and doesn't provide content on the Friends panel</extracomment>
-        <translation type="unfinished"/>
+        <translation>ਇਹ ਸਰਵਿਸ ਸਾਂਝਾ ਕਰਨ ਲਈ ਸਹਾਇਕ ਹੈ</translation>
     </message>
 </context>
 </TS>

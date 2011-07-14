@@ -15,7 +15,7 @@
         <location filename="../../General/BacklightSettings.qml" line="82"/>
         <source>%1%</source>
         <comment>slider value percentage</comment>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -111,12 +111,12 @@
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="94"/>
         <source>Discoverable</source>
-        <translation type="unfinished"/>
+        <translation>قابل للإكتشاف</translation>
     </message>
     <message numerus="yes">
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="107"/>
         <source>Discoverable for %n, second(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>قابل للإكتشاف لمدة %n,(ثانية) </numerusform><numerusform>قابل للإكتشاف لمدة %n,(ثانية واحدة) </numerusform><numerusform>قابل للإكتشاف لمدة %n,(ثانيتان) </numerusform><numerusform>قابل للإكتشاف لمدة %n,(لبضع ثواني) </numerusform><numerusform>قابل للإكتشاف لمدة %n,(لثواني) </numerusform><numerusform>قابل للإكتشاف لمدة %n,(ثانية) </numerusform></translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="174"/>
@@ -204,7 +204,7 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="371"/>
         <source>Are you sure about clearing the browsing history?</source>
-        <translation>هل أنت متأكد انك تريد مسح تاريخ التصفح؟</translation>
+        <translation>متأكد انك تريد مسح تاريخ التصفح؟</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="381"/>
@@ -214,7 +214,7 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="384"/>
         <source>Are you sure about clearing the download history?</source>
-        <translation>هل أنت متأكد حول مسح تاريخ التنزيل؟</translation>
+        <translation>متأكد أنك تريد مسح تاريخ التنزيل؟</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="394"/>
@@ -407,7 +407,7 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="31"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>لغة</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="42"/>
@@ -502,13 +502,13 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Sync/SyncEvoStatic.cpp" line="15"/>
         <source>Contacts</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Contacts&quot; or &quot;Google Contacts&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>جهات الاتصال</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoStatic.cpp" line="19"/>
         <source>Calendar</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Calendar&quot; or</extracomment>
-        <translation type="unfinished"/>
+        <translation>التقويم</translation>
     </message>
 </context>
 <context>
@@ -529,42 +529,42 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="28"/>
         <source>App Update</source>
-        <translation type="unfinished"/>
+        <translation>تحديث التطبيقات</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="32"/>
         <source>New IM</source>
-        <translation type="unfinished"/>
+        <translation>متراسل جديد</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="36"/>
         <source>Bluetooth Device Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>فصل جهاز البلوتوث</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="40"/>
         <source>New Email</source>
-        <translation type="unfinished"/>
+        <translation>ايميل جديد</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="44"/>
         <source>Social Web Friend Request</source>
-        <translation type="unfinished"/>
+        <translation>طلب صداقة الشبكة الاجتماعية</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
         <source>Download Completed</source>
-        <translation type="unfinished"/>
+        <translation>تنزيل مكتمل</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="72"/>
         <source>By default, phone and messaging notifications will be shown on the lockscreen.</source>
-        <translation>افتراضياً, تنبيه الهاتف الرسائل سيظهر على الشاشة المغلقة</translation>
+        <translation>افتراضياً, تنبيه رسائل الهاتف سيظهر على الشاشة المغلقة</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="91"/>
         <source>You may select up to 4 additional notifications to receive on the lockscreen</source>
-        <translation>يمكنك تلقي ما يصل الى 4  إخطارات إضافية على الشاشة المغلقة</translation>
+        <translation>يمكنك تلقي ما يصل إلي 4  تنبيهات إضافية على الشاشة المغلقة</translation>
     </message>
 </context>
 <context>
@@ -582,7 +582,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="124"/>
         <source>You can&apos;t turn off this panel</source>
-        <translation type="unfinished"/>
+        <translation>لا يمكنك إيقاف هذه اللوحة</translation>
     </message>
 </context>
 <context>
@@ -645,7 +645,7 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../General/ScreensaverSettings.qml" line="80"/>
         <source>%n Minute(s)</source>
         <comment>time in minutes</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n (دقيقة)</numerusform><numerusform>%n (دقيقة واحدة)</numerusform><numerusform>%n (دقيقتان)</numerusform><numerusform>%n (دقائق)</numerusform><numerusform>%n (دقائق)</numerusform><numerusform>%n (دقائق)</numerusform></translation>
     </message>
 </context>
 <context>
@@ -653,12 +653,12 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="10"/>
         <source>Set Time Zone</source>
-        <translation type="unfinished"/>
+        <translation>تعيين المنطقة الزمنية</translation>
     </message>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="65"/>
         <source>Filter list</source>
-        <translation>قائمة الفلتر</translation>
+        <translation>قائمة الفلترة</translation>
     </message>
 </context>
 <context>
@@ -673,7 +673,7 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Settings/SettingsModel.qml" line="102"/>
         <source>Application</source>
         <comment>should actually by 'Applications'</comment>
-        <translation type="unfinished"/>
+        <translation>تطبيق</translation>
     </message>
 </context>
 <context>
@@ -706,7 +706,7 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Sync/SyncDetails.qml" line="255"/>
         <source>Forget this</source>
         <extracomment>Text displayed in &quot;forget this&quot; button (used to remove current sync account).</extracomment>
-        <translation>انسى هذا</translation>
+        <translation>إنسى هذا</translation>
     </message>
 </context>
 <context>
@@ -800,7 +800,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="210"/>
         <source>Current time zone is %1</source>
-        <translation type="unfinished"/>
+        <translation>منطقة التوقيت الحالية %1</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="232"/>
@@ -810,7 +810,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="272"/>
         <source>Manual time zone selection</source>
-        <translation type="unfinished"/>
+        <translation>دليل اختيار المنطقة الزمنية</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="286"/>

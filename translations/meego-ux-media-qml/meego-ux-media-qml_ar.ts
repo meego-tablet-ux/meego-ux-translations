@@ -4,12 +4,12 @@
     <message>
         <location filename="../../Media/MediaGridDocumentDelegate.qml" line="210"/>
         <source>%1 Minute</source>
-        <translation type="unfinished"/>
+        <translation>%1 دقيقة</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridDocumentDelegate.qml" line="210"/>
         <source>%1 Minutes</source>
-        <translation type="unfinished"/>
+        <translation>%1 دقائق</translation>
     </message>
 </context>
 <context>
@@ -17,7 +17,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="321"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n دقيقة(مضت)</numerusform><numerusform>%n دقيقة(مضت)</numerusform><numerusform>%n دقيقتان(مضت)</numerusform><numerusform>%n دقائق(مضت)</numerusform><numerusform>%n دقائق(مضت)</numerusform><numerusform>%n دقائق(مضت)</numerusform></translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridPhotoAlbumDelegate.qml" line="277"/>
         <source>%n Photo(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n (صورة)</numerusform><numerusform>%n (صورة)</numerusform><numerusform>%n (صورتان)</numerusform><numerusform>%n (صور)</numerusform><numerusform>%n (صور)</numerusform><numerusform>%n (صور)</numerusform></translation>
     </message>
 </context>
 <context>
@@ -33,7 +33,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridVideoDelegate.qml" line="303"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n دقيقة(مضت)</numerusform><numerusform>%n دقيقة(مضت)</numerusform><numerusform>%n دقيقتان(مضت)</numerusform><numerusform>%n دقائق(مضت)</numerusform><numerusform>%n دقائق(مضت)</numerusform><numerusform>%n دقائق(مضت)</numerusform></translation>
     </message>
 </context>
 <context>

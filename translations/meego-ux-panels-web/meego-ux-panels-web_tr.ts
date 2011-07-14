@@ -22,46 +22,46 @@
         <extracomment>%1 is &quot;Web&quot; panel title
 ----------
 %1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ayarlar</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 panel içeriği</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="152"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="205"/>
         <source>Visit a website</source>
-        <translation type="unfinished"/>
+        <translation>Websitesini ziyaret et</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Geçmişi temizle</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="146"/>
         <source>The latest websites you visit and your bookmarks will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Gezdiğiniz son websiteleri ve yer imleriniz burada görünecek.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="201"/>
         <source>No recently visited websites.</source>
-        <translation type="unfinished"/>
+        <translation>Yakın zamanda gezilmiş websitesi yok.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="219"/>
         <source>You have cleared the Web history</source>
-        <translation type="unfinished"/>
+        <translation>Web geçmişini temizlediniz</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="233"/>

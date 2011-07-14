@@ -52,13 +52,13 @@
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="647"/>
         <source>Network problem</source>
         <extracomment>%1 is service name</extracomment>
-        <translation type="unfinished"/>
+        <translation>مشكلة شبكة</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="647"/>
         <source>%1 problem</source>
         <extracomment>%1 is service name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 مشكلة</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="654"/>
@@ -70,45 +70,45 @@
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="664"/>
         <source>Sorry, there&apos;s a problem with the network. Please try again when you have an internet connection.</source>
         <extracomment>%1 is the service name.</extracomment>
-        <translation type="unfinished"/>
+        <translation>عذرا ، هناك مشكلة في الشبكة. يرجى المحاولة مرة أخرى عندما يكون لديك اتصال بالإنترنت.</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="664"/>
         <source>Sorry, there&apos;s a problem with %1 and we need you to log in again</source>
         <extracomment>%1 is the service name.</extracomment>
-        <translation type="unfinished"/>
+        <translation>عذرا ، هناك مشكلة مع %1 ، سجل الدخول مرة أخرى</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="664"/>
         <source>Sorry, there&apos;s a problem with %1 and we can&apos;t upload your file.</source>
         <extracomment>%1 is the service name.</extracomment>
-        <translation type="unfinished"/>
+        <translation>عذراً ، يوجد مشكلة مع %1 لا تستطيع تحميل الملف.</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="695"/>
         <source>Uploading to %1</source>
         <extracomment>%1 is the service name</extracomment>
-        <translation type="unfinished"/>
+        <translation>تحميلها على %1</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="702"/>
         <source>Upload complete</source>
-        <translation type="unfinished"/>
+        <translation>اكتمل التحميل</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="722"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="726"/>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>عودة</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="726"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>إخفاء</translation>
     </message>
 </context>
 </TS>

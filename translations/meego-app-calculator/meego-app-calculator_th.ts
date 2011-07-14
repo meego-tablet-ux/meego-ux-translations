@@ -2,47 +2,50 @@
 <context>
     <name>calculator</name>
     <message>
-        <location filename="../../calculator.js" line="57"/>
-        <source>Infinity</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../calculator.js" line="59"/>
+        <source>Infinity</source>
+        <extracomment>Calculator error reporting positive infinity result (positive overflow) See http://www.w3schools.com/jsref/jsref_infinity.asp</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../calculator.js" line="62"/>
         <source>-Infinity</source>
+        <extracomment>Calculator error reporting negative infinity result (negative overflow)</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../calculator.js" line="61"/>
+        <location filename="../../calculator.js" line="65"/>
         <source>Error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../calculator.js" line="174"/>
-        <source>mc</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../calculator.js" line="176"/>
-        <source>m+</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../calculator.js" line="178"/>
-        <source>mr</source>
+        <extracomment>Calculator error for illegal calculation (e.g. square root of negative number)</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../calculator.js" line="180"/>
-        <source>m-</source>
+        <source>mc</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../calculator.js" line="182"/>
-        <source>C</source>
+        <source>m+</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../calculator.js" line="184"/>
+        <source>mr</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../calculator.js" line="186"/>
+        <source>m-</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../calculator.js" line="188"/>
+        <source>C</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../calculator.js" line="190"/>
         <source>AC</source>
         <translation type="unfinished"/>
     </message>

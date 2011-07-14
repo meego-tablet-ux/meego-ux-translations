@@ -36,13 +36,13 @@
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="124"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="178"/>
         <source>Featured applications</source>
-        <translation type="unfinished"/>
+        <translation>Applications préférées</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="127"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="185"/>
         <source>Updated applications</source>
-        <translation type="unfinished"/>
+        <translation>Applications mises à jours</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="136"/>
@@ -53,12 +53,12 @@
         <extracomment>%1 is &quot;My Tablet&quot; panel title
 ----------
 %1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ma tablette</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="160"/>
         <source>The applications you use most will appear here. Discover the apps already in your tablet, or visit Intel AppUp to download more.</source>
-        <translation type="unfinished"/>
+        <translation>Les applications que vous utilisez le plus apparaîtront ici. Découvrez les applications de votre tablette, ou visitez le site d&apos;Intel AppUp pour en télécharger d&apos;autres.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="192"/>
@@ -69,13 +69,13 @@
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="202"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 paramètres</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="204"/>
         <source>%1 content</source>
         <extracomment>%1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 de contenu</translation>
     </message>
 </context>
 </TS>

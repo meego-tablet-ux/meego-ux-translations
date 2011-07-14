@@ -28,35 +28,35 @@
         <extracomment>%1 is &quot;Music&quot; panel title
 ----------
 %1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>តន្ត្រី</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="100"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ការ​កំណត់</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="102"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 មាតិកា​បន្ទះ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="170"/>
         <source>Play some music</source>
-        <translation type="unfinished"/>
+        <translation>លេង​តន្ត្រី​មួយ​ចំនួន</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>សម្អាត​ប្រវត្តិ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="164"/>
         <source>The latest music you play and your playlists will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>បទ​ចម្រៀង​ដែល​អ្នក​បាន​ចាក់​ចុង​ក្រោយ និង បញ្ជី​ចម្រៀង​របស់​អ្នក នឹង​ត្រូវ​បង្ហាញ​នៅ​ទីនេះ។</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="213"/>
@@ -110,12 +110,12 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="446"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​មិន​មាន​បញ្ជី​ចម្រៀង​ទេ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="451"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>បង្កើត​បញ្ជី​ចម្រៀង</translation>
     </message>
 </context>
 </TS>

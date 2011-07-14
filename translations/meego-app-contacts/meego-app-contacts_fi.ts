@@ -48,7 +48,7 @@
         <location filename="../../ContactCardLandscape.qml" line="85"/>
         <location filename="../../ContactCardLandscape.qml" line="87"/>
         <source>%1 %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -62,34 +62,34 @@
         <location filename="../../ContactCardPortrait.qml" line="68"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
-        <translation>Ei-suosikki</translation>
+        <translation>Poista suosikeista</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="71"/>
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Lisää suosikkeihin</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="73"/>
         <source>Idle</source>
-        <translation>Vapaa</translation>
+        <translation>Jouten</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="74"/>
         <source>Busy</source>
-        <translation>Kiireinen</translation>
+        <translation>Varattu</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="75"/>
         <source>Online</source>
-        <translation>Online</translation>
+        <translation>Linjoilla</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="76"/>
         <source>Offline</source>
-        <translation>Offline</translation>
+        <translation>Poissa linjoilta</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="79"/>
@@ -102,27 +102,27 @@
         <source>%1 %2</source>
         <comment>LastFirstName</comment>
         <extracomment>%1 is last name, %2 is first name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="111"/>
         <source>%1 %2</source>
         <comment>FirstLastName</comment>
         <extracomment>%1 is first name, %2 is last name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
     <name>ContactsExpandableDetails</name>
     <message>
-        <location filename="../../ContactsExpandableDetails.qml" line="31"/>
+        <location filename="../../ContactsExpandableDetails.qml" line="30"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Lisää</translation>
     </message>
     <message>
-        <location filename="../../ContactsExpandableDetails.qml" line="32"/>
+        <location filename="../../ContactsExpandableDetails.qml" line="31"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Peruuta</translation>
     </message>
 </context>
 <context>
@@ -171,22 +171,22 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="29"/>
         <source>Idle</source>
-        <translation>Vapaa</translation>
+        <translation>Jouten</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="30"/>
         <source>Busy</source>
-        <translation>Kiireinen</translation>
+        <translation>Varattu</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="31"/>
         <source>Online</source>
-        <translation>Online</translation>
+        <translation>Linjoilla</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="32"/>
         <source>Offline</source>
-        <translation>Offline</translation>
+        <translation>Poissa linjoilta</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="34"/>
@@ -213,14 +213,14 @@
         <source>Bookmark</source>
         <comment>Noun</comment>
         <extracomment>Denotes whether the web page for this contact is just a bookmark</extracomment>
-        <translation type="unfinished"/>
+        <translation>Kirjanmerkki</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="43"/>
         <source>Favorite</source>
         <comment>Noun</comment>
         <extracomment>Denotes whether the web page for this contact is a favorite bookmark</extracomment>
-        <translation type="unfinished"/>
+        <translation>Lisää suosikkeihin</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="45"/>
@@ -251,7 +251,7 @@
         <location filename="../../DetailViewPortrait.qml" line="52"/>
         <source>Site</source>
         <extracomment>Default website - the user should enter a URL in this field</extracomment>
-        <translation>Paikka</translation>
+        <translation>Web-sivu</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="54"/>
@@ -262,7 +262,7 @@
         <location filename="../../DetailViewPortrait.qml" line="57"/>
         <source>Instant messaging</source>
         <extracomment>Instant Messaging Accounts for this contact</extracomment>
-        <translation>Pikaviestit</translation>
+        <translation>Pikaviestimet</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="58"/>
@@ -273,7 +273,7 @@
         <location filename="../../DetailViewPortrait.qml" line="61"/>
         <source>Web</source>
         <extracomment>The header for the section that shows the web sites for this contact</extracomment>
-        <translation>Verkko-osoite</translation>
+        <translation>Web-sivut</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="62"/>
@@ -293,7 +293,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="65"/>
         <source>Note</source>
-        <translation>Huomautus</translation>
+        <translation>Merkintä</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="67"/>
@@ -335,13 +335,13 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Lisää suosikkeihin</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="79"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
-        <translation>Ei-suosikki</translation>
+        <translation>Poista suosikeista</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="97"/>
@@ -391,7 +391,7 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="38"/>
         <source>Pronounciation</source>
-        <translation type="unfinished"/>
+        <translation>Ääntäminen</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="39"/>
@@ -416,72 +416,72 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="43"/>
         <source>Note</source>
-        <translation>Huomautus</translation>
+        <translation>Merkintä</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="49"/>
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Lisää suosikkeihin</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="52"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
-        <translation>Ei-suosikki</translation>
+        <translation>Poista suosikeista</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="54"/>
         <source>Phone numbers</source>
-        <translation type="unfinished"/>
+        <translation>Puhelinnumerot</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="55"/>
         <source>Add number</source>
-        <translation type="unfinished"/>
+        <translation>Lisää numero</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="58"/>
         <source>Instant messaging</source>
         <extracomment>Instant Messaging Accounts for this contact</extracomment>
-        <translation type="unfinished"/>
+        <translation>Pikaviestimet</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="59"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>Lisää tili</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="60"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>Sähköposti</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="61"/>
         <source>Add email address</source>
-        <translation type="unfinished"/>
+        <translation>Lisää sähköpostiosoite</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="64"/>
         <source>Web</source>
         <extracomment>The header for the section that shows the web sites for this contact</extracomment>
-        <translation type="unfinished"/>
+        <translation>Web-sivut</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="65"/>
         <source>Add web page</source>
-        <translation type="unfinished"/>
+        <translation>Lisää web-sivu</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="66"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Osoite</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="67"/>
         <source>Add address</source>
-        <translation type="unfinished"/>
+        <translation>Lisää osoite</translation>
     </message>
 </context>
 <context>
@@ -512,7 +512,7 @@
     <message>
         <location filename="../../EmptyContacts.qml" line="17"/>
         <source>You haven&apos;t added any contacts yet.</source>
-        <translation>Et ole vielä lisännyt yhteystietoja</translation>
+        <translation>Et ole vielä lisännyt yhteystietoja.</translation>
     </message>
     <message>
         <location filename="../../EmptyContacts.qml" line="18"/>
@@ -525,7 +525,7 @@
     <message>
         <location filename="../../GroupedViewLandscape.qml" line="58"/>
         <source>#</source>
-        <translation type="unfinished"/>
+        <translation>#</translation>
     </message>
 </context>
 <context>
@@ -543,7 +543,7 @@
         <location filename="../../ImEditWidget.qml" line="25"/>
         <source>Instant messaging</source>
         <extracomment>Instant Messaging Accounts for this contact</extracomment>
-        <translation>Pikaviestintä</translation>
+        <translation>Pikaviestimet</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="26"/>
@@ -563,7 +563,7 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="29"/>
         <source>Yahoo!</source>
-        <translation type="unfinished"/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="30"/>
@@ -627,7 +627,7 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="34"/>
         <source>Pronounciation</source>
-        <translation type="unfinished"/>
+        <translation>Ääntäminen</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="35"/>
@@ -663,64 +663,64 @@
         <location filename="../../NewContactViewPortrait.qml" line="46"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
-        <translation>Ei-suosikki</translation>
+        <translation>Poista suosikeista</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="49"/>
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Lisää suosikkeihin</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="51"/>
         <source>Phone numbers</source>
-        <translation type="unfinished"/>
+        <translation>Puhelinnumerot</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="52"/>
         <source>Add number</source>
-        <translation type="unfinished"/>
+        <translation>Lisää numero</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="53"/>
         <source>Instant messaging</source>
-        <translation type="unfinished"/>
+        <translation>Pikaviestimet</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="54"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>Lisää tili</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="55"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>Sähköposti</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="56"/>
         <source>Add email address</source>
-        <translation type="unfinished"/>
+        <translation>Lisää sähköpostiosoite</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="57"/>
         <source>Web</source>
-        <translation type="unfinished"/>
+        <translation>Web-sivu</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="58"/>
         <source>Add web page</source>
-        <translation type="unfinished"/>
+        <translation>Lisää web-sivu</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="59"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Osoite</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="60"/>
         <source>Add address</source>
-        <translation type="unfinished"/>
+        <translation>Lisää osoite</translation>
     </message>
 </context>
 <context>
@@ -781,19 +781,19 @@
     <message>
         <location filename="../../WebPageEditWidget.qml" line="22"/>
         <source>Site</source>
-        <translation>Paikka</translation>
+        <translation>Web-sivu</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="23"/>
         <source>Bookmark</source>
         <comment>Noun</comment>
-        <translation type="unfinished"/>
+        <translation>Kirjanmerkki</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="24"/>
         <source>Favorite</source>
         <comment>Noun</comment>
-        <translation type="unfinished"/>
+        <translation>Suosikki</translation>
     </message>
 </context>
 <context>
@@ -823,7 +823,7 @@
     <message>
         <location filename="../../main.qml" line="28"/>
         <source>Who&apos;s online</source>
-        <translation>Kuka on online-tilassa</translation>
+        <translation>Kuka on linjoilla</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>
@@ -846,13 +846,13 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Lisää suosikkeihin</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Poista suosikeista</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -878,7 +878,7 @@
         <location filename="../../main.qml" line="47"/>
         <source>Delete Confirmation</source>
         <extracomment>Confirmation of deletion - ensure the user wants to delete the contact</extracomment>
-        <translation>Poista vahvistus</translation>
+        <translation>Vahvista poisto</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="51"/>
@@ -894,7 +894,7 @@
         <location filename="../../main.qml" line="56"/>
         <source>this contact</source>
         <extracomment>If we are unable to get the contact name, use 'this contact' instead</extracomment>
-        <translation>tämän yhteystiedon</translation>
+        <translation>tämä yhteystieto</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="57"/>

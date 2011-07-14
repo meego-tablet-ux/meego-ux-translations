@@ -4,7 +4,7 @@
     <message>
         <location filename="../../qml/constants.js" line="3"/>
         <source>Web accounts</source>
-        <translation type="unfinished"/>
+        <translation>Account Web</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
@@ -45,12 +45,12 @@
     <message>
         <location filename="../../qml/constants.js" line="16"/>
         <source>Verifier code</source>
-        <translation>Codice controllore</translation>
+        <translation>Codice di controllo</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="18"/>
         <source>More details</source>
-        <translation type="unfinished"/>
+        <translation>Maggiori dettagli</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
@@ -70,13 +70,13 @@
     <message>
         <location filename="../../qml/constants.js" line="23"/>
         <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
-        <translation type="unfinished"/>
+        <translation>Uscita effettuata con successo. I contenuti di questo servizio non appariranno più su questo dispositivo</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="25"/>
         <source>This service supports sharing only</source>
         <extracomment>Denotes a social networking service that only plugs in to the sharing framework for media sharing, and doesn't provide content on the Friends panel</extracomment>
-        <translation type="unfinished"/>
+        <translation>Questo servizio supporta sola la condivisione</translation>
     </message>
 </context>
 </TS>

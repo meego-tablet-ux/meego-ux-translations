@@ -48,7 +48,7 @@
         <location filename="../../ContactCardLandscape.qml" line="85"/>
         <location filename="../../ContactCardLandscape.qml" line="87"/>
         <source>%1 %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -69,7 +69,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favoris</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="73"/>
@@ -95,34 +95,34 @@
         <location filename="../../ContactCardPortrait.qml" line="79"/>
         <source>(...)</source>
         <extracomment>Truncate string - used when a string is too long for the display area</extracomment>
-        <translation type="unfinished"/>
+        <translation>(...)</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="108"/>
         <source>%1 %2</source>
         <comment>LastFirstName</comment>
         <extracomment>%1 is last name, %2 is first name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="111"/>
         <source>%1 %2</source>
         <comment>FirstLastName</comment>
         <extracomment>%1 is first name, %2 is last name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
     <name>ContactsExpandableDetails</name>
     <message>
-        <location filename="../../ContactsExpandableDetails.qml" line="31"/>
+        <location filename="../../ContactsExpandableDetails.qml" line="30"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter</translation>
     </message>
     <message>
-        <location filename="../../ContactsExpandableDetails.qml" line="32"/>
+        <location filename="../../ContactsExpandableDetails.qml" line="31"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
@@ -130,40 +130,40 @@
     <message>
         <location filename="../../ContactsSettings.qml" line="16"/>
         <source>Contacts Settings</source>
-        <translation type="unfinished"/>
+        <translation>Réglages Contacts</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="17"/>
         <source>Sort Order:</source>
-        <translation type="unfinished"/>
+        <translation>Ordre de tri:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Display Order:</source>
         <extracomment>How contacts will be displayed to the user - last first or first last</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ordre d&apos;affichage:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="21"/>
         <source>Sort by first name</source>
-        <translation type="unfinished"/>
+        <translation>Trier par prénom</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Sort by last name</source>
-        <translation type="unfinished"/>
+        <translation>Trier par nom de famille</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="25"/>
         <source>Display by first name</source>
         <extracomment>Display contacts with the first name first - FirstName LastName</extracomment>
-        <translation type="unfinished"/>
+        <translation>Affichage par prénom</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="28"/>
         <source>Display by last name</source>
         <extracomment>Display contacts with the last name first - LastName FirstName</extracomment>
-        <translation type="unfinished"/>
+        <translation>Affichage du nom de famille</translation>
     </message>
 </context>
 <context>
@@ -213,14 +213,14 @@
         <source>Bookmark</source>
         <comment>Noun</comment>
         <extracomment>Denotes whether the web page for this contact is just a bookmark</extracomment>
-        <translation type="unfinished"/>
+        <translation>Bookmark</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="43"/>
         <source>Favorite</source>
         <comment>Noun</comment>
         <extracomment>Denotes whether the web page for this contact is a favorite bookmark</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favoris</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="45"/>
@@ -335,7 +335,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favoris</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="79"/>
@@ -391,7 +391,7 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="38"/>
         <source>Pronounciation</source>
-        <translation type="unfinished"/>
+        <translation>Prononciation</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="39"/>
@@ -423,7 +423,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favoris</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="52"/>
@@ -434,54 +434,54 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="54"/>
         <source>Phone numbers</source>
-        <translation type="unfinished"/>
+        <translation>Numéros de téléphone</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="55"/>
         <source>Add number</source>
-        <translation type="unfinished"/>
+        <translation>Ajout d&apos;un numéro</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="58"/>
         <source>Instant messaging</source>
         <extracomment>Instant Messaging Accounts for this contact</extracomment>
-        <translation type="unfinished"/>
+        <translation>Messagerie instantanée</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="59"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter un compte</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="60"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>Email</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="61"/>
         <source>Add email address</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter adresse email</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="64"/>
         <source>Web</source>
         <extracomment>The header for the section that shows the web sites for this contact</extracomment>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="65"/>
         <source>Add web page</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter la page Web</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="66"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Adresse</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="67"/>
         <source>Add address</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter une adresse</translation>
     </message>
 </context>
 <context>
@@ -525,7 +525,7 @@
     <message>
         <location filename="../../GroupedViewLandscape.qml" line="58"/>
         <source>#</source>
-        <translation type="unfinished"/>
+        <translation>#</translation>
     </message>
 </context>
 <context>
@@ -563,7 +563,7 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="29"/>
         <source>Yahoo!</source>
-        <translation type="unfinished"/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="30"/>
@@ -584,7 +584,7 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="35"/>
         <source>Account Type</source>
-        <translation type="unfinished"/>
+        <translation>Type de compte</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="36"/>
@@ -627,7 +627,7 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="34"/>
         <source>Pronounciation</source>
-        <translation type="unfinished"/>
+        <translation>Prononciation</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="35"/>
@@ -670,57 +670,57 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favoris</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="51"/>
         <source>Phone numbers</source>
-        <translation type="unfinished"/>
+        <translation>Numéros de téléphone</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="52"/>
         <source>Add number</source>
-        <translation type="unfinished"/>
+        <translation>Ajout d&apos;un numéro</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="53"/>
         <source>Instant messaging</source>
-        <translation type="unfinished"/>
+        <translation>La messagerie instantanée</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="54"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter un compte</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="55"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>Email</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="56"/>
         <source>Add email address</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter adresse email</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="57"/>
         <source>Web</source>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="58"/>
         <source>Add web page</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter une page Web</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="59"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Adresse</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="60"/>
         <source>Add address</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter une adresse</translation>
     </message>
 </context>
 <context>
@@ -787,13 +787,13 @@
         <location filename="../../WebPageEditWidget.qml" line="23"/>
         <source>Bookmark</source>
         <comment>Noun</comment>
-        <translation type="unfinished"/>
+        <translation>Marque-page</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="24"/>
         <source>Favorite</source>
         <comment>Noun</comment>
-        <translation type="unfinished"/>
+        <translation>Favoris</translation>
     </message>
 </context>
 <context>
@@ -846,13 +846,13 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favoris</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Retirer de la liste des favoris</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>

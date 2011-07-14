@@ -5,13 +5,13 @@
         <location filename="../../panelsrc/web/webpanel.qml" line="48"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="181"/>
         <source>Recently visited</source>
-        <translation type="unfinished"/>
+        <translation>Nyligt besøgte</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="49"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="279"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Bogmærker</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="109"/>
@@ -22,46 +22,46 @@
         <extracomment>%1 is &quot;Web&quot; panel title
 ----------
 %1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1-indstillinger</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1-panelindhold</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="152"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="205"/>
         <source>Visit a website</source>
-        <translation type="unfinished"/>
+        <translation>Besøg et websted</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Ryd historik</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="146"/>
         <source>The latest websites you visit and your bookmarks will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>De senest besøgte websteder og bogmærker vil vise sig her.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="201"/>
         <source>No recently visited websites.</source>
-        <translation type="unfinished"/>
+        <translation>Ingen nyligt besøgte websteder.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="219"/>
         <source>You have cleared the Web history</source>
-        <translation type="unfinished"/>
+        <translation>Du har ryddet webhistorikken</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="233"/>
@@ -69,19 +69,19 @@
         <location filename="../../panelsrc/web/webpanel.qml" line="290"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="292"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Vis</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="233"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="240"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Skjul</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="290"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="296"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Slet</translation>
     </message>
 </context>
 </TS>

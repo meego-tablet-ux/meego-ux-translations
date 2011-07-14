@@ -22,40 +22,40 @@
         <extracomment>%1 is &quot;Photos&quot; panel title
 ----------
 %1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Zdjęcia</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="92"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ustawienia panelu %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="94"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Zawartość panelu %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="129"/>
         <source>View some photos</source>
-        <translation type="unfinished"/>
+        <translation>Oglądaj zdjęcia</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść historię</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="123"/>
         <source>The latest photos you view and your photo albums will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Pojawią się tu ostatnio oglądane zdjęcia i albumy.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="166"/>
         <source>You have cleared the Photos history</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyszczono historię panelu Zdjęcia</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
@@ -87,18 +87,18 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="241"/>
         <source>You have no photo albums</source>
-        <translation type="unfinished"/>
+        <translation>Brak albumów zdjęć</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="246"/>
         <source>Create an album</source>
-        <translation type="unfinished"/>
+        <translation>Stwórz album</translation>
     </message>
     <message numerus="yes">
         <location filename="../../panelsrc/photos/photospanel.qml" line="275"/>
         <source>%n photo(s)</source>
         <comment>albumphotocount</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Jedno zdjęcie</numerusform><numerusform>%n zdjęcia</numerusform><numerusform>%n zdjęć</numerusform></translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="285"/>

@@ -76,7 +76,7 @@
         <location filename="../../qml/constants.js" line="25"/>
         <source>This service supports sharing only</source>
         <extracomment>Denotes a social networking service that only plugs in to the sharing framework for media sharing, and doesn't provide content on the Friends panel</extracomment>
-        <translation type="unfinished"/>
+        <translation>This service supports sharing only.</translation>
     </message>
 </context>
 </TS>

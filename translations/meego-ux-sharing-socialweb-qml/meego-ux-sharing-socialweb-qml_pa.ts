@@ -63,7 +63,7 @@
         <location filename="../../qml/CreateCollection.qml" line="148"/>
         <location filename="../../qml/CreateCollection.qml" line="235"/>
         <source>Collection creation: General error</source>
-        <translation type="unfinished"/>
+        <translation>ਭੰਡਾਰ ਬਣਾਓ: ਆਮ ਗਲਤੀ</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="155"/>
@@ -96,7 +96,7 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="32"/>
         <source>No album</source>
-        <translation type="unfinished"/>
+        <translation>ਕੋਈ ਐਲਬਮ ਨਹੀਂ</translation>
     </message>
     <message>
         <location filename="../../qml/MediaUploader.qml" line="220"/>
@@ -196,17 +196,17 @@
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation type="unfinished"/>
+        <translation>ਕੇਵਲ ਤੁਸੀਂ (ਪ੍ਰਾਈਵੇਟ)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="87"/>
         <source>Your friends</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੇ ਦੋਸਤ</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="119"/>
         <source>Your family</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡਾ ਪਰਿਵਾਰ</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="153"/>
@@ -234,17 +234,17 @@
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation type="unfinished"/>
+        <translation>ਕੇਵਲ ਤੁਸੀਂ (ਪ੍ਰਾਈਵੇਟ)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="87"/>
         <source>Your friends</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੇ ਦੋਸਤ</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="119"/>
         <source>Your family</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡਾ ਪਰਿਵਾਰ</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="153"/>
@@ -272,17 +272,17 @@
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation type="unfinished"/>
+        <translation>ਕੇਵਲ ਤੁਸੀਂ (ਪ੍ਰਾਈਵੇਟ)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="87"/>
         <source>Your friends</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੇ ਦੋਸ</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="119"/>
         <source>Your family</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡਾ ਪਰਿਵਾਰ</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="153"/>
@@ -310,17 +310,17 @@
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation type="unfinished"/>
+        <translation>ਕੇਵਲ ਤੁਸੀਂ (ਪ੍ਰਾਈਵੇਟ)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="87"/>
         <source>Your friends</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੇ ਦੋਸਤ</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="119"/>
         <source>Your family</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੇ ਦੋਸ</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="153"/>
@@ -401,12 +401,12 @@
     <message>
         <location filename="../../qml/vimeo_video_multi.qml" line="20"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>ਵਿਡੀਓ ਨਾਂ</translation>
     </message>
     <message>
         <location filename="../../qml/vimeo_video_multi.qml" line="23"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>ਵਿਡੀਓ ਵੇਰਵਾ</translation>
     </message>
 </context>
 <context>
@@ -414,12 +414,12 @@
     <message>
         <location filename="../../qml/vimeo_video_single.qml" line="20"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>ਵਿਡੀਓ ਨਾਂ</translation>
     </message>
     <message>
         <location filename="../../qml/vimeo_video_single.qml" line="23"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>ਵਿਡੀਓ ਵੇਰਵਾ</translation>
     </message>
 </context>
 <context>

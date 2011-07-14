@@ -4,12 +4,12 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="43"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>Paneler</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="46"/>
         <source>Manage panels</source>
-        <translation type="unfinished"/>
+        <translation>Håndtér paneler</translation>
     </message>
 </context>
 <context>
@@ -17,7 +17,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="17"/>
         <source>To show items on the front of the panel select ON, to hide select OFF</source>
-        <translation type="unfinished"/>
+        <translation>For at vise elementer foran på panelet. vælg ON, for at skjule, vælg OFF</translation>
     </message>
 </context>
 <context>
@@ -26,47 +26,47 @@
         <location filename="../../panellib/Panels/WifiDialog.qml" line="95"/>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="105"/>
         <source>No connection currently</source>
-        <translation type="unfinished"/>
+        <translation>I øjeblikket ingen forbindelse</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="98"/>
         <source>Wired</source>
-        <translation type="unfinished"/>
+        <translation>Trådet</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="103"/>
         <source>Connected to %1</source>
-        <translation type="unfinished"/>
+        <translation>Forbundet til %1</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="108"/>
         <source>Connected by %1</source>
-        <translation type="unfinished"/>
+        <translation>Forbundet af %1</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="144"/>
         <source>Wi-Fi</source>
-        <translation type="unfinished"/>
+        <translation>Wi-Fi</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="197"/>
         <source>Wi-Fi settings</source>
-        <translation type="unfinished"/>
+        <translation>Indstillinger for Wi-Fi</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
         <source>Airplane Mode is ON</source>
-        <translation type="unfinished"/>
+        <translation>Flytilstand er ON</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
         <source>To connect WiFi turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>For at forbinde WiFi skal du slukke Flytilstand</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
         <source>Turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>Sluk Flytilstand</translation>
     </message>
 </context>
 </TS>

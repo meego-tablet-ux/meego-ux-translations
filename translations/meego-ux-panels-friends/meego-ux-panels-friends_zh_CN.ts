@@ -2,12 +2,12 @@
 <context>
     <name>FriendsItem</name>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="201"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="208"/>
         <source>Accept</source>
         <translation>接受</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="211"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="218"/>
         <source>Decline</source>
         <translation>拒绝</translation>
     </message>

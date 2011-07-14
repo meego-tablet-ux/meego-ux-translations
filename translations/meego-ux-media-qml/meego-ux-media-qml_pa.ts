@@ -4,12 +4,12 @@
     <message>
         <location filename="../../Media/MediaGridDocumentDelegate.qml" line="210"/>
         <source>%1 Minute</source>
-        <translation type="unfinished"/>
+        <translation>%1 ਮਿੰਟ</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridDocumentDelegate.qml" line="210"/>
         <source>%1 Minutes</source>
-        <translation type="unfinished"/>
+        <translation>%1 ਮਿੰਟ</translation>
     </message>
 </context>
 <context>
@@ -25,7 +25,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridPhotoAlbumDelegate.qml" line="277"/>
         <source>%n Photo(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n ਫੋਟੋ</numerusform><numerusform>%n ਫੋਟੋ</numerusform></translation>
     </message>
 </context>
 <context>
@@ -46,12 +46,12 @@
     <message>
         <location filename="../../Media/MediaGridView.qml" line="178"/>
         <source>Recently viewed</source>
-        <translation type="unfinished"/>
+        <translation>ਤਾਜ਼ਾ ਵੇਖੇ</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="179"/>
         <source>Newest</source>
-        <translation type="unfinished"/>
+        <translation>ਸਭ ਤੋਂ ਨਵੇਂ</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="180"/>

@@ -94,7 +94,7 @@ IDS_UNDO
 - description: The name of the Save Page As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>Uložit jako</translation>
+        <translation>Uložit jako...</translation>
     </message>
     <message>
         <location filename="id" line="1878020578"/>

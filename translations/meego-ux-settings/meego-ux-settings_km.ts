@@ -9,13 +9,13 @@
     <message>
         <location filename="../../General/BacklightSettings.qml" line="71"/>
         <source>Brightness</source>
-        <translation type="unfinished"/>
+        <translation>ពន្លឺ</translation>
     </message>
     <message>
         <location filename="../../General/BacklightSettings.qml" line="82"/>
         <source>%1%</source>
         <comment>slider value percentage</comment>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -24,13 +24,13 @@
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="68"/>
         <source>Disconnect audio</source>
-        <translation type="unfinished"/>
+        <translation>ផ្ដាច់​អូឌីយ៉ូ</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="72"/>
         <source>Connect audio</source>
-        <translation type="unfinished"/>
+        <translation>ភ្ជាប់​អូឌីយ៉ូ</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="92"/>
@@ -47,12 +47,12 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="128"/>
         <source>Disconnect internet</source>
-        <translation type="unfinished"/>
+        <translation>ផ្ដាច់​អ៊ីនធ័រណិត</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="128"/>
         <source>Connect internet</source>
-        <translation type="unfinished"/>
+        <translation>ភ្ជាប់​អ៊ីនធ័រណិត</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="183"/>
@@ -72,12 +72,12 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="258"/>
         <source>Properties</source>
-        <translation type="unfinished"/>
+        <translation>លក្ខណៈ​សម្បត្តិ</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="263"/>
         <source>Paired: %1</source>
-        <translation type="unfinished"/>
+        <translation>បានភ្ជាប់៖ %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="272"/>
@@ -121,12 +121,12 @@
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="174"/>
         <source>Paired devices</source>
-        <translation type="unfinished"/>
+        <translation>ឧបករណ៍​ដែល​បាន​ភ្ជាប់</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="189"/>
         <source>Add device</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​ឧបករណ៍</translation>
     </message>
 </context>
 <context>
@@ -149,97 +149,97 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="34"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>ព្រម</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="81"/>
         <source>Default search engine</source>
-        <translation type="unfinished"/>
+        <translation>ប្រដាប់​ស្វែង​រក លំនាំ​ដើម</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="120"/>
         <source>Show bookmarks bar</source>
-        <translation type="unfinished"/>
+        <translation>បង្ហាញ​របារ​កត់​ចំណាំ</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="147"/>
         <source>Offer to save passwords</source>
-        <translation type="unfinished"/>
+        <translation>ស្នើ​ឲ្យ​រក្សា​ពាក្យ​សម្ងាត់</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="173"/>
         <source>Allow JavaScript</source>
-        <translation type="unfinished"/>
+        <translation>អនុញ្ញាត JavaScript</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="199"/>
         <source>Allow Images</source>
-        <translation type="unfinished"/>
+        <translation>អនុញ្ញាត រូប​ភាព</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="226"/>
         <source>Allow Cookies</source>
-        <translation type="unfinished"/>
+        <translation>អនុញ្ញា Cookie</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="252"/>
         <source>Block popups</source>
-        <translation type="unfinished"/>
+        <translation>រារាំង​ផ្ទាំង​ផុស​ឡើង</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="278"/>
         <source>Use HTTP proxy</source>
-        <translation type="unfinished"/>
+        <translation>ប្រើ HTTP proxy</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="305"/>
         <source>HTTP Proxy details</source>
-        <translation type="unfinished"/>
+        <translation>ព័ត៌មាន​លម្អិត​អំពី HTTP Proxy</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="368"/>
         <source>Clear Browsing History</source>
-        <translation type="unfinished"/>
+        <translation>សម្អាត​ប្រវត្តិ​នៃ​ការ​រុករក</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="371"/>
         <source>Are you sure about clearing the browsing history?</source>
-        <translation type="unfinished"/>
+        <translation>តើ​អ្នក​ប្រាកដ​ថា​ចង់​សម្អាត​ប្រវត្តិ​នៃ​ការ​រុក​រក មែន​ទេ?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="381"/>
         <source>Clear Download History</source>
-        <translation type="unfinished"/>
+        <translation>សម្អាត​ប្រវត្តិ​នៃ​ការ​ទាញ​យក</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="384"/>
         <source>Are you sure about clearing the download history?</source>
-        <translation type="unfinished"/>
+        <translation>តើ​អ្នក​ប្រាកដ​ថា​ចង់​សម្អាត​ប្រវត្តិ​នៃ​ការ​ទាញ​យក មែន​ទេ?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="394"/>
         <source>Clear Cookies</source>
-        <translation type="unfinished"/>
+        <translation>សម្អាត Cookie</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="397"/>
         <source>Are you sure about clearing your cookies?</source>
-        <translation type="unfinished"/>
+        <translation>តើ​អ្នក​ពិត​ជា​ចង់​សម្អាត Cookie មែន​ទេ?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="407"/>
         <source>Clear Saved Passwords</source>
-        <translation type="unfinished"/>
+        <translation>សម្អាត​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សា​ទុក</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="410"/>
         <source>Are you sure about clearing your saved passwords?</source>
-        <translation type="unfinished"/>
+        <translation>តើ​អ្នក​ពិត​ជា​ចង់​សម្អាត ពាក្យ​សម្ងាត់ ដែល​បាន​រក្សា​ទុក​មែន​ទេ?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="420"/>
         <source>Restore default settings</source>
-        <translation type="unfinished"/>
+        <translation>ស្ដារ​ការ​កំណត់​លំនាំ​ដើម​ឡើង​វិញ</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="423"/>
@@ -353,28 +353,28 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="116"/>
         <source>Network connections</source>
-        <translation type="unfinished"/>
+        <translation>ការ​ត​ភ្ជាប់​បណ្ដាញ</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="217"/>
         <source>Available networks</source>
-        <translation type="unfinished"/>
+        <translation>បណ្ដាញ​ដែល​មាន</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="229"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="243"/>
         <source>Add network</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​បណ្ដាញ</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="269"/>
         <source>Network name:</source>
-        <translation type="unfinished"/>
+        <translation>ឈ្មោះ​បណ្ដាញ:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="277"/>
         <source>Security type:</source>
-        <translation type="unfinished"/>
+        <translation>ប្រភេទ​សុវត្ថិភាព:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="285"/>
@@ -407,12 +407,12 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="31"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>ភាសា</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="42"/>
         <source>Time and date</source>
-        <translation type="unfinished"/>
+        <translation>ម៉ោង និង កាល​រិច្ឆេទ</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="91"/>
@@ -423,7 +423,7 @@
         <location filename="../../General/GeneralSettings.qml" line="103"/>
         <source>%1%</source>
         <comment>%1 is volume level percentage</comment>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="128"/>
@@ -433,7 +433,7 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="152"/>
         <source>Screen saver</source>
-        <translation type="unfinished"/>
+        <translation>ធាតុ​រក្សា​អេក្រង់</translation>
     </message>
 </context>
 <context>
@@ -502,13 +502,13 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Sync/SyncEvoStatic.cpp" line="15"/>
         <source>Contacts</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Contacts&quot; or &quot;Google Contacts&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>ទំនាក់​ទំនង</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoStatic.cpp" line="19"/>
         <source>Calendar</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Calendar&quot; or</extracomment>
-        <translation type="unfinished"/>
+        <translation>ប្រតិទិន</translation>
     </message>
 </context>
 <context>
@@ -529,12 +529,12 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="28"/>
         <source>App Update</source>
-        <translation type="unfinished"/>
+        <translation>អាប់ដេត​កម្មវិធី</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="32"/>
         <source>New IM</source>
-        <translation type="unfinished"/>
+        <translation>IM ថ្មី</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="36"/>
@@ -544,7 +544,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="40"/>
         <source>New Email</source>
-        <translation type="unfinished"/>
+        <translation>អ៊ីមែល​ថ្មី</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="44"/>
@@ -554,7 +554,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
         <source>Download Completed</source>
-        <translation type="unfinished"/>
+        <translation>ទាញ​យក​បាន​រួច​រាល់</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="72"/>
@@ -577,12 +577,12 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="71"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>បន្ទះ</translation>
     </message>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="124"/>
         <source>You can&apos;t turn off this panel</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​មិន​អាច​បិទ​បន្ទះ​នេះ​ទេ</translation>
     </message>
 </context>
 <context>
@@ -634,18 +634,18 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/ScreensaverSettings.qml" line="38"/>
         <source>Screen Saver Enabled</source>
-        <translation type="unfinished"/>
+        <translation>បាន​បើក ធាតុ​រក្សា​អេក្រង់</translation>
     </message>
     <message>
         <location filename="../../General/ScreensaverSettings.qml" line="76"/>
         <source>Screen Saver Timeout</source>
-        <translation type="unfinished"/>
+        <translation>ធាតុ​រក្សា​អេក្រង់ អស់​ពេល</translation>
     </message>
     <message numerus="yes">
         <location filename="../../General/ScreensaverSettings.qml" line="80"/>
         <source>%n Minute(s)</source>
         <comment>time in minutes</comment>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n នាទី</numerusform></translation>
     </message>
 </context>
 <context>
@@ -653,7 +653,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="10"/>
         <source>Set Time Zone</source>
-        <translation type="unfinished"/>
+        <translation>កំណត់​តំបន់​ម៉ោង</translation>
     </message>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="65"/>
@@ -666,14 +666,14 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="100"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>ការ​កំណត់</translation>
     </message>
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="101"/>
         <location filename="../../Settings/SettingsModel.qml" line="102"/>
         <source>Application</source>
         <comment>should actually by 'Applications'</comment>
-        <translation type="unfinished"/>
+        <translation>កម្មវិធី</translation>
     </message>
 </context>
 <context>
@@ -800,7 +800,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="210"/>
         <source>Current time zone is %1</source>
-        <translation type="unfinished"/>
+        <translation>តំបន់​ម៉ោង​បច្ចុប្បន្ន​គឺ %1</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="232"/>
@@ -810,7 +810,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="272"/>
         <source>Manual time zone selection</source>
-        <translation type="unfinished"/>
+        <translation>រើសតំបន់​ម៉ោង​ដោយ​ដៃ</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="286"/>
@@ -903,7 +903,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="271"/>
         <source>Remove connection</source>
-        <translation type="unfinished"/>
+        <translation>ដក​ចេញ​ការ​ត​ភ្ជាប់</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="283"/>
@@ -938,7 +938,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="419"/>
         <source>Security: </source>
-        <translation type="unfinished"/>
+        <translation>សុវត្ថិភាព: </translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="434"/>
@@ -973,7 +973,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="550"/>
         <source>Show password</source>
-        <translation type="unfinished"/>
+        <translation>បង្ហាញ​ពាក្យ​សម្ងាត់</translation>
     </message>
 </context>
 <context>

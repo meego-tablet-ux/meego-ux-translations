@@ -4,7 +4,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="43"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>ਪੈਨਲ</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="46"/>
@@ -56,17 +56,17 @@
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
         <source>Airplane Mode is ON</source>
-        <translation type="unfinished"/>
+        <translation>ਏਅਰਪਲੇਨ ਮੋਡ ਚਾਲੂ ਹੈ</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
         <source>To connect WiFi turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>ਵਾਈਫਾਈ ਨਾਲ ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਏਅਰਪਲੇਨ ਮੋਡ ਬੰਦ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
         <source>Turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>ਏਅਰਪਲੇਨ ਮੋਡ ਬੰਦ ਕਰੋ</translation>
     </message>
 </context>
 </TS>

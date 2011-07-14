@@ -22,46 +22,46 @@
         <extracomment>%1 is &quot;Web&quot; panel title
 ----------
 %1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>ਵੈੱਬ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ਸੈਟਿੰ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ਪੈਨਲ ਸਮੱਗਰੀ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="152"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="205"/>
         <source>Visit a website</source>
-        <translation type="unfinished"/>
+        <translation>ਵੈੱਬ ਸਾਇਟ ਉੱਤੇ ਜਾਓ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>ਅਤੀਤ ਸਾਫ਼ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="146"/>
         <source>The latest websites you visit and your bookmarks will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੇ ਵਲੋਂ ਤਾਜ਼ਾ ਖੋਲ੍ਹੀਆਂ ਸਾਈਟਾਂ ਅਤੇ ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ ਇੱਥੇ ਹੋਣਗੇ।</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="201"/>
         <source>No recently visited websites.</source>
-        <translation type="unfinished"/>
+        <translation>ਕੋਈ ਵੀ ਤਾਜ਼ਾ ਖੋਲ੍ਹੀ ਗਈ ਸਾਇਟ ਨਹੀਂ ਹੈ।</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="219"/>
         <source>You have cleared the Web history</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਸੀਂ ਵੈੱਬ ਅਤੀਤ ਸਾਫ਼ ਕਰ ਚੁੱਕੇ ਹੋ।</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="233"/>

@@ -2,14 +2,14 @@
 <context>
     <name>FriendsItem</name>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="201"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="208"/>
         <source>Accept</source>
         <translation>Aceitar</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/FriendsItem.qml" line="211"/>
+        <location filename="../../panelsrc/friends/FriendsItem.qml" line="218"/>
         <source>Decline</source>
-        <translation>Não aceitar</translation>
+        <translation>Recusar</translation>
     </message>
 </context>
 <context>
@@ -23,39 +23,39 @@
         <extracomment>%1 is &quot;Friends&quot; panel title
 ----------
 %1 is &quot;Friends&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Amigos</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="37"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Friends&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Definições de %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="39"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Friends&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Painel de conteúdos de %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="127"/>
         <source>Emails, instant messages and social network updates will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>As mensagens e redes sociais serão exibidas aqui.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="162"/>
         <source>No recent updates from friends.</source>
-        <translation type="unfinished"/>
+        <translation>Não existem notícias recentes dos amigos.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="172"/>
         <source>You have turned off all your accounts.</source>
-        <translation type="unfinished"/>
+        <translation>Você desativou todas as contas.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="177"/>
         <source>Turn accounts on</source>
-        <translation type="unfinished"/>
+        <translation>Ativar contas</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="229"/>
@@ -73,27 +73,27 @@
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="257"/>
         <source>You have cleared the Friends history</source>
-        <translation type="unfinished"/>
+        <translation>Você apagou o histórico de amigos</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="315"/>
         <source>Set up your email</source>
-        <translation type="unfinished"/>
+        <translation>Configurar correio eletrónico</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="319"/>
         <source>Set up your instant messaging</source>
-        <translation type="unfinished"/>
+        <translation>Configurar mensagens instantêneas</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="323"/>
         <source>Sign in to a social network</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar sessão numa rede social</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="377"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Apagar histórico</translation>
     </message>
     <message>
         <location filename="../../panelsrc/friends/friendspanel.qml" line="440"/>

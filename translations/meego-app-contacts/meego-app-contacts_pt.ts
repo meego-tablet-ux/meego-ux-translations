@@ -19,7 +19,7 @@
     <message>
         <location filename="../../AddressEditWidget.qml" line="25"/>
         <source>Street address</source>
-        <translation>Endereço</translation>
+        <translation>Morada</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="26"/>
@@ -48,7 +48,7 @@
         <location filename="../../ContactCardLandscape.qml" line="85"/>
         <location filename="../../ContactCardLandscape.qml" line="87"/>
         <source>%1 %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -69,7 +69,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favorito</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="73"/>
@@ -102,25 +102,25 @@
         <source>%1 %2</source>
         <comment>LastFirstName</comment>
         <extracomment>%1 is last name, %2 is first name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="111"/>
         <source>%1 %2</source>
         <comment>FirstLastName</comment>
         <extracomment>%1 is first name, %2 is last name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
     <name>ContactsExpandableDetails</name>
     <message>
-        <location filename="../../ContactsExpandableDetails.qml" line="31"/>
+        <location filename="../../ContactsExpandableDetails.qml" line="30"/>
         <source>Add</source>
         <translation>Adicionar</translation>
     </message>
     <message>
-        <location filename="../../ContactsExpandableDetails.qml" line="32"/>
+        <location filename="../../ContactsExpandableDetails.qml" line="31"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../../ContactsSettings.qml" line="16"/>
         <source>Contacts Settings</source>
-        <translation>Definições dos contactos</translation>
+        <translation>Definições dos Contactos</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="17"/>
@@ -141,7 +141,7 @@
         <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Display Order:</source>
         <extracomment>How contacts will be displayed to the user - last first or first last</extracomment>
-        <translation>Ordem de exibição:</translation>
+        <translation>Ordem de Exibição:</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="21"/>
@@ -157,13 +157,13 @@
         <location filename="../../ContactsSettings.qml" line="25"/>
         <source>Display by first name</source>
         <extracomment>Display contacts with the first name first - FirstName LastName</extracomment>
-        <translation>Exibir primeiro nome</translation>
+        <translation>Exibir pelo primeiro nome</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="28"/>
         <source>Display by last name</source>
         <extracomment>Display contacts with the last name first - LastName FirstName</extracomment>
-        <translation>Exibir apelido</translation>
+        <translation>Exibir pelo apelido</translation>
     </message>
 </context>
 <context>
@@ -213,14 +213,14 @@
         <source>Bookmark</source>
         <comment>Noun</comment>
         <extracomment>Denotes whether the web page for this contact is just a bookmark</extracomment>
-        <translation type="unfinished"/>
+        <translation>Marcador</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="43"/>
         <source>Favorite</source>
         <comment>Noun</comment>
         <extracomment>Denotes whether the web page for this contact is a favorite bookmark</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favorito</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="45"/>
@@ -251,18 +251,18 @@
         <location filename="../../DetailViewPortrait.qml" line="52"/>
         <source>Site</source>
         <extracomment>Default website - the user should enter a URL in this field</extracomment>
-        <translation>Página web</translation>
+        <translation>Sítio web</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="54"/>
         <source>Phone numbers</source>
-        <translation>Número(s) de telefone</translation>
+        <translation>Números de telefone</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="57"/>
         <source>Instant messaging</source>
         <extracomment>Instant Messaging Accounts for this contact</extracomment>
-        <translation>Mensagem isntantânea</translation>
+        <translation>Mensagens instantâneas</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="58"/>
@@ -278,7 +278,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="62"/>
         <source>Address</source>
-        <translation>Endereço</translation>
+        <translation>Morada</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="63"/>
@@ -335,7 +335,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favorito</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="79"/>
@@ -423,7 +423,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favorito</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="52"/>
@@ -455,7 +455,7 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="60"/>
         <source>Email</source>
-        <translation>Endereço eletrónico</translation>
+        <translation>Email</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="61"/>
@@ -476,7 +476,7 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="66"/>
         <source>Address</source>
-        <translation>Endereços</translation>
+        <translation>Endereço</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="67"/>
@@ -512,7 +512,7 @@
     <message>
         <location filename="../../EmptyContacts.qml" line="17"/>
         <source>You haven&apos;t added any contacts yet.</source>
-        <translation>Ainda não adicionaou qiaisquer contactos.</translation>
+        <translation>Ainda não adicionou qiaisquer contactos.</translation>
     </message>
     <message>
         <location filename="../../EmptyContacts.qml" line="18"/>
@@ -525,7 +525,7 @@
     <message>
         <location filename="../../GroupedViewLandscape.qml" line="58"/>
         <source>#</source>
-        <translation type="unfinished"/>
+        <translation>#</translation>
     </message>
 </context>
 <context>
@@ -543,7 +543,7 @@
         <location filename="../../ImEditWidget.qml" line="25"/>
         <source>Instant messaging</source>
         <extracomment>Instant Messaging Accounts for this contact</extracomment>
-        <translation>Mensagem instântanea</translation>
+        <translation>Mensagens instântaneas</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="26"/>
@@ -584,7 +584,7 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="35"/>
         <source>Account Type</source>
-        <translation>Tipo de conta</translation>
+        <translation>Tipo de Conta</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="36"/>
@@ -670,7 +670,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favorito</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="51"/>
@@ -695,7 +695,7 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="55"/>
         <source>Email</source>
-        <translation>Endereço eletrónico</translation>
+        <translation>Email</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="56"/>
@@ -728,7 +728,7 @@
     <message>
         <location filename="../../PhoneEditWidget.qml" line="22"/>
         <source>Address</source>
-        <translation>Endereço</translation>
+        <translation>Morada</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="23"/>
@@ -753,7 +753,7 @@
     <message>
         <location filename="../../PhoneEditWidget.qml" line="27"/>
         <source>Phone numbers</source>
-        <translation>Número(s) de telefone</translation>
+        <translation>Números de telefone</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="28"/>
@@ -787,13 +787,13 @@
         <location filename="../../WebPageEditWidget.qml" line="23"/>
         <source>Bookmark</source>
         <comment>Noun</comment>
-        <translation type="unfinished"/>
+        <translation>Marcador</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="24"/>
         <source>Favorite</source>
         <comment>Noun</comment>
-        <translation type="unfinished"/>
+        <translation>Favorito</translation>
     </message>
 </context>
 <context>
@@ -813,7 +813,7 @@
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>All</source>
-        <translation>Todos</translation>
+        <translation>Tudo</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="27"/>
@@ -846,13 +846,13 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favorito</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Não favorito</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -872,13 +872,13 @@
     <message>
         <location filename="../../main.qml" line="44"/>
         <source>Delete</source>
-        <translation>Apagar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="47"/>
         <source>Delete Confirmation</source>
         <extracomment>Confirmation of deletion - ensure the user wants to delete the contact</extracomment>
-        <translation>Confirmação</translation>
+        <translation>Confirmação de Eliminação</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="51"/>

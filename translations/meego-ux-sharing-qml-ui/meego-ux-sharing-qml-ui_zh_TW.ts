@@ -4,12 +4,12 @@
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareButton.qml" line="45"/>
         <source>Share All</source>
-        <translation type="unfinished"/>
+        <translation>分享全部</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareButton.qml" line="45"/>
         <source>Share</source>
-        <translation type="unfinished"/>
+        <translation>分享</translation>
     </message>
 </context>
 <context>
@@ -19,96 +19,96 @@
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="183"/>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="513"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>電子郵件</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="392"/>
         <source>An error occurred when logging in to %1</source>
-        <translation type="unfinished"/>
+        <translation>當登入 %1 時遭遇錯誤</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="400"/>
         <source>Go to settings</source>
-        <translation type="unfinished"/>
+        <translation>前往設定</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="435"/>
         <source>Share by:</source>
-        <translation type="unfinished"/>
+        <translation>分享來自：</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="505"/>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="615"/>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="667"/>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>確定</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="545"/>
         <source>Select service:</source>
-        <translation type="unfinished"/>
+        <translation>選取服務：</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="647"/>
         <source>Network problem</source>
         <extracomment>%1 is service name</extracomment>
-        <translation type="unfinished"/>
+        <translation>網路問題</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="647"/>
         <source>%1 problem</source>
         <extracomment>%1 is service name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 問題</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="654"/>
         <source>An error occurred while sharing: %1</source>
         <extracomment>%1 is the error message from the sharing framework</extracomment>
-        <translation type="unfinished"/>
+        <translation>當分享時遭遇錯誤：%1</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="664"/>
         <source>Sorry, there&apos;s a problem with the network. Please try again when you have an internet connection.</source>
         <extracomment>%1 is the service name.</extracomment>
-        <translation type="unfinished"/>
+        <translation>很抱歉，網路有問題。當您有網際網路連線時請重試。</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="664"/>
         <source>Sorry, there&apos;s a problem with %1 and we need you to log in again</source>
         <extracomment>%1 is the service name.</extracomment>
-        <translation type="unfinished"/>
+        <translation>很抱歉，%1 有問題，您必須再次登入</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="664"/>
         <source>Sorry, there&apos;s a problem with %1 and we can&apos;t upload your file.</source>
         <extracomment>%1 is the service name.</extracomment>
-        <translation type="unfinished"/>
+        <translation>很抱歉，%1 有問題，我們無法上傳您的檔案。</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="695"/>
         <source>Uploading to %1</source>
         <extracomment>%1 is the service name</extracomment>
-        <translation type="unfinished"/>
+        <translation>正在上傳至 %1</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="702"/>
         <source>Upload complete</source>
-        <translation type="unfinished"/>
+        <translation>上傳完成</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="722"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="726"/>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>返回</translation>
     </message>
     <message>
         <location filename="../../meego-ux-sharing-qml-ui/UI/ShareObj.qml" line="726"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>隱藏</translation>
     </message>
 </context>
 </TS>

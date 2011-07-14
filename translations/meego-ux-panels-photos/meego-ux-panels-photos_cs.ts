@@ -22,40 +22,40 @@
         <extracomment>%1 is &quot;Photos&quot; panel title
 ----------
 %1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Fotografie</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="92"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Nastavení %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="94"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Obsah panelu %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="129"/>
         <source>View some photos</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit nějaké fotografie</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Smazat historii</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="123"/>
         <source>The latest photos you view and your photo albums will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Poslední fotografie, které jste si prohlížel, a vaše alba s fotografiemi se objeví zde.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="166"/>
         <source>You have cleared the Photos history</source>
-        <translation type="unfinished"/>
+        <translation>Smazal jste historii fotografií</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
@@ -87,18 +87,18 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="241"/>
         <source>You have no photo albums</source>
-        <translation type="unfinished"/>
+        <translation>Nemáte žádná alba fotografií</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="246"/>
         <source>Create an album</source>
-        <translation type="unfinished"/>
+        <translation>Vytvořit album</translation>
     </message>
     <message numerus="yes">
         <location filename="../../panelsrc/photos/photospanel.qml" line="275"/>
         <source>%n photo(s)</source>
         <comment>albumphotocount</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Jedna fotografie</numerusform><numerusform>%n fotografie</numerusform><numerusform>%n fotografie</numerusform></translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="285"/>

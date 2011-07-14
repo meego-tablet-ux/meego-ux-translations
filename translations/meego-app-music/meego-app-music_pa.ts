@@ -12,42 +12,42 @@
         <translation>ਅਣਜਾਣ ਐਲਬਮ</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="54"/>
-        <source>Playlist name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../MusicListView.qml" line="56"/>
-        <source>Artist name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../MusicListView.qml" line="58"/>
-        <source>Album name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../MusicListView.qml" line="59"/>
-        <source>Track name</source>
-        <translation type="unfinished"/>
+        <source>Playlist name</source>
+        <translation>ਪਲੇਅਲਿਸਟ ਨਾਂ</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="74"/>
+        <location filename="../../MusicListView.qml" line="61"/>
+        <source>Artist name</source>
+        <translation>ਕਲਾਕਾਰ ਨਾਂ</translation>
+    </message>
+    <message>
+        <location filename="../../MusicListView.qml" line="63"/>
+        <source>Album name</source>
+        <translation>ਐਲਬਮ ਨਾਂ</translation>
+    </message>
+    <message>
+        <location filename="../../MusicListView.qml" line="64"/>
+        <source>Track name</source>
+        <translation>ਟਰੈਕ ਨਾਂ</translation>
+    </message>
+    <message>
+        <location filename="../../MusicListView.qml" line="79"/>
         <source>Time</source>
         <translation>ਸਮਾਂ</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="88"/>
+        <location filename="../../MusicListView.qml" line="93"/>
         <source>Album</source>
         <translation>ਐਲਬਮ</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="102"/>
+        <location filename="../../MusicListView.qml" line="107"/>
         <source>Artist</source>
         <translation>ਕਲਾਕਾਰ</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="115"/>
+        <location filename="../../MusicListView.qml" line="120"/>
         <source>Number of tracks</source>
         <translation>ਟਰੈਕਾਂ ਦੀ ਗਿਣਤੀ</translation>
     </message>
@@ -55,19 +55,19 @@
 <context>
     <name>MusicToolBar</name>
     <message>
-        <location filename="../../MusicToolBar.qml" line="54"/>
+        <location filename="../../MusicToolBar.qml" line="56"/>
         <source>Now playing: </source>
         <translation>ਹੁਣ ਚੱਲ ਰਿਹਾ ਹੈ:</translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1, %2</source>
         <translation>%1, %2</translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1</source>
-        <translation type="unfinished"/>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -75,7 +75,7 @@
     <message>
         <location filename="../../main.qml" line="20"/>
         <source>Play queue</source>
-        <translation type="unfinished"/>
+        <translation>ਪਲੇਅ ਕਤਾਰ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="21"/>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>All tracks</source>
-        <translation type="unfinished"/>
+        <translation>ਸਭ ਟਰੈਕ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -130,14 +130,14 @@
     <message>
         <location filename="../../main.qml" line="37"/>
         <source>Open album</source>
-        <translation type="unfinished"/>
+        <translation>ਐਲਬਮ ਖੋਲ੍ਹੋ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
         <location filename="../../main.qml" line="101"/>
         <source>Favorite</source>
         <comment>Verb</comment>
-        <translation type="unfinished"/>
+        <translation>ਪਸੰਦ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -190,7 +190,7 @@
     <message>
         <location filename="../../main.qml" line="52"/>
         <source>Remove from queue</source>
-        <translation type="unfinished"/>
+        <translation>ਕਤਾਰ ਵਿੱਚੋਂ ਹਟਾਓ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="53"/>
@@ -210,7 +210,7 @@
     <message>
         <location filename="../../main.qml" line="56"/>
         <source>Clear playlist</source>
-        <translation type="unfinished"/>
+        <translation>ਪਲੇਅਲਿਸਟ ਸਾਫ਼ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="58"/>
@@ -230,7 +230,7 @@
     <message>
         <location filename="../../main.qml" line="62"/>
         <source>By date</source>
-        <translation type="unfinished"/>
+        <translation>ਮਿਤੀ ਨਾਲ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="64"/>
@@ -255,12 +255,12 @@
     <message>
         <location filename="../../main.qml" line="70"/>
         <source>Select multiple songs</source>
-        <translation type="unfinished"/>
+        <translation>ਕਈ ਗਾਣੇ ਚੁਣੋ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>You have no music on this tablet</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਟੇਬਲੇਟ ਉੱਤੇ ਕੋਈ ਸੰਗੀਤ ਨਹੀਂ ਹੈ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="73"/>
@@ -270,18 +270,18 @@
     <message>
         <location filename="../../main.qml" line="74"/>
         <source>Your play queue is empty</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੀ ਪਲੇਅ ਕਤਾਰ ਖਾਲੀ ਹੈ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="75"/>
         <location filename="../../main.qml" line="80"/>
         <source>Add music to the play queue</source>
-        <translation type="unfinished"/>
+        <translation>ਪਲੇਅ ਕਤਾਰ ਵਿੱਚ ਸੰਗੀਤ ਜੋੜੋ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="76"/>
         <source>What&apos;s the play queue?</source>
-        <translation type="unfinished"/>
+        <translation>ਪਲੇਅ ਕਤਾਰ ਕੀ ਹੈ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="77"/>
@@ -291,7 +291,7 @@
     <message>
         <location filename="../../main.qml" line="78"/>
         <source>How do I queue music?</source>
-        <translation type="unfinished"/>
+        <translation>ਮੈਂ ਸੰਗੀਤ ਨੂੰ ਕਤਾਰਬੱਧ ਕਿਵੇਂ ਕਰਾਂ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="80"/>
@@ -301,7 +301,7 @@
     <message>
         <location filename="../../main.qml" line="81"/>
         <source>How do I get music?</source>
-        <translation type="unfinished"/>
+        <translation>ਮੈਂ ਸੰਗੀਤ ਕਿਵੇਂ ਪ੍ਰਾਪਤ ਕਰਾਂ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="82"/>
@@ -311,32 +311,32 @@
     <message>
         <location filename="../../main.qml" line="83"/>
         <source>Add tracks</source>
-        <translation type="unfinished"/>
+        <translation>ਟਰੈਕ ਸ਼ਾਮਲ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="84"/>
         <source>Add playlists</source>
-        <translation type="unfinished"/>
+        <translation>ਪਲੇਅਲਿਸਟ ਸ਼ਾਮਲ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="85"/>
         <source>Add albums</source>
-        <translation type="unfinished"/>
+        <translation>ਐਲਬਮ ਸ਼ਾਮਲ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="86"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਪਲੇਅਲਿਸਟ ਨਹੀਂ ਹੈ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="87"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>ਪਲੇਅਲਿਸਟ ਬਣਾਓ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="88"/>
         <source>What&apos;s a playlist?</source>
-        <translation type="unfinished"/>
+        <translation>ਪਲੇਅਲਿਸਟ ਕੀ ਹੈ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="89"/>
@@ -346,7 +346,7 @@
     <message>
         <location filename="../../main.qml" line="90"/>
         <source>How do I add music to a playlist?</source>
-        <translation type="unfinished"/>
+        <translation>ਮੈਂ ਪਲੇਅਲਿਸਟ ਵਿੱਚ ਸੰਗੀਤ ਕਿਵੇਂ ਜੋੜਾਂ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="92"/>
@@ -356,27 +356,27 @@
     <message>
         <location filename="../../main.qml" line="95"/>
         <source>You don&apos;t have any favorite music tracks</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੇ ਕੋਈ ਕੋਈ ਵੀ ਪਸੰਦੀਦਾ ਟਰੈਕ ਨਹੀਂ ਹੈ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="96"/>
         <source>View all music tracks</source>
-        <translation type="unfinished"/>
+        <translation>ਸਭ ਸੰਗੀਤ ਟਰੈਕ ਵੇਖਾਓ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="97"/>
         <source>What are favorites?</source>
-        <translation type="unfinished"/>
+        <translation>ਪਸੰਦ ਕੀ ਹੈ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="98"/>
         <source>The place to keep the music tracks you like most.</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੇ ਵਲੋਂ ਸਭ ਤੋਂ ਪਸੰਦੀਦਾ ਟਰੈਕ ਨੂੰ ਰੱਖਣ ਦੀ ਥਾਂ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="99"/>
         <source>How do I create favorites?</source>
-        <translation type="unfinished"/>
+        <translation>ਮੈਂ ਪਸੰਦੀਦਾ ਕਿਵੇਂ ਬਣਾਵਾਂ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="101"/>
@@ -384,41 +384,41 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="695"/>
+        <location filename="../../main.qml" line="722"/>
         <source>Artist name</source>
         <translation>ਕਲਾਕਾਰ ਨਾਂ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="703"/>
+        <location filename="../../main.qml" line="730"/>
         <source>Track name</source>
         <translation>ਟਰੈਕ ਨਾਂ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="717"/>
+        <location filename="../../main.qml" line="744"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>ਜੇ ਤੁਸੀਂ ਇਹ ਹਟਾਇਆ ਤਾਂ ਇਸ ਨੂੰ ਤੁਹਾਡੇ ਜੰਤਰ ਤੋਂ ਹਟਾਇਆ ਜਾਵੇਗਾ</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="731"/>
+        <location filename="../../main.qml" line="758"/>
         <source>Permanently delete these %n song(s)?</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>ਕੀ ਇਹ %n ਗੀਤ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਹਟਾਉਣਾ ਹੈ?</numerusform><numerusform>ਕੀ ਇਹ %n ਗੀਤ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਹਟਾਉਣੇ ਹਨ?</numerusform></translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="744"/>
+        <location filename="../../main.qml" line="771"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>ਜੇ ਤੁਸੀਂ ਇਹ ਹਟਾਏ ਤਾਂ ਇਹ ਤੁਹਾਡੇ ਜੰਤਰ ਤੋਂ ਹਟਾਏ ਜਾਣਗੇ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="791"/>
-        <location filename="../../main.qml" line="834"/>
+        <location filename="../../main.qml" line="818"/>
+        <location filename="../../main.qml" line="861"/>
         <source>Invalid characters: %1</source>
-        <translation type="unfinished"/>
+        <translation>ਗਲਤ ਅੱਖਰ: %1</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="1989"/>
-        <location filename="../../main.qml" line="2312"/>
+        <location filename="../../main.qml" line="2035"/>
+        <location filename="../../main.qml" line="2361"/>
         <source>%n song(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n ਗੀਤ</numerusform><numerusform>%n ਗੀਤ</numerusform></translation>
     </message>
 </context>
 </TS>

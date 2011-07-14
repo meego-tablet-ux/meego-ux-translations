@@ -11,7 +11,7 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="57"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="309"/>
         <source>Coming up in play queue</source>
-        <translation type="unfinished"/>
+        <translation>Arive al cawêye a djouwer</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="58"/>
@@ -28,35 +28,35 @@
         <extracomment>%1 is &quot;Music&quot; panel title
 ----------
 %1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Muzike</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="100"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Tchuzes di %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="102"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Çou k&apos; i gn a e scriftôr del %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="170"/>
         <source>Play some music</source>
-        <translation type="unfinished"/>
+        <translation>Djouwer del muzike</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Disfacer l&apos; istwere</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="164"/>
         <source>The latest music you play and your playlists will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Les dierinnès muzikes ki vs avoz djouwé eyet vos djivêyes a djouwer aparexhront cial.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="213"/>
@@ -100,22 +100,22 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="362"/>
         <source>Your play queue is empty</source>
-        <translation type="unfinished"/>
+        <translation>Vosse cawêye a djouwer est vude</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="380"/>
         <source>Add music to the play queue</source>
-        <translation type="unfinished"/>
+        <translation>Radjouter del muzike al cawêye a djouwer</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="446"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>Vos n&apos; avoz pont d&apos; djivêye a djouwer</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="451"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>Ahiver ene djivêye a djouwer</translation>
     </message>
 </context>
 </TS>

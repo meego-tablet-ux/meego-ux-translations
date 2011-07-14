@@ -10,46 +10,46 @@
         <extracomment>%1 is &quot;Video&quot; panel title
 ----------
 %1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Videu</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="66"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 axustes</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="68"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 conteníu panel</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="71"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="102"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="140"/>
         <source>Watch a video</source>
-        <translation type="unfinished"/>
+        <translation>Ver un videu</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="71"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Llimpiar historial</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="96"/>
         <source>The latest videos you watch will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Equí van apacecer los caberos vídeos que visti.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="135"/>
         <source>No recently watched videos.</source>
-        <translation type="unfinished"/>
+        <translation>Nun hai vídeos vistos de recién.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="156"/>
         <source>You have cleared the Video history</source>
-        <translation type="unfinished"/>
+        <translation>Llimpiesti&apos;l to historial de vídeos.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="169"/>

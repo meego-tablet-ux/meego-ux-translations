@@ -9,7 +9,7 @@
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="171"/>
         <source>Add a new album</source>
-        <translation>新增相簿</translation>
+        <translation>加入新相簿</translation>
     </message>
     <message>
         <location filename="../../qml/CollectionsPicker.qml" line="193"/>
@@ -401,12 +401,12 @@
     <message>
         <location filename="../../qml/vimeo_video_multi.qml" line="20"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>影片名稱</translation>
     </message>
     <message>
         <location filename="../../qml/vimeo_video_multi.qml" line="23"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>影片描述</translation>
     </message>
 </context>
 <context>
@@ -414,12 +414,12 @@
     <message>
         <location filename="../../qml/vimeo_video_single.qml" line="20"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>影片名稱</translation>
     </message>
     <message>
         <location filename="../../qml/vimeo_video_single.qml" line="23"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>影片描述</translation>
     </message>
 </context>
 <context>

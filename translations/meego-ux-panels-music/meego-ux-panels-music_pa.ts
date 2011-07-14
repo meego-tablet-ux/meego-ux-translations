@@ -11,7 +11,7 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="57"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="309"/>
         <source>Coming up in play queue</source>
-        <translation type="unfinished"/>
+        <translation>ਚਲਾਉਣ ਕਤਾਰ ਵਿੱਚ ਆ ਰਹੇ ਹਨ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="58"/>
@@ -28,35 +28,35 @@
         <extracomment>%1 is &quot;Music&quot; panel title
 ----------
 %1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>ਸੰਗੀਤ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="100"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ਸੈਟਿੰਗ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="102"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ਪੈਨਲ ਸਮੱਗਰੀ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="170"/>
         <source>Play some music</source>
-        <translation type="unfinished"/>
+        <translation>ਕੁਝ ਸੰਗੀਤ ਚਲਾਓ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>ਅਤੀਤ ਸਾਫ਼ ਕਰੋ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="164"/>
         <source>The latest music you play and your playlists will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੇ ਵਲੋਂ ਤਾਜ਼ਾ ਚਲਾਇਆ ਸੰਗੀਤ ਅਤੇ ਤੁਹਾਡੀਆਂ ਪਲੇਅਲਿਸਟ ਇੱਥੇ ਵੇਖਾਈ ਦੇਣਗੀਆਂ।</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="213"/>
@@ -100,22 +100,22 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="362"/>
         <source>Your play queue is empty</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੀ ਚਲਾਉਣ ਕਤਾਰ ਖਾਲੀ ਹੈ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="380"/>
         <source>Add music to the play queue</source>
-        <translation type="unfinished"/>
+        <translation>ਸੰਗੀਤ ਨੂੰ ਆਪਣੀ ਚਲਾਉਣ ਕਤਾਰ ਵਿੱਚ ਜੋੜੋ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="446"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਪਲੇਅਲਿਸਟ ਨਹੀਂ ਹੈ</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="451"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>ਪਲੇਅਲਿਸਟ ਬਣਾਓ</translation>
     </message>
 </context>
 </TS>

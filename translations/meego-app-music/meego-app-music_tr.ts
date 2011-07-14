@@ -12,42 +12,42 @@
         <translation>bilinmeyen albüm</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="54"/>
+        <location filename="../../MusicListView.qml" line="59"/>
         <source>Playlist name</source>
         <translation>Parça listesi adı</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="56"/>
+        <location filename="../../MusicListView.qml" line="61"/>
         <source>Artist name</source>
         <translation>Sanatçı adı</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="58"/>
+        <location filename="../../MusicListView.qml" line="63"/>
         <source>Album name</source>
         <translation>Albüm adı</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="59"/>
+        <location filename="../../MusicListView.qml" line="64"/>
         <source>Track name</source>
         <translation>Parça adı</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="74"/>
+        <location filename="../../MusicListView.qml" line="79"/>
         <source>Time</source>
         <translation>Süre</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="88"/>
+        <location filename="../../MusicListView.qml" line="93"/>
         <source>Album</source>
         <translation>Albüm</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="102"/>
+        <location filename="../../MusicListView.qml" line="107"/>
         <source>Artist</source>
         <translation>Sanatçı</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="115"/>
+        <location filename="../../MusicListView.qml" line="120"/>
         <source>Number of tracks</source>
         <translation>Parça sayısı</translation>
     </message>
@@ -55,19 +55,19 @@
 <context>
     <name>MusicToolBar</name>
     <message>
-        <location filename="../../MusicToolBar.qml" line="54"/>
+        <location filename="../../MusicToolBar.qml" line="56"/>
         <source>Now playing: </source>
         <translation>Şimdi yürütülüyor:</translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1, %2</source>
         <translation>%1, %2</translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1</source>
-        <translation type="unfinished"/>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -137,7 +137,7 @@
         <location filename="../../main.qml" line="101"/>
         <source>Favorite</source>
         <comment>Verb</comment>
-        <translation type="unfinished"/>
+        <translation>Favori</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -260,165 +260,169 @@
     <message>
         <location filename="../../main.qml" line="72"/>
         <source>You have no music on this tablet</source>
-        <translation type="unfinished"/>
+        <translation>Tabletinizde müzik yok</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="73"/>
         <source>Download or copy your music onto the tablet. Connect the tablet to your computer with a USB cable, via WiFi or bluetooth.</source>
-        <translation type="unfinished"/>
+        <translation>Müziğinizi tablet üzerine indirin veya kopyalayın.Tableti bilgisayarınıza </translation>
     </message>
     <message>
         <location filename="../../main.qml" line="74"/>
         <source>Your play queue is empty</source>
-        <translation type="unfinished"/>
+        <translation>Oynatma sıranız boş</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="75"/>
         <location filename="../../main.qml" line="80"/>
         <source>Add music to the play queue</source>
-        <translation type="unfinished"/>
+        <translation>Oynatma sırasına müzik ekle</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="76"/>
         <source>What&apos;s the play queue?</source>
-        <translation type="unfinished"/>
+        <translation>Oynatma sırası nedir ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="77"/>
         <source>A place to queue up the music you want to hear. You can queue albums, playlists or individual tracks. </source>
-        <translation type="unfinished"/>
+        <translation>Sıraya dinlemek istediğiniz müzik bir yer. Bu sıra albüm,çalma listeliri veya tek tek parçaları olabilir.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="78"/>
         <source>How do I queue music?</source>
-        <translation type="unfinished"/>
+        <translation>Nasıl müzik sıralarım ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="80"/>
         <source>To queue music, tap the &apos;%1&apos; button. You can also tap and hold a song, album or playlist, then select &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Müzik sırası, &apos;%1&apos; butonuna dokunun. Ayrıca bir şarkı,albüm veya çalma listesi dokunabilir ve basılı tutabilirsiniz, sonra seçin &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="81"/>
         <source>How do I get music?</source>
-        <translation type="unfinished"/>
+        <translation>Nasıl müzik satın alırım ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="82"/>
         <source>Download or copy your music onto the tablet. Connect the tablet to your computer with a USB cable, via Wi-Fi or bluetooth.</source>
-        <translation type="unfinished"/>
+        <translation>Tablet üzerine müzik indirin veya kopyalayın.Tabletinizi bilgisayarınıza bir USB kablo ile birlikte,Wi-Fi üzerinden veya bluetooth üzerinden bağlayın.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="83"/>
         <source>Add tracks</source>
-        <translation type="unfinished"/>
+        <translation>Parça ekle</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="84"/>
         <source>Add playlists</source>
-        <translation type="unfinished"/>
+        <translation>Çalma listesi ekle</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="85"/>
         <source>Add albums</source>
-        <translation type="unfinished"/>
+        <translation>Albüm ekle</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="86"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>Çalma listeniz yok</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="87"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>Çalma listesi oluştur</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="88"/>
         <source>What&apos;s a playlist?</source>
-        <translation type="unfinished"/>
+        <translation>Çalma listesi nedir?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="89"/>
         <source>A compilation of music created by you. Create playlists to suit your mood, your activities and to share with friends.</source>
-        <translation type="unfinished"/>
+        <translation>Sizin tarafınızdan oluşturulan müziğin bir derlemesidir.Tarzınıza uygun ,aktiviteleriniz ve arkadaşlarınız ile paylaşmak için çalma listeleri oluşturun.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="90"/>
         <source>How do I add music to a playlist?</source>
-        <translation type="unfinished"/>
+        <translation>Çalma listesine nasıl müzik eklerim ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="92"/>
         <source>To add music to a playlist, tap and hold the track you want to add. Then select &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Çalma listenize müzik eklemek için, eklemek istediğiniz parçaya dokunun ve basılı tutun. Sonra seçin &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="95"/>
         <source>You don&apos;t have any favorite music tracks</source>
-        <translation type="unfinished"/>
+        <translation>Hiç favori müzik parçalarınız yok</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="96"/>
         <source>View all music tracks</source>
-        <translation type="unfinished"/>
+        <translation>Bütün müzik parçalarını görüntüle</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="97"/>
         <source>What are favorites?</source>
-        <translation type="unfinished"/>
+        <translation>Favorileriniz nelerdir ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="98"/>
         <source>The place to keep the music tracks you like most.</source>
-        <translation type="unfinished"/>
+        <translation>En çok sevdiğiniz müzik parçalarını tutmak için yer.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="99"/>
         <source>How do I create favorites?</source>
-        <translation type="unfinished"/>
+        <translation>Favoriler nasıl oluştururum ?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="101"/>
         <source>To add music to your favorites, tap and hold a music track you love. Then select &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Favori müziğinizi eklemek için , sevdiğiniz müzik parçasına dokunun ve basılı tutun. Sonra seçin &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="695"/>
+        <location filename="../../main.qml" line="722"/>
         <source>Artist name</source>
         <translation>Sanatçı adı</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="703"/>
+        <location filename="../../main.qml" line="730"/>
         <source>Track name</source>
         <translation>Parça adı</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="717"/>
+        <location filename="../../main.qml" line="744"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>Bunu silerseniz, cihazınızdan silinecektir</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="731"/>
+        <location filename="../../main.qml" line="758"/>
         <source>Permanently delete these %n song(s)?</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>Kalıcı olarak  bu %n şarkı (lar) silinsin mi?
+
+</numerusform></translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="744"/>
+        <location filename="../../main.qml" line="771"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>Bunları silerseniz, cihazınızdan da kaldırılacaktır</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="791"/>
-        <location filename="../../main.qml" line="834"/>
+        <location filename="../../main.qml" line="818"/>
+        <location filename="../../main.qml" line="861"/>
         <source>Invalid characters: %1</source>
         <translation>Geçersiz karakterler: %1</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="1989"/>
-        <location filename="../../main.qml" line="2312"/>
+        <location filename="../../main.qml" line="2035"/>
+        <location filename="../../main.qml" line="2361"/>
         <source>%n song(s)</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n şarkı (lar)
+
+%n şarkı (lar)</numerusform></translation>
     </message>
 </context>
 </TS>

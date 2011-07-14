@@ -12,42 +12,42 @@
         <translation>មិនស្គាល់អាល់​បុម</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="54"/>
+        <location filename="../../MusicListView.qml" line="59"/>
         <source>Playlist name</source>
         <translation>ឈ្មោះ​បញ្ជី​ចម្រៀង</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="56"/>
+        <location filename="../../MusicListView.qml" line="61"/>
         <source>Artist name</source>
         <translation>ឈ្មោះ​សិល្បករ</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="58"/>
+        <location filename="../../MusicListView.qml" line="63"/>
         <source>Album name</source>
         <translation>ឈ្មោះ​អាល់​បុម</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="59"/>
+        <location filename="../../MusicListView.qml" line="64"/>
         <source>Track name</source>
         <translation>ឈ្មោះ​បទ</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="74"/>
+        <location filename="../../MusicListView.qml" line="79"/>
         <source>Time</source>
         <translation>រយៈ​ពេល</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="88"/>
+        <location filename="../../MusicListView.qml" line="93"/>
         <source>Album</source>
         <translation>អាល់បុម</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="102"/>
+        <location filename="../../MusicListView.qml" line="107"/>
         <source>Artist</source>
         <translation>សិល្បករ</translation>
     </message>
     <message>
-        <location filename="../../MusicListView.qml" line="115"/>
+        <location filename="../../MusicListView.qml" line="120"/>
         <source>Number of tracks</source>
         <translation>លេខ​ចម្រៀង</translation>
     </message>
@@ -55,19 +55,19 @@
 <context>
     <name>MusicToolBar</name>
     <message>
-        <location filename="../../MusicToolBar.qml" line="54"/>
+        <location filename="../../MusicToolBar.qml" line="56"/>
         <source>Now playing: </source>
         <translation>កំពុងលេង: </translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1, %2</source>
         <translation>%1, %2</translation>
     </message>
     <message>
-        <location filename="../../MusicToolBar.qml" line="63"/>
+        <location filename="../../MusicToolBar.qml" line="65"/>
         <source>%1</source>
-        <translation type="unfinished"/>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -137,7 +137,7 @@
         <location filename="../../main.qml" line="101"/>
         <source>Favorite</source>
         <comment>Verb</comment>
-        <translation type="unfinished"/>
+        <translation>ដែល​ពេញ​ចិត្ត</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -316,27 +316,27 @@
     <message>
         <location filename="../../main.qml" line="84"/>
         <source>Add playlists</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​បញ្ជី​ចម្រៀង</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="85"/>
         <source>Add albums</source>
-        <translation type="unfinished"/>
+        <translation>បន្ថែម​អាល់បុម</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="86"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>អ្នក​មិន​បញ្ជី​មិន​ចម្រៀង​ទេ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="87"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>បង្កើត​បញ្ជី​ចម្រៀង</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="88"/>
         <source>What&apos;s a playlist?</source>
-        <translation type="unfinished"/>
+        <translation>តើ​អ្វី​ទៅ​គឺ​ជា បញ្ជី​ចម្រៀង?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="89"/>
@@ -346,7 +346,7 @@
     <message>
         <location filename="../../main.qml" line="90"/>
         <source>How do I add music to a playlist?</source>
-        <translation type="unfinished"/>
+        <translation>តើ​ខ្ញុំ​អាច​បន្ថែម​បញ្ជី​ចម្រៀង​បាន​ដូច​ម្ដេច?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="92"/>
@@ -361,7 +361,7 @@
     <message>
         <location filename="../../main.qml" line="96"/>
         <source>View all music tracks</source>
-        <translation type="unfinished"/>
+        <translation>មើល​គ្រប់​បទ​ចម្រៀង</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="97"/>
@@ -384,39 +384,39 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../main.qml" line="695"/>
+        <location filename="../../main.qml" line="722"/>
         <source>Artist name</source>
         <translation>ឈ្មោះសិល្បករ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="703"/>
+        <location filename="../../main.qml" line="730"/>
         <source>Track name</source>
         <translation>ឈ្មោះ​បទ​ចម្រៀង</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="717"/>
+        <location filename="../../main.qml" line="744"/>
         <source>If you delete this, it will be removed from your device</source>
         <translation>ប្រសិនបើលុបចោល វាមិននៅក្នុងឧបករណ៍របស់លោកអ្នកទៀតទេ</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="731"/>
+        <location filename="../../main.qml" line="758"/>
         <source>Permanently delete these %n song(s)?</source>
         <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="744"/>
+        <location filename="../../main.qml" line="771"/>
         <source>If you delete these, they will be removed from your device</source>
         <translation>ប្រសិនបើលុបចោល វាមិននៅក្នុងឧបករណ៍របស់លោកអ្នកទៀតទេ</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="791"/>
-        <location filename="../../main.qml" line="834"/>
+        <location filename="../../main.qml" line="818"/>
+        <location filename="../../main.qml" line="861"/>
         <source>Invalid characters: %1</source>
         <translation>តួ​អក្សរ​មិន​ត្រឹម​ត្រូវ: %1</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="1989"/>
-        <location filename="../../main.qml" line="2312"/>
+        <location filename="../../main.qml" line="2035"/>
+        <location filename="../../main.qml" line="2361"/>
         <source>%n song(s)</source>
         <translation type="unfinished"><numerusform></numerusform></translation>
     </message>

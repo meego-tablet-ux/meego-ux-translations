@@ -80,9 +80,9 @@
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="214"/>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="227"/>
         <source>May</source>
-        <translation>مايو</translation>
+        <comment>Short</comment>
+        <translation>قد</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="215"/>
@@ -138,6 +138,12 @@
         <location filename="../../src/components/datetime/DatePicker.qml" line="226"/>
         <source>April</source>
         <translation>ابريل</translation>
+    </message>
+    <message>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="227"/>
+        <source>May</source>
+        <comment>Full</comment>
+        <translation>قد</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="228"/>
@@ -234,7 +240,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="34"/>
         <source>%n min(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n (دقيقة) مضت</numerusform><numerusform>%n (دقيقة) مضت</numerusform><numerusform>%n (دقيقتان) مضت</numerusform><numerusform>%n (دقائق) مضت</numerusform><numerusform>%n (دقائق) مضت</numerusform><numerusform>%n (دقيقة) مضت</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="37"/>
@@ -258,7 +264,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="46"/>
         <source>%n hour(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n (ساعة) مضت</numerusform><numerusform>%n (ساعة) مضت</numerusform><numerusform>%n (ساعتان) مضت</numerusform><numerusform>%n (ساعة) مضت</numerusform><numerusform>%n (ساعات) مضت</numerusform><numerusform>%n (ساعة) مضت</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="51"/>
@@ -293,7 +299,7 @@
     <message numerus="yes">
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="71"/>
         <source>%n week(s) ago</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n (اسبوع) مضى</numerusform><numerusform>%n (اسبوع) مضى</numerusform><numerusform>%n (اسبوعين) مضت</numerusform><numerusform>%n (أسابيع) مضت</numerusform><numerusform>%n (أسابيع) مضت</numerusform><numerusform>%n (أسابيع) مضت</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="74"/>
@@ -311,7 +317,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="84"/>
         <source>%n month(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n (شهر) مضى</numerusform><numerusform>%n (شهر) مضى</numerusform><numerusform>%n (شهرين) مضت</numerusform><numerusform>%n (أشهر) مضت</numerusform><numerusform>%n (أشهر) مضت</numerusform><numerusform>%n (أشهر) مضت</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="87"/>
@@ -323,7 +329,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="91"/>
         <source>%n year(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n (سنه) مضت</numerusform><numerusform>%n (سنه) مضت</numerusform><numerusform>%n (سنتان) مضت</numerusform><numerusform>%n (سنين) مضت</numerusform><numerusform>%n (سنين) مضت</numerusform><numerusform>%n (سنين) مضت</numerusform></translation>
     </message>
 </context>
 <context>
@@ -372,17 +378,17 @@
         <translation>اختر ألبوم</translation>
     </message>
     <message>
-        <location filename="../../src/components/media/MusicPicker.qml" line="362"/>
+        <location filename="../../src/components/media/MusicPicker.qml" line="360"/>
         <source>Back</source>
         <translation>رجوع</translation>
     </message>
     <message>
-        <location filename="../../src/components/media/MusicPicker.qml" line="382"/>
+        <location filename="../../src/components/media/MusicPicker.qml" line="380"/>
         <source>OK</source>
         <translation>موافق</translation>
     </message>
     <message>
-        <location filename="../../src/components/media/MusicPicker.qml" line="400"/>
+        <location filename="../../src/components/media/MusicPicker.qml" line="398"/>
         <source>Cancel</source>
         <translation>إلغاء</translation>
     </message>
@@ -422,16 +428,19 @@
         <translation>الألبوم غير معروف</translation>
     </message>
     <message>
-        <location filename="../../src/components/common/ScrollableMusicList.qml" line="188"/>
+        <location filename="../../src/components/common/ScrollableMusicList.qml" line="189"/>
         <source>%1:%2</source>
+        <comment>MinsSecs</comment>
         <translation>%1:%2</translation>
     </message>
 </context>
 <context>
     <name>StatusBar</name>
     <message>
-        <location filename="../../src/components/indicators/StatusBar.qml" line="178"/>
+        <location filename="../../src/components/indicators/StatusBar.qml" line="179"/>
         <source>%1: %2</source>
+        <comment>SummaryBody</comment>
+        <extracomment>%1 is notification summary, %2 is notification body</extracomment>
         <translation>%1: %2</translation>
     </message>
 </context>
@@ -482,7 +491,7 @@
 <context>
     <name>Window</name>
     <message>
-        <location filename="../../src/components/common/Window.qml" line="327"/>
+        <location filename="../../src/components/common/Window.qml" line="334"/>
         <source>left-to-right</source>
         <extracomment>page switch direction. Don't translate to other languages, instead change the string to &quot;right-to-left&quot; for languages where right to left reading directions are desired</extracomment>
         <translation>من اليسار إلى اليمين</translation>

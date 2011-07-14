@@ -10,46 +10,46 @@
         <extracomment>%1 is &quot;Video&quot; panel title
 ----------
 %1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="66"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ayarlar</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="68"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 panel içeriği</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="71"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="102"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="140"/>
         <source>Watch a video</source>
-        <translation type="unfinished"/>
+        <translation>Video izle</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="71"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Geçmişi temizle</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="96"/>
         <source>The latest videos you watch will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>İzlediğiniz son videolar burada görüntülenecek.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="135"/>
         <source>No recently watched videos.</source>
-        <translation type="unfinished"/>
+        <translation>Son zamanlarda izlenmiş video yok.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="156"/>
         <source>You have cleared the Video history</source>
-        <translation type="unfinished"/>
+        <translation>Video geçmişini temizlediniz</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="169"/>

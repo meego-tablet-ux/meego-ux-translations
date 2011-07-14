@@ -1,26 +1,27 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="id" version="2.0">
 <context>
+    <name>AbstractSqlDataStorage</name>
+    <message>
+        <location filename="../../src/sqldatastorage.cpp" line="96"/>
+        <source>Everyday notes (default)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>CDataHandler</name>
     <message>
         <location filename="../../src/DataHandler.cpp" line="69"/>
-        <location filename="../../src/DataHandler.cpp" line="1260"/>
-        <location filename="../../src/DataHandler.cpp" line="1295"/>
+        <location filename="../../src/DataHandler.cpp" line="1262"/>
+        <location filename="../../src/DataHandler.cpp" line="1297"/>
         <source>Everyday Notes</source>
         <translation>Catatan Sehari-hari</translation>
     </message>
     <message>
-        <location filename="../../src/DataHandler.cpp" line="494"/>
-        <location filename="../../src/DataHandler.cpp" line="498"/>
+        <location filename="../../src/DataHandler.cpp" line="496"/>
+        <location filename="../../src/DataHandler.cpp" line="500"/>
         <source>%1 (%2)</source>
+        <extracomment>this is used as a title when a note thus titled already exists, %1 is original title, %2 is consecutive note number</extracomment>
         <translation>%1 (%2)</translation>
-    </message>
-</context>
-<context>
-    <name>DeleteMoveNotificationDialog</name>
-    <message>
-        <location filename="../../DeleteMoveNotificationDialog.qml" line="74"/>
-        <source>Title text</source>
-        <translation>Teks judul</translation>
     </message>
 </context>
 <context>
@@ -60,22 +61,14 @@
     </message>
 </context>
 <context>
-    <name>InformationDialog</name>
-    <message>
-        <location filename="../../InformationDialog.qml" line="82"/>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-</context>
-<context>
     <name>NoteButton</name>
     <message>
-        <location filename="../../NoteButton.qml" line="107"/>
-        <source>Text Element</source>
-        <translation>Elemen Teks</translation>
+        <location filename="../../NoteButton.qml" line="105"/>
+        <source>Text element</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NoteButton.qml" line="119"/>
+        <location filename="../../NoteButton.qml" line="112"/>
         <source>Add some comments here</source>
         <translation>Tambahkan komentar disini</translation>
     </message>
@@ -83,54 +76,39 @@
 <context>
     <name>NoteDetail</name>
     <message>
-        <location filename="../../NoteDetail.qml" line="15"/>
-        <source>Everyday Notes (default)</source>
-        <translation>Catatan Sehari-hari (baku)</translation>
-    </message>
-    <message>
-        <location filename="../../NoteDetail.qml" line="16"/>
-        <source>Note name...</source>
-        <translation>Nama catatan...</translation>
-    </message>
-    <message>
-        <location filename="../../NoteDetail.qml" line="32"/>
+        <location filename="../../NoteDetail.qml" line="38"/>
         <source>Save</source>
         <translation>Simpan</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="32"/>
+        <location filename="../../NoteDetail.qml" line="38"/>
         <source>Delete</source>
         <translation>Hapus</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="69"/>
-        <source>Test Notebook Name</source>
-        <translation>Nama Buku Catatan Tes</translation>
-    </message>
-    <message>
-        <location filename="../../NoteDetail.qml" line="97"/>
+        <location filename="../../NoteDetail.qml" line="78"/>
         <source>Start typing a new note.</source>
         <translation>Mulai mengetikkan catatan baru</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="120"/>
+        <location filename="../../NoteDetail.qml" line="99"/>
         <source>Yes</source>
         <translation>Ya</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="121"/>
+        <location filename="../../NoteDetail.qml" line="100"/>
         <source>No</source>
         <translation>Tidak</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="122"/>
+        <location filename="../../NoteDetail.qml" line="101"/>
         <source>Delete?</source>
         <translation>Hapus?</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="125"/>
-        <source>Do you want to Delete this note?</source>
-        <translation>Anda ingin menghapus catatan ini?</translation>
+        <location filename="../../NoteDetail.qml" line="104"/>
+        <source>Do you want to delete this note?</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -149,372 +127,389 @@
 <context>
     <name>NotebooksView</name>
     <message>
-        <location filename="../../NotebooksView.qml" line="16"/>
-        <location filename="../../NotebooksView.qml" line="17"/>
-        <source>Everyday Notes (default)</source>
-        <translation>Catatan Sehari-hari (baku)</translation>
-    </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="72"/>
+        <location filename="../../NotebooksView.qml" line="166"/>
         <source>Use the default notebook, or make a new one</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="73"/>
+        <location filename="../../NotebooksView.qml" line="167"/>
+        <location filename="../../NotebooksView.qml" line="347"/>
         <source>Create a new notebook</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="74"/>
+        <location filename="../../NotebooksView.qml" line="168"/>
         <source>What&apos;s a notebook?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="75"/>
+        <location filename="../../NotebooksView.qml" line="169"/>
         <source>How do I create notes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="76"/>
+        <location filename="../../NotebooksView.qml" line="170"/>
         <source>A notebook is a collection of notes. Use the default notebook we have created for you, or make a new one.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="77"/>
+        <location filename="../../NotebooksView.qml" line="171"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="93"/>
-        <location filename="../../NotebooksView.qml" line="95"/>
-        <source>New Notebook</source>
-        <translation>Buku Catatan Baru</translation>
-    </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="95"/>
-        <source>Select Multiple</source>
-        <translation>Pilih Berganda</translation>
-    </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="113"/>
+        <location filename="../../NotebooksView.qml" line="198"/>
         <source>View by:</source>
         <translation>Lihat berdasarkan:</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="119"/>
+        <location filename="../../NotebooksView.qml" line="204"/>
         <source>All</source>
         <translation>Semua</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="119"/>
-        <source>A-Z</source>
-        <translation>A-Z</translation>
+        <location filename="../../NotebooksView.qml" line="204"/>
+        <source>Alphabetical order</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="147"/>
-        <location filename="../../NotebooksView.qml" line="183"/>
-        <source>%1 Note</source>
-        <translation>%1 Catatan</translation>
+        <location filename="../../NotebooksView.qml" line="290"/>
+        <source>Delete (%1)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="149"/>
-        <location filename="../../NotebooksView.qml" line="185"/>
-        <source>%1 Notes</source>
-        <translation>%1 Catatan</translation>
-    </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="270"/>
-        <location filename="../../NotebooksView.qml" line="309"/>
-        <location filename="../../NotebooksView.qml" line="411"/>
-        <source>Delete</source>
-        <translation>Hapus</translation>
-    </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="285"/>
-        <location filename="../../NotebooksView.qml" line="371"/>
-        <location filename="../../NotebooksView.qml" line="476"/>
+        <location filename="../../NotebooksView.qml" line="298"/>
+        <location filename="../../NotebooksView.qml" line="349"/>
+        <location filename="../../NotebooksView.qml" line="477"/>
         <source>Cancel</source>
         <translation>Batal</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="307"/>
+        <location filename="../../NotebooksView.qml" line="313"/>
         <source>Open</source>
         <translation>Buka</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="308"/>
-        <source>Email</source>
-        <translation>Surel</translation>
+        <location filename="../../NotebooksView.qml" line="314"/>
+        <location filename="../../NotebooksView.qml" line="395"/>
+        <source>Delete</source>
+        <translation>Hapus</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="310"/>
+        <location filename="../../NotebooksView.qml" line="315"/>
         <source>Rename</source>
         <translation>Ubah nama</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="369"/>
-        <source>Create a new Notebook</source>
-        <translation>Buat buku Catatan baru</translation>
-    </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="370"/>
+        <location filename="../../NotebooksView.qml" line="348"/>
         <source>Create</source>
         <translation>Buat</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="372"/>
+        <location filename="../../NotebooksView.qml" line="359"/>
         <source>Notebook name</source>
         <translation>Name buku catatan</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="389"/>
-        <location filename="../../NotebooksView.qml" line="489"/>
-        <source>A NoteBook &apos;%1&apos; already exists.</source>
+        <location filename="../../NotebooksView.qml" line="370"/>
+        <location filename="../../NotebooksView.qml" line="500"/>
+        <source>%1/%2</source>
+        <comment>CharLeft</comment>
+        <extracomment>%1 is current title length, %2 is max title length</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="413"/>
-        <source>Are you sure you want to delete these %1 notebooks?</source>
-        <translation>Anda yakin ingin menghapus %1 buku catatan ini?</translation>
+        <location filename="../../NotebooksView.qml" line="384"/>
+        <source>A Notebook &apos;%1&apos; already exists.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="414"/>
+        <location filename="../../NotebooksView.qml" line="396"/>
+        <source>Delete notebooks?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="396"/>
+        <source>Delete notebook?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <location filename="../../NotebooksView.qml" line="405"/>
+        <source>Are you sure you want to delete these %n notebook(s)?</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="407"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
+        <extracomment>%1 is notebook title</extracomment>
         <translation>Anda yakin ingin menghapus &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="445"/>
-        <location filename="../../NotebooksView.qml" line="475"/>
+        <location filename="../../NotebooksView.qml" line="435"/>
+        <location filename="../../NotebooksView.qml" line="463"/>
+        <location filename="../../NotebooksView.qml" line="476"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="446"/>
+        <location filename="../../NotebooksView.qml" line="436"/>
         <source>Notebooks deleted</source>
         <translation>Buku catatan dihapus</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="446"/>
+        <location filename="../../NotebooksView.qml" line="436"/>
         <source>Notebook deleted</source>
         <translation>Buku catatan dihapus</translation>
     </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="449"/>
-        <source>&quot;%1&quot; notebooks have been deleted</source>
-        <translation>&quot;%1&quot; buku catatan telah dihapus</translation>
+    <message numerus="yes">
+        <location filename="../../NotebooksView.qml" line="445"/>
+        <source>%n notebook(s) have been deleted</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="451"/>
-        <location filename="../../NotebooksView.qml" line="453"/>
+        <location filename="../../NotebooksView.qml" line="448"/>
+        <location filename="../../NotebooksView.qml" line="450"/>
         <source>&quot;%1&quot; has been deleted</source>
+        <extracomment>%1 is notebook title</extracomment>
         <translation>&quot;%1&quot; telah dihapus</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="477"/>
-        <source>Rename NoteBook</source>
-        <translation>Ubah Nama Buku Catatan</translation>
+        <location filename="../../NotebooksView.qml" line="459"/>
+        <source>Information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="479"/>
+        <source>Rename notebook</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="510"/>
+        <source>A notebook &apos;%1&apos; already exists.</source>
+        <extracomment>%1 is notebook title</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <location filename="../../NotebooksView.qml" line="551"/>
+        <source>%n note(s)</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="557"/>
+        <source>New notebook</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="559"/>
+        <source>Select multiple</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>NotesView</name>
     <message>
-        <location filename="../../NotesView.qml" line="60"/>
+        <location filename="../../NotesView.qml" line="182"/>
         <source>This notebook is empty</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="61"/>
+        <location filename="../../NotesView.qml" line="183"/>
         <source>Create the first note</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="62"/>
+        <location filename="../../NotesView.qml" line="184"/>
         <source>How do I create notes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="63"/>
+        <location filename="../../NotesView.qml" line="185"/>
         <source>Share your notes by email</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="64"/>
+        <location filename="../../NotesView.qml" line="186"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="65"/>
+        <location filename="../../NotesView.qml" line="187"/>
         <source>To send a note by email, tap and hold the note you want to send, then select &apos;Email&apos;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="82"/>
-        <location filename="../../NotesView.qml" line="84"/>
-        <source>New Note</source>
-        <translation>Catatan Baru</translation>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="84"/>
-        <source>Select Multiple</source>
-        <translation>Pilih Berganda</translation>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="102"/>
+        <location filename="../../NotesView.qml" line="213"/>
         <source>View by:</source>
         <translation>Lihat Berdasarkan:</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="116"/>
+        <location filename="../../NotesView.qml" line="219"/>
         <source>All</source>
         <translation>Semua</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="116"/>
-        <source>A-Z</source>
-        <translation>A-Z</translation>
+        <location filename="../../NotesView.qml" line="219"/>
+        <source>Alphabetical order</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="153"/>
-        <source>Test Notebook Name</source>
-        <translation>Nama Buku Catatan Tes</translation>
+        <location filename="../../NotesView.qml" line="400"/>
+        <source>Delete (%1)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="418"/>
-        <location filename="../../NotesView.qml" line="460"/>
-        <location filename="../../NotesView.qml" line="624"/>
-        <source>Delete</source>
-        <translation>Hapus</translation>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="433"/>
-        <location filename="../../NotesView.qml" line="582"/>
-        <location filename="../../NotesView.qml" line="680"/>
+        <location filename="../../NotesView.qml" line="408"/>
+        <location filename="../../NotesView.qml" line="517"/>
+        <location filename="../../NotesView.qml" line="646"/>
         <source>Cancel</source>
         <translation>Batal</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="457"/>
+        <location filename="../../NotesView.qml" line="423"/>
         <source>Open</source>
         <translation>Buka</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="458"/>
-        <location filename="../../NotesView.qml" line="482"/>
+        <location filename="../../NotesView.qml" line="424"/>
         <source>Email</source>
         <translation>Surel</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="459"/>
+        <location filename="../../NotesView.qml" line="425"/>
         <source>Move</source>
         <translation>Pindah</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="461"/>
+        <location filename="../../NotesView.qml" line="426"/>
+        <location filename="../../NotesView.qml" line="565"/>
+        <source>Delete</source>
+        <translation>Hapus</translation>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="427"/>
         <source>Rename</source>
         <translation>Ubah nama</translation>
     </message>
-    <message>
-        <location filename="../../NotesView.qml" line="493"/>
-        <location filename="../../NotesView.qml" line="660"/>
-        <source>%1 notes have been deleted</source>
-        <translation>%1 catatan telah dihapus</translation>
+    <message numerus="yes">
+        <location filename="../../NotesView.qml" line="492"/>
+        <source>%n note(s) have successfully been moved to &quot;%2&quot;</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="497"/>
-        <location filename="../../NotesView.qml" line="501"/>
-        <source>&quot;%1&quot; has been deleted</source>
-        <translation>&quot;%1&quot; telah dihapus</translation>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="544"/>
-        <source>%1 notes have successfully been moved to &quot;%2&quot;</source>
-        <translation>%1 catatan telah sukses dipindah ke &quot;%2&quot;</translation>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="548"/>
+        <location filename="../../NotesView.qml" line="495"/>
         <source>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</source>
+        <extracomment>%1 is moved note title</extracomment>
         <translation>&quot;%1&quot; telah sukses dipindah ke &quot;%2&quot;</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="580"/>
-        <source>Create a new Note</source>
-        <translation>Buat Catatan baru</translation>
+        <location filename="../../NotesView.qml" line="515"/>
+        <source>Create a new note</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="581"/>
+        <location filename="../../NotesView.qml" line="516"/>
         <source>Create</source>
         <translation>Buat</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="583"/>
+        <location filename="../../NotesView.qml" line="527"/>
         <source>Note name</source>
         <translation>Nama catatan</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="600"/>
-        <source>A Note &lt;b&gt;&apos;%1&apos;&lt;/b&gt; already exists.</source>
-        <translation>Catatan bernama &lt;b&gt;&apos;%1&apos;&lt;/b&gt; telah ada.</translation>
+        <location filename="../../NotesView.qml" line="538"/>
+        <location filename="../../NotesView.qml" line="669"/>
+        <source>%1/%2</source>
+        <comment>CharLeft</comment>
+        <extracomment>%1 is current title length, %2 is max title length</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="627"/>
-        <source>Are you sure you want to delete these %1 notes?</source>
-        <translation>Anda yakin ingin menghapus %1 catatan ini?</translation>
+        <location filename="../../NotesView.qml" line="554"/>
+        <source>A Note &apos;%1&apos; already exists.</source>
+        <extracomment>%1 is note title</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="628"/>
+        <location filename="../../NotesView.qml" line="566"/>
+        <source>Delete notes?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="566"/>
+        <source>Delete note?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <location filename="../../NotesView.qml" line="575"/>
+        <source>Are you sure you want to delete these %n note(s)?</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="577"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
+        <extracomment>%1 is note title</extracomment>
         <translation>Anda yakin ingin menghapus &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="656"/>
-        <location filename="../../NotesView.qml" line="679"/>
-        <location filename="../../NotesView.qml" line="717"/>
+        <location filename="../../NotesView.qml" line="605"/>
+        <location filename="../../NotesView.qml" line="632"/>
+        <location filename="../../NotesView.qml" line="645"/>
+        <location filename="../../NotesView.qml" line="690"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="657"/>
+        <location filename="../../NotesView.qml" line="606"/>
         <source>Notes deleted</source>
         <translation>Catatan dihapus</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="657"/>
+        <location filename="../../NotesView.qml" line="606"/>
         <source>Note deleted</source>
         <translation>Catatan dihapus</translation>
     </message>
-    <message>
-        <location filename="../../NotesView.qml" line="662"/>
-        <location filename="../../NotesView.qml" line="664"/>
-        <source>%1 has been deleted</source>
-        <translation>%1 telah dihapus</translation>
+    <message numerus="yes">
+        <location filename="../../NotesView.qml" line="615"/>
+        <source>%n note(s) have been deleted</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="681"/>
-        <source>Rename Note</source>
-        <translation>Ubah Nama Catatan</translation>
+        <location filename="../../NotesView.qml" line="617"/>
+        <location filename="../../NotesView.qml" line="619"/>
+        <source>&quot;%1&quot; has been deleted</source>
+        <translation>&quot;%1&quot; telah dihapus</translation>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="628"/>
+        <source>Information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="648"/>
+        <source>Rename note</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="679"/>
+        <source>A note &apos;%1&apos; already exists.</source>
+        <extracomment>%1 is note name</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="691"/>
-        <source>%1 (Renamed Note)</source>
-        <translation>%1 (Catatan Yang Namanya Diubah)</translation>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="718"/>
         <source>Note moved</source>
         <translation>Catatan dipindah</translation>
     </message>
-</context>
-<context>
-    <name>OneButtonModalDialog</name>
     <message>
-        <location filename="../../OneButtonModalDialog.qml" line="62"/>
-        <source>Title text</source>
-        <translation>Teks judul</translation>
+        <location filename="../../NotesView.qml" line="747"/>
+        <source>New note</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../OneButtonModalDialog.qml" line="89"/>
-        <source>Some text here</source>
-        <translation>Isikan teks disini</translation>
+        <location filename="../../NotesView.qml" line="749"/>
+        <source>Select multiple</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -526,48 +521,11 @@
     </message>
 </context>
 <context>
-    <name>ShareNote</name>
-    <message>
-        <location filename="../../ShareNote.qml" line="71"/>
-        <source>Title</source>
-        <translation>Judul</translation>
-    </message>
-    <message>
-        <location filename="../../ShareNote.qml" line="103"/>
-        <source>Enter Email addresses</source>
-        <translation>Masukkan alamat-alamat surel</translation>
-    </message>
-    <message>
-        <location filename="../../ShareNote.qml" line="163"/>
-        <source>Add a message</source>
-        <translation>Tambahkan pesan</translation>
-    </message>
-    <message>
-        <location filename="../../ShareNote.qml" line="200"/>
-        <source>Send</source>
-        <translation>Kirim</translation>
-    </message>
-    <message>
-        <location filename="../../ShareNote.qml" line="226"/>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-</context>
-<context>
-    <name>TwoButtonsModalDialog</name>
-    <message>
-        <location filename="../../TwoButtonsModalDialog.qml" line="152"/>
-        <location filename="../../TwoButtonsModalDialog.qml" line="174"/>
-        <source>%1/%2</source>
-        <translation>%1/%2</translation>
-    </message>
-</context>
-<context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="15"/>
-        <location filename="../../main.qml" line="51"/>
-        <location filename="../../main.qml" line="67"/>
+        <location filename="../../main.qml" line="16"/>
+        <location filename="../../main.qml" line="96"/>
+        <location filename="../../main.qml" line="113"/>
         <source>Notes</source>
         <translation>Catatan</translation>
     </message>

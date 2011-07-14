@@ -4,7 +4,7 @@
     <message>
         <location filename="../../qml/constants.js" line="3"/>
         <source>Web accounts</source>
-        <translation type="unfinished"/>
+        <translation>Comptes Web</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
@@ -30,7 +30,7 @@
     <message>
         <location filename="../../qml/constants.js" line="13"/>
         <source>&lt;b&gt;Username:&lt;/b&gt; </source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Identifiant:&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="14"/>
@@ -45,12 +45,12 @@
     <message>
         <location filename="../../qml/constants.js" line="16"/>
         <source>Verifier code</source>
-        <translation type="unfinished"/>
+        <translation>Code de vérification</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="18"/>
         <source>More details</source>
-        <translation type="unfinished"/>
+        <translation>Plus de détails</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
@@ -70,13 +70,13 @@
     <message>
         <location filename="../../qml/constants.js" line="23"/>
         <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
-        <translation type="unfinished"/>
+        <translation>Vous vous êtes déconnectés avec succès. Le contenu de ce service n&apos;apparaîtra plus sur cet équipement.</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="25"/>
         <source>This service supports sharing only</source>
         <extracomment>Denotes a social networking service that only plugs in to the sharing framework for media sharing, and doesn't provide content on the Friends panel</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ce service supporte uniquement le partage</translation>
     </message>
 </context>
 </TS>

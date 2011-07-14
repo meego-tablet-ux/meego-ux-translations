@@ -80,8 +80,8 @@
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="214"/>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="227"/>
         <source>May</source>
+        <comment>Short</comment>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -137,6 +137,12 @@
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="226"/>
         <source>April</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="227"/>
+        <source>May</source>
+        <comment>Full</comment>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -372,17 +378,17 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/components/media/MusicPicker.qml" line="362"/>
+        <location filename="../../src/components/media/MusicPicker.qml" line="360"/>
         <source>Back</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/components/media/MusicPicker.qml" line="382"/>
+        <location filename="../../src/components/media/MusicPicker.qml" line="380"/>
         <source>OK</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/components/media/MusicPicker.qml" line="400"/>
+        <location filename="../../src/components/media/MusicPicker.qml" line="398"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
@@ -422,16 +428,19 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../src/components/common/ScrollableMusicList.qml" line="188"/>
+        <location filename="../../src/components/common/ScrollableMusicList.qml" line="189"/>
         <source>%1:%2</source>
+        <comment>MinsSecs</comment>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>StatusBar</name>
     <message>
-        <location filename="../../src/components/indicators/StatusBar.qml" line="178"/>
+        <location filename="../../src/components/indicators/StatusBar.qml" line="179"/>
         <source>%1: %2</source>
+        <comment>SummaryBody</comment>
+        <extracomment>%1 is notification summary, %2 is notification body</extracomment>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -482,7 +491,7 @@
 <context>
     <name>Window</name>
     <message>
-        <location filename="../../src/components/common/Window.qml" line="327"/>
+        <location filename="../../src/components/common/Window.qml" line="334"/>
         <source>left-to-right</source>
         <extracomment>page switch direction. Don't translate to other languages, instead change the string to &quot;right-to-left&quot; for languages where right to left reading directions are desired</extracomment>
         <translation type="unfinished"/>
