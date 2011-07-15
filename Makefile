@@ -48,6 +48,7 @@ LOCALES = ar \
 	  ms \
 	  nb \
 	  nl \
+	  no \
 	  pa \
 	  pl \
 	  pt_BR \
