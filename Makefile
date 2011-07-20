@@ -1,6 +1,6 @@
 
 PROJECT = meego-ux-translations
-VERSION = 1.2.13
+VERSION = 1.2.14
 
 TX_URL = https://meego.transifex.net/
 TX_PRJ = projects/p/meego-ux/r/meego-1-2/
