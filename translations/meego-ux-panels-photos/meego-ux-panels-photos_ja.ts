@@ -2,108 +2,108 @@
 <context>
     <name>photospanel</name>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="55"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="162"/>
-        <source>Recently viewed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="56"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="233"/>
-        <source>Albums</source>
-        <translation type="unfinished"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="163"/>
+        <source>Recently viewed</source>
+        <translation>最近表示されたファイル</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="86"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="92"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="94"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="57"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="236"/>
+        <source>Albums</source>
+        <translation>アルバム</translation>
+    </message>
+    <message>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="87"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="93"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="95"/>
         <source>Photos</source>
         <comment>PanelTitle</comment>
         <extracomment>%1 is &quot;Photos&quot; panel title
 ----------
 %1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>写真</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="92"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="93"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1パネルの設定</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="94"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="95"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1パネルのコンテンツ</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="129"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="98"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="130"/>
         <source>View some photos</source>
-        <translation type="unfinished"/>
+        <translation>写真の表示</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="97"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="98"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>履歴の消去</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="123"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="124"/>
         <source>The latest photos you view and your photo albums will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>最近見た写真と写真のアルバムがここに表示されます。</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="166"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="167"/>
         <source>You have cleared the Photos history</source>
-        <translation type="unfinished"/>
+        <translation>写真履歴が消去されました</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="206"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="318"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="321"/>
-        <source>Open</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="213"/>
-        <source>Share</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="210"/>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="318"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="208"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="322"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="325"/>
+        <source>Open</source>
+        <translation>開く</translation>
+    </message>
+    <message>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="206"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="216"/>
+        <source>Share</source>
+        <translation>共有</translation>
+    </message>
+    <message>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="206"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="213"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="322"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="330"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>隠す</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="204"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="206"/>
         <source>Set as background</source>
-        <translation type="unfinished"/>
+        <translation>背景として設定</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="241"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="244"/>
         <source>You have no photo albums</source>
-        <translation type="unfinished"/>
+        <translation>写真のアルバムはありません</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="246"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="249"/>
         <source>Create an album</source>
-        <translation type="unfinished"/>
+        <translation>アルバムの作成</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../panelsrc/photos/photospanel.qml" line="275"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="278"/>
         <source>%n photo(s)</source>
         <comment>albumphotocount</comment>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>写真数：%n</numerusform></translation>
     </message>
     <message>
-        <location filename="../../panelsrc/photos/photospanel.qml" line="285"/>
+        <location filename="../../panelsrc/photos/photospanel.qml" line="288"/>
         <source>Created %1</source>
-        <translation type="unfinished"/>
+        <translation>%1が作成されました</translation>
     </message>
 </context>
 </TS>

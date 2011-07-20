@@ -2,42 +2,42 @@
 <context>
     <name>AddressEditWidget</name>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="22"/>
+        <location filename="../../AddressEditWidget.qml" line="23"/>
         <source>Home</source>
         <translation>Home</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="23"/>
+        <location filename="../../AddressEditWidget.qml" line="24"/>
         <source>Work</source>
         <translation>Work</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="24"/>
+        <location filename="../../AddressEditWidget.qml" line="25"/>
         <source>Other</source>
         <translation>Other</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="25"/>
+        <location filename="../../AddressEditWidget.qml" line="26"/>
         <source>Street address</source>
         <translation>Street address</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="26"/>
+        <location filename="../../AddressEditWidget.qml" line="27"/>
         <source>Town / City</source>
         <translation>Town / City</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="27"/>
+        <location filename="../../AddressEditWidget.qml" line="28"/>
         <source>Region / State</source>
         <translation>Region / State</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="28"/>
+        <location filename="../../AddressEditWidget.qml" line="29"/>
         <source>Country</source>
         <translation>Country</translation>
     </message>
     <message>
-        <location filename="../../AddressEditWidget.qml" line="29"/>
+        <location filename="../../AddressEditWidget.qml" line="30"/>
         <source>Postcode / Zip</source>
         <translation>Postcode / Zip</translation>
     </message>
@@ -45,8 +45,8 @@
 <context>
     <name>ContactCardLandscape</name>
     <message>
-        <location filename="../../ContactCardLandscape.qml" line="85"/>
-        <location filename="../../ContactCardLandscape.qml" line="87"/>
+        <location filename="../../ContactCardLandscape.qml" line="164"/>
+        <location filename="../../ContactCardLandscape.qml" line="166"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
@@ -59,53 +59,53 @@
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="68"/>
+        <location filename="../../ContactCardPortrait.qml" line="77"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
         <translation>Unfavourite</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="71"/>
+        <location filename="../../ContactCardPortrait.qml" line="80"/>
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
         <translation>Favourite</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="73"/>
+        <location filename="../../ContactCardPortrait.qml" line="82"/>
         <source>Idle</source>
         <translation>Idle</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="74"/>
+        <location filename="../../ContactCardPortrait.qml" line="83"/>
         <source>Busy</source>
         <translation>Busy</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="75"/>
+        <location filename="../../ContactCardPortrait.qml" line="84"/>
         <source>Online</source>
         <translation>Online</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="76"/>
+        <location filename="../../ContactCardPortrait.qml" line="85"/>
         <source>Offline</source>
         <translation>Offline</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="79"/>
+        <location filename="../../ContactCardPortrait.qml" line="88"/>
         <source>(...)</source>
         <extracomment>Truncate string - used when a string is too long for the display area</extracomment>
         <translation>(...)</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="108"/>
+        <location filename="../../ContactCardPortrait.qml" line="149"/>
         <source>%1 %2</source>
         <comment>LastFirstName</comment>
         <extracomment>%1 is last name, %2 is first name</extracomment>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../ContactCardPortrait.qml" line="111"/>
+        <location filename="../../ContactCardPortrait.qml" line="152"/>
         <source>%1 %2</source>
         <comment>FirstLastName</comment>
         <extracomment>%1 is first name, %2 is last name</extracomment>
@@ -487,22 +487,22 @@
 <context>
     <name>EmailEditWidget</name>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="22"/>
+        <location filename="../../EmailEditWidget.qml" line="23"/>
         <source>Home</source>
         <translation>Home</translation>
     </message>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="23"/>
+        <location filename="../../EmailEditWidget.qml" line="24"/>
         <source>Work</source>
         <translation>Work</translation>
     </message>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="24"/>
+        <location filename="../../EmailEditWidget.qml" line="25"/>
         <source>Other</source>
         <translation>Other</translation>
     </message>
     <message>
-        <location filename="../../EmailEditWidget.qml" line="25"/>
+        <location filename="../../EmailEditWidget.qml" line="26"/>
         <source>Email address</source>
         <translation>Email address</translation>
     </message>
@@ -523,7 +523,7 @@
 <context>
     <name>GroupedViewLandscape</name>
     <message>
-        <location filename="../../GroupedViewLandscape.qml" line="58"/>
+        <location filename="../../GroupedViewLandscape.qml" line="81"/>
         <source>#</source>
         <translation>#</translation>
     </message>
@@ -540,59 +540,59 @@
 <context>
     <name>ImEditWidget</name>
     <message>
-        <location filename="../../ImEditWidget.qml" line="25"/>
+        <location filename="../../ImEditWidget.qml" line="26"/>
         <source>Instant messaging</source>
         <extracomment>Instant Messaging Accounts for this contact</extracomment>
         <translation>Instant messaging</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="26"/>
+        <location filename="../../ImEditWidget.qml" line="27"/>
         <source>AIM</source>
         <translation>AIM</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="27"/>
+        <location filename="../../ImEditWidget.qml" line="28"/>
         <source>MSN</source>
         <translation>MSN</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="28"/>
+        <location filename="../../ImEditWidget.qml" line="29"/>
         <source>Jabber</source>
         <translation>Jabber</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="29"/>
+        <location filename="../../ImEditWidget.qml" line="30"/>
         <source>Yahoo!</source>
         <translation>Yahoo!</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="30"/>
+        <location filename="../../ImEditWidget.qml" line="31"/>
         <source>Facebook</source>
         <translation>Facebook</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="33"/>
+        <location filename="../../ImEditWidget.qml" line="34"/>
         <source>gTalk</source>
         <extracomment>Name of the Google Talk messaging service - this might differ by locale</extracomment>
         <translation>gTalk</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="34"/>
+        <location filename="../../ImEditWidget.qml" line="35"/>
         <source>Account Name / ID</source>
         <translation>Account Name / ID</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="35"/>
+        <location filename="../../ImEditWidget.qml" line="36"/>
         <source>Account Type</source>
         <translation>Account Type</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="36"/>
+        <location filename="../../ImEditWidget.qml" line="37"/>
         <source>No IM accounts are configured</source>
         <translation>No IM accounts are configured</translation>
     </message>
     <message>
-        <location filename="../../ImEditWidget.qml" line="37"/>
+        <location filename="../../ImEditWidget.qml" line="38"/>
         <source>No buddies for this account</source>
         <translation>No buddies for this account</translation>
     </message>
@@ -726,52 +726,47 @@
 <context>
     <name>PhoneEditWidget</name>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="22"/>
-        <source>Address</source>
-        <translation>Address</translation>
-    </message>
-    <message>
-        <location filename="../../PhoneEditWidget.qml" line="23"/>
+        <location filename="../../PhoneEditWidget.qml" line="24"/>
         <source>Home</source>
         <translation>Home</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="24"/>
+        <location filename="../../PhoneEditWidget.qml" line="25"/>
         <source>Work</source>
         <translation>Work</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="25"/>
+        <location filename="../../PhoneEditWidget.qml" line="26"/>
         <source>Other</source>
         <translation>Other</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="26"/>
+        <location filename="../../PhoneEditWidget.qml" line="27"/>
         <source>Mobile</source>
         <translation>Mobile</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="27"/>
+        <location filename="../../PhoneEditWidget.qml" line="28"/>
         <source>Phone numbers</source>
         <translation>Phone numbers</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="28"/>
+        <location filename="../../PhoneEditWidget.qml" line="29"/>
         <source>Add number</source>
         <translation>Add number</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="29"/>
+        <location filename="../../PhoneEditWidget.qml" line="30"/>
         <source>Phone number</source>
         <translation>Phone number</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="30"/>
+        <location filename="../../PhoneEditWidget.qml" line="31"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="../../PhoneEditWidget.qml" line="31"/>
+        <location filename="../../PhoneEditWidget.qml" line="32"/>
         <source>Add</source>
         <translation>Add</translation>
     </message>
@@ -779,18 +774,18 @@
 <context>
     <name>WebPageEditWidget</name>
     <message>
-        <location filename="../../WebPageEditWidget.qml" line="22"/>
+        <location filename="../../WebPageEditWidget.qml" line="23"/>
         <source>Site</source>
         <translation>Site</translation>
     </message>
     <message>
-        <location filename="../../WebPageEditWidget.qml" line="23"/>
+        <location filename="../../WebPageEditWidget.qml" line="24"/>
         <source>Bookmark</source>
         <comment>Noun</comment>
         <translation>Bookmark</translation>
     </message>
     <message>
-        <location filename="../../WebPageEditWidget.qml" line="24"/>
+        <location filename="../../WebPageEditWidget.qml" line="25"/>
         <source>Favorite</source>
         <comment>Noun</comment>
         <translation>Favourite</translation>

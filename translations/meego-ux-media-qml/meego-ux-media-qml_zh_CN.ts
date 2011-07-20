@@ -4,20 +4,30 @@
     <message>
         <location filename="../../Media/MediaGridDocumentDelegate.qml" line="210"/>
         <source>%1 Minute</source>
-        <translation type="unfinished"/>
+        <translation>%1分钟</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridDocumentDelegate.qml" line="210"/>
         <source>%1 Minutes</source>
-        <translation type="unfinished"/>
+        <translation>%1分钟</translation>
     </message>
 </context>
 <context>
     <name>MediaGridMusicAlbumDelegate</name>
+    <message>
+        <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
+        <source>1 Album</source>
+        <translation>1 个相册</translation>
+    </message>
     <message numerus="yes">
-        <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="321"/>
+        <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
+        <source>%n Albums</source>
+        <translation><numerusform>%n 个相册</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="342"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n分钟</numerusform></translation>
     </message>
 </context>
 <context>
@@ -25,7 +35,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridPhotoAlbumDelegate.qml" line="277"/>
         <source>%n Photo(s)</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n张相片</numerusform></translation>
     </message>
 </context>
 <context>
@@ -33,7 +43,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridVideoDelegate.qml" line="303"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n分钟</numerusform></translation>
     </message>
 </context>
 <context>
@@ -41,27 +51,27 @@
     <message>
         <location filename="../../Media/MediaGridView.qml" line="177"/>
         <source>Favorites</source>
-        <translation type="unfinished"/>
+        <translation>最爱</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="178"/>
         <source>Recently viewed</source>
-        <translation type="unfinished"/>
+        <translation>最近浏览</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="179"/>
         <source>Newest</source>
-        <translation type="unfinished"/>
+        <translation>最新</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="180"/>
         <source>Unwatched</source>
-        <translation type="unfinished"/>
+        <translation>未观看的</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="181"/>
         <source>Search Results</source>
-        <translation type="unfinished"/>
+        <translation>搜索结果</translation>
     </message>
 </context>
 </TS>

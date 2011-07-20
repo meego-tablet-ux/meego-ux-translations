@@ -2,99 +2,105 @@
 <context>
     <name>AccountExpandobox</name>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="107"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="77"/>
+        <source>%1 - %2</source>
+        <extracomment>%1 is email address, %2 is display name</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../settings/AccountExpandobox.qml" line="106"/>
         <source>Account description</source>
         <translation>Keterangan akun</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="112"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="111"/>
         <source>Your name</source>
         <translation>Nama Anda</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="117"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="116"/>
         <source>Email address</source>
         <translation>Alamat surel</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="123"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="166"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="209"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="122"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="165"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="208"/>
         <source>Password</source>
         <translation>Sandi</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="131"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="130"/>
         <source>Receiving settings</source>
         <translation>Pengaturan penerimaan</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="132"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="175"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="131"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="174"/>
         <source>You may need to contact your email provider for these settings.</source>
         <translation>Anda mungkin perlu menghubungi penyedia surel Anda untuk pengaturan ini.</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="136"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="135"/>
         <source>Server type</source>
         <translation>Jenis server</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="142"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="179"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="141"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="178"/>
         <source>Server address</source>
         <translation>Alamat server</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="148"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="185"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="147"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="184"/>
         <source>Port</source>
         <translation>Port</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="154"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="197"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="153"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="196"/>
         <source>Security</source>
         <translation>Keamanan</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="160"/>
-        <location filename="../../settings/AccountExpandobox.qml" line="203"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="159"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="202"/>
         <source>Username</source>
         <translation>Nama pengguna</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="174"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="173"/>
         <source>Sending settings</source>
         <translation>Pengaturan pengiriman</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="191"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="190"/>
         <source>Authentication</source>
         <translation>Otentikasi</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="220"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="219"/>
         <source>Delete Account</source>
         <translation>Hapus Akun</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="231"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="230"/>
         <source>Yes</source>
         <translation>Ya</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="232"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="231"/>
         <source>Cancel</source>
         <translation>Batal</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="233"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="232"/>
         <source>Delete account</source>
         <translation>Hapus akun</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountExpandobox.qml" line="234"/>
+        <location filename="../../settings/AccountExpandobox.qml" line="233"/>
         <source>Are you sure you want to delete this account?</source>
         <translation>Anda yakin ingin menghapus akun ini?</translation>
     </message>
@@ -107,99 +113,112 @@
         <extracomment>Label that displays the number of unread e-mail messages. Note plural handling.</extracomment>
         <translation><numerusform>%n pesan belum dibaca</numerusform></translation>
     </message>
+    <message>
+        <location filename="../../AccountPage.qml" line="115"/>
+        <source>%1 - %2</source>
+        <extracomment>%1 is email address, %2 is display name</extracomment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>AccountSettings</name>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="34"/>
+        <location filename="../../settings/AccountSettings.qml" line="28"/>
         <source>Accounts</source>
         <translation>Akun</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="51"/>
+        <location filename="../../settings/AccountSettings.qml" line="45"/>
         <source>Set up new account</source>
         <translation>Tata akun baru</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="64"/>
+        <location filename="../../settings/AccountSettings.qml" line="58"/>
         <source>General Settings</source>
         <translation>Pengaturan Umum</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="75"/>
+        <location filename="../../settings/AccountSettings.qml" line="69"/>
         <source>Update:</source>
         <translation>Pembaruan:</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="125"/>
+        <location filename="../../settings/AccountSettings.qml" line="119"/>
         <source>Signature</source>
         <translation>Tanda tangan</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="135"/>
-        <location filename="../../settings/AccountSettings.qml" line="150"/>
+        <location filename="../../settings/AccountSettings.qml" line="129"/>
+        <location filename="../../settings/AccountSettings.qml" line="143"/>
         <source>Enter your signature.</source>
+        <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
         <translation>Masukkan tanda tangan Anda.</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="166"/>
+        <location filename="../../settings/AccountSettings.qml" line="129"/>
+        <source>&quot;%1&quot;</source>
+        <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../settings/AccountSettings.qml" line="159"/>
         <source>Notifications</source>
         <translation>Pemberitahuan</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="184"/>
+        <location filename="../../settings/AccountSettings.qml" line="177"/>
         <source>New email notifications</source>
         <translation>Pemberitahuan surel baru</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="189"/>
+        <location filename="../../settings/AccountSettings.qml" line="182"/>
         <source>Ask before deleting email</source>
         <translation>Tanyakan sebelum menghapus surel</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="209"/>
-        <source>Yes</source>
-        <translation>Ya</translation>
-    </message>
-    <message>
-        <location filename="../../settings/AccountSettings.qml" line="210"/>
-        <source>No</source>
-        <translation>Tidak</translation>
-    </message>
-    <message>
-        <location filename="../../settings/AccountSettings.qml" line="211"/>
-        <source>Discard changes</source>
-        <translation>Batalkan perubahan</translation>
-    </message>
-    <message>
-        <location filename="../../settings/AccountSettings.qml" line="212"/>
-        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation>Anda telah mengubah pengaturan. Anda yakin ingin membatalkan?</translation>
-    </message>
-    <message>
-        <location filename="../../settings/AccountSettings.qml" line="217"/>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <location filename="../../settings/AccountSettings.qml" line="219"/>
-        <source>Changes saved</source>
-        <translation>Perubahan disimpan</translation>
-    </message>
-    <message>
-        <location filename="../../settings/AccountSettings.qml" line="220"/>
-        <source>Your changes have been saved.</source>
-        <translation>Perubahan Anda telah disimpan.</translation>
-    </message>
-    <message>
-        <location filename="../../settings/AccountSettings.qml" line="235"/>
+        <location filename="../../settings/AccountSettings.qml" line="204"/>
         <source>Save changes</source>
         <translation>Simpan perubahan</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="252"/>
+        <location filename="../../settings/AccountSettings.qml" line="221"/>
         <source>Cancel</source>
         <translation>Batal</translation>
+    </message>
+    <message>
+        <location filename="../../settings/AccountSettings.qml" line="231"/>
+        <source>Yes</source>
+        <translation>Ya</translation>
+    </message>
+    <message>
+        <location filename="../../settings/AccountSettings.qml" line="232"/>
+        <source>No</source>
+        <translation>Tidak</translation>
+    </message>
+    <message>
+        <location filename="../../settings/AccountSettings.qml" line="233"/>
+        <source>Discard changes</source>
+        <translation>Batalkan perubahan</translation>
+    </message>
+    <message>
+        <location filename="../../settings/AccountSettings.qml" line="234"/>
+        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
+        <translation>Anda telah mengubah pengaturan. Anda yakin ingin membatalkan?</translation>
+    </message>
+    <message>
+        <location filename="../../settings/AccountSettings.qml" line="239"/>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <location filename="../../settings/AccountSettings.qml" line="241"/>
+        <source>Changes saved</source>
+        <translation>Perubahan disimpan</translation>
+    </message>
+    <message>
+        <location filename="../../settings/AccountSettings.qml" line="242"/>
+        <source>Your changes have been saved.</source>
+        <translation>Perubahan Anda telah disimpan.</translation>
     </message>
 </context>
 <context>
@@ -232,28 +251,28 @@
 <context>
     <name>ComposerViewToolbar</name>
     <message>
-        <location filename="../../ComposerViewToolbar.qml" line="158"/>
+        <location filename="../../ComposerViewToolbar.qml" line="175"/>
         <source>Attach a file</source>
         <extracomment>Attach a file (e.g. music, video, photo) to the document being composed.</extracomment>
         <translation>Lampirkan berkas</translation>
     </message>
     <message>
-        <location filename="../../ComposerViewToolbar.qml" line="215"/>
+        <location filename="../../ComposerViewToolbar.qml" line="232"/>
         <source>Yes</source>
         <translation>Ya</translation>
     </message>
     <message>
-        <location filename="../../ComposerViewToolbar.qml" line="216"/>
+        <location filename="../../ComposerViewToolbar.qml" line="233"/>
         <source>Cancel</source>
         <translation>Batal</translation>
     </message>
     <message>
-        <location filename="../../ComposerViewToolbar.qml" line="217"/>
+        <location filename="../../ComposerViewToolbar.qml" line="234"/>
         <source>Discard Email</source>
         <translation>Buang Surel</translation>
     </message>
     <message>
-        <location filename="../../ComposerViewToolbar.qml" line="218"/>
+        <location filename="../../ComposerViewToolbar.qml" line="235"/>
         <source>Are you sure you want to discard this unsent email?</source>
         <translation>Anda yakin ingin membuang surel yang belum dikirim ini?</translation>
     </message>
@@ -261,22 +280,22 @@
 <context>
     <name>ConfirmScreen</name>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="35"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="34"/>
         <source>Account set up successfully!</source>
         <translation>Penyiapan akun sukses!</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="37"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="36"/>
         <source>Accounts</source>
         <translation>Akun</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="54"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="53"/>
         <source>Done</source>
         <translation>Selesai</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="66"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="65"/>
         <source>Set up another account?</source>
         <translation>Siapkan akun lain?</translation>
     </message>
@@ -284,128 +303,128 @@
 <context>
     <name>DetailsScreen</name>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="44"/>
+        <location filename="../../settings/DetailsScreen.qml" line="37"/>
         <source>Account details</source>
         <translation>Rincian akun</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="47"/>
+        <location filename="../../settings/DetailsScreen.qml" line="40"/>
         <source>Account: %1</source>
         <translation>Akun: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="50"/>
+        <location filename="../../settings/DetailsScreen.qml" line="43"/>
         <source>Name: %1</source>
         <translation>Nama: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="53"/>
+        <location filename="../../settings/DetailsScreen.qml" line="46"/>
         <source>Email address: %1</source>
         <translation>Alamat surel: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="60"/>
+        <location filename="../../settings/DetailsScreen.qml" line="53"/>
         <source>Receiving:</source>
         <translation>Penerimaan:</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="63"/>
+        <location filename="../../settings/DetailsScreen.qml" line="56"/>
         <source>Server type: %1</source>
         <translation>Jenis server: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="66"/>
-        <location filename="../../settings/DetailsScreen.qml" line="85"/>
+        <location filename="../../settings/DetailsScreen.qml" line="59"/>
+        <location filename="../../settings/DetailsScreen.qml" line="78"/>
         <source>Server address: %1</source>
         <translation>Alamat server: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="69"/>
-        <location filename="../../settings/DetailsScreen.qml" line="88"/>
+        <location filename="../../settings/DetailsScreen.qml" line="62"/>
+        <location filename="../../settings/DetailsScreen.qml" line="81"/>
         <source>Port: %1</source>
         <translation>Port: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="72"/>
-        <location filename="../../settings/DetailsScreen.qml" line="94"/>
+        <location filename="../../settings/DetailsScreen.qml" line="65"/>
+        <location filename="../../settings/DetailsScreen.qml" line="87"/>
         <source>Security: %1</source>
         <translation>Keamanan: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="75"/>
-        <location filename="../../settings/DetailsScreen.qml" line="97"/>
+        <location filename="../../settings/DetailsScreen.qml" line="68"/>
+        <location filename="../../settings/DetailsScreen.qml" line="90"/>
         <source>Username: %1</source>
         <translation>Nama pengguna: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="82"/>
+        <location filename="../../settings/DetailsScreen.qml" line="75"/>
         <source>Sending:</source>
         <translation>Pengiriman:</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="91"/>
+        <location filename="../../settings/DetailsScreen.qml" line="84"/>
         <source>Authentication: %1</source>
         <translation>Otentikasi: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="109"/>
-        <source>Yes</source>
-        <translation>Ya</translation>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="110"/>
-        <source>No</source>
-        <translation>Tidak</translation>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="111"/>
-        <source>Discard changes</source>
-        <translation>Buang perubahan</translation>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="112"/>
-        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation>Anda telah mengubah pengaturan. Anda yakin ingin membatalkan?</translation>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="117"/>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="119"/>
-        <source>Error</source>
-        <translation>Galat</translation>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="120"/>
-        <source>Error %1: %2</source>
-        <translation>Galat: %1: %2</translation>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="123"/>
-        <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
-        <translation>Maaf, kami tidak bisa menyiapkan akun Anda secara otomatis. Silakan mengisi rincian akun:</translation>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="144"/>
+        <location filename="../../settings/DetailsScreen.qml" line="96"/>
         <source>Next</source>
         <translation>Selanjutnya</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="169"/>
+        <location filename="../../settings/DetailsScreen.qml" line="116"/>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="122"/>
         <source>Manual Edit</source>
         <translation>Sunting Manual</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="172"/>
+        <location filename="../../settings/DetailsScreen.qml" line="125"/>
         <source>Please fill in account details:</source>
         <translation>Silakan isi rincian akun:</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="181"/>
-        <source>Cancel</source>
-        <translation>Batal</translation>
+        <location filename="../../settings/DetailsScreen.qml" line="139"/>
+        <source>Yes</source>
+        <translation>Ya</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="140"/>
+        <source>No</source>
+        <translation>Tidak</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="141"/>
+        <source>Discard changes</source>
+        <translation>Buang perubahan</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="142"/>
+        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
+        <translation>Anda telah mengubah pengaturan. Anda yakin ingin membatalkan?</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="147"/>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="149"/>
+        <source>Error</source>
+        <translation>Galat</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="150"/>
+        <source>Error %1: %2</source>
+        <translation>Galat: %1: %2</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="153"/>
+        <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
+        <translation>Maaf, kami tidak bisa menyiapkan akun Anda secara otomatis. Silakan mengisi rincian akun:</translation>
     </message>
 </context>
 <context>
@@ -475,51 +494,57 @@
 <context>
     <name>FolderListMenu</name>
     <message>
-        <location filename="../../FolderListMenu.qml" line="110"/>
+        <location filename="../../FolderListMenu.qml" line="114"/>
         <source>Create new folder</source>
         <translation>Buat folder baru</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="144"/>
+        <location filename="../../FolderListMenu.qml" line="148"/>
         <source>Untitled Folder</source>
         <translation>Folder Tanpa Judul</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="148"/>
+        <location filename="../../FolderListMenu.qml" line="152"/>
         <source>Create</source>
         <translation>Buat</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="149"/>
-        <location filename="../../FolderListMenu.qml" line="202"/>
-        <location filename="../../FolderListMenu.qml" line="259"/>
+        <location filename="../../FolderListMenu.qml" line="153"/>
+        <location filename="../../FolderListMenu.qml" line="207"/>
+        <location filename="../../FolderListMenu.qml" line="265"/>
         <source>Cancel</source>
         <translation>Batal</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="180"/>
+        <location filename="../../FolderListMenu.qml" line="185"/>
         <source>Rename folder</source>
         <translation>Ubah nama folder</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="201"/>
+        <location filename="../../FolderListMenu.qml" line="206"/>
         <source>Rename</source>
         <translation>Ubah nama</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="237"/>
+        <location filename="../../FolderListMenu.qml" line="243"/>
         <source>Delete folder</source>
         <translation>Hapus folder</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="258"/>
+        <location filename="../../FolderListMenu.qml" line="264"/>
         <source>Yes</source>
         <translation>Ya</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="262"/>
+        <location filename="../../FolderListMenu.qml" line="268"/>
         <source>Are you sure you want to delete the folder &quot;%1&quot; and all emails inside ?</source>
         <translation>Anda yakin ingin menghapus folder &quot;%1&quot; dan semua surel didalamnya?</translation>
+    </message>
+    <message>
+        <location filename="../../FolderListMenu.qml" line="360"/>
+        <source>(%1)</source>
+        <extracomment>%1 is the number of unread emails</extracomment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -535,88 +560,88 @@
         <translation>Lampiran</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="60"/>
+        <location filename="../../FolderListView.qml" line="96"/>
         <source>On %1 %2 wrote:</source>
         <translation>Pada %1 %2 menulis:</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="106"/>
+        <location filename="../../FolderListView.qml" line="144"/>
         <source>Drafts</source>
         <translation>Rancangan</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="111"/>
+        <location filename="../../FolderListView.qml" line="149"/>
         <source>Yes</source>
         <translation>Ya</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="112"/>
+        <location filename="../../FolderListView.qml" line="150"/>
         <source>Cancel</source>
         <translation>Batal</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="113"/>
+        <location filename="../../FolderListView.qml" line="151"/>
         <source>Delete Email</source>
         <translation>Hapus Surel</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="115"/>
+        <location filename="../../FolderListView.qml" line="152"/>
         <source>Are you sure you want to delete this email?</source>
         <translation>Anda yakin ingin menghapus surel ini?</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="155"/>
-        <location filename="../../FolderListView.qml" line="161"/>
+        <location filename="../../FolderListView.qml" line="191"/>
+        <location filename="../../FolderListView.qml" line="197"/>
         <source>-------- Forwarded Message --------</source>
         <translation>-------- Pesan Yang Diteruskan --------</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="164"/>
+        <location filename="../../FolderListView.qml" line="200"/>
         <source>[Fwd: %1]</source>
         <translation>[Fwd: %1]</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="200"/>
+        <location filename="../../FolderListView.qml" line="237"/>
         <source>There are no messages in this folder.</source>
         <translation>Tak ada pesan di folder ini.</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="237"/>
+        <location filename="../../FolderListView.qml" line="274"/>
         <source>Getting more messages</source>
         <translation>Mengambil lebih banyak pesan</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="239"/>
+        <location filename="../../FolderListView.qml" line="276"/>
         <source>Get more messages</source>
         <translation>Ambil lebih banyak pesan</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="463"/>
+        <location filename="../../FolderListView.qml" line="511"/>
         <source>Reply</source>
         <translation>Jawab</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="463"/>
+        <location filename="../../FolderListView.qml" line="511"/>
         <source>Reply to all</source>
         <translation>Jawab ke semua</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="463"/>
+        <location filename="../../FolderListView.qml" line="511"/>
         <source>Forward</source>
         <translation>Teruskan</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="463"/>
+        <location filename="../../FolderListView.qml" line="511"/>
         <source>Delete</source>
         <translation>Hapus</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="464"/>
+        <location filename="../../FolderListView.qml" line="512"/>
         <source>Mark as unread</source>
         <translation>Tandai belum dibaca</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="464"/>
+        <location filename="../../FolderListView.qml" line="512"/>
         <source>Mark as read</source>
         <translation>Tandai telah dibaca</translation>
     </message>
@@ -652,102 +677,102 @@
 <context>
     <name>ManualScreen</name>
     <message>
-        <location filename="../../settings/ManualScreen.qml" line="46"/>
+        <location filename="../../settings/ManualScreen.qml" line="44"/>
         <source>Receiving settings</source>
         <translation>Pengaturan penerimaan</translation>
     </message>
     <message>
-        <location filename="../../settings/ManualScreen.qml" line="47"/>
-        <location filename="../../settings/ManualScreen.qml" line="94"/>
+        <location filename="../../settings/ManualScreen.qml" line="45"/>
+        <location filename="../../settings/ManualScreen.qml" line="92"/>
         <source>You may need to contact your email provider for these settings.</source>
         <translation>Anda mungkin perlu menghubungi penyedia Anda bagi pengaturan ini.</translation>
     </message>
     <message>
-        <location filename="../../settings/ManualScreen.qml" line="51"/>
+        <location filename="../../settings/ManualScreen.qml" line="49"/>
         <source>Server type</source>
         <translation>Jenis server</translation>
     </message>
     <message>
-        <location filename="../../settings/ManualScreen.qml" line="58"/>
-        <location filename="../../settings/ManualScreen.qml" line="99"/>
+        <location filename="../../settings/ManualScreen.qml" line="56"/>
+        <location filename="../../settings/ManualScreen.qml" line="97"/>
         <source>Server address</source>
         <translation>Alamat server</translation>
     </message>
     <message>
-        <location filename="../../settings/ManualScreen.qml" line="65"/>
-        <location filename="../../settings/ManualScreen.qml" line="106"/>
+        <location filename="../../settings/ManualScreen.qml" line="63"/>
+        <location filename="../../settings/ManualScreen.qml" line="104"/>
         <source>Port</source>
         <translation>Port</translation>
     </message>
     <message>
-        <location filename="../../settings/ManualScreen.qml" line="71"/>
-        <location filename="../../settings/ManualScreen.qml" line="119"/>
+        <location filename="../../settings/ManualScreen.qml" line="69"/>
+        <location filename="../../settings/ManualScreen.qml" line="117"/>
         <source>Security</source>
         <translation>Keamanan</translation>
     </message>
     <message>
-        <location filename="../../settings/ManualScreen.qml" line="78"/>
-        <location filename="../../settings/ManualScreen.qml" line="126"/>
+        <location filename="../../settings/ManualScreen.qml" line="76"/>
+        <location filename="../../settings/ManualScreen.qml" line="124"/>
         <source>Username</source>
         <translation>Nama pengguna</translation>
     </message>
     <message>
-        <location filename="../../settings/ManualScreen.qml" line="85"/>
-        <location filename="../../settings/ManualScreen.qml" line="133"/>
+        <location filename="../../settings/ManualScreen.qml" line="83"/>
+        <location filename="../../settings/ManualScreen.qml" line="131"/>
         <source>Password</source>
         <translation>Sandi</translation>
     </message>
     <message>
-        <location filename="../../settings/ManualScreen.qml" line="93"/>
+        <location filename="../../settings/ManualScreen.qml" line="91"/>
         <source>Sending settings</source>
         <translation>Pengaturan pengiriman</translation>
     </message>
     <message>
-        <location filename="../../settings/ManualScreen.qml" line="113"/>
+        <location filename="../../settings/ManualScreen.qml" line="111"/>
         <source>Authentication</source>
         <translation>Otentikasi</translation>
     </message>
     <message>
-        <location filename="../../settings/ManualScreen.qml" line="152"/>
-        <source>Yes</source>
-        <translation>Ya</translation>
-    </message>
-    <message>
-        <location filename="../../settings/ManualScreen.qml" line="153"/>
-        <source>No</source>
-        <translation>Tidak</translation>
-    </message>
-    <message>
-        <location filename="../../settings/ManualScreen.qml" line="154"/>
-        <source>Discard changes</source>
-        <translation>Buang perubahan</translation>
-    </message>
-    <message>
-        <location filename="../../settings/ManualScreen.qml" line="155"/>
-        <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation>Anda telah mengubah pengaturan. Anda yakin ingin membatalkan?</translation>
-    </message>
-    <message>
-        <location filename="../../settings/ManualScreen.qml" line="174"/>
+        <location filename="../../settings/ManualScreen.qml" line="151"/>
         <source>Next</source>
         <translation>Selanjutnya</translation>
     </message>
     <message>
-        <location filename="../../settings/ManualScreen.qml" line="178"/>
-        <location filename="../../settings/ManualScreen.qml" line="184"/>
-        <location filename="../../settings/ManualScreen.qml" line="190"/>
-        <location filename="../../settings/ManualScreen.qml" line="196"/>
-        <location filename="../../settings/ManualScreen.qml" line="203"/>
-        <location filename="../../settings/ManualScreen.qml" line="209"/>
-        <location filename="../../settings/ManualScreen.qml" line="216"/>
-        <location filename="../../settings/ManualScreen.qml" line="222"/>
+        <location filename="../../settings/ManualScreen.qml" line="155"/>
+        <location filename="../../settings/ManualScreen.qml" line="161"/>
+        <location filename="../../settings/ManualScreen.qml" line="167"/>
+        <location filename="../../settings/ManualScreen.qml" line="173"/>
+        <location filename="../../settings/ManualScreen.qml" line="180"/>
+        <location filename="../../settings/ManualScreen.qml" line="186"/>
+        <location filename="../../settings/ManualScreen.qml" line="193"/>
+        <location filename="../../settings/ManualScreen.qml" line="199"/>
         <source>This field is required</source>
         <translation>Ruas ini diperlukan</translation>
     </message>
     <message>
-        <location filename="../../settings/ManualScreen.qml" line="241"/>
+        <location filename="../../settings/ManualScreen.qml" line="218"/>
         <source>Cancel</source>
         <translation>Batal</translation>
+    </message>
+    <message>
+        <location filename="../../settings/ManualScreen.qml" line="229"/>
+        <source>Yes</source>
+        <translation>Ya</translation>
+    </message>
+    <message>
+        <location filename="../../settings/ManualScreen.qml" line="230"/>
+        <source>No</source>
+        <translation>Tidak</translation>
+    </message>
+    <message>
+        <location filename="../../settings/ManualScreen.qml" line="231"/>
+        <source>Discard changes</source>
+        <translation>Buang perubahan</translation>
+    </message>
+    <message>
+        <location filename="../../settings/ManualScreen.qml" line="232"/>
+        <source>You have made changes to your settings, are you sure you want to cancel?</source>
+        <translation>Anda telah mengubah pengaturan. Anda yakin ingin membatalkan?</translation>
     </message>
 </context>
 <context>
@@ -814,32 +839,32 @@
         <translation>%1 disimpan</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="57"/>
+        <location filename="../../ReadingView.qml" line="80"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="58"/>
+        <location filename="../../ReadingView.qml" line="81"/>
         <source>Warning</source>
         <translation>Peringatan</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="63"/>
+        <location filename="../../ReadingView.qml" line="86"/>
         <source>File format is not supported.</source>
         <translation>Format berkas tak didukung.</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="140"/>
+        <location filename="../../ReadingView.qml" line="158"/>
         <source>From:</source>
         <translation>Dari:</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="174"/>
+        <location filename="../../ReadingView.qml" line="192"/>
         <source>To:</source>
         <translation>Kepada:</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="207"/>
+        <location filename="../../ReadingView.qml" line="226"/>
         <source>Subject:</source>
         <translation>Judul:</translation>
     </message>
@@ -872,13 +897,13 @@
         <translation>Pada %1 %2 menulis:</translation>
     </message>
     <message>
-        <location filename="../../ReadingViewToolbar.qml" line="202"/>
-        <location filename="../../ReadingViewToolbar.qml" line="207"/>
+        <location filename="../../ReadingViewToolbar.qml" line="203"/>
+        <location filename="../../ReadingViewToolbar.qml" line="208"/>
         <source>-------- Forwarded Message --------</source>
         <translation>-------- Pesan Yang Diteruskan --------</translation>
     </message>
     <message>
-        <location filename="../../ReadingViewToolbar.qml" line="211"/>
+        <location filename="../../ReadingViewToolbar.qml" line="212"/>
         <source>[Fwd: %1]</source>
         <translation>[Fwd: %1]</translation>
     </message>
@@ -886,101 +911,100 @@
 <context>
     <name>RegisterScreen</name>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="37"/>
+        <location filename="../../settings/RegisterScreen.qml" line="34"/>
         <source>Account description:</source>
         <translation>Keterangan akun:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="46"/>
+        <location filename="../../settings/RegisterScreen.qml" line="43"/>
         <source>Your name:</source>
         <translation>Nama Anda:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="54"/>
+        <location filename="../../settings/RegisterScreen.qml" line="52"/>
         <source>Email address:</source>
         <translation>Alamat surel:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="63"/>
+        <location filename="../../settings/RegisterScreen.qml" line="61"/>
         <source>Password:</source>
         <translation>Sandi:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="81"/>
-        <source>Yes</source>
-        <translation>Ya</translation>
-    </message>
-    <message>
-        <location filename="../../settings/RegisterScreen.qml" line="82"/>
-        <source>No</source>
-        <translation>Tidak</translation>
-    </message>
-    <message>
-        <location filename="../../settings/RegisterScreen.qml" line="83"/>
-        <source>Discard changes</source>
-        <translation>Buang perubahan</translation>
-    </message>
-    <message>
-        <location filename="../../settings/RegisterScreen.qml" line="84"/>
-        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation>Anda telah mengubah pengaturan. Anda yakin ingin membatalkan?</translation>
-    </message>
-    <message>
-        <location filename="../../settings/RegisterScreen.qml" line="108"/>
+        <location filename="../../settings/RegisterScreen.qml" line="74"/>
         <source>Next</source>
         <translation>Selanjutnya</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="112"/>
-        <location filename="../../settings/RegisterScreen.qml" line="118"/>
-        <location filename="../../settings/RegisterScreen.qml" line="124"/>
+        <location filename="../../settings/RegisterScreen.qml" line="78"/>
+        <location filename="../../settings/RegisterScreen.qml" line="84"/>
+        <location filename="../../settings/RegisterScreen.qml" line="90"/>
         <source>This field is required</source>
         <translation>Ruas ini diperlukan</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="135"/>
-        <source>Same account is already registered</source>
-        <translation>Akun yang sama telah terdaftar</translation>
+        <location filename="../../settings/RegisterScreen.qml" line="118"/>
+        <source>Yahoo!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="151"/>
+        <location filename="../../settings/RegisterScreen.qml" line="123"/>
+        <source>AOL</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../settings/RegisterScreen.qml" line="131"/>
         <source>Please fill in account details:</source>
         <translation>Silakan lengkapi rincian akun:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="162"/>
+        <location filename="../../settings/RegisterScreen.qml" line="137"/>
         <source>Cancel</source>
         <translation>Batal</translation>
+    </message>
+    <message>
+        <location filename="../../settings/RegisterScreen.qml" line="152"/>
+        <source>Yes</source>
+        <translation>Ya</translation>
+    </message>
+    <message>
+        <location filename="../../settings/RegisterScreen.qml" line="153"/>
+        <source>No</source>
+        <translation>Tidak</translation>
+    </message>
+    <message>
+        <location filename="../../settings/RegisterScreen.qml" line="154"/>
+        <source>Discard changes</source>
+        <translation>Buang perubahan</translation>
+    </message>
+    <message>
+        <location filename="../../settings/RegisterScreen.qml" line="155"/>
+        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
+        <translation>Anda telah mengubah pengaturan. Anda yakin ingin membatalkan?</translation>
     </message>
 </context>
 <context>
     <name>WelcomeButtons</name>
     <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="19"/>
-        <location filename="../../settings/WelcomeButtons.qml" line="24"/>
-        <source>AOL</source>
-        <translation>AOL</translation>
-    </message>
-    <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="30"/>
-        <location filename="../../settings/WelcomeButtons.qml" line="35"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="33"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="38"/>
         <source>Gmail</source>
         <translation>Gmail</translation>
     </message>
     <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="41"/>
-        <location filename="../../settings/WelcomeButtons.qml" line="46"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="44"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="49"/>
         <source>Microsoft Live Hotmail</source>
         <translation>Microsoft Live Hotmail</translation>
     </message>
     <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="65"/>
-        <location filename="../../settings/WelcomeButtons.qml" line="70"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="68"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="73"/>
         <source>Yahoo!</source>
         <translation>Yahoo!</translation>
     </message>
     <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="76"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="79"/>
         <source>Other</source>
         <translation>Lainnya</translation>
     </message>
@@ -988,12 +1012,12 @@
 <context>
     <name>WelcomeScreen</name>
     <message>
-        <location filename="../../settings/WelcomeScreen.qml" line="41"/>
+        <location filename="../../settings/WelcomeScreen.qml" line="29"/>
         <source>Welcome to your email.</source>
         <translation>Selamat datang ke surel Anda.</translation>
     </message>
     <message>
-        <location filename="../../settings/WelcomeScreen.qml" line="47"/>
+        <location filename="../../settings/WelcomeScreen.qml" line="35"/>
         <source>Set up your accounts</source>
         <translation>Siapkan akun Anda</translation>
     </message>
@@ -1063,44 +1087,43 @@
         <translation>kunci</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="185"/>
-        <location filename="../../main.qml" line="192"/>
-        <location filename="../../main.qml" line="524"/>
+        <location filename="../../main.qml" line="260"/>
+        <location filename="../../main.qml" line="665"/>
         <source>Account switcher</source>
         <translation>Penukar akun</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="215"/>
+        <location filename="../../main.qml" line="289"/>
         <source>On %1 %2 wrote:</source>
         <translation>Pada %1 %2 menulis:</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="393"/>
+        <location filename="../../main.qml" line="516"/>
         <source>-------- Forwarded Message --------</source>
         <translation>-------- Pesan Yang Diteruskan --------</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="394"/>
+        <location filename="../../main.qml" line="517"/>
         <source>[Fwd: %1]</source>
         <translation>[Fwd: %1]</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="519"/>
+        <location filename="../../main.qml" line="658"/>
         <source>Account list</source>
         <translation>Daftar akun</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="576"/>
+        <location filename="../../main.qml" line="740"/>
         <source>Composer</source>
         <translation>Pengarang</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="626"/>
+        <location filename="../../main.qml" line="803"/>
         <source>Mark as unread</source>
         <translation>Tandai belum dibaca</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="626"/>
+        <location filename="../../main.qml" line="803"/>
         <source>Mark as read</source>
         <translation>Tandai telah dibaca</translation>
     </message>

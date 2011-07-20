@@ -2,86 +2,86 @@
 <context>
     <name>webpanel</name>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="48"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="181"/>
-        <source>Recently visited</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="49"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="279"/>
-        <source>Bookmarks</source>
-        <translation type="unfinished"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="182"/>
+        <source>Recently visited</source>
+        <translation>Nemrég meglátogatott</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="109"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="50"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="280"/>
+        <source>Bookmarks</source>
+        <translation>Könyvjelzők</translation>
+    </message>
+    <message>
+        <location filename="../../panelsrc/web/webpanel.qml" line="110"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="116"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="118"/>
         <source>Web</source>
         <comment>PanelTitle</comment>
         <extracomment>%1 is &quot;Web&quot; panel title
 ----------
 %1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="116"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 beállítás</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="118"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 paneltartalom</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="152"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="205"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="121"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="153"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="206"/>
         <source>Visit a website</source>
-        <translation type="unfinished"/>
+        <translation>Webhely meglátogatása</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="121"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Előzmények törlése</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="146"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="147"/>
         <source>The latest websites you visit and your bookmarks will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Itt fognak megjelenni a legutóbb meglátogatott webhelyek és a könyvjelzők.</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="201"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="202"/>
         <source>No recently visited websites.</source>
-        <translation type="unfinished"/>
+        <translation>Nincsenek nemrég meglátogatott webhelyek.</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="219"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="220"/>
         <source>You have cleared the Web history</source>
-        <translation type="unfinished"/>
+        <translation>Törölte a Web előzményeit</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="233"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="236"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="290"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="292"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="234"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="237"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="291"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="293"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Megtekintés</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="233"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="240"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="234"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="241"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Elrejtés</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="290"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="296"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="291"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="297"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Törlés</translation>
     </message>
 </context>
 </TS>

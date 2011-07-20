@@ -9,20 +9,20 @@
     <message>
         <location filename="../NoSpaceDialog.qml" line="16"/>
         <source>Open Photos</source>
-        <translation type="unfinished"/>
+        <translation>Öppna foton</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="22"/>
         <source>There is no storage space left on the device. To take more photos or video, you may want to delete some existing content.</source>
-        <translation>Inget lagringsutrymme kvar på enheten. Innan du kan ta fler bilder eller video måste du ta bort visst befintligt innehåll.</translation>
+        <translation>Inget lagringsutrymme kvar på enheten. Innan du kan ta fler foton eller video måste du ta bort något befintligt innehåll.</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../plugin/viewfinder.cpp" line="886"/>
+        <location filename="../plugin/viewfinder.cpp" line="891"/>
         <source>%1:%2:%3</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2:%3</translation>
     </message>
 </context>
 </TS>

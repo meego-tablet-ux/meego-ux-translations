@@ -2,6 +2,18 @@
 <context>
     <name>calculator</name>
     <message>
+        <location filename="../../calculator.js" line="47"/>
+        <location filename="../../calculator.js" line="188"/>
+        <source>C</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../calculator.js" line="47"/>
+        <location filename="../../calculator.js" line="190"/>
+        <source>AC</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../../calculator.js" line="59"/>
         <source>Infinity</source>
         <extracomment>Calculator error reporting positive infinity result (positive overflow) See http://www.w3schools.com/jsref/jsref_infinity.asp</extracomment>
@@ -37,16 +49,6 @@
     <message>
         <location filename="../../calculator.js" line="186"/>
         <source>m-</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../calculator.js" line="188"/>
-        <source>C</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../calculator.js" line="190"/>
-        <source>AC</source>
         <translation type="unfinished"/>
     </message>
 </context>

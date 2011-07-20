@@ -20,7 +20,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../plugin/viewfinder.cpp" line="886"/>
+        <location filename="../plugin/viewfinder.cpp" line="891"/>
         <source>%1:%2:%3</source>
         <translation type="unfinished"/>
     </message>

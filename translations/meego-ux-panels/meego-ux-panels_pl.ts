@@ -54,17 +54,17 @@
         <translation>Ustawienia sieci bezprzewodowych</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="229"/>
         <source>Airplane Mode is ON</source>
         <translation>Tryb samolotowy jest włączony</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="251"/>
         <source>To connect WiFi turn off Airplane Mode</source>
         <translation>Aby podłączyć do sieci bezprzewodowej wyłącz tryb samolotowy</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="268"/>
         <source>Turn off Airplane Mode</source>
         <translation>Wyłącz tryb samolotowy</translation>
     </message>

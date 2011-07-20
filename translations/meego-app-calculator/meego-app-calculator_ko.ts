@@ -2,22 +2,34 @@
 <context>
     <name>calculator</name>
     <message>
+        <location filename="../../calculator.js" line="47"/>
+        <location filename="../../calculator.js" line="188"/>
+        <source>C</source>
+        <translation>C</translation>
+    </message>
+    <message>
+        <location filename="../../calculator.js" line="47"/>
+        <location filename="../../calculator.js" line="190"/>
+        <source>AC</source>
+        <translation>AC</translation>
+    </message>
+    <message>
         <location filename="../../calculator.js" line="59"/>
         <source>Infinity</source>
         <extracomment>Calculator error reporting positive infinity result (positive overflow) See http://www.w3schools.com/jsref/jsref_infinity.asp</extracomment>
-        <translation type="unfinished"/>
+        <translation>∞</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="62"/>
         <source>-Infinity</source>
         <extracomment>Calculator error reporting negative infinity result (negative overflow)</extracomment>
-        <translation type="unfinished"/>
+        <translation>-∞</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="65"/>
         <source>Error</source>
         <extracomment>Calculator error for illegal calculation (e.g. square root of negative number)</extracomment>
-        <translation type="unfinished"/>
+        <translation>오류</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="180"/>
@@ -38,16 +50,6 @@
         <location filename="../../calculator.js" line="186"/>
         <source>m-</source>
         <translation>M-</translation>
-    </message>
-    <message>
-        <location filename="../../calculator.js" line="188"/>
-        <source>C</source>
-        <translation>C</translation>
-    </message>
-    <message>
-        <location filename="../../calculator.js" line="190"/>
-        <source>AC</source>
-        <translation>AC</translation>
     </message>
 </context>
 <context>

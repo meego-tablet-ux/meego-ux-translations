@@ -2,93 +2,93 @@
 <context>
     <name>CollectionsPicker</name>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="68"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="80"/>
         <source>Choose an album to upload to</source>
-        <translation type="unfinished"/>
+        <translation>Vælg det album, der skal overføres til</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="171"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="183"/>
         <source>Add a new album</source>
-        <translation type="unfinished"/>
+        <translation>Tilføj et nyt album</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="193"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="205"/>
         <source>Add a title</source>
-        <translation type="unfinished"/>
+        <translation>Tilføj en titel</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="212"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="224"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuller</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="311"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="323"/>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="313"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="325"/>
         <source>Photo</source>
-        <translation type="unfinished"/>
+        <translation>Foto</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="315"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="327"/>
         <source>Music</source>
-        <translation type="unfinished"/>
+        <translation>Musik</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="317"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="329"/>
         <source>Upload %1 to %2</source>
-        <translation type="unfinished"/>
+        <translation>Overfør %1 til %2</translation>
     </message>
 </context>
 <context>
     <name>CreateCollection</name>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="64"/>
+        <location filename="../../qml/CreateCollection.qml" line="76"/>
         <source>Choose a name for your new album</source>
-        <translation type="unfinished"/>
+        <translation>Vælg et navn til dit nye album</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="109"/>
+        <location filename="../../qml/CreateCollection.qml" line="121"/>
         <source>Album name</source>
-        <translation type="unfinished"/>
+        <translation>Albumnavn</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="138"/>
+        <location filename="../../qml/CreateCollection.qml" line="150"/>
         <source>Create album</source>
-        <translation type="unfinished"/>
+        <translation>Opret album</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="148"/>
-        <location filename="../../qml/CreateCollection.qml" line="235"/>
-        <source>Collection creation: General error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../qml/CreateCollection.qml" line="155"/>
-        <source>Cancel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../qml/CreateCollection.qml" line="243"/>
-        <source>Video</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../qml/CreateCollection.qml" line="245"/>
-        <source>Photo</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
+        <location filename="../../qml/CreateCollection.qml" line="160"/>
         <location filename="../../qml/CreateCollection.qml" line="247"/>
-        <source>Music</source>
-        <translation type="unfinished"/>
+        <source>Collection creation: General error</source>
+        <translation>Oprettelse af samling: Generel fejl</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="249"/>
+        <location filename="../../qml/CreateCollection.qml" line="167"/>
+        <source>Cancel</source>
+        <translation>Annuller</translation>
+    </message>
+    <message>
+        <location filename="../../qml/CreateCollection.qml" line="255"/>
+        <source>Video</source>
+        <translation>Video</translation>
+    </message>
+    <message>
+        <location filename="../../qml/CreateCollection.qml" line="257"/>
+        <source>Photo</source>
+        <translation>Foto</translation>
+    </message>
+    <message>
+        <location filename="../../qml/CreateCollection.qml" line="259"/>
+        <source>Music</source>
+        <translation>Musik</translation>
+    </message>
+    <message>
+        <location filename="../../qml/CreateCollection.qml" line="261"/>
         <source>Upload %1 to %2</source>
-        <translation type="unfinished"/>
+        <translation>Overfør %1 til %2</translation>
     </message>
 </context>
 <context>
@@ -96,52 +96,52 @@
     <message>
         <location filename="../../qml/MediaUploader.qml" line="32"/>
         <source>No album</source>
-        <translation type="unfinished"/>
+        <translation>Intet album</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="220"/>
+        <location filename="../../qml/MediaUploader.qml" line="234"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuller</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="251"/>
+        <location filename="../../qml/MediaUploader.qml" line="265"/>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="253"/>
+        <location filename="../../qml/MediaUploader.qml" line="267"/>
         <source>Photo</source>
-        <translation type="unfinished"/>
+        <translation>Foto</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="255"/>
+        <location filename="../../qml/MediaUploader.qml" line="269"/>
         <source>Music</source>
-        <translation type="unfinished"/>
+        <translation>Musik</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="257"/>
+        <location filename="../../qml/MediaUploader.qml" line="271"/>
         <source>Upload %1 to %2</source>
-        <translation type="unfinished"/>
+        <translation>Overfør %1 til %2</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="275"/>
+        <location filename="../../qml/MediaUploader.qml" line="289"/>
         <source>File %1 of %2</source>
-        <translation type="unfinished"/>
+        <translation>Fil %1 af %2</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="295"/>
+        <location filename="../../qml/MediaUploader.qml" line="309"/>
         <source>&lt;b&gt;Album:&lt;/b&gt; %1</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Album:&lt;/b&gt; %1</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="300"/>
+        <location filename="../../qml/MediaUploader.qml" line="314"/>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Overfør</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="302"/>
+        <location filename="../../qml/MediaUploader.qml" line="316"/>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>Næste</translation>
     </message>
 </context>
 <context>
@@ -149,7 +149,7 @@
     <message>
         <location filename="../../qml/facebook_image_multi.qml" line="18"/>
         <source>Photo name</source>
-        <translation type="unfinished"/>
+        <translation>Fotonavn</translation>
     </message>
 </context>
 <context>
@@ -157,7 +157,7 @@
     <message>
         <location filename="../../qml/facebook_image_single.qml" line="18"/>
         <source>Photo name</source>
-        <translation type="unfinished"/>
+        <translation>Fotonavn</translation>
     </message>
 </context>
 <context>
@@ -165,7 +165,7 @@
     <message>
         <location filename="../../qml/facebook_video_multi.qml" line="17"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>Videonavn</translation>
     </message>
 </context>
 <context>
@@ -173,7 +173,7 @@
     <message>
         <location filename="../../qml/facebook_video_single.qml" line="17"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>Videonavn</translation>
     </message>
 </context>
 <context>
@@ -181,37 +181,37 @@
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="18"/>
         <source>Photo name</source>
-        <translation type="unfinished"/>
+        <translation>Fotonavn</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="21"/>
         <source>Photo description</source>
-        <translation type="unfinished"/>
+        <translation>Beskrivelse af foto</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="24"/>
         <source>Photo tags</source>
-        <translation type="unfinished"/>
+        <translation>Fotomærker</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation type="unfinished"/>
+        <translation>Kun dig (privat)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="87"/>
         <source>Your friends</source>
-        <translation type="unfinished"/>
+        <translation>Dine venner</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="119"/>
         <source>Your family</source>
-        <translation type="unfinished"/>
+        <translation>Din familie</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_multi.qml" line="153"/>
         <source>Anyone (public)</source>
-        <translation type="unfinished"/>
+        <translation>Alle (offentlig)</translation>
     </message>
 </context>
 <context>
@@ -219,37 +219,37 @@
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="18"/>
         <source>Photo name</source>
-        <translation type="unfinished"/>
+        <translation>Fotonavn</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="21"/>
         <source>Photo description</source>
-        <translation type="unfinished"/>
+        <translation>Beskrivelse af foto</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="24"/>
         <source>Photo tags</source>
-        <translation type="unfinished"/>
+        <translation>Fotomærker</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation type="unfinished"/>
+        <translation>Kun dig (privat)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="87"/>
         <source>Your friends</source>
-        <translation type="unfinished"/>
+        <translation>Dine venner</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="119"/>
         <source>Your family</source>
-        <translation type="unfinished"/>
+        <translation>Din familie</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_image_single.qml" line="153"/>
         <source>Anyone (public)</source>
-        <translation type="unfinished"/>
+        <translation>Alle (offentlig)</translation>
     </message>
 </context>
 <context>
@@ -257,37 +257,37 @@
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="18"/>
         <source>Photo name</source>
-        <translation type="unfinished"/>
+        <translation>Fotonavn</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="21"/>
         <source>Photo description</source>
-        <translation type="unfinished"/>
+        <translation>Beskrivelse af foto</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="24"/>
         <source>Photo tags</source>
-        <translation type="unfinished"/>
+        <translation>Fotomærker</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation type="unfinished"/>
+        <translation>Kun dig (privat)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="87"/>
         <source>Your friends</source>
-        <translation type="unfinished"/>
+        <translation>Dine venner</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="119"/>
         <source>Your family</source>
-        <translation type="unfinished"/>
+        <translation>Din familie</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_multi.qml" line="153"/>
         <source>Anyone (public)</source>
-        <translation type="unfinished"/>
+        <translation>Alle (offentlig)</translation>
     </message>
 </context>
 <context>
@@ -295,37 +295,37 @@
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="18"/>
         <source>Photo name</source>
-        <translation type="unfinished"/>
+        <translation>Fotonavn</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="21"/>
         <source>Photo description</source>
-        <translation type="unfinished"/>
+        <translation>Beskrivelse af foto</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="24"/>
         <source>Photo tags</source>
-        <translation type="unfinished"/>
+        <translation>Fotomærker</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="57"/>
         <source>Only you (private)</source>
-        <translation type="unfinished"/>
+        <translation>Kun dig (privat)</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="87"/>
         <source>Your friends</source>
-        <translation type="unfinished"/>
+        <translation>Dine venner</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="119"/>
         <source>Your family</source>
-        <translation type="unfinished"/>
+        <translation>Din familie</translation>
     </message>
     <message>
         <location filename="../../qml/flickr_video_single.qml" line="153"/>
         <source>Anyone (public)</source>
-        <translation type="unfinished"/>
+        <translation>Alle (offentlig)</translation>
     </message>
 </context>
 <context>
@@ -333,12 +333,12 @@
     <message>
         <location filename="../../qml/photobucket_image_multi.qml" line="18"/>
         <source>Photo name</source>
-        <translation type="unfinished"/>
+        <translation>Fotonavn</translation>
     </message>
     <message>
         <location filename="../../qml/photobucket_image_multi.qml" line="21"/>
         <source>Photo description</source>
-        <translation type="unfinished"/>
+        <translation>Beskrivelse af foto</translation>
     </message>
 </context>
 <context>
@@ -346,12 +346,12 @@
     <message>
         <location filename="../../qml/photobucket_image_single.qml" line="18"/>
         <source>Photo name</source>
-        <translation type="unfinished"/>
+        <translation>Fotonavn</translation>
     </message>
     <message>
         <location filename="../../qml/photobucket_image_single.qml" line="21"/>
         <source>Photo description</source>
-        <translation type="unfinished"/>
+        <translation>Beskrivelse af foto</translation>
     </message>
 </context>
 <context>
@@ -359,12 +359,12 @@
     <message>
         <location filename="../../qml/smugmug_image_multi.qml" line="18"/>
         <source>Photo name</source>
-        <translation type="unfinished"/>
+        <translation>Fotonavn</translation>
     </message>
     <message>
         <location filename="../../qml/smugmug_image_multi.qml" line="21"/>
         <source>Photo tags</source>
-        <translation type="unfinished"/>
+        <translation>Fotomærker</translation>
     </message>
 </context>
 <context>
@@ -372,12 +372,12 @@
     <message>
         <location filename="../../qml/smugmug_image_single.qml" line="18"/>
         <source>Photo name</source>
-        <translation type="unfinished"/>
+        <translation>Fotonavn</translation>
     </message>
     <message>
         <location filename="../../qml/smugmug_image_single.qml" line="21"/>
         <source>Photo tags</source>
-        <translation type="unfinished"/>
+        <translation>Fotomærker</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../../qml/twitter_image_multi.qml" line="17"/>
         <source>Photo name</source>
-        <translation type="unfinished"/>
+        <translation>Fotonavn</translation>
     </message>
 </context>
 <context>
@@ -393,7 +393,7 @@
     <message>
         <location filename="../../qml/twitter_image_single.qml" line="17"/>
         <source>Photo name</source>
-        <translation type="unfinished"/>
+        <translation>Fotonavn</translation>
     </message>
 </context>
 <context>
@@ -401,12 +401,12 @@
     <message>
         <location filename="../../qml/vimeo_video_multi.qml" line="20"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>Videonavn</translation>
     </message>
     <message>
         <location filename="../../qml/vimeo_video_multi.qml" line="23"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>Beskrivelse af video</translation>
     </message>
 </context>
 <context>
@@ -414,12 +414,12 @@
     <message>
         <location filename="../../qml/vimeo_video_single.qml" line="20"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>Videonavn</translation>
     </message>
     <message>
         <location filename="../../qml/vimeo_video_single.qml" line="23"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>Beskrivelse af video</translation>
     </message>
 </context>
 <context>
@@ -427,17 +427,17 @@
     <message>
         <location filename="../../qml/youtube_video_multi.qml" line="17"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>Videonavn</translation>
     </message>
     <message>
         <location filename="../../qml/youtube_video_multi.qml" line="20"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>Beskrivelse af video</translation>
     </message>
     <message>
         <location filename="../../qml/youtube_video_multi.qml" line="23"/>
         <source>Video tags</source>
-        <translation type="unfinished"/>
+        <translation>Videomærker</translation>
     </message>
 </context>
 <context>
@@ -445,17 +445,17 @@
     <message>
         <location filename="../../qml/youtube_video_single.qml" line="17"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>Videonavn</translation>
     </message>
     <message>
         <location filename="../../qml/youtube_video_single.qml" line="20"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>Beskrivelse af video</translation>
     </message>
     <message>
         <location filename="../../qml/youtube_video_single.qml" line="23"/>
         <source>Video tags</source>
-        <translation type="unfinished"/>
+        <translation>Videomærker</translation>
     </message>
 </context>
 </TS>

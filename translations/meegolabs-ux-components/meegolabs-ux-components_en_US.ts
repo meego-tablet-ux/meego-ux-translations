@@ -7,37 +7,42 @@
         <translation>Pick a contact:</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="76"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="179"/>
         <source>You have no contacts with an email address</source>
         <translation>You have no contacts with an email address.</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="79"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="182"/>
         <source>You have no contacts with a phone number</source>
         <translation>You have no contacts with a phone number.</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="82"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="185"/>
         <source>You have no contacts with an instant messaging account</source>
         <translation>You have no contacts with an instant messaging account.</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="85"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="188"/>
         <source>You have no contacts</source>
         <translation>You have no contacts.</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="278"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="230"/>
+        <source>Type to search</source>
+        <translation>Type to search</translation>
+    </message>
+    <message>
+        <location filename="../../src/components/ContactsPicker.qml" line="397"/>
         <source>Idle</source>
         <translation>Idle</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="280"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="399"/>
         <source>Available</source>
         <translation>Available</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="282"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="401"/>
         <source>Busy</source>
         <translation>Busy</translation>
     </message>
@@ -68,7 +73,7 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="47"/>
         <source>%n min(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation><numerusform>%n min(s) ago</numerusform><numerusform>%n min(s) ago</numerusform></translation>
+        <translation><numerusform>%n min ago</numerusform><numerusform>%n mins ago</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/kernel/relativetimestamp.cpp" line="50"/>
@@ -92,7 +97,7 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="59"/>
         <source>%n hours ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation><numerusform>%n hours ago</numerusform><numerusform>%n hours ago</numerusform></translation>
+        <translation><numerusform>%n hour ago</numerusform><numerusform>%n hours ago</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/kernel/relativetimestamp.cpp" line="64"/>
@@ -128,7 +133,7 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="84"/>
         <source>%n week(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation><numerusform>%n week(s) ago</numerusform><numerusform>%n week(s) ago</numerusform></translation>
+        <translation><numerusform>%n week ago</numerusform><numerusform>%n weeks ago</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/kernel/relativetimestamp.cpp" line="87"/>
@@ -146,7 +151,7 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="97"/>
         <source>%n month(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation><numerusform>%n month(s) ago</numerusform><numerusform>%n month(s) ago</numerusform></translation>
+        <translation><numerusform>%n month ago</numerusform><numerusform>%n months ago</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/kernel/relativetimestamp.cpp" line="100"/>
@@ -158,7 +163,7 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="104"/>
         <source>%n year(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation><numerusform>%n year(s) ago</numerusform><numerusform>%n year(s) ago</numerusform></translation>
+        <translation><numerusform>%n year ago</numerusform><numerusform>%n years ago</numerusform></translation>
     </message>
 </context>
 <context>
@@ -212,7 +217,7 @@
         <location filename="../../lib/locale/meegolocale.cpp" line="501"/>
         <source>dddd, d MMMM yyyy</source>
         <extracomment>long date where user chose DMY order (e.g. Monday, 31 January 2011) Translate the format delimiters, not order (except you can move dddd here) dddd = full day of week, MMMM = full month, d = day of month, yyyy = year (QDateTime format string) See http://doc.qt.nokia.com/4.7/qdatetime.html#toString</extracomment>
-        <translation>dddd, MMMM d yyyy</translation>
+        <translation>dddd, d MMMM yyyy</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="506"/>
@@ -341,96 +346,117 @@
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="622"/>
+        <source>dddd d</source>
+        <comment>DMY</comment>
+        <extracomment>weekday and day where user chose DMY order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
+        <translation>dddd d</translation>
+    </message>
+    <message>
+        <location filename="../../lib/locale/meegolocale.cpp" line="627"/>
+        <source>dddd d</source>
+        <comment>YMD</comment>
+        <extracomment>weekday and day where user chose YMD order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
+        <translation>dddd d</translation>
+    </message>
+    <message>
+        <location filename="../../lib/locale/meegolocale.cpp" line="631"/>
+        <source>dddd d</source>
+        <comment>MDY</comment>
+        <extracomment>weekday and day where user chose MDY order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
+        <translation>dddd d</translation>
+    </message>
+    <message>
+        <location filename="../../lib/locale/meegolocale.cpp" line="642"/>
         <source>d MMMM</source>
         <extracomment>month and day where user chose DMY order (e.g. 31 January) Translate the format delimiters, not order MMMM = full month, d = day of month (QDateTime format string)</extracomment>
         <translation>d MMMM</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="627"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="647"/>
         <source>MMMM d</source>
         <comment>YMD</comment>
         <extracomment>month and day where user chose YMD order (e.g. January 31) Translate the format delimiters, not order MMMM = full month, d = day of month (QDateTime format string)</extracomment>
         <translation>MMMM d</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="631"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="651"/>
         <source>MMMM d</source>
         <comment>MDY</comment>
         <extracomment>month and day where user chose MDY order (e.g. January 31) Translate the format delimiters, not order MMMM = full month, d = day of month (QDateTime format string)</extracomment>
         <translation>MMMM d</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="641"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="661"/>
         <source>MMMM yyyy</source>
         <comment>DMY</comment>
         <extracomment>month and year where user chose DMY order (e.g. January 2011) Translate the format delimiters, not order MMMM = full month, yyyy = full year (QDateTime format string)</extracomment>
         <translation>MMMM yyyy</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="646"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="666"/>
         <source>yyyy MMMM</source>
         <extracomment>month and year where user chose YMD order (e.g. 2011 January) Translate the format delimiters, not order MMMM = full month, yyyy = full year (QDateTime format string)</extracomment>
         <translation>yyyy MMMM</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="650"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="670"/>
         <source>MMMM yyyy</source>
         <comment>MDY</comment>
         <extracomment>month and year where user chose MDY order (e.g. January 2011) Translate the format delimiters, not order MMMM = full month, yyyy = full year (QDateTime format string)</extracomment>
         <translation>MMMM yyyy</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="660"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="680"/>
         <source>MMM yyyy</source>
         <comment>DMY</comment>
         <extracomment>short month and year where user chose DMY order (e.g. Jan 2011) Translate the format delimiters, not order MMM = short month, yyyy = full year (QDateTime format string)</extracomment>
         <translation>MMM yyyy</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="665"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="685"/>
         <source>yyyy MMM</source>
         <extracomment>short month and year where user chose YMD order (e.g. 2011 Jan) Translate the format delimiters, not order MMM = short month, yyyy = full year (QDateTime format string)</extracomment>
         <translation>yyyy MMM</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="669"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="689"/>
         <source>MMM yyyy</source>
         <comment>MDY</comment>
         <extracomment>short month and year where user chose MDY order (e.g. Jan 2011) Translate the format delimiters, not order MMM = short month, yyyy = full year (QDateTime format string)</extracomment>
         <translation>MMM yyyy</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="675"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="695"/>
         <source>d</source>
         <extracomment>day of month (e.g. 31, no leading zero) You probably won't translate this d = day of month (QDateTime format string)</extracomment>
         <translation>d</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="681"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="701"/>
         <source>dddd</source>
         <extracomment>full day of week (e.g. Monday) You probably won't translate this dddd = full day of week (QDateTime format string)</extracomment>
         <translation>dddd</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="687"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="707"/>
         <source>ddd</source>
         <extracomment>short day of week (e.g. Mon) You probably won't translate this ddd = short day of week (QDateTime format string)</extracomment>
         <translation>ddd</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="693"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="713"/>
         <source>MMMM</source>
         <extracomment>full month (e.g. January) You probably won't translate this MMMM = full month (QDateTime format string)</extracomment>
         <translation>MMMM</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="699"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="719"/>
         <source>MMM</source>
         <extracomment>short month (e.g. Jan) You probably won't translate this MMM = short month (QDateTime format string)</extracomment>
         <translation>MMM</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="705"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="725"/>
         <source>yyyy</source>
         <extracomment>full year (e.g. 2011) You probably won't translate this yyyy = full year (QDateTime format string)</extracomment>
         <translation>yyyy</translation>

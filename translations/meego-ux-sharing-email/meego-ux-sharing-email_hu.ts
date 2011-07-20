@@ -4,17 +4,17 @@
     <message>
         <location filename="../../emailsharingservice.cpp" line="49"/>
         <source>MeeGo Email</source>
-        <translation type="unfinished"/>
+        <translation>MeeGo e-mail</translation>
     </message>
     <message>
         <location filename="../../emailsharingservice.cpp" line="64"/>
         <source>Sharing via Email</source>
-        <translation type="unfinished"/>
+        <translation>Megosztás e-mailben</translation>
     </message>
     <message>
         <location filename="../../emailsharingservice.cpp" line="79"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>E-mail</translation>
     </message>
 </context>
 </TS>

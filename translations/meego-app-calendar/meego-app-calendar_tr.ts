@@ -22,12 +22,12 @@
         <translation>Tarihe git</translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="340"/>
+        <location filename="../../CalendarDayView.qml" line="358"/>
         <source>All day</source>
         <translation>Tüm gün</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../CalendarDayView.qml" line="416"/>
+        <location filename="../../CalendarDayView.qml" line="436"/>
         <source>%n more event(s) exist</source>
         <extracomment>%n corresponds to Events count</extracomment>
         <translation><numerusform>Biri: %n daha fazla olay(lar) var
@@ -35,10 +35,11 @@
 Diğer: %n daha fazla olay(lar) var</numerusform></translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="572"/>
+        <location filename="../../CalendarDayView.qml" line="619"/>
         <source>%1 - %2</source>
+        <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation>%1 - %2</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -58,17 +59,17 @@ Diğer:  %n sonuç(lar) bulundu</numerusform></translation>
         <translation>%1 sonuç bulundu</translation>
     </message>
     <message>
-        <location filename="../../CalendarListView.qml" line="147"/>
+        <location filename="../../CalendarListView.qml" line="146"/>
         <source>All day</source>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
         <translation>Tüm gün</translation>
     </message>
     <message>
-        <location filename="../../CalendarListView.qml" line="147"/>
+        <location filename="../../CalendarListView.qml" line="146"/>
         <source>%1 - %2</source>
-        <comment>StartTime - EndTime</comment>
+        <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation>%1 - %2</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -110,17 +111,17 @@ Diğer: %n daha fazla olay(lar)</numerusform></translation>
         <translation>Tarihe git</translation>
     </message>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="541"/>
+        <location filename="../../CalendarMonthView.qml" line="557"/>
         <source>All day</source>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
         <translation>Tüm gün</translation>
     </message>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="541"/>
+        <location filename="../../CalendarMonthView.qml" line="557"/>
         <source>%1 - %2</source>
-        <comment>StartTime - EndTime</comment>
+        <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation>%1 - %2</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -146,32 +147,33 @@ Diğer: %n daha fazla olay(lar)</numerusform></translation>
         <translation>Tarihe git</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="56"/>
-        <location filename="../../CalendarWeekView.qml" line="73"/>
-        <location filename="../../CalendarWeekView.qml" line="113"/>
-        <location filename="../../CalendarWeekView.qml" line="516"/>
+        <location filename="../../CalendarWeekView.qml" line="69"/>
+        <location filename="../../CalendarWeekView.qml" line="85"/>
+        <location filename="../../CalendarWeekView.qml" line="124"/>
         <source>%1 - %2</source>
-        <extracomment>This is week date range %1 is Week's Start Date and %2 is Week's EndDate
-----------
-This is week date range %1 is Week's Start Date and %2 is Week's EndDate
-----------
-This is week date range %1 is Week's Start Date and %2 is Week's EndDate
-----------
-This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation>%1 - %2</translation>
+        <comment>WeekRange</comment>
+        <extracomment>This is week date range %1 is Week's Start Date and %2 is Week's EndDate</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="303"/>
+        <location filename="../../CalendarWeekView.qml" line="323"/>
         <source>All Day</source>
         <translation>Tüm Gün</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../CalendarWeekView.qml" line="347"/>
+        <location filename="../../CalendarWeekView.qml" line="367"/>
         <source>%n more event(s) exist</source>
         <extracomment>%n corresponds to events count</extracomment>
         <translation><numerusform>Biri: %n daha fazla olay(lar) var
 
 Diğer: %n daha fazla olay(lar) var</numerusform></translation>
+    </message>
+    <message>
+        <location filename="../../CalendarWeekView.qml" line="536"/>
+        <source>%1 - %2</source>
+        <comment>TimeRange</comment>
+        <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -202,26 +204,22 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
     <message>
         <location filename="../../EventDetailsView.qml" line="46"/>
         <source>%1, %2 - %3</source>
+        <comment>DateTimeRange</comment>
         <extracomment>This is Date, Time range (&quot;Event StartDate, StartTime - EndTime &quot;) %1 is Event StartDate, %2 is StartTime and %3 is EndTime</extracomment>
-        <translation>%1, %2 - %3</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="105"/>
         <source>%1 (GMT %2)</source>
+        <comment>TimezoneData</comment>
         <extracomment>This is EventTime followed by GMT offset (&quot;%1 is event time and %2 is GMT offset&quot;)</extracomment>
-        <translation>%1 (GMT %2)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="115"/>
-        <source>%1 %2</source>
-        <extracomment>This corresponds to Repeats frequency text. %1 is frequency of the event and %2 is the translated text for &quot;Repeats&quot;</extracomment>
-        <translation>%1 %2</translation>
-    </message>
-    <message>
-        <location filename="../../EventDetailsView.qml" line="115"/>
-        <source>Repeats</source>
-        <extracomment>This corresponds to Repeats frequency text. %1 is frequency of the event and %2 is the translated text for &quot;Repeats&quot;</extracomment>
-        <translation>Tekrarlar</translation>
+        <source>Repeats %1</source>
+        <extracomment>%1 is frequency of the event like Never, Daily, Weekly - the text gets translated and gets passed as argument</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="174"/>
@@ -229,12 +227,12 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <translation>Hatırlatma:</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="215"/>
+        <location filename="../../EventDetailsView.qml" line="211"/>
         <source>Show in calendar view</source>
         <translation>Takvim görünümünde göster</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="252"/>
+        <location filename="../../EventDetailsView.qml" line="248"/>
         <source>Edit</source>
         <translation>Düzenle</translation>
     </message>
@@ -258,15 +256,16 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="104"/>
         <source>%1 - %2</source>
-        <comment>StartTime - EndTime</comment>
+        <comment>TimeRange</comment>
         <extracomment>This is Events Time range (&quot;StartTime - EndTime &quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation>%1 - %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="134"/>
         <source>%1, %2</source>
+        <comment>DateTimeRange</comment>
         <extracomment>This is Date, Time range (&quot;Event StartDate, StartTime and EndTime String &quot;) %1 is Event StartDate, %2 is StartTime and EndTime string (already translated and passed as argument)</extracomment>
-        <translation>%1, %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="162"/>
@@ -323,8 +322,8 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="785"/>
-        <source>More...</source>
-        <translation>Daha...</translation>
+        <source>More</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="849"/>
@@ -343,124 +342,132 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <translation>Asla</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="910"/>
+        <location filename="../../NewEventView.qml" line="911"/>
         <source>Every day</source>
         <translation>Her gün</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="910"/>
+        <location filename="../../NewEventView.qml" line="912"/>
         <source>Every week</source>
         <translation>Her hafta</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="910"/>
+        <location filename="../../NewEventView.qml" line="913"/>
         <source>Every 2 weeks</source>
         <translation>Her 2 haftada bir</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="910"/>
+        <location filename="../../NewEventView.qml" line="914"/>
         <source>Every month</source>
         <translation>Her ay</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="910"/>
+        <location filename="../../NewEventView.qml" line="915"/>
         <source>Every year</source>
         <translation>Her sene</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="910"/>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="917"/>
         <source>Other</source>
-        <translation>Diğer</translation>
+        <comment>Interval</comment>
+        <extracomment>Other kind of repeat interval</extracomment>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="965"/>
+        <location filename="../../NewEventView.qml" line="973"/>
         <source>Repeats forever</source>
         <translation>Sonsuza kadar tekrarlar</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="965"/>
+        <location filename="../../NewEventView.qml" line="973"/>
         <source>Ends after number of times</source>
         <translation>Kez sayısından sonra sona erer</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="965"/>
+        <location filename="../../NewEventView.qml" line="973"/>
         <source>Ends after date</source>
         <translation>Tarihinden sonra sona erer</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1076"/>
+        <location filename="../../NewEventView.qml" line="1084"/>
         <source>Reminders</source>
         <translation>Hatırlatmalar</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1101"/>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1109"/>
+        <location filename="../../NewEventView.qml" line="1113"/>
         <source>No reminder</source>
         <translation>Hatırlatma yok</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1114"/>
         <source>10 minutes before</source>
         <translation>10 dakika önce</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1115"/>
         <source>15 minutes before</source>
         <translation>15 dakika önce</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1116"/>
         <source>30 minutes before</source>
         <translation>30 dakka önce</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1117"/>
         <source>1 hour before</source>
         <translation>1 saat önce</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1118"/>
         <source>2 hours before</source>
         <translation>2 saat önce</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1119"/>
         <source>1 day before</source>
         <translation>1 gün önce</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1120"/>
         <source>2 days before</source>
         <translation>2 gün önce</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1121"/>
         <source>1 week before</source>
         <translation>1 hafta önce</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1149"/>
+        <location filename="../../NewEventView.qml" line="1123"/>
+        <source>Other</source>
+        <comment>Alarm</comment>
+        <extracomment>Other type of alarm</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../NewEventView.qml" line="1168"/>
         <source>Location</source>
         <translation>Bölge</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1198"/>
+        <location filename="../../NewEventView.qml" line="1217"/>
         <source>Notes</source>
         <translation>Notlar</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1251"/>
+        <location filename="../../NewEventView.qml" line="1270"/>
         <source>Delete event</source>
         <translation>Etkinliği sil</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1365"/>
+        <location filename="../../NewEventView.qml" line="1384"/>
         <source>Save</source>
         <translation>Kaydet</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1381"/>
+        <location filename="../../NewEventView.qml" line="1400"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
@@ -468,10 +475,11 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
 <context>
     <name>TimeZoneListDelegate</name>
     <message>
-        <location filename="../../TimeZoneListDelegate.qml" line="44"/>
+        <location filename="../../TimeZoneListDelegate.qml" line="48"/>
         <source>%1 (%2)</source>
-        <extracomment>This Time zone string %1 corresponds to cityname, %2 corresponds to GMT offset. Both strings are localized. Translators don't have to do anything here.</extracomment>
-        <translation>%1 (%2)</translation>
+        <comment>TimezoneData</comment>
+        <extracomment>This Time zone string %1 corresponds to cityname, %2 corresponds to GMT offset. Both arguments are localized.</extracomment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -479,8 +487,9 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="173"/>
         <source>%1 - %2</source>
+        <comment>Date Range</comment>
         <extracomment>%1 is StartDate and %2 is EndDate (will be deleted from code soon)</extracomment>
-        <translation>%1 - %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="277"/>
@@ -529,9 +538,9 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="286"/>
-        <location filename="../../lib/utilmethods.cpp" line="301"/>
         <source>Other</source>
-        <translation>Diğer</translation>
+        <comment>Alarm</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="295"/>
@@ -562,6 +571,12 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <location filename="../../lib/utilmethods.cpp" line="300"/>
         <source>Every year</source>
         <translation>Her yıl</translation>
+    </message>
+    <message>
+        <location filename="../../lib/utilmethods.cpp" line="301"/>
+        <source>Other</source>
+        <comment>Interval</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="310"/>
@@ -602,27 +617,27 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <translation>Ay</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="91"/>
+        <location filename="../../main.qml" line="106"/>
         <source>Delete event?</source>
         <translation>Etkinliği sil</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="95"/>
+        <location filename="../../main.qml" line="110"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="96"/>
+        <location filename="../../main.qml" line="111"/>
         <source>Delete</source>
         <translation>Sil</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="106"/>
+        <location filename="../../main.qml" line="121"/>
         <source>Are you sure you want to delete this event?</source>
         <translation>Bu etkinliği silmek istediğinize emin misiniz?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="148"/>
+        <location filename="../../main.qml" line="175"/>
         <source>All day</source>
         <translation>Bütün gün</translation>
     </message>

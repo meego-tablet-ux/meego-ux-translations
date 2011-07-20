@@ -54,17 +54,17 @@
         <translation>Impostazioni Wi-Fi</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="229"/>
         <source>Airplane Mode is ON</source>
         <translation>Modalità aereo è ON</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="251"/>
         <source>To connect WiFi turn off Airplane Mode</source>
         <translation>Per il collegamento WiFi disattivare la modalità aereo</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="268"/>
         <source>Turn off Airplane Mode</source>
         <translation>Disattivare la modalità aereo</translation>
     </message>

@@ -4,7 +4,7 @@
     <message>
         <location filename="../../src/sqldatastorage.cpp" line="96"/>
         <source>Everyday notes (default)</source>
-        <translation type="unfinished"/>
+        <translation>Napi megjegyzések (alapértelmezés)</translation>
     </message>
 </context>
 <context>
@@ -14,14 +14,14 @@
         <location filename="../../src/DataHandler.cpp" line="1262"/>
         <location filename="../../src/DataHandler.cpp" line="1297"/>
         <source>Everyday Notes</source>
-        <translation type="unfinished"/>
+        <translation>Napi megjegyzések</translation>
     </message>
     <message>
         <location filename="../../src/DataHandler.cpp" line="496"/>
         <location filename="../../src/DataHandler.cpp" line="500"/>
         <source>%1 (%2)</source>
         <extracomment>this is used as a title when a note thus titled already exists, %1 is original title, %2 is consecutive note number</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -29,17 +29,17 @@
     <message>
         <location filename="../../FontSelector.qml" line="125"/>
         <source>Pick a font</source>
-        <translation type="unfinished"/>
+        <translation>Válasszon betűtípust</translation>
     </message>
     <message>
         <location filename="../../FontSelector.qml" line="148"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../FontSelector.qml" line="174"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégse</translation>
     </message>
 </context>
 <context>
@@ -47,469 +47,470 @@
     <message>
         <location filename="../../FontSizeSelector.qml" line="48"/>
         <source>Pick font size</source>
-        <translation type="unfinished"/>
+        <translation>Válasszon betűméretet</translation>
     </message>
     <message>
         <location filename="../../FontSizeSelector.qml" line="144"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../FontSizeSelector.qml" line="172"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégse</translation>
     </message>
 </context>
 <context>
     <name>NoteButton</name>
     <message>
-        <location filename="../../NoteButton.qml" line="105"/>
+        <location filename="../../NoteButton.qml" line="112"/>
         <source>Text element</source>
-        <translation type="unfinished"/>
+        <translation>Szöveges elem</translation>
     </message>
     <message>
-        <location filename="../../NoteButton.qml" line="112"/>
+        <location filename="../../NoteButton.qml" line="119"/>
         <source>Add some comments here</source>
-        <translation type="unfinished"/>
+        <translation>Megjegyzések hozzáadása ide</translation>
     </message>
 </context>
 <context>
     <name>NoteDetail</name>
     <message>
-        <location filename="../../NoteDetail.qml" line="38"/>
+        <location filename="../../NoteDetail.qml" line="39"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Mentés</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="38"/>
+        <location filename="../../NoteDetail.qml" line="39"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Törlés</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="78"/>
+        <location filename="../../NoteDetail.qml" line="79"/>
         <source>Start typing a new note.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../NoteDetail.qml" line="99"/>
-        <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Kezdjen beírni egy új megjegyzést.</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="100"/>
-        <source>No</source>
-        <translation type="unfinished"/>
+        <source>Yes</source>
+        <translation>Igen</translation>
     </message>
     <message>
         <location filename="../../NoteDetail.qml" line="101"/>
-        <source>Delete?</source>
-        <translation type="unfinished"/>
+        <source>No</source>
+        <translation>Nem</translation>
     </message>
     <message>
-        <location filename="../../NoteDetail.qml" line="104"/>
+        <location filename="../../NoteDetail.qml" line="102"/>
+        <source>Delete?</source>
+        <translation>Törlés?</translation>
+    </message>
+    <message>
+        <location filename="../../NoteDetail.qml" line="105"/>
         <source>Do you want to delete this note?</source>
-        <translation type="unfinished"/>
+        <translation>Törli ezt a megjegyzést?</translation>
     </message>
 </context>
 <context>
     <name>NotebookSelector</name>
     <message>
-        <location filename="../../NotebookSelector.qml" line="53"/>
+        <location filename="../../NotebookSelector.qml" line="54"/>
         <source>Everyday Notes (default)</source>
-        <translation type="unfinished"/>
+        <translation>Napi megjegyzések (alapértelmezés)</translation>
     </message>
     <message>
-        <location filename="../../NotebookSelector.qml" line="107"/>
+        <location filename="../../NotebookSelector.qml" line="108"/>
         <source>Pick a notebook</source>
-        <translation type="unfinished"/>
+        <translation>Válasszon noteszt</translation>
     </message>
 </context>
 <context>
     <name>NotebooksView</name>
     <message>
-        <location filename="../../NotebooksView.qml" line="166"/>
-        <source>Use the default notebook, or make a new one</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="167"/>
-        <location filename="../../NotebooksView.qml" line="347"/>
-        <source>Create a new notebook</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../NotebooksView.qml" line="168"/>
-        <source>What&apos;s a notebook?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../NotebooksView.qml" line="169"/>
-        <source>How do I create notes?</source>
-        <translation type="unfinished"/>
+        <source>Use the default notebook, or make a new one</source>
+        <translation>Használja az alapértelmezett noteszt, vagy hozzon létre újat</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="170"/>
-        <source>A notebook is a collection of notes. Use the default notebook we have created for you, or make a new one.</source>
-        <translation type="unfinished"/>
+        <location filename="../../NotebooksView.qml" line="351"/>
+        <source>Create a new notebook</source>
+        <translation>Új notesz létrehozása</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="171"/>
+        <source>What&apos;s a notebook?</source>
+        <translation>Mi a notesz?</translation>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="172"/>
+        <source>How do I create notes?</source>
+        <translation>Hogyan hozhatok létre megjegyzéseket?</translation>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="173"/>
+        <source>A notebook is a collection of notes. Use the default notebook we have created for you, or make a new one.</source>
+        <translation>A notesz megjegyzések gyűjteménye. Használhatja az alapértelmezett noteszt, amelyet mi hoztunk létre Önnek, vagy létrehozhat újat.</translation>
+    </message>
+    <message>
+        <location filename="../../NotebooksView.qml" line="174"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Koppantson az „Első megjegyzés létrehozása” gombra. Másik lehetőség, hogy a képernyő jobb felső sarkában lévő ikonra koppant, majd az „Új megjegyzés” lehetőséget választja.</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="198"/>
+        <location filename="../../NotebooksView.qml" line="202"/>
         <source>View by:</source>
-        <translation type="unfinished"/>
+        <translation>Rendezési kulcs:</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="204"/>
+        <location filename="../../NotebooksView.qml" line="208"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Minden</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="204"/>
+        <location filename="../../NotebooksView.qml" line="208"/>
         <source>Alphabetical order</source>
-        <translation type="unfinished"/>
+        <translation>Betűrend</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="290"/>
+        <location filename="../../NotebooksView.qml" line="294"/>
         <source>Delete (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Törlés (%1)</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="298"/>
-        <location filename="../../NotebooksView.qml" line="349"/>
-        <location filename="../../NotebooksView.qml" line="477"/>
+        <location filename="../../NotebooksView.qml" line="302"/>
+        <location filename="../../NotebooksView.qml" line="353"/>
+        <location filename="../../NotebooksView.qml" line="481"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégse</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="313"/>
+        <location filename="../../NotebooksView.qml" line="317"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Megnyitás</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="314"/>
-        <location filename="../../NotebooksView.qml" line="395"/>
+        <location filename="../../NotebooksView.qml" line="318"/>
+        <location filename="../../NotebooksView.qml" line="399"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Törlés</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="315"/>
+        <location filename="../../NotebooksView.qml" line="319"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Átnevezés</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="348"/>
+        <location filename="../../NotebooksView.qml" line="352"/>
         <source>Create</source>
-        <translation type="unfinished"/>
+        <translation>Létrehozás</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="359"/>
+        <location filename="../../NotebooksView.qml" line="363"/>
         <source>Notebook name</source>
-        <translation type="unfinished"/>
+        <translation>Notesz neve</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="370"/>
-        <location filename="../../NotebooksView.qml" line="500"/>
+        <location filename="../../NotebooksView.qml" line="374"/>
+        <location filename="../../NotebooksView.qml" line="504"/>
         <source>%1/%2</source>
         <comment>CharLeft</comment>
         <extracomment>%1 is current title length, %2 is max title length</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="384"/>
+        <location filename="../../NotebooksView.qml" line="388"/>
         <source>A Notebook &apos;%1&apos; already exists.</source>
-        <translation type="unfinished"/>
+        <translation>Egy &apos;%1&apos; notesz már létezik.</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="396"/>
+        <location filename="../../NotebooksView.qml" line="400"/>
         <source>Delete notebooks?</source>
-        <translation type="unfinished"/>
+        <translation>Noteszek törlése?</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="396"/>
+        <location filename="../../NotebooksView.qml" line="400"/>
         <source>Delete notebook?</source>
-        <translation type="unfinished"/>
+        <translation>Notesz törlése?</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../NotebooksView.qml" line="405"/>
+        <location filename="../../NotebooksView.qml" line="409"/>
         <source>Are you sure you want to delete these %n notebook(s)?</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Biztos hogy törölni kvánja ezt az %n notebookot?</numerusform><numerusform>Biztos hogy törölni kivánja ezt a %n notebookot?</numerusform></translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="407"/>
+        <location filename="../../NotebooksView.qml" line="411"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
         <extracomment>%1 is notebook title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Biztosan törli a(z) „%1” elemet?</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="435"/>
-        <location filename="../../NotebooksView.qml" line="463"/>
-        <location filename="../../NotebooksView.qml" line="476"/>
+        <location filename="../../NotebooksView.qml" line="439"/>
+        <location filename="../../NotebooksView.qml" line="467"/>
+        <location filename="../../NotebooksView.qml" line="480"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="436"/>
+        <location filename="../../NotebooksView.qml" line="440"/>
         <source>Notebooks deleted</source>
-        <translation type="unfinished"/>
+        <translation>Noteszek törölve</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="436"/>
+        <location filename="../../NotebooksView.qml" line="440"/>
         <source>Notebook deleted</source>
-        <translation type="unfinished"/>
+        <translation>Notesz törölve</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../NotebooksView.qml" line="445"/>
+        <location filename="../../NotebooksView.qml" line="449"/>
         <source>%n notebook(s) have been deleted</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n notebookot törölt</numerusform><numerusform>%n notebookot törölt</numerusform></translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="448"/>
-        <location filename="../../NotebooksView.qml" line="450"/>
+        <location filename="../../NotebooksView.qml" line="452"/>
+        <location filename="../../NotebooksView.qml" line="454"/>
         <source>&quot;%1&quot; has been deleted</source>
         <extracomment>%1 is notebook title</extracomment>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; törlése megtörtént</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="459"/>
+        <location filename="../../NotebooksView.qml" line="463"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Információk</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="479"/>
+        <location filename="../../NotebooksView.qml" line="483"/>
         <source>Rename notebook</source>
-        <translation type="unfinished"/>
+        <translation>Notesz átnevezése</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="510"/>
+        <location filename="../../NotebooksView.qml" line="514"/>
         <source>A notebook &apos;%1&apos; already exists.</source>
         <extracomment>%1 is notebook title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Egy &apos;%1&apos; notesz már létezik.</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../NotebooksView.qml" line="551"/>
+        <location filename="../../NotebooksView.qml" line="555"/>
         <source>%n note(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n jegyzet</numerusform><numerusform>%n jegyzet</numerusform></translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="557"/>
+        <location filename="../../NotebooksView.qml" line="561"/>
         <source>New notebook</source>
-        <translation type="unfinished"/>
+        <translation>Új notesz</translation>
     </message>
     <message>
-        <location filename="../../NotebooksView.qml" line="559"/>
+        <location filename="../../NotebooksView.qml" line="563"/>
         <source>Select multiple</source>
-        <translation type="unfinished"/>
+        <translation>Többszörös kiválasztás</translation>
     </message>
 </context>
 <context>
     <name>NotesView</name>
     <message>
-        <location filename="../../NotesView.qml" line="182"/>
-        <source>This notebook is empty</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="183"/>
-        <source>Create the first note</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="184"/>
-        <source>How do I create notes?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../NotesView.qml" line="185"/>
-        <source>Share your notes by email</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../NotesView.qml" line="186"/>
-        <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation type="unfinished"/>
+        <source>This notebook is empty</source>
+        <translation>Ez a notesz üres</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="187"/>
+        <source>Create the first note</source>
+        <translation>Első megjegyzés létrehozása</translation>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="188"/>
+        <source>How do I create notes?</source>
+        <translation>Hogyan hozhatok létre megjegyzéseket?</translation>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="189"/>
+        <source>Share your notes by email</source>
+        <translation>Megjegyzések megosztása e-mailben</translation>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="190"/>
+        <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
+        <translation>Koppantson az „Első megjegyzés létrehozása” gombra. Másik lehetőség, hogy a képernyő jobb felső sarkában lévő ikonra koppant, majd az „Új megjegyzés” lehetőséget választja.</translation>
+    </message>
+    <message>
+        <location filename="../../NotesView.qml" line="191"/>
         <source>To send a note by email, tap and hold the note you want to send, then select &apos;Email&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Megjegyzést úgy küldhet el e-mailben, hogy rákoppant az elküldendő megjegyzésre és lent tartja az ujját, majd az  „E-mail” lehetőséget választja.</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="213"/>
+        <location filename="../../NotesView.qml" line="218"/>
         <source>View by:</source>
-        <translation type="unfinished"/>
+        <translation>Rendezési kulcs:</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="219"/>
+        <location filename="../../NotesView.qml" line="224"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Minden</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="219"/>
+        <location filename="../../NotesView.qml" line="224"/>
         <source>Alphabetical order</source>
-        <translation type="unfinished"/>
+        <translation>Betűrend</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="400"/>
+        <location filename="../../NotesView.qml" line="405"/>
         <source>Delete (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Törlés (%1)</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="408"/>
-        <location filename="../../NotesView.qml" line="517"/>
-        <location filename="../../NotesView.qml" line="646"/>
+        <location filename="../../NotesView.qml" line="413"/>
+        <location filename="../../NotesView.qml" line="522"/>
+        <location filename="../../NotesView.qml" line="651"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégse</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="423"/>
+        <location filename="../../NotesView.qml" line="428"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Megnyitás</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="424"/>
+        <location filename="../../NotesView.qml" line="429"/>
+        <location filename="../../NotesView.qml" line="451"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>E-mail</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="425"/>
+        <location filename="../../NotesView.qml" line="430"/>
         <source>Move</source>
-        <translation type="unfinished"/>
+        <translation>Áthelyezés</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="426"/>
-        <location filename="../../NotesView.qml" line="565"/>
+        <location filename="../../NotesView.qml" line="431"/>
+        <location filename="../../NotesView.qml" line="570"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Törlés</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="427"/>
+        <location filename="../../NotesView.qml" line="432"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Átnevezés</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../NotesView.qml" line="492"/>
+        <location filename="../../NotesView.qml" line="497"/>
         <source>%n note(s) have successfully been moved to &quot;%2&quot;</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n jegyzetet sikeresen &amp;amp;quot;%2&amp;amp;quot;-ba mozgatott</numerusform><numerusform>%n jegyzetet sikeresen &amp;amp;quot;%2&amp;amp;quot;-ba mozgatott</numerusform></translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="495"/>
+        <location filename="../../NotesView.qml" line="500"/>
         <source>&quot;%1&quot; has successfully been moved to &quot;%2&quot;</source>
         <extracomment>%1 is moved note title</extracomment>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; sikeresen áthelyezve ide: &quot;%2&quot;</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="515"/>
+        <location filename="../../NotesView.qml" line="520"/>
         <source>Create a new note</source>
-        <translation type="unfinished"/>
+        <translation>Új megjegyzés létrehozása</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="516"/>
+        <location filename="../../NotesView.qml" line="521"/>
         <source>Create</source>
-        <translation type="unfinished"/>
+        <translation>Létrehozás</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="527"/>
+        <location filename="../../NotesView.qml" line="532"/>
         <source>Note name</source>
-        <translation type="unfinished"/>
+        <translation>Megjegyzés neve:</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="538"/>
-        <location filename="../../NotesView.qml" line="669"/>
+        <location filename="../../NotesView.qml" line="543"/>
+        <location filename="../../NotesView.qml" line="674"/>
         <source>%1/%2</source>
         <comment>CharLeft</comment>
         <extracomment>%1 is current title length, %2 is max title length</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="554"/>
+        <location filename="../../NotesView.qml" line="559"/>
         <source>A Note &apos;%1&apos; already exists.</source>
         <extracomment>%1 is note title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Egy &apos;%1&apos; megjegyzés már létezik.</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="566"/>
+        <location filename="../../NotesView.qml" line="571"/>
         <source>Delete notes?</source>
-        <translation type="unfinished"/>
+        <translation>Megjegyzések törlése?</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="566"/>
+        <location filename="../../NotesView.qml" line="571"/>
         <source>Delete note?</source>
-        <translation type="unfinished"/>
+        <translation>Megjegyzés törlése?</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../NotesView.qml" line="575"/>
+        <location filename="../../NotesView.qml" line="580"/>
         <source>Are you sure you want to delete these %n note(s)?</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Biztos hogy törölni kivánja ezt az %n jegyzetet?</numerusform><numerusform>Biztos hogy törölni kivánja ezt a %n jegyzetet?</numerusform></translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="577"/>
+        <location filename="../../NotesView.qml" line="582"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
         <extracomment>%1 is note title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Biztosan törli a(z) „%1” elemet?</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="605"/>
-        <location filename="../../NotesView.qml" line="632"/>
-        <location filename="../../NotesView.qml" line="645"/>
-        <location filename="../../NotesView.qml" line="690"/>
+        <location filename="../../NotesView.qml" line="610"/>
+        <location filename="../../NotesView.qml" line="637"/>
+        <location filename="../../NotesView.qml" line="650"/>
+        <location filename="../../NotesView.qml" line="695"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="606"/>
+        <location filename="../../NotesView.qml" line="611"/>
         <source>Notes deleted</source>
-        <translation type="unfinished"/>
+        <translation>Megjegyzések törölve</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="606"/>
+        <location filename="../../NotesView.qml" line="611"/>
         <source>Note deleted</source>
-        <translation type="unfinished"/>
+        <translation>Megjegyzés törölve</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../NotesView.qml" line="615"/>
+        <location filename="../../NotesView.qml" line="620"/>
         <source>%n note(s) have been deleted</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n jegyzetet törölt</numerusform><numerusform>%n jegyzetet törölt</numerusform></translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="617"/>
-        <location filename="../../NotesView.qml" line="619"/>
+        <location filename="../../NotesView.qml" line="622"/>
+        <location filename="../../NotesView.qml" line="624"/>
         <source>&quot;%1&quot; has been deleted</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; törlése megtörtént</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="628"/>
+        <location filename="../../NotesView.qml" line="633"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Információk</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="648"/>
+        <location filename="../../NotesView.qml" line="653"/>
         <source>Rename note</source>
-        <translation type="unfinished"/>
+        <translation>Megjegyzés átnevezése</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="679"/>
+        <location filename="../../NotesView.qml" line="684"/>
         <source>A note &apos;%1&apos; already exists.</source>
         <extracomment>%1 is note name</extracomment>
-        <translation type="unfinished"/>
+        <translation>Egy &apos;%1&apos; megjegyzés már létezik.</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="691"/>
+        <location filename="../../NotesView.qml" line="696"/>
         <source>Note moved</source>
-        <translation type="unfinished"/>
+        <translation>Megjegyzés áthelyezve</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="747"/>
+        <location filename="../../NotesView.qml" line="752"/>
         <source>New note</source>
-        <translation type="unfinished"/>
+        <translation>Új megjegyzés</translation>
     </message>
     <message>
-        <location filename="../../NotesView.qml" line="749"/>
+        <location filename="../../NotesView.qml" line="754"/>
         <source>Select multiple</source>
-        <translation type="unfinished"/>
+        <translation>Többszörös kiválasztás</translation>
     </message>
 </context>
 <context>
@@ -517,17 +518,17 @@
     <message>
         <location filename="../../src/DataHandler.cpp" line="25"/>
         <source>Everyday Notes (default)</source>
-        <translation type="unfinished"/>
+        <translation>Napi megjegyzések (alapértelmezés)</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="16"/>
-        <location filename="../../main.qml" line="96"/>
-        <location filename="../../main.qml" line="113"/>
+        <location filename="../../main.qml" line="18"/>
+        <location filename="../../main.qml" line="94"/>
+        <location filename="../../main.qml" line="111"/>
         <source>Notes</source>
-        <translation type="unfinished"/>
+        <translation>Feljegyzések</translation>
     </message>
 </context>
 </TS>

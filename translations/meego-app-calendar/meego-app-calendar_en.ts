@@ -22,19 +22,20 @@
         <translation>Go to date</translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="340"/>
+        <location filename="../../CalendarDayView.qml" line="358"/>
         <source>All day</source>
         <translation>All day</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../CalendarDayView.qml" line="416"/>
+        <location filename="../../CalendarDayView.qml" line="436"/>
         <source>%n more event(s) exist</source>
         <extracomment>%n corresponds to Events count</extracomment>
         <translation><numerusform>%n more event(s) exist</numerusform><numerusform>%n more event(s) exist</numerusform></translation>
     </message>
     <message>
-        <location filename="../../CalendarDayView.qml" line="572"/>
+        <location filename="../../CalendarDayView.qml" line="619"/>
         <source>%1 - %2</source>
+        <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
         <translation>%1 - %2</translation>
     </message>
@@ -54,15 +55,15 @@
         <translation>%1 results found</translation>
     </message>
     <message>
-        <location filename="../../CalendarListView.qml" line="147"/>
+        <location filename="../../CalendarListView.qml" line="146"/>
         <source>All day</source>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
         <translation>All day</translation>
     </message>
     <message>
-        <location filename="../../CalendarListView.qml" line="147"/>
+        <location filename="../../CalendarListView.qml" line="146"/>
         <source>%1 - %2</source>
-        <comment>StartTime - EndTime</comment>
+        <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
         <translation>%1 - %2</translation>
     </message>
@@ -104,15 +105,15 @@
         <translation>Go to date</translation>
     </message>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="541"/>
+        <location filename="../../CalendarMonthView.qml" line="557"/>
         <source>All day</source>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
         <translation>All day</translation>
     </message>
     <message>
-        <location filename="../../CalendarMonthView.qml" line="541"/>
+        <location filename="../../CalendarMonthView.qml" line="557"/>
         <source>%1 - %2</source>
-        <comment>StartTime - EndTime</comment>
+        <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
         <translation>%1 - %2</translation>
     </message>
@@ -140,30 +141,31 @@
         <translation>Go to date</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="56"/>
-        <location filename="../../CalendarWeekView.qml" line="73"/>
-        <location filename="../../CalendarWeekView.qml" line="113"/>
-        <location filename="../../CalendarWeekView.qml" line="516"/>
+        <location filename="../../CalendarWeekView.qml" line="69"/>
+        <location filename="../../CalendarWeekView.qml" line="85"/>
+        <location filename="../../CalendarWeekView.qml" line="124"/>
         <source>%1 - %2</source>
-        <extracomment>This is week date range %1 is Week's Start Date and %2 is Week's EndDate
-----------
-This is week date range %1 is Week's Start Date and %2 is Week's EndDate
-----------
-This is week date range %1 is Week's Start Date and %2 is Week's EndDate
-----------
-This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
+        <comment>WeekRange</comment>
+        <extracomment>This is week date range %1 is Week's Start Date and %2 is Week's EndDate</extracomment>
         <translation>%1 - %2</translation>
     </message>
     <message>
-        <location filename="../../CalendarWeekView.qml" line="303"/>
+        <location filename="../../CalendarWeekView.qml" line="323"/>
         <source>All Day</source>
         <translation>All Day</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../CalendarWeekView.qml" line="347"/>
+        <location filename="../../CalendarWeekView.qml" line="367"/>
         <source>%n more event(s) exist</source>
         <extracomment>%n corresponds to events count</extracomment>
         <translation><numerusform>%n more event(s) exist</numerusform><numerusform>%n more event(s) exist</numerusform></translation>
+    </message>
+    <message>
+        <location filename="../../CalendarWeekView.qml" line="536"/>
+        <source>%1 - %2</source>
+        <comment>TimeRange</comment>
+        <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -194,26 +196,22 @@ This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is E
     <message>
         <location filename="../../EventDetailsView.qml" line="46"/>
         <source>%1, %2 - %3</source>
+        <comment>DateTimeRange</comment>
         <extracomment>This is Date, Time range (&quot;Event StartDate, StartTime - EndTime &quot;) %1 is Event StartDate, %2 is StartTime and %3 is EndTime</extracomment>
         <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="105"/>
         <source>%1 (GMT %2)</source>
+        <comment>TimezoneData</comment>
         <extracomment>This is EventTime followed by GMT offset (&quot;%1 is event time and %2 is GMT offset&quot;)</extracomment>
         <translation>%1 (GMT %2)</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="115"/>
-        <source>%1 %2</source>
-        <extracomment>This corresponds to Repeats frequency text. %1 is frequency of the event and %2 is the translated text for &quot;Repeats&quot;</extracomment>
-        <translation>%1 %2</translation>
-    </message>
-    <message>
-        <location filename="../../EventDetailsView.qml" line="115"/>
-        <source>Repeats</source>
-        <extracomment>This corresponds to Repeats frequency text. %1 is frequency of the event and %2 is the translated text for &quot;Repeats&quot;</extracomment>
-        <translation>Repeats</translation>
+        <source>Repeats %1</source>
+        <extracomment>%1 is frequency of the event like Never, Daily, Weekly - the text gets translated and gets passed as argument</extracomment>
+        <translation>Repeats %1</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="174"/>
@@ -221,12 +219,12 @@ This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is E
         <translation>Reminder: </translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="215"/>
+        <location filename="../../EventDetailsView.qml" line="211"/>
         <source>Show in calendar view</source>
         <translation>Show in calendar view</translation>
     </message>
     <message>
-        <location filename="../../EventDetailsView.qml" line="252"/>
+        <location filename="../../EventDetailsView.qml" line="248"/>
         <source>Edit</source>
         <translation>Edit</translation>
     </message>
@@ -250,13 +248,14 @@ This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is E
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="104"/>
         <source>%1 - %2</source>
-        <comment>StartTime - EndTime</comment>
+        <comment>TimeRange</comment>
         <extracomment>This is Events Time range (&quot;StartTime - EndTime &quot;) %1 is StartTime and %2 is EndTime</extracomment>
         <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="134"/>
         <source>%1, %2</source>
+        <comment>DateTimeRange</comment>
         <extracomment>This is Date, Time range (&quot;Event StartDate, StartTime and EndTime String &quot;) %1 is Event StartDate, %2 is StartTime and EndTime string (already translated and passed as argument)</extracomment>
         <translation>%1, %2</translation>
     </message>
@@ -315,8 +314,8 @@ This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is E
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="785"/>
-        <source>More...</source>
-        <translation>More...</translation>
+        <source>More</source>
+        <translation>More</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="849"/>
@@ -335,124 +334,132 @@ This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is E
         <translation>Never</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="910"/>
+        <location filename="../../NewEventView.qml" line="911"/>
         <source>Every day</source>
         <translation>Every day</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="910"/>
+        <location filename="../../NewEventView.qml" line="912"/>
         <source>Every week</source>
         <translation>Every week</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="910"/>
+        <location filename="../../NewEventView.qml" line="913"/>
         <source>Every 2 weeks</source>
         <translation>Every 2 weeks</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="910"/>
+        <location filename="../../NewEventView.qml" line="914"/>
         <source>Every month</source>
         <translation>Every month</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="910"/>
+        <location filename="../../NewEventView.qml" line="915"/>
         <source>Every year</source>
         <translation>Every year</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="910"/>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="917"/>
         <source>Other</source>
+        <comment>Interval</comment>
+        <extracomment>Other kind of repeat interval</extracomment>
         <translation>Other</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="965"/>
+        <location filename="../../NewEventView.qml" line="973"/>
         <source>Repeats forever</source>
         <translation>Repeats forever</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="965"/>
+        <location filename="../../NewEventView.qml" line="973"/>
         <source>Ends after number of times</source>
         <translation>Ends after number of times</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="965"/>
+        <location filename="../../NewEventView.qml" line="973"/>
         <source>Ends after date</source>
         <translation>Ends after date</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1076"/>
+        <location filename="../../NewEventView.qml" line="1084"/>
         <source>Reminders</source>
         <translation>Reminders</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1101"/>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1109"/>
+        <location filename="../../NewEventView.qml" line="1113"/>
         <source>No reminder</source>
         <translation>No reminder</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1114"/>
         <source>10 minutes before</source>
         <translation>10 minutes before</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1115"/>
         <source>15 minutes before</source>
         <translation>15 minutes before</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1116"/>
         <source>30 minutes before</source>
         <translation>30 minutes before</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1117"/>
         <source>1 hour before</source>
         <translation>1 hour before</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1118"/>
         <source>2 hours before</source>
         <translation>2 hours before</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1119"/>
         <source>1 day before</source>
         <translation>1 day before</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1120"/>
         <source>2 days before</source>
         <translation>2 days before</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1105"/>
+        <location filename="../../NewEventView.qml" line="1121"/>
         <source>1 week before</source>
         <translation>1 week before</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1149"/>
+        <location filename="../../NewEventView.qml" line="1123"/>
+        <source>Other</source>
+        <comment>Alarm</comment>
+        <extracomment>Other type of alarm</extracomment>
+        <translation>Other</translation>
+    </message>
+    <message>
+        <location filename="../../NewEventView.qml" line="1168"/>
         <source>Location</source>
         <translation>Location</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1198"/>
+        <location filename="../../NewEventView.qml" line="1217"/>
         <source>Notes</source>
         <translation>Notes</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1251"/>
+        <location filename="../../NewEventView.qml" line="1270"/>
         <source>Delete event</source>
         <translation>Delete event</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1365"/>
+        <location filename="../../NewEventView.qml" line="1384"/>
         <source>Save</source>
         <translation>Save</translation>
     </message>
     <message>
-        <location filename="../../NewEventView.qml" line="1381"/>
+        <location filename="../../NewEventView.qml" line="1400"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
@@ -460,9 +467,10 @@ This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is E
 <context>
     <name>TimeZoneListDelegate</name>
     <message>
-        <location filename="../../TimeZoneListDelegate.qml" line="44"/>
+        <location filename="../../TimeZoneListDelegate.qml" line="48"/>
         <source>%1 (%2)</source>
-        <extracomment>This Time zone string %1 corresponds to cityname, %2 corresponds to GMT offset. Both strings are localized. Translators don't have to do anything here.</extracomment>
+        <comment>TimezoneData</comment>
+        <extracomment>This Time zone string %1 corresponds to cityname, %2 corresponds to GMT offset. Both arguments are localized.</extracomment>
         <translation>%1 (%2)</translation>
     </message>
 </context>
@@ -471,6 +479,7 @@ This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is E
     <message>
         <location filename="../../lib/utilmethods.cpp" line="173"/>
         <source>%1 - %2</source>
+        <comment>Date Range</comment>
         <extracomment>%1 is StartDate and %2 is EndDate (will be deleted from code soon)</extracomment>
         <translation>%1 - %2</translation>
     </message>
@@ -521,8 +530,8 @@ This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is E
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="286"/>
-        <location filename="../../lib/utilmethods.cpp" line="301"/>
         <source>Other</source>
+        <comment>Alarm</comment>
         <translation>Other</translation>
     </message>
     <message>
@@ -554,6 +563,12 @@ This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is E
         <location filename="../../lib/utilmethods.cpp" line="300"/>
         <source>Every year</source>
         <translation>Every year</translation>
+    </message>
+    <message>
+        <location filename="../../lib/utilmethods.cpp" line="301"/>
+        <source>Other</source>
+        <comment>Interval</comment>
+        <translation>Other</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="310"/>
@@ -594,27 +609,27 @@ This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is E
         <translation>Month</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="91"/>
+        <location filename="../../main.qml" line="106"/>
         <source>Delete event?</source>
         <translation>Delete event?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="95"/>
+        <location filename="../../main.qml" line="110"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="96"/>
+        <location filename="../../main.qml" line="111"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="106"/>
+        <location filename="../../main.qml" line="121"/>
         <source>Are you sure you want to delete this event?</source>
         <translation>Are you sure you want to delete this event?</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="148"/>
+        <location filename="../../main.qml" line="175"/>
         <source>All day</source>
         <translation>All day</translation>
     </message>

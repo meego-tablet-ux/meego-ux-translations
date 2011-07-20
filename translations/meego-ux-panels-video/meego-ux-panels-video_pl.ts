@@ -2,9 +2,9 @@
 <context>
     <name>videopanel</name>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="60"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="66"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="68"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="61"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="67"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="69"/>
         <source>Video</source>
         <comment>PanelTitle</comment>
         <extracomment>%1 is &quot;Video&quot; panel title
@@ -13,59 +13,59 @@
         <translation>Wideo</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="66"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="67"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
         <translation>Ustawienia panelu %1</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="68"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="69"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
         <translation>Zawartość panelu %1</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="71"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="102"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="140"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="72"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="103"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="141"/>
         <source>Watch a video</source>
         <translation>Oglądaj wideo</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="71"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="72"/>
         <source>Clear history</source>
         <translation>Wyczyść historię</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="96"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="97"/>
         <source>The latest videos you watch will appear here.</source>
         <translation>Pojawią się tu ostatnio oglądane wideo.</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="135"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="136"/>
         <source>No recently watched videos.</source>
         <translation>Brak niedawno oglądanych wideo.</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="156"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="157"/>
         <source>You have cleared the Video history</source>
         <translation>Wyczyszczono historię panelu Wideo</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="169"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="173"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="170"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="174"/>
         <source>Play</source>
         <translation>Odtwarzaj</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="169"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="181"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="170"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="183"/>
         <source>Share</source>
         <translation>Udostępnij</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/video/videopanel.qml" line="169"/>
-        <location filename="../../panelsrc/video/videopanel.qml" line="177"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="170"/>
+        <location filename="../../panelsrc/video/videopanel.qml" line="179"/>
         <source>Hide</source>
         <translation>Ukryj</translation>
     </message>

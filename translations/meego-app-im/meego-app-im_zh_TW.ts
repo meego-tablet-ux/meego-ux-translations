@@ -22,85 +22,84 @@
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="172"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="181"/>
         <source>Error ending call</source>
         <translation>結束通話時發生錯誤</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="206"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1116"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="197"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1129"/>
         <source>Call could not be accepted</source>
         <translation>無法接受通話</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="490"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="481"/>
         <source>Unable to set hold</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="590"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="811"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="581"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="810"/>
         <source>Channel not available</source>
         <translation>頻道無法使用</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="745"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="744"/>
         <source>Unable to create call channel for contact %1</source>
         <translation>無法為聯絡人 %1 建立通話頻道</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1074"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1087"/>
         <source>Unable to create channel: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>無法建立頻道：%1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1089"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1102"/>
         <source>Unable to create channel</source>
         <translation>無法建立頻道</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1104"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1117"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>無法為聯絡人 %1 - %2 - %3 建立通話頻道</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1161"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1174"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>聯絡人 %1 - %2 - %3 的未驗證通話頻道</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1487"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1500"/>
         <source>Error ending call: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>結束通話時發生錯誤：%1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1502"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1515"/>
         <source>Call could not be accepted %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>無法接受通話 %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1518"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1531"/>
         <source>Hold request could not be done %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>無法完成保留請求 %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1686"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1699"/>
         <source>Call resources were lost</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1695"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1708"/>
         <source>Call resources not granted</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1704"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1717"/>
         <source>Error acquiring call resources</source>
         <translation type="unfinished"/>
     </message>
@@ -145,13 +144,13 @@
         <translation>無法建立文字頻道</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="266"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="265"/>
         <source>Invalidated text channel  %1 - %2 - %3</source>
         <extracomment>%1 room id - %2 error name - %3 error message</extracomment>
         <translation>未驗證的文字頻道 %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="272"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="271"/>
         <source>Invalidated text channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>聯絡人 %1 - %2 - %3 的未驗證文字頻道</translation>
@@ -183,87 +182,87 @@
 <context>
     <name>IMConversationModel</name>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="243"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="237"/>
         <source>%1 joined the chat</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="258"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="252"/>
         <source>%1 is typing</source>
         <translation>%1 正在打字</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="260"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="254"/>
         <source>%1 and %2 are typing</source>
         <translation>%1 和 %2 正在打字</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="262"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="256"/>
         <source>Lots of people are typing</source>
         <translation>很多朋友正在打字</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="267"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="261"/>
         <source>%1 left the chat</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="275"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="269"/>
         <source>%1 has paused typing</source>
         <translation>%1 已暫停打字</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="283"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="277"/>
         <source>%1 is now idle</source>
         <translation>%1 現在為閒置</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="367"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="361"/>
         <source>%1 is calling you</source>
         <translation>%1 正播打給您</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="371"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="365"/>
         <source>Setting up call to %1</source>
         <translation>正在設置與 %1 的通話</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="374"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="368"/>
         <source>Calling %1</source>
         <translation>正播打給 %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="377"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="371"/>
         <source>Call with %1 started</source>
         <translation>已開始與 %1 的通話</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="380"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="374"/>
         <source>Call with %1 on hold</source>
         <translation>保留與 %1 的通話</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="440"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="434"/>
         <source>Error in call with %1</source>
         <translation>與 %1 的通話發生錯誤</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="468"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="462"/>
         <source>%1 bytes</source>
         <translation>%1 位元組</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="472"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="466"/>
         <source>%1 KB</source>
         <translation>%1 KB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="476"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="470"/>
         <source>%1 MB</source>
         <translation>%1 MB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="480"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="474"/>
         <source>%1 GB</source>
         <translation>%1 GB</translation>
     </message>
@@ -271,22 +270,22 @@
 <context>
     <name>IMFeedModel</name>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="341"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="344"/>
         <source>Add as friend?</source>
         <translation>加入為朋友？</translation>
     </message>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="481"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="469"/>
         <source>Incoming call from %1</source>
         <translation>%1 的來電</translation>
     </message>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="484"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="472"/>
         <source>Incoming file transfer from %1</source>
         <translation>來自 %1 的檔案傳輸</translation>
     </message>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="542"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="530"/>
         <source>has been added as contact</source>
         <extracomment>Message indicating the contact has been added
 ----------
@@ -297,7 +296,7 @@ Message indicating the contact has been added</extracomment>
 <context>
     <name>IMGroupChatModelItem</name>
     <message>
-        <location filename="../../plugin/imgroupchatmodelitem.cpp" line="69"/>
+        <location filename="../../plugin/imgroupchatmodelitem.cpp" line="72"/>
         <source>%1 chatting</source>
         <translation>%1 聊天中</translation>
     </message>
@@ -310,27 +309,27 @@ Message indicating the contact has been added</extracomment>
         <translation>即時通訊設定</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="120"/>
+        <location filename="../../settings/ImSettings.qml" line="112"/>
         <source>Accounts</source>
         <translation>帳戶</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="149"/>
+        <location filename="../../settings/ImSettings.qml" line="141"/>
         <source>Add another account</source>
         <translation>新增其他帳戶</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="150"/>
+        <location filename="../../settings/ImSettings.qml" line="142"/>
         <source>Add an account</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="167"/>
+        <location filename="../../settings/ImSettings.qml" line="159"/>
         <source>General Settings</source>
         <translation>一般設定</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="189"/>
+        <location filename="../../settings/ImSettings.qml" line="183"/>
         <source>Show offline contacts</source>
         <translation>顯示離線的聯絡人</translation>
     </message>
@@ -340,12 +339,12 @@ Message indicating the contact has been added</extracomment>
         <translation>新訊息通知</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="264"/>
+        <location filename="../../settings/ImSettings.qml" line="268"/>
         <source>Clear chat history</source>
         <translation>清除聊天記錄</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="288"/>
+        <location filename="../../settings/ImSettings.qml" line="292"/>
         <source>Blocked contacts</source>
         <translation>封鎖的聯絡人</translation>
     </message>
@@ -381,7 +380,7 @@ Message indicating the contact has been added</extracomment>
 <context>
     <name>NotificationManager</name>
     <message>
-        <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="131"/>
+        <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="158"/>
         <source>%1 is sending you the file %2</source>
         <translation>%1 正傳送 %2 檔案給您</translation>
     </message>
@@ -893,57 +892,57 @@ Message indicating the contact has been added</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../constants.js" line="149"/>
+        <location filename="../../constants.js" line="148"/>
         <source>Sorry, there was a problem logging in. Please retype your username and password.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../constants.js" line="150"/>
+        <location filename="../../constants.js" line="149"/>
         <source>Sorry, there was a problem logging in to %1. Please go to Settings and retype your username and password.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../constants.js" line="151"/>
+        <location filename="../../constants.js" line="150"/>
         <source>Sorry, there was a problem logging in. Please go to Settings and retype your username and password.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../constants.js" line="152"/>
+        <location filename="../../constants.js" line="151"/>
         <source>Sorry, there was a problem logging in to %1. Please try again later.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../constants.js" line="153"/>
+        <location filename="../../constants.js" line="152"/>
         <source>Sorry, there was a problem logging in. Please try again later.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../constants.js" line="154"/>
+        <location filename="../../constants.js" line="153"/>
         <source>It looks like you have logged in to %1 from somewhere else, so we have logged you out from this tablet. Try logging in again</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../constants.js" line="155"/>
+        <location filename="../../constants.js" line="154"/>
         <source>It looks like you have logged in to this account from somewhere else, so we have logged you out from this tablet. Try logging in again</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../constants.js" line="156"/>
+        <location filename="../../constants.js" line="155"/>
         <source>Sorry, there was a problem logging in. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../constants.js" line="157"/>
+        <location filename="../../constants.js" line="156"/>
         <source>Sorry, there was a problem logging in to %1. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../constants.js" line="158"/>
+        <location filename="../../constants.js" line="157"/>
         <source>Sorry, there was a problem logging in. Selecting the &apos;Ignore SSL certificate errors&apos; option in the account Advanced settings should solve this problem.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../constants.js" line="159"/>
+        <location filename="../../constants.js" line="158"/>
         <source>Sorry, there was a problem logging in to %1. Selecting the &apos;Ignore SSL certificate errors&apos; option in the account Advanced settings should solve this problem.</source>
         <translation type="unfinished"/>
     </message>

@@ -9,7 +9,7 @@
     <message>
         <location filename="../../emailsharingservice.cpp" line="64"/>
         <source>Sharing via Email</source>
-        <translation>Dela via e-post</translation>
+        <translation>Delning via e-post</translation>
     </message>
     <message>
         <location filename="../../emailsharingservice.cpp" line="79"/>

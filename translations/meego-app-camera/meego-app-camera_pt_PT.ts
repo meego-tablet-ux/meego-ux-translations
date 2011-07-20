@@ -4,25 +4,25 @@
     <message>
         <location filename="../NoSpaceDialog.qml" line="15"/>
         <source>Memory Full</source>
-        <translation type="unfinished"/>
+        <translation>Memória cheia</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="16"/>
         <source>Open Photos</source>
-        <translation type="unfinished"/>
+        <translation>Abrir fotos</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="22"/>
         <source>There is no storage space left on the device. To take more photos or video, you may want to delete some existing content.</source>
-        <translation type="unfinished"/>
+        <translation>Já não existe espaço para guardar dados. Para guardar mais fotos ou vídeos, poderá eliminar algum dos conteúdos existentes.</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../plugin/viewfinder.cpp" line="886"/>
+        <location filename="../plugin/viewfinder.cpp" line="891"/>
         <source>%1:%2:%3</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2:%3</translation>
     </message>
 </context>
 </TS>

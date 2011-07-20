@@ -54,17 +54,17 @@
         <translation>Wi-Fi 設定</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="229"/>
         <source>Airplane Mode is ON</source>
         <translation>飛航模式為「開」</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="251"/>
         <source>To connect WiFi turn off Airplane Mode</source>
         <translation>若要連接 WiFi 必須關閉飛航模式</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="268"/>
         <source>Turn off Airplane Mode</source>
         <translation>關閉飛航模式</translation>
     </message>

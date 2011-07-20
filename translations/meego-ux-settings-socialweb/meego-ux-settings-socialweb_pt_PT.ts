@@ -4,79 +4,79 @@
     <message>
         <location filename="../../qml/constants.js" line="3"/>
         <source>Web accounts</source>
-        <translation type="unfinished"/>
+        <translation>Contas web</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="5"/>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Concluído</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="6"/>
         <location filename="../../qml/constants.js" line="8"/>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar sessão</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="9"/>
         <source>Sign out</source>
-        <translation type="unfinished"/>
+        <translation>Encerrar sessão</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="10"/>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Continuar</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="13"/>
         <source>&lt;b&gt;Username:&lt;/b&gt; </source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Nome de utilizador:&lt;/b&gt; </translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="14"/>
         <source>Username</source>
-        <translation type="unfinished"/>
+        <translation>Nome de utilizador</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="15"/>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Palavra-passe</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="16"/>
         <source>Verifier code</source>
-        <translation type="unfinished"/>
+        <translation>Código de verificação</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="18"/>
         <source>More details</source>
-        <translation type="unfinished"/>
+        <translation>Mais detalhes</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="20"/>
         <source>Unable to sign in, try again later</source>
-        <translation type="unfinished"/>
+        <translation>Não é possível iniciar sessão. Tente mais tarde.</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="21"/>
         <source>Attempting to sign in...</source>
-        <translation type="unfinished"/>
+        <translation>A tentar iniciar sessão...</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="22"/>
         <source>Successfully signed in!</source>
-        <translation type="unfinished"/>
+        <translation>Sessão iniciada com sucesso!</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="23"/>
         <source>You have successfully signed out.  Content from this service will no longer appear on this device</source>
-        <translation type="unfinished"/>
+        <translation>Encerrou a sessão com sucesso.  Os conteúdos deste serviço já não vão aparecer no painel.</translation>
     </message>
     <message>
         <location filename="../../qml/constants.js" line="25"/>
         <source>This service supports sharing only</source>
         <extracomment>Denotes a social networking service that only plugs in to the sharing framework for media sharing, and doesn't provide content on the Friends panel</extracomment>
-        <translation type="unfinished"/>
+        <translation>Este serviço apenas suporta partilha</translation>
     </message>
 </context>
 </TS>

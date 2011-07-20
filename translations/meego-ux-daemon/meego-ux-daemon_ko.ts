@@ -4,12 +4,12 @@
     <message>
         <location filename="../../statusindicatormenu.qml" line="182"/>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>통보</translation>
     </message>
     <message>
         <location filename="../../statusindicatormenu.qml" line="189"/>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>지우기</translation>
     </message>
 </context>
 <context>
@@ -17,12 +17,12 @@
     <message>
         <location filename="../../taskswitcher.qml" line="20"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>닫기</translation>
     </message>
     <message>
         <location filename="../../taskswitcher.qml" line="21"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>열기</translation>
     </message>
 </context>
 </TS>

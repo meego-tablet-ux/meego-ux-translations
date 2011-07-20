@@ -14,8 +14,18 @@
 </context>
 <context>
     <name>MediaGridMusicAlbumDelegate</name>
+    <message>
+        <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
+        <source>1 Album</source>
+        <translation>1 album</translation>
+    </message>
     <message numerus="yes">
-        <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="321"/>
+        <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
+        <source>%n Albums</source>
+        <translation><numerusform>%n album</numerusform><numerusform>%n alba</numerusform><numerusform>%n alb</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="342"/>
         <source>%n Minute(s)</source>
         <translation><numerusform>%n minuta</numerusform><numerusform>%n minuty</numerusform><numerusform>%n minut</numerusform></translation>
     </message>

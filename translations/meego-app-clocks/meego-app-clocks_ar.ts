@@ -132,22 +132,22 @@
 <context>
     <name>ClockTile</name>
     <message>
-        <location filename="../../ClockTile.qml" line="124"/>
+        <location filename="../../ClockTile.qml" line="131"/>
         <source>Choose location:</source>
         <translation>اختيار الموقع :</translation>
     </message>
     <message>
-        <location filename="../../ClockTile.qml" line="158"/>
+        <location filename="../../ClockTile.qml" line="166"/>
         <source>Save</source>
         <translation>حفظ</translation>
     </message>
     <message>
-        <location filename="../../ClockTile.qml" line="169"/>
+        <location filename="../../ClockTile.qml" line="177"/>
         <source>Cancel</source>
         <translation>إلغاء</translation>
     </message>
     <message>
-        <location filename="../../ClockTile.qml" line="179"/>
+        <location filename="../../ClockTile.qml" line="187"/>
         <source>Delete</source>
         <translation>حذف</translation>
     </message>
@@ -215,7 +215,7 @@
 <context>
     <name>TimeDayText</name>
     <message>
-        <location filename="../../TimeDayText.qml" line="37"/>
+        <location filename="../../TimeDayText.qml" line="42"/>
         <source>%1 %2</source>
         <comment>TimeWeekday</comment>
         <extracomment>%1 is formatted time, %2 is weekday</extracomment>

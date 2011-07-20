@@ -9,7 +9,7 @@
     <message>
         <location filename="../NoSpaceDialog.qml" line="16"/>
         <source>Open Photos</source>
-        <translation type="unfinished"/>
+        <translation>사진 열기</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="22"/>
@@ -20,9 +20,9 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../plugin/viewfinder.cpp" line="886"/>
+        <location filename="../plugin/viewfinder.cpp" line="891"/>
         <source>%1:%2:%3</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2:%3</translation>
     </message>
 </context>
 </TS>

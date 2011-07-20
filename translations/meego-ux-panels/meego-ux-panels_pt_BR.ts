@@ -54,17 +54,17 @@
         <translation>Configurações da rede sem fio</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="229"/>
         <source>Airplane Mode is ON</source>
         <translation>Modo Avião está ativado</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="251"/>
         <source>To connect WiFi turn off Airplane Mode</source>
         <translation>Para conectar WiFi desligue o Modo Avião</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="268"/>
         <source>Turn off Airplane Mode</source>
         <translation>Desativar o modo avião</translation>
     </message>

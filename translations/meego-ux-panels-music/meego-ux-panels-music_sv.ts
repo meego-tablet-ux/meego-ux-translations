@@ -5,19 +5,19 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="56"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="249"/>
         <source>Recently played</source>
-        <translation type="unfinished"/>
+        <translation>Tidigare spelade</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="57"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="309"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="311"/>
         <source>Coming up in play queue</source>
-        <translation type="unfinished"/>
+        <translation>Kommer senare i uppspelningskö</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="58"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="413"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="418"/>
         <source>Playlists</source>
-        <translation type="unfinished"/>
+        <translation>Spellistor</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="94"/>
@@ -28,94 +28,94 @@
         <extracomment>%1 is &quot;Music&quot; panel title
 ----------
 %1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Musik</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="100"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1: inställningar</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="102"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1: panelinnehåll</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="170"/>
         <source>Play some music</source>
-        <translation type="unfinished"/>
+        <translation>Spela upp musik</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Rensa historik</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="164"/>
         <source>The latest music you play and your playlists will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Den senaste musiken du spelat och dina spellistor visas här.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="213"/>
         <source>Currently playing</source>
-        <translation type="unfinished"/>
+        <translation>Spelas nu</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="261"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="263"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="318"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="320"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="322"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Öppna</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="261"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="267"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="318"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="324"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="420"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="423"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="268"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="320"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="327"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="425"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="428"/>
         <source>Play</source>
-        <translation type="unfinished"/>
+        <translation>Spela</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="261"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="271"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="318"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="328"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="273"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="320"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="332"/>
         <source>Share</source>
-        <translation type="unfinished"/>
+        <translation>Dela</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="261"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="279"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="420"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="427"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="281"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="425"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="433"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Göm</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="362"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="366"/>
         <source>Your play queue is empty</source>
-        <translation type="unfinished"/>
+        <translation>Din uppspelningskö är tom</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="380"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="384"/>
         <source>Add music to the play queue</source>
-        <translation type="unfinished"/>
+        <translation>Lägg till musik i uppspelningskö</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="446"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="452"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>Du har inga spellistor</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="451"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="457"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>Skapa en spellista</translation>
     </message>
 </context>
 </TS>

@@ -54,17 +54,17 @@
         <translation>WiFi-instellingen</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="229"/>
         <source>Airplane Mode is ON</source>
         <translation>Vliegtuigmodus is ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="251"/>
         <source>To connect WiFi turn off Airplane Mode</source>
         <translation>Om WiFi in te schakelen moet je Vliegtuigmodus uitzetten </translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="268"/>
         <source>Turn off Airplane Mode</source>
         <translation>Vliegtuigmodus uitzetten</translation>
     </message>

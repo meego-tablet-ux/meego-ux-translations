@@ -91,12 +91,12 @@
         <translation>ਸਮਾਜਿਕ ਨੈੱਟਵਰਕ ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="377"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="378"/>
         <source>Clear history</source>
         <translation>ਅਤੀਤ ਸਾਫ਼ ਕਰੋ</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="440"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="441"/>
         <source>Go to settings</source>
         <translation>ਸੈਟਿੰਗ ਉੱਤੇ ਜਾਓ</translation>
     </message>

@@ -25,7 +25,7 @@
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="113"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="167"/>
         <source>Top applications</source>
-        <translation>Top programmer</translation>
+        <translation>Topprogrammer</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="122"/>

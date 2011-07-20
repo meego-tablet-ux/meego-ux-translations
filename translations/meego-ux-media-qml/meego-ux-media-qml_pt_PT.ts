@@ -4,20 +4,30 @@
     <message>
         <location filename="../../Media/MediaGridDocumentDelegate.qml" line="210"/>
         <source>%1 Minute</source>
-        <translation type="unfinished"/>
+        <translation>%1 minuto</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridDocumentDelegate.qml" line="210"/>
         <source>%1 Minutes</source>
-        <translation type="unfinished"/>
+        <translation>%1 minutos</translation>
     </message>
 </context>
 <context>
     <name>MediaGridMusicAlbumDelegate</name>
+    <message>
+        <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
+        <source>1 Album</source>
+        <translation type="unfinished"/>
+    </message>
     <message numerus="yes">
-        <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="321"/>
-        <source>%n Minute(s)</source>
+        <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
+        <source>%n Albums</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="342"/>
+        <source>%n Minute(s)</source>
+        <translation><numerusform>%n minuto</numerusform><numerusform>%n minutos</numerusform></translation>
     </message>
 </context>
 <context>
@@ -25,7 +35,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridPhotoAlbumDelegate.qml" line="277"/>
         <source>%n Photo(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n foto</numerusform><numerusform>%n fotos</numerusform></translation>
     </message>
 </context>
 <context>
@@ -33,7 +43,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridVideoDelegate.qml" line="303"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n minuto</numerusform><numerusform>%n minutos</numerusform></translation>
     </message>
 </context>
 <context>
@@ -41,27 +51,27 @@
     <message>
         <location filename="../../Media/MediaGridView.qml" line="177"/>
         <source>Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Favoritos</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="178"/>
         <source>Recently viewed</source>
-        <translation type="unfinished"/>
+        <translation>Vistas recentemente</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="179"/>
         <source>Newest</source>
-        <translation type="unfinished"/>
+        <translation>Recentes</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="180"/>
         <source>Unwatched</source>
-        <translation type="unfinished"/>
+        <translation>Não vistos</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridView.qml" line="181"/>
         <source>Search Results</source>
-        <translation type="unfinished"/>
+        <translation>Resultados da pesquisa</translation>
     </message>
 </context>
 </TS>

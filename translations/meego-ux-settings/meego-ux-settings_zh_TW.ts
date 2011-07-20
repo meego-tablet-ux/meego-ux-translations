@@ -109,22 +109,22 @@
         <translation>藍牙接配器不存在</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="94"/>
-        <source>Discoverable</source>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="103"/>
+        <source>Discoverable (%1)</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="107"/>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="116"/>
         <source>Discoverable for %n, second(s)</source>
         <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="174"/>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="185"/>
         <source>Paired devices</source>
         <translation>已配對的裝置</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="189"/>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="200"/>
         <source>Add device</source>
         <translation>加入裝置</translation>
     </message>
@@ -330,13 +330,13 @@
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="30"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="310"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="317"/>
         <source>WPA</source>
         <translation>WPA</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="31"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="310"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="317"/>
         <source>WPA2</source>
         <translation>WPA2</translation>
     </message>
@@ -362,37 +362,37 @@
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="229"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="243"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="250"/>
         <source>Add network</source>
         <translation>加入網路</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="269"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="276"/>
         <source>Network name:</source>
         <translation>網路名稱：</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="277"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="284"/>
         <source>Security type:</source>
         <translation>安全類型：</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="285"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="292"/>
         <source>Security passphrase:</source>
         <translation>安全密語：</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="310"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="317"/>
         <source>none</source>
         <translation>無</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="310"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="317"/>
         <source>wep</source>
         <translation>wep</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="349"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="356"/>
         <source>No networks available</source>
         <translation>無網路可用</translation>
     </message>
@@ -484,13 +484,13 @@ Sync explicitly stopped.</extracomment>
         <translation>無法忘記同步帳戶!</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="907"/>
+        <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="917"/>
         <source>Syncing now...</source>
         <extracomment>Status message: Sync in-progress</extracomment>
         <translation>正在同步...</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="924"/>
+        <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="934"/>
         <source>Sync completed</source>
         <extracomment>Status message: Sync job completed</extracomment>
         <translation>同步已完成</translation>

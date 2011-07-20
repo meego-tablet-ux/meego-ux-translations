@@ -4,12 +4,12 @@
     <message>
         <location filename="../../statusindicatormenu.qml" line="182"/>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Értesítések</translation>
     </message>
     <message>
         <location filename="../../statusindicatormenu.qml" line="189"/>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Törlés</translation>
     </message>
 </context>
 <context>
@@ -17,12 +17,12 @@
     <message>
         <location filename="../../taskswitcher.qml" line="20"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Bezárás</translation>
     </message>
     <message>
         <location filename="../../taskswitcher.qml" line="21"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Megnyitás</translation>
     </message>
 </context>
 </TS>

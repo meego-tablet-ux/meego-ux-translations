@@ -62,7 +62,7 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="235"/>
         <source>Manage</source>
-        <translation>Gestão</translation>
+        <translation>Gerir</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="243"/>
@@ -109,22 +109,22 @@
         <translation>Nenhum adaptador presente</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="94"/>
-        <source>Discoverable</source>
-        <translation>Visibilidade</translation>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="103"/>
+        <source>Discoverable (%1)</source>
+        <translation>Visível (%1)</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="107"/>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="116"/>
         <source>Discoverable for %n, second(s)</source>
         <translation><numerusform>Visível por %n segundo</numerusform><numerusform>Visível por %n segundos</numerusform></translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="174"/>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="185"/>
         <source>Paired devices</source>
         <translation>Dispositivos emparelhados</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="189"/>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="200"/>
         <source>Add device</source>
         <translation>Adicionar dispositivo</translation>
     </message>
@@ -330,13 +330,13 @@
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="30"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="310"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="317"/>
         <source>WPA</source>
         <translation>WPA</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="31"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="310"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="317"/>
         <source>WPA2</source>
         <translation>WPA2</translation>
     </message>
@@ -362,37 +362,37 @@
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="229"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="243"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="250"/>
         <source>Add network</source>
         <translation>Adicionar rede</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="269"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="276"/>
         <source>Network name:</source>
         <translation>Nome da rede:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="277"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="284"/>
         <source>Security type:</source>
         <translation>Tipo de segurança:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="285"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="292"/>
         <source>Security passphrase:</source>
         <translation>Palavra-passe de segurança:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="310"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="317"/>
         <source>none</source>
         <translation>nenhuma</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="310"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="317"/>
         <source>wep</source>
         <translation>wep</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="349"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="356"/>
         <source>No networks available</source>
         <translation>Nenhuma rede disponível</translation>
     </message>
@@ -484,13 +484,13 @@ Sync explicitly stopped.</extracomment>
         <translation>Não foi posível esquecer a conta de sincronização!</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="907"/>
+        <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="917"/>
         <source>Syncing now...</source>
         <extracomment>Status message: Sync in-progress</extracomment>
         <translation>A sincronizar...</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="924"/>
+        <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="934"/>
         <source>Sync completed</source>
         <extracomment>Status message: Sync job completed</extracomment>
         <translation>Terminou a sincronização</translation>

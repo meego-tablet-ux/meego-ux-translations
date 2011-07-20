@@ -9,13 +9,13 @@
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="57"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="309"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="311"/>
         <source>Coming up in play queue</source>
         <translation>À venir dans la playlist</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="58"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="413"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="418"/>
         <source>Playlists</source>
         <translation>Listes de lecture</translation>
     </message>
@@ -66,54 +66,54 @@
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="261"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="263"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="318"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="320"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="322"/>
         <source>Open</source>
         <translation>Ouvrir</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="261"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="267"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="318"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="324"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="420"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="423"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="268"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="320"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="327"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="425"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="428"/>
         <source>Play</source>
         <translation>Jouer</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="261"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="271"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="318"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="328"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="273"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="320"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="332"/>
         <source>Share</source>
         <translation>Partager</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="261"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="279"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="420"/>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="427"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="281"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="425"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="433"/>
         <source>Hide</source>
         <translation>Masquer</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="362"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="366"/>
         <source>Your play queue is empty</source>
         <translation>La file d&apos;attente est vide</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="380"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="384"/>
         <source>Add music to the play queue</source>
         <translation>Ajouter de la musique à la playlist</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="446"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="452"/>
         <source>You have no playlists</source>
         <translation>Vous n&apos;avez pas de playlist</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/music/musicpanel.qml" line="451"/>
+        <location filename="../../panelsrc/music/musicpanel.qml" line="457"/>
         <source>Create a playlist</source>
         <translation>Créer une playlist</translation>
     </message>

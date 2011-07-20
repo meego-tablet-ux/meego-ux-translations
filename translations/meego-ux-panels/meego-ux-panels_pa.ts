@@ -54,17 +54,17 @@
         <translation>ਵਾਈ-ਫਾਈ ਸੈਟਿੰਗ</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="228"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="229"/>
         <source>Airplane Mode is ON</source>
         <translation>ਏਅਰਪਲੇਨ ਮੋਡ ਚਾਲੂ ਹੈ</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="250"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="251"/>
         <source>To connect WiFi turn off Airplane Mode</source>
         <translation>ਵਾਈਫਾਈ ਨਾਲ ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਏਅਰਪਲੇਨ ਮੋਡ ਬੰਦ ਕਰੋ</translation>
     </message>
     <message>
-        <location filename="../../panellib/Panels/WifiDialog.qml" line="267"/>
+        <location filename="../../panellib/Panels/WifiDialog.qml" line="268"/>
         <source>Turn off Airplane Mode</source>
         <translation>ਏਅਰਪਲੇਨ ਮੋਡ ਬੰਦ ਕਰੋ</translation>
     </message>

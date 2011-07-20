@@ -2,21 +2,21 @@
 <context>
     <name>CCPContextArea</name>
     <message>
-        <location filename="../../src/components/common/CCPContextArea.qml" line="269"/>
-        <location filename="../../src/components/common/CCPContextArea.qml" line="274"/>
-        <location filename="../../src/components/common/CCPContextArea.qml" line="277"/>
+        <location filename="../../src/components/common/CCPContextArea.qml" line="308"/>
+        <location filename="../../src/components/common/CCPContextArea.qml" line="313"/>
+        <location filename="../../src/components/common/CCPContextArea.qml" line="316"/>
         <source>Copy</source>
         <translation>Copiar</translation>
     </message>
     <message>
-        <location filename="../../src/components/common/CCPContextArea.qml" line="271"/>
-        <location filename="../../src/components/common/CCPContextArea.qml" line="277"/>
+        <location filename="../../src/components/common/CCPContextArea.qml" line="310"/>
+        <location filename="../../src/components/common/CCPContextArea.qml" line="316"/>
         <source>Paste</source>
         <translation>Colar</translation>
     </message>
     <message>
-        <location filename="../../src/components/common/CCPContextArea.qml" line="274"/>
-        <location filename="../../src/components/common/CCPContextArea.qml" line="277"/>
+        <location filename="../../src/components/common/CCPContextArea.qml" line="313"/>
+        <location filename="../../src/components/common/CCPContextArea.qml" line="316"/>
         <source>Cut</source>
         <translation>Recortar</translation>
     </message>
@@ -24,206 +24,204 @@
 <context>
     <name>DatePicker</name>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="202"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="187"/>
         <source>Sun</source>
         <translation>Dom</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="203"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="188"/>
         <source>Mon</source>
         <translation>Seg</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="204"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="189"/>
         <source>Tue</source>
         <translation>Ter</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="205"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="190"/>
         <source>Wed</source>
         <translation>Qua</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="206"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="191"/>
         <source>Thu</source>
         <translation>Qui</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="207"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="192"/>
         <source>Fri</source>
         <translation>Sex</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="208"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="193"/>
         <source>Sat</source>
         <translation>Sáb</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="210"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="195"/>
         <source>Jan</source>
         <translation>Jan</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="211"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="196"/>
         <source>Feb</source>
         <translation>Fev</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="212"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="197"/>
         <source>Mar</source>
         <translation>Mar</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="213"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="198"/>
         <source>Apr</source>
         <translation>Abr</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="214"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="199"/>
         <source>May</source>
         <comment>Short</comment>
         <translation>maio</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="215"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="200"/>
         <source>Jun</source>
         <translation>Jun</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="216"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="201"/>
         <source>Jul</source>
         <translation>Jul</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="217"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="202"/>
         <source>Aug</source>
         <translation>Ago</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="218"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="203"/>
         <source>Sep</source>
         <translation>Set</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="219"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="204"/>
         <source>Oct</source>
         <translation>Out</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="220"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="205"/>
         <source>Nov</source>
         <translation>Nov</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="221"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="206"/>
         <source>Dec</source>
         <translation>Dez</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="223"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="208"/>
         <source>January</source>
         <translation>Janeiro</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="224"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="209"/>
         <source>February</source>
         <translation>Fevereiro</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="225"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="210"/>
         <source>March</source>
         <translation>Março</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="226"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="211"/>
         <source>April</source>
         <translation>Abril</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="227"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="212"/>
         <source>May</source>
         <comment>Full</comment>
         <translation>maio</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="228"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="213"/>
         <source>June</source>
         <translation>Junho</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="229"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="214"/>
         <source>July</source>
         <translation>Julho</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="230"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="215"/>
         <source>August</source>
         <translation>Agosto</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="231"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="216"/>
         <source>September</source>
         <translation>Setembro</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="232"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="217"/>
         <source>October</source>
         <translation>Outubro</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="233"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="218"/>
         <source>November</source>
         <translation>Novembro</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="234"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="219"/>
         <source>December</source>
         <translation>Dezembro</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="531"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="483"/>
         <source>day-month-year</source>
-        <extracomment>Controls the order in which the three spinners for days, months and years are displayed in the DatePicker. Don't translate this into your language. Instead order the three keywords to match the standards of your language. For example &quot;year-month-day&quot;.</extracomment>
         <translation>dia-mês-ano</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="547"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="501"/>
         <source>dateUnitOne</source>
         <extracomment>Optional! Won't be displayed if left untranslated or if set to more than one or two characters. Positioned left of the left spinner. Meant for displaying units, separators or whatever seems appropiate for a language specific display of the date given by the three spinners.</extracomment>
         <translation>DataUmaUnidade</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="568"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="522"/>
         <source>dateUnitTwo</source>
         <extracomment>Optional! Won't be displayed if left untranslated or if set to more than one or two characters. Positioned between left and middle spinner. Meant for displaying units, separators or whatever seems appropiate for a language specific display of the date given by the three spinners.</extracomment>
         <translation>DataDuasUnidades</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="589"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="543"/>
         <source>dateUnitThree</source>
         <extracomment>Optional! Won't be displayed if left untranslated or if set to more than one or two characters. Positioned between middle and right spinner. Meant for displaying units, separators or whatever seems appropiate for a language specific display of the date given by the three spinners.</extracomment>
         <translation>DataTrêsUnidades</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="610"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="564"/>
         <source>dateUnitFour</source>
         <extracomment>Optional! Won't be displayed if left untranslated or if set to more than one or two characters. Positioned right of the right spinner. Meant for displaying units, separators or whatever seems appropiate for a language specific display of the date given by the three spinners.</extracomment>
         <translation>DataQuatroUnidades</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="772"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="707"/>
         <source>%1 %2</source>
         <extracomment>1 is full month name, 2 is full numerical year. E.g. &quot;January 2011&quot;. Reorder as approriate to current language&quot;</extracomment>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="861"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="813"/>
         <source>firstDayInWeek</source>
-        <extracomment>handles with which day the calendar grid starts. Type monday, tuesday, wednesday, thursday, friday, saturday or sunday, without capital letters</extracomment>
         <translation>PrimeiroDiaSemana</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/DatePicker.qml" line="990"/>
+        <location filename="../../src/components/datetime/DatePicker.qml" line="925"/>
         <source>Today</source>
         <translation>Hoje</translation>
     </message>
@@ -335,17 +333,17 @@
 <context>
     <name>ModalDialog</name>
     <message>
-        <location filename="../../src/components/common/ModalDialog.qml" line="148"/>
+        <location filename="../../src/components/common/ModalDialog.qml" line="151"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../../src/components/common/ModalDialog.qml" line="149"/>
+        <location filename="../../src/components/common/ModalDialog.qml" line="152"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../src/components/common/ModalDialog.qml" line="308"/>
+        <location filename="../../src/components/common/ModalDialog.qml" line="334"/>
         <source>left-to-right</source>
         <translation>esquerda-para-direita</translation>
     </message>
@@ -378,17 +376,17 @@
         <translation>Escolher um álbum</translation>
     </message>
     <message>
-        <location filename="../../src/components/media/MusicPicker.qml" line="360"/>
+        <location filename="../../src/components/media/MusicPicker.qml" line="356"/>
         <source>Back</source>
         <translation>Voltar</translation>
     </message>
     <message>
-        <location filename="../../src/components/media/MusicPicker.qml" line="380"/>
+        <location filename="../../src/components/media/MusicPicker.qml" line="376"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../src/components/media/MusicPicker.qml" line="398"/>
+        <location filename="../../src/components/media/MusicPicker.qml" line="394"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
@@ -447,22 +445,22 @@
 <context>
     <name>TimePicker</name>
     <message>
-        <location filename="../../src/components/datetime/TimePicker.qml" line="78"/>
+        <location filename="../../src/components/datetime/TimePicker.qml" line="80"/>
         <source>Pick a time</source>
         <translation>Escolher horário</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/TimePicker.qml" line="138"/>
+        <location filename="../../src/components/datetime/TimePicker.qml" line="139"/>
         <source>%1:%2 %3</source>
         <translation>%1:%2 %3</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/TimePicker.qml" line="227"/>
+        <location filename="../../src/components/datetime/TimePicker.qml" line="232"/>
         <source>AM</source>
         <translation>AM</translation>
     </message>
     <message>
-        <location filename="../../src/components/datetime/TimePicker.qml" line="228"/>
+        <location filename="../../src/components/datetime/TimePicker.qml" line="233"/>
         <source>PM</source>
         <translation>PM</translation>
     </message>
@@ -470,12 +468,12 @@
 <context>
     <name>ToggleButton</name>
     <message>
-        <location filename="../../src/components/common/ToggleButton.qml" line="115"/>
+        <location filename="../../src/components/common/ToggleButton.qml" line="124"/>
         <source>On</source>
         <translation>Habilitado</translation>
     </message>
     <message>
-        <location filename="../../src/components/common/ToggleButton.qml" line="142"/>
+        <location filename="../../src/components/common/ToggleButton.qml" line="151"/>
         <source>Off</source>
         <translation>Desabilitado</translation>
     </message>
@@ -483,7 +481,7 @@
 <context>
     <name>VideoPicker</name>
     <message>
-        <location filename="../../src/components/media/VideoPicker.qml" line="176"/>
+        <location filename="../../src/components/media/VideoPicker.qml" line="171"/>
         <source>Pick a video</source>
         <translation>Escolher um vídeo</translation>
     </message>
@@ -491,7 +489,7 @@
 <context>
     <name>Window</name>
     <message>
-        <location filename="../../src/components/common/Window.qml" line="334"/>
+        <location filename="../../src/components/common/Window.qml" line="342"/>
         <source>left-to-right</source>
         <extracomment>page switch direction. Don't translate to other languages, instead change the string to &quot;right-to-left&quot; for languages where right to left reading directions are desired</extracomment>
         <translation>esquerda-para-direita</translation>

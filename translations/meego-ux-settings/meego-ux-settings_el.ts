@@ -4,18 +4,18 @@
     <message>
         <location filename="../../General/BacklightSettings.qml" line="39"/>
         <source>Set brightness automatically</source>
-        <translation type="unfinished"/>
+        <translation>Ρυθμίστε τη φωτεινότητα αυτόματα</translation>
     </message>
     <message>
         <location filename="../../General/BacklightSettings.qml" line="71"/>
         <source>Brightness</source>
-        <translation type="unfinished"/>
+        <translation>Φωτεινότητα</translation>
     </message>
     <message>
         <location filename="../../General/BacklightSettings.qml" line="82"/>
         <source>%1%</source>
         <comment>slider value percentage</comment>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -24,75 +24,75 @@
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="68"/>
         <source>Disconnect audio</source>
-        <translation type="unfinished"/>
+        <translation>Αποσύνδεση ήχου</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="72"/>
         <source>Connect audio</source>
-        <translation type="unfinished"/>
+        <translation>Σύνδεση ήχου</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="92"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="103"/>
         <source>Disconnect input device</source>
-        <translation type="unfinished"/>
+        <translation>Αποσύνδεση συσκευής εισόδου</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="92"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="107"/>
         <source>Connect input device</source>
-        <translation type="unfinished"/>
+        <translation>Σύνδεση συσκευής εισόδου</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="128"/>
         <source>Disconnect internet</source>
-        <translation type="unfinished"/>
+        <translation>Αποσύνδεση Internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="128"/>
         <source>Connect internet</source>
-        <translation type="unfinished"/>
+        <translation>Σύνδεση Internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="183"/>
         <source>Connect actions</source>
-        <translation type="unfinished"/>
+        <translation>Σύνδεση ενεργειών</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="235"/>
         <source>Manage</source>
-        <translation type="unfinished"/>
+        <translation>Διαχείριση</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="243"/>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Κατάργηση</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="258"/>
         <source>Properties</source>
-        <translation type="unfinished"/>
+        <translation>Ιδιότητες</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="263"/>
         <source>Paired: %1</source>
-        <translation type="unfinished"/>
+        <translation>Σε ζεύξη: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="272"/>
         <source>Hardware address: %1</source>
-        <translation type="unfinished"/>
+        <translation>Διεύθυνση υλικού: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="281"/>
         <source>Icon: %1</source>
-        <translation type="unfinished"/>
+        <translation>Εικονίδιο: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="290"/>
         <source>UUIDs: %1</source>
-        <translation type="unfinished"/>
+        <translation>UUID: %1</translation>
     </message>
 </context>
 <context>
@@ -101,32 +101,32 @@
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="17"/>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="59"/>
         <source>Bluetooth</source>
-        <translation type="unfinished"/>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="35"/>
         <source>No bluetooth adapter present</source>
-        <translation type="unfinished"/>
+        <translation>Δεν υπάρχει προσαρμογέας bluetooth</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="94"/>
-        <source>Discoverable</source>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="103"/>
+        <source>Discoverable (%1)</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="107"/>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="116"/>
         <source>Discoverable for %n, second(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Ανιχνεύσιμο για %n, δευτερόλεπτο</numerusform><numerusform>Ανιχνεύσιμο για %n, δευτερόλεπτα</numerusform></translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="174"/>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="185"/>
         <source>Paired devices</source>
-        <translation type="unfinished"/>
+        <translation>Συσκευές με ζεύξη</translation>
     </message>
     <message>
-        <location filename="../../Bluetooth/BluetoothSettings.qml" line="189"/>
+        <location filename="../../Bluetooth/BluetoothSettings.qml" line="200"/>
         <source>Add device</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη συσκευής</translation>
     </message>
 </context>
 <context>
@@ -134,122 +134,122 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="15"/>
         <source>Browser</source>
-        <translation type="unfinished"/>
+        <translation>Πρόγραμμα περιήγησης</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="28"/>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Είστε σίγουροι;</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="33"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Όχι</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="34"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ναι</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="81"/>
         <source>Default search engine</source>
-        <translation type="unfinished"/>
+        <translation>Προεπιλεγμένη μηχανή αναζήτησης</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="120"/>
         <source>Show bookmarks bar</source>
-        <translation type="unfinished"/>
+        <translation>Εμφάνιση γραμμής σελιδοδεικτών</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="147"/>
         <source>Offer to save passwords</source>
-        <translation type="unfinished"/>
+        <translation>Να αποθηκευτούν οι κωδικοί πρόσβασης</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="173"/>
         <source>Allow JavaScript</source>
-        <translation type="unfinished"/>
+        <translation>Να επιτραπεί το JavaScript</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="199"/>
         <source>Allow Images</source>
-        <translation type="unfinished"/>
+        <translation>Να επιτραπούν οι εικόνες</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="226"/>
         <source>Allow Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Να επιτραπούν τα cookies</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="252"/>
         <source>Block popups</source>
-        <translation type="unfinished"/>
+        <translation>Να αποκλειστούν τα αναδυόμενα παράθυρα</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="278"/>
         <source>Use HTTP proxy</source>
-        <translation type="unfinished"/>
+        <translation>Χρήση διακομιστή μεσολάβησης HTTP</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="305"/>
         <source>HTTP Proxy details</source>
-        <translation type="unfinished"/>
+        <translation>Στοιχεία διακομιστή μεσολάβησης HTTP</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="368"/>
         <source>Clear Browsing History</source>
-        <translation type="unfinished"/>
+        <translation>Απαλοιφή ιστορικού περιήγησης</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="371"/>
         <source>Are you sure about clearing the browsing history?</source>
-        <translation type="unfinished"/>
+        <translation>Είστε σίγουροι ότι θέλετε να απαλείψετε το ιστορικό περιήγησης;</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="381"/>
         <source>Clear Download History</source>
-        <translation type="unfinished"/>
+        <translation>Απαλοιφή ιστορικού λήψης</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="384"/>
         <source>Are you sure about clearing the download history?</source>
-        <translation type="unfinished"/>
+        <translation>Είστε σίγουροι ότι θέλετε να απαλείψετε το ιστορικό λήψης;</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="394"/>
         <source>Clear Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Απαλοιφή των cookies</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="397"/>
         <source>Are you sure about clearing your cookies?</source>
-        <translation type="unfinished"/>
+        <translation>Είστε σίγουροι ότι θέλετε να απαλείψετε τα cookies σας;</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="407"/>
         <source>Clear Saved Passwords</source>
-        <translation type="unfinished"/>
+        <translation>Απαλοιφή αποθηκευμένων κωδικών πρόσβασης</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="410"/>
         <source>Are you sure about clearing your saved passwords?</source>
-        <translation type="unfinished"/>
+        <translation>Είστε σίγουροι ότι θέλετε να απαλείψετε τους αποθηκευμένους κωδικούς σας πρόσβασης;</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="420"/>
         <source>Restore default settings</source>
-        <translation type="unfinished"/>
+        <translation>Επαναφορά ρυθμίσεων προεπιλογής</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="423"/>
         <source>All browser settings will be reset to factory setting</source>
-        <translation type="unfinished"/>
+        <translation>Θα γίνει επαναφορά όλων των ρυθμίσεων του προγράμματος περιήγησης στην εργοστασιακή ρύθμιση</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="445"/>
         <source>Go to Browser</source>
-        <translation type="unfinished"/>
+        <translation>Μεταβείτε στο πρόγραμμα περιήγησης</translation>
     </message>
 </context>
 <context>
@@ -257,43 +257,43 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="8"/>
         <source>Cellular Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ρυθμίσεις κινητής τηλεφωνίας</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="30"/>
         <source>Manual APN entry</source>
-        <translation type="unfinished"/>
+        <translation>Μη αυτόματη καταχώριση APN</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="60"/>
         <source>Country</source>
-        <translation type="unfinished"/>
+        <translation>Χώρα</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="78"/>
         <source>Provider</source>
-        <translation type="unfinished"/>
+        <translation>Παροχέας</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="95"/>
         <location filename="../../Wifi/CellularSettings.qml" line="120"/>
         <source>APN</source>
-        <translation type="unfinished"/>
+        <translation>APN</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="131"/>
         <source>Username</source>
-        <translation type="unfinished"/>
+        <translation>Όνομα χρήστη</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="142"/>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Κωδικός πρόσβασης</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="154"/>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Εφαρμογή</translation>
     </message>
 </context>
 <context>
@@ -301,100 +301,100 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="19"/>
         <source>Connections</source>
-        <translation type="unfinished"/>
+        <translation>Συνδέσεις</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="24"/>
         <source>Ethernet</source>
-        <translation type="unfinished"/>
+        <translation>Ethernet</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="25"/>
         <source>Wi-Fi</source>
-        <translation type="unfinished"/>
+        <translation>Wi-Fi</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="26"/>
         <source>Bluetooth</source>
-        <translation type="unfinished"/>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="27"/>
         <source>3G</source>
-        <translation type="unfinished"/>
+        <translation>3G</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="28"/>
         <source>WiMAX</source>
-        <translation type="unfinished"/>
+        <translation>WiMAX</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="30"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="310"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="317"/>
         <source>WPA</source>
-        <translation type="unfinished"/>
+        <translation>WPA</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="31"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="310"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="317"/>
         <source>WPA2</source>
-        <translation type="unfinished"/>
+        <translation>WPA2</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="32"/>
         <source>WEP</source>
-        <translation type="unfinished"/>
+        <translation>WEP</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="81"/>
         <source>Airplane mode</source>
-        <translation type="unfinished"/>
+        <translation>Λειτουργία σε αεροπλάνο</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="116"/>
         <source>Network connections</source>
-        <translation type="unfinished"/>
+        <translation>Συνδέσεις δικτύου</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="217"/>
         <source>Available networks</source>
-        <translation type="unfinished"/>
+        <translation>Διαθέσιμα δίκτυα</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="229"/>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="243"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="250"/>
         <source>Add network</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη δικτύου</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="269"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="276"/>
         <source>Network name:</source>
-        <translation type="unfinished"/>
+        <translation>Όνομα δικτύου:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="277"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="284"/>
         <source>Security type:</source>
-        <translation type="unfinished"/>
+        <translation>Τύπος ασφαλείας:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="285"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="292"/>
         <source>Security passphrase:</source>
-        <translation type="unfinished"/>
+        <translation>Φράση πρόσβασης ασφαλείας:</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="310"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="317"/>
         <source>none</source>
-        <translation type="unfinished"/>
+        <translation>Κανένας</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="310"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="317"/>
         <source>wep</source>
-        <translation type="unfinished"/>
+        <translation>WEP</translation>
     </message>
     <message>
-        <location filename="../../Wifi/ConnectionsSettings.qml" line="349"/>
+        <location filename="../../Wifi/ConnectionsSettings.qml" line="356"/>
         <source>No networks available</source>
-        <translation type="unfinished"/>
+        <translation>Δεν υπάρχουν διαθέσιμα δίκτυα</translation>
     </message>
 </context>
 <context>
@@ -402,38 +402,38 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="9"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Γενικά</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="31"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Γλώσσα</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="42"/>
         <source>Time and date</source>
-        <translation type="unfinished"/>
+        <translation>Ώρα και ημερομηνία</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="91"/>
         <source>Sound</source>
-        <translation type="unfinished"/>
+        <translation>Ήχος</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="103"/>
         <source>%1%</source>
         <comment>%1 is volume level percentage</comment>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="128"/>
         <source>Backlight control</source>
-        <translation type="unfinished"/>
+        <translation>Έλεγχος φωτισμού οθόνης</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="152"/>
         <source>Screen saver</source>
-        <translation type="unfinished"/>
+        <translation>Προφύλαξη οθόνης</translation>
     </message>
 </context>
 <context>
@@ -442,13 +442,13 @@
         <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="317"/>
         <source>Unknown sync status</source>
         <extracomment>Status message: Displayed when an unknown/unhandled error occurs.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Άγνωστη κατάσταση συγχρονισμού</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="332"/>
         <source>Last sync %1</source>
         <extracomment>Arg 1 is a &quot;fuzzy time&quot;, e.g. &quot;2 min ago&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Τελευταίος συγχρονισμός: %1</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="339"/>
@@ -457,43 +457,43 @@
         <extracomment>Sync explicitly stopped.
 ----------
 Sync explicitly stopped.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ο συγχρονισμός ματαιώθηκε</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="341"/>
         <source>Last sync failed: %1</source>
         <extracomment>Arg 1 is a brief sync error description, e.g. &quot;connection failed&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ο τελευταίος συγχρονισμός απέτυχε: %1</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="344"/>
         <source>authentication failure</source>
         <extracomment>Authentication failure occurred during sync.</extracomment>
-        <translation type="unfinished"/>
+        <translation>αποτυχία ελέγχου ταυτότητας</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="346"/>
         <source>internal error</source>
         <extracomment>Internal error occurred during sync.</extracomment>
-        <translation type="unfinished"/>
+        <translation>εσωτερικό σφάλμα</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="589"/>
         <source>Unable to forget sync account!</source>
         <extracomment>Displayed when removal of sync account information fails.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Δεν είναι δυνατό να καταργηθεί ο λογαριασμός συγχρονισμού!</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="907"/>
+        <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="917"/>
         <source>Syncing now...</source>
         <extracomment>Status message: Sync in-progress</extracomment>
-        <translation type="unfinished"/>
+        <translation>Γίνεται συγχρονισμός τώρα...</translation>
     </message>
     <message>
-        <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="924"/>
+        <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="934"/>
         <source>Sync completed</source>
         <extracomment>Status message: Sync job completed</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ολοκληρώθηκε ο συγχρονισμός</translation>
     </message>
 </context>
 <context>
@@ -502,13 +502,13 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Sync/SyncEvoStatic.cpp" line="15"/>
         <source>Contacts</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Contacts&quot; or &quot;Google Contacts&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Επαφές</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoStatic.cpp" line="19"/>
         <source>Calendar</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Calendar&quot; or</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ημερολόγιο</translation>
     </message>
 </context>
 <context>
@@ -516,7 +516,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Bluetooth/NearbyDevices.qml" line="17"/>
         <source>Add New Device</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη νέας συσκευής</translation>
     </message>
 </context>
 <context>
@@ -524,47 +524,47 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="16"/>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Ειδοποιήσεις</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="28"/>
         <source>App Update</source>
-        <translation type="unfinished"/>
+        <translation>Ενημέρωση εφαρμογής</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="32"/>
         <source>New IM</source>
-        <translation type="unfinished"/>
+        <translation>Νέο άμεσο μήνυμα</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="36"/>
         <source>Bluetooth Device Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Η συσκευή Bluetooth έχει αποσυνδεθεί</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="40"/>
         <source>New Email</source>
-        <translation type="unfinished"/>
+        <translation>Νέο μήνυμα ηλεκτρονικού ταχυδρομείου</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="44"/>
         <source>Social Web Friend Request</source>
-        <translation type="unfinished"/>
+        <translation>Αίτημα φίλου κοινωνικού δικτύου</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
         <source>Download Completed</source>
-        <translation type="unfinished"/>
+        <translation>Η λήψη ολοκληρώθηκε</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="72"/>
         <source>By default, phone and messaging notifications will be shown on the lockscreen.</source>
-        <translation type="unfinished"/>
+        <translation>Από προεπιλογή, οι ειδοποιήσεις μέσω τηλεφώνου και SMS θα εμφανιστούν στην οθόνη κλειδώματος.</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="91"/>
         <source>You may select up to 4 additional notifications to receive on the lockscreen</source>
-        <translation type="unfinished"/>
+        <translation>Μπορείτε να επιλέξετε για να λάβετε έως 4 επιπρόσθετες ειδοποιήσεις στην οθόνη κλειδώματος</translation>
     </message>
 </context>
 <context>
@@ -572,17 +572,17 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="18"/>
         <source>Personalize</source>
-        <translation type="unfinished"/>
+        <translation>Εξατομίκευση</translation>
     </message>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="71"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>Πίνακες</translation>
     </message>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="124"/>
         <source>You can&apos;t turn off this panel</source>
-        <translation type="unfinished"/>
+        <translation>Δεν είναι δυνατόν να απενεργοποιηθεί αυτό το παράθυρο</translation>
     </message>
 </context>
 <context>
@@ -590,17 +590,17 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="30"/>
         <source>Pair with %1 with key %2?</source>
-        <translation type="unfinished"/>
+        <translation>Δημιουργήστε ζεύξη με το %1 με το κλειδί %2;</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="44"/>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Αποδοχή</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestConfirmDialog.qml" line="55"/>
         <source>Reject</source>
-        <translation type="unfinished"/>
+        <translation>Απόρριψη</translation>
     </message>
 </context>
 <context>
@@ -608,12 +608,12 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="23"/>
         <source>Enter the following code on %1</source>
-        <translation type="unfinished"/>
+        <translation>Εισάγετε τον ακόλουθο κωδικό στο %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestPidCodeDialog.qml" line="41"/>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Αποδοχή</translation>
     </message>
 </context>
 <context>
@@ -621,12 +621,12 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="20"/>
         <source>Enter passcode to use:</source>
-        <translation type="unfinished"/>
+        <translation>Εισάγετε τον κωδικό πρόσβασης προς χρήση:</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/RequestpasskeyDialog.qml" line="36"/>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Αποδοχή</translation>
     </message>
 </context>
 <context>
@@ -634,18 +634,18 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/ScreensaverSettings.qml" line="38"/>
         <source>Screen Saver Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Ο προφύλαξη οθόνης είναι ενεργοποιημένη</translation>
     </message>
     <message>
         <location filename="../../General/ScreensaverSettings.qml" line="76"/>
         <source>Screen Saver Timeout</source>
-        <translation type="unfinished"/>
+        <translation>Χρονικό όριο προφύλαξης οθόνης</translation>
     </message>
     <message numerus="yes">
         <location filename="../../General/ScreensaverSettings.qml" line="80"/>
         <source>%n Minute(s)</source>
         <comment>time in minutes</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n λεπτό</numerusform><numerusform>%n λεπτά</numerusform></translation>
     </message>
 </context>
 <context>
@@ -653,12 +653,12 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="10"/>
         <source>Set Time Zone</source>
-        <translation type="unfinished"/>
+        <translation>Ρύθμιση ζώνης ώρας</translation>
     </message>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="65"/>
         <source>Filter list</source>
-        <translation type="unfinished"/>
+        <translation>Λίστα φίλτρων</translation>
     </message>
 </context>
 <context>
@@ -666,14 +666,14 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="100"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ρυθμίσεις</translation>
     </message>
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="101"/>
         <location filename="../../Settings/SettingsModel.qml" line="102"/>
         <source>Application</source>
         <comment>should actually by 'Applications'</comment>
-        <translation type="unfinished"/>
+        <translation>Εφαρμογές</translation>
     </message>
 </context>
 <context>
@@ -682,31 +682,31 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Sync/SyncDetails.qml" line="147"/>
         <source>%1 %2</source>
         <extracomment>Arg 1 is the name of the sync service (e.g. &quot;Yahoo!&quot;) and arg 2 is the name of the storage (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;).</extracomment>
-        <translation type="unfinished"/>
+        <translation>%2 %1 </translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="168"/>
         <source>Sync now</source>
         <extracomment>Text displayed in &quot;sync now&quot; button.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Συγχρονίστε τώρα</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="194"/>
         <source>Sync %1</source>
         <extracomment>Argument is sync storage (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;).</extracomment>
-        <translation type="unfinished"/>
+        <translation>Συγχρονισμός %1</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="238"/>
         <source>Sync account details</source>
         <extracomment>Title of &quot;account details&quot; area of page.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Στοιχεία λογαριασμού συγχρονισμού</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncDetails.qml" line="255"/>
         <source>Forget this</source>
         <extracomment>Text displayed in &quot;forget this&quot; button (used to remove current sync account).</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ξεχάστε το αυτό</translation>
     </message>
 </context>
 <context>
@@ -715,7 +715,7 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Sync/SyncListDelegate.qml" line="96"/>
         <source>%1 %2</source>
         <extracomment>Arg 1 is the sync service name (e.g. &quot;Yahoo!&quot;) and arg 2 is the storage name (e.g. &quot;Contacts&quot; or &quot;Calendar&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>%2 %1 </translation>
     </message>
 </context>
 <context>
@@ -724,7 +724,7 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Sync/SyncListHeaderDelegate.qml" line="28"/>
         <source>Sync %1</source>
         <extracomment>Arg 1 refers to the storage type (e.g. Contacts, Calendar, etc)</extracomment>
-        <translation type="unfinished"/>
+        <translation>Συγχρονισμός: %1</translation>
     </message>
 </context>
 <context>
@@ -733,37 +733,37 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Sync/SyncLoginDialog.qml" line="25"/>
         <source>Sign in</source>
         <extracomment>&quot;Sign in&quot; button text displayed in sync account login dialog.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Είσοδος</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="27"/>
         <source>Cancel</source>
         <extracomment>&quot;Cancel&quot; button text displayed in sync account login dialog.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="29"/>
         <source>Sign in to your %1 account</source>
         <extracomment>The argument is the name of the remote sync service (e.g. Google, Yahoo!, etc).</extracomment>
-        <translation type="unfinished"/>
+        <translation>Συνδεθείτε στο λογαριασμό σας %1</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="43"/>
         <source>(ex: foo@example.com)</source>
         <extracomment>Username example text. Note: do not translate &quot;example.com&quot;!</extracomment>
-        <translation type="unfinished"/>
+        <translation>(παράδειγμα: foo@example.com)</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="46"/>
         <source>Username %1</source>
         <extracomment>Sync account username (e.g. foo.bar@yahoo.com) login field label, where arg 1 is an example, which may or not be visible.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Όνομα χρήστη %1</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncLoginDialog.qml" line="79"/>
         <source>Password</source>
         <extracomment>Sync account password login field label</extracomment>
-        <translation type="unfinished"/>
+        <translation>Κωδικός πρόσβασης</translation>
     </message>
 </context>
 <context>
@@ -772,7 +772,7 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Sync/SyncMain.qml" line="25"/>
         <source>Sync Settings</source>
         <extracomment>The title of the Sync UI displayed to the user.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ρυθμίσεις συγχρονισμού</translation>
     </message>
 </context>
 <context>
@@ -780,42 +780,42 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="45"/>
         <source>What time it is</source>
-        <translation type="unfinished"/>
+        <translation>Τι ώρα είναι</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="123"/>
         <source>24 hour clock</source>
-        <translation type="unfinished"/>
+        <translation>24ωρο σύστημα</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="154"/>
         <source>Set date and time automatically</source>
-        <translation type="unfinished"/>
+        <translation>Ρυθμίστε την ημερομηνία και ώρα αυτόματα</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="191"/>
         <source>Where you are</source>
-        <translation type="unfinished"/>
+        <translation>Πού βρίσκεστε</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="210"/>
         <source>Current time zone is %1</source>
-        <translation type="unfinished"/>
+        <translation>Η τρέχουσα ζώνη ώρας είναι: %1</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="232"/>
         <source>Find me and keep my location updated</source>
-        <translation type="unfinished"/>
+        <translation>Βρείτε με και διατηρήστε την τοποθεσία μου ενημερωμένη</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="272"/>
         <source>Manual time zone selection</source>
-        <translation type="unfinished"/>
+        <translation>Μη αυτόματη επιλογή ζώνης ώρας</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="286"/>
         <source>Set Time Zone</source>
-        <translation type="unfinished"/>
+        <translation>Ρυθμίστε τη ζώνη ώρας</translation>
     </message>
 </context>
 <context>
@@ -823,7 +823,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Personalize/WallpaperTools.qml" line="18"/>
         <source>Pick a photo</source>
-        <translation type="unfinished"/>
+        <translation>Επιλέξτε φωτογραφία</translation>
     </message>
 </context>
 <context>
@@ -831,149 +831,149 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="68"/>
         <source>WPA</source>
-        <translation type="unfinished"/>
+        <translation>WPA</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="69"/>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="72"/>
         <source>WPA2</source>
-        <translation type="unfinished"/>
+        <translation>WPA2</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="70"/>
         <source>WEP</source>
-        <translation type="unfinished"/>
+        <translation>WEP</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="71"/>
         <source>RADIUS</source>
-        <translation type="unfinished"/>
+        <translation>RADIUS</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="75"/>
         <source>DHCP</source>
-        <translation type="unfinished"/>
+        <translation>DHCP</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="76"/>
         <source>Static</source>
-        <translation type="unfinished"/>
+        <translation>Στατικό</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="154"/>
         <source>Failed to Connect</source>
-        <translation type="unfinished"/>
+        <translation>Η σύνδεση απέτυχε</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="157"/>
         <source>Associating</source>
-        <translation type="unfinished"/>
+        <translation>Γίνεται συσχετισμός</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="161"/>
         <source>Configuring</source>
-        <translation type="unfinished"/>
+        <translation>Γίνεται παραμετροποίηση</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="165"/>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="169"/>
         <source>Connected</source>
-        <translation type="unfinished"/>
+        <translation>Συνδέθηκε</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="207"/>
         <source>Do you want to remove %1 ?  This action will forget any passwords and you will no longer be automatically connected to %2</source>
-        <translation type="unfinished"/>
+        <translation>Θέλετε να καταργήσετε το %1 ;Αυτή η ενέργεια θα ξεχάσει κάθε κωδικό πρόσβασης και δεν θα μπορείτε πλέον να συνδεθείτε αυτόματα στο %2</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="220"/>
         <source>Yes, Delete</source>
-        <translation type="unfinished"/>
+        <translation>Ναι, διαγράψτε</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="232"/>
         <source>No, Save</source>
-        <translation type="unfinished"/>
+        <translation>Όχι, αποθηκεύστε</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="260"/>
         <source>Disconnect</source>
-        <translation type="unfinished"/>
+        <translation>Αποσύνδεση</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="271"/>
         <source>Remove connection</source>
-        <translation type="unfinished"/>
+        <translation>Κατάργηση σύνδεσης</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="283"/>
         <source>Connect by:</source>
-        <translation type="unfinished"/>
+        <translation>Συνδεθείτε με:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="317"/>
         <source>IP Address:</source>
-        <translation type="unfinished"/>
+        <translation>Διεύθυνση IP:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="338"/>
         <source>Subnet mask:</source>
-        <translation type="unfinished"/>
+        <translation>Μάσκα υποδικτύου:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="358"/>
         <source>Gateway</source>
-        <translation type="unfinished"/>
+        <translation>Πύλη</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="378"/>
         <source>DNS:</source>
-        <translation type="unfinished"/>
+        <translation>DNS:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="398"/>
         <source>Hardware address:</source>
-        <translation type="unfinished"/>
+        <translation>Διεύθυνση υλικού:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="419"/>
         <source>Security: </source>
-        <translation type="unfinished"/>
+        <translation>Ασφάλεια: </translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="434"/>
         <source>Strength: </source>
-        <translation type="unfinished"/>
+        <translation>Ισχύς: </translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="444"/>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Εφαρμογή</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="458"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="494"/>
         <source>Type password here</source>
-        <translation type="unfinished"/>
+        <translation>Πληκτρολογήστε τον κωδικό πρόσβασης εδώ</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="505"/>
         <source>Setup</source>
-        <translation type="unfinished"/>
+        <translation>Ρύθμιση</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="517"/>
         <source>Connect</source>
-        <translation type="unfinished"/>
+        <translation>Σύνδεση</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="550"/>
         <source>Show password</source>
-        <translation type="unfinished"/>
+        <translation>Εμφάνιση κωδικού πρόσβασης</translation>
     </message>
 </context>
 <context>
@@ -981,7 +981,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../main.qml" line="29"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ρυθμίσεις</translation>
     </message>
 </context>
 </TS>

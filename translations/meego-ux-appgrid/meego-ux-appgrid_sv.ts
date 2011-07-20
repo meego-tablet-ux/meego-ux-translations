@@ -4,7 +4,7 @@
     <message>
         <location filename="../../MainContent.qml" line="506"/>
         <source>Personalize</source>
-        <translation type="unfinished"/>
+        <translation>Anpassa</translation>
     </message>
 </context>
 </TS>

@@ -91,12 +91,12 @@
         <translation>登入社交網路</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="377"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="378"/>
         <source>Clear history</source>
         <translation>清除歷史</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="440"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="441"/>
         <source>Go to settings</source>
         <translation>前往設定</translation>
     </message>

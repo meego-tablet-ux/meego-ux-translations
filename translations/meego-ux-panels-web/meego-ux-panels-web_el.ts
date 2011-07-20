@@ -2,86 +2,86 @@
 <context>
     <name>webpanel</name>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="48"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="181"/>
-        <source>Recently visited</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="49"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="279"/>
-        <source>Bookmarks</source>
-        <translation type="unfinished"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="182"/>
+        <source>Recently visited</source>
+        <translation>Επισκεφθέντα πρόσφατα</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="109"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="50"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="280"/>
+        <source>Bookmarks</source>
+        <translation>Σελιδοδείκτες</translation>
+    </message>
+    <message>
+        <location filename="../../panelsrc/web/webpanel.qml" line="110"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="116"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="118"/>
         <source>Web</source>
         <comment>PanelTitle</comment>
         <extracomment>%1 is &quot;Web&quot; panel title
 ----------
 %1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="115"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="116"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ρυθμίσεις %1</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="117"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="118"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Περιεχόμενο τμήματος %1</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="152"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="205"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="121"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="153"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="206"/>
         <source>Visit a website</source>
-        <translation type="unfinished"/>
+        <translation>Επισκεφθείτε μια τοποθεσία web</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="120"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="121"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Απαλοιφή ιστορικού</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="146"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="147"/>
         <source>The latest websites you visit and your bookmarks will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Οι τελευταίες τοποθεσίες web που θα επισκεφθείτε και οι σελιδοδείκτες σας θα εμφανιστούν εδώ.</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="201"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="202"/>
         <source>No recently visited websites.</source>
-        <translation type="unfinished"/>
+        <translation>Δεν υπάρχουν τοποθεσίες web που έχουν δεχτεί επίσκεψη πρόσφατα.</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="219"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="220"/>
         <source>You have cleared the Web history</source>
-        <translation type="unfinished"/>
+        <translation>Έχετε απαλείψει το ιστορικό Web</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="233"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="236"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="290"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="292"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="234"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="237"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="291"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="293"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Προβολή</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="233"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="240"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="234"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="241"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Απόκρυψη</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/web/webpanel.qml" line="290"/>
-        <location filename="../../panelsrc/web/webpanel.qml" line="296"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="291"/>
+        <location filename="../../panelsrc/web/webpanel.qml" line="297"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Διαγραφή</translation>
     </message>
 </context>
 </TS>

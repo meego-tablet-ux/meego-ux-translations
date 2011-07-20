@@ -7,37 +7,42 @@
         <translation>اختر متراسل:</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="76"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="179"/>
         <source>You have no contacts with an email address</source>
         <translation>لا يوجد لديك متراسلين بعنوان بريد إلكتروني</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="79"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="182"/>
         <source>You have no contacts with a phone number</source>
         <translation>لا يوجد لديك متراسلين برقم الهاتف</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="82"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="185"/>
         <source>You have no contacts with an instant messaging account</source>
         <translation>لا يوجد لديك متراسلين بحساب المراسلة الفورية</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="85"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="188"/>
         <source>You have no contacts</source>
         <translation>لا يوجد لديك متراسلين</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="278"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="230"/>
+        <source>Type to search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../src/components/ContactsPicker.qml" line="397"/>
         <source>Idle</source>
         <translation>Idle</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="280"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="399"/>
         <source>Available</source>
         <translation>متاح</translation>
     </message>
     <message>
-        <location filename="../../src/components/ContactsPicker.qml" line="282"/>
+        <location filename="../../src/components/ContactsPicker.qml" line="401"/>
         <source>Busy</source>
         <translation>مشغول</translation>
     </message>
@@ -341,96 +346,117 @@
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="622"/>
+        <source>dddd d</source>
+        <comment>DMY</comment>
+        <extracomment>weekday and day where user chose DMY order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../lib/locale/meegolocale.cpp" line="627"/>
+        <source>dddd d</source>
+        <comment>YMD</comment>
+        <extracomment>weekday and day where user chose YMD order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../lib/locale/meegolocale.cpp" line="631"/>
+        <source>dddd d</source>
+        <comment>MDY</comment>
+        <extracomment>weekday and day where user chose MDY order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../lib/locale/meegolocale.cpp" line="642"/>
         <source>d MMMM</source>
         <extracomment>month and day where user chose DMY order (e.g. 31 January) Translate the format delimiters, not order MMMM = full month, d = day of month (QDateTime format string)</extracomment>
         <translation>يوم شهر</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="627"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="647"/>
         <source>MMMM d</source>
         <comment>YMD</comment>
         <extracomment>month and day where user chose YMD order (e.g. January 31) Translate the format delimiters, not order MMMM = full month, d = day of month (QDateTime format string)</extracomment>
         <translation>شهر يوم</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="631"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="651"/>
         <source>MMMM d</source>
         <comment>MDY</comment>
         <extracomment>month and day where user chose MDY order (e.g. January 31) Translate the format delimiters, not order MMMM = full month, d = day of month (QDateTime format string)</extracomment>
         <translation>شهر يوم</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="641"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="661"/>
         <source>MMMM yyyy</source>
         <comment>DMY</comment>
         <extracomment>month and year where user chose DMY order (e.g. January 2011) Translate the format delimiters, not order MMMM = full month, yyyy = full year (QDateTime format string)</extracomment>
         <translation>شهر سنه</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="646"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="666"/>
         <source>yyyy MMMM</source>
         <extracomment>month and year where user chose YMD order (e.g. 2011 January) Translate the format delimiters, not order MMMM = full month, yyyy = full year (QDateTime format string)</extracomment>
         <translation>سنه شهر</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="650"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="670"/>
         <source>MMMM yyyy</source>
         <comment>MDY</comment>
         <extracomment>month and year where user chose MDY order (e.g. January 2011) Translate the format delimiters, not order MMMM = full month, yyyy = full year (QDateTime format string)</extracomment>
         <translation>شهر سنه</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="660"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="680"/>
         <source>MMM yyyy</source>
         <comment>DMY</comment>
         <extracomment>short month and year where user chose DMY order (e.g. Jan 2011) Translate the format delimiters, not order MMM = short month, yyyy = full year (QDateTime format string)</extracomment>
         <translation>شهر سنه</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="665"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="685"/>
         <source>yyyy MMM</source>
         <extracomment>short month and year where user chose YMD order (e.g. 2011 Jan) Translate the format delimiters, not order MMM = short month, yyyy = full year (QDateTime format string)</extracomment>
         <translation>سنه شهر</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="669"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="689"/>
         <source>MMM yyyy</source>
         <comment>MDY</comment>
         <extracomment>short month and year where user chose MDY order (e.g. Jan 2011) Translate the format delimiters, not order MMM = short month, yyyy = full year (QDateTime format string)</extracomment>
         <translation>شهر سنه</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="675"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="695"/>
         <source>d</source>
         <extracomment>day of month (e.g. 31, no leading zero) You probably won't translate this d = day of month (QDateTime format string)</extracomment>
         <translation>يوم</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="681"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="701"/>
         <source>dddd</source>
         <extracomment>full day of week (e.g. Monday) You probably won't translate this dddd = full day of week (QDateTime format string)</extracomment>
         <translation>يوم</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="687"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="707"/>
         <source>ddd</source>
         <extracomment>short day of week (e.g. Mon) You probably won't translate this ddd = short day of week (QDateTime format string)</extracomment>
         <translation>يوم</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="693"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="713"/>
         <source>MMMM</source>
         <extracomment>full month (e.g. January) You probably won't translate this MMMM = full month (QDateTime format string)</extracomment>
         <translation>شهر</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="699"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="719"/>
         <source>MMM</source>
         <extracomment>short month (e.g. Jan) You probably won't translate this MMM = short month (QDateTime format string)</extracomment>
         <translation>شهر</translation>
     </message>
     <message>
-        <location filename="../../lib/locale/meegolocale.cpp" line="705"/>
+        <location filename="../../lib/locale/meegolocale.cpp" line="725"/>
         <source>yyyy</source>
         <extracomment>full year (e.g. 2011) You probably won't translate this yyyy = full year (QDateTime format string)</extracomment>
         <translation>سنه</translation>

@@ -2,74 +2,74 @@
 <context>
     <name>main</name>
     <message>
-        <location filename="../../main.qml" line="21"/>
+        <location filename="../../main.qml" line="22"/>
         <source>Videos</source>
         <translation>Vidéos</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="22"/>
+        <location filename="../../main.qml" line="23"/>
         <source>All</source>
         <translation>Toutes</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="23"/>
+        <location filename="../../main.qml" line="24"/>
         <source>Recently added</source>
         <translation>Ajoutées récemment</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="24"/>
+        <location filename="../../main.qml" line="25"/>
         <source>Recently viewed</source>
         <translation>Affichées récemment</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="25"/>
+        <location filename="../../main.qml" line="26"/>
         <source>Unwatched</source>
         <translation>Non affichées</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="26"/>
+        <location filename="../../main.qml" line="27"/>
         <source>Favorites</source>
         <translation>Favoris</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="28"/>
-        <location filename="../../main.qml" line="36"/>
+        <location filename="../../main.qml" line="29"/>
+        <location filename="../../main.qml" line="37"/>
         <source>Delete</source>
         <translation>Supprimer</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="29"/>
+        <location filename="../../main.qml" line="30"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="30"/>
+        <location filename="../../main.qml" line="31"/>
         <source>Play</source>
         <translation>Jouer</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="32"/>
+        <location filename="../../main.qml" line="33"/>
         <source>Favorite</source>
         <comment>Verb</comment>
         <translation>Favoris</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="34"/>
+        <location filename="../../main.qml" line="35"/>
         <source>Unfavorite</source>
         <translation>Supprimer des favoris</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="35"/>
+        <location filename="../../main.qml" line="36"/>
         <source>Share</source>
         <translation>Partager</translation>
     </message>
     <message>
-        <location filename="../../main.qml" line="37"/>
+        <location filename="../../main.qml" line="38"/>
         <source>Select multiple videos</source>
         <translation>Sélection multiple</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../main.qml" line="91"/>
+        <location filename="../../main.qml" line="92"/>
         <source>All (%n video(s))</source>
         <translation><numerusform>Tous (%n vidéo (s))</numerusform><numerusform>Tous (%n vidéo (s))</numerusform></translation>
     </message>

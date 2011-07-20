@@ -9,7 +9,7 @@
     <message>
         <location filename="../../emailsharingservice.cpp" line="64"/>
         <source>Sharing via Email</source>
-        <translation>Partilhar via correio eletrónico</translation>
+        <translation>Partilhar via Correio Eletrónico</translation>
     </message>
     <message>
         <location filename="../../emailsharingservice.cpp" line="79"/>

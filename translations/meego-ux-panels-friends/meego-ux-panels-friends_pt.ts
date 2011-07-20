@@ -91,12 +91,12 @@
         <translation>Iniciar sessão numa rede social</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="377"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="378"/>
         <source>Clear history</source>
         <translation>Apagar histórico</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="440"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="441"/>
         <source>Go to settings</source>
         <translation>Ir para definições</translation>
     </message>

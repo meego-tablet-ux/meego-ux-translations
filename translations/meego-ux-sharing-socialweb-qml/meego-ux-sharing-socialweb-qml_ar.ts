@@ -2,42 +2,42 @@
 <context>
     <name>CollectionsPicker</name>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="68"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="80"/>
         <source>Choose an album to upload to</source>
         <translation>اختر ألبوما لتحميل إلى</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="171"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="183"/>
         <source>Add a new album</source>
         <translation>إضافة ألبوم جديد</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="193"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="205"/>
         <source>Add a title</source>
         <translation>إضافة عنوان</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="212"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="224"/>
         <source>Cancel</source>
         <translation>إلغاء</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="311"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="323"/>
         <source>Video</source>
         <translation>الفيديو</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="313"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="325"/>
         <source>Photo</source>
         <translation>الصور</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="315"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="327"/>
         <source>Music</source>
         <translation>الموسيقى</translation>
     </message>
     <message>
-        <location filename="../../qml/CollectionsPicker.qml" line="317"/>
+        <location filename="../../qml/CollectionsPicker.qml" line="329"/>
         <source>Upload %1 to %2</source>
         <translation>رفع%1 إلى %2</translation>
     </message>
@@ -45,48 +45,48 @@
 <context>
     <name>CreateCollection</name>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="64"/>
+        <location filename="../../qml/CreateCollection.qml" line="76"/>
         <source>Choose a name for your new album</source>
         <translation>اختر اسما لألبومك الجديد</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="109"/>
+        <location filename="../../qml/CreateCollection.qml" line="121"/>
         <source>Album name</source>
         <translation>اسم الألبوم</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="138"/>
+        <location filename="../../qml/CreateCollection.qml" line="150"/>
         <source>Create album</source>
         <translation>إنشاء ألبوم</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="148"/>
-        <location filename="../../qml/CreateCollection.qml" line="235"/>
+        <location filename="../../qml/CreateCollection.qml" line="160"/>
+        <location filename="../../qml/CreateCollection.qml" line="247"/>
         <source>Collection creation: General error</source>
         <translation>خطأ في التعيين : خطأ عام</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="155"/>
+        <location filename="../../qml/CreateCollection.qml" line="167"/>
         <source>Cancel</source>
         <translation>إلغاء</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="243"/>
+        <location filename="../../qml/CreateCollection.qml" line="255"/>
         <source>Video</source>
         <translation>الفيديو</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="245"/>
+        <location filename="../../qml/CreateCollection.qml" line="257"/>
         <source>Photo</source>
         <translation>الصور</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="247"/>
+        <location filename="../../qml/CreateCollection.qml" line="259"/>
         <source>Music</source>
         <translation>الموسيقى</translation>
     </message>
     <message>
-        <location filename="../../qml/CreateCollection.qml" line="249"/>
+        <location filename="../../qml/CreateCollection.qml" line="261"/>
         <source>Upload %1 to %2</source>
         <translation>رفع%1 إلى %2</translation>
     </message>
@@ -99,47 +99,47 @@
         <translation>لا يوجد ألبوم</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="220"/>
+        <location filename="../../qml/MediaUploader.qml" line="234"/>
         <source>Cancel</source>
         <translation>إلغاء</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="251"/>
+        <location filename="../../qml/MediaUploader.qml" line="265"/>
         <source>Video</source>
         <translation>الفيديو</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="253"/>
+        <location filename="../../qml/MediaUploader.qml" line="267"/>
         <source>Photo</source>
         <translation>الصور</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="255"/>
+        <location filename="../../qml/MediaUploader.qml" line="269"/>
         <source>Music</source>
         <translation>الموسيقى</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="257"/>
+        <location filename="../../qml/MediaUploader.qml" line="271"/>
         <source>Upload %1 to %2</source>
         <translation>رفع%1 إلى %2</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="275"/>
+        <location filename="../../qml/MediaUploader.qml" line="289"/>
         <source>File %1 of %2</source>
         <translation>ملف%1 من %2</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="295"/>
+        <location filename="../../qml/MediaUploader.qml" line="309"/>
         <source>&lt;b&gt;Album:&lt;/b&gt; %1</source>
         <translation>&lt;b&gt;البوم:&lt;/b&gt; %1</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="300"/>
+        <location filename="../../qml/MediaUploader.qml" line="314"/>
         <source>Upload</source>
         <translation>تحميل</translation>
     </message>
     <message>
-        <location filename="../../qml/MediaUploader.qml" line="302"/>
+        <location filename="../../qml/MediaUploader.qml" line="316"/>
         <source>Next</source>
         <translation>التالي</translation>
     </message>

@@ -91,12 +91,12 @@
         <translation>Accedi ad un social network</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="377"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="378"/>
         <source>Clear history</source>
         <translation>Cancella cronologia</translation>
     </message>
     <message>
-        <location filename="../../panelsrc/friends/friendspanel.qml" line="440"/>
+        <location filename="../../panelsrc/friends/friendspanel.qml" line="441"/>
         <source>Go to settings</source>
         <translation>Vai a Impostazioni</translation>
     </message>

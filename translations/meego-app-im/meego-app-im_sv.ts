@@ -5,12 +5,12 @@
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="115"/>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="163"/>
         <source>An error occurred while trying to complete your request. Please try again.</source>
-        <translation type="unfinished"/>
+        <translation>Fel uppstod vid försök att slutföra din begäran. Försök igen.</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/addcontacthelper.cpp" line="176"/>
         <source>Account not found. Please enter a valid account name.</source>
-        <translation type="unfinished"/>
+        <translation>Hittade inte konto. Ange giltigt kontonamn.</translation>
     </message>
 </context>
 <context>
@@ -18,91 +18,90 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="119"/>
         <source>Unable to create media call for contact %1</source>
-        <translation type="unfinished"/>
+        <translation>Kan inte skapa mediesamtal för kontakten %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="172"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="181"/>
         <source>Error ending call</source>
-        <translation type="unfinished"/>
+        <translation>Fel när samtal avslutades</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="206"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1116"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="197"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1129"/>
         <source>Call could not be accepted</source>
-        <translation type="unfinished"/>
+        <translation>Kunde inte ta emot samtal</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="490"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="481"/>
         <source>Unable to set hold</source>
-        <translation type="unfinished"/>
+        <translation>Kan inte ställa in parkering</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="590"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="811"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="581"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="810"/>
         <source>Channel not available</source>
-        <translation type="unfinished"/>
+        <translation>Kanal inte tillgänglig</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="745"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="744"/>
         <source>Unable to create call channel for contact %1</source>
-        <translation type="unfinished"/>
+        <translation>Kan inte skapa samtalskanal för kontakt %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1074"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1087"/>
         <source>Unable to create channel: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Kan inte skapa kanal: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1089"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1102"/>
         <source>Unable to create channel</source>
-        <translation type="unfinished"/>
+        <translation>Kan inte skapa kanal</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1104"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1117"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Kan inte skapa samtalskanal för kontakt %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1161"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1174"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Samtalskanal har gjorts ogiltig för kontakt %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1487"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1500"/>
         <source>Error ending call: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Fel när samtal avslutades: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1502"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1515"/>
         <source>Call could not be accepted %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Kunde inte acceptera samtal %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1518"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1531"/>
         <source>Hold request could not be done %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Kunde inte utföra väntelägesbegäran %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1686"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1699"/>
         <source>Call resources were lost</source>
-        <translation type="unfinished"/>
+        <translation>Samtalsresurser förlorades</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1695"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1708"/>
         <source>Call resources not granted</source>
-        <translation type="unfinished"/>
+        <translation>Samtalsresurser beviljades inte</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1704"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1717"/>
         <source>Error acquiring call resources</source>
-        <translation type="unfinished"/>
+        <translation>Fel vid förvärv av samtalsresurser</translation>
     </message>
 </context>
 <context>
@@ -110,12 +109,12 @@
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="54"/>
         <source>Unable to create text channel room %1</source>
-        <translation type="unfinished"/>
+        <translation>Kan inte skapa SMS-kanalrum: %1 - %2</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="116"/>
         <source>Unable to create text channel for contact %1</source>
-        <translation>Kan inte skapa textkanal för kontakt %1</translation>
+        <translation>Kan inte skapa SMS-kanal för kontakt %1</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="138"/>
@@ -137,24 +136,24 @@
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="192"/>
         <source>Unable to create text channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation>Det går inte att skapa textkanal för kontakt %1 - %2 - %3</translation>
+        <translation>Det går inte att skapa SMS-kanal för kontakt %1 - %2 - %3</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/chatagent.cpp" line="210"/>
         <source>Unable to create text channel</source>
-        <translation type="unfinished"/>
+        <translation>Kan inte skapa SMS-kanal</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="266"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="265"/>
         <source>Invalidated text channel  %1 - %2 - %3</source>
         <extracomment>%1 room id - %2 error name - %3 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>SMS-kanal har gjorts ogiltig %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="272"/>
+        <location filename="../../telepathy-qml-lib/chatagent.cpp" line="271"/>
         <source>Invalidated text channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>SMS-kanal har gjorts ogiltig för kontakt %1 - %2 - %3</translation>
     </message>
 </context>
 <context>
@@ -162,7 +161,7 @@
     <message>
         <location filename="../../ContactDelegate.qml" line="140"/>
         <source>Report abuse</source>
-        <translation type="unfinished"/>
+        <translation>Rapportera felanvändning</translation>
     </message>
 </context>
 <context>
@@ -171,135 +170,135 @@
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="54"/>
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="94"/>
         <source>Channel not available</source>
-        <translation type="unfinished"/>
+        <translation>Kanal inte tillgänglig</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/filetransferagent.cpp" line="153"/>
         <source>Invalidated file transfer channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
-        <translation type="unfinished"/>
+        <translation>Filöverföringskanal har gjorts ogiltig för kontakt %1 - %2 - %3</translation>
     </message>
 </context>
 <context>
     <name>IMConversationModel</name>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="243"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="237"/>
         <source>%1 joined the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 har gått med i chatt</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="258"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="252"/>
         <source>%1 is typing</source>
         <translation>%1 skriver</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="260"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="254"/>
         <source>%1 and %2 are typing</source>
         <translation>%1 och %2 skriver</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="262"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="256"/>
         <source>Lots of people are typing</source>
         <translation>Många skriver</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="267"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="261"/>
         <source>%1 left the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 lämnade chatt</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="275"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="269"/>
         <source>%1 has paused typing</source>
-        <translation type="unfinished"/>
+        <translation>%1 har pausat skrivandet</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="283"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="277"/>
         <source>%1 is now idle</source>
-        <translation type="unfinished"/>
+        <translation>%1 är nu ledig</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="367"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="361"/>
         <source>%1 is calling you</source>
-        <translation type="unfinished"/>
+        <translation>%1 ringer dig</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="371"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="365"/>
         <source>Setting up call to %1</source>
         <translation>Ställer in samtal till %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="374"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="368"/>
         <source>Calling %1</source>
         <translation>Ringer %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="377"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="371"/>
         <source>Call with %1 started</source>
         <translation>Samtal med %1 startade</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="380"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="374"/>
         <source>Call with %1 on hold</source>
         <translation>Samtal med %1 parkerat</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="440"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="434"/>
         <source>Error in call with %1</source>
         <translation>Fel i samtal med %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="468"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="462"/>
         <source>%1 bytes</source>
-        <translation type="unfinished"/>
+        <translation>%1 byte</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="472"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="466"/>
         <source>%1 KB</source>
-        <translation type="unfinished"/>
+        <translation>%1 kB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="476"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="470"/>
         <source>%1 MB</source>
-        <translation type="unfinished"/>
+        <translation>%1 MB</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="480"/>
+        <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="474"/>
         <source>%1 GB</source>
-        <translation type="unfinished"/>
+        <translation>%1 GB</translation>
     </message>
 </context>
 <context>
     <name>IMFeedModel</name>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="341"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="344"/>
         <source>Add as friend?</source>
         <translation>Lägg till som vän?</translation>
     </message>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="481"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="469"/>
         <source>Incoming call from %1</source>
-        <translation type="unfinished"/>
+        <translation>Inkommande samtal från %1</translation>
     </message>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="484"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="472"/>
         <source>Incoming file transfer from %1</source>
-        <translation type="unfinished"/>
+        <translation>Inkommande filöverföring från %1</translation>
     </message>
     <message>
-        <location filename="../../panels-plugin/imfeedmodel.cpp" line="542"/>
+        <location filename="../../panels-plugin/imfeedmodel.cpp" line="530"/>
         <source>has been added as contact</source>
         <extracomment>Message indicating the contact has been added
 ----------
 Message indicating the contact has been added</extracomment>
-        <translation type="unfinished"/>
+        <translation>har lagts till som kontakt</translation>
     </message>
 </context>
 <context>
     <name>IMGroupChatModelItem</name>
     <message>
-        <location filename="../../plugin/imgroupchatmodelitem.cpp" line="69"/>
+        <location filename="../../plugin/imgroupchatmodelitem.cpp" line="72"/>
         <source>%1 chatting</source>
-        <translation type="unfinished"/>
+        <translation>%1 chattar</translation>
     </message>
 </context>
 <context>
@@ -307,47 +306,47 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../settings/ImSettings.qml" line="18"/>
         <source>Instant Messaging Settings</source>
-        <translation type="unfinished"/>
+        <translation>Inställningar för snabbmeddelanden</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="120"/>
+        <location filename="../../settings/ImSettings.qml" line="112"/>
         <source>Accounts</source>
         <translation>Konton</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="149"/>
+        <location filename="../../settings/ImSettings.qml" line="141"/>
         <source>Add another account</source>
         <translation>Lägg till ytterligare konto</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="150"/>
+        <location filename="../../settings/ImSettings.qml" line="142"/>
         <source>Add an account</source>
-        <translation type="unfinished"/>
+        <translation>Lägg till ett konto</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="167"/>
+        <location filename="../../settings/ImSettings.qml" line="159"/>
         <source>General Settings</source>
-        <translation type="unfinished"/>
+        <translation>Allmänna inställningar</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="189"/>
+        <location filename="../../settings/ImSettings.qml" line="183"/>
         <source>Show offline contacts</source>
         <translation>Visa kontakter som är offline</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="227"/>
         <source>Notification on new message</source>
-        <translation>Anmälan om nytt meddelande</translation>
+        <translation>Notifikation om nytt meddelande</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="264"/>
+        <location filename="../../settings/ImSettings.qml" line="268"/>
         <source>Clear chat history</source>
-        <translation type="unfinished"/>
+        <translation>Rensa chatthistorik</translation>
     </message>
     <message>
-        <location filename="../../settings/ImSettings.qml" line="288"/>
+        <location filename="../../settings/ImSettings.qml" line="292"/>
         <source>Blocked contacts</source>
-        <translation type="unfinished"/>
+        <translation>Blockerade kontakter</translation>
     </message>
 </context>
 <context>
@@ -355,35 +354,35 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="51"/>
         <source>Require encryption</source>
-        <translation type="unfinished"/>
+        <translation>Kräv kryptering</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="64"/>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Prioritet:</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="77"/>
         <source>Resource:</source>
-        <translation type="unfinished"/>
+        <translation>Resurs:</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="90"/>
         <source>Server:</source>
-        <translation type="unfinished"/>
+        <translation>Server:</translation>
     </message>
     <message>
         <location filename="../../protocols/JabberAccountContent.qml" line="103"/>
         <source>Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port:</translation>
     </message>
 </context>
 <context>
     <name>NotificationManager</name>
     <message>
-        <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="131"/>
+        <location filename="../../telepathy-qml-lib/notificationmanager.cpp" line="158"/>
         <source>%1 is sending you the file %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 skickar dig filen %2</translation>
     </message>
 </context>
 <context>
@@ -392,7 +391,7 @@ Message indicating the contact has been added</extracomment>
         <location filename="../../SearchHeader.qml" line="50"/>
         <source>%n matches found</source>
         <extracomment>%n is the number of items matching the search criteria</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Hittade %n resultat</numerusform><numerusform>Hittade %n resultat</numerusform></translation>
     </message>
 </context>
 <context>
@@ -400,27 +399,27 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../StatusModel.qml" line="9"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>Tillgänglig</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="14"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Frånvarande</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="19"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Upptagen</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="24"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Osynlig</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="29"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Offline</translation>
     </message>
 </context>
 <context>
@@ -429,7 +428,7 @@ Message indicating the contact has been added</extracomment>
         <location filename="../../telepathy-qml-lib/telepathymanager.cpp" line="265"/>
         <source>%1 - %2</source>
         <extracomment>%1 is the display name for contact - %2 is the service name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -437,515 +436,515 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../constants.js" line="4"/>
         <source>Multiple accounts connected</source>
-        <translation type="unfinished"/>
+        <translation>Flera konton anslutna</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="5"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation type="unfinished"/>
+        <translation>Vill du verkligen ansluta detta konto? Om du gör detta kopplas alla andra %1-konton från.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="6"/>
         <location filename="../../constants.js" line="35"/>
         <source>Log out</source>
-        <translation type="unfinished"/>
+        <translation>Logga ut</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="7"/>
         <source>Log in to %1</source>
-        <translation type="unfinished"/>
+        <translation>Logga in till %1</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="8"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="11"/>
         <source>Account list</source>
-        <translation type="unfinished"/>
+        <translation>Kontolista</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="12"/>
         <source>Loading accounts...</source>
-        <translation type="unfinished"/>
+        <translation>Laddar konton...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="13"/>
         <source>Choose an account</source>
-        <translation type="unfinished"/>
+        <translation>Välj ett konto</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="14"/>
         <source>Add an account</source>
-        <translation type="unfinished"/>
+        <translation>Lägg till ett konto</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="15"/>
         <source>Your account has been added</source>
-        <translation type="unfinished"/>
+        <translation>Ditt konto har lagts till</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="18"/>
         <source>Friend&apos;s username</source>
-        <translation type="unfinished"/>
+        <translation>Vännens användarnamn</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="19"/>
         <location filename="../../constants.js" line="104"/>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Skicka</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="20"/>
         <source>Sending request</source>
-        <translation type="unfinished"/>
+        <translation>Skickar begäran</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="21"/>
         <source>Request sent</source>
-        <translation type="unfinished"/>
+        <translation>Begäran har skickats</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="22"/>
         <source>Your device is not connected to a network. Please connect and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Din enhet är inte ansluten till ett nätverk. Anslut och försök igen.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="25"/>
         <source>Update status</source>
-        <translation type="unfinished"/>
+        <translation>Uppdatera status</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="26"/>
         <source>Your Status:</source>
-        <translation type="unfinished"/>
+        <translation>Din status:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="27"/>
         <source>Custom status message</source>
-        <translation type="unfinished"/>
+        <translation>Anpassat statusmeddelande</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="28"/>
         <location filename="../../constants.js" line="31"/>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Uppdatera</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="29"/>
         <source>Change display name</source>
-        <translation type="unfinished"/>
+        <translation>Ändra visningsnamn</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="30"/>
         <source>Display name</source>
-        <translation type="unfinished"/>
+        <translation>Visningsnamn</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="32"/>
         <location filename="../../constants.js" line="58"/>
         <source>Add a friend</source>
-        <translation type="unfinished"/>
+        <translation>Lägg till vän</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="33"/>
         <location filename="../../constants.js" line="79"/>
         <source>Clear chat history</source>
-        <translation type="unfinished"/>
+        <translation>Rensa chatthistorik</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="34"/>
         <source>Log in</source>
-        <translation type="unfinished"/>
+        <translation>Logga in</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="38"/>
         <source>Return to chat</source>
-        <translation type="unfinished"/>
+        <translation>Gå tillbaka till chatt</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="39"/>
         <source>Open chat</source>
-        <translation type="unfinished"/>
+        <translation>Öppna chatt</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="40"/>
         <source>Call</source>
-        <translation type="unfinished"/>
+        <translation>Ring</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="41"/>
         <source>Video call</source>
-        <translation type="unfinished"/>
+        <translation>Videosamtal</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="42"/>
         <source>Unblock</source>
-        <translation type="unfinished"/>
+        <translation>Avblockera</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="43"/>
         <source>Block</source>
-        <translation type="unfinished"/>
+        <translation>Blockera</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="44"/>
         <location filename="../../constants.js" line="80"/>
         <source>End chat</source>
-        <translation type="unfinished"/>
+        <translation>Avsluta chatt</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="45"/>
         <source>Delete contact</source>
-        <translation type="unfinished"/>
+        <translation>Ta bort kontakt</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="48"/>
         <location filename="../../constants.js" line="78"/>
         <source>Add contacts to chat</source>
-        <translation type="unfinished"/>
+        <translation>Lägg till kontakter i chatt</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="49"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="50"/>
         <location filename="../../constants.js" line="55"/>
         <location filename="../../constants.js" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="53"/>
         <source>Friend request from</source>
-        <translation type="unfinished"/>
+        <translation>Vänbegäran från</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="54"/>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Acceptera</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="59"/>
         <source>Loading contacts...</source>
-        <translation type="unfinished"/>
+        <translation>Laddar kontakter...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="60"/>
         <source>You haven&apos;t added any friends yet</source>
-        <translation type="unfinished"/>
+        <translation>Du har inte lagt till några kontakter ännu.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="61"/>
         <source>Account is offline</source>
-        <translation type="unfinished"/>
+        <translation>Konto är offline</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="62"/>
         <source>Logging in...</source>
-        <translation type="unfinished"/>
+        <translation>Loggar in...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="65"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Öppna</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="66"/>
         <source>There was a problem downloading</source>
-        <translation type="unfinished"/>
+        <translation>Det uppstod problem vid nedladdning</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="67"/>
         <source>There was a problem uploading</source>
-        <translation type="unfinished"/>
+        <translation>Det uppstod problem vid uppladdning</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="68"/>
         <source>Canceled</source>
-        <translation type="unfinished"/>
+        <translation>Avbruten</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Spara</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="70"/>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Avslå</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="74"/>
         <source>Private chat</source>
-        <translation type="unfinished"/>
+        <translation>Privat chatt</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="75"/>
         <source>Add to contacts</source>
-        <translation type="unfinished"/>
+        <translation>Lägg till i kontakter</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="84"/>
         <source>(%1)</source>
         <extracomment>%1 is the file size</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="85"/>
         <source>Upload canceled:</source>
-        <translation type="unfinished"/>
+        <translation>Uppladdning avbröts:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="86"/>
         <source>Sent:</source>
-        <translation type="unfinished"/>
+        <translation>Skickat:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="87"/>
         <source>Uploading:</source>
-        <translation type="unfinished"/>
+        <translation>Laddar upp:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="89"/>
         <source>%1 has sent you:</source>
         <extracomment>%1 is the nickname of the contact sending you a file</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 har skickat dig:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="91"/>
         <source>%1 is sending you:</source>
         <extracomment>%1 is the nickname of the contact sending you a file</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 skickar dig:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="93"/>
         <source>%1 - %2</source>
         <extracomment>%1 is event describing what happened - %2 is date and time</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="95"/>
         <source>%1 tried to call - %2</source>
         <extracomment>%1 contact id who called - %2 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 försökte ringa - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="97"/>
         <source>%1 rejected call - %2</source>
         <extracomment>%1 contact id who rejected the call - %2 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 avvisade samtal - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="99"/>
         <source>%1 called - duration %2 - %3</source>
         <extracomment>%1 contact id who called - %2 duration of the call - %3 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 ringde - längd %2 - %3</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="102"/>
         <source>Opening chat...</source>
-        <translation type="unfinished"/>
+        <translation>Öppnar chatt...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="103"/>
         <source>Loading conversation history...</source>
-        <translation type="unfinished"/>
+        <translation>Laddar tidigare konversationer...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="105"/>
         <source>Group conversation</source>
-        <translation type="unfinished"/>
+        <translation>Gruppkonversation</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="107"/>
         <source>Chat with %1</source>
         <extracomment>%1 is the nickname of the contact you are chatting with</extracomment>
-        <translation type="unfinished"/>
+        <translation>Chatta med %1</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="110"/>
         <source>Sorry, we can&apos;t login because it is not connected to a network. Go to Wireless &amp; Network settings and connect to an available network</source>
-        <translation type="unfinished"/>
+        <translation>Vi kan inte logga in eftersom den inte är ansluten till ett nätverk. Gå till inställningarna för trådlöst och nätverk och anslut till ett tillgängligt nätverk</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="113"/>
         <source>Change your picture:</source>
-        <translation type="unfinished"/>
+        <translation>Ändra din bild:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="114"/>
         <source>Take picture</source>
-        <translation type="unfinished"/>
+        <translation>Ta bild</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="115"/>
         <source>Choose picture</source>
-        <translation type="unfinished"/>
+        <translation>Välj bild</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="118"/>
         <source>Older</source>
-        <translation type="unfinished"/>
+        <translation>Äldre</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="119"/>
         <source>Newer</source>
-        <translation type="unfinished"/>
+        <translation>Nyare</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="122"/>
         <source>Send:</source>
-        <translation type="unfinished"/>
+        <translation>Skicka:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="123"/>
         <source>Photo</source>
-        <translation type="unfinished"/>
+        <translation>Foto</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="124"/>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="125"/>
         <source>Music</source>
-        <translation type="unfinished"/>
+        <translation>Musik</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="126"/>
         <source>Contact Details</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktdetaljer</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="130"/>
         <source>Call with %1</source>
         <extracomment>%1 is the nickname of the contact you are in a call with</extracomment>
-        <translation type="unfinished"/>
+        <translation>Samtal med %1</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="131"/>
         <source>Minimize me</source>
-        <translation type="unfinished"/>
+        <translation>Minimera mig</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="132"/>
         <source>Maximize me</source>
-        <translation type="unfinished"/>
+        <translation>Maximera mig</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="133"/>
         <source>Disable camera</source>
-        <translation type="unfinished"/>
+        <translation>Inaktivera kamera</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="134"/>
         <source>Enable camera</source>
-        <translation type="unfinished"/>
+        <translation>Aktivera kamera</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="135"/>
         <source>Swap camera</source>
-        <translation type="unfinished"/>
+        <translation>Växla kamera</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="138"/>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Chatt</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="139"/>
         <source>Account switcher</source>
-        <translation type="unfinished"/>
+        <translation>Kontobytare</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="140"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>Tillgänglig</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="141"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Upptagen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="142"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Frånvarande</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="143"/>
         <source>Extended away</source>
-        <translation type="unfinished"/>
+        <translation>Längre frånvaro</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="144"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Frånkopplad</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="145"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Osynlig</translation>
+    </message>
+    <message>
+        <location filename="../../constants.js" line="148"/>
+        <source>Sorry, there was a problem logging in. Please retype your username and password.</source>
+        <translation>Det uppstod problem vid inloggning. Skriv in ditt användarnamn och lösenord igen.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="149"/>
-        <source>Sorry, there was a problem logging in. Please retype your username and password.</source>
-        <translation type="unfinished"/>
+        <source>Sorry, there was a problem logging in to %1. Please go to Settings and retype your username and password.</source>
+        <translation>Det uppstod problem vid inloggning till %1. Gå till Inställningar och skriv in ditt användarnamn och lösenord igen.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="150"/>
-        <source>Sorry, there was a problem logging in to %1. Please go to Settings and retype your username and password.</source>
-        <translation type="unfinished"/>
+        <source>Sorry, there was a problem logging in. Please go to Settings and retype your username and password.</source>
+        <translation>Det uppstod problem vid inloggning. Gå till Inställningar och skriv in ditt användarnamn och lösenord igen.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="151"/>
-        <source>Sorry, there was a problem logging in. Please go to Settings and retype your username and password.</source>
-        <translation type="unfinished"/>
+        <source>Sorry, there was a problem logging in to %1. Please try again later.</source>
+        <translation>Det uppstod problem vid inloggning till %1. Försök igen senare.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="152"/>
-        <source>Sorry, there was a problem logging in to %1. Please try again later.</source>
-        <translation type="unfinished"/>
+        <source>Sorry, there was a problem logging in. Please try again later.</source>
+        <translation>Det uppstod problem vid inloggning. Försök igen senare.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="153"/>
-        <source>Sorry, there was a problem logging in. Please try again later.</source>
-        <translation type="unfinished"/>
+        <source>It looks like you have logged in to %1 from somewhere else, so we have logged you out from this tablet. Try logging in again</source>
+        <translation>Det ser ut som om du har loggat in till %1 från någon annanstans, så vi har loggat ut dig från denna surfplatta. Försök logga in igen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="154"/>
-        <source>It looks like you have logged in to %1 from somewhere else, so we have logged you out from this tablet. Try logging in again</source>
-        <translation type="unfinished"/>
+        <source>It looks like you have logged in to this account from somewhere else, so we have logged you out from this tablet. Try logging in again</source>
+        <translation>Det ser ut som om du har loggat in till detta konto från någon annanstans, så vi har loggat ut dig från denna surfplatta. Försök logga in igen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="155"/>
-        <source>It looks like you have logged in to this account from somewhere else, so we have logged you out from this tablet. Try logging in again</source>
-        <translation type="unfinished"/>
+        <source>Sorry, there was a problem logging in. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
+        <translation>Det uppstod problem vid inloggning. Avmarkera alternativet Kryptering krävs i Avancerade inställningar för att försöka lösa problemet.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="156"/>
-        <source>Sorry, there was a problem logging in. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <source>Sorry, there was a problem logging in to %1. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
+        <translation>Det uppstod problem vid inloggning till %1. Avmarkera alternativet Kryptering krävs i Avancerade inställningar för att försöka lösa problemet.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="157"/>
-        <source>Sorry, there was a problem logging in to %1. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <source>Sorry, there was a problem logging in. Selecting the &apos;Ignore SSL certificate errors&apos; option in the account Advanced settings should solve this problem.</source>
+        <translation>Det uppstod problem vid inloggning. Markera alternativet Ignorera SSL-certifikatfel i kontots Avancerade inställningar för att försöka lösa problemet.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="158"/>
-        <source>Sorry, there was a problem logging in. Selecting the &apos;Ignore SSL certificate errors&apos; option in the account Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../constants.js" line="159"/>
         <source>Sorry, there was a problem logging in to %1. Selecting the &apos;Ignore SSL certificate errors&apos; option in the account Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <translation>Det uppstod problem vid inloggning till %1. Markera alternativet Ignorera SSL-certifikatfel i kontots Avancerade inställningar för att försöka lösa problemet.</translation>
     </message>
 </context>
 <context>
@@ -953,120 +952,120 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="4"/>
         <source>Multiple accounts connected</source>
-        <translation type="unfinished"/>
+        <translation>Flera konton anslutna</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="6"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
         <extracomment>%1 is the name of the service whose accounts are going to be disconnected, for example: Jabber or Google Talk</extracomment>
-        <translation type="unfinished"/>
+        <translation>Vill du verkligen ansluta detta konto? Om du gör detta kopplas alla andra %1-konton från.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="7"/>
         <source>There is already an account configured using this login. Please check your username.</source>
-        <translation type="unfinished"/>
+        <translation>Det finns redan ett konto som konfigurerats med denna inloggning. Kontrollera ditt användarnamn.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="8"/>
         <source>Sorry, there was a problem logging in. Please check your username and password.</source>
-        <translation type="unfinished"/>
+        <translation>Det uppstod problem vid inloggning. Kontrollera ditt användarnamn och lösenord.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="9"/>
         <source>Username:</source>
-        <translation type="unfinished"/>
+        <translation>Användarnamn:</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="10"/>
         <source>Name / ID</source>
-        <translation type="unfinished"/>
+        <translation>Namn/ID</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="11"/>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Lösenord:</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="12"/>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Lösenord</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="13"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"/>
+        <translation>Avancerade inställningar</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="16"/>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Färdig</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="17"/>
         <location filename="../../plugin/IM/imconstants.js" line="24"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="20"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>Lägg till konto</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="23"/>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Uppdatera</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="25"/>
         <location filename="../../plugin/IM/imconstants.js" line="26"/>
         <source>Delete account</source>
-        <translation type="unfinished"/>
+        <translation>Ta bort konto</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="27"/>
         <source>Are you sure to delete this account?</source>
-        <translation type="unfinished"/>
+        <translation>Är du säker på att du vill ta bort detta konto?</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="30"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ja</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="31"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nej</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="34"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>Tillgänglig</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="35"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Upptagen</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="36"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Frånvarande</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="37"/>
         <source>Extended away</source>
-        <translation type="unfinished"/>
+        <translation>Längre frånvaro</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="38"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Frånkopplad</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="39"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Osynlig</translation>
     </message>
 </context>
 <context>
@@ -1074,42 +1073,42 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../utils.js" line="17"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Felmeddelande</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="19"/>
         <source>No Call</source>
-        <translation type="unfinished"/>
+        <translation>Inget samtal</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="23"/>
         <source>Incoming</source>
-        <translation type="unfinished"/>
+        <translation>Inkommande</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="26"/>
         <source>Connecting</source>
-        <translation type="unfinished"/>
+        <translation>Ansluter</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="29"/>
         <source>Ringing</source>
-        <translation type="unfinished"/>
+        <translation>Ringer</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="36"/>
         <source>On Hold</source>
-        <translation type="unfinished"/>
+        <translation>Parkerat</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="39"/>
         <source>Hanging up</source>
-        <translation type="unfinished"/>
+        <translation>Lägger på</translation>
     </message>
     <message>
         <location filename="../../utils.js" line="42"/>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Okänd enhet</translation>
     </message>
 </context>
 </TS>

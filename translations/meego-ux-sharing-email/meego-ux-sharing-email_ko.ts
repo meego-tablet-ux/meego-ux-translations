@@ -14,7 +14,7 @@
     <message>
         <location filename="../../emailsharingservice.cpp" line="79"/>
         <source>Email</source>
-        <translation>이메일 보내기</translation>
+        <translation>이메일</translation>
     </message>
 </context>
 </TS>
