@@ -510,7 +510,7 @@ IDS_CONTENT_CONTEXT_GOTOURL
 - description: In Title Case: The name of the Save Video As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Salvează fișierul video ca...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>

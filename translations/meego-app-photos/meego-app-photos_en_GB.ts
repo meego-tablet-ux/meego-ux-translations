@@ -378,7 +378,7 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="766"/>
         <source>Are you sure you want to delete the %n selected photos?</source>
         <extracomment>This is a label for the photo deletion confirmation modal dialog when removing photos</extracomment>
-        <translation><numerusform>Are you sure you want to delete %n selected photo?</numerusform><numerusform>Are you sure you want to delete the %n selected photos?</numerusform></translation>
+        <translation><numerusform>Are you sure you want to delete the %n selected photo?</numerusform><numerusform>Are you sure you want to delete the %n selected photos?</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../main.qml" line="1245"/>

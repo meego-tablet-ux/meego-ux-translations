@@ -29,7 +29,7 @@
     <message>
         <location filename="../../src/components/ContactsPicker.qml" line="230"/>
         <source>Type to search</source>
-        <translation type="unfinished"/>
+        <translation>Írjon valamit a kereséshez</translation>
     </message>
     <message>
         <location filename="../../src/components/ContactsPicker.qml" line="397"/>
