@@ -236,7 +236,7 @@
     <message numerus="yes">
         <location filename="../../NotebooksView.qml" line="409"/>
         <source>Are you sure you want to delete these %n notebook(s)?</source>
-        <translation><numerusform>Are you sure you want to delete these %n notebook(s)?</numerusform><numerusform>Are you sure you want to delete these %n notebook(s)?</numerusform></translation>
+        <translation><numerusform>Are you sure you want to delete this %n notebook?</numerusform><numerusform>Are you sure you want to delete these %n notebooks?</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="411"/>
@@ -264,7 +264,7 @@
     <message numerus="yes">
         <location filename="../../NotebooksView.qml" line="449"/>
         <source>%n notebook(s) have been deleted</source>
-        <translation><numerusform>%n notebook(s) have been deleted</numerusform><numerusform>%n notebook(s) have been deleted</numerusform></translation>
+        <translation><numerusform>%n notebook has been deleted</numerusform><numerusform>%n notebooks have been deleted</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="452"/>
@@ -394,7 +394,7 @@
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="497"/>
         <source>%n note(s) have successfully been moved to &quot;%2&quot;</source>
-        <translation><numerusform>%n note(s) have successfully been moved to &amp;quot;%2&amp;quot;</numerusform><numerusform>%n note(s) have successfully been moved to &amp;quot;%2&amp;quot;</numerusform></translation>
+        <translation><numerusform>%n note has successfully been moved to &amp;quot;%2&amp;quot;</numerusform><numerusform>%n notes have successfully been moved to &amp;quot;%2&amp;quot;</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="500"/>
@@ -444,7 +444,7 @@
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="580"/>
         <source>Are you sure you want to delete these %n note(s)?</source>
-        <translation><numerusform>Are you sure you want to delete these %n note(s)?</numerusform><numerusform>Are you sure you want to delete these %n note(s)?</numerusform></translation>
+        <translation><numerusform>Are you sure you want to delete this %n note?</numerusform><numerusform>Are you sure you want to delete these %n notes?</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="582"/>
@@ -473,7 +473,7 @@
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="620"/>
         <source>%n note(s) have been deleted</source>
-        <translation><numerusform>%n note(s) have been deleted</numerusform><numerusform>%n note(s) have been deleted</numerusform></translation>
+        <translation><numerusform>%n note has been deleted</numerusform><numerusform>%n notes have been deleted</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="622"/>

@@ -71,7 +71,7 @@
     <message numerus="yes">
         <location filename="../../main.qml" line="92"/>
         <source>All (%n video(s))</source>
-        <translation><numerusform>All (%n video(s))</numerusform><numerusform>All (%n video(s))</numerusform></translation>
+        <translation><numerusform>All (%n video)</numerusform><numerusform>All (%n videos)</numerusform></translation>
     </message>
 </context>
 </TS>

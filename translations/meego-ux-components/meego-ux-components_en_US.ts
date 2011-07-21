@@ -238,7 +238,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="34"/>
         <source>%n min(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation><numerusform>%n min(s) ago</numerusform><numerusform>%n min(s) ago</numerusform></translation>
+        <translation><numerusform>%n min ago</numerusform><numerusform>%n mins ago</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="37"/>
@@ -262,7 +262,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="46"/>
         <source>%n hour(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation><numerusform>%n hour(s) ago</numerusform><numerusform>%n hour(s) ago</numerusform></translation>
+        <translation><numerusform>%n hour ago</numerusform><numerusform>%n hours ago</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="51"/>
@@ -297,7 +297,7 @@
     <message numerus="yes">
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="71"/>
         <source>%n week(s) ago</source>
-        <translation><numerusform>%n week(s) ago</numerusform><numerusform>%n week(s) ago</numerusform></translation>
+        <translation><numerusform>%n week ago</numerusform><numerusform>%n weeks ago</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="74"/>
@@ -315,7 +315,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="84"/>
         <source>%n month(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation><numerusform>%n month(s) ago</numerusform><numerusform>%n month(s) ago</numerusform></translation>
+        <translation><numerusform>%n month ago</numerusform><numerusform>%n months ago</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="87"/>
@@ -327,7 +327,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="91"/>
         <source>%n year(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation><numerusform>%n year(s) ago</numerusform><numerusform>%n year(s) ago</numerusform></translation>
+        <translation><numerusform>%n year ago</numerusform><numerusform>%n years ago</numerusform></translation>
     </message>
 </context>
 <context>
