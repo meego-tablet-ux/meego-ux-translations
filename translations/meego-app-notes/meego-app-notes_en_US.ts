@@ -292,7 +292,7 @@
     <message numerus="yes">
         <location filename="../../NotebooksView.qml" line="555"/>
         <source>%n note(s)</source>
-        <translation><numerusform>%n note(s)</numerusform><numerusform>%n note(s)</numerusform></translation>
+        <translation><numerusform>%n note</numerusform><numerusform>%n notes</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="561"/>
