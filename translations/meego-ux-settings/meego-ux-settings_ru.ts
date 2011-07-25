@@ -4,18 +4,18 @@
     <message>
         <location filename="../../General/BacklightSettings.qml" line="39"/>
         <source>Set brightness automatically</source>
-        <translation type="unfinished"/>
+        <translation>Настраивать яркость автоматически</translation>
     </message>
     <message>
         <location filename="../../General/BacklightSettings.qml" line="71"/>
         <source>Brightness</source>
-        <translation type="unfinished"/>
+        <translation>Яркость</translation>
     </message>
     <message>
         <location filename="../../General/BacklightSettings.qml" line="82"/>
         <source>%1%</source>
         <comment>slider value percentage</comment>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -24,40 +24,40 @@
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="68"/>
         <source>Disconnect audio</source>
-        <translation type="unfinished"/>
+        <translation>Отключить аудио</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="72"/>
         <source>Connect audio</source>
-        <translation type="unfinished"/>
+        <translation>Подключить аудио</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="92"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="103"/>
         <source>Disconnect input device</source>
-        <translation type="unfinished"/>
+        <translation>Отключить устройство ввода</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="92"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="107"/>
         <source>Connect input device</source>
-        <translation type="unfinished"/>
+        <translation>Подключить устройство ввода</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="128"/>
         <source>Disconnect internet</source>
-        <translation type="unfinished"/>
+        <translation>Отключить Интернет</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="128"/>
         <source>Connect internet</source>
-        <translation type="unfinished"/>
+        <translation>Подключить Интернет</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="183"/>
         <source>Connect actions</source>
-        <translation type="unfinished"/>
+        <translation>Действия по подключению</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="235"/>
@@ -82,7 +82,7 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="272"/>
         <source>Hardware address: %1</source>
-        <translation type="unfinished"/>
+        <translation>Аппаратный адрес: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="281"/>
@@ -116,17 +116,17 @@
     <message numerus="yes">
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="116"/>
         <source>Discoverable for %n, second(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Видимый в течение %n сек.</numerusform><numerusform>Видимый в течение %n сек.</numerusform><numerusform>Видимый в течение %n сек.</numerusform></translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="185"/>
         <source>Paired devices</source>
-        <translation type="unfinished"/>
+        <translation>Сопряженные устройства</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="200"/>
         <source>Add device</source>
-        <translation type="unfinished"/>
+        <translation>Добавить устройство</translation>
     </message>
 </context>
 <context>
@@ -139,117 +139,117 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="28"/>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Вы уверены?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="33"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="34"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="81"/>
         <source>Default search engine</source>
-        <translation type="unfinished"/>
+        <translation>Программа поиска по умолчанию</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="120"/>
         <source>Show bookmarks bar</source>
-        <translation type="unfinished"/>
+        <translation>Показывать панель закладок</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="147"/>
         <source>Offer to save passwords</source>
-        <translation type="unfinished"/>
+        <translation>Предложить сохранить пароли</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="173"/>
         <source>Allow JavaScript</source>
-        <translation type="unfinished"/>
+        <translation>Разрешить JavaScript</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="199"/>
         <source>Allow Images</source>
-        <translation type="unfinished"/>
+        <translation>Разрешить изображения</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="226"/>
         <source>Allow Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Разрешить Cookies</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="252"/>
         <source>Block popups</source>
-        <translation type="unfinished"/>
+        <translation>Блокировать всплывающие окна</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="278"/>
         <source>Use HTTP proxy</source>
-        <translation type="unfinished"/>
+        <translation>Использовать прокси HTTP</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="305"/>
         <source>HTTP Proxy details</source>
-        <translation type="unfinished"/>
+        <translation>Информация прокси HTTP</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="368"/>
         <source>Clear Browsing History</source>
-        <translation type="unfinished"/>
+        <translation>Очистить историю посещения веб-страниц</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="371"/>
         <source>Are you sure about clearing the browsing history?</source>
-        <translation type="unfinished"/>
+        <translation>Действительно очистить историю посещения веб-страниц?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="381"/>
         <source>Clear Download History</source>
-        <translation type="unfinished"/>
+        <translation>Очистить историю загрузок</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="384"/>
         <source>Are you sure about clearing the download history?</source>
-        <translation type="unfinished"/>
+        <translation>Действительно очистить историю загрузок?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="394"/>
         <source>Clear Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Очистить Cookies</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="397"/>
         <source>Are you sure about clearing your cookies?</source>
-        <translation type="unfinished"/>
+        <translation>Действительно очистить файлы Cookies?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="407"/>
         <source>Clear Saved Passwords</source>
-        <translation type="unfinished"/>
+        <translation>Очистить сохраненные пароли</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="410"/>
         <source>Are you sure about clearing your saved passwords?</source>
-        <translation type="unfinished"/>
+        <translation>Действительно очистить сохраненные пароли?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="420"/>
         <source>Restore default settings</source>
-        <translation type="unfinished"/>
+        <translation>Восстановить настройки по умолчанию</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="423"/>
         <source>All browser settings will be reset to factory setting</source>
-        <translation type="unfinished"/>
+        <translation>Все настройки браузера будут установлены в значения по умолчанию</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="445"/>
         <source>Go to Browser</source>
-        <translation type="unfinished"/>
+        <translation>Перейти в браузер</translation>
     </message>
 </context>
 <context>
@@ -262,7 +262,7 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="30"/>
         <source>Manual APN entry</source>
-        <translation type="unfinished"/>
+        <translation>Ввод APN вручную</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="60"/>
@@ -348,38 +348,38 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="81"/>
         <source>Airplane mode</source>
-        <translation type="unfinished"/>
+        <translation>Режим &quot;В самолете&quot;</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="116"/>
         <source>Network connections</source>
-        <translation type="unfinished"/>
+        <translation>Сетевые подключения</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="217"/>
         <source>Available networks</source>
-        <translation type="unfinished"/>
+        <translation>Доступные сети</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="229"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="250"/>
         <source>Add network</source>
-        <translation type="unfinished"/>
+        <translation>Добавить сеть</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="276"/>
         <source>Network name:</source>
-        <translation type="unfinished"/>
+        <translation>Имя сети:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="284"/>
         <source>Security type:</source>
-        <translation type="unfinished"/>
+        <translation>Тип безопасности:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="292"/>
         <source>Security passphrase:</source>
-        <translation type="unfinished"/>
+        <translation>Парольная фраза безопасности:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="317"/>
@@ -407,12 +407,12 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="31"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Язык</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="42"/>
         <source>Time and date</source>
-        <translation type="unfinished"/>
+        <translation>Время и дата</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="91"/>
@@ -423,17 +423,17 @@
         <location filename="../../General/GeneralSettings.qml" line="103"/>
         <source>%1%</source>
         <comment>%1 is volume level percentage</comment>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="128"/>
         <source>Backlight control</source>
-        <translation type="unfinished"/>
+        <translation>Управление подсветкой</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="152"/>
         <source>Screen saver</source>
-        <translation type="unfinished"/>
+        <translation>Заставка</translation>
     </message>
 </context>
 <context>
@@ -442,7 +442,7 @@
         <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="317"/>
         <source>Unknown sync status</source>
         <extracomment>Status message: Displayed when an unknown/unhandled error occurs.</extracomment>
-        <translation>Неизвестный статус синхронизации</translation>
+        <translation>Неизвестное состояние синхронизации</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="332"/>
@@ -481,13 +481,13 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="589"/>
         <source>Unable to forget sync account!</source>
         <extracomment>Displayed when removal of sync account information fails.</extracomment>
-        <translation>Невозможно забыть учетную запись синхронизации!</translation>
+        <translation>Не удалось сбросить синхронизацию учетной записи!</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="917"/>
         <source>Syncing now...</source>
         <extracomment>Status message: Sync in-progress</extracomment>
-        <translation>Происходит синхронизация...</translation>
+        <translation>Синхронизация...</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoFrameworkClient.cpp" line="934"/>
@@ -502,13 +502,13 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Sync/SyncEvoStatic.cpp" line="15"/>
         <source>Contacts</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Contacts&quot; or &quot;Google Contacts&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Контакты</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoStatic.cpp" line="19"/>
         <source>Calendar</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Calendar&quot; or</extracomment>
-        <translation type="unfinished"/>
+        <translation>Календарь</translation>
     </message>
 </context>
 <context>
@@ -529,32 +529,32 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="28"/>
         <source>App Update</source>
-        <translation type="unfinished"/>
+        <translation>Обновление приложений</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="32"/>
         <source>New IM</source>
-        <translation type="unfinished"/>
+        <translation>Новый чат</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="36"/>
         <source>Bluetooth Device Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Устройство Bluetooth отключено</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="40"/>
         <source>New Email</source>
-        <translation type="unfinished"/>
+        <translation>Новое сообщение эл. почты</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="44"/>
         <source>Social Web Friend Request</source>
-        <translation type="unfinished"/>
+        <translation>Запрос о дружбе в социальной сети</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
         <source>Download Completed</source>
-        <translation type="unfinished"/>
+        <translation>Загрузка завершена</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="72"/>
@@ -577,12 +577,12 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="71"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>Панели</translation>
     </message>
     <message>
         <location filename="../../Personalize/Personalize.qml" line="124"/>
         <source>You can&apos;t turn off this panel</source>
-        <translation type="unfinished"/>
+        <translation>Нельзя отключить эту панель</translation>
     </message>
 </context>
 <context>
@@ -634,18 +634,18 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/ScreensaverSettings.qml" line="38"/>
         <source>Screen Saver Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Заставка включена</translation>
     </message>
     <message>
         <location filename="../../General/ScreensaverSettings.qml" line="76"/>
         <source>Screen Saver Timeout</source>
-        <translation type="unfinished"/>
+        <translation>Тайм-аут заставки</translation>
     </message>
     <message numerus="yes">
         <location filename="../../General/ScreensaverSettings.qml" line="80"/>
         <source>%n Minute(s)</source>
         <comment>time in minutes</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n мин.</numerusform><numerusform>%n мин.</numerusform><numerusform>%n мин.</numerusform></translation>
     </message>
 </context>
 <context>
@@ -653,7 +653,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="10"/>
         <source>Set Time Zone</source>
-        <translation type="unfinished"/>
+        <translation>Установка часового пояса</translation>
     </message>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="65"/>
@@ -666,14 +666,14 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="100"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="101"/>
         <location filename="../../Settings/SettingsModel.qml" line="102"/>
         <source>Application</source>
         <comment>should actually by 'Applications'</comment>
-        <translation type="unfinished"/>
+        <translation>Приложения</translation>
     </message>
 </context>
 <context>
@@ -706,7 +706,7 @@ Sync explicitly stopped.</extracomment>
         <location filename="../../Sync/SyncDetails.qml" line="255"/>
         <source>Forget this</source>
         <extracomment>Text displayed in &quot;forget this&quot; button (used to remove current sync account).</extracomment>
-        <translation>Забыть об этом</translation>
+        <translation>Забыть эти данные</translation>
     </message>
 </context>
 <context>
@@ -800,7 +800,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="210"/>
         <source>Current time zone is %1</source>
-        <translation type="unfinished"/>
+        <translation>Текущий часовой пояс: %1</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="232"/>
@@ -810,7 +810,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="272"/>
         <source>Manual time zone selection</source>
-        <translation type="unfinished"/>
+        <translation>Выбор часового пояса вручную</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="286"/>
@@ -903,7 +903,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="271"/>
         <source>Remove connection</source>
-        <translation type="unfinished"/>
+        <translation>Удалить подключение</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="283"/>
@@ -918,7 +918,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="338"/>
         <source>Subnet mask:</source>
-        <translation type="unfinished"/>
+        <translation>Маска подсети:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="358"/>
@@ -933,17 +933,17 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="398"/>
         <source>Hardware address:</source>
-        <translation type="unfinished"/>
+        <translation>Аппаратный адрес:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="419"/>
         <source>Security: </source>
-        <translation type="unfinished"/>
+        <translation>Безопасность: </translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="434"/>
         <source>Strength: </source>
-        <translation type="unfinished"/>
+        <translation>Надежность: </translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="444"/>
@@ -973,7 +973,7 @@ Sync explicitly stopped.</extracomment>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="550"/>
         <source>Show password</source>
-        <translation type="unfinished"/>
+        <translation>Показывать пароль</translation>
     </message>
 </context>
 <context>

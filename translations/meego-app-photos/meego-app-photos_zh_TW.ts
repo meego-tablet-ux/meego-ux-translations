@@ -274,7 +274,7 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="201"/>
         <source>Are you sure you want to delete this photo?</source>
         <extracomment>This is a label for the photo deletion confirmation modal dialog when removing a photo</extracomment>
-        <translation type="unfinished"/>
+        <translation>您確定刪除這張相片？</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="203"/>

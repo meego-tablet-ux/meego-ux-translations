@@ -25,7 +25,7 @@
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="113"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="167"/>
         <source>Top applications</source>
-        <translation>Популярные приложения</translation>
+        <translation>Часто используемые приложения</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="122"/>
@@ -36,13 +36,13 @@
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="124"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="178"/>
         <source>Featured applications</source>
-        <translation type="unfinished"/>
+        <translation>Рекомендуемые приложения</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="127"/>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="185"/>
         <source>Updated applications</source>
-        <translation type="unfinished"/>
+        <translation>Обновленные приложения</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="136"/>
@@ -53,29 +53,29 @@
         <extracomment>%1 is &quot;My Tablet&quot; panel title
 ----------
 %1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Мой планшетный ПК</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="160"/>
         <source>The applications you use most will appear here. Discover the apps already in your tablet, or visit Intel AppUp to download more.</source>
-        <translation type="unfinished"/>
+        <translation>Здесь будут отображены наиболее часто используемые вами приложения. Найдите приложения, которые уже есть на вашем планшетном ПК или посетите сайт Intel AppUp для загрузки дополнительных приложений.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="192"/>
         <source>Settings</source>
-        <translation>Параметры</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="202"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1: настройки</translation>
     </message>
     <message>
         <location filename="../../panelsrc/mytablet/MyTabletPanel.qml" line="204"/>
         <source>%1 content</source>
         <extracomment>%1 is &quot;My Tablet&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Панель данных %1</translation>
     </message>
 </context>
 </TS>

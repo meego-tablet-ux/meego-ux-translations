@@ -11,7 +11,7 @@
         <location filename="../../AlbumsView.qml" line="33"/>
         <source>Play slideshow</source>
         <extracomment>This is a context menu command for starting a slideshow of a photo album</extracomment>
-        <translation>Воспроизвести слайд-шоу</translation>
+        <translation>Воспроизвести слайдшоу</translation>
     </message>
     <message>
         <location filename="../../AlbumsView.qml" line="35"/>
@@ -29,13 +29,13 @@
         <location filename="../../AlbumsView.qml" line="39"/>
         <source>Rename album</source>
         <extracomment>This is a title for the album rename modal dialog</extracomment>
-        <translation type="unfinished"/>
+        <translation>Переименовать альбом</translation>
     </message>
     <message>
         <location filename="../../AlbumsView.qml" line="41"/>
         <source>Rename</source>
         <extracomment>This is a rename album modal dialog accept button label</extracomment>
-        <translation type="unfinished"/>
+        <translation>Переименовать</translation>
     </message>
 </context>
 <context>
@@ -50,7 +50,7 @@
         <location filename="../../PhotosView.qml" line="38"/>
         <source>Play slideshow</source>
         <extracomment>This is a context menu command for showing a slide show of photos</extracomment>
-        <translation>Воспроизвести слайд-шоу</translation>
+        <translation>Воспроизвести слайдшоу</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="40"/>
@@ -63,7 +63,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>This is a context menu command for marking photos as favorite</extracomment>
-        <translation type="unfinished"/>
+        <translation>Добавить в избранное</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="44"/>
@@ -147,7 +147,7 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="158"/>
         <source>Timeline</source>
         <extracomment>This is the title for the timeline view (Show by date)</extracomment>
-        <translation type="unfinished"/>
+        <translation>Шкала времени</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="160"/>
@@ -165,7 +165,7 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="164"/>
         <source>Play slideshow</source>
         <extracomment>This is a context menu option for starting a slideshow of items (photos/album)</extracomment>
-        <translation>Воспроизвести слайд-шоу</translation>
+        <translation>Воспроизвести слайдшоу</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="166"/>
@@ -184,7 +184,7 @@ This is the title for the photos view</extracomment>
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>This is a context menu option for marking items (photos) as favorite</extracomment>
-        <translation type="unfinished"/>
+        <translation>Добавить в избранное</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="172"/>
@@ -268,19 +268,19 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="198"/>
         <source>Type in a new name</source>
         <extracomment>This is an action menu rename photo text entry area's default text</extracomment>
-        <translation type="unfinished"/>
+        <translation>Новое имя</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="201"/>
         <source>Are you sure you want to delete this photo?</source>
         <extracomment>This is a label for the photo deletion confirmation modal dialog when removing a photo</extracomment>
-        <translation type="unfinished"/>
+        <translation>Вы действительно хотите удалить эту фотографию?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="203"/>
         <source>Are you sure you want to delete this album?</source>
         <extracomment>This is a label for the photo deletion confirmation modal dialog when removing an album</extracomment>
-        <translation>Действительно удалить этот альбом?</translation>
+        <translation>Вы действительно хотите удалить этот альбом?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="206"/>
@@ -298,7 +298,7 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="210"/>
         <source>You don&apos;t have any favorite photos</source>
         <extracomment>This is an information label telling the user that none of the photos are marked as favorite</extracomment>
-        <translation>У вас нет изобранных фотографий</translation>
+        <translation>У вас нет избранных фотографий</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="212"/>
@@ -353,14 +353,16 @@ This is the title for the photos view</extracomment>
         <source>This photo was taken on
 %1</source>
         <extracomment>This is a label text for the photo details dialog. The %1 is a fuzzy date/time string, e.g. &quot;1/31/11 - a few months ago&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>Это фото снято:
+%1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="232"/>
         <source>This album was added on
 %1</source>
         <extracomment>This is a label text for the photo details dialog. The %1 is a fuzzy date/time string, e.g. &quot;1/31/11 - a few months ago&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>Этот альбом добавлен:
+%1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="242"/>
@@ -378,13 +380,13 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="766"/>
         <source>Are you sure you want to delete the %n selected photos?</source>
         <extracomment>This is a label for the photo deletion confirmation modal dialog when removing photos</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Вы действительно хотите удалить %n выбранную фотографию?</numerusform><numerusform>Вы действительно хотите удалить %n выбранных фотографий?</numerusform><numerusform>Вы действительно хотите удалить %n выбранных фотографий?</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../main.qml" line="1245"/>
         <source>%n photo(s)</source>
         <extracomment>This is a metadata label for indicating the number of photos in the album</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Фотографии: %n</numerusform><numerusform>Фотографии: %n</numerusform><numerusform>Фотографии: %n</numerusform></translation>
     </message>
 </context>
 </TS>

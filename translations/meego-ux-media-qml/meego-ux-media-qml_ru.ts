@@ -4,12 +4,12 @@
     <message>
         <location filename="../../Media/MediaGridDocumentDelegate.qml" line="210"/>
         <source>%1 Minute</source>
-        <translation type="unfinished"/>
+        <translation>%1 минута</translation>
     </message>
     <message>
         <location filename="../../Media/MediaGridDocumentDelegate.qml" line="210"/>
         <source>%1 Minutes</source>
-        <translation type="unfinished"/>
+        <translation>%1 минут</translation>
     </message>
 </context>
 <context>
@@ -17,17 +17,17 @@
     <message>
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
         <source>1 Album</source>
-        <translation type="unfinished"/>
+        <translation>1 альбом</translation>
     </message>
     <message numerus="yes">
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
         <source>%n Albums</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Альбом: %n</numerusform><numerusform>Альбомы: %n</numerusform><numerusform>Альбом: %n</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="342"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n минута</numerusform><numerusform>%n минут(ы)</numerusform><numerusform>%n минут(ы)</numerusform></translation>
     </message>
 </context>
 <context>
@@ -35,7 +35,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridPhotoAlbumDelegate.qml" line="277"/>
         <source>%n Photo(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Фотографии: %n</numerusform><numerusform>Фотографии: %n</numerusform><numerusform>Фотографии: %n</numerusform></translation>
     </message>
 </context>
 <context>
@@ -43,7 +43,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridVideoDelegate.qml" line="303"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n минута</numerusform><numerusform>%n минут(ы)</numerusform><numerusform>%n минут(ы)</numerusform></translation>
     </message>
 </context>
 <context>

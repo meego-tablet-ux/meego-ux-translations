@@ -14,7 +14,7 @@
     <message>
         <location filename="../../CalendarDayView.qml" line="25"/>
         <source>Go to today</source>
-        <translation>Сегодня</translation>
+        <translation>Перейти к сегодняшнему дню</translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="25"/>
@@ -30,14 +30,14 @@
         <location filename="../../CalendarDayView.qml" line="436"/>
         <source>%n more event(s) exist</source>
         <extracomment>%n corresponds to Events count</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n – кол-во доп. событий</numerusform><numerusform>%n – кол-во доп. событий</numerusform><numerusform>%n – кол-во доп. событий</numerusform></translation>
     </message>
     <message>
         <location filename="../../CalendarDayView.qml" line="619"/>
         <source>%1 - %2</source>
         <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -46,7 +46,7 @@
         <location filename="../../CalendarListView.qml" line="35"/>
         <source>%n result(s) found</source>
         <extracomment>%n corresponds to Search result count</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Найдено результатов: %n</numerusform><numerusform>Найдено результатов: %n</numerusform><numerusform>Найдено результатов: %n</numerusform></translation>
     </message>
     <message>
         <location filename="../../CalendarListView.qml" line="75"/>
@@ -65,7 +65,7 @@
         <source>%1 - %2</source>
         <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -79,7 +79,7 @@
         <location filename="../../lib/calendarmonthmodel.cpp" line="126"/>
         <source>%n more event(s)</source>
         <extracomment>%n corresponds to events count</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Доп. событий: %n</numerusform><numerusform>Доп. событий: %n</numerusform><numerusform>Доп. событий: %n</numerusform></translation>
     </message>
 </context>
 <context>
@@ -92,12 +92,12 @@
     <message>
         <location filename="../../CalendarMonthView.qml" line="26"/>
         <source>Create new event</source>
-        <translation>Создать мероприятие</translation>
+        <translation>Создать новое событие</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="26"/>
         <source>Go to today</source>
-        <translation>Сегодня</translation>
+        <translation>Перейти к сегодняшнему дню</translation>
     </message>
     <message>
         <location filename="../../CalendarMonthView.qml" line="26"/>
@@ -115,7 +115,7 @@
         <source>%1 - %2</source>
         <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -128,12 +128,12 @@
     <message>
         <location filename="../../CalendarWeekView.qml" line="25"/>
         <source>Create new event</source>
-        <translation>Создать новое мероприятие</translation>
+        <translation>Создать новое событие</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="25"/>
         <source>Go to today</source>
-        <translation>Сегодня</translation>
+        <translation>Перейти к сегодняшнему дню</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="25"/>
@@ -147,7 +147,7 @@
         <source>%1 - %2</source>
         <comment>WeekRange</comment>
         <extracomment>This is week date range %1 is Week's Start Date and %2 is Week's EndDate</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="323"/>
@@ -158,14 +158,14 @@
         <location filename="../../CalendarWeekView.qml" line="367"/>
         <source>%n more event(s) exist</source>
         <extracomment>%n corresponds to events count</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n – кол-во доп. событий</numerusform><numerusform>%n – кол-во доп. событий</numerusform><numerusform>%n – кол-во доп. событий</numerusform></translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="536"/>
         <source>%1 - %2</source>
         <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -173,17 +173,17 @@
     <message>
         <location filename="../../EventActionsPopup.qml" line="48"/>
         <source>Event details</source>
-        <translation>Информация о мероприятии</translation>
+        <translation>Информация о событии</translation>
     </message>
     <message>
         <location filename="../../EventActionsPopup.qml" line="48"/>
         <source>Edit event</source>
-        <translation>Изменить мероприятие</translation>
+        <translation>Изменить событие</translation>
     </message>
     <message>
         <location filename="../../EventActionsPopup.qml" line="48"/>
         <source>Delete event</source>
-        <translation>Удалить мероприятие</translation>
+        <translation>Удалить событие</translation>
     </message>
 </context>
 <context>
@@ -191,27 +191,27 @@
     <message>
         <location filename="../../EventDetailsView.qml" line="43"/>
         <source>All day</source>
-        <translation>Все дни</translation>
+        <translation>Весь день</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="46"/>
         <source>%1, %2 - %3</source>
         <comment>DateTimeRange</comment>
         <extracomment>This is Date, Time range (&quot;Event StartDate, StartTime - EndTime &quot;) %1 is Event StartDate, %2 is StartTime and %3 is EndTime</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="105"/>
         <source>%1 (GMT %2)</source>
         <comment>TimezoneData</comment>
         <extracomment>This is EventTime followed by GMT offset (&quot;%1 is event time and %2 is GMT offset&quot;)</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 (GMT %2)</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="115"/>
         <source>Repeats %1</source>
         <extracomment>%1 is frequency of the event like Never, Daily, Weekly - the text gets translated and gets passed as argument</extracomment>
-        <translation type="unfinished"/>
+        <translation>Повтор - %1</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="174"/>
@@ -250,14 +250,14 @@
         <source>%1 - %2</source>
         <comment>TimeRange</comment>
         <extracomment>This is Events Time range (&quot;StartTime - EndTime &quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="134"/>
         <source>%1, %2</source>
         <comment>DateTimeRange</comment>
         <extracomment>This is Date, Time range (&quot;Event StartDate, StartTime and EndTime String &quot;) %1 is Event StartDate, %2 is StartTime and EndTime string (already translated and passed as argument)</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="162"/>
@@ -280,17 +280,17 @@
     <message>
         <location filename="../../NewEventView.qml" line="138"/>
         <source>Please check the date and time entered</source>
-        <translation>Проверьте введенные дату и время</translation>
+        <translation>Проверьте введенную дату и время</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="212"/>
         <source>New event</source>
-        <translation>Новое мероприятие</translation>
+        <translation>Новое событие</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="467"/>
         <source>Event title</source>
-        <translation>Название мероприятия</translation>
+        <translation>Название события</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="539"/>
@@ -315,7 +315,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="785"/>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Подробнее</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="849"/>
@@ -363,7 +363,7 @@
         <source>Other</source>
         <comment>Interval</comment>
         <extracomment>Other kind of repeat interval</extracomment>
-        <translation type="unfinished"/>
+        <translation>Другое</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="973"/>
@@ -373,12 +373,12 @@
     <message>
         <location filename="../../NewEventView.qml" line="973"/>
         <source>Ends after number of times</source>
-        <translation type="unfinished"/>
+        <translation>Завершить после нескольких раз</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="973"/>
         <source>Ends after date</source>
-        <translation type="unfinished"/>
+        <translation>Завершить после даты</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1084"/>
@@ -436,7 +436,7 @@
         <source>Other</source>
         <comment>Alarm</comment>
         <extracomment>Other type of alarm</extracomment>
-        <translation type="unfinished"/>
+        <translation>Другое</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1168"/>
@@ -451,7 +451,7 @@
     <message>
         <location filename="../../NewEventView.qml" line="1270"/>
         <source>Delete event</source>
-        <translation>Удалить мероприятие</translation>
+        <translation>Удалить событие</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1384"/>
@@ -471,7 +471,7 @@
         <source>%1 (%2)</source>
         <comment>TimezoneData</comment>
         <extracomment>This Time zone string %1 corresponds to cityname, %2 corresponds to GMT offset. Both arguments are localized.</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -481,7 +481,7 @@
         <source>%1 - %2</source>
         <comment>Date Range</comment>
         <extracomment>%1 is StartDate and %2 is EndDate (will be deleted from code soon)</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="277"/>
@@ -532,7 +532,7 @@
         <location filename="../../lib/utilmethods.cpp" line="286"/>
         <source>Other</source>
         <comment>Alarm</comment>
-        <translation type="unfinished"/>
+        <translation>Другое</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="295"/>
@@ -568,22 +568,22 @@
         <location filename="../../lib/utilmethods.cpp" line="301"/>
         <source>Other</source>
         <comment>Interval</comment>
-        <translation type="unfinished"/>
+        <translation>Другое</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="310"/>
         <source>Repeats forever</source>
-        <translation type="unfinished"/>
+        <translation>Повторять всегда</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="311"/>
         <source>Ends after number of times</source>
-        <translation type="unfinished"/>
+        <translation>Завершить после нескольких раз</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="312"/>
         <source>Ends after date</source>
-        <translation type="unfinished"/>
+        <translation>Завершить после даты</translation>
     </message>
 </context>
 <context>
@@ -611,7 +611,7 @@
     <message>
         <location filename="../../main.qml" line="106"/>
         <source>Delete event?</source>
-        <translation>Удалить мероприятие?</translation>
+        <translation>Удалить событие?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="110"/>
@@ -626,12 +626,12 @@
     <message>
         <location filename="../../main.qml" line="121"/>
         <source>Are you sure you want to delete this event?</source>
-        <translation>Вы уверены, что хотите удалить это мероприятие?</translation>
+        <translation>Вы уверены, что хотите удалить это событие?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="175"/>
         <source>All day</source>
-        <translation type="unfinished"/>
+        <translation>Весь день</translation>
     </message>
 </context>
 </TS>

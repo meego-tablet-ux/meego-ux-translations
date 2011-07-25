@@ -183,31 +183,31 @@
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="483"/>
         <source>day-month-year</source>
-        <translation>zi-lună-a</translation>
+        <translation>zi-lună-an</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="501"/>
         <source>dateUnitOne</source>
         <extracomment>Optional! Won't be displayed if left untranslated or if set to more than one or two characters. Positioned left of the left spinner. Meant for displaying units, separators or whatever seems appropiate for a language specific display of the date given by the three spinners.</extracomment>
-        <translation type="unfinished"/>
+        <translation>dateUnitOne</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="522"/>
         <source>dateUnitTwo</source>
         <extracomment>Optional! Won't be displayed if left untranslated or if set to more than one or two characters. Positioned between left and middle spinner. Meant for displaying units, separators or whatever seems appropiate for a language specific display of the date given by the three spinners.</extracomment>
-        <translation type="unfinished"/>
+        <translation>dateUnitTwo</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="543"/>
         <source>dateUnitThree</source>
         <extracomment>Optional! Won't be displayed if left untranslated or if set to more than one or two characters. Positioned between middle and right spinner. Meant for displaying units, separators or whatever seems appropiate for a language specific display of the date given by the three spinners.</extracomment>
-        <translation type="unfinished"/>
+        <translation>dateUnitThree</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="564"/>
         <source>dateUnitFour</source>
         <extracomment>Optional! Won't be displayed if left untranslated or if set to more than one or two characters. Positioned right of the right spinner. Meant for displaying units, separators or whatever seems appropiate for a language specific display of the date given by the three spinners.</extracomment>
-        <translation type="unfinished"/>
+        <translation>dateUnitFour</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="707"/>
@@ -238,7 +238,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="34"/>
         <source>%n min(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n minute în urmă</numerusform><numerusform>%n minute în urmă</numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="37"/>
@@ -262,13 +262,13 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="46"/>
         <source>%n hour(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n ore în urmă</numerusform><numerusform>%n ore în urmă</numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="51"/>
         <source>M/d/yy</source>
         <extracomment>QDateTime format string: M is numeric month, d is num. day, yy is year; e.g. 1/31/11 translator: reorder / reformat, but make sure to use these ASCII M, d, and yy format codes</extracomment>
-        <translation>L/z/an</translation>
+        <translation>L/z/aa</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="55"/>
@@ -297,7 +297,7 @@
     <message numerus="yes">
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="71"/>
         <source>%n week(s) ago</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n săptămâni în urmă</numerusform><numerusform>%n săptămâni în urmă</numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="74"/>
@@ -315,7 +315,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="84"/>
         <source>%n month(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n luni în urmă</numerusform><numerusform>%n luni în urmă</numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="87"/>
@@ -327,7 +327,7 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="91"/>
         <source>%n year(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n ani în urmă</numerusform><numerusform>%n ani în urmă</numerusform><numerusform></numerusform></translation>
     </message>
 </context>
 <context>

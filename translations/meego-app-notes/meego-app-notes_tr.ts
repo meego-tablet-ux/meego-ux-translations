@@ -398,7 +398,7 @@
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="497"/>
         <source>%n note(s) have successfully been moved to &quot;%2&quot;</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n not(lar) &amp;quot;%2&amp;quot; başarıyla taşındı</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="500"/>
@@ -478,7 +478,7 @@
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="620"/>
         <source>%n note(s) have been deleted</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n not(lar) silinmiştir</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="622"/>

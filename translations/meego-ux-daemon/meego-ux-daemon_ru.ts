@@ -4,7 +4,7 @@
     <message>
         <location filename="../../statusindicatormenu.qml" line="182"/>
         <source>Notifications</source>
-        <translation>Оповещения</translation>
+        <translation>Уведомления</translation>
     </message>
     <message>
         <location filename="../../statusindicatormenu.qml" line="189"/>

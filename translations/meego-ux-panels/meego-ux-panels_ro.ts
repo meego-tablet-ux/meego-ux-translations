@@ -4,12 +4,12 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="43"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>Panouri</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="46"/>
         <source>Manage panels</source>
-        <translation type="unfinished"/>
+        <translation>Administrează panouri</translation>
     </message>
 </context>
 <context>
@@ -17,7 +17,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="17"/>
         <source>To show items on the front of the panel select ON, to hide select OFF</source>
-        <translation type="unfinished"/>
+        <translation>Pentru a afişa elementele de pe partea din faţă a panoului selectaţi ON, pentru a ascunde selectați OFF</translation>
     </message>
 </context>
 <context>
@@ -26,47 +26,47 @@
         <location filename="../../panellib/Panels/WifiDialog.qml" line="95"/>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="105"/>
         <source>No connection currently</source>
-        <translation type="unfinished"/>
+        <translation>Nicio conexiune în prezentă</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="98"/>
         <source>Wired</source>
-        <translation type="unfinished"/>
+        <translation>Prin cablu</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="103"/>
         <source>Connected to %1</source>
-        <translation type="unfinished"/>
+        <translation>Conectat la %1</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="108"/>
         <source>Connected by %1</source>
-        <translation type="unfinished"/>
+        <translation>Conectate cu %1</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="144"/>
         <source>Wi-Fi</source>
-        <translation type="unfinished"/>
+        <translation>Wi-Fi</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="197"/>
         <source>Wi-Fi settings</source>
-        <translation type="unfinished"/>
+        <translation>Setări Wi-Fi</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="229"/>
         <source>Airplane Mode is ON</source>
-        <translation type="unfinished"/>
+        <translation>Modul pentru avion este ON</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="251"/>
         <source>To connect WiFi turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>Pentru a conecta WiFi dezactivați modul pentru avion</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="268"/>
         <source>Turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>Dezactivaţi modul pentru avion</translation>
     </message>
 </context>
 </TS>

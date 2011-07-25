@@ -29,7 +29,7 @@
     <message>
         <location filename="../../src/components/ContactsPicker.qml" line="230"/>
         <source>Type to search</source>
-        <translation type="unfinished"/>
+        <translation>ਖੋਜਣ ਲਈ ਲਿਖੋ</translation>
     </message>
     <message>
         <location filename="../../src/components/ContactsPicker.qml" line="397"/>
@@ -187,7 +187,7 @@
         <source>7</source>
         <comment>firstday</comment>
         <extracomment>this number sets default first day of week set to 1 for Monday, 2 for Tuesday, etc, and 7 for Sunday</extracomment>
-        <translation type="unfinished"/>
+        <translation>7</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="409"/>
@@ -253,13 +253,13 @@
         <location filename="../../lib/locale/meegolocale.cpp" line="533"/>
         <source>d MMM yyyy</source>
         <extracomment>short date where user chose DMY order (e.g. 31 Jan 2011) Translate the format delimiters, not order MMM = short month, d = day of month, yyyy = full year (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>d MMM yyyy</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="538"/>
         <source>yyyy MMM d</source>
         <extracomment>short date where user chose YMD order (e.g. 2011 Jan 31) Translate the format delimiters, not order MMM = short month, d = day of month, yyyy = full year (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>yyyy MMM d</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="542"/>
@@ -349,21 +349,21 @@
         <source>dddd d</source>
         <comment>DMY</comment>
         <extracomment>weekday and day where user chose DMY order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>dddd d</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="627"/>
         <source>dddd d</source>
         <comment>YMD</comment>
         <extracomment>weekday and day where user chose YMD order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>dddd d</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="631"/>
         <source>dddd d</source>
         <comment>MDY</comment>
         <extracomment>weekday and day where user chose MDY order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>dddd d</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="642"/>

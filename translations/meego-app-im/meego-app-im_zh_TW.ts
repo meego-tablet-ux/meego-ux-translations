@@ -34,7 +34,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="481"/>
         <source>Unable to set hold</source>
-        <translation type="unfinished"/>
+        <translation>無法設為保留</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="581"/>
@@ -91,17 +91,17 @@
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1699"/>
         <source>Call resources were lost</source>
-        <translation type="unfinished"/>
+        <translation>通話資源已喪失</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1708"/>
         <source>Call resources not granted</source>
-        <translation type="unfinished"/>
+        <translation>通話資源未授權</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="1717"/>
         <source>Error acquiring call resources</source>
-        <translation type="unfinished"/>
+        <translation>取得通話資源時發生錯誤</translation>
     </message>
 </context>
 <context>
@@ -161,7 +161,7 @@
     <message>
         <location filename="../../ContactDelegate.qml" line="140"/>
         <source>Report abuse</source>
-        <translation type="unfinished"/>
+        <translation>回報濫用</translation>
     </message>
 </context>
 <context>
@@ -184,7 +184,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="237"/>
         <source>%1 joined the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 已加入聊天</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="252"/>
@@ -204,7 +204,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="261"/>
         <source>%1 left the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 已離開聊天</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="269"/>
@@ -290,7 +290,7 @@
         <extracomment>Message indicating the contact has been added
 ----------
 Message indicating the contact has been added</extracomment>
-        <translation type="unfinished"/>
+        <translation>已被加為聯絡人</translation>
     </message>
 </context>
 <context>
@@ -321,7 +321,7 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../settings/ImSettings.qml" line="142"/>
         <source>Add an account</source>
-        <translation type="unfinished"/>
+        <translation>加入帳戶</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="159"/>
@@ -391,7 +391,7 @@ Message indicating the contact has been added</extracomment>
         <location filename="../../SearchHeader.qml" line="50"/>
         <source>%n matches found</source>
         <extracomment>%n is the number of items matching the search criteria</extracomment>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>找到 %n 個符合項目</numerusform></translation>
     </message>
 </context>
 <context>
@@ -399,27 +399,27 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../StatusModel.qml" line="9"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>有空</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="14"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>離開</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="19"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>忙碌</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="24"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>隱藏</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="29"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>離線</translation>
     </message>
 </context>
 <context>
@@ -436,515 +436,515 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../constants.js" line="4"/>
         <source>Multiple accounts connected</source>
-        <translation type="unfinished"/>
+        <translation>已連接多個帳戶</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="5"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
-        <translation type="unfinished"/>
+        <translation>您真的想要連接這個帳戶嗎？這樣的話，其他這 %1 個帳戶會中斷連接。</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="6"/>
         <location filename="../../constants.js" line="35"/>
         <source>Log out</source>
-        <translation type="unfinished"/>
+        <translation>登出</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="7"/>
         <source>Log in to %1</source>
-        <translation type="unfinished"/>
+        <translation>登入 %1</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="8"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>設定</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="11"/>
         <source>Account list</source>
-        <translation type="unfinished"/>
+        <translation>帳戶清單</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="12"/>
         <source>Loading accounts...</source>
-        <translation type="unfinished"/>
+        <translation>正在載入帳戶...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="13"/>
         <source>Choose an account</source>
-        <translation type="unfinished"/>
+        <translation>選擇帳戶</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="14"/>
         <source>Add an account</source>
-        <translation type="unfinished"/>
+        <translation>加入帳戶</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="15"/>
         <source>Your account has been added</source>
-        <translation type="unfinished"/>
+        <translation>您的帳戶已被加入</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="18"/>
         <source>Friend&apos;s username</source>
-        <translation type="unfinished"/>
+        <translation>朋友的使用者名稱</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="19"/>
         <location filename="../../constants.js" line="104"/>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>傳送</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="20"/>
         <source>Sending request</source>
-        <translation type="unfinished"/>
+        <translation>正在送出請求</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="21"/>
         <source>Request sent</source>
-        <translation type="unfinished"/>
+        <translation>請求已送出</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="22"/>
         <source>Your device is not connected to a network. Please connect and try again.</source>
-        <translation type="unfinished"/>
+        <translation>您的裝置尚未連接至網路。請連線並再試一次。</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="25"/>
         <source>Update status</source>
-        <translation type="unfinished"/>
+        <translation>更新狀態</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="26"/>
         <source>Your Status:</source>
-        <translation type="unfinished"/>
+        <translation>您的狀態：</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="27"/>
         <source>Custom status message</source>
-        <translation type="unfinished"/>
+        <translation>自訂狀態訊息</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="28"/>
         <location filename="../../constants.js" line="31"/>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>更新</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="29"/>
         <source>Change display name</source>
-        <translation type="unfinished"/>
+        <translation>變更顯示名稱</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="30"/>
         <source>Display name</source>
-        <translation type="unfinished"/>
+        <translation>顯示名稱</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="32"/>
         <location filename="../../constants.js" line="58"/>
         <source>Add a friend</source>
-        <translation type="unfinished"/>
+        <translation>加入朋友</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="33"/>
         <location filename="../../constants.js" line="79"/>
         <source>Clear chat history</source>
-        <translation type="unfinished"/>
+        <translation>清除聊天歷史</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="34"/>
         <source>Log in</source>
-        <translation type="unfinished"/>
+        <translation>登入</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="38"/>
         <source>Return to chat</source>
-        <translation type="unfinished"/>
+        <translation>回到聊天</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="39"/>
         <source>Open chat</source>
-        <translation type="unfinished"/>
+        <translation>開啟聊天</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="40"/>
         <source>Call</source>
-        <translation type="unfinished"/>
+        <translation>通話</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="41"/>
         <source>Video call</source>
-        <translation type="unfinished"/>
+        <translation>視訊通話</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="42"/>
         <source>Unblock</source>
-        <translation type="unfinished"/>
+        <translation>取消封鎖</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="43"/>
         <source>Block</source>
-        <translation type="unfinished"/>
+        <translation>封鎖</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="44"/>
         <location filename="../../constants.js" line="80"/>
         <source>End chat</source>
-        <translation type="unfinished"/>
+        <translation>結束聊天</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="45"/>
         <source>Delete contact</source>
-        <translation type="unfinished"/>
+        <translation>刪除聯絡人</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="48"/>
         <location filename="../../constants.js" line="78"/>
         <source>Add contacts to chat</source>
-        <translation type="unfinished"/>
+        <translation>加入要聊天的聯絡人</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="49"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>加入</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="50"/>
         <location filename="../../constants.js" line="55"/>
         <location filename="../../constants.js" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="53"/>
         <source>Friend request from</source>
-        <translation type="unfinished"/>
+        <translation>有人請求加入朋友：</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="54"/>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>接受</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="59"/>
         <source>Loading contacts...</source>
-        <translation type="unfinished"/>
+        <translation>正在載入聯絡人資料...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="60"/>
         <source>You haven&apos;t added any friends yet</source>
-        <translation type="unfinished"/>
+        <translation>您尚未加入任何朋友</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="61"/>
         <source>Account is offline</source>
-        <translation type="unfinished"/>
+        <translation>帳戶已離線</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="62"/>
         <source>Logging in...</source>
-        <translation type="unfinished"/>
+        <translation>正在登入...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="65"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>開啟</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="66"/>
         <source>There was a problem downloading</source>
-        <translation type="unfinished"/>
+        <translation>下載時發生問題</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="67"/>
         <source>There was a problem uploading</source>
-        <translation type="unfinished"/>
+        <translation>上傳時發生問題</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="68"/>
         <source>Canceled</source>
-        <translation type="unfinished"/>
+        <translation>已取消</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>儲存</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="70"/>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>拒絕</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="74"/>
         <source>Private chat</source>
-        <translation type="unfinished"/>
+        <translation>私人聊天</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="75"/>
         <source>Add to contacts</source>
-        <translation type="unfinished"/>
+        <translation>加入至聯絡人資料</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="84"/>
         <source>(%1)</source>
         <extracomment>%1 is the file size</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="85"/>
         <source>Upload canceled:</source>
-        <translation type="unfinished"/>
+        <translation>上傳已取消：</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="86"/>
         <source>Sent:</source>
-        <translation type="unfinished"/>
+        <translation>已送出：</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="87"/>
         <source>Uploading:</source>
-        <translation type="unfinished"/>
+        <translation>正在上傳：</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="89"/>
         <source>%1 has sent you:</source>
         <extracomment>%1 is the nickname of the contact sending you a file</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 已傳給您：</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="91"/>
         <source>%1 is sending you:</source>
         <extracomment>%1 is the nickname of the contact sending you a file</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 正在傳給您：</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="93"/>
         <source>%1 - %2</source>
         <extracomment>%1 is event describing what happened - %2 is date and time</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="95"/>
         <source>%1 tried to call - %2</source>
         <extracomment>%1 contact id who called - %2 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 嘗試通話 - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="97"/>
         <source>%1 rejected call - %2</source>
         <extracomment>%1 contact id who rejected the call - %2 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 拒絕通話 - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="99"/>
         <source>%1 called - duration %2 - %3</source>
         <extracomment>%1 contact id who called - %2 duration of the call - %3 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 來電 - 時間 %2 - %3</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="102"/>
         <source>Opening chat...</source>
-        <translation type="unfinished"/>
+        <translation>正在開啟聊天...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="103"/>
         <source>Loading conversation history...</source>
-        <translation type="unfinished"/>
+        <translation>正在載入對話歷史...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="105"/>
         <source>Group conversation</source>
-        <translation type="unfinished"/>
+        <translation>群組對話</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="107"/>
         <source>Chat with %1</source>
         <extracomment>%1 is the nickname of the contact you are chatting with</extracomment>
-        <translation type="unfinished"/>
+        <translation>與 %1 聊天</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="110"/>
         <source>Sorry, we can&apos;t login because it is not connected to a network. Go to Wireless &amp; Network settings and connect to an available network</source>
-        <translation type="unfinished"/>
+        <translation>很抱歉，因為尚未連接網路，因此我們無法登入。請前往「無線與網路設定」並連接至可用的網路</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="113"/>
         <source>Change your picture:</source>
-        <translation type="unfinished"/>
+        <translation>變更您的圖片：</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="114"/>
         <source>Take picture</source>
-        <translation type="unfinished"/>
+        <translation>拍照</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="115"/>
         <source>Choose picture</source>
-        <translation type="unfinished"/>
+        <translation>選擇圖片</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="118"/>
         <source>Older</source>
-        <translation type="unfinished"/>
+        <translation>較舊</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="119"/>
         <source>Newer</source>
-        <translation type="unfinished"/>
+        <translation>較新</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="122"/>
         <source>Send:</source>
-        <translation type="unfinished"/>
+        <translation>傳送：</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="123"/>
         <source>Photo</source>
-        <translation type="unfinished"/>
+        <translation>相片</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="124"/>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>視訊</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="125"/>
         <source>Music</source>
-        <translation type="unfinished"/>
+        <translation>音樂</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="126"/>
         <source>Contact Details</source>
-        <translation type="unfinished"/>
+        <translation>聯絡人資訊</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="130"/>
         <source>Call with %1</source>
         <extracomment>%1 is the nickname of the contact you are in a call with</extracomment>
-        <translation type="unfinished"/>
+        <translation>與 %1 通話</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="131"/>
         <source>Minimize me</source>
-        <translation type="unfinished"/>
+        <translation>將我最小化</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="132"/>
         <source>Maximize me</source>
-        <translation type="unfinished"/>
+        <translation>將我最大化</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="133"/>
         <source>Disable camera</source>
-        <translation type="unfinished"/>
+        <translation>停用相機</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="134"/>
         <source>Enable camera</source>
-        <translation type="unfinished"/>
+        <translation>啟用相機</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="135"/>
         <source>Swap camera</source>
-        <translation type="unfinished"/>
+        <translation>交換相機</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="138"/>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>聊天</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="139"/>
         <source>Account switcher</source>
-        <translation type="unfinished"/>
+        <translation>帳戶切換器</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="140"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>有空</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="141"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>忙碌</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="142"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>離開</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="143"/>
         <source>Extended away</source>
-        <translation type="unfinished"/>
+        <translation>延伸離開</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="144"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>離線</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="145"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>隱藏</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="148"/>
         <source>Sorry, there was a problem logging in. Please retype your username and password.</source>
-        <translation type="unfinished"/>
+        <translation>很抱歉，登入時發生問題。請重新輸入您的使用者名稱與密碼。</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="149"/>
         <source>Sorry, there was a problem logging in to %1. Please go to Settings and retype your username and password.</source>
-        <translation type="unfinished"/>
+        <translation>很抱歉，登入 %1 時發生問題。請前往「設定」並重新輸入您的使用者名稱與密碼。</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="150"/>
         <source>Sorry, there was a problem logging in. Please go to Settings and retype your username and password.</source>
-        <translation type="unfinished"/>
+        <translation>很抱歉，登入時發生問題。請前往「設定」並重新輸入您的使用者名稱與密碼。</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="151"/>
         <source>Sorry, there was a problem logging in to %1. Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>很抱歉，登入 %1 時發生問題。請稍候重試。</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="152"/>
         <source>Sorry, there was a problem logging in. Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>很抱歉，登入時發生問題。請稍候重試。</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="153"/>
         <source>It looks like you have logged in to %1 from somewhere else, so we have logged you out from this tablet. Try logging in again</source>
-        <translation type="unfinished"/>
+        <translation>您似乎已從其他地方登入 %1，所以我們已將您從本平板電腦登出。請再次嘗試登入</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="154"/>
         <source>It looks like you have logged in to this account from somewhere else, so we have logged you out from this tablet. Try logging in again</source>
-        <translation type="unfinished"/>
+        <translation>您似乎已從其他地方登入帳戶，所以我們已將您從本平板電腦登出。請再次嘗試登入</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="155"/>
         <source>Sorry, there was a problem logging in. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <translation>很抱歉，登入時發生問題。取消選取「進階設定」中的「需要加密」選項應該可以解決這個問題。</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="156"/>
         <source>Sorry, there was a problem logging in to %1. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <translation>很抱歉，登入 %1 時發生問題。取消選取「進階設定」中的「需要加密」選項應該可以解決這個問題。</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="157"/>
         <source>Sorry, there was a problem logging in. Selecting the &apos;Ignore SSL certificate errors&apos; option in the account Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <translation>很抱歉，登入時發生問題。選取「進階設定」中的「忽略 SSL 憑證錯誤」選項應該可以解決這個問題。</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="158"/>
         <source>Sorry, there was a problem logging in to %1. Selecting the &apos;Ignore SSL certificate errors&apos; option in the account Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <translation>很抱歉，登入 %1 時發生問題。選取「進階設定」中的「忽略 SSL 憑證錯誤」選項應該可以解決這個問題。</translation>
     </message>
 </context>
 <context>
@@ -952,120 +952,120 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="4"/>
         <source>Multiple accounts connected</source>
-        <translation type="unfinished"/>
+        <translation>已連接多個帳戶</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="6"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
         <extracomment>%1 is the name of the service whose accounts are going to be disconnected, for example: Jabber or Google Talk</extracomment>
-        <translation type="unfinished"/>
+        <translation>您真的想要連接該帳戶嗎？這樣的話，所有其他 %1 個帳戶會被中斷連接。</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="7"/>
         <source>There is already an account configured using this login. Please check your username.</source>
-        <translation type="unfinished"/>
+        <translation>已經有設定好的帳戶使用這個登入名稱。請檢查您的使用者名稱。</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="8"/>
         <source>Sorry, there was a problem logging in. Please check your username and password.</source>
-        <translation type="unfinished"/>
+        <translation>很抱歉，登入時發生問題。請檢查您的使用者名稱與密碼。</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="9"/>
         <source>Username:</source>
-        <translation type="unfinished"/>
+        <translation>使用者名稱：</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="10"/>
         <source>Name / ID</source>
-        <translation type="unfinished"/>
+        <translation>名稱 / ID</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="11"/>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>密碼：</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="12"/>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>密碼</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="13"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"/>
+        <translation>進階設定</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="16"/>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="17"/>
         <location filename="../../plugin/IM/imconstants.js" line="24"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="20"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>加入帳戶</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="23"/>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>更新</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="25"/>
         <location filename="../../plugin/IM/imconstants.js" line="26"/>
         <source>Delete account</source>
-        <translation type="unfinished"/>
+        <translation>刪除帳戶</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="27"/>
         <source>Are you sure to delete this account?</source>
-        <translation type="unfinished"/>
+        <translation>您確定要刪除這個帳戶嗎？</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="30"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="31"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="34"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>有空</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="35"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>忙碌</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="36"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>離開</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="37"/>
         <source>Extended away</source>
-        <translation type="unfinished"/>
+        <translation>延伸離開</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="38"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>離線</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="39"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>隱藏</translation>
     </message>
 </context>
 <context>

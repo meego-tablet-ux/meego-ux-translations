@@ -29,7 +29,7 @@
     <message>
         <location filename="../../src/components/ContactsPicker.qml" line="230"/>
         <source>Type to search</source>
-        <translation type="unfinished"/>
+        <translation>Tastați pentru căutare</translation>
     </message>
     <message>
         <location filename="../../src/components/ContactsPicker.qml" line="397"/>
@@ -73,7 +73,7 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="47"/>
         <source>%n min(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n minute în urmă</numerusform><numerusform>%n minute în urmă</numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="../../src/kernel/relativetimestamp.cpp" line="50"/>
@@ -97,7 +97,7 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="59"/>
         <source>%n hours ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n ore în urmă</numerusform><numerusform>%n ore în urmă</numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="../../src/kernel/relativetimestamp.cpp" line="64"/>
@@ -133,7 +133,7 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="84"/>
         <source>%n week(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n săptămâni în urmă</numerusform><numerusform>%n săptămâni în urmă</numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="../../src/kernel/relativetimestamp.cpp" line="87"/>
@@ -151,7 +151,7 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="97"/>
         <source>%n month(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n luni în urmă</numerusform><numerusform>%n luni în urmă</numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="../../src/kernel/relativetimestamp.cpp" line="100"/>
@@ -163,7 +163,7 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="104"/>
         <source>%n year(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n ani în urmă</numerusform><numerusform>%n ani în urmă</numerusform><numerusform></numerusform></translation>
     </message>
 </context>
 <context>
@@ -349,21 +349,21 @@
         <source>dddd d</source>
         <comment>DMY</comment>
         <extracomment>weekday and day where user chose DMY order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>zzzz z</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="627"/>
         <source>dddd d</source>
         <comment>YMD</comment>
         <extracomment>weekday and day where user chose YMD order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>zzzz z</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="631"/>
         <source>dddd d</source>
         <comment>MDY</comment>
         <extracomment>weekday and day where user chose MDY order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>zzzz z</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="642"/>

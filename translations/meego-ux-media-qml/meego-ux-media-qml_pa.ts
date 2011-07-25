@@ -17,17 +17,17 @@
     <message>
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
         <source>1 Album</source>
-        <translation type="unfinished"/>
+        <translation>1 ਐਲਬਮ</translation>
     </message>
     <message numerus="yes">
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
         <source>%n Albums</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n ਐਲਬਮ</numerusform><numerusform>%n ਐਲਬਮ</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="342"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n ਮਿੰਟ</numerusform><numerusform>%n ਮਿੰਟ</numerusform></translation>
     </message>
 </context>
 <context>
@@ -43,7 +43,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridVideoDelegate.qml" line="303"/>
         <source>%n Minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n ਮਿੰਟ</numerusform><numerusform>%n ਮਿੰਟ</numerusform></translation>
     </message>
 </context>
 <context>

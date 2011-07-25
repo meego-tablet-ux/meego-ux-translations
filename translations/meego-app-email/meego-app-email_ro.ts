@@ -5,7 +5,7 @@
         <location filename="../../settings/AccountExpandobox.qml" line="77"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="106"/>
@@ -111,13 +111,13 @@
         <location filename="../../AccountPage.qml" line="53"/>
         <source>%n unread message(s)</source>
         <extracomment>Label that displays the number of unread e-mail messages. Note plural handling.</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n mesaje necitite</numerusform><numerusform>%n mesaje necitite</numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="../../AccountPage.qml" line="115"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -140,7 +140,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="69"/>
         <source>Update:</source>
-        <translation type="unfinished"/>
+        <translation>Actualizare:</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="119"/>
@@ -152,13 +152,13 @@
         <location filename="../../settings/AccountSettings.qml" line="143"/>
         <source>Enter your signature.</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Introduceți semnătura.</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="129"/>
         <source>&quot;%1&quot;</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="159"/>
@@ -203,7 +203,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="234"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Ați modificat setările. Sunteți sigur(ă) că vreți să anulați?</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="239"/>
@@ -245,7 +245,7 @@
         <location filename="../../AddRecipient.qml" line="46"/>
         <source>Select &quot;%1&quot; recipient</source>
         <extracomment>The contact (e-mail recipient) picker title.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Selectează destinatarul %1</translation>
     </message>
 </context>
 <context>
@@ -254,27 +254,27 @@
         <location filename="../../ComposerViewToolbar.qml" line="175"/>
         <source>Attach a file</source>
         <extracomment>Attach a file (e.g. music, video, photo) to the document being composed.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Atașează un fișier</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="232"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Da</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="233"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="234"/>
         <source>Discard Email</source>
-        <translation type="unfinished"/>
+        <translation>Renunță la email</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="235"/>
         <source>Are you sure you want to discard this unsent email?</source>
-        <translation type="unfinished"/>
+        <translation>Sunteți sigur(ă) că doriți să renunțați la acest email netrimis?</translation>
     </message>
 </context>
 <context>
@@ -404,7 +404,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="142"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Ați modificat setările. Sunteți sigur(ă) că vreți să anulați?</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="147"/>
@@ -432,7 +432,7 @@
     <message>
         <location filename="../../EmailHeader.qml" line="39"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Șterge</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="84"/>
@@ -448,19 +448,19 @@
         <location filename="../../EmailHeader.qml" line="131"/>
         <source>To</source>
         <extracomment>The &quot;to&quot; recipient label.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Pentru</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="156"/>
         <source>Cc</source>
         <extracomment>The Cc (carbon copy) label.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Cc</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="180"/>
         <source>Bcc</source>
         <extracomment>The Bcc (blind carbon copy) label.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Bcc</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="213"/>
@@ -470,17 +470,17 @@
     <message>
         <location filename="../../EmailHeader.qml" line="248"/>
         <source>Low Priority</source>
-        <translation type="unfinished"/>
+        <translation>Prioritate redusă</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="249"/>
         <source>Normal Priority</source>
-        <translation type="unfinished"/>
+        <translation>Prioritate normală</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="250"/>
         <source>High Priority</source>
-        <translation type="unfinished"/>
+        <translation>Prioritate ridicată</translation>
     </message>
 </context>
 <context>
@@ -496,55 +496,55 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="114"/>
         <source>Create new folder</source>
-        <translation type="unfinished"/>
+        <translation>Creează folder nou</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="148"/>
         <source>Untitled Folder</source>
-        <translation type="unfinished"/>
+        <translation>Folder fără nume</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="152"/>
         <source>Create</source>
-        <translation type="unfinished"/>
+        <translation>Creează </translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="153"/>
         <location filename="../../FolderListMenu.qml" line="207"/>
         <location filename="../../FolderListMenu.qml" line="265"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="185"/>
         <source>Rename folder</source>
-        <translation type="unfinished"/>
+        <translation>Redenumește folder</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="206"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Redenumește </translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="243"/>
         <source>Delete folder</source>
-        <translation type="unfinished"/>
+        <translation>Șterge folder</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="264"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Da</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="268"/>
         <source>Are you sure you want to delete the folder &quot;%1&quot; and all emails inside ?</source>
-        <translation type="unfinished"/>
+        <translation>Sunteți sigur(ă) că doriți să ștergeți folderul %1 și toate mailurile conținute?</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="360"/>
         <source>(%1)</source>
         <extracomment>%1 is the number of unread emails</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -562,12 +562,12 @@
     <message>
         <location filename="../../FolderListView.qml" line="96"/>
         <source>On %1 %2 wrote:</source>
-        <translation type="unfinished"/>
+        <translation>La %1 %2 a scris:</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="144"/>
         <source>Drafts</source>
-        <translation type="unfinished"/>
+        <translation>Ciorne</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="149"/>
@@ -603,7 +603,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="237"/>
         <source>There are no messages in this folder.</source>
-        <translation type="unfinished"/>
+        <translation>Nu există mesaje în acest folder.</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="274"/>
@@ -651,27 +651,27 @@
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="130"/>
         <source>Choose folder:</source>
-        <translation type="unfinished"/>
+        <translation>Alege folder:</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="212"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Da</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="213"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nu</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="214"/>
         <source>Confirm Email Delete</source>
-        <translation type="unfinished"/>
+        <translation>Confirmare ștergere email</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="215"/>
         <source>Are you sure you want to delete these mails?</source>
-        <translation type="unfinished"/>
+        <translation>Sunteți sigur(ă) că doriți să ștergeți aceste emailuri?</translation>
     </message>
 </context>
 <context>
@@ -772,7 +772,7 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="232"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Ați modificat setările. Sunteți sigur(ă) că vreți să anulați?</translation>
     </message>
 </context>
 <context>
@@ -781,7 +781,7 @@
         <location filename="../../MessageAction.qml" line="41"/>
         <source>(%1)</source>
         <extracomment>Arg 1 is the number of selected messages</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -819,24 +819,24 @@
     <message>
         <location filename="../../ReadingView.qml" line="33"/>
         <source>Downloading Attachment...</source>
-        <translation type="unfinished"/>
+        <translation>Se descarcă atașamentul...</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="34"/>
         <source>Downloading Content...</source>
-        <translation type="unfinished"/>
+        <translation>Se descarcă conținutul...</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="39"/>
         <source>Saving %1</source>
         <extracomment>Message displayed when downloading an attachment. Arg 1 is the name of the attachment.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Se salvează %1</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="42"/>
         <source>%1 saved</source>
         <extracomment>Attachment has been saved message, where arg 1 is the name of the attachment.</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 a fost salvat</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="80"/>
@@ -846,7 +846,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="81"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Atenționare</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="86"/>
@@ -874,7 +874,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="37"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="38"/>
@@ -894,7 +894,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="65"/>
         <source>On %1 %2 wrote:</source>
-        <translation type="unfinished"/>
+        <translation>La %1 %2 a scris:</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="203"/>
@@ -945,12 +945,12 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="118"/>
         <source>Yahoo!</source>
-        <translation type="unfinished"/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="123"/>
         <source>AOL</source>
-        <translation type="unfinished"/>
+        <translation>AOL</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="131"/>
@@ -980,7 +980,7 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="155"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Ați modificat setările. Sunteți sigur(ă) că vreți să anulați?</translation>
     </message>
 </context>
 <context>
@@ -1052,7 +1052,7 @@
     <message>
         <location filename="../../main.qml" line="33"/>
         <source>Go to folder:</source>
-        <translation type="unfinished"/>
+        <translation>Mergi la folder:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="64"/>
@@ -1074,17 +1074,17 @@
     <message>
         <location filename="../../main.qml" line="104"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="132"/>
         <source>password</source>
-        <translation type="unfinished"/>
+        <translation>parolă</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="137"/>
         <source>key</source>
-        <translation type="unfinished"/>
+        <translation>cheie</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="260"/>
@@ -1095,7 +1095,7 @@
     <message>
         <location filename="../../main.qml" line="289"/>
         <source>On %1 %2 wrote:</source>
-        <translation type="unfinished"/>
+        <translation>La %1 %2 a scris:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="516"/>
@@ -1138,12 +1138,12 @@
     <message>
         <location filename="../../settings/settings.js" line="15"/>
         <source>Update every hour</source>
-        <translation type="unfinished"/>
+        <translation>Actualizează la fiecare oră</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="17"/>
         <source>Update every %1 minutes</source>
-        <translation type="unfinished"/>
+        <translation>Actualizează la fiecare %1 minute</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="23"/>
@@ -1153,38 +1153,38 @@
     <message>
         <location filename="../../settings/settings.js" line="24"/>
         <source>IMAP</source>
-        <translation type="unfinished"/>
+        <translation>IMAP</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="44"/>
         <location filename="../../settings/settings.js" line="70"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Niciun obiect</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="45"/>
         <source>SSL</source>
-        <translation type="unfinished"/>
+        <translation>SSL</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="46"/>
         <source>TLS</source>
-        <translation type="unfinished"/>
+        <translation>TLS</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="71"/>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Conectare</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="72"/>
         <source>Plain</source>
-        <translation type="unfinished"/>
+        <translation>Simplu</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="73"/>
         <source>Cram MD5</source>
-        <translation type="unfinished"/>
+        <translation>Cram MD5</translation>
     </message>
 </context>
 </TS>

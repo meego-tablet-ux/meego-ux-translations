@@ -5,7 +5,7 @@
         <location filename="../../settings/AccountExpandobox.qml" line="77"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="106"/>
@@ -117,7 +117,7 @@
         <location filename="../../AccountPage.qml" line="115"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -158,7 +158,7 @@
         <location filename="../../settings/AccountSettings.qml" line="129"/>
         <source>&quot;%1&quot;</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
-        <translation type="unfinished"/>
+        <translation>「%1」</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="159"/>
@@ -544,7 +544,7 @@
         <location filename="../../FolderListMenu.qml" line="360"/>
         <source>(%1)</source>
         <extracomment>%1 is the number of unread emails</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -945,12 +945,12 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="118"/>
         <source>Yahoo!</source>
-        <translation type="unfinished"/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="123"/>
         <source>AOL</source>
-        <translation type="unfinished"/>
+        <translation>AOL</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="131"/>

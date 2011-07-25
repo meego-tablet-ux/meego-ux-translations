@@ -17,12 +17,12 @@
     <message>
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
         <source>1 Album</source>
-        <translation type="unfinished"/>
+        <translation>1 البوم</translation>
     </message>
     <message numerus="yes">
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
         <source>%n Albums</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n البوم</numerusform><numerusform>%n البوم</numerusform><numerusform>%n البومان</numerusform><numerusform>%n البومات</numerusform><numerusform>%n البومات</numerusform><numerusform>%n البوم</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="342"/>

@@ -111,7 +111,7 @@
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="103"/>
         <source>Discoverable (%1)</source>
-        <translation type="unfinished"/>
+        <translation>قابلا للاكتشاف (%1)</translation>
     </message>
     <message numerus="yes">
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="116"/>

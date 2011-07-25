@@ -22,40 +22,40 @@
         <extracomment>%1 is &quot;Photos&quot; panel title
 ----------
 %1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Фотографии</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="93"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1: настройки</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="95"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Панель данных %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="98"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="130"/>
         <source>View some photos</source>
-        <translation type="unfinished"/>
+        <translation>Просмотреть фотографии</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="98"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Очистить историю</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="124"/>
         <source>The latest photos you view and your photo albums will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Здесь будут отображаться последние открытые фотографии и фотоальбомы.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="167"/>
         <source>You have cleared the Photos history</source>
-        <translation type="unfinished"/>
+        <translation>Вы очистили историю просмотра фотографий</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="206"/>
@@ -87,23 +87,23 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="244"/>
         <source>You have no photo albums</source>
-        <translation type="unfinished"/>
+        <translation>У вас нет фотоальбомов</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="249"/>
         <source>Create an album</source>
-        <translation type="unfinished"/>
+        <translation>Создать альбом</translation>
     </message>
     <message numerus="yes">
         <location filename="../../panelsrc/photos/photospanel.qml" line="278"/>
         <source>%n photo(s)</source>
         <comment>albumphotocount</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Фотографии: %n</numerusform><numerusform>Фотографии: %n</numerusform><numerusform>Фотографии: %n</numerusform></translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="288"/>
         <source>Created %1</source>
-        <translation>Создано %1</translation>
+        <translation>Создано: %1</translation>
     </message>
 </context>
 </TS>

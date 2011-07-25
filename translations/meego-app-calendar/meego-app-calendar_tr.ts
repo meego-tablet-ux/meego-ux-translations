@@ -39,7 +39,7 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <source>%1 - %2</source>
         <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -69,7 +69,7 @@ Diğer:  %n sonuç(lar) bulundu</numerusform></translation>
         <source>%1 - %2</source>
         <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -121,7 +121,7 @@ Diğer: %n daha fazla olay(lar)</numerusform></translation>
         <source>%1 - %2</source>
         <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -153,7 +153,7 @@ Diğer: %n daha fazla olay(lar)</numerusform></translation>
         <source>%1 - %2</source>
         <comment>WeekRange</comment>
         <extracomment>This is week date range %1 is Week's Start Date and %2 is Week's EndDate</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="323"/>
@@ -173,7 +173,7 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <source>%1 - %2</source>
         <comment>TimeRange</comment>
         <extracomment>This is time range (&quot;StartTime - EndTime&quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -206,20 +206,20 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <source>%1, %2 - %3</source>
         <comment>DateTimeRange</comment>
         <extracomment>This is Date, Time range (&quot;Event StartDate, StartTime - EndTime &quot;) %1 is Event StartDate, %2 is StartTime and %3 is EndTime</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1, %2 - %3</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="105"/>
         <source>%1 (GMT %2)</source>
         <comment>TimezoneData</comment>
         <extracomment>This is EventTime followed by GMT offset (&quot;%1 is event time and %2 is GMT offset&quot;)</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 (GMT %2)</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="115"/>
         <source>Repeats %1</source>
         <extracomment>%1 is frequency of the event like Never, Daily, Weekly - the text gets translated and gets passed as argument</extracomment>
-        <translation type="unfinished"/>
+        <translation>Yeniler %1</translation>
     </message>
     <message>
         <location filename="../../EventDetailsView.qml" line="174"/>
@@ -258,14 +258,14 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <source>%1 - %2</source>
         <comment>TimeRange</comment>
         <extracomment>This is Events Time range (&quot;StartTime - EndTime &quot;) %1 is StartTime and %2 is EndTime</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="134"/>
         <source>%1, %2</source>
         <comment>DateTimeRange</comment>
         <extracomment>This is Date, Time range (&quot;Event StartDate, StartTime and EndTime String &quot;) %1 is Event StartDate, %2 is StartTime and EndTime string (already translated and passed as argument)</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="../../MultipleEventsPopup.qml" line="162"/>
@@ -323,7 +323,7 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
     <message>
         <location filename="../../NewEventView.qml" line="785"/>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Daha fazla</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="849"/>
@@ -371,7 +371,7 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <source>Other</source>
         <comment>Interval</comment>
         <extracomment>Other kind of repeat interval</extracomment>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="973"/>
@@ -444,7 +444,7 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <source>Other</source>
         <comment>Alarm</comment>
         <extracomment>Other type of alarm</extracomment>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <location filename="../../NewEventView.qml" line="1168"/>
@@ -479,7 +479,7 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <source>%1 (%2)</source>
         <comment>TimezoneData</comment>
         <extracomment>This Time zone string %1 corresponds to cityname, %2 corresponds to GMT offset. Both arguments are localized.</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -489,7 +489,7 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <source>%1 - %2</source>
         <comment>Date Range</comment>
         <extracomment>%1 is StartDate and %2 is EndDate (will be deleted from code soon)</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="277"/>
@@ -540,7 +540,7 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <location filename="../../lib/utilmethods.cpp" line="286"/>
         <source>Other</source>
         <comment>Alarm</comment>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="295"/>
@@ -576,7 +576,7 @@ Diğer: %n daha fazla olay(lar) var</numerusform></translation>
         <location filename="../../lib/utilmethods.cpp" line="301"/>
         <source>Other</source>
         <comment>Interval</comment>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <location filename="../../lib/utilmethods.cpp" line="310"/>

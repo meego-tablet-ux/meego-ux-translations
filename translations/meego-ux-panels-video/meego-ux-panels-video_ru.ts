@@ -10,46 +10,46 @@
         <extracomment>%1 is &quot;Video&quot; panel title
 ----------
 %1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Видео</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="67"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1: настройки</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="69"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Панель данных %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="72"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="103"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="141"/>
         <source>Watch a video</source>
-        <translation type="unfinished"/>
+        <translation>Смотреть видео</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="72"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Очистить историю</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="97"/>
         <source>The latest videos you watch will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Здесь будут отображены последние просмотренные видео.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="136"/>
         <source>No recently watched videos.</source>
-        <translation type="unfinished"/>
+        <translation>Не было просмотра видео.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="157"/>
         <source>You have cleared the Video history</source>
-        <translation type="unfinished"/>
+        <translation>Вы очистили историю просмотра видео</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="170"/>

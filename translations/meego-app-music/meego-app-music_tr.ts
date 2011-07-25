@@ -401,7 +401,7 @@
     <message numerus="yes">
         <location filename="../../main.qml" line="857"/>
         <source>Permanently delete the selected %n song(s)?</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>Seçilen %n şarkı(lar) kalıcı olarak silinsinmi?</numerusform></translation>
     </message>
     <message>
         <location filename="../../main.qml" line="870"/>
@@ -425,7 +425,7 @@
     <message>
         <location filename="../../main.qml" line="2756"/>
         <source>%1 songs</source>
-        <translation type="unfinished"/>
+        <translation>%1 şarkılar</translation>
     </message>
 </context>
 </TS>

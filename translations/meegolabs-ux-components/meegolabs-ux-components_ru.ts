@@ -103,7 +103,7 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="64"/>
         <source>M/d/yy</source>
         <extracomment>QDateTime format string: M is numeric month, d is num. day, yy is year; e.g. 1/31/11 translator: reorder / reformat, but make sure to use these ASCII M, d, and yy format codes</extracomment>
-        <translation>M/d/yy</translation>
+        <translation>d/M/yy</translation>
     </message>
     <message>
         <location filename="../../src/kernel/relativetimestamp.cpp" line="68"/>
@@ -187,7 +187,7 @@
         <source>7</source>
         <comment>firstday</comment>
         <extracomment>this number sets default first day of week set to 1 for Monday, 2 for Tuesday, etc, and 7 for Sunday</extracomment>
-        <translation>7</translation>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="409"/>

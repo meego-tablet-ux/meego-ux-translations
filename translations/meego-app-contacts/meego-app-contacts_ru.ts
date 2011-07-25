@@ -24,7 +24,7 @@
     <message>
         <location filename="../../AddressEditWidget.qml" line="27"/>
         <source>Town / City</source>
-        <translation>Населённый пункт / город</translation>
+        <translation>Населенный пункт / город</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="28"/>
@@ -48,7 +48,7 @@
         <location filename="../../ContactCardLandscape.qml" line="164"/>
         <location filename="../../ContactCardLandscape.qml" line="166"/>
         <source>%1 %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -69,7 +69,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Добавить в избранное</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="82"/>
@@ -102,14 +102,14 @@
         <source>%1 %2</source>
         <comment>LastFirstName</comment>
         <extracomment>%1 is last name, %2 is first name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="152"/>
         <source>%1 %2</source>
         <comment>FirstLastName</comment>
         <extracomment>%1 is first name, %2 is last name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -213,14 +213,14 @@
         <source>Bookmark</source>
         <comment>Noun</comment>
         <extracomment>Denotes whether the web page for this contact is just a bookmark</extracomment>
-        <translation type="unfinished"/>
+        <translation>Закладка</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="43"/>
         <source>Favorite</source>
         <comment>Noun</comment>
         <extracomment>Denotes whether the web page for this contact is a favorite bookmark</extracomment>
-        <translation type="unfinished"/>
+        <translation>Добавить в избранное</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="45"/>
@@ -267,13 +267,13 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="58"/>
         <source>Email</source>
-        <translation>Эл. почта</translation>
+        <translation>Электронная почта</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="61"/>
         <source>Web</source>
         <extracomment>The header for the section that shows the web sites for this contact</extracomment>
-        <translation>Интернет</translation>
+        <translation>Веб-адрес</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="62"/>
@@ -335,7 +335,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Добавить в избранное</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="79"/>
@@ -347,7 +347,7 @@
         <location filename="../../DetailViewPortrait.qml" line="97"/>
         <source>View</source>
         <extracomment>Load the details for the selected contact</extracomment>
-        <translation>Просмотрите</translation>
+        <translation>Просмотреть</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="100"/>
@@ -423,7 +423,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Добавить в избранное</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="52"/>
@@ -445,17 +445,17 @@
         <location filename="../../EditViewPortrait.qml" line="58"/>
         <source>Instant messaging</source>
         <extracomment>Instant Messaging Accounts for this contact</extracomment>
-        <translation>Мгновенные сообщения</translation>
+        <translation>Обмен сообщениями</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="59"/>
         <source>Add account</source>
-        <translation>Добавить учётную запись</translation>
+        <translation>Добавить учетную запись</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="60"/>
         <source>Email</source>
-        <translation>Эл. почта</translation>
+        <translation>Электронная почта</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="61"/>
@@ -466,7 +466,7 @@
         <location filename="../../EditViewPortrait.qml" line="64"/>
         <source>Web</source>
         <extracomment>The header for the section that shows the web sites for this contact</extracomment>
-        <translation>Веб</translation>
+        <translation>Веб-адрес</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="65"/>
@@ -512,7 +512,7 @@
     <message>
         <location filename="../../EmptyContacts.qml" line="17"/>
         <source>You haven&apos;t added any contacts yet.</source>
-        <translation>Вы ещё не добавили контакты.</translation>
+        <translation>Вы еще не добавили контакты.</translation>
     </message>
     <message>
         <location filename="../../EmptyContacts.qml" line="18"/>
@@ -525,7 +525,7 @@
     <message>
         <location filename="../../GroupedViewLandscape.qml" line="81"/>
         <source>#</source>
-        <translation type="unfinished"/>
+        <translation>#</translation>
     </message>
 </context>
 <context>
@@ -579,22 +579,22 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="35"/>
         <source>Account Name / ID</source>
-        <translation>Имя / идентификатор учётной записи</translation>
+        <translation>Имя / идентификатор учетной записи</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="36"/>
         <source>Account Type</source>
-        <translation>Тип учётной записи</translation>
+        <translation>Тип учетной записи</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="37"/>
         <source>No IM accounts are configured</source>
-        <translation>Нет настроенных учётных записей IM</translation>
+        <translation>Нет настроенных учетных записей IM</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="38"/>
         <source>No buddies for this account</source>
-        <translation>Нет друзей для этой учётной записи</translation>
+        <translation>Нет друзей для этой учетной записи</translation>
     </message>
 </context>
 <context>
@@ -670,7 +670,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Добавить в избранное</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="51"/>
@@ -685,17 +685,17 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="53"/>
         <source>Instant messaging</source>
-        <translation>Мгновенные сообщения</translation>
+        <translation>Обмен сообщениями</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="54"/>
         <source>Add account</source>
-        <translation>Добавить учётную запись</translation>
+        <translation>Добавить учетную запись</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="55"/>
         <source>Email</source>
-        <translation>Эл. почта</translation>
+        <translation>Электронная почта</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="56"/>
@@ -705,7 +705,7 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="57"/>
         <source>Web</source>
-        <translation>Веб</translation>
+        <translation>Веб-адрес</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="58"/>
@@ -782,13 +782,13 @@
         <location filename="../../WebPageEditWidget.qml" line="24"/>
         <source>Bookmark</source>
         <comment>Noun</comment>
-        <translation type="unfinished"/>
+        <translation>Закладка</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="25"/>
         <source>Favorite</source>
         <comment>Noun</comment>
-        <translation type="unfinished"/>
+        <translation>Добавить в избранное</translation>
     </message>
 </context>
 <context>
@@ -813,7 +813,7 @@
     <message>
         <location filename="../../main.qml" line="27"/>
         <source>Favorites</source>
-        <translation>Избранное</translation>
+        <translation>Избранные</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="28"/>
@@ -824,7 +824,7 @@
         <location filename="../../main.qml" line="31"/>
         <source>View</source>
         <extracomment>Load the details for the selected contact</extracomment>
-        <translation>Просмотрите</translation>
+        <translation>Просмотреть</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -834,20 +834,20 @@
     <message>
         <location filename="../../main.qml" line="33"/>
         <source>Email</source>
-        <translation>Эл. почта</translation>
+        <translation>Электронная почта</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Добавить в избранное</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>Удалить из избранного</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -878,7 +878,7 @@
     <message>
         <location filename="../../main.qml" line="51"/>
         <source>Contact details</source>
-        <translation>Контактная информация</translation>
+        <translation>Информация о контакте</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="53"/>

@@ -82,7 +82,7 @@
         <location filename="../../src/components/datetime/DatePicker.qml" line="199"/>
         <source>May</source>
         <comment>Short</comment>
-        <translation type="unfinished"/>
+        <translation>ਮਈ</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="200"/>
@@ -143,7 +143,7 @@
         <location filename="../../src/components/datetime/DatePicker.qml" line="212"/>
         <source>May</source>
         <comment>Full</comment>
-        <translation type="unfinished"/>
+        <translation>ਮਈ</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="213"/>
@@ -429,7 +429,7 @@
         <location filename="../../src/components/common/ScrollableMusicList.qml" line="189"/>
         <source>%1:%2</source>
         <comment>MinsSecs</comment>
-        <translation type="unfinished"/>
+        <translation>%1:%2</translation>
     </message>
 </context>
 <context>
@@ -439,7 +439,7 @@
         <source>%1: %2</source>
         <comment>SummaryBody</comment>
         <extracomment>%1 is notification summary, %2 is notification body</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>

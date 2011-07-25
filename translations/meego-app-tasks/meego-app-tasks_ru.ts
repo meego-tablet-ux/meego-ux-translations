@@ -51,7 +51,7 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../CreateNewTaskRow.qml" line="101"/>
         <source>Select Due Date</source>
-        <translation type="unfinished"/>
+        <translation>Выберите дату завершения действия</translation>
     </message>
 </context>
 <context>
@@ -59,7 +59,7 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../model/qsettingsbackend.cpp" line="76"/>
         <source>MMMM d</source>
-        <translation type="unfinished"/>
+        <translation>d MMMM</translation>
     </message>
 </context>
 <context>
@@ -72,7 +72,7 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../TaskListPicker.qml" line="131"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="132"/>
@@ -121,7 +121,7 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../TaskListView.qml" line="559"/>
         <source>Are you sure you want to delete this task?</source>
-        <translation>Действительно удалить эту задачу?</translation>
+        <translation>Вы действительно хотите удалить эту задачу?</translation>
     </message>
 </context>
 <context>
@@ -182,7 +182,7 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../TasksDetailMenu.qml" line="219"/>
         <source>Edit</source>
-        <translation>Правка</translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="231"/>
@@ -205,13 +205,13 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../main.qml" line="17"/>
         <source>All due tasks</source>
-        <translation>Все актуальные задачи</translation>
+        <translation>Все запланированные задачи</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="19"/>
         <location filename="../../main.qml" line="21"/>
         <source>Order: %1</source>
-        <translation type="unfinished"/>
+        <translation>Порядок: %1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="22"/>
@@ -326,7 +326,7 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../main.qml" line="44"/>
         <source>Do you want to delete this list and all of its tasks?</source>
-        <translation>Действительно удалить этот список со всеми его задачами?</translation>
+        <translation>Удалить этот список и все его задачи?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="45"/>
@@ -375,7 +375,7 @@ This line is used for indication amount of tasks when a category is collapsed.</
         <location filename="../../main.qml" line="721"/>
         <location filename="../../main.qml" line="909"/>
         <source>To create a task, start by selecting a task list. Then tap on the new task line.</source>
-        <translation>Чтобы создать задачу, выберите список задач. Затем нажите на строке для создания задачи.</translation>
+        <translation>Чтобы создать задачу, выберите список задач. Затем нажмите на строке создания новой задачи.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="722"/>
@@ -385,12 +385,12 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../main.qml" line="725"/>
         <source>To mark a task as completed, tap the check box.</source>
-        <translation>Чтобы установить отметку о завершении задачи, поставьте около неё флажок.</translation>
+        <translation>Чтобы установить отметку о завершении задачи, поставьте около этой задачи флажок.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="878"/>
         <source>You have no due tasks</source>
-        <translation>Нет запланированные задач</translation>
+        <translation>Нет запланированных задач</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="880"/>

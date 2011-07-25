@@ -63,7 +63,7 @@
         <location filename="../../qml/CreateCollection.qml" line="160"/>
         <location filename="../../qml/CreateCollection.qml" line="247"/>
         <source>Collection creation: General error</source>
-        <translation>Создании коллекции: ошибка</translation>
+        <translation>Создание коллекции: Общая ошибка</translation>
     </message>
     <message>
         <location filename="../../qml/CreateCollection.qml" line="167"/>
@@ -401,12 +401,12 @@
     <message>
         <location filename="../../qml/vimeo_video_multi.qml" line="20"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>Название видео</translation>
     </message>
     <message>
         <location filename="../../qml/vimeo_video_multi.qml" line="23"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>Описание видео</translation>
     </message>
 </context>
 <context>
@@ -414,12 +414,12 @@
     <message>
         <location filename="../../qml/vimeo_video_single.qml" line="20"/>
         <source>Video name</source>
-        <translation type="unfinished"/>
+        <translation>Название видео</translation>
     </message>
     <message>
         <location filename="../../qml/vimeo_video_single.qml" line="23"/>
         <source>Video description</source>
-        <translation type="unfinished"/>
+        <translation>Описание видео</translation>
     </message>
 </context>
 <context>

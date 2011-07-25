@@ -56,17 +56,17 @@
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="229"/>
         <source>Airplane Mode is ON</source>
-        <translation type="unfinished"/>
+        <translation>Режим &quot;В самолете&quot; ВКЛЮЧЕН</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="251"/>
         <source>To connect WiFi turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>Для подключения к сети Wi-Fi выключите режим &quot;В самолете&quot;</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="268"/>
         <source>Turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>Выключить режим &quot;В самолете&quot;</translation>
     </message>
 </context>
 </TS>

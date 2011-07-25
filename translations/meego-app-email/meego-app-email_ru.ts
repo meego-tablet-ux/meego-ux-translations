@@ -5,12 +5,12 @@
         <location filename="../../settings/AccountExpandobox.qml" line="77"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="106"/>
         <source>Account description</source>
-        <translation>Описание учётной записи</translation>
+        <translation>Описание учетной записи</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="111"/>
@@ -32,7 +32,7 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="130"/>
         <source>Receiving settings</source>
-        <translation>Параметры получения</translation>
+        <translation>Параметры приема</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="131"/>
@@ -82,7 +82,7 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="219"/>
         <source>Delete Account</source>
-        <translation>Удалить учётную запись</translation>
+        <translation>Удалить учетную запись</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="230"/>
@@ -97,12 +97,12 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="232"/>
         <source>Delete account</source>
-        <translation>Удалить учётную запись</translation>
+        <translation>Удалить учетную запись</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="233"/>
         <source>Are you sure you want to delete this account?</source>
-        <translation>Вы уверены, что хотите удалить эту учётную запись?</translation>
+        <translation>Вы уверены, что хотите удалить эту учетную запись?</translation>
     </message>
 </context>
 <context>
@@ -111,13 +111,13 @@
         <location filename="../../AccountPage.qml" line="53"/>
         <source>%n unread message(s)</source>
         <extracomment>Label that displays the number of unread e-mail messages. Note plural handling.</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Непрочитанных сообщений: %n</numerusform><numerusform>Непрочитанных сообщений: %n</numerusform><numerusform>Непрочитанных сообщений: %n</numerusform></translation>
     </message>
     <message>
         <location filename="../../AccountPage.qml" line="115"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -125,17 +125,17 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="28"/>
         <source>Accounts</source>
-        <translation>Учётные записи</translation>
+        <translation>Учетные записи</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="45"/>
         <source>Set up new account</source>
-        <translation>Настроить новую учётную запись</translation>
+        <translation>Настроить новую учетную запись</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="58"/>
         <source>General Settings</source>
-        <translation>Общие параметры</translation>
+        <translation>Общие настройки</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="69"/>
@@ -152,18 +152,18 @@
         <location filename="../../settings/AccountSettings.qml" line="143"/>
         <source>Enter your signature.</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Введите свою подпись.</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="129"/>
         <source>&quot;%1&quot;</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="159"/>
         <source>Notifications</source>
-        <translation>Оповещения</translation>
+        <translation>Уведомления</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="177"/>
@@ -203,7 +203,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="234"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Вы изменили свои настройки. Вы уверены, что хотите отменить?</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="239"/>
@@ -218,7 +218,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="242"/>
         <source>Your changes have been saved.</source>
-        <translation>Изменения сохранены.</translation>
+        <translation>Ваши изменения сохранены.</translation>
     </message>
 </context>
 <context>
@@ -231,7 +231,7 @@
     <message>
         <location filename="../../AddAttachmentView.qml" line="67"/>
         <source>Movies</source>
-        <translation>Фильмы</translation>
+        <translation>Видео</translation>
     </message>
     <message>
         <location filename="../../AddAttachmentView.qml" line="74"/>
@@ -254,27 +254,27 @@
         <location filename="../../ComposerViewToolbar.qml" line="175"/>
         <source>Attach a file</source>
         <extracomment>Attach a file (e.g. music, video, photo) to the document being composed.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Вложить файл</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="232"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="233"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Отменить</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="234"/>
         <source>Discard Email</source>
-        <translation type="unfinished"/>
+        <translation>Отменить сообщение</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="235"/>
         <source>Are you sure you want to discard this unsent email?</source>
-        <translation type="unfinished"/>
+        <translation>Отменить это неотправленное сообщение?</translation>
     </message>
 </context>
 <context>
@@ -282,12 +282,12 @@
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="34"/>
         <source>Account set up successfully!</source>
-        <translation>Учётная запись успешно настроена!</translation>
+        <translation>Учетная запись успешно настроена!</translation>
     </message>
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="36"/>
         <source>Accounts</source>
-        <translation>Учётные записи</translation>
+        <translation>Учетные записи</translation>
     </message>
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="53"/>
@@ -297,7 +297,7 @@
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="65"/>
         <source>Set up another account?</source>
-        <translation>Настроить ещё одну учётную запись?</translation>
+        <translation>Настроить еще одну учетную запись?</translation>
     </message>
 </context>
 <context>
@@ -305,12 +305,12 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="37"/>
         <source>Account details</source>
-        <translation>Данные учётной записи</translation>
+        <translation>Данные учетной записи</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="40"/>
         <source>Account: %1</source>
-        <translation>Учётная запись: %1</translation>
+        <translation>Учетная запись: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="43"/>
@@ -325,7 +325,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="53"/>
         <source>Receiving:</source>
-        <translation>Получение:</translation>
+        <translation>Прием:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="56"/>
@@ -379,12 +379,12 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="122"/>
         <source>Manual Edit</source>
-        <translation>Изменить вручуню</translation>
+        <translation>Редактирование вручную</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="125"/>
         <source>Please fill in account details:</source>
-        <translation>Укажите данные учётной записи:</translation>
+        <translation>Укажите данные учетной записи:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="139"/>
@@ -404,7 +404,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="142"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Вы изменили свои настройки. Вы уверены, что хотите отменить?</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="147"/>
@@ -424,7 +424,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="153"/>
         <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
-        <translation>К сожалению, мы не можем настроить вашу учётную запись автоматически. Укажите данные учётной записи:</translation>
+        <translation>К сожалению, мы не можем настроить вашу учетную запись автоматически. Укажите данные учетной записи:</translation>
     </message>
 </context>
 <context>
@@ -432,7 +432,7 @@
     <message>
         <location filename="../../EmailHeader.qml" line="39"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="84"/>
@@ -496,55 +496,55 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="114"/>
         <source>Create new folder</source>
-        <translation type="unfinished"/>
+        <translation>Создать новую папку</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="148"/>
         <source>Untitled Folder</source>
-        <translation type="unfinished"/>
+        <translation>Папка без названия</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="152"/>
         <source>Create</source>
-        <translation type="unfinished"/>
+        <translation>Создать</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="153"/>
         <location filename="../../FolderListMenu.qml" line="207"/>
         <location filename="../../FolderListMenu.qml" line="265"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Отменить</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="185"/>
         <source>Rename folder</source>
-        <translation type="unfinished"/>
+        <translation>Переименовать папку</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="206"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="243"/>
         <source>Delete folder</source>
-        <translation type="unfinished"/>
+        <translation>Удалить папку</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="264"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="268"/>
         <source>Are you sure you want to delete the folder &quot;%1&quot; and all emails inside ?</source>
-        <translation type="unfinished"/>
+        <translation>Удалить папку &quot;%1&quot; и все письма в ней?</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="360"/>
         <source>(%1)</source>
         <extracomment>%1 is the number of unread emails</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -562,12 +562,12 @@
     <message>
         <location filename="../../FolderListView.qml" line="96"/>
         <source>On %1 %2 wrote:</source>
-        <translation>%1 %2 написал: </translation>
+        <translation>%1 %2 написал:</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="144"/>
         <source>Drafts</source>
-        <translation type="unfinished"/>
+        <translation>Черновики</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="149"/>
@@ -651,27 +651,27 @@
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="130"/>
         <source>Choose folder:</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать папку:</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="212"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="213"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="214"/>
         <source>Confirm Email Delete</source>
-        <translation type="unfinished"/>
+        <translation>Подтверждение удаления электронной почты</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="215"/>
         <source>Are you sure you want to delete these mails?</source>
-        <translation type="unfinished"/>
+        <translation>Вы уверены, что хотите удалить эти письма?</translation>
     </message>
 </context>
 <context>
@@ -679,13 +679,13 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="44"/>
         <source>Receiving settings</source>
-        <translation>Параметры получения</translation>
+        <translation>Параметры приема</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="45"/>
         <location filename="../../settings/ManualScreen.qml" line="92"/>
         <source>You may need to contact your email provider for these settings.</source>
-        <translation>Возможно, вам нужно связаться с поставщиком услуг эл. почты, чтобы получить эти параметры.</translation>
+        <translation>Возможно, вам нужно связаться с поставщиком услуг эл. почты, чтобы получить эти настройки.</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="49"/>
@@ -747,7 +747,7 @@
         <location filename="../../settings/ManualScreen.qml" line="193"/>
         <location filename="../../settings/ManualScreen.qml" line="199"/>
         <source>This field is required</source>
-        <translation>Это поле является обязательным</translation>
+        <translation>Это обязательное поле</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="218"/>
@@ -772,7 +772,7 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="232"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Вы внесли изменения в настройки - вы уверены, что хотите отменить их?</translation>
     </message>
 </context>
 <context>
@@ -781,7 +781,7 @@
         <location filename="../../MessageAction.qml" line="41"/>
         <source>(%1)</source>
         <extracomment>Arg 1 is the number of selected messages</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -819,24 +819,24 @@
     <message>
         <location filename="../../ReadingView.qml" line="33"/>
         <source>Downloading Attachment...</source>
-        <translation type="unfinished"/>
+        <translation>Получение вложения...</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="34"/>
         <source>Downloading Content...</source>
-        <translation type="unfinished"/>
+        <translation>Получение данных...</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="39"/>
         <source>Saving %1</source>
         <extracomment>Message displayed when downloading an attachment. Arg 1 is the name of the attachment.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Сохранение %1</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="42"/>
         <source>%1 saved</source>
         <extracomment>Attachment has been saved message, where arg 1 is the name of the attachment.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Сохранено: %1</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="80"/>
@@ -874,7 +874,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="37"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="38"/>
@@ -894,7 +894,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="65"/>
         <source>On %1 %2 wrote:</source>
-        <translation>%1 %2 написал: </translation>
+        <translation>%1 %2 написал:</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="203"/>
@@ -913,7 +913,7 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="34"/>
         <source>Account description:</source>
-        <translation>Описание учётной записи:</translation>
+        <translation>Описание учетной записи:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="43"/>
@@ -940,22 +940,22 @@
         <location filename="../../settings/RegisterScreen.qml" line="84"/>
         <location filename="../../settings/RegisterScreen.qml" line="90"/>
         <source>This field is required</source>
-        <translation>Это поле является обязательным</translation>
+        <translation>Это обязательное поле</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="118"/>
         <source>Yahoo!</source>
-        <translation type="unfinished"/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="123"/>
         <source>AOL</source>
-        <translation type="unfinished"/>
+        <translation>AOL</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="131"/>
         <source>Please fill in account details:</source>
-        <translation>Укажите данные учётной записи:</translation>
+        <translation>Укажите данные учетной записи:</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="137"/>
@@ -980,7 +980,7 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="155"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Вы изменили свои настройки. Вы уверены, что хотите отменить?</translation>
     </message>
 </context>
 <context>
@@ -1019,7 +1019,7 @@
     <message>
         <location filename="../../settings/WelcomeScreen.qml" line="35"/>
         <source>Set up your accounts</source>
-        <translation>Настроить учётные записи</translation>
+        <translation>Настроить учетные записи</translation>
     </message>
 </context>
 <context>
@@ -1057,7 +1057,7 @@
     <message>
         <location filename="../../main.qml" line="64"/>
         <source>Email</source>
-        <translation>Эл. почта</translation>
+        <translation>Электронная почта</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="81"/>
@@ -1074,28 +1074,28 @@
     <message>
         <location filename="../../main.qml" line="104"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Отменить</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="132"/>
         <source>password</source>
-        <translation type="unfinished"/>
+        <translation>пароль</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="137"/>
         <source>key</source>
-        <translation type="unfinished"/>
+        <translation>ключ</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="260"/>
         <location filename="../../main.qml" line="665"/>
         <source>Account switcher</source>
-        <translation>Переключатель учётных записей</translation>
+        <translation>Переключатель учетных записей</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="289"/>
         <source>On %1 %2 wrote:</source>
-        <translation>%1 %2 написал: </translation>
+        <translation>%1 %2 написал:</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="516"/>
@@ -1110,12 +1110,12 @@
     <message>
         <location filename="../../main.qml" line="658"/>
         <source>Account list</source>
-        <translation>Список учётных записей</translation>
+        <translation>Список учетных записей</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="740"/>
         <source>Composer</source>
-        <translation>Автор</translation>
+        <translation>Редактор сообщений</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="803"/>
@@ -1133,7 +1133,7 @@
     <message>
         <location filename="../../settings/settings.js" line="13"/>
         <source>Manual update only</source>
-        <translation>Обновлять только вручную</translation>
+        <translation>Обновление только вручную</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="15"/>
@@ -1174,12 +1174,12 @@
     <message>
         <location filename="../../settings/settings.js" line="71"/>
         <source>Login</source>
-        <translation>Вход</translation>
+        <translation>Login</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="72"/>
         <source>Plain</source>
-        <translation>Простой</translation>
+        <translation>Plain</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="73"/>

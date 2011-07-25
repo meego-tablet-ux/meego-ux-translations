@@ -274,7 +274,7 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="201"/>
         <source>Are you sure you want to delete this photo?</source>
         <extracomment>This is a label for the photo deletion confirmation modal dialog when removing a photo</extracomment>
-        <translation type="unfinished"/>
+        <translation>Bu fotoğrafı silmek istediğinizden eminmisiniz?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="203"/>
@@ -384,7 +384,7 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="1245"/>
         <source>%n photo(s)</source>
         <extracomment>This is a metadata label for indicating the number of photos in the album</extracomment>
-        <translation><numerusform>%n fotoğraf (lar)</numerusform></translation>
+        <translation><numerusform>%n fotoğraf(lar)</numerusform></translation>
     </message>
 </context>
 </TS>

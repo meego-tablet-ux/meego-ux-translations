@@ -17,12 +17,12 @@
     <message>
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
         <source>1 Album</source>
-        <translation type="unfinished"/>
+        <translation>1 Albüm</translation>
     </message>
     <message numerus="yes">
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="333"/>
         <source>%n Albums</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n Albümleri</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../Media/MediaGridMusicAlbumDelegate.qml" line="342"/>
