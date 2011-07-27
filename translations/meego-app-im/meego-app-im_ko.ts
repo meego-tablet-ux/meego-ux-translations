@@ -22,84 +22,85 @@
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="172"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="181"/>
         <source>Error ending call</source>
         <translation>호출 종료 중 오류 발생</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="197"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1129"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="206"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1158"/>
         <source>Call could not be accepted</source>
         <translation>호출을 수용할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="481"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="490"/>
         <source>Unable to set hold</source>
         <translation>대기를 설정할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="581"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="810"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="590"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="833"/>
         <source>Channel not available</source>
         <translation>채널을 사용할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="744"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="767"/>
         <source>Unable to create call channel for contact %1</source>
         <translation>연락처 %1의 호출 채널을 만들 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1087"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1116"/>
         <source>Unable to create channel: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>채널을 만들 수 없습니다: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1102"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1131"/>
         <source>Unable to create channel</source>
         <translation>채널을 만들 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1117"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1146"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>연락처 %1 - %2 - %3의 호출 채널을 만들 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1174"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1203"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>연락처 %1 - %2 - %3의 유효하지 않은 호출 채널</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1500"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1529"/>
         <source>Error ending call: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>호출 종료 중 오류 발생: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1515"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1544"/>
         <source>Call could not be accepted %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>호출을 수용할 수 없습니다. %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1531"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1560"/>
         <source>Hold request could not be done %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>대기 요청을 할 수 없습니다. %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1699"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1728"/>
         <source>Call resources were lost</source>
         <translation>호출 리소스를 분실했습니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1708"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1737"/>
         <source>Call resources not granted</source>
         <translation>호출 리소스를 받지 못했습니다.</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1717"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1746"/>
         <source>Error acquiring call resources</source>
         <translation>호출 리소스를 받는 중 오류가 발생했습니다.</translation>
     </message>
@@ -159,7 +160,7 @@
 <context>
     <name>ContactDelegate</name>
     <message>
-        <location filename="../../ContactDelegate.qml" line="140"/>
+        <location filename="../../ContactDelegate.qml" line="45"/>
         <source>Report abuse</source>
         <translation>남용 신고 </translation>
     </message>

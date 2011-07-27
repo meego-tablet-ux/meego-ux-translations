@@ -114,7 +114,7 @@
         <translation><numerusform>%n mensagem não lida</numerusform><numerusform>%n mensagens não lidas</numerusform></translation>
     </message>
     <message>
-        <location filename="../../AccountPage.qml" line="115"/>
+        <location filename="../../AccountPage.qml" line="116"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
         <translation>%1 - %2</translation>
@@ -128,95 +128,95 @@
         <translation>Contas</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="45"/>
+        <location filename="../../settings/AccountSettings.qml" line="46"/>
         <source>Set up new account</source>
         <translation>Configurar uma nova conta</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="58"/>
+        <location filename="../../settings/AccountSettings.qml" line="61"/>
         <source>General Settings</source>
         <translation>Definições Gerais</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="69"/>
+        <location filename="../../settings/AccountSettings.qml" line="73"/>
         <source>Update:</source>
         <translation>Atualizar:</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="119"/>
+        <location filename="../../settings/AccountSettings.qml" line="126"/>
         <source>Signature</source>
         <translation>Assinatura</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="129"/>
-        <location filename="../../settings/AccountSettings.qml" line="143"/>
+        <location filename="../../settings/AccountSettings.qml" line="139"/>
+        <location filename="../../settings/AccountSettings.qml" line="153"/>
         <source>Enter your signature.</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
         <translation>Introduza a sua assinatura.</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="129"/>
+        <location filename="../../settings/AccountSettings.qml" line="139"/>
         <source>&quot;%1&quot;</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
         <translation>&quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="159"/>
+        <location filename="../../settings/AccountSettings.qml" line="169"/>
         <source>Notifications</source>
         <translation>Notificações</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="177"/>
+        <location filename="../../settings/AccountSettings.qml" line="187"/>
         <source>New email notifications</source>
         <translation>Notificações de novas mensagens</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="182"/>
+        <location filename="../../settings/AccountSettings.qml" line="192"/>
         <source>Ask before deleting email</source>
         <translation>Perguntar antes de eliminar mensagens</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="204"/>
+        <location filename="../../settings/AccountSettings.qml" line="214"/>
         <source>Save changes</source>
         <translation>Gravar alterações</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="221"/>
+        <location filename="../../settings/AccountSettings.qml" line="231"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="231"/>
+        <location filename="../../settings/AccountSettings.qml" line="241"/>
         <source>Yes</source>
         <translation>Sim</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="232"/>
+        <location filename="../../settings/AccountSettings.qml" line="242"/>
         <source>No</source>
         <translation>Não</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="233"/>
+        <location filename="../../settings/AccountSettings.qml" line="243"/>
         <source>Discard changes</source>
         <translation>Rejeitar alterações</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="234"/>
+        <location filename="../../settings/AccountSettings.qml" line="244"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
         <translation>Você efetuou alterações às definições. Tem a certeza que quer cancelar?</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="239"/>
+        <location filename="../../settings/AccountSettings.qml" line="249"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="241"/>
+        <location filename="../../settings/AccountSettings.qml" line="251"/>
         <source>Changes saved</source>
         <translation>Alterações gravadas</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="242"/>
+        <location filename="../../settings/AccountSettings.qml" line="252"/>
         <source>Your changes have been saved.</source>
         <translation>As suas alterações foram gravadas.</translation>
     </message>
@@ -280,22 +280,22 @@
 <context>
     <name>ConfirmScreen</name>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="34"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="32"/>
         <source>Account set up successfully!</source>
         <translation>A conta foi bem configurada!</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="36"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="45"/>
         <source>Accounts</source>
         <translation>Contas</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="53"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="63"/>
         <source>Done</source>
         <translation>Concluído</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="65"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="76"/>
         <source>Set up another account?</source>
         <translation>Configurar outra conta?</translation>
     </message>
@@ -303,126 +303,126 @@
 <context>
     <name>DetailsScreen</name>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="37"/>
+        <location filename="../../settings/DetailsScreen.qml" line="43"/>
         <source>Account details</source>
         <translation>Detalhes da conta</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="40"/>
+        <location filename="../../settings/DetailsScreen.qml" line="46"/>
         <source>Account: %1</source>
         <translation>Conta: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="43"/>
+        <location filename="../../settings/DetailsScreen.qml" line="49"/>
         <source>Name: %1</source>
         <translation>Nome: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="46"/>
+        <location filename="../../settings/DetailsScreen.qml" line="52"/>
         <source>Email address: %1</source>
         <translation>Endereço: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="53"/>
+        <location filename="../../settings/DetailsScreen.qml" line="59"/>
         <source>Receiving:</source>
         <translation>A receber:</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="56"/>
+        <location filename="../../settings/DetailsScreen.qml" line="63"/>
         <source>Server type: %1</source>
         <translation>Tipo de servidor: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="59"/>
-        <location filename="../../settings/DetailsScreen.qml" line="78"/>
+        <location filename="../../settings/DetailsScreen.qml" line="67"/>
+        <location filename="../../settings/DetailsScreen.qml" line="90"/>
         <source>Server address: %1</source>
         <translation>Endereço do servidor: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="62"/>
-        <location filename="../../settings/DetailsScreen.qml" line="81"/>
+        <location filename="../../settings/DetailsScreen.qml" line="71"/>
+        <location filename="../../settings/DetailsScreen.qml" line="94"/>
         <source>Port: %1</source>
         <translation>Porta: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="65"/>
-        <location filename="../../settings/DetailsScreen.qml" line="87"/>
+        <location filename="../../settings/DetailsScreen.qml" line="75"/>
+        <location filename="../../settings/DetailsScreen.qml" line="102"/>
         <source>Security: %1</source>
         <translation>Segurança: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="68"/>
-        <location filename="../../settings/DetailsScreen.qml" line="90"/>
+        <location filename="../../settings/DetailsScreen.qml" line="79"/>
+        <location filename="../../settings/DetailsScreen.qml" line="106"/>
         <source>Username: %1</source>
         <translation>Utilizador: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="75"/>
+        <location filename="../../settings/DetailsScreen.qml" line="86"/>
         <source>Sending:</source>
         <translation>A enviar:</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="84"/>
+        <location filename="../../settings/DetailsScreen.qml" line="98"/>
         <source>Authentication: %1</source>
         <translation>Autenticação: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="96"/>
-        <source>Next</source>
-        <translation>Seguinte</translation>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="116"/>
+        <location filename="../../settings/DetailsScreen.qml" line="114"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="122"/>
-        <source>Manual Edit</source>
-        <translation>Edição Manual</translation>
+        <location filename="../../settings/DetailsScreen.qml" line="123"/>
+        <source>Next</source>
+        <translation>Seguinte</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="125"/>
+        <location filename="../../settings/DetailsScreen.qml" line="155"/>
         <source>Please fill in account details:</source>
         <translation>Preencha os elementos da conta:</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="139"/>
+        <location filename="../../settings/DetailsScreen.qml" line="167"/>
+        <source>Edit email settings manually</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="180"/>
         <source>Yes</source>
         <translation>Sim</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="140"/>
+        <location filename="../../settings/DetailsScreen.qml" line="181"/>
         <source>No</source>
         <translation>Não</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="141"/>
+        <location filename="../../settings/DetailsScreen.qml" line="182"/>
         <source>Discard changes</source>
         <translation>Rejeitar alterações</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="142"/>
+        <location filename="../../settings/DetailsScreen.qml" line="183"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
         <translation>Você efetuou alterações às definições. Tem a certeza que quer cancelar?</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="147"/>
+        <location filename="../../settings/DetailsScreen.qml" line="188"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="149"/>
+        <location filename="../../settings/DetailsScreen.qml" line="190"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="150"/>
+        <location filename="../../settings/DetailsScreen.qml" line="191"/>
         <source>Error %1: %2</source>
         <translation>Error %1: %2</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="153"/>
+        <location filename="../../settings/DetailsScreen.qml" line="194"/>
         <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
         <translation>A conta não pode ser configurada automaticamente. Preencha os seguintes elementos:</translation>
     </message>
@@ -510,38 +510,38 @@
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="153"/>
-        <location filename="../../FolderListMenu.qml" line="207"/>
-        <location filename="../../FolderListMenu.qml" line="265"/>
+        <location filename="../../FolderListMenu.qml" line="206"/>
+        <location filename="../../FolderListMenu.qml" line="264"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="185"/>
+        <location filename="../../FolderListMenu.qml" line="184"/>
         <source>Rename folder</source>
         <translation>Mudar nome da pasta</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="206"/>
+        <location filename="../../FolderListMenu.qml" line="205"/>
         <source>Rename</source>
         <translation>Mudar nome</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="243"/>
+        <location filename="../../FolderListMenu.qml" line="242"/>
         <source>Delete folder</source>
         <translation>Eliminar pasta</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="264"/>
+        <location filename="../../FolderListMenu.qml" line="263"/>
         <source>Yes</source>
         <translation>Sim</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="268"/>
+        <location filename="../../FolderListMenu.qml" line="267"/>
         <source>Are you sure you want to delete the folder &quot;%1&quot; and all emails inside ?</source>
         <translation>Tem a certeza de que quer eliminar a pasta &quot;%1&quot; e todos os seus conteúdos?</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="360"/>
+        <location filename="../../FolderListMenu.qml" line="359"/>
         <source>(%1)</source>
         <extracomment>%1 is the number of unread emails</extracomment>
         <translation>(%1)</translation>
@@ -616,32 +616,32 @@
         <translation>Obter mais mensagens</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="511"/>
+        <location filename="../../FolderListView.qml" line="504"/>
         <source>Reply</source>
         <translation>Responder</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="511"/>
+        <location filename="../../FolderListView.qml" line="504"/>
         <source>Reply to all</source>
         <translation>Responder a todos</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="511"/>
+        <location filename="../../FolderListView.qml" line="504"/>
         <source>Forward</source>
         <translation>Reencaminhar</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="511"/>
+        <location filename="../../FolderListView.qml" line="504"/>
         <source>Delete</source>
         <translation>Eliminar</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="512"/>
+        <location filename="../../FolderListView.qml" line="505"/>
         <source>Mark as unread</source>
         <translation>Marcar como não lida</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="512"/>
+        <location filename="../../FolderListView.qml" line="505"/>
         <source>Mark as read</source>
         <translation>Marcar como lida</translation>
     </message>
@@ -839,32 +839,44 @@
         <translation>%1 foi gravado</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="80"/>
+        <location filename="../../ReadingView.qml" line="85"/>
         <source>Ok</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="81"/>
+        <location filename="../../ReadingView.qml" line="86"/>
         <source>Warning</source>
         <translation>Aviso</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="86"/>
+        <location filename="../../ReadingView.qml" line="91"/>
         <source>File format is not supported.</source>
         <translation>O formato não é suportado.</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="158"/>
+        <location filename="../../ReadingView.qml" line="164"/>
         <source>From:</source>
         <translation>De:</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="192"/>
+        <location filename="../../ReadingView.qml" line="190"/>
+        <source>Cc</source>
+        <extracomment>Label for CC recipient view toggle button.</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ReadingView.qml" line="211"/>
         <source>To:</source>
         <translation>Para:</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="226"/>
+        <location filename="../../ReadingView.qml" line="222"/>
+        <source>Cc:</source>
+        <extracomment>&quot;Cc&quot; (carbon copy) recipients label</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ReadingView.qml" line="251"/>
         <source>Subject:</source>
         <translation>Assunto:</translation>
     </message>
@@ -926,61 +938,79 @@
         <translation>Endereço eletrónico:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="61"/>
+        <location filename="../../settings/RegisterScreen.qml" line="63"/>
         <source>Password:</source>
         <translation>Senha</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="74"/>
+        <location filename="../../settings/RegisterScreen.qml" line="76"/>
         <source>Next</source>
         <translation>Seguinte</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="78"/>
-        <location filename="../../settings/RegisterScreen.qml" line="84"/>
-        <location filename="../../settings/RegisterScreen.qml" line="90"/>
+        <location filename="../../settings/RegisterScreen.qml" line="80"/>
+        <location filename="../../settings/RegisterScreen.qml" line="86"/>
+        <location filename="../../settings/RegisterScreen.qml" line="92"/>
         <source>This field is required</source>
         <translation>Este campo é obrigatório</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="118"/>
+        <location filename="../../settings/RegisterScreen.qml" line="120"/>
         <source>Yahoo!</source>
         <translation>Yahoo!</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="123"/>
+        <location filename="../../settings/RegisterScreen.qml" line="125"/>
         <source>AOL</source>
         <translation>AOL</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="131"/>
+        <source>Microsoft Live Hotmail</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../settings/RegisterScreen.qml" line="139"/>
         <source>Please fill in account details:</source>
         <translation>Preencha os elementos da conta:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="137"/>
+        <location filename="../../settings/RegisterScreen.qml" line="145"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="152"/>
+        <location filename="../../settings/RegisterScreen.qml" line="160"/>
         <source>Yes</source>
         <translation>Sim</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="153"/>
+        <location filename="../../settings/RegisterScreen.qml" line="161"/>
         <source>No</source>
         <translation>Não</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="154"/>
+        <location filename="../../settings/RegisterScreen.qml" line="162"/>
         <source>Discard changes</source>
         <translation>Rejeitar alterações</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="155"/>
+        <location filename="../../settings/RegisterScreen.qml" line="163"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
         <translation>Você efetuou alterações às definições. Tem a certeza que quer cancelar?</translation>
+    </message>
+</context>
+<context>
+    <name>TextControl</name>
+    <message>
+        <location filename="../../settings/TextControl.qml" line="56"/>
+        <source>@gmail.com</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../settings/TextControl.qml" line="58"/>
+        <source>@yahoo.com</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -992,19 +1022,13 @@
         <translation>Gmail</translation>
     </message>
     <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="44"/>
-        <location filename="../../settings/WelcomeButtons.qml" line="49"/>
-        <source>Microsoft Live Hotmail</source>
-        <translation>Microsoft Live Hotmail</translation>
-    </message>
-    <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="68"/>
-        <location filename="../../settings/WelcomeButtons.qml" line="73"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="69"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="74"/>
         <source>Yahoo!</source>
         <translation>Yahoo!</translation>
     </message>
     <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="79"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="80"/>
         <source>Other</source>
         <translation>Outro</translation>
     </message>

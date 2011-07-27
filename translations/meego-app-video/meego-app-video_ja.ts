@@ -4,7 +4,7 @@
     <message>
         <location filename="../../main.qml" line="22"/>
         <source>Videos</source>
-        <translation type="unfinished"/>
+        <translation>動画</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="23"/>
@@ -14,17 +14,17 @@
     <message>
         <location filename="../../main.qml" line="24"/>
         <source>Recently added</source>
-        <translation type="unfinished"/>
+        <translation>最近追加されたもの</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="25"/>
         <source>Recently viewed</source>
-        <translation type="unfinished"/>
+        <translation>最近表示されたもの</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="26"/>
         <source>Unwatched</source>
-        <translation>未表示</translation>
+        <translation>まだ表示されたことがないもの</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="27"/>
@@ -40,7 +40,7 @@
     <message>
         <location filename="../../main.qml" line="30"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="31"/>
@@ -51,27 +51,27 @@
         <location filename="../../main.qml" line="33"/>
         <source>Favorite</source>
         <comment>Verb</comment>
-        <translation type="unfinished"/>
+        <translation>お気に入り</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="35"/>
         <source>Unfavorite</source>
-        <translation>気に入らない</translation>
+        <translation>「お気に入り」を外す</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="36"/>
         <source>Share</source>
-        <translation type="unfinished"/>
+        <translation>共有</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="38"/>
         <source>Select multiple videos</source>
-        <translation type="unfinished"/>
+        <translation>複数の動画を選択</translation>
     </message>
     <message numerus="yes">
         <location filename="../../main.qml" line="92"/>
         <source>All (%n video(s))</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>すべて（動画数：%n）</numerusform></translation>
     </message>
 </context>
 </TS>

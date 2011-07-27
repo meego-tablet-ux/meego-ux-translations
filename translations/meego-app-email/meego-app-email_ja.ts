@@ -5,104 +5,104 @@
         <location filename="../../settings/AccountExpandobox.qml" line="77"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="106"/>
         <source>Account description</source>
-        <translation type="unfinished"/>
+        <translation>アカウントの説明</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="111"/>
         <source>Your name</source>
-        <translation type="unfinished"/>
+        <translation>名前</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="116"/>
         <source>Email address</source>
-        <translation type="unfinished"/>
+        <translation>メールアドレス</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="122"/>
         <location filename="../../settings/AccountExpandobox.qml" line="165"/>
         <location filename="../../settings/AccountExpandobox.qml" line="208"/>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>パスワード</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="130"/>
         <source>Receiving settings</source>
-        <translation type="unfinished"/>
+        <translation>受信設定</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="131"/>
         <location filename="../../settings/AccountExpandobox.qml" line="174"/>
         <source>You may need to contact your email provider for these settings.</source>
-        <translation type="unfinished"/>
+        <translation>設定の詳細は、メールのプロバイダーにお問い合わせください。</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="135"/>
         <source>Server type</source>
-        <translation type="unfinished"/>
+        <translation>サーバーのタイプ</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="141"/>
         <location filename="../../settings/AccountExpandobox.qml" line="178"/>
         <source>Server address</source>
-        <translation type="unfinished"/>
+        <translation>サーバーのアドレス</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="147"/>
         <location filename="../../settings/AccountExpandobox.qml" line="184"/>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>ポート</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="153"/>
         <location filename="../../settings/AccountExpandobox.qml" line="196"/>
         <source>Security</source>
-        <translation type="unfinished"/>
+        <translation>セキュリティー</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="159"/>
         <location filename="../../settings/AccountExpandobox.qml" line="202"/>
         <source>Username</source>
-        <translation type="unfinished"/>
+        <translation>ユーザー名</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="173"/>
         <source>Sending settings</source>
-        <translation type="unfinished"/>
+        <translation>送信設定</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="190"/>
         <source>Authentication</source>
-        <translation type="unfinished"/>
+        <translation>認証</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="219"/>
         <source>Delete Account</source>
-        <translation type="unfinished"/>
+        <translation>アカウントの削除</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="230"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>はい</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="231"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="232"/>
         <source>Delete account</source>
-        <translation type="unfinished"/>
+        <translation>アカウントの削除</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="233"/>
         <source>Are you sure you want to delete this account?</source>
-        <translation type="unfinished"/>
+        <translation>このアカウントを削除しますか？</translation>
     </message>
 </context>
 <context>
@@ -111,13 +111,13 @@
         <location filename="../../AccountPage.qml" line="53"/>
         <source>%n unread message(s)</source>
         <extracomment>Label that displays the number of unread e-mail messages. Note plural handling.</extracomment>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n件の未読メッセージ</numerusform></translation>
     </message>
     <message>
-        <location filename="../../AccountPage.qml" line="115"/>
+        <location filename="../../AccountPage.qml" line="116"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -125,100 +125,100 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="28"/>
         <source>Accounts</source>
-        <translation type="unfinished"/>
+        <translation>アカウント</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="45"/>
+        <location filename="../../settings/AccountSettings.qml" line="46"/>
         <source>Set up new account</source>
-        <translation type="unfinished"/>
+        <translation>新規アカウントの設定</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="58"/>
+        <location filename="../../settings/AccountSettings.qml" line="61"/>
         <source>General Settings</source>
-        <translation type="unfinished"/>
+        <translation>一般設定</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="69"/>
+        <location filename="../../settings/AccountSettings.qml" line="73"/>
         <source>Update:</source>
-        <translation type="unfinished"/>
+        <translation>更新：</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="119"/>
+        <location filename="../../settings/AccountSettings.qml" line="126"/>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>シグネチャー</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="129"/>
-        <location filename="../../settings/AccountSettings.qml" line="143"/>
+        <location filename="../../settings/AccountSettings.qml" line="139"/>
+        <location filename="../../settings/AccountSettings.qml" line="153"/>
         <source>Enter your signature.</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
-        <translation type="unfinished"/>
+        <translation>シグネチャーを入力してください。</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="129"/>
+        <location filename="../../settings/AccountSettings.qml" line="139"/>
         <source>&quot;%1&quot;</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
-        <translation type="unfinished"/>
+        <translation>「%1」</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="159"/>
+        <location filename="../../settings/AccountSettings.qml" line="169"/>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>通知</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="177"/>
+        <location filename="../../settings/AccountSettings.qml" line="187"/>
         <source>New email notifications</source>
-        <translation type="unfinished"/>
+        <translation>新規メールの通知</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="182"/>
+        <location filename="../../settings/AccountSettings.qml" line="192"/>
         <source>Ask before deleting email</source>
-        <translation type="unfinished"/>
+        <translation>メールを削除する前に確認</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="204"/>
+        <location filename="../../settings/AccountSettings.qml" line="214"/>
         <source>Save changes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../settings/AccountSettings.qml" line="221"/>
-        <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>変更の保存</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="231"/>
-        <source>Yes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../settings/AccountSettings.qml" line="232"/>
-        <source>No</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../settings/AccountSettings.qml" line="233"/>
-        <source>Discard changes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../settings/AccountSettings.qml" line="234"/>
-        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../settings/AccountSettings.qml" line="239"/>
-        <source>OK</source>
-        <translation type="unfinished"/>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="241"/>
-        <source>Changes saved</source>
-        <translation type="unfinished"/>
+        <source>Yes</source>
+        <translation>はい</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="242"/>
+        <source>No</source>
+        <translation>いいえ</translation>
+    </message>
+    <message>
+        <location filename="../../settings/AccountSettings.qml" line="243"/>
+        <source>Discard changes</source>
+        <translation>変更の破棄</translation>
+    </message>
+    <message>
+        <location filename="../../settings/AccountSettings.qml" line="244"/>
+        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
+        <translation>設定が変更されています。 キャンセルしますか？</translation>
+    </message>
+    <message>
+        <location filename="../../settings/AccountSettings.qml" line="249"/>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <location filename="../../settings/AccountSettings.qml" line="251"/>
+        <source>Changes saved</source>
+        <translation>変更が保存されました</translation>
+    </message>
+    <message>
+        <location filename="../../settings/AccountSettings.qml" line="252"/>
         <source>Your changes have been saved.</source>
-        <translation type="unfinished"/>
+        <translation>変更が保存されました。</translation>
     </message>
 </context>
 <context>
@@ -226,17 +226,17 @@
     <message>
         <location filename="../../AddAttachmentView.qml" line="60"/>
         <source>Photos</source>
-        <translation type="unfinished"/>
+        <translation>写真</translation>
     </message>
     <message>
         <location filename="../../AddAttachmentView.qml" line="67"/>
         <source>Movies</source>
-        <translation type="unfinished"/>
+        <translation>動画</translation>
     </message>
     <message>
         <location filename="../../AddAttachmentView.qml" line="74"/>
         <source>Music</source>
-        <translation type="unfinished"/>
+        <translation>音楽</translation>
     </message>
 </context>
 <context>
@@ -245,7 +245,7 @@
         <location filename="../../AddRecipient.qml" line="46"/>
         <source>Select &quot;%1&quot; recipient</source>
         <extracomment>The contact (e-mail recipient) picker title.</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1を選択してください</translation>
     </message>
 </context>
 <context>
@@ -254,177 +254,177 @@
         <location filename="../../ComposerViewToolbar.qml" line="175"/>
         <source>Attach a file</source>
         <extracomment>Attach a file (e.g. music, video, photo) to the document being composed.</extracomment>
-        <translation type="unfinished"/>
+        <translation>ファイルの添付</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="232"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>はい</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="233"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="234"/>
         <source>Discard Email</source>
-        <translation type="unfinished"/>
+        <translation>メールを破棄</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="235"/>
         <source>Are you sure you want to discard this unsent email?</source>
-        <translation type="unfinished"/>
+        <translation>この未送信メールを破棄しますか？</translation>
     </message>
 </context>
 <context>
     <name>ConfirmScreen</name>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="34"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="32"/>
         <source>Account set up successfully!</source>
-        <translation type="unfinished"/>
+        <translation>アカウントの設定が完了しました。</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="36"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="45"/>
         <source>Accounts</source>
-        <translation type="unfinished"/>
+        <translation>アカウント</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="53"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="63"/>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>完了</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="65"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="76"/>
         <source>Set up another account?</source>
-        <translation type="unfinished"/>
+        <translation>別のアカウントを設定しますか？</translation>
     </message>
 </context>
 <context>
     <name>DetailsScreen</name>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="37"/>
-        <source>Account details</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="40"/>
-        <source>Account: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../settings/DetailsScreen.qml" line="43"/>
-        <source>Name: %1</source>
-        <translation type="unfinished"/>
+        <source>Account details</source>
+        <translation>アカウントの詳細</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="46"/>
+        <source>Account: %1</source>
+        <translation>アカウント： %1</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="49"/>
+        <source>Name: %1</source>
+        <translation>名前： %1</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="52"/>
         <source>Email address: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="53"/>
-        <source>Receiving:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="56"/>
-        <source>Server type: %1</source>
-        <translation type="unfinished"/>
+        <translation>メールアドレス： %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="59"/>
-        <location filename="../../settings/DetailsScreen.qml" line="78"/>
-        <source>Server address: %1</source>
-        <translation type="unfinished"/>
+        <source>Receiving:</source>
+        <translation>受信：</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="62"/>
-        <location filename="../../settings/DetailsScreen.qml" line="81"/>
-        <source>Port: %1</source>
-        <translation type="unfinished"/>
+        <location filename="../../settings/DetailsScreen.qml" line="63"/>
+        <source>Server type: %1</source>
+        <translation>サーバーのタイプ： %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="65"/>
-        <location filename="../../settings/DetailsScreen.qml" line="87"/>
-        <source>Security: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="68"/>
+        <location filename="../../settings/DetailsScreen.qml" line="67"/>
         <location filename="../../settings/DetailsScreen.qml" line="90"/>
-        <source>Username: %1</source>
-        <translation type="unfinished"/>
+        <source>Server address: %1</source>
+        <translation>サーバーのアドレス： %1</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="71"/>
+        <location filename="../../settings/DetailsScreen.qml" line="94"/>
+        <source>Port: %1</source>
+        <translation>ポート： %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="75"/>
+        <location filename="../../settings/DetailsScreen.qml" line="102"/>
+        <source>Security: %1</source>
+        <translation>セキュリティー： %1</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="79"/>
+        <location filename="../../settings/DetailsScreen.qml" line="106"/>
+        <source>Username: %1</source>
+        <translation>ユーザー名： %1</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="86"/>
         <source>Sending:</source>
-        <translation type="unfinished"/>
+        <translation>送信：</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="84"/>
+        <location filename="../../settings/DetailsScreen.qml" line="98"/>
         <source>Authentication: %1</source>
-        <translation type="unfinished"/>
+        <translation>認証： %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="96"/>
-        <source>Next</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="116"/>
+        <location filename="../../settings/DetailsScreen.qml" line="114"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="122"/>
-        <source>Manual Edit</source>
-        <translation type="unfinished"/>
+        <location filename="../../settings/DetailsScreen.qml" line="123"/>
+        <source>Next</source>
+        <translation>次へ</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="125"/>
+        <location filename="../../settings/DetailsScreen.qml" line="155"/>
         <source>Please fill in account details:</source>
+        <translation>アカウントの詳細情報を入力してください。</translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="167"/>
+        <source>Edit email settings manually</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="139"/>
+        <location filename="../../settings/DetailsScreen.qml" line="180"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>はい</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="140"/>
+        <location filename="../../settings/DetailsScreen.qml" line="181"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>いいえ</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="141"/>
+        <location filename="../../settings/DetailsScreen.qml" line="182"/>
         <source>Discard changes</source>
-        <translation type="unfinished"/>
+        <translation>変更の破棄</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="142"/>
+        <location filename="../../settings/DetailsScreen.qml" line="183"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>設定が変更されています。 キャンセルしますか？</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="147"/>
+        <location filename="../../settings/DetailsScreen.qml" line="188"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="149"/>
+        <location filename="../../settings/DetailsScreen.qml" line="190"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>エラー</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="150"/>
+        <location filename="../../settings/DetailsScreen.qml" line="191"/>
         <source>Error %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>エラー %1： %2</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="153"/>
+        <location filename="../../settings/DetailsScreen.qml" line="194"/>
         <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
-        <translation type="unfinished"/>
+        <translation>アカウントの自動設定はできません。 アカウントの詳細情報を入力してください。</translation>
     </message>
 </context>
 <context>
@@ -432,55 +432,55 @@
     <message>
         <location filename="../../EmailHeader.qml" line="39"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="84"/>
         <source>From:</source>
-        <translation>差出人：</translation>
+        <translation>送信元：</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="116"/>
         <source>Cc/Bcc</source>
-        <translation type="unfinished"/>
+        <translation>Cc/Bcc</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="131"/>
         <source>To</source>
         <extracomment>The &quot;to&quot; recipient label.</extracomment>
-        <translation type="unfinished"/>
+        <translation>宛先</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="156"/>
         <source>Cc</source>
         <extracomment>The Cc (carbon copy) label.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Cc </translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="180"/>
         <source>Bcc</source>
         <extracomment>The Bcc (blind carbon copy) label.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Bcc </translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="213"/>
         <source>Enter subject here</source>
-        <translation>ここに件名を入力してください</translation>
+        <translation>件名を入力してください</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="248"/>
         <source>Low Priority</source>
-        <translation type="unfinished"/>
+        <translation>優先度 低</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="249"/>
         <source>Normal Priority</source>
-        <translation type="unfinished"/>
+        <translation>優先度 標準</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="250"/>
         <source>High Priority</source>
-        <translation type="unfinished"/>
+        <translation>優先度 高</translation>
     </message>
 </context>
 <context>
@@ -488,7 +488,7 @@
     <message>
         <location filename="../../settings/EmailSettings.qml" line="18"/>
         <source>Email Settings</source>
-        <translation type="unfinished"/>
+        <translation>メールの設定</translation>
     </message>
 </context>
 <context>
@@ -496,55 +496,55 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="114"/>
         <source>Create new folder</source>
-        <translation type="unfinished"/>
+        <translation>新規フォルダーの作成</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="148"/>
         <source>Untitled Folder</source>
-        <translation type="unfinished"/>
+        <translation>無題のフォルダー</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="152"/>
         <source>Create</source>
-        <translation type="unfinished"/>
+        <translation>作成</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="153"/>
-        <location filename="../../FolderListMenu.qml" line="207"/>
-        <location filename="../../FolderListMenu.qml" line="265"/>
-        <source>Cancel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../FolderListMenu.qml" line="185"/>
-        <source>Rename folder</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../FolderListMenu.qml" line="206"/>
-        <source>Rename</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../FolderListMenu.qml" line="243"/>
-        <source>Delete folder</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../FolderListMenu.qml" line="264"/>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <location filename="../../FolderListMenu.qml" line="184"/>
+        <source>Rename folder</source>
+        <translation>フォルダー名の変更</translation>
+    </message>
+    <message>
+        <location filename="../../FolderListMenu.qml" line="205"/>
+        <source>Rename</source>
+        <translation>名前の変更</translation>
+    </message>
+    <message>
+        <location filename="../../FolderListMenu.qml" line="242"/>
+        <source>Delete folder</source>
+        <translation>フォルダーの削除</translation>
+    </message>
+    <message>
+        <location filename="../../FolderListMenu.qml" line="263"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>はい</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="268"/>
+        <location filename="../../FolderListMenu.qml" line="267"/>
         <source>Are you sure you want to delete the folder &quot;%1&quot; and all emails inside ?</source>
-        <translation type="unfinished"/>
+        <translation>フォルダー「%1」とその中に含まれるメールを削除しますか？</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="360"/>
+        <location filename="../../FolderListMenu.qml" line="359"/>
         <source>(%1)</source>
         <extracomment>%1 is the number of unread emails</extracomment>
-        <translation type="unfinished"/>
+        <translation>（%1）</translation>
     </message>
 </context>
 <context>
@@ -552,98 +552,98 @@
     <message>
         <location filename="../../FolderListView.qml" line="17"/>
         <source>Choose folder:</source>
-        <translation type="unfinished"/>
+        <translation>フォルダーの選択：</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="18"/>
         <source>Attachments</source>
-        <translation type="unfinished"/>
+        <translation>添付ファイル</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="96"/>
         <source>On %1 %2 wrote:</source>
-        <translation type="unfinished"/>
+        <translation>%2さんからのメッセージ（%1）：</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="144"/>
         <source>Drafts</source>
-        <translation type="unfinished"/>
+        <translation>草案</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="149"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>はい</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="150"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="151"/>
         <source>Delete Email</source>
-        <translation type="unfinished"/>
+        <translation>メールの削除</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="152"/>
         <source>Are you sure you want to delete this email?</source>
-        <translation type="unfinished"/>
+        <translation>このメールを削除しますか？</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="191"/>
         <location filename="../../FolderListView.qml" line="197"/>
         <source>-------- Forwarded Message --------</source>
-        <translation type="unfinished"/>
+        <translation>-------- 転送メッセージ --------</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="200"/>
         <source>[Fwd: %1]</source>
-        <translation type="unfinished"/>
+        <translation>[Fwd: %1]</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="237"/>
         <source>There are no messages in this folder.</source>
-        <translation type="unfinished"/>
+        <translation>このフォルダーにメッセージはありません。</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="274"/>
         <source>Getting more messages</source>
-        <translation type="unfinished"/>
+        <translation>ほかのメッセージを取得中</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="276"/>
         <source>Get more messages</source>
-        <translation type="unfinished"/>
+        <translation>ほかのメッセージを取得</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="511"/>
+        <location filename="../../FolderListView.qml" line="504"/>
         <source>Reply</source>
-        <translation type="unfinished"/>
+        <translation>返信</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="511"/>
+        <location filename="../../FolderListView.qml" line="504"/>
         <source>Reply to all</source>
-        <translation type="unfinished"/>
+        <translation>全員に返信</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="511"/>
+        <location filename="../../FolderListView.qml" line="504"/>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>転送</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="511"/>
+        <location filename="../../FolderListView.qml" line="504"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>削除</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="512"/>
+        <location filename="../../FolderListView.qml" line="505"/>
         <source>Mark as unread</source>
-        <translation type="unfinished"/>
+        <translation>未読にする</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="512"/>
+        <location filename="../../FolderListView.qml" line="505"/>
         <source>Mark as read</source>
-        <translation type="unfinished"/>
+        <translation>既読にする</translation>
     </message>
 </context>
 <context>
@@ -651,27 +651,27 @@
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="130"/>
         <source>Choose folder:</source>
-        <translation type="unfinished"/>
+        <translation>フォルダーの選択：</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="212"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>はい</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="213"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>いいえ</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="214"/>
         <source>Confirm Email Delete</source>
-        <translation type="unfinished"/>
+        <translation>メール削除の確認</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="215"/>
         <source>Are you sure you want to delete these mails?</source>
-        <translation type="unfinished"/>
+        <translation>選択されたメールをすべて削除しますか？</translation>
     </message>
 </context>
 <context>
@@ -679,63 +679,63 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="44"/>
         <source>Receiving settings</source>
-        <translation type="unfinished"/>
+        <translation>受信設定</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="45"/>
         <location filename="../../settings/ManualScreen.qml" line="92"/>
         <source>You may need to contact your email provider for these settings.</source>
-        <translation type="unfinished"/>
+        <translation>設定の詳細は、メールのプロバイダーにお問い合わせください。</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="49"/>
         <source>Server type</source>
-        <translation type="unfinished"/>
+        <translation>サーバーのタイプ</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="56"/>
         <location filename="../../settings/ManualScreen.qml" line="97"/>
         <source>Server address</source>
-        <translation type="unfinished"/>
+        <translation>サーバーのアドレス</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="63"/>
         <location filename="../../settings/ManualScreen.qml" line="104"/>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>ポート</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="69"/>
         <location filename="../../settings/ManualScreen.qml" line="117"/>
         <source>Security</source>
-        <translation type="unfinished"/>
+        <translation>セキュリティー</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="76"/>
         <location filename="../../settings/ManualScreen.qml" line="124"/>
         <source>Username</source>
-        <translation type="unfinished"/>
+        <translation>ユーザー名</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="83"/>
         <location filename="../../settings/ManualScreen.qml" line="131"/>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>パスワード</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="91"/>
         <source>Sending settings</source>
-        <translation type="unfinished"/>
+        <translation>送信設定</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="111"/>
         <source>Authentication</source>
-        <translation type="unfinished"/>
+        <translation>認証</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="151"/>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>次へ</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="155"/>
@@ -747,32 +747,32 @@
         <location filename="../../settings/ManualScreen.qml" line="193"/>
         <location filename="../../settings/ManualScreen.qml" line="199"/>
         <source>This field is required</source>
-        <translation type="unfinished"/>
+        <translation>このフィールドは必須項目です</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="218"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="229"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>はい</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="230"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>いいえ</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="231"/>
         <source>Discard changes</source>
-        <translation type="unfinished"/>
+        <translation>変更の破棄</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="232"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>設定が変更されています。 キャンセルしますか？</translation>
     </message>
 </context>
 <context>
@@ -781,7 +781,7 @@
         <location filename="../../MessageAction.qml" line="41"/>
         <source>(%1)</source>
         <extracomment>Arg 1 is the number of selected messages</extracomment>
-        <translation type="unfinished"/>
+        <translation>（%1）</translation>
     </message>
 </context>
 <context>
@@ -789,84 +789,96 @@
     <message>
         <location filename="../../ReadingView.qml" line="25"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="26"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>開く</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="27"/>
         <source>Music</source>
-        <translation type="unfinished"/>
+        <translation>音楽</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="28"/>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>動画</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="29"/>
         <source>Picture</source>
-        <translation type="unfinished"/>
+        <translation>写真</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="32"/>
         <source>Attachment saved.</source>
-        <translation type="unfinished"/>
+        <translation>添付ファイルを保存しました</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="33"/>
         <source>Downloading Attachment...</source>
-        <translation type="unfinished"/>
+        <translation>添付ファイルのダウンロード中...</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="34"/>
         <source>Downloading Content...</source>
-        <translation type="unfinished"/>
+        <translation>コンテンツのダウンロード中...</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="39"/>
         <source>Saving %1</source>
         <extracomment>Message displayed when downloading an attachment. Arg 1 is the name of the attachment.</extracomment>
-        <translation type="unfinished"/>
+        <translation>「%1」を保存しています</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="42"/>
         <source>%1 saved</source>
         <extracomment>Attachment has been saved message, where arg 1 is the name of the attachment.</extracomment>
-        <translation type="unfinished"/>
+        <translation>「%1」を保存しました</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="80"/>
+        <location filename="../../ReadingView.qml" line="85"/>
         <source>Ok</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../ReadingView.qml" line="81"/>
-        <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="86"/>
+        <source>Warning</source>
+        <translation>警告</translation>
+    </message>
+    <message>
+        <location filename="../../ReadingView.qml" line="91"/>
         <source>File format is not supported.</source>
+        <translation>ファイル形式がサポートされていません。</translation>
+    </message>
+    <message>
+        <location filename="../../ReadingView.qml" line="164"/>
+        <source>From:</source>
+        <translation>送信元：</translation>
+    </message>
+    <message>
+        <location filename="../../ReadingView.qml" line="190"/>
+        <source>Cc</source>
+        <extracomment>Label for CC recipient view toggle button.</extracomment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="158"/>
-        <source>From:</source>
-        <translation>差出人:</translation>
-    </message>
-    <message>
-        <location filename="../../ReadingView.qml" line="192"/>
+        <location filename="../../ReadingView.qml" line="211"/>
         <source>To:</source>
-        <translation>宛先:</translation>
+        <translation>宛先：</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="226"/>
+        <location filename="../../ReadingView.qml" line="222"/>
+        <source>Cc:</source>
+        <extracomment>&quot;Cc&quot; (carbon copy) recipients label</extracomment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../ReadingView.qml" line="251"/>
         <source>Subject:</source>
-        <translation>件名:</translation>
+        <translation>件名：</translation>
     </message>
 </context>
 <context>
@@ -874,7 +886,7 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="37"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="38"/>
@@ -884,28 +896,28 @@
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="39"/>
         <source>Delete Email</source>
-        <translation>メールを削除</translation>
+        <translation>メールの削除</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="46"/>
         <source>Are you sure you want to delete this email?</source>
-        <translation>このメールを本当に削除していいですか?</translation>
+        <translation>このメールを削除しますか？</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="65"/>
         <source>On %1 %2 wrote:</source>
-        <translation type="unfinished"/>
+        <translation>%2さんからのメッセージ（%1）：</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="203"/>
         <location filename="../../ReadingViewToolbar.qml" line="208"/>
         <source>-------- Forwarded Message --------</source>
-        <translation type="unfinished"/>
+        <translation>-------- 転送メッセージ --------</translation>
     </message>
     <message>
         <location filename="../../ReadingViewToolbar.qml" line="212"/>
         <source>[Fwd: %1]</source>
-        <translation type="unfinished"/>
+        <translation>[Fwd: %1]</translation>
     </message>
 </context>
 <context>
@@ -913,73 +925,91 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="34"/>
         <source>Account description:</source>
-        <translation type="unfinished"/>
+        <translation>アカウントの説明：</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="43"/>
         <source>Your name:</source>
-        <translation type="unfinished"/>
+        <translation>名前：</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="52"/>
         <source>Email address:</source>
-        <translation type="unfinished"/>
+        <translation>メールアドレス：</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="61"/>
+        <location filename="../../settings/RegisterScreen.qml" line="63"/>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>パスワード：</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="74"/>
+        <location filename="../../settings/RegisterScreen.qml" line="76"/>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>次へ</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="78"/>
-        <location filename="../../settings/RegisterScreen.qml" line="84"/>
-        <location filename="../../settings/RegisterScreen.qml" line="90"/>
+        <location filename="../../settings/RegisterScreen.qml" line="80"/>
+        <location filename="../../settings/RegisterScreen.qml" line="86"/>
+        <location filename="../../settings/RegisterScreen.qml" line="92"/>
         <source>This field is required</source>
-        <translation type="unfinished"/>
+        <translation>このフィールドは必須項目です</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="118"/>
+        <location filename="../../settings/RegisterScreen.qml" line="120"/>
         <source>Yahoo!</source>
-        <translation type="unfinished"/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="123"/>
+        <location filename="../../settings/RegisterScreen.qml" line="125"/>
         <source>AOL</source>
-        <translation type="unfinished"/>
+        <translation>AOL</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="131"/>
+        <source>Microsoft Live Hotmail</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../settings/RegisterScreen.qml" line="139"/>
         <source>Please fill in account details:</source>
-        <translation type="unfinished"/>
+        <translation>アカウントの詳細情報を入力してください。</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="137"/>
+        <location filename="../../settings/RegisterScreen.qml" line="145"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="152"/>
+        <location filename="../../settings/RegisterScreen.qml" line="160"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>はい</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="153"/>
+        <location filename="../../settings/RegisterScreen.qml" line="161"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>いいえ</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="154"/>
+        <location filename="../../settings/RegisterScreen.qml" line="162"/>
         <source>Discard changes</source>
+        <translation>変更の破棄</translation>
+    </message>
+    <message>
+        <location filename="../../settings/RegisterScreen.qml" line="163"/>
+        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
+        <translation>設定が変更されています。 キャンセルしますか？</translation>
+    </message>
+</context>
+<context>
+    <name>TextControl</name>
+    <message>
+        <location filename="../../settings/TextControl.qml" line="56"/>
+        <source>@gmail.com</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="155"/>
-        <source>You have made changes to your settings. Are you sure you want to cancel?</source>
+        <location filename="../../settings/TextControl.qml" line="58"/>
+        <source>@yahoo.com</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -989,24 +1019,18 @@
         <location filename="../../settings/WelcomeButtons.qml" line="33"/>
         <location filename="../../settings/WelcomeButtons.qml" line="38"/>
         <source>Gmail</source>
-        <translation type="unfinished"/>
+        <translation>Gmail</translation>
     </message>
     <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="44"/>
-        <location filename="../../settings/WelcomeButtons.qml" line="49"/>
-        <source>Microsoft Live Hotmail</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="68"/>
-        <location filename="../../settings/WelcomeButtons.qml" line="73"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="69"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="74"/>
         <source>Yahoo!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="79"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="80"/>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>その他</translation>
     </message>
 </context>
 <context>
@@ -1014,12 +1038,12 @@
     <message>
         <location filename="../../settings/WelcomeScreen.qml" line="29"/>
         <source>Welcome to your email.</source>
-        <translation type="unfinished"/>
+        <translation>メールにようこそ。</translation>
     </message>
     <message>
         <location filename="../../settings/WelcomeScreen.qml" line="35"/>
         <source>Set up your accounts</source>
-        <translation type="unfinished"/>
+        <translation>アカウントの設定</translation>
     </message>
 </context>
 <context>
@@ -1047,12 +1071,12 @@
     <message>
         <location filename="../../main.qml" line="32"/>
         <source>Sort messages by:</source>
-        <translation type="unfinished"/>
+        <translation>メッセージのソート順：</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="33"/>
         <source>Go to folder:</source>
-        <translation type="unfinished"/>
+        <translation>フォルダーに移動：</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="64"/>
@@ -1063,59 +1087,59 @@
         <location filename="../../main.qml" line="81"/>
         <location filename="../../main.qml" line="105"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="82"/>
         <location filename="../../main.qml" line="106"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>エラー</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="104"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="132"/>
         <source>password</source>
-        <translation type="unfinished"/>
+        <translation>パスワード</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="137"/>
         <source>key</source>
-        <translation type="unfinished"/>
+        <translation>キー</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="260"/>
         <location filename="../../main.qml" line="665"/>
         <source>Account switcher</source>
-        <translation type="unfinished"/>
+        <translation>アカウントの切り替え</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="289"/>
         <source>On %1 %2 wrote:</source>
-        <translation type="unfinished"/>
+        <translation>%2さんからのメッセージ（%1）：</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="516"/>
         <source>-------- Forwarded Message --------</source>
-        <translation type="unfinished"/>
+        <translation>-------- 転送メッセージ --------</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="517"/>
         <source>[Fwd: %1]</source>
-        <translation type="unfinished"/>
+        <translation>[Fwd: %1]</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="658"/>
         <source>Account list</source>
-        <translation type="unfinished"/>
+        <translation>アカウント一覧</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="740"/>
         <source>Composer</source>
-        <translation type="unfinished"/>
+        <translation>メールの作成</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="803"/>
@@ -1133,58 +1157,58 @@
     <message>
         <location filename="../../settings/settings.js" line="13"/>
         <source>Manual update only</source>
-        <translation type="unfinished"/>
+        <translation>手動更新のみ</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="15"/>
         <source>Update every hour</source>
-        <translation type="unfinished"/>
+        <translation>1時間毎に更新</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="17"/>
         <source>Update every %1 minutes</source>
-        <translation type="unfinished"/>
+        <translation> %1分毎に更新</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="23"/>
         <source>POP</source>
-        <translation type="unfinished"/>
+        <translation>POP</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="24"/>
         <source>IMAP</source>
-        <translation type="unfinished"/>
+        <translation>IMAP</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="44"/>
         <location filename="../../settings/settings.js" line="70"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>なし</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="45"/>
         <source>SSL</source>
-        <translation type="unfinished"/>
+        <translation>SSL</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="46"/>
         <source>TLS</source>
-        <translation type="unfinished"/>
+        <translation>TLS</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="71"/>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Login</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="72"/>
         <source>Plain</source>
-        <translation type="unfinished"/>
+        <translation>Plain</translation>
     </message>
     <message>
         <location filename="../../settings/settings.js" line="73"/>
         <source>Cram MD5</source>
-        <translation type="unfinished"/>
+        <translation>Cram MD5</translation>
     </message>
 </context>
 </TS>

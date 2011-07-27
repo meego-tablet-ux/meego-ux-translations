@@ -46,7 +46,7 @@
         <location filename="../../CalendarListView.qml" line="35"/>
         <source>%n result(s) found</source>
         <extracomment>%n corresponds to Search result count</extracomment>
-        <translation><numerusform>%n rizultat d&amp;apos; trové</numerusform><numerusform>%n rizultats d&amp;apos; trovés</numerusform></translation>
+        <translation><numerusform>%n rizultat d' trové</numerusform><numerusform>%n rizultats d' trovés</numerusform></translation>
     </message>
     <message>
         <location filename="../../CalendarListView.qml" line="75"/>
@@ -158,7 +158,7 @@
         <location filename="../../CalendarWeekView.qml" line="367"/>
         <source>%n more event(s) exist</source>
         <extracomment>%n corresponds to events count</extracomment>
-        <translation><numerusform>i gn a %n etrévén d&amp;apos; dipus k&amp;apos; egzistêye</numerusform><numerusform>i gn a %n etrévéns d&amp;apos; dipus k&amp;apos; egzistèt</numerusform></translation>
+        <translation><numerusform>i gn a %n etrévén d' dipus k' egzistêye</numerusform><numerusform>i gn a %n etrévéns d' dipus k' egzistèt</numerusform></translation>
     </message>
     <message>
         <location filename="../../CalendarWeekView.qml" line="536"/>

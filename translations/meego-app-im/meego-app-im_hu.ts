@@ -22,84 +22,85 @@
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="172"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="181"/>
         <source>Error ending call</source>
         <translation>Hiba a hívás bontásakor</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="197"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1129"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="206"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1158"/>
         <source>Call could not be accepted</source>
         <translation>A hívást nem lehetett fogadni</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="481"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="490"/>
         <source>Unable to set hold</source>
         <translation>Tartásra állítás sikertelen</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="581"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="810"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="590"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="833"/>
         <source>Channel not available</source>
         <translation>Nem áll rendelkezésre csatorna</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="744"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="767"/>
         <source>Unable to create call channel for contact %1</source>
         <translation>Nem hozható létre hívócsatorna %1 ismerőshöz</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1087"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1116"/>
         <source>Unable to create channel: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Nem hozható létre csatorna: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1102"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1131"/>
         <source>Unable to create channel</source>
         <translation>Nem hozható létre csatorna</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1117"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1146"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>Nem hozható létre hívócsatorna %1 - %2 - %3 ismerőshöz</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1174"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1203"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>Érvénytelenített hívócsatorna %1 - %2 - %3 ismerőshöz</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1500"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1529"/>
         <source>Error ending call: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Hiba a hívás bontásakor: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1515"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1544"/>
         <source>Call could not be accepted %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>A hívást nem lehetett fogadni %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1531"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1560"/>
         <source>Hold request could not be done %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>A hívástartási kérés nem volt teljesíthető %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1699"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1728"/>
         <source>Call resources were lost</source>
         <translation>A hívási erőforrások elvesztek</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1708"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1737"/>
         <source>Call resources not granted</source>
         <translation>Hívási erőforrások megadása megtagadva</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1717"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1746"/>
         <source>Error acquiring call resources</source>
         <translation>Nem sikerült hívási erőforrásokat kapni</translation>
     </message>
@@ -159,7 +160,7 @@
 <context>
     <name>ContactDelegate</name>
     <message>
-        <location filename="../../ContactDelegate.qml" line="140"/>
+        <location filename="../../ContactDelegate.qml" line="45"/>
         <source>Report abuse</source>
         <translation>Visszaélés jelentése</translation>
     </message>

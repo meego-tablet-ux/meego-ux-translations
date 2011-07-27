@@ -9,7 +9,7 @@
     <message>
         <location filename="../../AddressEditWidget.qml" line="24"/>
         <source>Work</source>
-        <translation>勤務先</translation>
+        <translation>仕事</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="25"/>
@@ -19,22 +19,22 @@
     <message>
         <location filename="../../AddressEditWidget.qml" line="26"/>
         <source>Street address</source>
-        <translation>番地名</translation>
+        <translation>町名・番地</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="27"/>
         <source>Town / City</source>
-        <translation>市町村名</translation>
+        <translation>市区町村</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="28"/>
         <source>Region / State</source>
-        <translation type="unfinished"/>
+        <translation>都道府県</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="29"/>
         <source>Country</source>
-        <translation>国名</translation>
+        <translation>国</translation>
     </message>
     <message>
         <location filename="../../AddressEditWidget.qml" line="30"/>
@@ -48,7 +48,7 @@
         <location filename="../../ContactCardLandscape.qml" line="164"/>
         <location filename="../../ContactCardLandscape.qml" line="166"/>
         <source>%1 %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -56,20 +56,20 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="24"/>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="77"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
-        <translation>気に入らない</translation>
+        <translation>「お気に入り」を外す</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="80"/>
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>お気に入り</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="82"/>
@@ -89,27 +89,27 @@
     <message>
         <location filename="../../ContactCardPortrait.qml" line="85"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>オフライン</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="88"/>
         <source>(...)</source>
         <extracomment>Truncate string - used when a string is too long for the display area</extracomment>
-        <translation type="unfinished"/>
+        <translation>(...)</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="149"/>
         <source>%1 %2</source>
         <comment>LastFirstName</comment>
         <extracomment>%1 is last name, %2 is first name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../ContactCardPortrait.qml" line="152"/>
         <source>%1 %2</source>
         <comment>FirstLastName</comment>
         <extracomment>%1 is first name, %2 is last name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -117,12 +117,12 @@
     <message>
         <location filename="../../ContactsExpandableDetails.qml" line="30"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>追加</translation>
     </message>
     <message>
         <location filename="../../ContactsExpandableDetails.qml" line="31"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>キャンセル</translation>
     </message>
 </context>
 <context>
@@ -130,40 +130,40 @@
     <message>
         <location filename="../../ContactsSettings.qml" line="16"/>
         <source>Contacts Settings</source>
-        <translation type="unfinished"/>
+        <translation>連絡先設定</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="17"/>
         <source>Sort Order:</source>
-        <translation type="unfinished"/>
+        <translation>ソート順：</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="20"/>
         <source>Display Order:</source>
         <extracomment>How contacts will be displayed to the user - last first or first last</extracomment>
-        <translation type="unfinished"/>
+        <translation>表示順：</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="21"/>
         <source>Sort by first name</source>
-        <translation type="unfinished"/>
+        <translation>名前別にソート</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="22"/>
         <source>Sort by last name</source>
-        <translation type="unfinished"/>
+        <translation>名字別にソート</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="25"/>
         <source>Display by first name</source>
         <extracomment>Display contacts with the first name first - FirstName LastName</extracomment>
-        <translation type="unfinished"/>
+        <translation>名前、名字</translation>
     </message>
     <message>
         <location filename="../../ContactsSettings.qml" line="28"/>
         <source>Display by last name</source>
         <extracomment>Display contacts with the last name first - LastName FirstName</extracomment>
-        <translation type="unfinished"/>
+        <translation>名字、名前</translation>
     </message>
 </context>
 <context>
@@ -186,7 +186,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="32"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>オフライン</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="34"/>
@@ -196,7 +196,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="35"/>
         <source>Work</source>
-        <translation>勤務先</translation>
+        <translation>仕事</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="36"/>
@@ -213,14 +213,14 @@
         <source>Bookmark</source>
         <comment>Noun</comment>
         <extracomment>Denotes whether the web page for this contact is just a bookmark</extracomment>
-        <translation type="unfinished"/>
+        <translation>ブックマーク</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="43"/>
         <source>Favorite</source>
         <comment>Noun</comment>
         <extracomment>Denotes whether the web page for this contact is a favorite bookmark</extracomment>
-        <translation type="unfinished"/>
+        <translation>お気に入り</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="45"/>
@@ -262,7 +262,7 @@
         <location filename="../../DetailViewPortrait.qml" line="57"/>
         <source>Instant messaging</source>
         <extracomment>Instant Messaging Accounts for this contact</extracomment>
-        <translation>インスタント・メッセンジャー</translation>
+        <translation>インスタント・メッセージング</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="58"/>
@@ -283,7 +283,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="63"/>
         <source>Birthday</source>
-        <translation type="unfinished"/>
+        <translation>誕生日</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="64"/>
@@ -313,7 +313,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="70"/>
         <source>Yahoo!</source>
-        <translation type="unfinished"/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="71"/>
@@ -323,7 +323,7 @@
     <message>
         <location filename="../../DetailViewPortrait.qml" line="72"/>
         <source>Google Talk</source>
-        <translation type="unfinished"/>
+        <translation>Google トーク</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="73"/>
@@ -335,25 +335,25 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>お気に入り</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="79"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
-        <translation>気に入らない</translation>
+        <translation>「お気に入り」を外す</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="97"/>
         <source>View</source>
         <extracomment>Load the details for the selected contact</extracomment>
-        <translation type="unfinished"/>
+        <translation>表示</translation>
     </message>
     <message>
         <location filename="../../DetailViewPortrait.qml" line="100"/>
         <source>...</source>
         <extracomment>Truncate string - used when a string is too long for the display area</extracomment>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -366,7 +366,7 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="33"/>
         <source>Work</source>
-        <translation>勤務先</translation>
+        <translation>仕事</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="34"/>
@@ -391,7 +391,7 @@
     <message>
         <location filename="../../EditViewPortrait.qml" line="38"/>
         <source>Pronounciation</source>
-        <translation type="unfinished"/>
+        <translation>よみがな</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="39"/>
@@ -423,65 +423,65 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>お気に入り</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="52"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
-        <translation>気に入らない</translation>
+        <translation>「お気に入り」を外す</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="54"/>
         <source>Phone numbers</source>
-        <translation type="unfinished"/>
+        <translation>電話番号</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="55"/>
         <source>Add number</source>
-        <translation type="unfinished"/>
+        <translation>番号の追加</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="58"/>
         <source>Instant messaging</source>
         <extracomment>Instant Messaging Accounts for this contact</extracomment>
-        <translation type="unfinished"/>
+        <translation>インスタント・メッセージング</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="59"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>アカウントの追加</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="60"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>メール</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="61"/>
         <source>Add email address</source>
-        <translation type="unfinished"/>
+        <translation>メールアドレスの追加</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="64"/>
         <source>Web</source>
         <extracomment>The header for the section that shows the web sites for this contact</extracomment>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="65"/>
         <source>Add web page</source>
-        <translation type="unfinished"/>
+        <translation>Web ページの追加</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="66"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>住所</translation>
     </message>
     <message>
         <location filename="../../EditViewPortrait.qml" line="67"/>
         <source>Add address</source>
-        <translation type="unfinished"/>
+        <translation>住所の追加</translation>
     </message>
 </context>
 <context>
@@ -494,7 +494,7 @@
     <message>
         <location filename="../../EmailEditWidget.qml" line="24"/>
         <source>Work</source>
-        <translation>勤務先</translation>
+        <translation>仕事</translation>
     </message>
     <message>
         <location filename="../../EmailEditWidget.qml" line="25"/>
@@ -517,7 +517,7 @@
     <message>
         <location filename="../../EmptyContacts.qml" line="18"/>
         <source>Add a contact</source>
-        <translation>連絡先を追加</translation>
+        <translation>連絡先の追加</translation>
     </message>
 </context>
 <context>
@@ -525,7 +525,7 @@
     <message>
         <location filename="../../GroupedViewLandscape.qml" line="81"/>
         <source>#</source>
-        <translation type="unfinished"/>
+        <translation>#</translation>
     </message>
 </context>
 <context>
@@ -543,7 +543,7 @@
         <location filename="../../ImEditWidget.qml" line="26"/>
         <source>Instant messaging</source>
         <extracomment>Instant Messaging Accounts for this contact</extracomment>
-        <translation>インスタント・メッセンジャー</translation>
+        <translation>インスタント・メッセージング</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="27"/>
@@ -563,7 +563,7 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="30"/>
         <source>Yahoo!</source>
-        <translation type="unfinished"/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="31"/>
@@ -584,17 +584,17 @@
     <message>
         <location filename="../../ImEditWidget.qml" line="36"/>
         <source>Account Type</source>
-        <translation type="unfinished"/>
+        <translation>アカウントの種類</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="37"/>
         <source>No IM accounts are configured</source>
-        <translation type="unfinished"/>
+        <translation>IM アカウントが設定されていません</translation>
     </message>
     <message>
         <location filename="../../ImEditWidget.qml" line="38"/>
         <source>No buddies for this account</source>
-        <translation type="unfinished"/>
+        <translation>このアカウントのチャット相手がいません</translation>
     </message>
 </context>
 <context>
@@ -607,7 +607,7 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="30"/>
         <source>Work</source>
-        <translation>勤務先</translation>
+        <translation>仕事</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="31"/>
@@ -627,7 +627,7 @@
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="34"/>
         <source>Pronounciation</source>
-        <translation type="unfinished"/>
+        <translation>よみがな</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="35"/>
@@ -663,64 +663,64 @@
         <location filename="../../NewContactViewPortrait.qml" line="46"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
-        <translation>気に入らない</translation>
+        <translation>「お気に入り」を外す</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="49"/>
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>お気に入り</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="51"/>
         <source>Phone numbers</source>
-        <translation type="unfinished"/>
+        <translation>電話番号</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="52"/>
         <source>Add number</source>
-        <translation type="unfinished"/>
+        <translation>番号の追加</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="53"/>
         <source>Instant messaging</source>
-        <translation type="unfinished"/>
+        <translation>インスタント・メッセージング</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="54"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>アカウントの追加</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="55"/>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>メール</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="56"/>
         <source>Add email address</source>
-        <translation type="unfinished"/>
+        <translation>メールアドレスの追加</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="57"/>
         <source>Web</source>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="58"/>
         <source>Add web page</source>
-        <translation type="unfinished"/>
+        <translation>Web ページの追加</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="59"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>住所</translation>
     </message>
     <message>
         <location filename="../../NewContactViewPortrait.qml" line="60"/>
         <source>Add address</source>
-        <translation type="unfinished"/>
+        <translation>住所の追加</translation>
     </message>
 </context>
 <context>
@@ -733,7 +733,7 @@
     <message>
         <location filename="../../PhoneEditWidget.qml" line="25"/>
         <source>Work</source>
-        <translation>勤務先</translation>
+        <translation>仕事</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="26"/>
@@ -753,7 +753,7 @@
     <message>
         <location filename="../../PhoneEditWidget.qml" line="29"/>
         <source>Add number</source>
-        <translation>番号を追加</translation>
+        <translation>番号の追加</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="30"/>
@@ -763,12 +763,12 @@
     <message>
         <location filename="../../PhoneEditWidget.qml" line="31"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="../../PhoneEditWidget.qml" line="32"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>追加</translation>
     </message>
 </context>
 <context>
@@ -782,13 +782,13 @@
         <location filename="../../WebPageEditWidget.qml" line="24"/>
         <source>Bookmark</source>
         <comment>Noun</comment>
-        <translation type="unfinished"/>
+        <translation>ブックマーク</translation>
     </message>
     <message>
         <location filename="../../WebPageEditWidget.qml" line="25"/>
         <source>Favorite</source>
         <comment>Noun</comment>
-        <translation type="unfinished"/>
+        <translation>お気に入り</translation>
     </message>
 </context>
 <context>
@@ -824,7 +824,7 @@
         <location filename="../../main.qml" line="31"/>
         <source>View</source>
         <extracomment>Load the details for the selected contact</extracomment>
-        <translation>ビュー</translation>
+        <translation>表示</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="32"/>
@@ -841,13 +841,13 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>Add favorite flag / add contact to favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>お気に入り</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="39"/>
         <source>Unfavorite</source>
         <extracomment>Remove favorite flag / remove contact from favorites list</extracomment>
-        <translation type="unfinished"/>
+        <translation>「お気に入り」を外す</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="41"/>
@@ -873,7 +873,7 @@
         <location filename="../../main.qml" line="47"/>
         <source>Delete Confirmation</source>
         <extracomment>Confirmation of deletion - ensure the user wants to delete the contact</extracomment>
-        <translation>確認通知を削除</translation>
+        <translation>連絡先削除の確認</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="51"/>
@@ -883,18 +883,18 @@
     <message>
         <location filename="../../main.qml" line="53"/>
         <source>Edit contacts</source>
-        <translation>連絡先を編集</translation>
+        <translation>連絡先の編集</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="56"/>
         <source>this contact</source>
         <extracomment>If we are unable to get the contact name, use 'this contact' instead</extracomment>
-        <translation>この連絡先を</translation>
+        <translation>この連絡先</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="57"/>
         <source>Are you sure you want to remove %1 from your contacts?</source>
-        <translation type="unfinished"/>
+        <translation>連絡先リストから%1を削除しますか？</translation>
     </message>
 </context>
 </TS>

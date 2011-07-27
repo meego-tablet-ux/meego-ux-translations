@@ -394,7 +394,7 @@
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="497"/>
         <source>%n note(s) have successfully been moved to &quot;%2&quot;</source>
-        <translation><numerusform>Notatka została przeniesiona do &amp;quot;%2&amp;quot;</numerusform><numerusform>%n notatki zostały przeniesione do &amp;quot;%2&amp;quot;</numerusform><numerusform>%n notatek zostało przeniesionych do &amp;quot;%2&amp;quot;</numerusform></translation>
+        <translation><numerusform>Notatka została przeniesiona do &quot;%2&quot;</numerusform><numerusform>%n notatki zostały przeniesione do &quot;%2&quot;</numerusform><numerusform>%n notatek zostało przeniesionych do &quot;%2&quot;</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="500"/>

@@ -9,12 +9,12 @@
     <message>
         <location filename="../NoSpaceDialog.qml" line="16"/>
         <source>Open Photos</source>
-        <translation type="unfinished"/>
+        <translation>写真を開く</translation>
     </message>
     <message>
         <location filename="../NoSpaceDialog.qml" line="22"/>
         <source>There is no storage space left on the device. To take more photos or video, you may want to delete some existing content.</source>
-        <translation>デバイスに空き容量がありません。さらに写真や動画を撮影するには、既存のコンテンツをいくつか削除してください。</translation>
+        <translation>デバイスに空き容量がありません。 写真や動画を撮影するには、既存のコンテンツを一部削除してください。</translation>
     </message>
 </context>
 <context>
@@ -22,7 +22,7 @@
     <message>
         <location filename="../plugin/viewfinder.cpp" line="891"/>
         <source>%1:%2:%3</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2:%3</translation>
     </message>
 </context>
 </TS>

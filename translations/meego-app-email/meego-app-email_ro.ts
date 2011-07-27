@@ -111,10 +111,10 @@
         <location filename="../../AccountPage.qml" line="53"/>
         <source>%n unread message(s)</source>
         <extracomment>Label that displays the number of unread e-mail messages. Note plural handling.</extracomment>
-        <translation type="unfinished"><numerusform>%n mesaje necitite</numerusform><numerusform>%n mesaje necitite</numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>un mesaj necitit</numerusform><numerusform>%n mesaje necitite</numerusform><numerusform>%n mesaje necitite</numerusform></translation>
     </message>
     <message>
-        <location filename="../../AccountPage.qml" line="115"/>
+        <location filename="../../AccountPage.qml" line="116"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
         <translation>%1 - %2</translation>
@@ -128,95 +128,95 @@
         <translation>Conturi</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="45"/>
+        <location filename="../../settings/AccountSettings.qml" line="46"/>
         <source>Set up new account</source>
         <translation>Configurează cont nou</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="58"/>
+        <location filename="../../settings/AccountSettings.qml" line="61"/>
         <source>General Settings</source>
         <translation>Setări generale</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="69"/>
+        <location filename="../../settings/AccountSettings.qml" line="73"/>
         <source>Update:</source>
         <translation>Actualizare:</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="119"/>
+        <location filename="../../settings/AccountSettings.qml" line="126"/>
         <source>Signature</source>
         <translation>Semnătură</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="129"/>
-        <location filename="../../settings/AccountSettings.qml" line="143"/>
+        <location filename="../../settings/AccountSettings.qml" line="139"/>
+        <location filename="../../settings/AccountSettings.qml" line="153"/>
         <source>Enter your signature.</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
         <translation>Introduceți semnătura.</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="129"/>
+        <location filename="../../settings/AccountSettings.qml" line="139"/>
         <source>&quot;%1&quot;</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
         <translation>&quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="159"/>
+        <location filename="../../settings/AccountSettings.qml" line="169"/>
         <source>Notifications</source>
         <translation>Notificări</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="177"/>
+        <location filename="../../settings/AccountSettings.qml" line="187"/>
         <source>New email notifications</source>
         <translation>Notificări pentru email nou</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="182"/>
+        <location filename="../../settings/AccountSettings.qml" line="192"/>
         <source>Ask before deleting email</source>
         <translation>Cere confirmare înainte de a șterge email</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="204"/>
+        <location filename="../../settings/AccountSettings.qml" line="214"/>
         <source>Save changes</source>
         <translation>Salvează modificări</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="221"/>
+        <location filename="../../settings/AccountSettings.qml" line="231"/>
         <source>Cancel</source>
         <translation>Anulează</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="231"/>
+        <location filename="../../settings/AccountSettings.qml" line="241"/>
         <source>Yes</source>
         <translation>Da</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="232"/>
+        <location filename="../../settings/AccountSettings.qml" line="242"/>
         <source>No</source>
         <translation>Nu</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="233"/>
+        <location filename="../../settings/AccountSettings.qml" line="243"/>
         <source>Discard changes</source>
         <translation>Abandonează modificările</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="234"/>
+        <location filename="../../settings/AccountSettings.qml" line="244"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
         <translation>Ați modificat setările. Sunteți sigur(ă) că vreți să anulați?</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="239"/>
+        <location filename="../../settings/AccountSettings.qml" line="249"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="241"/>
+        <location filename="../../settings/AccountSettings.qml" line="251"/>
         <source>Changes saved</source>
         <translation>Modificări salvate</translation>
     </message>
     <message>
-        <location filename="../../settings/AccountSettings.qml" line="242"/>
+        <location filename="../../settings/AccountSettings.qml" line="252"/>
         <source>Your changes have been saved.</source>
         <translation>Modificările au fost salvate.</translation>
     </message>
@@ -280,22 +280,22 @@
 <context>
     <name>ConfirmScreen</name>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="34"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="32"/>
         <source>Account set up successfully!</source>
         <translation>Configurare reușită!</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="36"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="45"/>
         <source>Accounts</source>
         <translation>Conturi</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="53"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="63"/>
         <source>Done</source>
         <translation>Terminat</translation>
     </message>
     <message>
-        <location filename="../../settings/ConfirmScreen.qml" line="65"/>
+        <location filename="../../settings/ConfirmScreen.qml" line="76"/>
         <source>Set up another account?</source>
         <translation>Configurați un cont nou?</translation>
     </message>
@@ -303,126 +303,126 @@
 <context>
     <name>DetailsScreen</name>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="37"/>
+        <location filename="../../settings/DetailsScreen.qml" line="43"/>
         <source>Account details</source>
         <translation>Detalii cont</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="40"/>
+        <location filename="../../settings/DetailsScreen.qml" line="46"/>
         <source>Account: %1</source>
         <translation>Cont: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="43"/>
+        <location filename="../../settings/DetailsScreen.qml" line="49"/>
         <source>Name: %1</source>
         <translation>Nume: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="46"/>
+        <location filename="../../settings/DetailsScreen.qml" line="52"/>
         <source>Email address: %1</source>
         <translation>Adresă email: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="53"/>
+        <location filename="../../settings/DetailsScreen.qml" line="59"/>
         <source>Receiving:</source>
         <translation>Se primește:</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="56"/>
+        <location filename="../../settings/DetailsScreen.qml" line="63"/>
         <source>Server type: %1</source>
         <translation>Tip server: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="59"/>
-        <location filename="../../settings/DetailsScreen.qml" line="78"/>
+        <location filename="../../settings/DetailsScreen.qml" line="67"/>
+        <location filename="../../settings/DetailsScreen.qml" line="90"/>
         <source>Server address: %1</source>
         <translation>Adresă server: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="62"/>
-        <location filename="../../settings/DetailsScreen.qml" line="81"/>
+        <location filename="../../settings/DetailsScreen.qml" line="71"/>
+        <location filename="../../settings/DetailsScreen.qml" line="94"/>
         <source>Port: %1</source>
         <translation>Port: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="65"/>
-        <location filename="../../settings/DetailsScreen.qml" line="87"/>
+        <location filename="../../settings/DetailsScreen.qml" line="75"/>
+        <location filename="../../settings/DetailsScreen.qml" line="102"/>
         <source>Security: %1</source>
         <translation>Securitate: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="68"/>
-        <location filename="../../settings/DetailsScreen.qml" line="90"/>
+        <location filename="../../settings/DetailsScreen.qml" line="79"/>
+        <location filename="../../settings/DetailsScreen.qml" line="106"/>
         <source>Username: %1</source>
         <translation>Nume utilizator: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="75"/>
+        <location filename="../../settings/DetailsScreen.qml" line="86"/>
         <source>Sending:</source>
         <translation>Se trimite:</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="84"/>
+        <location filename="../../settings/DetailsScreen.qml" line="98"/>
         <source>Authentication: %1</source>
         <translation>Autentificare: %1</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="96"/>
-        <source>Next</source>
-        <translation>Următorul</translation>
-    </message>
-    <message>
-        <location filename="../../settings/DetailsScreen.qml" line="116"/>
+        <location filename="../../settings/DetailsScreen.qml" line="114"/>
         <source>Cancel</source>
         <translation>Anulează</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="122"/>
-        <source>Manual Edit</source>
-        <translation>Editare manuală</translation>
+        <location filename="../../settings/DetailsScreen.qml" line="123"/>
+        <source>Next</source>
+        <translation>Următorul</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="125"/>
+        <location filename="../../settings/DetailsScreen.qml" line="155"/>
         <source>Please fill in account details:</source>
         <translation>Introduceți detaliile contului:</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="139"/>
+        <location filename="../../settings/DetailsScreen.qml" line="167"/>
+        <source>Edit email settings manually</source>
+        <translation>Editați manual setările de email </translation>
+    </message>
+    <message>
+        <location filename="../../settings/DetailsScreen.qml" line="180"/>
         <source>Yes</source>
         <translation>Da</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="140"/>
+        <location filename="../../settings/DetailsScreen.qml" line="181"/>
         <source>No</source>
         <translation>Nu</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="141"/>
+        <location filename="../../settings/DetailsScreen.qml" line="182"/>
         <source>Discard changes</source>
         <translation>Anulează modificări</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="142"/>
+        <location filename="../../settings/DetailsScreen.qml" line="183"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
         <translation>Ați modificat setările. Sunteți sigur(ă) că vreți să anulați?</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="147"/>
+        <location filename="../../settings/DetailsScreen.qml" line="188"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="149"/>
+        <location filename="../../settings/DetailsScreen.qml" line="190"/>
         <source>Error</source>
         <translation>Eroare</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="150"/>
+        <location filename="../../settings/DetailsScreen.qml" line="191"/>
         <source>Error %1: %2</source>
         <translation>Eroare: %1: %2</translation>
     </message>
     <message>
-        <location filename="../../settings/DetailsScreen.qml" line="153"/>
+        <location filename="../../settings/DetailsScreen.qml" line="194"/>
         <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
         <translation>Ne pare rău, nu putem configura automat contul. Introduceți detaliile contului:</translation>
     </message>
@@ -510,38 +510,38 @@
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="153"/>
-        <location filename="../../FolderListMenu.qml" line="207"/>
-        <location filename="../../FolderListMenu.qml" line="265"/>
+        <location filename="../../FolderListMenu.qml" line="206"/>
+        <location filename="../../FolderListMenu.qml" line="264"/>
         <source>Cancel</source>
         <translation>Anulează</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="185"/>
+        <location filename="../../FolderListMenu.qml" line="184"/>
         <source>Rename folder</source>
         <translation>Redenumește folder</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="206"/>
+        <location filename="../../FolderListMenu.qml" line="205"/>
         <source>Rename</source>
         <translation>Redenumește </translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="243"/>
+        <location filename="../../FolderListMenu.qml" line="242"/>
         <source>Delete folder</source>
         <translation>Șterge folder</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="264"/>
+        <location filename="../../FolderListMenu.qml" line="263"/>
         <source>Yes</source>
         <translation>Da</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="268"/>
+        <location filename="../../FolderListMenu.qml" line="267"/>
         <source>Are you sure you want to delete the folder &quot;%1&quot; and all emails inside ?</source>
         <translation>Sunteți sigur(ă) că doriți să ștergeți folderul %1 și toate mailurile conținute?</translation>
     </message>
     <message>
-        <location filename="../../FolderListMenu.qml" line="360"/>
+        <location filename="../../FolderListMenu.qml" line="359"/>
         <source>(%1)</source>
         <extracomment>%1 is the number of unread emails</extracomment>
         <translation>(%1)</translation>
@@ -616,32 +616,32 @@
         <translation>Mai multe mesaje</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="511"/>
+        <location filename="../../FolderListView.qml" line="504"/>
         <source>Reply</source>
         <translation>Răspunde</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="511"/>
+        <location filename="../../FolderListView.qml" line="504"/>
         <source>Reply to all</source>
         <translation>Răspunde tuturor</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="511"/>
+        <location filename="../../FolderListView.qml" line="504"/>
         <source>Forward</source>
         <translation>Redirecționează</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="511"/>
+        <location filename="../../FolderListView.qml" line="504"/>
         <source>Delete</source>
         <translation>Șterge</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="512"/>
+        <location filename="../../FolderListView.qml" line="505"/>
         <source>Mark as unread</source>
         <translation>Marchează ca necitit</translation>
     </message>
     <message>
-        <location filename="../../FolderListView.qml" line="512"/>
+        <location filename="../../FolderListView.qml" line="505"/>
         <source>Mark as read</source>
         <translation>Marchează ca citit</translation>
     </message>
@@ -839,32 +839,44 @@
         <translation>%1 a fost salvat</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="80"/>
+        <location filename="../../ReadingView.qml" line="85"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="81"/>
+        <location filename="../../ReadingView.qml" line="86"/>
         <source>Warning</source>
         <translation>Atenționare</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="86"/>
+        <location filename="../../ReadingView.qml" line="91"/>
         <source>File format is not supported.</source>
         <translation>Format de fișier nesuportat.</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="158"/>
+        <location filename="../../ReadingView.qml" line="164"/>
         <source>From:</source>
         <translation>De la:</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="192"/>
+        <location filename="../../ReadingView.qml" line="190"/>
+        <source>Cc</source>
+        <extracomment>Label for CC recipient view toggle button.</extracomment>
+        <translation>Cc</translation>
+    </message>
+    <message>
+        <location filename="../../ReadingView.qml" line="211"/>
         <source>To:</source>
         <translation>Pentru:</translation>
     </message>
     <message>
-        <location filename="../../ReadingView.qml" line="226"/>
+        <location filename="../../ReadingView.qml" line="222"/>
+        <source>Cc:</source>
+        <extracomment>&quot;Cc&quot; (carbon copy) recipients label</extracomment>
+        <translation>Cc:</translation>
+    </message>
+    <message>
+        <location filename="../../ReadingView.qml" line="251"/>
         <source>Subject:</source>
         <translation>Subiect:</translation>
     </message>
@@ -926,61 +938,79 @@
         <translation>Adresă email:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="61"/>
+        <location filename="../../settings/RegisterScreen.qml" line="63"/>
         <source>Password:</source>
         <translation>Parolă:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="74"/>
+        <location filename="../../settings/RegisterScreen.qml" line="76"/>
         <source>Next</source>
         <translation>Următorul</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="78"/>
-        <location filename="../../settings/RegisterScreen.qml" line="84"/>
-        <location filename="../../settings/RegisterScreen.qml" line="90"/>
+        <location filename="../../settings/RegisterScreen.qml" line="80"/>
+        <location filename="../../settings/RegisterScreen.qml" line="86"/>
+        <location filename="../../settings/RegisterScreen.qml" line="92"/>
         <source>This field is required</source>
         <translation>Câmp necesar</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="118"/>
+        <location filename="../../settings/RegisterScreen.qml" line="120"/>
         <source>Yahoo!</source>
         <translation>Yahoo!</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="123"/>
+        <location filename="../../settings/RegisterScreen.qml" line="125"/>
         <source>AOL</source>
         <translation>AOL</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="131"/>
+        <source>Microsoft Live Hotmail</source>
+        <translation>Microsoft Live Hotmail</translation>
+    </message>
+    <message>
+        <location filename="../../settings/RegisterScreen.qml" line="139"/>
         <source>Please fill in account details:</source>
         <translation>Introduceți detaliile contului:</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="137"/>
+        <location filename="../../settings/RegisterScreen.qml" line="145"/>
         <source>Cancel</source>
         <translation>Anulează</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="152"/>
+        <location filename="../../settings/RegisterScreen.qml" line="160"/>
         <source>Yes</source>
         <translation>Da</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="153"/>
+        <location filename="../../settings/RegisterScreen.qml" line="161"/>
         <source>No</source>
         <translation>Nu</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="154"/>
+        <location filename="../../settings/RegisterScreen.qml" line="162"/>
         <source>Discard changes</source>
         <translation>Abandonează schimbări</translation>
     </message>
     <message>
-        <location filename="../../settings/RegisterScreen.qml" line="155"/>
+        <location filename="../../settings/RegisterScreen.qml" line="163"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
         <translation>Ați modificat setările. Sunteți sigur(ă) că vreți să anulați?</translation>
+    </message>
+</context>
+<context>
+    <name>TextControl</name>
+    <message>
+        <location filename="../../settings/TextControl.qml" line="56"/>
+        <source>@gmail.com</source>
+        <translation>@gmail.com</translation>
+    </message>
+    <message>
+        <location filename="../../settings/TextControl.qml" line="58"/>
+        <source>@yahoo.com</source>
+        <translation>@yahoo.com</translation>
     </message>
 </context>
 <context>
@@ -992,19 +1022,13 @@
         <translation>Gmail</translation>
     </message>
     <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="44"/>
-        <location filename="../../settings/WelcomeButtons.qml" line="49"/>
-        <source>Microsoft Live Hotmail</source>
-        <translation>Microsoft Live Hotmail</translation>
-    </message>
-    <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="68"/>
-        <location filename="../../settings/WelcomeButtons.qml" line="73"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="69"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="74"/>
         <source>Yahoo!</source>
         <translation>Yahoo!</translation>
     </message>
     <message>
-        <location filename="../../settings/WelcomeButtons.qml" line="79"/>
+        <location filename="../../settings/WelcomeButtons.qml" line="80"/>
         <source>Other</source>
         <translation>Altele</translation>
     </message>

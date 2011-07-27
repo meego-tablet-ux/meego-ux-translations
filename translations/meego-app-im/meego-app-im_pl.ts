@@ -22,84 +22,85 @@
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/callagent.cpp" line="172"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="181"/>
         <source>Error ending call</source>
         <translation>Błąd podczas kończenia połączenia</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="197"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1129"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="206"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1158"/>
         <source>Call could not be accepted</source>
         <translation>Nie udało się zaakceptować połączenia</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="481"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="490"/>
         <source>Unable to set hold</source>
         <translation>Zawieszenie nieudane</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="581"/>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="810"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="590"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="833"/>
         <source>Channel not available</source>
         <translation>Kanał niedostępny</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="744"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="767"/>
         <source>Unable to create call channel for contact %1</source>
         <translation>Nie udało się utworzyć kanału dla kontaktu %1</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1087"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1116"/>
         <source>Unable to create channel: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Nie udało się utworzyć kanału: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1102"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1131"/>
         <source>Unable to create channel</source>
         <translation>Nie udało się utworzyć kanału</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1117"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1146"/>
         <source>Unable to create call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>Nie udało się utworzyć kanału połączenia dla kontaktu %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1174"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1203"/>
         <source>Invalidated call channel for contact %1 - %2 - %3</source>
         <extracomment>%1 contact id - %2 error name - %3 error message</extracomment>
         <translation>Błędny kanał połączenia dla kontaktu %1 - %2 - %3</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1500"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1529"/>
         <source>Error ending call: %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Błąd podczas kończenia połączenia: %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1515"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1544"/>
         <source>Call could not be accepted %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Połączenie nie mogło zostać zaakceptowane %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1531"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1560"/>
         <source>Hold request could not be done %1 - %2</source>
         <extracomment>%1 error name - %2 error message</extracomment>
         <translation>Żądanie wstrzymania nie mogło zostać wykonane %1 - %2</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1699"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1728"/>
         <source>Call resources were lost</source>
         <translation>Utracono zasoby połączenia</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1708"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1737"/>
         <source>Call resources not granted</source>
         <translation>Nie uzyskano zasobów połączenia</translation>
     </message>
     <message>
-        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1717"/>
+        <location filename="../../telepathy-qml-lib/callagent.cpp" line="1746"/>
         <source>Error acquiring call resources</source>
         <translation>Błąd podczas zajmowania zasobów połączenia</translation>
     </message>
@@ -159,7 +160,7 @@
 <context>
     <name>ContactDelegate</name>
     <message>
-        <location filename="../../ContactDelegate.qml" line="140"/>
+        <location filename="../../ContactDelegate.qml" line="45"/>
         <source>Report abuse</source>
         <translation>Zgłoś nadużycie</translation>
     </message>

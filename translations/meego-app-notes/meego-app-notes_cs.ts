@@ -395,7 +395,7 @@ smazat &quot;%1&quot;?</translation>
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="497"/>
         <source>%n note(s) have successfully been moved to &quot;%2&quot;</source>
-        <translation><numerusform>Poznámka byla úspěšně přesunuta do &amp;quot;%2&amp;quot;</numerusform><numerusform>%n poznámky byly úspěšně přesunuty do &amp;quot;%2&amp;quot;</numerusform><numerusform>%n poznámek bylo úspěšně přesunuto do &amp;quot;%2&amp;quot;</numerusform></translation>
+        <translation><numerusform>Poznámka byla úspěšně přesunuta do &quot;%2&quot;</numerusform><numerusform>%n poznámky byly úspěšně přesunuty do &quot;%2&quot;</numerusform><numerusform>%n poznámek bylo úspěšně přesunuto do &quot;%2&quot;</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="500"/>

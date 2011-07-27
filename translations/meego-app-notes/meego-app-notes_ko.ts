@@ -394,7 +394,7 @@
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="497"/>
         <source>%n note(s) have successfully been moved to &quot;%2&quot;</source>
-        <translation><numerusform>%n개의 메모가 &amp;amp;quot;%2&amp;amp;quot;(으)로 이동되었습니다.</numerusform></translation>
+        <translation><numerusform>%n개의 메모가 &amp;quot;%2&amp;quot;(으)로 이동되었습니다.</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="500"/>

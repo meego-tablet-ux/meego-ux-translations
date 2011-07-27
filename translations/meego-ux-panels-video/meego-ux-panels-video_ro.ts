@@ -10,64 +10,64 @@
         <extracomment>%1 is &quot;Video&quot; panel title
 ----------
 %1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="67"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 setări</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="69"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 conținut panel</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="72"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="103"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="141"/>
         <source>Watch a video</source>
-        <translation type="unfinished"/>
+        <translation>Urmărește un video</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="72"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Șterge istoricul</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="97"/>
         <source>The latest videos you watch will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Cele mai recent urmărite video-uri vor apărea aici.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="136"/>
         <source>No recently watched videos.</source>
-        <translation type="unfinished"/>
+        <translation>Niciun video urmărit recent.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="157"/>
         <source>You have cleared the Video history</source>
-        <translation type="unfinished"/>
+        <translation>Ați șters istoricul video</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="170"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="174"/>
         <source>Play</source>
-        <translation type="unfinished"/>
+        <translation>Pornește</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="170"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="183"/>
         <source>Share</source>
-        <translation type="unfinished"/>
+        <translation>Partajează</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="170"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="179"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Ascunde</translation>
     </message>
 </context>
 </TS>

@@ -5,13 +5,13 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="56"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="163"/>
         <source>Recently viewed</source>
-        <translation type="unfinished"/>
+        <translation>Vizualizate recent</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="57"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="236"/>
         <source>Albums</source>
-        <translation type="unfinished"/>
+        <translation>Albume</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="87"/>
@@ -22,40 +22,40 @@
         <extracomment>%1 is &quot;Photos&quot; panel title
 ----------
 %1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Fotografii</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="93"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 setări </translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="95"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 conținut panel</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="98"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="130"/>
         <source>View some photos</source>
-        <translation type="unfinished"/>
+        <translation>Vizualizează fotografii</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="98"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Șterge istoricul</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="124"/>
         <source>The latest photos you view and your photo albums will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Cele mai recent vizualizate fotografii și albumele vor apărea aici.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="167"/>
         <source>You have cleared the Photos history</source>
-        <translation type="unfinished"/>
+        <translation>Ați șters istoricul fotografiilor</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="206"/>
@@ -63,13 +63,13 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="322"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="325"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Deschide</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="206"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="216"/>
         <source>Share</source>
-        <translation type="unfinished"/>
+        <translation>Partajează</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="206"/>
@@ -77,33 +77,33 @@
         <location filename="../../panelsrc/photos/photospanel.qml" line="322"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="330"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Ascunde</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="206"/>
         <source>Set as background</source>
-        <translation type="unfinished"/>
+        <translation>Setează ca și fundal</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="244"/>
         <source>You have no photo albums</source>
-        <translation type="unfinished"/>
+        <translation>Nu aveți niciun album de fotografii</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="249"/>
         <source>Create an album</source>
-        <translation type="unfinished"/>
+        <translation>Creează album</translation>
     </message>
     <message numerus="yes">
         <location filename="../../panelsrc/photos/photospanel.qml" line="278"/>
         <source>%n photo(s)</source>
         <comment>albumphotocount</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>fotografie</numerusform><numerusform>%n fotografii</numerusform><numerusform>%n fotografii</numerusform></translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="288"/>
         <source>Created %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 a fost creat</translation>
     </message>
 </context>
 </TS>

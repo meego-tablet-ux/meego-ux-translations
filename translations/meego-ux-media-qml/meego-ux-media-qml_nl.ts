@@ -35,7 +35,7 @@
     <message numerus="yes">
         <location filename="../../Media/MediaGridPhotoAlbumDelegate.qml" line="277"/>
         <source>%n Photo(s)</source>
-        <translation><numerusform>%n Foto</numerusform><numerusform>%n Foto&amp;apos;s</numerusform></translation>
+        <translation><numerusform>%n Foto</numerusform><numerusform>%n Foto's</numerusform></translation>
     </message>
 </context>
 <context>

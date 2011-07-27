@@ -17,7 +17,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelMessageTextItem.qml" line="17"/>
         <source>To show items on the front of the panel select ON, to hide select OFF</source>
-        <translation>パネルの前面にアイテムを表示するには［ON］、非表示にするには［OFF］を選択してください。 </translation>
+        <translation>パネルの前面にアイテムを表示するには［|］、非表示にするには［○］を選択してください。 </translation>
     </message>
 </context>
 <context>

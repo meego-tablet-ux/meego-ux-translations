@@ -394,7 +394,7 @@
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="497"/>
         <source>%n note(s) have successfully been moved to &quot;%2&quot;</source>
-        <translation><numerusform>%n (الملاحظة)  تم نقلها بنجاح  إلى &amp;amp; مثل;%2&amp;amp;مثل:</numerusform><numerusform>%n (الملاحظة)  تم نقلها بنجاح  إلى &amp;amp; مثل;%2&amp;amp;مثل:</numerusform><numerusform>%n (الملاحظتان)  تم نقلهما بنجاح  إلى &amp;amp; مثل;%2&amp;amp;مثل:</numerusform><numerusform>%n (الملاحظات)  تم نقلها بنجاح  إلى &amp;amp; مثل;%2&amp;amp;مثل:</numerusform><numerusform>%n (الملاحظات)  تم نقلها بنجاح  إلى &amp;amp; مثل;%2&amp;amp;مثل:</numerusform><numerusform>%n (الملاحظات)  تم نقلها بنجاح  إلى &amp;amp; مثل;%2&amp;amp;مثل:</numerusform></translation>
+        <translation><numerusform>%n (الملاحظة)  تم نقلها بنجاح  إلى &amp; مثل;%2&amp;مثل:</numerusform><numerusform>%n (الملاحظة)  تم نقلها بنجاح  إلى &amp; مثل;%2&amp;مثل:</numerusform><numerusform>%n (الملاحظتان)  تم نقلهما بنجاح  إلى &amp; مثل;%2&amp;مثل:</numerusform><numerusform>%n (الملاحظات)  تم نقلها بنجاح  إلى &amp; مثل;%2&amp;مثل:</numerusform><numerusform>%n (الملاحظات)  تم نقلها بنجاح  إلى &amp; مثل;%2&amp;مثل:</numerusform><numerusform>%n (الملاحظات)  تم نقلها بنجاح  إلى &amp; مثل;%2&amp;مثل:</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="500"/>

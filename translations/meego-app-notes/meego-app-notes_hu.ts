@@ -394,7 +394,7 @@
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="497"/>
         <source>%n note(s) have successfully been moved to &quot;%2&quot;</source>
-        <translation><numerusform>%n jegyzetet sikeresen &amp;amp;quot;%2&amp;amp;quot;-ba mozgatott</numerusform><numerusform>%n jegyzetet sikeresen &amp;amp;quot;%2&amp;amp;quot;-ba mozgatott</numerusform></translation>
+        <translation><numerusform>%n jegyzetet sikeresen &amp;quot;%2&amp;quot;-ba mozgatott</numerusform><numerusform>%n jegyzetet sikeresen &amp;quot;%2&amp;quot;-ba mozgatott</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="500"/>

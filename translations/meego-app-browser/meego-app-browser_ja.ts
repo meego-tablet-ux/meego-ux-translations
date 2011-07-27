@@ -7,7 +7,7 @@
         <extracomment>IDS_APP_UNDO
 - description: The text label of the Undo menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>元に戻す</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -16,7 +16,7 @@
         <extracomment>IDS_APP_PASTE
 - description: The text label of the Paste menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>貼り付け</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -25,7 +25,7 @@
         <extracomment>IDS_APP_SELECT_ALL
 - description: The text label of the Select All menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>すべて選択</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -34,7 +34,7 @@
         <extracomment>IDS_APP_COPY
 - description: The text label of the Copy menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>コピー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -43,7 +43,7 @@
         <extracomment>IDS_APP_CUT
 - description: The text label of the Cut menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>切り取り</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -52,7 +52,7 @@
         <extracomment>IDS_APP_DELETE
 - description: The text label of the Delete menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>削除</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -65,7 +65,7 @@ IDS_CONTENT_CONTEXT_PAUSE
 - description: In Title Case: The name of the Pause command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>一時停止</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -75,7 +75,7 @@ IDS_CONTENT_CONTEXT_PAUSE
 - description: In Title Case: The name of the Copy Image command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>画像のコピー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -88,7 +88,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The show history menu in the app menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>履歴</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -98,7 +98,7 @@ IDS_SHOW_HISTORY
 - description: The text label of the Paste And Go menu item when the clipboard contains a URL
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>貼り付けて移動</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -108,7 +108,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The name of the Open Link in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>新しいタブでリンクを開く</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -118,7 +118,7 @@ IDS_SHOW_HISTORY
 - description: Title of the dialog to create application shortcuts for current page.
 - condition: not pp_ifdef('use_titlecase') or os != 'linux2'
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>アプリケーションのショートカットを作成</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -128,7 +128,7 @@ IDS_SHOW_HISTORY
 - description: The name of the Save Page As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>名前を付けて保存...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -138,7 +138,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The name of the Open Video in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>新しいタブで動画を開く</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -148,7 +148,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: Default installation menu label
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>アプリケーションのショートカットを作成...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -158,7 +158,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The text label for the Show As tab menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>タブとして表示</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -168,7 +168,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The toggle to show the bookmark bar
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>ブックマーク・バーを常に表示</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -177,7 +177,7 @@ IDS_SHOW_HISTORY
         <extracomment>IDS_BOOMARK_BUBBLE_PAGE_BOOKMARKED
 - description: Title of the bubble after bookmarking something
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>ブックマークを追加しました</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -187,7 +187,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The text label of the Paste And Go menu item when the clipboard contains a URL
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>貼り付けて移動</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -197,7 +197,7 @@ IDS_SHOW_HISTORY
 - description: The name of the Open Video in New Tab command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>新しいタブで動画を開く</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -210,7 +210,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The name of the Show Controls command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>コントロールの表示</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -220,7 +220,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The text label of the Restore Tab menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>閉じたタブを開く</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -230,7 +230,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: The name of the Copy Image Location command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>画像の URL をコピー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -240,7 +240,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: title of the dialog to create application shortcuts for current page.
 - condition: pp_ifdef('use_titlecase') and os == 'linux2'
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>アプリケーションのショートカットを作成</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -250,7 +250,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The name of the Open Image in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>新しいタブで画像を開く</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -260,7 +260,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The text label for the menu item for clearing of browsing data
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>閲覧履歴データの消去...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -270,7 +270,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The name of the Save Audio As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>名前を付けてオーディオを保存...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -283,7 +283,7 @@ IDS_CONTENT_CONTEXT_BACK
 - description: In Title Case: The name of the Back command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>戻る</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -293,7 +293,7 @@ IDS_CONTENT_CONTEXT_BACK
 - description: In Title Case: The text label of the Paste And Go menu item when the clipboard contains a string to search for
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>貼り付けて検索</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -303,7 +303,7 @@ IDS_CONTENT_CONTEXT_BACK
 - description: The name of the Copy Link Location command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>リンクアドレスをコピー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -313,7 +313,7 @@ IDS_CONTENT_CONTEXT_BACK
 - description: In Title Case: The name of the Copy Audio Location command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>オーディオの URL をコピー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -322,7 +322,7 @@ IDS_CONTENT_CONTEXT_BACK
         <extracomment>IDS_CERT_INFO_DETAILS_TAB_LABEL
 - description: Title of the notebook page displaying the details about the certificate
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>詳細</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -332,7 +332,7 @@ IDS_CONTENT_CONTEXT_BACK
 - description: Default installation menu label
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>アプリケーションのショートカットを作成...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -342,7 +342,7 @@ IDS_CONTENT_CONTEXT_BACK
 - description: The name of the Copy Email Address command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>メールアドレスをコピー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -355,7 +355,7 @@ IDS_SHOW_DOWNLOADS
 - description: In Title Case: The show downloads menu in the app menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>ダウンロード</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -365,7 +365,7 @@ IDS_SHOW_DOWNLOADS
 - description: The name of the Save Video As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>名前を付けて動画を保存...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -378,7 +378,7 @@ IDS_CONTENT_CONTEXT_UNMUTE
 - description: In Title Case: The name of the Unmute command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>ミュート解除</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -391,7 +391,7 @@ IDS_SELECT_ALL
 - description: In Title Case: The text label of the Select All menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>すべて選択</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -401,7 +401,7 @@ IDS_SELECT_ALL
 - description: The name of the Open Audio in New Tab command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>新しいタブでオーディオを開く</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -411,7 +411,7 @@ IDS_SELECT_ALL
 - description: The text label of the New Tab menu item
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>新規タブ</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -421,7 +421,7 @@ IDS_SELECT_ALL
 - description: The text label for the Show As tab menu item
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>タブとして表示</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -431,7 +431,7 @@ IDS_SELECT_ALL
 - description: The text label for the menu item for clearing of browsing data
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>閲覧履歴データの消去...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -444,7 +444,7 @@ IDS_CONTENT_CONTEXT_RELOAD
 - description: In Title Case: The name of the Reload command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>再読み込み</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -457,7 +457,7 @@ IDS_CONTENT_CONTEXT_MUTE
 - description: In Title Case: The name of the Mute command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>ミュート</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -467,7 +467,7 @@ IDS_CONTENT_CONTEXT_MUTE
 - description: The name of the Copy Video Location command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>動画の URL をコピー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -477,7 +477,7 @@ IDS_CONTENT_CONTEXT_MUTE
 - description: The text label of the Restore Window menu item
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>閉じたウィンドウを開く</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -487,7 +487,7 @@ IDS_CONTENT_CONTEXT_MUTE
 - description: The text label of the Paste And Go menu item when the clipboard contains a string to search for
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>貼り付けて検索</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -500,7 +500,7 @@ IDS_CONTENT_CONTEXT_GOTOURL
 - description: In Title Case: The name of the Go to url for 'string' command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>$1 に移動</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -510,7 +510,7 @@ IDS_CONTENT_CONTEXT_GOTOURL
 - description: In Title Case: The name of the Save Video As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>名前を付けて動画を保存...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -523,7 +523,7 @@ IDS_OPTIONS
 - description: In Title Case: The text label of the Options menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>オプション</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -536,7 +536,7 @@ IDS_CONTENT_CONTEXT_REDO
 - description: In Title Case: The name of the Redo command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>やり直し</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -546,7 +546,7 @@ IDS_CONTENT_CONTEXT_REDO
 - description: The name of the Copy Image command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>画像のコピー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -556,7 +556,7 @@ IDS_CONTENT_CONTEXT_REDO
 - description: In Title Case: The name of the Open Audio in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>新しいタブでオーディオを開く</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -569,7 +569,7 @@ IDS_SHOW_EXTENSIONS
 - description: In Title Case: The show extensions menu in the app menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>エクステンション</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -582,7 +582,7 @@ IDS_CONTENT_CONTEXT_PLAY
 - description: In Title Case: The name of the Play command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>再生</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -591,7 +591,7 @@ IDS_CONTENT_CONTEXT_PLAY
         <extracomment>IDS_BOOMARK_BUBBLE_FOLDER_TEXT
 - description: Text preceding the folder selector
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>ブックマークを追加：</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -601,7 +601,7 @@ IDS_CONTENT_CONTEXT_PLAY
 - description: In Title Case: The name of the input method submenu in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>入力方法</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -611,7 +611,7 @@ IDS_CONTENT_CONTEXT_PLAY
 - description: In Title Case: The name of the Save Page As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>名前を付けて保存...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -624,7 +624,7 @@ IDS_CONTENT_CONTEXT_LOOP
 - description: In Title Case: The name of the Loop command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>ループ</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -637,7 +637,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: In Title Case: The name of the Forward command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>早送り</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -647,7 +647,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: The name of the Save Audio As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>名前を付けてオーディオを保存...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -657,7 +657,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: In Title Case: The text label of the New Tab menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>新規タブ</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -667,7 +667,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: In Title Case: Switches into fullscreen mode
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>全画面表示</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -677,7 +677,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: In Title Case: The name of the Copy Link Location command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>リンクアドレスをコピー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -687,7 +687,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: The toggle to show the bookmark bar
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>ブックマーク・バーを常に表示</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -697,7 +697,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: The name of the Save Link As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>名前を付けてリンクを保存...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -707,7 +707,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: In Title Case: The text label of the Restore Window menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>閉じたウィンドウを開く</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -717,7 +717,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: The text label of the Restore Tab menu item
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>閉じたタブを開く</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -727,7 +727,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: The name of the Open Image in New Tab command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>新しいタブで画像を開く</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -740,7 +740,7 @@ IDS_CONTENT_CONTEXT_SEARCHWEBFOR
 - description: In Title Case: The name of the Search the Web for 'string' command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>$1 で「$2」を検索</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -749,7 +749,7 @@ IDS_CONTENT_CONTEXT_SEARCHWEBFOR
         <extracomment>IDS_CERT_DETAILS_EXPORT_CERTIFICATE
 - description: The label of the button to export the selected certificate
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>エクスポート...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -762,7 +762,7 @@ IDS_SETTINGS
 - description: In Title Case: The text label of the Settings menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>設定</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -772,7 +772,7 @@ IDS_SETTINGS
 - description: The name of the Open Link in New Tab command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>新しいタブでリンクを開く</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -782,7 +782,7 @@ IDS_SETTINGS
 - description: The name of the Save Image As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>名前を付けて画像を保存...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -792,7 +792,7 @@ IDS_SETTINGS
 - description: In Title Case: The name of the Copy Video Location command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>動画の URL をコピー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -802,7 +802,7 @@ IDS_SETTINGS
 - description: Switches into fullscreen mode
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>全画面表示</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -812,7 +812,7 @@ IDS_SETTINGS
 - description: The name of the Copy Audio Location command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>オーディオの URL をコピー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -827,7 +827,7 @@ IDS_BOOKMARK_MANAGER
 IDS_BOOKMARK_MANAGER_TITLE
 - description: Title of the bookmark manager window.
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>ブックマーク</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -837,7 +837,7 @@ IDS_BOOKMARK_MANAGER_TITLE
 - description: In Title Case: The name of the Save Image As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>名前を付けて画像を保存...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -846,7 +846,7 @@ IDS_BOOKMARK_MANAGER_TITLE
         <extracomment>IDS_EDIT
 - description: Edit menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>編集</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -856,7 +856,7 @@ IDS_BOOKMARK_MANAGER_TITLE
 - description: The name of the input method submenu in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>入力方法</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -866,7 +866,7 @@ IDS_BOOKMARK_MANAGER_TITLE
 - description: In Title Case: The name of the Copy Email Address command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>メールアドレスをコピー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -879,7 +879,7 @@ IDS_FIND
 - description: In Title Case: The text label of the Find... menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>検索...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -889,7 +889,7 @@ IDS_FIND
 - description: In Title Case: The name of the Copy Image Location command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>画像の URL をコピー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -899,7 +899,7 @@ IDS_FIND
 - description: In Title Case: The name of the Save Link As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>名前を付けてリンクを保存...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -908,7 +908,7 @@ IDS_FIND
         <extracomment>IDS_BOOMARK_EDITOR_NEW_FOLDER_MENU_ITEM
 - description: Text on the new folder context menu item.
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>新しいフォルダー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -917,7 +917,7 @@ IDS_FIND
         <extracomment>IDS_CERT_INFO_GENERAL_TAB_LABEL
 - description: Title of the notebook page displaying the basic info about the certificate
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>一般</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -935,7 +935,7 @@ IDS_FIND
         <extracomment>IDS_PASSWORD_MANAGER_SAVE_PASSWORD_PROMPT
 - description: Info bar message to save a password
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>MeeGo ブラウザーにパスワードを保存しますか？</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -944,7 +944,7 @@ IDS_FIND
         <extracomment>IDS_ABOUT_VERSION_COPYRIGHT
 - description: Copyright information on the about pages
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Copyright © 2010-2011 MeeGo. All rights reserved.</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -953,7 +953,7 @@ IDS_FIND
         <extracomment>IDS_DEFAULT_BROWSER_INFOBAR_SHORT_TEXT
 - description: More compact text to show in the default browser query infobar.
 </extracomment>
-        <translation>MeeGo ブラウザは既定のブラウザではありません。</translation>
+        <translation>MeeGo ブラウザーは既定ブラウザーではありません。</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -962,7 +962,7 @@ IDS_FIND
         <extracomment>IDS_SESSION_CRASHED_VIEW_MESSAGE
 - description: Message shown when the last session didn't exit cleanly.
 </extracomment>
-        <translation>MeeGo ブラウザは正確に終了しませんでした。前回開いていたページを再開するに、復元をクリックします。</translation>
+        <translation>MeeGo ブラウザーは正常に終了しませんでした。 前回のページを開くには、復元をクリックします。</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -973,7 +973,7 @@ IDS_FIND
 IDS_SXS_SHORTCUT_NAME
 - description: The Chrome short cut name for SxS channel
 </extracomment>
-        <translation>MeeGo ブラウザ</translation>
+        <translation>MeeGo ブラウザー</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
 </context>
@@ -987,14 +987,14 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/AddAttachmentView.qml" line="84"/>
         <source>Movies</source>
-        <translation>動画</translation>
+        <translation>映画</translation>
     </message>
 </context><context>
     <name>BookmarkList</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="186"/>
         <source>Delete bookmark</source>
-        <translation type="unfinished"/>
+        <translation>ブックマークの削除</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="187"/>
@@ -1011,34 +1011,34 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="192"/>
         <source>Are you sure you want to delete this bookmark?</source>
-        <translation>このブックマークを削除してもよろしいですか？</translation>
+        <translation>このブックマークを削除しますか？</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="210"/>
         <source>Edit bookmark</source>
-        <translation>ブックマークを編集</translation>
+        <translation>ブックマークの編集</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>完了</translation>
     </message>
 </context><context>
     <name>BookmarkListEditDialog</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="134"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="135"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="274"/>
         <source>left-to-right</source>
-        <translation type="unfinished"/>
+        <translation>left-to-right</translation>
     </message>
 </context><context>
     <name>DownloadShelf</name>

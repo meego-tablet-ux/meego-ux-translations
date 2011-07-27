@@ -17,13 +17,13 @@
         <location filename="../../calculator.js" line="59"/>
         <source>Infinity</source>
         <extracomment>Calculator error reporting positive infinity result (positive overflow) See http://www.w3schools.com/jsref/jsref_infinity.asp</extracomment>
-        <translation>無限大</translation>
+        <translation>∞</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="62"/>
         <source>-Infinity</source>
         <extracomment>Calculator error reporting negative infinity result (negative overflow)</extracomment>
-        <translation>負の無限大</translation>
+        <translation>-∞</translation>
     </message>
     <message>
         <location filename="../../calculator.js" line="65"/>
