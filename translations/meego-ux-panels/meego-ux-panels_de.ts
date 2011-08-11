@@ -4,7 +4,7 @@
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="43"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>Panels</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/BackPanelGeneric.qml" line="46"/>
@@ -56,17 +56,17 @@
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="229"/>
         <source>Airplane Mode is ON</source>
-        <translation type="unfinished"/>
+        <translation>Flugzeugmodus AN</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="251"/>
         <source>To connect WiFi turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>Deaktiveren Sie den Flugzeugmodus, um eine Wi-Fi-Verbindung herzustellen</translation>
     </message>
     <message>
         <location filename="../../panellib/Panels/WifiDialog.qml" line="268"/>
         <source>Turn off Airplane Mode</source>
-        <translation type="unfinished"/>
+        <translation>Flugzeugmodus deaktivieren</translation>
     </message>
 </context>
 </TS>

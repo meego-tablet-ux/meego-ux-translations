@@ -5,7 +5,7 @@
         <location filename="../../settings/AccountExpandobox.qml" line="77"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="106"/>
@@ -117,7 +117,7 @@
         <location filename="../../AccountPage.qml" line="116"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -152,13 +152,13 @@
         <location filename="../../settings/AccountSettings.qml" line="153"/>
         <source>Enter your signature.</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Digite a sua assinatura.</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="139"/>
         <source>&quot;%1&quot;</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="169"/>
@@ -203,7 +203,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="244"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Você fez mudanças nas suas configurações. Tem certeza que deseja cancelar?</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="249"/>
@@ -254,27 +254,27 @@
         <location filename="../../ComposerViewToolbar.qml" line="175"/>
         <source>Attach a file</source>
         <extracomment>Attach a file (e.g. music, video, photo) to the document being composed.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Anexar arquivo</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="232"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Sim</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="233"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="234"/>
         <source>Discard Email</source>
-        <translation type="unfinished"/>
+        <translation>Descartar Email</translation>
     </message>
     <message>
         <location filename="../../ComposerViewToolbar.qml" line="235"/>
         <source>Are you sure you want to discard this unsent email?</source>
-        <translation type="unfinished"/>
+        <translation>Tem certeza que deseja descartar este email não enviado?</translation>
     </message>
 </context>
 <context>
@@ -384,7 +384,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="167"/>
         <source>Edit email settings manually</source>
-        <translation type="unfinished"/>
+        <translation>Editar configurações do email manualmente</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="180"/>
@@ -404,7 +404,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="183"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Você fez mudanças nas suas configurações. Tem certeza que deseja cancelar?</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="188"/>
@@ -432,7 +432,7 @@
     <message>
         <location filename="../../EmailHeader.qml" line="39"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Apagar</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="84"/>
@@ -496,55 +496,55 @@
     <message>
         <location filename="../../FolderListMenu.qml" line="114"/>
         <source>Create new folder</source>
-        <translation type="unfinished"/>
+        <translation>Criar uma nova pasta</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="148"/>
         <source>Untitled Folder</source>
-        <translation type="unfinished"/>
+        <translation>Nova Pasta</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="152"/>
         <source>Create</source>
-        <translation type="unfinished"/>
+        <translation>Criar</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="153"/>
         <location filename="../../FolderListMenu.qml" line="206"/>
         <location filename="../../FolderListMenu.qml" line="264"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="184"/>
         <source>Rename folder</source>
-        <translation type="unfinished"/>
+        <translation>Renomear pasta</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="205"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Renomear</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="242"/>
         <source>Delete folder</source>
-        <translation type="unfinished"/>
+        <translation>Apagar pasta</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="263"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Sim</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="267"/>
         <source>Are you sure you want to delete the folder &quot;%1&quot; and all emails inside ?</source>
-        <translation type="unfinished"/>
+        <translation>Tem certeza que deseja apagar a pasta &apos;%1&apos; e todos os emails dentro?</translation>
     </message>
     <message>
         <location filename="../../FolderListMenu.qml" line="359"/>
         <source>(%1)</source>
         <extracomment>%1 is the number of unread emails</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -567,7 +567,7 @@
     <message>
         <location filename="../../FolderListView.qml" line="144"/>
         <source>Drafts</source>
-        <translation type="unfinished"/>
+        <translation>Rascunhos</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="149"/>
@@ -651,27 +651,27 @@
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="130"/>
         <source>Choose folder:</source>
-        <translation type="unfinished"/>
+        <translation>Escolha a pasta:</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="212"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Sim</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="213"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Não</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="214"/>
         <source>Confirm Email Delete</source>
-        <translation type="unfinished"/>
+        <translation>Confirme a Remoção do Email</translation>
     </message>
     <message>
         <location filename="../../FolderListViewToolbar.qml" line="215"/>
         <source>Are you sure you want to delete these mails?</source>
-        <translation type="unfinished"/>
+        <translation>Tem certeza que deseja apagar estes emails</translation>
     </message>
 </context>
 <context>
@@ -772,7 +772,7 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="232"/>
         <source>You have made changes to your settings, are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Você fez mudanças nas suas configurações, deseja mesmo cancelar?</translation>
     </message>
 </context>
 <context>
@@ -819,24 +819,24 @@
     <message>
         <location filename="../../ReadingView.qml" line="33"/>
         <source>Downloading Attachment...</source>
-        <translation type="unfinished"/>
+        <translation>Baixando anexo...</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="34"/>
         <source>Downloading Content...</source>
-        <translation type="unfinished"/>
+        <translation>Baixando conteúdo...</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="39"/>
         <source>Saving %1</source>
         <extracomment>Message displayed when downloading an attachment. Arg 1 is the name of the attachment.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Salvando %1</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="42"/>
         <source>%1 saved</source>
         <extracomment>Attachment has been saved message, where arg 1 is the name of the attachment.</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 salvo</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="85"/>
@@ -862,7 +862,7 @@
         <location filename="../../ReadingView.qml" line="190"/>
         <source>Cc</source>
         <extracomment>Label for CC recipient view toggle button.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Co</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="211"/>
@@ -873,7 +873,7 @@
         <location filename="../../ReadingView.qml" line="222"/>
         <source>Cc:</source>
         <extracomment>&quot;Cc&quot; (carbon copy) recipients label</extracomment>
-        <translation type="unfinished"/>
+        <translation>Co:</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="251"/>
@@ -957,17 +957,17 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="120"/>
         <source>Yahoo!</source>
-        <translation type="unfinished"/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="125"/>
         <source>AOL</source>
-        <translation type="unfinished"/>
+        <translation>AOL</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="131"/>
         <source>Microsoft Live Hotmail</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Live Hotmail</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="139"/>
@@ -997,7 +997,7 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="163"/>
         <source>You have made changes to your settings. Are you sure you want to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Você fez mudanças nas suas configurações. Tem certeza que deseja cancelar?</translation>
     </message>
 </context>
 <context>
@@ -1005,12 +1005,12 @@
     <message>
         <location filename="../../settings/TextControl.qml" line="56"/>
         <source>@gmail.com</source>
-        <translation type="unfinished"/>
+        <translation>@gmail.com</translation>
     </message>
     <message>
         <location filename="../../settings/TextControl.qml" line="58"/>
         <source>@yahoo.com</source>
-        <translation type="unfinished"/>
+        <translation>@yahoo.com</translation>
     </message>
 </context>
 <context>
@@ -1098,17 +1098,17 @@
     <message>
         <location filename="../../main.qml" line="104"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="132"/>
         <source>password</source>
-        <translation type="unfinished"/>
+        <translation>senha</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="137"/>
         <source>key</source>
-        <translation type="unfinished"/>
+        <translation>chave</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="260"/>

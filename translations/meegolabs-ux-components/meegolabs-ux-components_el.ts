@@ -29,7 +29,7 @@
     <message>
         <location filename="../../src/components/ContactsPicker.qml" line="230"/>
         <source>Type to search</source>
-        <translation type="unfinished"/>
+        <translation>Πληκτρολογήστε για αναζήτηση</translation>
     </message>
     <message>
         <location filename="../../src/components/ContactsPicker.qml" line="397"/>
@@ -349,21 +349,21 @@
         <source>dddd d</source>
         <comment>DMY</comment>
         <extracomment>weekday and day where user chose DMY order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>dddd d</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="627"/>
         <source>dddd d</source>
         <comment>YMD</comment>
         <extracomment>weekday and day where user chose YMD order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>dddd d</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="631"/>
         <source>dddd d</source>
         <comment>MDY</comment>
         <extracomment>weekday and day where user chose MDY order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>dddd d</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="642"/>

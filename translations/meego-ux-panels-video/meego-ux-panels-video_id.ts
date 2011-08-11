@@ -10,46 +10,46 @@
         <extracomment>%1 is &quot;Video&quot; panel title
 ----------
 %1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="67"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>pengaturan %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="69"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Video&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>isi panel %1</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="72"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="103"/>
         <location filename="../../panelsrc/video/videopanel.qml" line="141"/>
         <source>Watch a video</source>
-        <translation type="unfinished"/>
+        <translation>Lihat video</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="72"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Bersihkan riwayat</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="97"/>
         <source>The latest videos you watch will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Video terakhir yang Anda lihat akan muncul disini.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="136"/>
         <source>No recently watched videos.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada video yang telah dilihat.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="157"/>
         <source>You have cleared the Video history</source>
-        <translation type="unfinished"/>
+        <translation>Anda telah membersihkan riwayat Video</translation>
     </message>
     <message>
         <location filename="../../panelsrc/video/videopanel.qml" line="170"/>

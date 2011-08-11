@@ -22,7 +22,7 @@
     <message>
         <location filename="../plugin/viewfinder.cpp" line="891"/>
         <source>%1:%2:%3</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2:%3</translation>
     </message>
 </context>
 </TS>

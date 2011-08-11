@@ -22,40 +22,40 @@
         <extracomment>%1 is &quot;Photos&quot; panel title
 ----------
 %1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Fotos</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="93"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 Einstellungen</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="95"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 Panelinhalt</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="98"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="130"/>
         <source>View some photos</source>
-        <translation type="unfinished"/>
+        <translation>Fotos ansehen</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="98"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Verlauf löschen</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="124"/>
         <source>The latest photos you view and your photo albums will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Ihre zuletzt angesehenen Fotos und Fotoalben werden hier angezeigt.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="167"/>
         <source>You have cleared the Photos history</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben den Fotoverlauf gelöscht.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="206"/>
@@ -87,23 +87,23 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="244"/>
         <source>You have no photo albums</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben keine Fotoalben.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="249"/>
         <source>Create an album</source>
-        <translation type="unfinished"/>
+        <translation>Album erstellen</translation>
     </message>
     <message numerus="yes">
         <location filename="../../panelsrc/photos/photospanel.qml" line="278"/>
         <source>%n photo(s)</source>
         <comment>albumphotocount</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Ein Foto</numerusform><numerusform>%n Fotos</numerusform></translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="288"/>
         <source>Created %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 erstellt</translation>
     </message>
 </context>
 </TS>

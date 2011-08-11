@@ -6,19 +6,19 @@
         <location filename="../../src/components/common/CCPContextArea.qml" line="313"/>
         <location filename="../../src/components/common/CCPContextArea.qml" line="316"/>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Salin</translation>
     </message>
     <message>
         <location filename="../../src/components/common/CCPContextArea.qml" line="310"/>
         <location filename="../../src/components/common/CCPContextArea.qml" line="316"/>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Tempel</translation>
     </message>
     <message>
         <location filename="../../src/components/common/CCPContextArea.qml" line="313"/>
         <location filename="../../src/components/common/CCPContextArea.qml" line="316"/>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>Potong</translation>
     </message>
 </context>
 <context>
@@ -26,159 +26,159 @@
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="187"/>
         <source>Sun</source>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="188"/>
         <source>Mon</source>
-        <translation type="unfinished"/>
+        <translation>Sen</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="189"/>
         <source>Tue</source>
-        <translation type="unfinished"/>
+        <translation>Sel</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="190"/>
         <source>Wed</source>
-        <translation type="unfinished"/>
+        <translation>Rab</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="191"/>
         <source>Thu</source>
-        <translation type="unfinished"/>
+        <translation>Kam</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="192"/>
         <source>Fri</source>
-        <translation type="unfinished"/>
+        <translation>Jum</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="193"/>
         <source>Sat</source>
-        <translation type="unfinished"/>
+        <translation>Sab</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="195"/>
         <source>Jan</source>
-        <translation type="unfinished"/>
+        <translation>Jan</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="196"/>
         <source>Feb</source>
-        <translation type="unfinished"/>
+        <translation>Feb</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="197"/>
         <source>Mar</source>
-        <translation type="unfinished"/>
+        <translation>Mar</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="198"/>
         <source>Apr</source>
-        <translation type="unfinished"/>
+        <translation>Apr</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="199"/>
         <source>May</source>
         <comment>Short</comment>
-        <translation type="unfinished"/>
+        <translation>Mei</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="200"/>
         <source>Jun</source>
-        <translation type="unfinished"/>
+        <translation>Jun</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="201"/>
         <source>Jul</source>
-        <translation type="unfinished"/>
+        <translation>Jul</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="202"/>
         <source>Aug</source>
-        <translation type="unfinished"/>
+        <translation>Agu</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="203"/>
         <source>Sep</source>
-        <translation type="unfinished"/>
+        <translation>Sep</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="204"/>
         <source>Oct</source>
-        <translation type="unfinished"/>
+        <translation>Okt</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="205"/>
         <source>Nov</source>
-        <translation type="unfinished"/>
+        <translation>Nov</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="206"/>
         <source>Dec</source>
-        <translation type="unfinished"/>
+        <translation>Des</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="208"/>
         <source>January</source>
-        <translation type="unfinished"/>
+        <translation>Januari</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="209"/>
         <source>February</source>
-        <translation type="unfinished"/>
+        <translation>Februari</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="210"/>
         <source>March</source>
-        <translation type="unfinished"/>
+        <translation>Maret</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="211"/>
         <source>April</source>
-        <translation type="unfinished"/>
+        <translation>April</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="212"/>
         <source>May</source>
         <comment>Full</comment>
-        <translation type="unfinished"/>
+        <translation>Mei</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="213"/>
         <source>June</source>
-        <translation type="unfinished"/>
+        <translation>Juni</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="214"/>
         <source>July</source>
-        <translation type="unfinished"/>
+        <translation>Juli</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="215"/>
         <source>August</source>
-        <translation type="unfinished"/>
+        <translation>Agustus</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="216"/>
         <source>September</source>
-        <translation type="unfinished"/>
+        <translation>September</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="217"/>
         <source>October</source>
-        <translation type="unfinished"/>
+        <translation>Oktober</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="218"/>
         <source>November</source>
-        <translation type="unfinished"/>
+        <translation>November</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="219"/>
         <source>December</source>
-        <translation type="unfinished"/>
+        <translation>Desember</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="483"/>
@@ -213,7 +213,7 @@
         <location filename="../../src/components/datetime/DatePicker.qml" line="707"/>
         <source>%1 %2</source>
         <extracomment>1 is full month name, 2 is full numerical year. E.g. &quot;January 2011&quot;. Reorder as approriate to current language&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="813"/>
@@ -223,7 +223,7 @@
     <message>
         <location filename="../../src/components/datetime/DatePicker.qml" line="925"/>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>Hari ini</translation>
     </message>
 </context>
 <context>
@@ -232,13 +232,13 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="31"/>
         <source>Just now</source>
         <extracomment>Fuzzy date description</extracomment>
-        <translation type="unfinished"/>
+        <translation>Baru saja</translation>
     </message>
     <message numerus="yes">
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="34"/>
         <source>%n min(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n menit yang lalu</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="37"/>
@@ -262,19 +262,19 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="46"/>
         <source>%n hour(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n jam yang lalu</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="51"/>
         <source>M/d/yy</source>
         <extracomment>QDateTime format string: M is numeric month, d is num. day, yy is year; e.g. 1/31/11 translator: reorder / reformat, but make sure to use these ASCII M, d, and yy format codes</extracomment>
-        <translation type="unfinished"/>
+        <translation>d/M/yy</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="55"/>
         <source>%1 - %2</source>
         <extracomment>%1 is formatted date, %2 is fuzzy date description, e.g. 1/31/11 - Last week</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="59"/>
@@ -286,48 +286,48 @@
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="64"/>
         <source>Last week</source>
         <extracomment>Fuzzy date description</extracomment>
-        <translation type="unfinished"/>
+        <translation>Minggu lalu</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="67"/>
         <source>A couple of weeks ago</source>
         <extracomment>Fuzzy date description</extracomment>
-        <translation type="unfinished"/>
+        <translation>Beberapa minggu yang lalu</translation>
     </message>
     <message numerus="yes">
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="71"/>
         <source>%n week(s) ago</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n minggu yang lalu</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="74"/>
         <source>Last month</source>
         <extracomment>Fuzzy date description</extracomment>
-        <translation type="unfinished"/>
+        <translation>Bulan lalu</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="77"/>
         <source>A couple of months ago</source>
         <extracomment>Fuzzy date description</extracomment>
-        <translation type="unfinished"/>
+        <translation>Beberapa bulan yang lalu</translation>
     </message>
     <message numerus="yes">
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="84"/>
         <source>%n month(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n bulan yang lalu</numerusform></translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="87"/>
         <source>Last year</source>
         <extracomment>Fuzzy date description</extracomment>
-        <translation type="unfinished"/>
+        <translation>Tahun lalu</translation>
     </message>
     <message numerus="yes">
         <location filename="../../src/components/datetime/fuzzydatetime.cpp" line="91"/>
         <source>%n year(s) ago</source>
         <extracomment>Fuzzy date description - %n is a number</extracomment>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n tahun yang lalu</numerusform></translation>
     </message>
 </context>
 <context>
@@ -335,12 +335,12 @@
     <message>
         <location filename="../../src/components/common/ModalDialog.qml" line="151"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <location filename="../../src/components/common/ModalDialog.qml" line="152"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../src/components/common/ModalDialog.qml" line="334"/>
@@ -353,42 +353,42 @@
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="156"/>
         <source>Back...</source>
-        <translation type="unfinished"/>
+        <translation>Kembali...</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="206"/>
         <source>Pick a Song</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Lagu</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="206"/>
         <source>Pick a Playlist/Album</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Daftar Putar/Album</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="207"/>
         <source>Pick a Playlist</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Daftar Putar</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="207"/>
         <source>Pick an Album</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Album</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="356"/>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Kembali</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="376"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../src/components/media/MusicPicker.qml" line="394"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
 </context>
 <context>
@@ -396,12 +396,12 @@
     <message>
         <location filename="../../src/components/media/PhotoPicker.qml" line="118"/>
         <source>Pick an album</source>
-        <translation type="unfinished"/>
+        <translation>Pilih sebuah album</translation>
     </message>
     <message>
         <location filename="../../src/components/media/PhotoPicker.qml" line="118"/>
         <source>Pick a photo</source>
-        <translation type="unfinished"/>
+        <translation>Pilih sebuah foto</translation>
     </message>
 </context>
 <context>
@@ -410,7 +410,7 @@
         <location filename="../../src/components/common/ProgressBar.qml" line="103"/>
         <location filename="../../src/components/common/ProgressBar.qml" line="121"/>
         <source>%1%</source>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -418,18 +418,18 @@
     <message>
         <location filename="../../src/components/common/ScrollableMusicList.qml" line="84"/>
         <source>unknown artist</source>
-        <translation type="unfinished"/>
+        <translation>artis tak dikenal</translation>
     </message>
     <message>
         <location filename="../../src/components/common/ScrollableMusicList.qml" line="85"/>
         <source>unknown album</source>
-        <translation type="unfinished"/>
+        <translation>album tak dikenal</translation>
     </message>
     <message>
         <location filename="../../src/components/common/ScrollableMusicList.qml" line="189"/>
         <source>%1:%2</source>
         <comment>MinsSecs</comment>
-        <translation type="unfinished"/>
+        <translation>%1:%2</translation>
     </message>
 </context>
 <context>
@@ -439,7 +439,7 @@
         <source>%1: %2</source>
         <comment>SummaryBody</comment>
         <extracomment>%1 is notification summary, %2 is notification body</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -447,22 +447,22 @@
     <message>
         <location filename="../../src/components/datetime/TimePicker.qml" line="80"/>
         <source>Pick a time</source>
-        <translation type="unfinished"/>
+        <translation>Pilih waktu</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/TimePicker.qml" line="139"/>
         <source>%1:%2 %3</source>
-        <translation type="unfinished"/>
+        <translation>%1:%2 %3</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/TimePicker.qml" line="232"/>
         <source>AM</source>
-        <translation type="unfinished"/>
+        <translation>AM</translation>
     </message>
     <message>
         <location filename="../../src/components/datetime/TimePicker.qml" line="233"/>
         <source>PM</source>
-        <translation type="unfinished"/>
+        <translation>PM</translation>
     </message>
 </context>
 <context>
@@ -470,12 +470,12 @@
     <message>
         <location filename="../../src/components/common/ToggleButton.qml" line="124"/>
         <source>On</source>
-        <translation type="unfinished"/>
+        <translation>Nyala</translation>
     </message>
     <message>
         <location filename="../../src/components/common/ToggleButton.qml" line="151"/>
         <source>Off</source>
-        <translation type="unfinished"/>
+        <translation>Mati</translation>
     </message>
 </context>
 <context>
@@ -483,7 +483,7 @@
     <message>
         <location filename="../../src/components/media/VideoPicker.qml" line="171"/>
         <source>Pick a video</source>
-        <translation type="unfinished"/>
+        <translation>Pilih video</translation>
     </message>
 </context>
 <context>

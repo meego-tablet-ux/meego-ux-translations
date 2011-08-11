@@ -5,13 +5,13 @@
         <location filename="../../panelsrc/web/webpanel.qml" line="49"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="182"/>
         <source>Recently visited</source>
-        <translation type="unfinished"/>
+        <translation>Vizitate recent</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="50"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="280"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Semne de carte</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="110"/>
@@ -22,46 +22,46 @@
         <extracomment>%1 is &quot;Web&quot; panel title
 ----------
 %1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="116"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 setări</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="118"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 conținut panel</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="121"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="153"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="206"/>
         <source>Visit a website</source>
-        <translation type="unfinished"/>
+        <translation>Vizitează un site web</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="121"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Șterge înregistrările</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="147"/>
         <source>The latest websites you visit and your bookmarks will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Cele mai recent vizitate site-uri web și semnele dvs de carte vor apărea aici.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="202"/>
         <source>No recently visited websites.</source>
-        <translation type="unfinished"/>
+        <translation>Nu există pagini vizitate recent.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="220"/>
         <source>You have cleared the Web history</source>
-        <translation type="unfinished"/>
+        <translation>Ați șters înregistrările paginilor Web</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="234"/>
@@ -69,19 +69,19 @@
         <location filename="../../panelsrc/web/webpanel.qml" line="291"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="293"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Vizualizează</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="234"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="241"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Ascunde</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="291"/>
         <location filename="../../panelsrc/web/webpanel.qml" line="297"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Șterge</translation>
     </message>
 </context>
 </TS>

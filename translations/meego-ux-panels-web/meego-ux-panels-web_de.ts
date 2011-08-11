@@ -22,19 +22,19 @@
         <extracomment>%1 is &quot;Web&quot; panel title
 ----------
 %1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Web</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="116"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 Einstellungen</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="118"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Web&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 Panelinhalt</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="121"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="121"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Verlauf löschen</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="147"/>
@@ -61,7 +61,7 @@
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="220"/>
         <source>You have cleared the Web history</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben Ihren Webverlauf gelöscht.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="234"/>

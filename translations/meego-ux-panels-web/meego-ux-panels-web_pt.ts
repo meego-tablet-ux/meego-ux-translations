@@ -56,7 +56,7 @@
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="202"/>
         <source>No recently visited websites.</source>
-        <translation>Não existem páginas recentes.</translation>
+        <translation>Não existem páginas visitadas recentemente.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/web/webpanel.qml" line="220"/>

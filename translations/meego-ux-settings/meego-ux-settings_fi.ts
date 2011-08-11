@@ -559,12 +559,12 @@
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="8"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>Paneelit</translation>
     </message>
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="80"/>
         <source>You can&apos;t turn off this panel</source>
-        <translation type="unfinished"/>
+        <translation>Et voi kytkeä tätä paneelia pois käytöstä</translation>
     </message>
 </context>
 <context>
@@ -630,7 +630,7 @@
         <location filename="../../General/ScreensaverSettings.qml" line="74"/>
         <source>Screen Saver Timeout %n Minute(s)</source>
         <comment>time in minutes</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Näytönsäästäjän käynnistysviive %n minuutti</numerusform><numerusform>Näytönsäästäjän käynnistysviive %n minuuttia</numerusform></translation>
     </message>
 </context>
 <context>
@@ -651,7 +651,7 @@
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="101"/>
         <source>Application</source>
-        <translation type="unfinished"/>
+        <translation>Sovellus</translation>
     </message>
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="102"/>

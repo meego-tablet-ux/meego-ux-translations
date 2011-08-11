@@ -4,7 +4,7 @@
     <message>
         <location filename="../../src/sqldatastorage.cpp" line="96"/>
         <source>Everyday notes (default)</source>
-        <translation type="unfinished"/>
+        <translation>Catatan sehari-hari (bawaan)</translation>
     </message>
 </context>
 <context>
@@ -29,7 +29,7 @@
     <message>
         <location filename="../../FontSelector.qml" line="125"/>
         <source>Pick a font</source>
-        <translation type="unfinished"/>
+        <translation>Pilih fonta</translation>
     </message>
     <message>
         <location filename="../../FontSelector.qml" line="148"/>
@@ -65,7 +65,7 @@
     <message>
         <location filename="../../NoteButton.qml" line="112"/>
         <source>Text element</source>
-        <translation type="unfinished"/>
+        <translation>Elemen teks</translation>
     </message>
     <message>
         <location filename="../../NoteButton.qml" line="119"/>
@@ -108,7 +108,7 @@
     <message>
         <location filename="../../NoteDetail.qml" line="105"/>
         <source>Do you want to delete this note?</source>
-        <translation type="unfinished"/>
+        <translation>Anda ingin menghapus catatan ini?</translation>
     </message>
 </context>
 <context>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../../NotebookSelector.qml" line="108"/>
         <source>Pick a notebook</source>
-        <translation type="unfinished"/>
+        <translation>Pilih buku catatan</translation>
     </message>
 </context>
 <context>
@@ -129,33 +129,33 @@
     <message>
         <location filename="../../NotebooksView.qml" line="169"/>
         <source>Use the default notebook, or make a new one</source>
-        <translation type="unfinished"/>
+        <translation>Gunakan buku catatan bawaan, atau buat baru</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="170"/>
         <location filename="../../NotebooksView.qml" line="351"/>
         <source>Create a new notebook</source>
-        <translation type="unfinished"/>
+        <translation>Buat buku catatan baru</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="171"/>
         <source>What&apos;s a notebook?</source>
-        <translation type="unfinished"/>
+        <translation>Apakah buku catatan itu?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="172"/>
         <source>How do I create notes?</source>
-        <translation type="unfinished"/>
+        <translation>Bagaimana saya membuat catatan?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="173"/>
         <source>A notebook is a collection of notes. Use the default notebook we have created for you, or make a new one.</source>
-        <translation type="unfinished"/>
+        <translation>Buku catatan adalah kumpulan catatan. Gunakan buku catatan bawaan yang telah kami buat untuk Anda, atau buat baru.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="174"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Sentuh tombol &apos;Buat catatan pertama&apos;. Anda juga dapat menyentuh ikon pada pojok kanan atas layar, lalu pilih &apos;Catatan baru&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="202"/>
@@ -170,12 +170,12 @@
     <message>
         <location filename="../../NotebooksView.qml" line="208"/>
         <source>Alphabetical order</source>
-        <translation type="unfinished"/>
+        <translation>Urut alfabet</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="294"/>
         <source>Delete (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Hapus (%1)</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="302"/>
@@ -216,27 +216,27 @@
         <source>%1/%2</source>
         <comment>CharLeft</comment>
         <extracomment>%1 is current title length, %2 is max title length</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="388"/>
         <source>A Notebook &apos;%1&apos; already exists.</source>
-        <translation type="unfinished"/>
+        <translation>Buku catatan &apos;%1&apos; telah ada.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="400"/>
         <source>Delete notebooks?</source>
-        <translation type="unfinished"/>
+        <translation>Hapus beberapa buku catatan?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="400"/>
         <source>Delete notebook?</source>
-        <translation type="unfinished"/>
+        <translation>Hapus buku catatan?</translation>
     </message>
     <message numerus="yes">
         <location filename="../../NotebooksView.qml" line="409"/>
         <source>Are you sure you want to delete these %n notebook(s)?</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>Anda yakin ingin menghapus %n buku catatan ini?</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="411"/>
@@ -264,7 +264,7 @@
     <message numerus="yes">
         <location filename="../../NotebooksView.qml" line="449"/>
         <source>%n notebook(s) have been deleted</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n buku catatan telah dihapus</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="452"/>
@@ -276,33 +276,33 @@
     <message>
         <location filename="../../NotebooksView.qml" line="463"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Informasi</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="483"/>
         <source>Rename notebook</source>
-        <translation type="unfinished"/>
+        <translation>Ubah nama buku catatan</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="514"/>
         <source>A notebook &apos;%1&apos; already exists.</source>
         <extracomment>%1 is notebook title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Buku catatan &apos;%1&apos; telah ada.</translation>
     </message>
     <message numerus="yes">
         <location filename="../../NotebooksView.qml" line="555"/>
         <source>%n note(s)</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n catatan</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="561"/>
         <source>New notebook</source>
-        <translation type="unfinished"/>
+        <translation>Buku catatan baru</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="563"/>
         <source>Select multiple</source>
-        <translation type="unfinished"/>
+        <translation>Pilih beberapa</translation>
     </message>
 </context>
 <context>
@@ -310,32 +310,32 @@
     <message>
         <location filename="../../NotesView.qml" line="186"/>
         <source>This notebook is empty</source>
-        <translation type="unfinished"/>
+        <translation>Buku catatan ini kosong</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="187"/>
         <source>Create the first note</source>
-        <translation type="unfinished"/>
+        <translation>Buat catatan pertama</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="188"/>
         <source>How do I create notes?</source>
-        <translation type="unfinished"/>
+        <translation>Bagaimana saya membuat catatan?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="189"/>
         <source>Share your notes by email</source>
-        <translation type="unfinished"/>
+        <translation>Berbagi catatan Anda melalui surel</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="190"/>
         <source>Tap the &apos;Create the first note&apos; button. You can also tap the icon in the top right corner of the screen, then select &apos;New note&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Sentuh tombol &apos;Buat catatan pertama&apos;. Anda juga dapat menyentuh ikon pada pojok kanan atas layar, lalu memilih &apos;Catatan baru&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="191"/>
         <source>To send a note by email, tap and hold the note you want to send, then select &apos;Email&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Untuk mengirim catatan lewat surel, sentuh dan tahan catatan yang ingin Anda kirim, lalu pilih &apos;Surel&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="218"/>
@@ -350,12 +350,12 @@
     <message>
         <location filename="../../NotesView.qml" line="224"/>
         <source>Alphabetical order</source>
-        <translation type="unfinished"/>
+        <translation>Urut alfabet</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="405"/>
         <source>Delete (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Hapus (%1)</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="413"/>
@@ -394,7 +394,7 @@
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="497"/>
         <source>%n note(s) have successfully been moved to &quot;%2&quot;</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n catatan telah berhasil dipindah ke '%2'</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="500"/>
@@ -405,7 +405,7 @@
     <message>
         <location filename="../../NotesView.qml" line="520"/>
         <source>Create a new note</source>
-        <translation type="unfinished"/>
+        <translation>Buat catatan baru</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="521"/>
@@ -423,28 +423,28 @@
         <source>%1/%2</source>
         <comment>CharLeft</comment>
         <extracomment>%1 is current title length, %2 is max title length</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="559"/>
         <source>A Note &apos;%1&apos; already exists.</source>
         <extracomment>%1 is note title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Catatan &apos;%1&apos; telah ada.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="571"/>
         <source>Delete notes?</source>
-        <translation type="unfinished"/>
+        <translation>Hapus beberapa catatan?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="571"/>
         <source>Delete note?</source>
-        <translation type="unfinished"/>
+        <translation>Hapus catatan?</translation>
     </message>
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="580"/>
         <source>Are you sure you want to delete these %n note(s)?</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>Anda yakin ingin menghapus %n catatan ini?</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="582"/>
@@ -473,7 +473,7 @@
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="620"/>
         <source>%n note(s) have been deleted</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>%n catatan telah dihapus</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="622"/>
@@ -484,18 +484,18 @@
     <message>
         <location filename="../../NotesView.qml" line="633"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Informasi</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="653"/>
         <source>Rename note</source>
-        <translation type="unfinished"/>
+        <translation>Ubah nama catatan</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="684"/>
         <source>A note &apos;%1&apos; already exists.</source>
         <extracomment>%1 is note name</extracomment>
-        <translation type="unfinished"/>
+        <translation>Catatan &apos;%1&apos; telah ada.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="696"/>
@@ -505,12 +505,12 @@
     <message>
         <location filename="../../NotesView.qml" line="752"/>
         <source>New note</source>
-        <translation type="unfinished"/>
+        <translation>Catatan baru</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="754"/>
         <source>Select multiple</source>
-        <translation type="unfinished"/>
+        <translation>Pilih beberapa</translation>
     </message>
 </context>
 <context>

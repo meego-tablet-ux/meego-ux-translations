@@ -75,7 +75,7 @@ IDS_CONTENT_CONTEXT_PAUSE
 - description: In Title Case: The name of the Copy Image command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>이미지 복사</translation>
+        <translation>그림 복사</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -88,7 +88,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The show history menu in the app menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>내력</translation>
+        <translation>과거 기록</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -108,7 +108,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The name of the Open Link in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>새로운 탭에서 링크 열기</translation>
+        <translation>새 탭에서 링크 열기</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -118,7 +118,7 @@ IDS_SHOW_HISTORY
 - description: Title of the dialog to create application shortcuts for current page.
 - condition: not pp_ifdef('use_titlecase') or os != 'linux2'
 </extracomment>
-        <translation>응용 프로그램 바로가기 만들기</translation>
+        <translation>프로그램 바로가기 만들기</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -138,7 +138,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The name of the Open Video in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>새로운 탭에서 비디오 열기</translation>
+        <translation>새 탭에서 동영상 열기</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -148,7 +148,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: Default installation menu label
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>응용 프로그램 바로가기 만들기...</translation>
+        <translation>프로그램 바로가기 만들기...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -197,7 +197,7 @@ IDS_SHOW_HISTORY
 - description: The name of the Open Video in New Tab command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>새로운 탭에서 비디오 열기</translation>
+        <translation>새 탭에서 동영상 열기</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -230,7 +230,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: The name of the Copy Image Location command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>이미지 URL 복사</translation>
+        <translation> URL 복사</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -240,7 +240,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: title of the dialog to create application shortcuts for current page.
 - condition: pp_ifdef('use_titlecase') and os == 'linux2'
 </extracomment>
-        <translation>응용 프로그램 바로가기 만들기</translation>
+        <translation>프로그램 바로가기 만들기</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -250,7 +250,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The name of the Open Image in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>새로운 탭에서 이미지 열기</translation>
+        <translation>새 탭에서 그림 열기</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -260,7 +260,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The text label for the menu item for clearing of browsing data
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>데이터 찾아보기 지우기...</translation>
+        <translation>개인 데이터 지우기...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -270,7 +270,7 @@ IDS_CONTENT_CONTEXT_CONTROLS
 - description: In Title Case: The name of the Save Audio As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>오디오를 다른 이름으로 저장...</translation>
+        <translation>다른 이름으로 소리 저장...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -313,7 +313,7 @@ IDS_CONTENT_CONTEXT_BACK
 - description: In Title Case: The name of the Copy Audio Location command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>오디오 URL 복사</translation>
+        <translation>소리 URL 복사</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -332,7 +332,7 @@ IDS_CONTENT_CONTEXT_BACK
 - description: Default installation menu label
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>응용 프로그램 바로가기 만들기...</translation>
+        <translation>프로그램 바로가기 만들기...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -365,7 +365,7 @@ IDS_SHOW_DOWNLOADS
 - description: The name of the Save Video As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>비디오를 다른 이름으로 저장...</translation>
+        <translation>다른 이름으로 동영상 저장...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -401,7 +401,7 @@ IDS_SELECT_ALL
 - description: The name of the Open Audio in New Tab command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>새로운 탭에서 오디오 열기</translation>
+        <translation>새 탭에서 오디오 열기</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -411,7 +411,7 @@ IDS_SELECT_ALL
 - description: The text label of the New Tab menu item
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>새로운 탭</translation>
+        <translation>새 탭</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -431,7 +431,7 @@ IDS_SELECT_ALL
 - description: The text label for the menu item for clearing of browsing data
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>데이터 찾아보기 지우기...</translation>
+        <translation>개인 데이터 지우기...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -444,7 +444,7 @@ IDS_CONTENT_CONTEXT_RELOAD
 - description: In Title Case: The name of the Reload command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>다시 로딩</translation>
+        <translation>새로 고침</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -467,7 +467,7 @@ IDS_CONTENT_CONTEXT_MUTE
 - description: The name of the Copy Video Location command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>비디오 URL 복사</translation>
+        <translation>동영상 URL 복사</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -510,7 +510,7 @@ IDS_CONTENT_CONTEXT_GOTOURL
 - description: In Title Case: The name of the Save Video As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>비디오를 다른 이름으로 저장...</translation>
+        <translation>다른 이름으로 동영상 저장...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -546,7 +546,7 @@ IDS_CONTENT_CONTEXT_REDO
 - description: The name of the Copy Image command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>이미지 복사</translation>
+        <translation>그림 복사</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -556,7 +556,7 @@ IDS_CONTENT_CONTEXT_REDO
 - description: In Title Case: The name of the Open Audio in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>새로운 탭에서 오디오 열기</translation>
+        <translation>새 탭으로 오디오 열기</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -569,7 +569,7 @@ IDS_SHOW_EXTENSIONS
 - description: In Title Case: The show extensions menu in the app menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>확장명</translation>
+        <translation>확장자</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -624,7 +624,7 @@ IDS_CONTENT_CONTEXT_LOOP
 - description: In Title Case: The name of the Loop command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>루프</translation>
+        <translation type="unfinished"/>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -637,7 +637,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: In Title Case: The name of the Forward command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>전달</translation>
+        <translation>앞으로</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -647,7 +647,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: The name of the Save Audio As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>오디오를 다른 이름으로 저장...</translation>
+        <translation>다른 이름으로 소리 저장...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -657,7 +657,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: In Title Case: The text label of the New Tab menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>새로운 탭</translation>
+        <translation>새 탭</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -697,7 +697,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: The name of the Save Link As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>링크를 다른 이름으로 저장...</translation>
+        <translation>다른 이름으로 링크 저장...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -727,7 +727,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: The name of the Open Image in New Tab command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>새로운 탭에서 이미지 열기</translation>
+        <translation>새로운 탭에서  열기</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -740,7 +740,7 @@ IDS_CONTENT_CONTEXT_SEARCHWEBFOR
 - description: In Title Case: The name of the Search the Web for 'string' command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>&apos;$2&apos;를(을) 위해 $1을(를) 검색</translation>
+        <translation>&apos;$2&apos;에서 $1 검색</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -772,7 +772,7 @@ IDS_SETTINGS
 - description: The name of the Open Link in New Tab command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>새로운 탭에서 링크 열기</translation>
+        <translation>새 탭에서 링크 열기</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -782,7 +782,7 @@ IDS_SETTINGS
 - description: The name of the Save Image As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>이미지를 다른 이름으로 저장...</translation>
+        <translation>다른 이름으로 그림 저장...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -792,7 +792,7 @@ IDS_SETTINGS
 - description: In Title Case: The name of the Copy Video Location command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>비디오 URL 복사</translation>
+        <translation> URL 복사</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -812,7 +812,7 @@ IDS_SETTINGS
 - description: The name of the Copy Audio Location command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>오디오 URL 복사</translation>
+        <translation> URL 복사</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -837,7 +837,7 @@ IDS_BOOKMARK_MANAGER_TITLE
 - description: In Title Case: The name of the Save Image As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>이미지를 다른 이름으로 저장...</translation>
+        <translation>다른 이름으로 그림 저장...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -889,7 +889,7 @@ IDS_FIND
 - description: In Title Case: The name of the Copy Image Location command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>이미지 URL 복사</translation>
+        <translation>그림 URL 복사</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -899,7 +899,7 @@ IDS_FIND
 - description: In Title Case: The name of the Save Link As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation>링크를 다른 이름으로 저장...</translation>
+        <translation>다른 이름으로 링크 저장...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -962,7 +962,7 @@ IDS_FIND
         <extracomment>IDS_SESSION_CRASHED_VIEW_MESSAGE
 - description: Message shown when the last session didn't exit cleanly.
 </extracomment>
-        <translation>MeeGo 브라우저가 제대로 종료되지 않았습니다. 열었던 페이지를 다시 열려면 복구를 클릭하십시오.  </translation>
+        <translation>MeeGo 브라우저가 제대로 종료되지 않았습니다. 열었던 페이지를 다시 열려면 복구를 누르십십시오.  </translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>

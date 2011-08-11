@@ -4,17 +4,17 @@
     <message>
         <location filename="../../AlarmSettings.qml" line="65"/>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Izena:</translation>
     </message>
     <message>
         <location filename="../../AlarmSettings.qml" line="74"/>
         <source>Alarm time:</source>
-        <translation type="unfinished"/>
+        <translation>Alarmaren ordua:</translation>
     </message>
     <message>
         <location filename="../../AlarmSettings.qml" line="134"/>
         <source>Days:</source>
-        <translation type="unfinished"/>
+        <translation>Egunak:</translation>
     </message>
     <message>
         <location filename="../../AlarmSettings.qml" line="166"/>
@@ -24,47 +24,47 @@
     <message>
         <location filename="../../AlarmSettings.qml" line="171"/>
         <source>Never</source>
-        <translation type="unfinished"/>
+        <translation>Inoiz ez</translation>
     </message>
     <message>
         <location filename="../../AlarmSettings.qml" line="172"/>
         <source>Every 5 mins</source>
-        <translation type="unfinished"/>
+        <translation>5 minuturo</translation>
     </message>
     <message>
         <location filename="../../AlarmSettings.qml" line="173"/>
         <source>Every 10 mins</source>
-        <translation type="unfinished"/>
+        <translation>10 minuturo</translation>
     </message>
     <message>
         <location filename="../../AlarmSettings.qml" line="174"/>
         <source>Every 15 mins</source>
-        <translation type="unfinished"/>
+        <translation>15 minuturo</translation>
     </message>
     <message>
         <location filename="../../AlarmSettings.qml" line="188"/>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Mota:</translation>
     </message>
     <message>
         <location filename="../../AlarmSettings.qml" line="193"/>
         <source>Sound effect</source>
-        <translation type="unfinished"/>
+        <translation>Soinu efektua</translation>
     </message>
     <message>
         <location filename="../../AlarmSettings.qml" line="193"/>
         <source>Music track</source>
-        <translation type="unfinished"/>
+        <translation>Musika pista</translation>
     </message>
     <message>
         <location filename="../../AlarmSettings.qml" line="200"/>
         <source>Sound effect:</source>
-        <translation type="unfinished"/>
+        <translation>Soinu efektua:</translation>
     </message>
     <message>
         <location filename="../../AlarmSettings.qml" line="224"/>
         <source>Music track:</source>
-        <translation type="unfinished"/>
+        <translation>Musika pista:</translation>
     </message>
 </context>
 <context>
@@ -72,17 +72,17 @@
     <message>
         <location filename="../../AlarmTile.qml" line="157"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Gorde</translation>
     </message>
     <message>
         <location filename="../../AlarmTile.qml" line="177"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Utzi</translation>
     </message>
     <message>
         <location filename="../../AlarmTile.qml" line="187"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu</translation>
     </message>
 </context>
 <context>
@@ -90,33 +90,33 @@
     <message>
         <location filename="../../AlarmsPage.qml" line="21"/>
         <source>Alarms</source>
-        <translation type="unfinished"/>
+        <translation>Alarmak</translation>
     </message>
     <message>
         <location filename="../../AlarmsPage.qml" line="23"/>
         <source>New alarm</source>
-        <translation type="unfinished"/>
+        <translation>Alarma berria</translation>
     </message>
     <message>
         <location filename="../../AlarmsPage.qml" line="155"/>
         <source>Add new alarm</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu alarma berria</translation>
     </message>
     <message>
         <location filename="../../AlarmsPage.qml" line="156"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Gorde</translation>
     </message>
     <message>
         <location filename="../../AlarmsPage.qml" line="157"/>
         <location filename="../../AlarmsPage.qml" line="192"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Utzi</translation>
     </message>
     <message>
         <location filename="../../AlarmsPage.qml" line="189"/>
         <source>Delete alarm</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu alarma</translation>
     </message>
     <message>
         <location filename="../../AlarmsPage.qml" line="190"/>
@@ -126,7 +126,7 @@
     <message>
         <location filename="../../AlarmsPage.qml" line="191"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu</translation>
     </message>
 </context>
 <context>
@@ -139,17 +139,17 @@
     <message>
         <location filename="../../ClockTile.qml" line="166"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Gorde</translation>
     </message>
     <message>
         <location filename="../../ClockTile.qml" line="177"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Utzi</translation>
     </message>
     <message>
         <location filename="../../ClockTile.qml" line="187"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu</translation>
     </message>
 </context>
 <context>
@@ -157,29 +157,29 @@
     <message>
         <location filename="../../ClocksPage.qml" line="18"/>
         <source>Clocks</source>
-        <translation type="unfinished"/>
+        <translation>Erlojuak</translation>
     </message>
     <message>
         <location filename="../../ClocksPage.qml" line="19"/>
         <source>New clock</source>
-        <translation type="unfinished"/>
+        <translation>Erloju berria</translation>
     </message>
     <message>
         <location filename="../../ClocksPage.qml" line="111"/>
         <source>Add new clock</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu erloju berria</translation>
     </message>
     <message>
         <location filename="../../ClocksPage.qml" line="112"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Gorde</translation>
     </message>
     <message>
         <location filename="../../ClocksPage.qml" line="113"/>
         <location filename="../../ClocksPage.qml" line="161"/>
         <location filename="../../ClocksPage.qml" line="175"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Utzi</translation>
     </message>
     <message>
         <location filename="../../ClocksPage.qml" line="122"/>
@@ -189,7 +189,7 @@
     <message>
         <location filename="../../ClocksPage.qml" line="158"/>
         <source>Delete clock</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu erlojua</translation>
     </message>
     <message>
         <location filename="../../ClocksPage.qml" line="159"/>
@@ -199,12 +199,12 @@
     <message>
         <location filename="../../ClocksPage.qml" line="160"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <location filename="../../ClocksPage.qml" line="172"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Errorea</translation>
     </message>
     <message>
         <location filename="../../ClocksPage.qml" line="173"/>
@@ -219,7 +219,7 @@
         <source>%1 %2</source>
         <comment>TimeWeekday</comment>
         <extracomment>%1 is formatted time, %2 is weekday</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -227,42 +227,42 @@
     <message>
         <location filename="../../functions.js" line="1"/>
         <source>Monday</source>
-        <translation type="unfinished"/>
+        <translation>Astelehena</translation>
     </message>
     <message>
         <location filename="../../functions.js" line="2"/>
         <source>Tuesday</source>
-        <translation type="unfinished"/>
+        <translation>Asteartea</translation>
     </message>
     <message>
         <location filename="../../functions.js" line="3"/>
         <source>Wednesday</source>
-        <translation type="unfinished"/>
+        <translation>Asteazkena</translation>
     </message>
     <message>
         <location filename="../../functions.js" line="4"/>
         <source>Thursday</source>
-        <translation type="unfinished"/>
+        <translation>Osteguna</translation>
     </message>
     <message>
         <location filename="../../functions.js" line="5"/>
         <source>Friday</source>
-        <translation type="unfinished"/>
+        <translation>Ostirala</translation>
     </message>
     <message>
         <location filename="../../functions.js" line="6"/>
         <source>Saturday</source>
-        <translation type="unfinished"/>
+        <translation>Larunbata</translation>
     </message>
     <message>
         <location filename="../../functions.js" line="7"/>
         <source>Sunday</source>
-        <translation type="unfinished"/>
+        <translation>Igandea</translation>
     </message>
     <message>
         <location filename="../../functions.js" line="9"/>
         <source>Mon</source>
-        <translation type="unfinished"/>
+        <translation>Al</translation>
     </message>
     <message>
         <location filename="../../functions.js" line="10"/>
@@ -297,17 +297,17 @@
     <message>
         <location filename="../../functions.js" line="30"/>
         <source>Every Day</source>
-        <translation type="unfinished"/>
+        <translation>Egunero</translation>
     </message>
     <message>
         <location filename="../../functions.js" line="32"/>
         <source>Weekdays</source>
-        <translation type="unfinished"/>
+        <translation>Astebarrua</translation>
     </message>
     <message>
         <location filename="../../functions.js" line="34"/>
         <source>Weekends</source>
-        <translation type="unfinished"/>
+        <translation>Astebukaerak</translation>
     </message>
 </context>
 <context>
@@ -335,13 +335,13 @@
         <location filename="../../strings.js" line="11"/>
         <source>You have no alarms</source>
         <comment>alarms page, no content</comment>
-        <translation type="unfinished"/>
+        <translation>Ez duzu alarmarik</translation>
     </message>
     <message>
         <location filename="../../strings.js" line="12"/>
         <source>Create a new alarm</source>
         <comment>alarms page, no content</comment>
-        <translation type="unfinished"/>
+        <translation>Sortu alarma berria</translation>
     </message>
     <message>
         <location filename="../../strings.js" line="13"/>
@@ -437,37 +437,37 @@
         <location filename="../../strings.js" line="29"/>
         <source>Seconds</source>
         <comment>timer settings</comment>
-        <translation type="unfinished"/>
+        <translation>Segundu</translation>
     </message>
     <message>
         <location filename="../../strings.js" line="30"/>
         <source>Start</source>
         <comment>timer button</comment>
-        <translation type="unfinished"/>
+        <translation>Hasi</translation>
     </message>
     <message>
         <location filename="../../strings.js" line="31"/>
         <source>Pause</source>
         <comment>timer button</comment>
-        <translation type="unfinished"/>
+        <translation>Pausatu</translation>
     </message>
     <message>
         <location filename="../../strings.js" line="32"/>
         <source>min</source>
         <comment>timer display (min=minutes)</comment>
-        <translation type="unfinished"/>
+        <translation>min</translation>
     </message>
     <message>
         <location filename="../../strings.js" line="33"/>
         <source>remaining</source>
         <comment>timer display</comment>
-        <translation type="unfinished"/>
+        <translation>gelditzen dira</translation>
     </message>
     <message>
         <location filename="../../strings.js" line="34"/>
         <source>Cancel</source>
         <comment>timer button</comment>
-        <translation type="unfinished"/>
+        <translation>Utzi</translation>
     </message>
     <message>
         <location filename="../../strings.js" line="36"/>
@@ -485,25 +485,25 @@
         <location filename="../../strings.js" line="38"/>
         <source>min</source>
         <comment>stopwatch display (min=minutes)</comment>
-        <translation type="unfinished"/>
+        <translation>min</translation>
     </message>
     <message>
         <location filename="../../strings.js" line="39"/>
         <source>sec</source>
         <comment>stopwatch display (sec=seconds)</comment>
-        <translation type="unfinished"/>
+        <translation>seg</translation>
     </message>
     <message>
         <location filename="../../strings.js" line="40"/>
         <source>ms</source>
         <comment>stopwatch display (ms=milliseconds)</comment>
-        <translation type="unfinished"/>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="../../strings.js" line="41"/>
         <source>Start</source>
         <comment>stopwatch button</comment>
-        <translation type="unfinished"/>
+        <translation>Hasi</translation>
     </message>
     <message>
         <location filename="../../strings.js" line="42"/>

@@ -4,7 +4,7 @@
     <message>
         <location filename="../../src/sqldatastorage.cpp" line="96"/>
         <source>Everyday notes (default)</source>
-        <translation type="unfinished"/>
+        <translation>Notas diárias (padrão)</translation>
     </message>
 </context>
 <context>
@@ -47,7 +47,7 @@
     <message>
         <location filename="../../FontSizeSelector.qml" line="48"/>
         <source>Pick font size</source>
-        <translation>Selecionar o tamanho da fonte</translation>
+        <translation>Selecione o tamanho da fonte</translation>
     </message>
     <message>
         <location filename="../../FontSizeSelector.qml" line="144"/>
@@ -65,7 +65,7 @@
     <message>
         <location filename="../../NoteButton.qml" line="112"/>
         <source>Text element</source>
-        <translation type="unfinished"/>
+        <translation>Elemento de texto</translation>
     </message>
     <message>
         <location filename="../../NoteButton.qml" line="119"/>
@@ -108,7 +108,7 @@
     <message>
         <location filename="../../NoteDetail.qml" line="105"/>
         <source>Do you want to delete this note?</source>
-        <translation type="unfinished"/>
+        <translation>Deseja apagar esta nota?</translation>
     </message>
 </context>
 <context>
@@ -170,12 +170,12 @@
     <message>
         <location filename="../../NotebooksView.qml" line="208"/>
         <source>Alphabetical order</source>
-        <translation type="unfinished"/>
+        <translation>Ordem alfabética</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="294"/>
         <source>Delete (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Apagar (%1)</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="302"/>
@@ -208,7 +208,7 @@
     <message>
         <location filename="../../NotebooksView.qml" line="363"/>
         <source>Notebook name</source>
-        <translation>Nome do catálogo de notas</translation>
+        <translation>Nome do livro de notas</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="374"/>
@@ -216,27 +216,27 @@
         <source>%1/%2</source>
         <comment>CharLeft</comment>
         <extracomment>%1 is current title length, %2 is max title length</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="388"/>
         <source>A Notebook &apos;%1&apos; already exists.</source>
-        <translation type="unfinished"/>
+        <translation>Já existe um Livro de notas chamado &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="400"/>
         <source>Delete notebooks?</source>
-        <translation type="unfinished"/>
+        <translation>Apagar catálogo de notas?</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="400"/>
         <source>Delete notebook?</source>
-        <translation type="unfinished"/>
+        <translation>Apagar catálogo de notas?</translation>
     </message>
     <message numerus="yes">
         <location filename="../../NotebooksView.qml" line="409"/>
         <source>Are you sure you want to delete these %n notebook(s)?</source>
-        <translation><numerusform>Tem certeza que quer excluir %n notebook selecionado?</numerusform><numerusform>Tem certeza que quer excluir esses %n notebooks?</numerusform></translation>
+        <translation><numerusform>Tem certeza que deseja excluir o %n catálogo de nota selecionado?</numerusform><numerusform>Tem certeza que quer excluir esses %n notebooks?</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="411"/>
@@ -254,12 +254,12 @@
     <message>
         <location filename="../../NotebooksView.qml" line="440"/>
         <source>Notebooks deleted</source>
-        <translation>Catálogo de notas apagados</translation>
+        <translation>Livros de nota apagados</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="440"/>
         <source>Notebook deleted</source>
-        <translation>Catálogo de notas apagados</translation>
+        <translation>Livro de notas apagado</translation>
     </message>
     <message numerus="yes">
         <location filename="../../NotebooksView.qml" line="449"/>
@@ -276,18 +276,18 @@
     <message>
         <location filename="../../NotebooksView.qml" line="463"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Informação</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="483"/>
         <source>Rename notebook</source>
-        <translation type="unfinished"/>
+        <translation>Renomear livro de notas</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="514"/>
         <source>A notebook &apos;%1&apos; already exists.</source>
         <extracomment>%1 is notebook title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Já existe um livro de notas chamado &apos;%1&apos;.</translation>
     </message>
     <message numerus="yes">
         <location filename="../../NotebooksView.qml" line="555"/>
@@ -297,12 +297,12 @@
     <message>
         <location filename="../../NotebooksView.qml" line="561"/>
         <source>New notebook</source>
-        <translation type="unfinished"/>
+        <translation>Novo livro de notas</translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="563"/>
         <source>Select multiple</source>
-        <translation type="unfinished"/>
+        <translation>Selecionar vários</translation>
     </message>
 </context>
 <context>
@@ -350,12 +350,12 @@
     <message>
         <location filename="../../NotesView.qml" line="224"/>
         <source>Alphabetical order</source>
-        <translation type="unfinished"/>
+        <translation>Ordem alfabética</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="405"/>
         <source>Delete (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Apagar (%1)</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="413"/>
@@ -394,7 +394,7 @@
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="497"/>
         <source>%n note(s) have successfully been moved to &quot;%2&quot;</source>
-        <translation><numerusform>%n nota foi movido com êxito para &amp;quot;%2&amp;quot;</numerusform><numerusform>%n notas foram movidos com êxito para &amp;quot;%2&amp;quot;</numerusform></translation>
+        <translation><numerusform>%n nota foi movido com êxito para &quot;%2&quot;</numerusform><numerusform>%n notas foram movidas com êxito para &quot;%2&quot;</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="500"/>
@@ -405,7 +405,7 @@
     <message>
         <location filename="../../NotesView.qml" line="520"/>
         <source>Create a new note</source>
-        <translation type="unfinished"/>
+        <translation>Criar uma nova nota</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="521"/>
@@ -423,28 +423,28 @@
         <source>%1/%2</source>
         <comment>CharLeft</comment>
         <extracomment>%1 is current title length, %2 is max title length</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1/%2</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="559"/>
         <source>A Note &apos;%1&apos; already exists.</source>
         <extracomment>%1 is note title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Já existe uma nota chamada &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="571"/>
         <source>Delete notes?</source>
-        <translation type="unfinished"/>
+        <translation>Apagar notas?</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="571"/>
         <source>Delete note?</source>
-        <translation type="unfinished"/>
+        <translation>Apagar nota?</translation>
     </message>
     <message numerus="yes">
         <location filename="../../NotesView.qml" line="580"/>
         <source>Are you sure you want to delete these %n note(s)?</source>
-        <translation><numerusform>Tem certeza que quer excluir essa %n nota?</numerusform><numerusform>Tem certeza que quer excluir essas %n notas?</numerusform></translation>
+        <translation><numerusform>Tem certeza que quer excluir essa nota?</numerusform><numerusform>Tem certeza que quer excluir essas %n notas?</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="582"/>
@@ -484,18 +484,18 @@
     <message>
         <location filename="../../NotesView.qml" line="633"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Informação</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="653"/>
         <source>Rename note</source>
-        <translation type="unfinished"/>
+        <translation>Renomear nota</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="684"/>
         <source>A note &apos;%1&apos; already exists.</source>
         <extracomment>%1 is note name</extracomment>
-        <translation type="unfinished"/>
+        <translation>Já existe uma nota chamada &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="696"/>
@@ -505,12 +505,12 @@
     <message>
         <location filename="../../NotesView.qml" line="752"/>
         <source>New note</source>
-        <translation type="unfinished"/>
+        <translation>Nova nota</translation>
     </message>
     <message>
         <location filename="../../NotesView.qml" line="754"/>
         <source>Select multiple</source>
-        <translation type="unfinished"/>
+        <translation>Selecionar várias</translation>
     </message>
 </context>
 <context>

@@ -32,13 +32,13 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="130"/>
         <source>Receiving settings</source>
-        <translation>설정값 수신 중</translation>
+        <translation>설정 받아오는 중</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="131"/>
         <location filename="../../settings/AccountExpandobox.qml" line="174"/>
         <source>You may need to contact your email provider for these settings.</source>
-        <translation>이 설정값 정보는 이메일 제공자에게 문의하십시오.</translation>
+        <translation>설정 정보에 대해서 메일 서비스 제공자에게 문의하십시오.</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="135"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="173"/>
         <source>Sending settings</source>
-        <translation>설정값 전송 중</translation>
+        <translation>설정 전송 중</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="190"/>
@@ -135,7 +135,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="61"/>
         <source>General Settings</source>
-        <translation>일반 설정값</translation>
+        <translation>일반 설정</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="73"/>
@@ -163,17 +163,17 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="169"/>
         <source>Notifications</source>
-        <translation>통보</translation>
+        <translation>알림</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="187"/>
         <source>New email notifications</source>
-        <translation>새로운 이메일 통보</translation>
+        <translation>새 메일 알림</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="192"/>
         <source>Ask before deleting email</source>
-        <translation>이메일을 삭제하기 전에 묻기</translation>
+        <translation>메일 삭제하기 전에 묻기</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="214"/>
@@ -213,7 +213,7 @@
     <message>
         <location filename="../../settings/AccountSettings.qml" line="251"/>
         <source>Changes saved</source>
-        <translation>변경 내용이 저장되었습니다.</translation>
+        <translation>변경 내용 저장됨</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="252"/>
@@ -282,7 +282,7 @@
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="32"/>
         <source>Account set up successfully!</source>
-        <translation>계정이 성공적으로 설정되었습니다.</translation>
+        <translation>계정이 설정되었습니다!</translation>
     </message>
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="45"/>
@@ -297,7 +297,7 @@
     <message>
         <location filename="../../settings/ConfirmScreen.qml" line="76"/>
         <source>Set up another account?</source>
-        <translation>다른 계정을 또 설정하시겠습니까?</translation>
+        <translation>다른 계정을 설정하시겠습니까?</translation>
     </message>
 </context>
 <context>
@@ -325,7 +325,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="59"/>
         <source>Receiving:</source>
-        <translation>수신:</translation>
+        <translation>받기:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="63"/>
@@ -359,12 +359,12 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="86"/>
         <source>Sending:</source>
-        <translation>발송:</translation>
+        <translation>보내기:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="98"/>
         <source>Authentication: %1</source>
-        <translation>인증 %1</translation>
+        <translation>인증: %1</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="114"/>
@@ -379,7 +379,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="155"/>
         <source>Please fill in account details:</source>
-        <translation>계정 정보를 입력하십시오.</translation>
+        <translation>계정 정보를 입력하십시오:</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="167"/>
@@ -424,7 +424,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="194"/>
         <source>Sorry, we can&apos;t automatically set up your account. Please fill in account details:</source>
-        <translation>계정을 자동 설정할 수 없습니다. 계정 정보를 입력하십시오.</translation>
+        <translation>계정을 자동으로 설정할 수 없습니다. 직접 계정 정보를 입력하십시오:</translation>
     </message>
 </context>
 <context>
@@ -465,7 +465,7 @@
     <message>
         <location filename="../../EmailHeader.qml" line="213"/>
         <source>Enter subject here</source>
-        <translation>여기에 주제를 입력하십시오.</translation>
+        <translation>제목을 입력하십시오</translation>
     </message>
     <message>
         <location filename="../../EmailHeader.qml" line="248"/>
@@ -488,7 +488,7 @@
     <message>
         <location filename="../../settings/EmailSettings.qml" line="18"/>
         <source>Email Settings</source>
-        <translation>이메일 설정값</translation>
+        <translation>메일 설정</translation>
     </message>
 </context>
 <context>
@@ -608,22 +608,22 @@
     <message>
         <location filename="../../FolderListView.qml" line="274"/>
         <source>Getting more messages</source>
-        <translation>메시지 더 보기</translation>
+        <translation>메시지 가져오는 </translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="276"/>
         <source>Get more messages</source>
-        <translation>메시지 더 보기</translation>
+        <translation>메시지 더 가져오기</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="504"/>
         <source>Reply</source>
-        <translation>회신</translation>
+        <translation>답장</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="504"/>
         <source>Reply to all</source>
-        <translation>모두 회신</translation>
+        <translation>모두 답장</translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="504"/>
@@ -638,12 +638,12 @@
     <message>
         <location filename="../../FolderListView.qml" line="505"/>
         <source>Mark as unread</source>
-        <translation>읽지 않음으로 표시</translation>
+        <translation>읽지 않은 것으로 </translation>
     </message>
     <message>
         <location filename="../../FolderListView.qml" line="505"/>
         <source>Mark as read</source>
-        <translation>읽음으로 표시</translation>
+        <translation>읽은 것으로 표시</translation>
     </message>
 </context>
 <context>
@@ -679,7 +679,7 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="44"/>
         <source>Receiving settings</source>
-        <translation>설정값 수신 중</translation>
+        <translation>설정 받는 </translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="45"/>
@@ -725,7 +725,7 @@
     <message>
         <location filename="../../settings/ManualScreen.qml" line="91"/>
         <source>Sending settings</source>
-        <translation>설정값 전송 중</translation>
+        <translation>설정 전송 중</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="111"/>
@@ -747,7 +747,7 @@
         <location filename="../../settings/ManualScreen.qml" line="193"/>
         <location filename="../../settings/ManualScreen.qml" line="199"/>
         <source>This field is required</source>
-        <translation>이 필드는 필수입니다.</translation>
+        <translation>값을 반드시 입력하십시오</translation>
     </message>
     <message>
         <location filename="../../settings/ManualScreen.qml" line="218"/>
@@ -878,7 +878,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="251"/>
         <source>Subject:</source>
-        <translation>주제:</translation>
+        <translation>제목:</translation>
     </message>
 </context>
 <context>

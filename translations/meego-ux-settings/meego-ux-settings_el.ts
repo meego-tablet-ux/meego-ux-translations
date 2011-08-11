@@ -111,7 +111,7 @@
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="111"/>
         <source>Discoverable (%1)</source>
         <extracomment>this is not currently user visible:</extracomment>
-        <translation type="unfinished"/>
+        <translation>Ανιχνεύσιμο (%1)</translation>
     </message>
     <message numerus="yes">
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="124"/>
@@ -559,12 +559,12 @@
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="8"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>Panels</translation>
     </message>
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="80"/>
         <source>You can&apos;t turn off this panel</source>
-        <translation type="unfinished"/>
+        <translation>Δεν μπορείτε να απενεργοποιήσετε αυτό το panel</translation>
     </message>
 </context>
 <context>
@@ -651,7 +651,7 @@
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="101"/>
         <source>Application</source>
-        <translation type="unfinished"/>
+        <translation>Εφαρμογή</translation>
     </message>
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="102"/>

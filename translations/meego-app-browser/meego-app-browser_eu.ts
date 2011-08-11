@@ -7,7 +7,7 @@
         <extracomment>IDS_APP_UNDO
 - description: The text label of the Undo menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Desegin</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -16,7 +16,7 @@
         <extracomment>IDS_APP_PASTE
 - description: The text label of the Paste menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Itsatsi</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -25,7 +25,7 @@
         <extracomment>IDS_APP_SELECT_ALL
 - description: The text label of the Select All menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Hautatu dena</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -34,7 +34,7 @@
         <extracomment>IDS_APP_COPY
 - description: The text label of the Copy menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Kopiatu</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -43,7 +43,7 @@
         <extracomment>IDS_APP_CUT
 - description: The text label of the Cut menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Ebaki</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -52,7 +52,7 @@
         <extracomment>IDS_APP_DELETE
 - description: The text label of the Delete menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Ezabatu</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -65,7 +65,7 @@ IDS_CONTENT_CONTEXT_PAUSE
 - description: In Title Case: The name of the Pause command for audio and video playback in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Pausatu</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -75,7 +75,7 @@ IDS_CONTENT_CONTEXT_PAUSE
 - description: In Title Case: The name of the Copy Image command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Kopiatu Irudia</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -88,7 +88,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The show history menu in the app menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Historia</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -98,7 +98,7 @@ IDS_SHOW_HISTORY
 - description: The text label of the Paste And Go menu item when the clipboard contains a URL
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Itsatsi eta joan</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -108,7 +108,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The name of the Open Link in New Tab command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Ireki lotura Fitxa Berrian</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -128,7 +128,7 @@ IDS_SHOW_HISTORY
 - description: The name of the Save Page As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Gorde honela...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -187,7 +187,7 @@ IDS_SHOW_HISTORY
 - description: In Title Case: The text label of the Paste And Go menu item when the clipboard contains a URL
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Itsatsi eta Joan</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -283,7 +283,7 @@ IDS_CONTENT_CONTEXT_BACK
 - description: In Title Case: The name of the Back command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Atzera</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -293,7 +293,7 @@ IDS_CONTENT_CONTEXT_BACK
 - description: In Title Case: The text label of the Paste And Go menu item when the clipboard contains a string to search for
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Itsatsi eta Bilatu</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -322,7 +322,7 @@ IDS_CONTENT_CONTEXT_BACK
         <extracomment>IDS_CERT_INFO_DETAILS_TAB_LABEL
 - description: Title of the notebook page displaying the details about the certificate
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Xehetasunak</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -391,7 +391,7 @@ IDS_SELECT_ALL
 - description: In Title Case: The text label of the Select All menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Hautatu Dena</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -411,7 +411,7 @@ IDS_SELECT_ALL
 - description: The text label of the New Tab menu item
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Fitxa berria</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -611,7 +611,7 @@ IDS_CONTENT_CONTEXT_PLAY
 - description: In Title Case: The name of the Save Page As command in the content area context menu
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Gorde honela...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -647,7 +647,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: The name of the Save Audio As command in the content area context menu
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Gorde audioa honela...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -657,7 +657,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: In Title Case: The text label of the New Tab menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Fitxa Berria</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -667,7 +667,7 @@ IDS_CONTENT_CONTEXT_FORWARD
 - description: In Title Case: Switches into fullscreen mode
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Pantaila Osoa</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -749,7 +749,7 @@ IDS_CONTENT_CONTEXT_SEARCHWEBFOR
         <extracomment>IDS_CERT_DETAILS_EXPORT_CERTIFICATE
 - description: The label of the button to export the selected certificate
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Esportatu...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -762,7 +762,7 @@ IDS_SETTINGS
 - description: In Title Case: The text label of the Settings menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Ezarpenak</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -802,7 +802,7 @@ IDS_SETTINGS
 - description: Switches into fullscreen mode
 - condition: not pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Pantaila osoa</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -846,7 +846,7 @@ IDS_BOOKMARK_MANAGER_TITLE
         <extracomment>IDS_EDIT
 - description: Edit menu item
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Aldatu</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -879,7 +879,7 @@ IDS_FIND
 - description: In Title Case: The text label of the Find... menu item
 - condition: pp_ifdef('use_titlecase')
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Bilatu...</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -908,7 +908,7 @@ IDS_FIND
         <extracomment>IDS_BOOMARK_EDITOR_NEW_FOLDER_MENU_ITEM
 - description: Text on the new folder context menu item.
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Karpeta berria</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -917,7 +917,7 @@ IDS_FIND
         <extracomment>IDS_CERT_INFO_GENERAL_TAB_LABEL
 - description: Title of the notebook page displaying the basic info about the certificate
 </extracomment>
-        <translation type="unfinished"/>
+        <translation>Orokorra</translation>
         <extra-po-references>(used in the following branches: default)</extra-po-references>
     </message>
     <message>
@@ -1021,19 +1021,19 @@ IDS_SXS_SHORTCUT_NAME
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkList.qml" line="221"/>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Eginda</translation>
     </message>
 </context><context>
     <name>BookmarkListEditDialog</name>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="134"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Utzi</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="135"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Ados</translation>
     </message>
     <message>
         <location filename="../chrome/browser/qt/common/BookmarkListEditDialog.qml" line="274"/>

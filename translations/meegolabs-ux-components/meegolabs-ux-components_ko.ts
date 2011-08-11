@@ -29,7 +29,7 @@
     <message>
         <location filename="../../src/components/ContactsPicker.qml" line="230"/>
         <source>Type to search</source>
-        <translation type="unfinished"/>
+        <translation>검색하려면 입력하십시오</translation>
     </message>
     <message>
         <location filename="../../src/components/ContactsPicker.qml" line="397"/>
@@ -67,7 +67,7 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="44"/>
         <source>1 min ago</source>
         <extracomment>Fuzzy date description</extracomment>
-        <translation>1 분 전</translation>
+        <translation>1분 전</translation>
     </message>
     <message numerus="yes">
         <location filename="../../src/kernel/relativetimestamp.cpp" line="47"/>
@@ -79,13 +79,13 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="50"/>
         <source>Half an hour ago</source>
         <extracomment>Fuzzy date description</extracomment>
-        <translation>반 시간 전</translation>
+        <translation>30</translation>
     </message>
     <message>
         <location filename="../../src/kernel/relativetimestamp.cpp" line="53"/>
         <source>An hour ago</source>
         <extracomment>Fuzzy date description</extracomment>
-        <translation>한 시간 전</translation>
+        <translation>1시간 전</translation>
     </message>
     <message>
         <location filename="../../src/kernel/relativetimestamp.cpp" line="56"/>
@@ -157,7 +157,7 @@
         <location filename="../../src/kernel/relativetimestamp.cpp" line="100"/>
         <source>Last year</source>
         <extracomment>Fuzzy date description</extracomment>
-        <translation>지난 해</translation>
+        <translation>작년</translation>
     </message>
     <message numerus="yes">
         <location filename="../../src/kernel/relativetimestamp.cpp" line="104"/>
@@ -349,21 +349,21 @@
         <source>dddd d</source>
         <comment>DMY</comment>
         <extracomment>weekday and day where user chose DMY order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>dddd d일</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="627"/>
         <source>dddd d</source>
         <comment>YMD</comment>
         <extracomment>weekday and day where user chose YMD order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>dddd d일</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="631"/>
         <source>dddd d</source>
         <comment>MDY</comment>
         <extracomment>weekday and day where user chose MDY order (e.g. Mon 31) Translate the format delimiters, not order dddd = long day of week, d = day of month (QDateTime format string)</extracomment>
-        <translation type="unfinished"/>
+        <translation>dddd d일</translation>
     </message>
     <message>
         <location filename="../../lib/locale/meegolocale.cpp" line="642"/>

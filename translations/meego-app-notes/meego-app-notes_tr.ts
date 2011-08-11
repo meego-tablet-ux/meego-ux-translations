@@ -236,7 +236,9 @@
     <message numerus="yes">
         <location filename="../../NotebooksView.qml" line="409"/>
         <source>Are you sure you want to delete these %n notebook(s)?</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>Bu %n notdefter(ler)ini silmek istediğinizden emin misiniz ?
+
+Bu %n notdefter(ler)ini silmek istediğinizden emin misiniz ?</numerusform></translation>
     </message>
     <message>
         <location filename="../../NotebooksView.qml" line="411"/>

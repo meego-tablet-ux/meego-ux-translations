@@ -841,7 +841,7 @@
     <message>
         <location filename="../../ReadingView.qml" line="85"/>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="86"/>

@@ -4,18 +4,18 @@
     <message>
         <location filename="../../General/BacklightSettings.qml" line="42"/>
         <source>Set brightness automatically</source>
-        <translation type="unfinished"/>
+        <translation>Atur kecerahan secara otomatis</translation>
     </message>
     <message>
         <location filename="../../General/BacklightSettings.qml" line="76"/>
         <source>Brightness</source>
-        <translation type="unfinished"/>
+        <translation>Kecerahan</translation>
     </message>
     <message>
         <location filename="../../General/BacklightSettings.qml" line="88"/>
         <source>%1%</source>
         <comment>slider value percentage</comment>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -24,38 +24,38 @@
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="68"/>
         <source>Disconnect audio</source>
-        <translation type="unfinished"/>
+        <translation>Putuskan suara</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="72"/>
         <source>Connect audio</source>
-        <translation type="unfinished"/>
+        <translation>Sambungkan suara</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="90"/>
         <source>Connect input device</source>
-        <translation type="unfinished"/>
+        <translation>Sambungkan perangkat masukan</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="91"/>
         <source>Disconnect input device</source>
-        <translation type="unfinished"/>
+        <translation>Putuskan perangkat masukan</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="130"/>
         <source>Disconnect internet</source>
-        <translation type="unfinished"/>
+        <translation>Putuskan internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="130"/>
         <source>Connect internet</source>
-        <translation type="unfinished"/>
+        <translation>Sambungkan internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="190"/>
         <source>Connect actions</source>
-        <translation type="unfinished"/>
+        <translation>Aksi penyambungan</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="240"/>
@@ -81,17 +81,17 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="280"/>
         <source>Hardware address: %1</source>
-        <translation type="unfinished"/>
+        <translation>Alamat perangkat keras: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="289"/>
         <source>Icon: %1</source>
-        <translation type="unfinished"/>
+        <translation>Ikon: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="298"/>
         <source>UUIDs: %1</source>
-        <translation type="unfinished"/>
+        <translation>UUID: %1</translation>
     </message>
 </context>
 <context>
@@ -126,7 +126,7 @@
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="208"/>
         <source>Add device</source>
-        <translation type="unfinished"/>
+        <translation>Tambah perangkat</translation>
     </message>
 </context>
 <context>
@@ -139,67 +139,67 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="32"/>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Anda yakin?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="37"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Tidak</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="38"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ya</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="87"/>
         <source>Default search engine</source>
-        <translation type="unfinished"/>
+        <translation>Mesin pencari bawaan</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="128"/>
         <source>Show bookmarks bar</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan bilah penanda taut</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="157"/>
         <source>Offer to save passwords</source>
-        <translation type="unfinished"/>
+        <translation>Tawarkan untuk menyimpan sandi</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="185"/>
         <source>Allow JavaScript</source>
-        <translation type="unfinished"/>
+        <translation>Ijinkan JavaScript</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="213"/>
         <source>Allow Images</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan Gambar</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="242"/>
         <source>Allow Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Ijinkan Cookie</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="270"/>
         <source>Block popups</source>
-        <translation type="unfinished"/>
+        <translation>Blok popup</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="391"/>
         <source>Clear Browsing History</source>
-        <translation type="unfinished"/>
+        <translation>Bersihkan Riwayat Peramban</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="394"/>
         <source>Are you sure about clearing the browsing history?</source>
-        <translation type="unfinished"/>
+        <translation>Anda yakin akan menghapus riwayat peramban?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="404"/>
         <source>Clear Download History</source>
-        <translation type="unfinished"/>
+        <translation>Bersihkan Riwayat Unduh</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="407"/>
@@ -209,7 +209,7 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="417"/>
         <source>Clear Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Bersihkan Cookie</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="420"/>
@@ -219,7 +219,7 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="430"/>
         <source>Clear Saved Passwords</source>
-        <translation type="unfinished"/>
+        <translation>Bersihkan Sandi Tersimpan</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="433"/>
@@ -239,7 +239,7 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="471"/>
         <source>Go to Browser</source>
-        <translation type="unfinished"/>
+        <translation>Ke Peramban</translation>
     </message>
 </context>
 <context>
@@ -252,7 +252,7 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="30"/>
         <source>Manual APN entry</source>
-        <translation type="unfinished"/>
+        <translation>Entri APN manual</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="60"/>
@@ -338,38 +338,38 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="86"/>
         <source>Airplane mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode pesawat terbang</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="123"/>
         <source>Network connections</source>
-        <translation type="unfinished"/>
+        <translation>Sambungan jaringan</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="226"/>
         <source>Available networks</source>
-        <translation type="unfinished"/>
+        <translation>Jaringan tersedia</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="238"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="259"/>
         <source>Add network</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan jaringan</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="284"/>
         <source>Network name:</source>
-        <translation type="unfinished"/>
+        <translation>Nama jaringan:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="294"/>
         <source>Security type:</source>
-        <translation type="unfinished"/>
+        <translation>Jenis keamanan:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="304"/>
         <source>Security passphrase:</source>
-        <translation type="unfinished"/>
+        <translation>Frasa sandi keamanan:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="331"/>
@@ -392,33 +392,33 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="9"/>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Umum</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="32"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Bahasa</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="52"/>
         <source>Time and date</source>
-        <translation type="unfinished"/>
+        <translation>Waktu dan tanggal</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="92"/>
         <source>Sound</source>
-        <translation type="unfinished"/>
+        <translation>Suara</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="104"/>
         <source>%1%</source>
         <comment>%1 is volume level percentage</comment>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="134"/>
         <source>Backlight control</source>
-        <translation type="unfinished"/>
+        <translation>Kendali cahaya latar</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="162"/>
@@ -489,13 +489,13 @@
         <location filename="../../Sync/SyncEvoStatic.cpp" line="15"/>
         <source>Contacts</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Contacts&quot; or &quot;Google Contacts&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Kontak</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoStatic.cpp" line="19"/>
         <source>Calendar</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Calendar&quot; or</extracomment>
-        <translation type="unfinished"/>
+        <translation>Kalender</translation>
     </message>
 </context>
 <context>
@@ -516,32 +516,32 @@
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="28"/>
         <source>App Update</source>
-        <translation type="unfinished"/>
+        <translation>Pemutakhiran Apl</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="32"/>
         <source>New IM</source>
-        <translation type="unfinished"/>
+        <translation>IM baru</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="36"/>
         <source>Bluetooth Device Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Perangkat Bluetooth Diputuskan</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="40"/>
         <source>New Email</source>
-        <translation type="unfinished"/>
+        <translation>Surel Baru</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="44"/>
         <source>Social Web Friend Request</source>
-        <translation type="unfinished"/>
+        <translation>Permintaan Teman Web Sosial</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
         <source>Download Completed</source>
-        <translation type="unfinished"/>
+        <translation>Pengunduhan Selesai</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="72"/>
@@ -559,12 +559,12 @@
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="8"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>Panel</translation>
     </message>
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="80"/>
         <source>You can&apos;t turn off this panel</source>
-        <translation type="unfinished"/>
+        <translation>Anda tak bisa mematikan panel ini</translation>
     </message>
 </context>
 <context>
@@ -638,7 +638,7 @@
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="10"/>
         <source>Set Time Zone</source>
-        <translation type="unfinished"/>
+        <translation>Tata Zona Waktu</translation>
     </message>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="65"/>
@@ -651,12 +651,12 @@
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="101"/>
         <source>Application</source>
-        <translation type="unfinished"/>
+        <translation>Aplikasi</translation>
     </message>
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="102"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan</translation>
     </message>
 </context>
 <context>
@@ -783,7 +783,7 @@
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="219"/>
         <source>Current time zone is %1</source>
-        <translation type="unfinished"/>
+        <translation>Zona waktu kini adalah %1</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="242"/>
@@ -793,7 +793,7 @@
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="285"/>
         <source>Manual time zone selection</source>
-        <translation type="unfinished"/>
+        <translation>Pemilihan zona waktu manual</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="299"/>
@@ -886,7 +886,7 @@
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="280"/>
         <source>Remove connection</source>
-        <translation type="unfinished"/>
+        <translation>Buang koneksi</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="292"/>
@@ -901,7 +901,7 @@
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="357"/>
         <source>Subnet mask:</source>
-        <translation type="unfinished"/>
+        <translation>Mask subnet:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="379"/>
@@ -916,17 +916,17 @@
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="427"/>
         <source>Hardware address:</source>
-        <translation type="unfinished"/>
+        <translation>Alamat perangkat keras:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="455"/>
         <source>Security: </source>
-        <translation type="unfinished"/>
+        <translation>Keamanan: </translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="474"/>
         <source>Strength: </source>
-        <translation type="unfinished"/>
+        <translation>Kekuatan: </translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="486"/>
@@ -956,7 +956,7 @@
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="594"/>
         <source>Show password</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan sandi</translation>
     </message>
 </context>
 <context>

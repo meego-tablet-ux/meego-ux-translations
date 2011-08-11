@@ -116,7 +116,7 @@
     <message numerus="yes">
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="124"/>
         <source>Discoverable for %n, second(s)</source>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>Keşfedin %n saniye için</numerusform></translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="193"/>
@@ -559,12 +559,12 @@
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="8"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>Paneller</translation>
     </message>
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="80"/>
         <source>You can&apos;t turn off this panel</source>
-        <translation type="unfinished"/>
+        <translation>Bu paneli kapatamazsınız</translation>
     </message>
 </context>
 <context>
@@ -630,7 +630,7 @@
         <location filename="../../General/ScreensaverSettings.qml" line="74"/>
         <source>Screen Saver Timeout %n Minute(s)</source>
         <comment>time in minutes</comment>
-        <translation type="unfinished"><numerusform></numerusform></translation>
+        <translation><numerusform>Ekran Koruyucusu Zaman Aşımı %n Dakika(lar)</numerusform></translation>
     </message>
 </context>
 <context>
@@ -651,7 +651,7 @@
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="101"/>
         <source>Application</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama</translation>
     </message>
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="102"/>

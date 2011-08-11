@@ -439,7 +439,7 @@
         <source>%1: %2</source>
         <comment>SummaryBody</comment>
         <extracomment>%1 is notification summary, %2 is notification body</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>

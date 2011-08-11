@@ -22,40 +22,40 @@
         <extracomment>%1 is &quot;Photos&quot; panel title
 ----------
 %1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Fotos</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="93"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 configurações</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="95"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Photos&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 painel de conteúdo</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="98"/>
         <location filename="../../panelsrc/photos/photospanel.qml" line="130"/>
         <source>View some photos</source>
-        <translation type="unfinished"/>
+        <translation>Ver algumas fotos</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="98"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Limpar histórico</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="124"/>
         <source>The latest photos you view and your photo albums will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>As últimas fotos vistas e seu álbum de fotos aparecerão aqui.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="167"/>
         <source>You have cleared the Photos history</source>
-        <translation type="unfinished"/>
+        <translation>Você limpou o histórico de fotos</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="206"/>
@@ -87,12 +87,12 @@
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="244"/>
         <source>You have no photo albums</source>
-        <translation type="unfinished"/>
+        <translation>Você não tem álbum de fotos</translation>
     </message>
     <message>
         <location filename="../../panelsrc/photos/photospanel.qml" line="249"/>
         <source>Create an album</source>
-        <translation type="unfinished"/>
+        <translation>Criar um álbum</translation>
     </message>
     <message numerus="yes">
         <location filename="../../panelsrc/photos/photospanel.qml" line="278"/>

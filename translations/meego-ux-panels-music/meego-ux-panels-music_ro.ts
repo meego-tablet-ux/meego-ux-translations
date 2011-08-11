@@ -5,19 +5,19 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="56"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="249"/>
         <source>Recently played</source>
-        <translation type="unfinished"/>
+        <translation>Rulate recent</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="57"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="311"/>
         <source>Coming up in play queue</source>
-        <translation type="unfinished"/>
+        <translation>În curând în coada de rulare</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="58"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="418"/>
         <source>Playlists</source>
-        <translation type="unfinished"/>
+        <translation>Liste de redare</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="94"/>
@@ -28,40 +28,40 @@
         <extracomment>%1 is &quot;Music&quot; panel title
 ----------
 %1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Muzică</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="100"/>
         <source>%1 settings</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 setări</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="102"/>
         <source>%1 panel content</source>
         <extracomment>%1 is &quot;Music&quot; panel title</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 conţinut panou</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="170"/>
         <source>Play some music</source>
-        <translation type="unfinished"/>
+        <translation>Redă niște muzică</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="105"/>
         <source>Clear history</source>
-        <translation type="unfinished"/>
+        <translation>Curăţă istoricul</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="164"/>
         <source>The latest music you play and your playlists will appear here.</source>
-        <translation type="unfinished"/>
+        <translation>Cea mai recent rulată muzică şi listele de redare vor apărea aici.</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="213"/>
         <source>Currently playing</source>
-        <translation type="unfinished"/>
+        <translation>Rulează acum</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="261"/>
@@ -69,7 +69,7 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="320"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="322"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Deschide</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="261"/>
@@ -79,7 +79,7 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="425"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="428"/>
         <source>Play</source>
-        <translation type="unfinished"/>
+        <translation>Rulează</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="261"/>
@@ -87,7 +87,7 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="320"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="332"/>
         <source>Share</source>
-        <translation type="unfinished"/>
+        <translation>Distribuie</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="261"/>
@@ -95,27 +95,27 @@
         <location filename="../../panelsrc/music/musicpanel.qml" line="425"/>
         <location filename="../../panelsrc/music/musicpanel.qml" line="433"/>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Ascunde</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="366"/>
         <source>Your play queue is empty</source>
-        <translation type="unfinished"/>
+        <translation>Coada dvs. de redare este goală</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="384"/>
         <source>Add music to the play queue</source>
-        <translation type="unfinished"/>
+        <translation>Adăugaţi muzică la coada de rulare</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="452"/>
         <source>You have no playlists</source>
-        <translation type="unfinished"/>
+        <translation>Nu aveţi liste de redare</translation>
     </message>
     <message>
         <location filename="../../panelsrc/music/musicpanel.qml" line="457"/>
         <source>Create a playlist</source>
-        <translation type="unfinished"/>
+        <translation>Crează o listă de redare</translation>
     </message>
 </context>
 </TS>

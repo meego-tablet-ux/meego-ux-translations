@@ -51,7 +51,7 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../CreateNewTaskRow.qml" line="101"/>
         <source>Select Due Date</source>
-        <translation type="unfinished"/>
+        <translation>Fälligkeitsdatum wählen</translation>
     </message>
 </context>
 <context>
@@ -59,7 +59,7 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../model/qsettingsbackend.cpp" line="76"/>
         <source>MMMM d</source>
-        <translation type="unfinished"/>
+        <translation>MMMM d</translation>
     </message>
 </context>
 <context>
@@ -67,27 +67,27 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../TaskListPicker.qml" line="103"/>
         <source>Create a new list</source>
-        <translation type="unfinished"/>
+        <translation>Neue Liste erstellen</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="131"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="132"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="133"/>
         <source>Please name the new list</source>
-        <translation type="unfinished"/>
+        <translation>Bitte die neue Liste benennen</translation>
     </message>
     <message>
         <location filename="../../TaskListPicker.qml" line="138"/>
         <source>List name</source>
-        <translation type="unfinished"/>
+        <translation>Listenname</translation>
     </message>
 </context>
 <context>
@@ -106,22 +106,22 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../TaskListView.qml" line="550"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nein</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="551"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ja</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="556"/>
         <source>Are you sure you want to delete these %1 tasks?</source>
-        <translation type="unfinished"/>
+        <translation>Möchten Sie diese %1 Aufgaben wirklich löschen?</translation>
     </message>
     <message>
         <location filename="../../TaskListView.qml" line="559"/>
         <source>Are you sure you want to delete this task?</source>
-        <translation type="unfinished"/>
+        <translation>Möchten Sie diese Aufgabe wirklich löschen?</translation>
     </message>
 </context>
 <context>
@@ -129,7 +129,7 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../model/tasksdatabase.cpp" line="82"/>
         <source>Default List</source>
-        <translation type="unfinished"/>
+        <translation>Standardliste</translation>
     </message>
 </context>
 <context>
@@ -137,62 +137,62 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../TasksDetailMenu.qml" line="60"/>
         <source>Insert task name</source>
-        <translation type="unfinished"/>
+        <translation>Aufgabenname einfügen</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="71"/>
         <source>List:</source>
-        <translation type="unfinished"/>
+        <translation>Liste:</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="136"/>
         <source>Due date:</source>
-        <translation type="unfinished"/>
+        <translation>Fälligkeitsdatum:</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="149"/>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Datum</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="150"/>
         <source>Someday</source>
-        <translation type="unfinished"/>
+        <translation>Irgendwann</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="157"/>
         <source>Set due date</source>
-        <translation type="unfinished"/>
+        <translation>Fälligkeitsdatum festlegen</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="183"/>
         <source>Notes</source>
-        <translation type="unfinished"/>
+        <translation>Notizen</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="191"/>
         <source>Add a note here</source>
-        <translation type="unfinished"/>
+        <translation>Notiz hier hinzufügen</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="198"/>
         <source>Delete task</source>
-        <translation type="unfinished"/>
+        <translation>Aufgabe löschen</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="219"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="231"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="../../TasksDetailMenu.qml" line="248"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Schließen</translation>
     </message>
 </context>
 <context>
@@ -211,7 +211,7 @@ This line is used for indication amount of tasks when a category is collapsed.</
         <location filename="../../main.qml" line="19"/>
         <location filename="../../main.qml" line="21"/>
         <source>Order: %1</source>
-        <translation type="unfinished"/>
+        <translation>Reihenfolge: %1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="22"/>
@@ -326,7 +326,7 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../main.qml" line="44"/>
         <source>Do you want to delete this list and all of its tasks?</source>
-        <translation type="unfinished"/>
+        <translation>Möchten Sie diese Liste und alle enthaltenen Aufgaben löschen?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="45"/>
@@ -343,54 +343,54 @@ This line is used for indication amount of tasks when a category is collapsed.</
         <location filename="../../main.qml" line="456"/>
         <location filename="../../main.qml" line="1254"/>
         <source>List name</source>
-        <translation type="unfinished"/>
+        <translation>Listenname</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="706"/>
         <source>Use the default task list, or make a new one</source>
-        <translation type="unfinished"/>
+        <translation>Standardliste verwenden oder eine neue erstellen</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="707"/>
         <source>Create a new task list</source>
-        <translation type="unfinished"/>
+        <translation>Neue Aufgabenliste erstellen</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="714"/>
         <source>What&apos;s a task list?</source>
-        <translation type="unfinished"/>
+        <translation>Was ist eine Aufgabenliste?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="717"/>
         <source>A task list is a collection of tasks. Use the default task list we have created for you, or make a new one.</source>
-        <translation type="unfinished"/>
+        <translation>Eine Aufgabenliste ist eine Sammlung von Aufgaben. Verwenden Sie Standard-Aufgabenliste oder erstellen Sie eine neue.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="718"/>
         <location filename="../../main.qml" line="906"/>
         <source>How do I create tasks?</source>
-        <translation type="unfinished"/>
+        <translation>Wie erstelle ich Aufgaben?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="721"/>
         <location filename="../../main.qml" line="909"/>
         <source>To create a task, start by selecting a task list. Then tap on the new task line.</source>
-        <translation type="unfinished"/>
+        <translation>Um eine Aufgabe zu erstellen, wählen Sie zuerst eine Aufgabenliste. Tippen Sie dann auf die neue Aufgabenzeile.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="722"/>
         <source>How do I check completed tasks?</source>
-        <translation type="unfinished"/>
+        <translation>Wie markiere ich abgeschlossene Aufgaben?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="725"/>
         <source>To mark a task as completed, tap the check box.</source>
-        <translation type="unfinished"/>
+        <translation>Um eine Aufgabe als abgeschlossen zu markieren, tippen Sie auf das Kästchen.</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="878"/>
         <source>You have no due tasks</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben keine fälligen Aufgaben</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="880"/>
@@ -416,7 +416,7 @@ This line is used for indication amount of tasks when a category is collapsed.</
         <location filename="../../main.qml" line="896"/>
         <location filename="../../main.qml" line="908"/>
         <source>Select a task list</source>
-        <translation type="unfinished"/>
+        <translation>Aufgabenliste wählen</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="946"/>
@@ -427,17 +427,17 @@ This line is used for indication amount of tasks when a category is collapsed.</
     <message>
         <location filename="../../main.qml" line="1231"/>
         <source>Are you sure you want to delete the completed tasks?</source>
-        <translation type="unfinished"/>
+        <translation>Möchten Sie die abgeschlossenen Aufgaben wirklich löschen?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1232"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ja</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="1233"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nein</translation>
     </message>
 </context>
 </TS>

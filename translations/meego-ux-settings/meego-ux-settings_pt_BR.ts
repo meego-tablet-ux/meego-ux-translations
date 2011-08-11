@@ -4,18 +4,18 @@
     <message>
         <location filename="../../General/BacklightSettings.qml" line="42"/>
         <source>Set brightness automatically</source>
-        <translation type="unfinished"/>
+        <translation>Definir brilho automáticamente</translation>
     </message>
     <message>
         <location filename="../../General/BacklightSettings.qml" line="76"/>
         <source>Brightness</source>
-        <translation type="unfinished"/>
+        <translation>Brilho</translation>
     </message>
     <message>
         <location filename="../../General/BacklightSettings.qml" line="88"/>
         <source>%1%</source>
         <comment>slider value percentage</comment>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -24,38 +24,38 @@
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="68"/>
         <source>Disconnect audio</source>
-        <translation type="unfinished"/>
+        <translation>Desconectar áudio</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="63"/>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="72"/>
         <source>Connect audio</source>
-        <translation type="unfinished"/>
+        <translation>Conectar áudio</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="90"/>
         <source>Connect input device</source>
-        <translation type="unfinished"/>
+        <translation>Conectar dispositivo de entrada</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="91"/>
         <source>Disconnect input device</source>
-        <translation type="unfinished"/>
+        <translation>Desconectar dispositivo de entrada</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="130"/>
         <source>Disconnect internet</source>
-        <translation type="unfinished"/>
+        <translation>Desconectar da Internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="130"/>
         <source>Connect internet</source>
-        <translation type="unfinished"/>
+        <translation>Conectar na internet</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="190"/>
         <source>Connect actions</source>
-        <translation type="unfinished"/>
+        <translation>Ações de conexão</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="240"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="280"/>
         <source>Hardware address: %1</source>
-        <translation type="unfinished"/>
+        <translation>Endereço de Hardware: %1</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothDeviceExpandingBox.qml" line="289"/>
@@ -111,22 +111,22 @@
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="111"/>
         <source>Discoverable (%1)</source>
         <extracomment>this is not currently user visible:</extracomment>
-        <translation type="unfinished"/>
+        <translation>Visível (%1)</translation>
     </message>
     <message numerus="yes">
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="124"/>
         <source>Discoverable for %n, second(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Visível por %n segundo</numerusform><numerusform>Visível por %n segundos</numerusform></translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="193"/>
         <source>Paired devices</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivos pareados</translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="208"/>
         <source>Add device</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar dispositivo</translation>
     </message>
 </context>
 <context>
@@ -139,107 +139,107 @@
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="32"/>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Tem certeza?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="37"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Não</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="38"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Sim</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="87"/>
         <source>Default search engine</source>
-        <translation type="unfinished"/>
+        <translation>Sistema de busca padrão</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="128"/>
         <source>Show bookmarks bar</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar barra de favoritos</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="157"/>
         <source>Offer to save passwords</source>
-        <translation type="unfinished"/>
+        <translation>Perguntar para salvar senhas</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="185"/>
         <source>Allow JavaScript</source>
-        <translation type="unfinished"/>
+        <translation>Permitir JavaScript</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="213"/>
         <source>Allow Images</source>
-        <translation type="unfinished"/>
+        <translation>Permitir Imagens</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="242"/>
         <source>Allow Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Permitir Cookies</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="270"/>
         <source>Block popups</source>
-        <translation type="unfinished"/>
+        <translation>Bloquear Popups</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="391"/>
         <source>Clear Browsing History</source>
-        <translation type="unfinished"/>
+        <translation>Limpar Histórico de Navegação</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="394"/>
         <source>Are you sure about clearing the browsing history?</source>
-        <translation type="unfinished"/>
+        <translation>Tem certeza que deseja limpar o histórico de navegação?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="404"/>
         <source>Clear Download History</source>
-        <translation type="unfinished"/>
+        <translation>Limpar Histórico de Downloads</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="407"/>
         <source>Are you sure about clearing the download history?</source>
-        <translation type="unfinished"/>
+        <translation>Tem certeza que deseja limpar o histórico de downloads?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="417"/>
         <source>Clear Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Limpar Cookies</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="420"/>
         <source>Are you sure about clearing your cookies?</source>
-        <translation type="unfinished"/>
+        <translation>Tem certeza que deseja limpar os cookies?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="430"/>
         <source>Clear Saved Passwords</source>
-        <translation type="unfinished"/>
+        <translation>Limpar Senhas Salvas</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="433"/>
         <source>Are you sure about clearing your saved passwords?</source>
-        <translation type="unfinished"/>
+        <translation>Tem certeza que deseja limpar as senhas salvas?</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="443"/>
         <source>Restore default settings</source>
-        <translation type="unfinished"/>
+        <translation>Restaurar configurações padrão</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="446"/>
         <source>All browser settings will be reset to factory setting</source>
-        <translation type="unfinished"/>
+        <translation>Todas as configurações do navegador serão revertidas para o padrão</translation>
     </message>
     <message>
         <location filename="../../Browser/BrowserSettings.qml" line="471"/>
         <source>Go to Browser</source>
-        <translation type="unfinished"/>
+        <translation>Ir paga o Navegador</translation>
     </message>
 </context>
 <context>
@@ -252,7 +252,7 @@
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="30"/>
         <source>Manual APN entry</source>
-        <translation type="unfinished"/>
+        <translation>Entrada manual de APN</translation>
     </message>
     <message>
         <location filename="../../Wifi/CellularSettings.qml" line="60"/>
@@ -338,38 +338,38 @@
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="86"/>
         <source>Airplane mode</source>
-        <translation type="unfinished"/>
+        <translation>Modo avião</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="123"/>
         <source>Network connections</source>
-        <translation type="unfinished"/>
+        <translation>Conexões de rede</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="226"/>
         <source>Available networks</source>
-        <translation type="unfinished"/>
+        <translation>Rede disponíveis</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="238"/>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="259"/>
         <source>Add network</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar rede</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="284"/>
         <source>Network name:</source>
-        <translation type="unfinished"/>
+        <translation>Nome da rede:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="294"/>
         <source>Security type:</source>
-        <translation type="unfinished"/>
+        <translation>Tipo de segurança</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="304"/>
         <source>Security passphrase:</source>
-        <translation type="unfinished"/>
+        <translation>Senha de segurança:</translation>
     </message>
     <message>
         <location filename="../../Wifi/ConnectionsSettings.qml" line="331"/>
@@ -397,12 +397,12 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="32"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Idioma</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="52"/>
         <source>Time and date</source>
-        <translation type="unfinished"/>
+        <translation>Hora e data</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="92"/>
@@ -413,17 +413,17 @@
         <location filename="../../General/GeneralSettings.qml" line="104"/>
         <source>%1%</source>
         <comment>%1 is volume level percentage</comment>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="134"/>
         <source>Backlight control</source>
-        <translation type="unfinished"/>
+        <translation>Controle do brilho traseiro</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="162"/>
         <source>Screen saver</source>
-        <translation type="unfinished"/>
+        <translation>Proteção de tela</translation>
     </message>
 </context>
 <context>
@@ -489,13 +489,13 @@
         <location filename="../../Sync/SyncEvoStatic.cpp" line="15"/>
         <source>Contacts</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Contacts&quot; or &quot;Google Contacts&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Contatos</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoStatic.cpp" line="19"/>
         <source>Calendar</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Calendar&quot; or</extracomment>
-        <translation type="unfinished"/>
+        <translation>Calendário</translation>
     </message>
 </context>
 <context>
@@ -516,32 +516,32 @@
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="28"/>
         <source>App Update</source>
-        <translation type="unfinished"/>
+        <translation>Atualização de App</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="32"/>
         <source>New IM</source>
-        <translation type="unfinished"/>
+        <translation>Novo MI</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="36"/>
         <source>Bluetooth Device Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo Bluetooth Desconectado</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="40"/>
         <source>New Email</source>
-        <translation type="unfinished"/>
+        <translation>Novo Email</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="44"/>
         <source>Social Web Friend Request</source>
-        <translation type="unfinished"/>
+        <translation>Solicitações de Amigos da Rede Social</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
         <source>Download Completed</source>
-        <translation type="unfinished"/>
+        <translation>Download Concluído</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="72"/>
@@ -559,12 +559,12 @@
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="8"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>Painéis</translation>
     </message>
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="80"/>
         <source>You can&apos;t turn off this panel</source>
-        <translation type="unfinished"/>
+        <translation>Você não pode desligar este painel</translation>
     </message>
 </context>
 <context>
@@ -624,13 +624,13 @@
     <message>
         <location filename="../../General/ScreensaverSettings.qml" line="38"/>
         <source>Screen Saver Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Proteção de Tela Habilitado</translation>
     </message>
     <message numerus="yes">
         <location filename="../../General/ScreensaverSettings.qml" line="74"/>
         <source>Screen Saver Timeout %n Minute(s)</source>
         <comment>time in minutes</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>1 Minuto para tempo limite do protetor de tela</numerusform><numerusform>%n Minutos para o tempo limite do protetor de tela</numerusform></translation>
     </message>
 </context>
 <context>
@@ -638,7 +638,7 @@
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="10"/>
         <source>Set Time Zone</source>
-        <translation type="unfinished"/>
+        <translation>Definir Fuso Horário</translation>
     </message>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="65"/>
@@ -651,12 +651,12 @@
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="101"/>
         <source>Application</source>
-        <translation type="unfinished"/>
+        <translation>Aplicativo</translation>
     </message>
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="102"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Configurações</translation>
     </message>
 </context>
 <context>
@@ -783,7 +783,7 @@
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="219"/>
         <source>Current time zone is %1</source>
-        <translation type="unfinished"/>
+        <translation>Fuso horário atual é %1</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="242"/>
@@ -793,7 +793,7 @@
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="285"/>
         <source>Manual time zone selection</source>
-        <translation type="unfinished"/>
+        <translation>Seleção manual de fuso horário</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="299"/>
@@ -886,7 +886,7 @@
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="280"/>
         <source>Remove connection</source>
-        <translation type="unfinished"/>
+        <translation>Remover conexão</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="292"/>
@@ -901,7 +901,7 @@
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="357"/>
         <source>Subnet mask:</source>
-        <translation type="unfinished"/>
+        <translation>Máscara de Subrede:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="379"/>
@@ -916,17 +916,17 @@
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="427"/>
         <source>Hardware address:</source>
-        <translation type="unfinished"/>
+        <translation>Endereço de Hardware:</translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="455"/>
         <source>Security: </source>
-        <translation type="unfinished"/>
+        <translation>Segurança: </translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="474"/>
         <source>Strength: </source>
-        <translation type="unfinished"/>
+        <translation>Força: </translation>
     </message>
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="486"/>
@@ -956,7 +956,7 @@
     <message>
         <location filename="../../Wifi/WifiExpandingBox.qml" line="594"/>
         <source>Show password</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar senha</translation>
     </message>
 </context>
 <context>

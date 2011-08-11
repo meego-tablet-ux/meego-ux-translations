@@ -29,13 +29,13 @@
         <location filename="../../AlbumsView.qml" line="39"/>
         <source>Rename album</source>
         <extracomment>This is a title for the album rename modal dialog</extracomment>
-        <translation type="unfinished"/>
+        <translation>Renomear álbum</translation>
     </message>
     <message>
         <location filename="../../AlbumsView.qml" line="41"/>
         <source>Rename</source>
         <extracomment>This is a rename album modal dialog accept button label</extracomment>
-        <translation type="unfinished"/>
+        <translation>Renomear</translation>
     </message>
 </context>
 <context>
@@ -63,7 +63,7 @@
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>This is a context menu command for marking photos as favorite</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favorito</translation>
     </message>
     <message>
         <location filename="../../PhotosView.qml" line="44"/>
@@ -184,7 +184,7 @@ This is the title for the photos view</extracomment>
         <source>Favorite</source>
         <comment>Verb</comment>
         <extracomment>This is a context menu option for marking items (photos) as favorite</extracomment>
-        <translation type="unfinished"/>
+        <translation>Favorito</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="172"/>
@@ -274,7 +274,7 @@ This is the title for the photos view</extracomment>
         <location filename="../../main.qml" line="201"/>
         <source>Are you sure you want to delete this photo?</source>
         <extracomment>This is a label for the photo deletion confirmation modal dialog when removing a photo</extracomment>
-        <translation type="unfinished"/>
+        <translation>Tem certeza que deseja remover esta foto?</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="203"/>
@@ -353,14 +353,16 @@ This is the title for the photos view</extracomment>
         <source>This photo was taken on
 %1</source>
         <extracomment>This is a label text for the photo details dialog. The %1 is a fuzzy date/time string, e.g. &quot;1/31/11 - a few months ago&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>Esta foto foi tirada em
+%1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="232"/>
         <source>This album was added on
 %1</source>
         <extracomment>This is a label text for the photo details dialog. The %1 is a fuzzy date/time string, e.g. &quot;1/31/11 - a few months ago&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>Este album foi adicionado em
+%1</translation>
     </message>
     <message>
         <location filename="../../main.qml" line="242"/>

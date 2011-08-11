@@ -384,7 +384,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="167"/>
         <source>Edit email settings manually</source>
-        <translation type="unfinished"/>
+        <translation>E-posta ayarlarını el ile düzenle</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="180"/>
@@ -862,7 +862,7 @@
         <location filename="../../ReadingView.qml" line="190"/>
         <source>Cc</source>
         <extracomment>Label for CC recipient view toggle button.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Cc</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="211"/>
@@ -873,7 +873,7 @@
         <location filename="../../ReadingView.qml" line="222"/>
         <source>Cc:</source>
         <extracomment>&quot;Cc&quot; (carbon copy) recipients label</extracomment>
-        <translation type="unfinished"/>
+        <translation>Cc:</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="251"/>
@@ -967,7 +967,7 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="131"/>
         <source>Microsoft Live Hotmail</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Live Hotmail</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="139"/>
@@ -1005,12 +1005,12 @@
     <message>
         <location filename="../../settings/TextControl.qml" line="56"/>
         <source>@gmail.com</source>
-        <translation type="unfinished"/>
+        <translation>@gmail.com</translation>
     </message>
     <message>
         <location filename="../../settings/TextControl.qml" line="58"/>
         <source>@yahoo.com</source>
-        <translation type="unfinished"/>
+        <translation>@yahoo.com</translation>
     </message>
 </context>
 <context>

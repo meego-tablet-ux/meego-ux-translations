@@ -5,7 +5,7 @@
         <location filename="../../alarmclock.qml" line="11"/>
         <source>Alarm</source>
         <extracomment>Title for the alarm clock alarm dialog box</extracomment>
-        <translation>알림</translation>
+        <translation>알람</translation>
     </message>
     <message>
         <location filename="../../alarmclock.qml" line="14"/>
@@ -47,7 +47,7 @@
         <location filename="../../incomingcall.qml" line="11"/>
         <source>Incoming call</source>
         <extracomment>Title for the incoming call dialog box</extracomment>
-        <translation>착신 전화</translation>
+        <translation>전화 </translation>
     </message>
     <message>
         <location filename="../../incomingcall.qml" line="14"/>

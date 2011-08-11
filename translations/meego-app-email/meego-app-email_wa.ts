@@ -5,7 +5,7 @@
         <location filename="../../settings/AccountExpandobox.qml" line="77"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../settings/AccountExpandobox.qml" line="106"/>
@@ -117,7 +117,7 @@
         <location filename="../../AccountPage.qml" line="116"/>
         <source>%1 - %2</source>
         <extracomment>%1 is email address, %2 is display name</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
 </context>
 <context>
@@ -158,7 +158,7 @@
         <location filename="../../settings/AccountSettings.qml" line="139"/>
         <source>&quot;%1&quot;</source>
         <extracomment>%1 is the email signature, a block of text appended to the end of an e-mail message.</extracomment>
-        <translation type="unfinished"/>
+        <translation>«%1»</translation>
     </message>
     <message>
         <location filename="../../settings/AccountSettings.qml" line="169"/>
@@ -384,7 +384,7 @@
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="167"/>
         <source>Edit email settings manually</source>
-        <translation type="unfinished"/>
+        <translation>Candjî l&apos; apontiaedje des emiles al mwin</translation>
     </message>
     <message>
         <location filename="../../settings/DetailsScreen.qml" line="180"/>
@@ -544,7 +544,7 @@
         <location filename="../../FolderListMenu.qml" line="359"/>
         <source>(%1)</source>
         <extracomment>%1 is the number of unread emails</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
 </context>
 <context>
@@ -862,7 +862,7 @@
         <location filename="../../ReadingView.qml" line="190"/>
         <source>Cc</source>
         <extracomment>Label for CC recipient view toggle button.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Cc</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="211"/>
@@ -873,7 +873,7 @@
         <location filename="../../ReadingView.qml" line="222"/>
         <source>Cc:</source>
         <extracomment>&quot;Cc&quot; (carbon copy) recipients label</extracomment>
-        <translation type="unfinished"/>
+        <translation>Cc:</translation>
     </message>
     <message>
         <location filename="../../ReadingView.qml" line="251"/>
@@ -957,17 +957,17 @@
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="120"/>
         <source>Yahoo!</source>
-        <translation type="unfinished"/>
+        <translation>Yahoo!</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="125"/>
         <source>AOL</source>
-        <translation type="unfinished"/>
+        <translation>AOL</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="131"/>
         <source>Microsoft Live Hotmail</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Live Hotmail</translation>
     </message>
     <message>
         <location filename="../../settings/RegisterScreen.qml" line="139"/>
@@ -1005,12 +1005,12 @@
     <message>
         <location filename="../../settings/TextControl.qml" line="56"/>
         <source>@gmail.com</source>
-        <translation type="unfinished"/>
+        <translation>@gmail.com</translation>
     </message>
     <message>
         <location filename="../../settings/TextControl.qml" line="58"/>
         <source>@yahoo.com</source>
-        <translation type="unfinished"/>
+        <translation>@yahoo.com</translation>
     </message>
 </context>
 <context>

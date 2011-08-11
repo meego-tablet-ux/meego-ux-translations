@@ -15,7 +15,7 @@
         <location filename="../../General/BacklightSettings.qml" line="88"/>
         <source>%1%</source>
         <comment>slider value percentage</comment>
-        <translation type="unfinished"/>
+        <translation>%1%</translation>
     </message>
 </context>
 <context>
@@ -111,12 +111,12 @@
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="111"/>
         <source>Discoverable (%1)</source>
         <extracomment>this is not currently user visible:</extracomment>
-        <translation type="unfinished"/>
+        <translation>Discovråve (%1)</translation>
     </message>
     <message numerus="yes">
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="124"/>
         <source>Discoverable for %n, second(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Discovråve ene segonde å long</numerusform><numerusform>Discovråve %n segondes å long</numerusform></translation>
     </message>
     <message>
         <location filename="../../Bluetooth/BluetoothSettings.qml" line="193"/>
@@ -397,7 +397,7 @@
     <message>
         <location filename="../../General/GeneralSettings.qml" line="32"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Lingaedje</translation>
     </message>
     <message>
         <location filename="../../General/GeneralSettings.qml" line="52"/>
@@ -489,13 +489,13 @@
         <location filename="../../Sync/SyncEvoStatic.cpp" line="15"/>
         <source>Contacts</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Contacts&quot; or &quot;Google Contacts&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Contaks</translation>
     </message>
     <message>
         <location filename="../../Sync/SyncEvoStatic.cpp" line="19"/>
         <source>Calendar</source>
         <extracomment>Sync storage type often used like so: &quot;Sync Calendar&quot; or</extracomment>
-        <translation type="unfinished"/>
+        <translation>Calindrî</translation>
     </message>
 </context>
 <context>
@@ -516,32 +516,32 @@
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="28"/>
         <source>App Update</source>
-        <translation type="unfinished"/>
+        <translation>Metaedje a djoû d&apos; ene App</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="32"/>
         <source>New IM</source>
-        <translation type="unfinished"/>
+        <translation>Novea MSM</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="36"/>
         <source>Bluetooth Device Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Éndjin Bluetooth disraloyî</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="40"/>
         <source>New Email</source>
-        <translation type="unfinished"/>
+        <translation>Novea emile</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="44"/>
         <source>Social Web Friend Request</source>
-        <translation type="unfinished"/>
+        <translation>Dimande d&apos; esse soçon dal waibe sociåle</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="48"/>
         <source>Download Completed</source>
-        <translation type="unfinished"/>
+        <translation>Aberwetaedje tot fwait</translation>
     </message>
     <message>
         <location filename="../../Notifications/NotificationSettings.qml" line="72"/>
@@ -559,12 +559,12 @@
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="8"/>
         <source>Panels</source>
-        <translation type="unfinished"/>
+        <translation>Scriftôrs</translation>
     </message>
     <message>
         <location filename="../../Panels/PanelSettings.qml" line="80"/>
         <source>You can&apos;t turn off this panel</source>
-        <translation type="unfinished"/>
+        <translation>Vos n&apos; savoz disclitchî ç&apos; sicriftôr la</translation>
     </message>
 </context>
 <context>
@@ -630,7 +630,7 @@
         <location filename="../../General/ScreensaverSettings.qml" line="74"/>
         <source>Screen Saver Timeout %n Minute(s)</source>
         <comment>time in minutes</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Tårdjaedje do spårgneu del waitroule : %n munute</numerusform><numerusform>Tårdjaedje do spårgneu del waitroule : %n munutes</numerusform></translation>
     </message>
 </context>
 <context>
@@ -638,7 +638,7 @@
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="10"/>
         <source>Set Time Zone</source>
-        <translation type="unfinished"/>
+        <translation>Defini coisse ås eures</translation>
     </message>
     <message>
         <location filename="../../General/SetTimezoneMenu.qml" line="65"/>
@@ -651,7 +651,7 @@
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="101"/>
         <source>Application</source>
-        <translation type="unfinished"/>
+        <translation>Programe</translation>
     </message>
     <message>
         <location filename="../../Settings/SettingsModel.qml" line="102"/>
@@ -783,7 +783,7 @@
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="219"/>
         <source>Current time zone is %1</source>
-        <translation type="unfinished"/>
+        <translation>Li coisse ås eures do moumint est %1</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="242"/>
@@ -793,7 +793,7 @@
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="285"/>
         <source>Manual time zone selection</source>
-        <translation type="unfinished"/>
+        <translation>Tchoezixhaedje al mwin del coisse ås eures</translation>
     </message>
     <message>
         <location filename="../../General/TimeDateSettings.qml" line="299"/>

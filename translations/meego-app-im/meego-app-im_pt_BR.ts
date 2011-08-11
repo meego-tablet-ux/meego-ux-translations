@@ -932,22 +932,22 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../constants.js" line="155"/>
         <source>Sorry, there was a problem logging in. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <translation>Houve um erro ao efetuar o login. Remover a opção &apos;Requer Criptografia&apos; nas opções avançadas deverá resolver este problema.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="156"/>
         <source>Sorry, there was a problem logging in to %1. Deselecting the &apos;Encryption required&apos; option in Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <translation>Houve um erro ao efetuar login em %1. Remover a opção &apos;Requer Criptografia&apos; nas opções avançadas deverá resolver este problema.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="157"/>
         <source>Sorry, there was a problem logging in. Selecting the &apos;Ignore SSL certificate errors&apos; option in the account Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <translation>Houve um erro ao efetuar o login. Remover a opção &apos;Ignorar erros do certificado SSL&apos; nas opções avançadas deverá resolver este problema.</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="158"/>
         <source>Sorry, there was a problem logging in to %1. Selecting the &apos;Ignore SSL certificate errors&apos; option in the account Advanced settings should solve this problem.</source>
-        <translation type="unfinished"/>
+        <translation>Houve um erro ao efetuar o login em %1. Remover a opção &apos;Ignorar erros do certificado SSL&apos; nas opções avançadas deverá resolver este problema.</translation>
     </message>
 </context>
 <context>
@@ -961,17 +961,17 @@ Message indicating the contact has been added</extracomment>
         <location filename="../../plugin/IM/imconstants.js" line="6"/>
         <source>Do you really want to connect this account? By doing this all other %1 accounts will be disconnected.</source>
         <extracomment>%1 is the name of the service whose accounts are going to be disconnected, for example: Jabber or Google Talk</extracomment>
-        <translation type="unfinished"/>
+        <translation>Deseja realmente se conectar à esta conta? Fazendo isso, todas as outras %1 contas serão desconectadas.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="7"/>
         <source>There is already an account configured using this login. Please check your username.</source>
-        <translation type="unfinished"/>
+        <translation>Já existe uma conta configurada com este login. Check o nome do seu usuário.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="8"/>
         <source>Sorry, there was a problem logging in. Please check your username and password.</source>
-        <translation type="unfinished"/>
+        <translation>Houve um problema ao efetuar o login. Cheque o seu usuário e senha.</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="9"/>

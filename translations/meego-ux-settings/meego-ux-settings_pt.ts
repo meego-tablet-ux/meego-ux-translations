@@ -630,7 +630,7 @@
         <location filename="../../General/ScreensaverSettings.qml" line="74"/>
         <source>Screen Saver Timeout %n Minute(s)</source>
         <comment>time in minutes</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Atraso na Proteção de Ecrã %n Minuto(s)</numerusform><numerusform>Atraso na Proteção de Ecrã %n Minuto(s)</numerusform></translation>
     </message>
 </context>
 <context>

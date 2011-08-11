@@ -162,7 +162,7 @@
     <message>
         <location filename="../../ContactDelegate.qml" line="45"/>
         <source>Report abuse</source>
-        <translation type="unfinished"/>
+        <translation>Missbrauch melden</translation>
     </message>
 </context>
 <context>
@@ -185,7 +185,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="237"/>
         <source>%1 joined the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 ist dem Chat beigetreten</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="252"/>
@@ -205,7 +205,7 @@
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="261"/>
         <source>%1 left the chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 hat den Chat verlassen</translation>
     </message>
     <message>
         <location filename="../../telepathy-qml-lib/imconversationmodel.cpp" line="269"/>
@@ -291,7 +291,7 @@
         <extracomment>Message indicating the contact has been added
 ----------
 Message indicating the contact has been added</extracomment>
-        <translation type="unfinished"/>
+        <translation>wurde als Kontakt hinzugefügt</translation>
     </message>
 </context>
 <context>
@@ -322,7 +322,7 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../settings/ImSettings.qml" line="142"/>
         <source>Add an account</source>
-        <translation type="unfinished"/>
+        <translation>Konto hinzufügen</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="159"/>
@@ -342,7 +342,7 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../settings/ImSettings.qml" line="268"/>
         <source>Clear chat history</source>
-        <translation type="unfinished"/>
+        <translation>Chatverlauf löschen</translation>
     </message>
     <message>
         <location filename="../../settings/ImSettings.qml" line="292"/>
@@ -392,7 +392,7 @@ Message indicating the contact has been added</extracomment>
         <location filename="../../SearchHeader.qml" line="50"/>
         <source>%n matches found</source>
         <extracomment>%n is the number of items matching the search criteria</extracomment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Ein Treffer gefunden</numerusform><numerusform>%n Treffer gefunden</numerusform></translation>
     </message>
 </context>
 <context>
@@ -400,27 +400,27 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../StatusModel.qml" line="9"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>Verfügbar</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="14"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Abwesend</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="19"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Beschäftigt</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="24"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Unsichtbar</translation>
     </message>
     <message>
         <location filename="../../StatusModel.qml" line="29"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Offline</translation>
     </message>
 </context>
 <context>
@@ -448,7 +448,7 @@ Message indicating the contact has been added</extracomment>
         <location filename="../../constants.js" line="6"/>
         <location filename="../../constants.js" line="35"/>
         <source>Log out</source>
-        <translation type="unfinished"/>
+        <translation>Abmelden</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="7"/>
@@ -458,32 +458,32 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../constants.js" line="8"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="11"/>
         <source>Account list</source>
-        <translation type="unfinished"/>
+        <translation>Kontoliste</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="12"/>
         <source>Loading accounts...</source>
-        <translation type="unfinished"/>
+        <translation>Konten laden...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="13"/>
         <source>Choose an account</source>
-        <translation type="unfinished"/>
+        <translation>Konto wählen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="14"/>
         <source>Add an account</source>
-        <translation type="unfinished"/>
+        <translation>Konto hinzufügen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="15"/>
         <source>Your account has been added</source>
-        <translation type="unfinished"/>
+        <translation>Ihr Konto wurde hinzugefügt</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="18"/>
@@ -494,17 +494,17 @@ Message indicating the contact has been added</extracomment>
         <location filename="../../constants.js" line="19"/>
         <location filename="../../constants.js" line="104"/>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Senden</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="20"/>
         <source>Sending request</source>
-        <translation type="unfinished"/>
+        <translation>Anfrage senden</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="21"/>
         <source>Request sent</source>
-        <translation type="unfinished"/>
+        <translation>Anfrage gesendet</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="22"/>
@@ -514,257 +514,257 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../constants.js" line="25"/>
         <source>Update status</source>
-        <translation type="unfinished"/>
+        <translation>Status aktualisieren</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="26"/>
         <source>Your Status:</source>
-        <translation type="unfinished"/>
+        <translation>Ihr Status:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="27"/>
         <source>Custom status message</source>
-        <translation type="unfinished"/>
+        <translation>Eigene Statusnachricht</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="28"/>
         <location filename="../../constants.js" line="31"/>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Aktualisierungen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="29"/>
         <source>Change display name</source>
-        <translation type="unfinished"/>
+        <translation>Anzeigename ändern</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="30"/>
         <source>Display name</source>
-        <translation type="unfinished"/>
+        <translation>Anzeigename</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="32"/>
         <location filename="../../constants.js" line="58"/>
         <source>Add a friend</source>
-        <translation type="unfinished"/>
+        <translation>Als Freund hinzufügen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="33"/>
         <location filename="../../constants.js" line="79"/>
         <source>Clear chat history</source>
-        <translation type="unfinished"/>
+        <translation>Chatverlauf löschen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="34"/>
         <source>Log in</source>
-        <translation type="unfinished"/>
+        <translation>Anmelden</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="38"/>
         <source>Return to chat</source>
-        <translation type="unfinished"/>
+        <translation>Zum Chat zurückkehren</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="39"/>
         <source>Open chat</source>
-        <translation type="unfinished"/>
+        <translation>Chat öffnen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="40"/>
         <source>Call</source>
-        <translation type="unfinished"/>
+        <translation>Anrufen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="41"/>
         <source>Video call</source>
-        <translation type="unfinished"/>
+        <translation>Videoanruf</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="42"/>
         <source>Unblock</source>
-        <translation type="unfinished"/>
+        <translation>Freigeben</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="43"/>
         <source>Block</source>
-        <translation type="unfinished"/>
+        <translation>Blockieren</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="44"/>
         <location filename="../../constants.js" line="80"/>
         <source>End chat</source>
-        <translation type="unfinished"/>
+        <translation>Chat beenden</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="45"/>
         <source>Delete contact</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt löschen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="48"/>
         <location filename="../../constants.js" line="78"/>
         <source>Add contacts to chat</source>
-        <translation type="unfinished"/>
+        <translation>Kontakte zum Chat hinzufügen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="49"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="50"/>
         <location filename="../../constants.js" line="55"/>
         <location filename="../../constants.js" line="71"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="53"/>
         <source>Friend request from</source>
-        <translation type="unfinished"/>
+        <translation>Freundesanfrage von</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="54"/>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Annehmen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="59"/>
         <source>Loading contacts...</source>
-        <translation type="unfinished"/>
+        <translation>Kontakte laden...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="60"/>
         <source>You haven&apos;t added any friends yet</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben bisher noch keine Freunde hinzugefügt</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="61"/>
         <source>Account is offline</source>
-        <translation type="unfinished"/>
+        <translation>Konto ist offline</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="62"/>
         <source>Logging in...</source>
-        <translation type="unfinished"/>
+        <translation>Anmelden...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="65"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="66"/>
         <source>There was a problem downloading</source>
-        <translation type="unfinished"/>
+        <translation>Problem beim Herunterladen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="67"/>
         <source>There was a problem uploading</source>
-        <translation type="unfinished"/>
+        <translation>Problem beim Hochladen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="68"/>
         <source>Canceled</source>
-        <translation type="unfinished"/>
+        <translation>Abgebrochen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="69"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="70"/>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Ablehnen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="74"/>
         <source>Private chat</source>
-        <translation type="unfinished"/>
+        <translation>Privater Chat</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="75"/>
         <source>Add to contacts</source>
-        <translation type="unfinished"/>
+        <translation>Zu Kontakten hinzufügen</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="84"/>
         <source>(%1)</source>
         <extracomment>%1 is the file size</extracomment>
-        <translation type="unfinished"/>
+        <translation>(%1)</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="85"/>
         <source>Upload canceled:</source>
-        <translation type="unfinished"/>
+        <translation>Hochladen abgebrochen:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="86"/>
         <source>Sent:</source>
-        <translation type="unfinished"/>
+        <translation>Gesendet:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="87"/>
         <source>Uploading:</source>
-        <translation type="unfinished"/>
+        <translation>Hochladen:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="89"/>
         <source>%1 has sent you:</source>
         <extracomment>%1 is the nickname of the contact sending you a file</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 hat gesendet:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="91"/>
         <source>%1 is sending you:</source>
         <extracomment>%1 is the nickname of the contact sending you a file</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 sendet:</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="93"/>
         <source>%1 - %2</source>
         <extracomment>%1 is event describing what happened - %2 is date and time</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="95"/>
         <source>%1 tried to call - %2</source>
         <extracomment>%1 contact id who called - %2 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>%1 hat angerufen - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="97"/>
         <source>%1 rejected call - %2</source>
         <extracomment>%1 contact id who rejected the call - %2 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>Abgelehnter Anruf von %1 - %2</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="99"/>
         <source>%1 called - duration %2 - %3</source>
         <extracomment>%1 contact id who called - %2 duration of the call - %3 date time of the call</extracomment>
-        <translation type="unfinished"/>
+        <translation>Anruf mit %1 - %2 Dauer - %3</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="102"/>
         <source>Opening chat...</source>
-        <translation type="unfinished"/>
+        <translation>Chat öffnen...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="103"/>
         <source>Loading conversation history...</source>
-        <translation type="unfinished"/>
+        <translation>Konversationsverlauf laden...</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="105"/>
         <source>Group conversation</source>
-        <translation type="unfinished"/>
+        <translation>Gruppenkonversation</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="107"/>
         <source>Chat with %1</source>
         <extracomment>%1 is the nickname of the contact you are chatting with</extracomment>
-        <translation type="unfinished"/>
+        <translation>Chat mit %1</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="110"/>
@@ -789,12 +789,12 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../constants.js" line="118"/>
         <source>Older</source>
-        <translation type="unfinished"/>
+        <translation>Älter</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="119"/>
         <source>Newer</source>
-        <translation type="unfinished"/>
+        <translation>Neuer</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="122"/>
@@ -804,28 +804,28 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../constants.js" line="123"/>
         <source>Photo</source>
-        <translation type="unfinished"/>
+        <translation>Foto</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="124"/>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="125"/>
         <source>Music</source>
-        <translation type="unfinished"/>
+        <translation>Musik</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="126"/>
         <source>Contact Details</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktdetails</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="130"/>
         <source>Call with %1</source>
         <extracomment>%1 is the nickname of the contact you are in a call with</extracomment>
-        <translation type="unfinished"/>
+        <translation>Anruf mit %1</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="131"/>
@@ -840,22 +840,22 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../constants.js" line="133"/>
         <source>Disable camera</source>
-        <translation type="unfinished"/>
+        <translation>Kamera deaktivieren</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="134"/>
         <source>Enable camera</source>
-        <translation type="unfinished"/>
+        <translation>Kamera aktivieren</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="135"/>
         <source>Swap camera</source>
-        <translation type="unfinished"/>
+        <translation>Kamera wechseln</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="138"/>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Chat</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="139"/>
@@ -865,17 +865,17 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../constants.js" line="140"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>Verfügbar</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="141"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Beschäftigt</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="142"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Abwesend</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="143"/>
@@ -885,12 +885,12 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../constants.js" line="144"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="145"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Unsichtbar</translation>
     </message>
     <message>
         <location filename="../../constants.js" line="148"/>
@@ -974,27 +974,27 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="9"/>
         <source>Username:</source>
-        <translation type="unfinished"/>
+        <translation>Benutzername:</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="10"/>
         <source>Name / ID</source>
-        <translation type="unfinished"/>
+        <translation>Name / ID</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="11"/>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Kennwort:</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="12"/>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Kennwort</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="13"/>
         <source>Advanced settings</source>
-        <translation type="unfinished"/>
+        <translation>Erweiterte Einstellungen</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="16"/>
@@ -1005,53 +1005,53 @@ Message indicating the contact has been added</extracomment>
         <location filename="../../plugin/IM/imconstants.js" line="17"/>
         <location filename="../../plugin/IM/imconstants.js" line="24"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="20"/>
         <source>Add account</source>
-        <translation type="unfinished"/>
+        <translation>Konto hinzufügen</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="23"/>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Aktualisieren</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="25"/>
         <location filename="../../plugin/IM/imconstants.js" line="26"/>
         <source>Delete account</source>
-        <translation type="unfinished"/>
+        <translation>Konto löschen</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="27"/>
         <source>Are you sure to delete this account?</source>
-        <translation type="unfinished"/>
+        <translation>Möchten Sie dieses Konto wirklich löschen?</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="30"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ja</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="31"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nein</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="34"/>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>Verfügbar</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="35"/>
         <source>Busy</source>
-        <translation type="unfinished"/>
+        <translation>Beschäftigt</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="36"/>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Abwesend</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="37"/>
@@ -1061,12 +1061,12 @@ Message indicating the contact has been added</extracomment>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="38"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Offline</translation>
     </message>
     <message>
         <location filename="../../plugin/IM/imconstants.js" line="39"/>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Unsichtbar</translation>
     </message>
 </context>
 <context>
